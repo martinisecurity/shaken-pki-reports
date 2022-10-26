@@ -45,7 +45,7 @@ func PrintTotalReport(w io.Writer, r *LintTotalResult) {
 		fmt.Fprintln(w, "\\* The percent of certificates per issuer is calculated against total certificates from all issuers.\\")
 		fmt.Fprintln(w, "\\*\\* The percent of errors, warnings and notices is calculated against total observed certificates from the specified issuer.\\")
 		fmt.Fprintln(w, "\\*\\*\\* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.\\")
-		fmt.Fprintln(w, "\\*\\*\\*\\* For information on failed certificate repository retrievals see this [report](URL.md).\\")
+		fmt.Fprintf(w, "\\*\\*\\*\\* For information on failed certificate repository retrievals see this [report](URL.%s).\\\n", linkExt)
 		fmt.Fprintf(w, "\\*\\*\\*\\*\\* %d certificates skipped because they are currently expired.\\\n", r.LeafCertificates.ExpiredCertificates)
 		fmt.Fprintf(w, "\\*\\*\\*\\*\\*\\* %d certificates skipped because they are not currently trusted by the STI-PA.\n", r.LeafCertificates.UntrustedCertificates)
 	}
@@ -109,7 +109,7 @@ func PrintOrganizationReport(w io.Writer, name string, r *LintTotalResult) {
 		fmt.Fprintln(w, "|--------|------|--------|-----------|")
 		for code, issue := range issuer.Issues {
 			rule := lint.GlobalRegistry().ByName(code)
-			codeLink := fmt.Sprintf("[%s](ISSUES/%s.md#%s)", code, code, strings.ReplaceAll(strings.ToLower(issuerType), " ", "-"))
+			codeLink := fmt.Sprintf("[%s](ISSUES/%s.%s#%s)", code, code, linkExt, strings.ReplaceAll(strings.ToLower(issuerType), " ", "-"))
 			fmt.Fprintf(w, "| %s | %s | %s | %d |\n", statusToString(issue.Type), codeLink, rule.Source, issue.Amount)
 		}
 
@@ -134,12 +134,12 @@ func PrintOrganizationReport(w io.Writer, name string, r *LintTotalResult) {
 				certReport.Cert.NotBefore.Format(time.RFC822),                                            // created at
 				certReport.Cert.Subject.CommonName,                                                       // name
 				fmt.Sprintf("%t", certReport.Result.ErrorsPresent || certReport.Result.WarningsPresent),  // problems
-				fmt.Sprintf("[view](%s)", url.PathEscape(path.Join(certReport.Thumbprint, "README.md"))), // link
+				fmt.Sprintf("[view](%s)", url.PathEscape(path.Join(certReport.Thumbprint, linkDefault))), // link
 			)
 		}
 		if issuerType == "Leaf Certificates" {
 			fmt.Fprintln(w, "")
-			fmt.Fprintln(w, "\\* For issues relating to this CAs certificate repositories see this [report](URL.md).")
+			fmt.Fprintf(w, "\\* For issues relating to this CAs certificate repositories see this [report](URL.%s).\n", linkExt)
 		}
 	}
 
@@ -230,7 +230,7 @@ func PrintOrganizationsTable(w io.Writer, r *LintCertificatesResult, anchor stri
 		if issuer.Amount == 0 {
 			continue
 		}
-		issuerNameLink := fmt.Sprintf("[%s](%s)", key, fmt.Sprintf("%s#%s", url.PathEscape(path.Join(key, "README.md")), anchor))
+		issuerNameLink := fmt.Sprintf("[%s](%s)", key, fmt.Sprintf("%s#%s", url.PathEscape(path.Join(key, linkDefault)), anchor))
 		fmt.Fprintf(w, "| %s | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) |\n", issuerNameLink, issuer.Amount, percent(issuer.Amount, r.Amount), issuer.Errors, percent(issuer.Errors, issuer.Amount), issuer.Warnings, percent(issuer.Warnings, issuer.Amount), issuer.Notices, percent(issuer.Notices, issuer.Amount), issuer.NE, percent(issuer.NE, issuer.Amount))
 	}
 	fmt.Fprintf(w, "| **Total** | %d (100%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) |\n", r.Amount, r.Errors, percent(r.Errors, r.Amount), r.Warnings, percent(r.Warnings, r.Amount), r.Notices, percent(r.Notices, r.Amount), r.NE, percent(r.NE, r.Amount))
@@ -282,7 +282,7 @@ func PrintIssueGroupCertificateTable(w io.Writer, issueName string, org *LintOrg
 			continue
 		}
 		subject := strings.ReplaceAll(cert.Cert.Subject.String(), "\\", "\\\\")
-		link := fmt.Sprintf("[view](%s)", path.Join("..", computeCertThumbprint(cert.Cert), "README.md"))
+		link := fmt.Sprintf("[view](%s)", path.Join("..", computeCertThumbprint(cert.Cert), linkDefault))
 		fmt.Fprintf(w, "| %s | %s | %s | %s |\n", statusToString(issue.Status), subject, link, issue.Details)
 		counter += 1
 	}

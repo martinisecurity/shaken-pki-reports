@@ -6,6 +6,16 @@ import (
 	"os"
 )
 
+var linkExt string = "md"
+var linkDefault string = "README.md"
+
+func setLink(html bool) {
+	if html {
+		linkExt = "html"
+		linkDefault = "index.html"
+	}
+}
+
 func main() {
 	if len(os.Args) < 2 {
 		fmt.Println("expected 'lint' or 'download' subcommands")
@@ -20,9 +30,12 @@ func main() {
 		lintCmd := flag.NewFlagSet("lint", flag.ExitOnError)
 		var summary bool
 		lintCmd.BoolVar(&summary, "summary", false, "enables summary reporting")
+		var html bool
+		lintCmd.BoolVar(&html, "html", false, "makes links to HTML pages")
 
 		lintCmd.Parse(os.Args[2:])
 		certPath := lintCmd.Arg(0)
+		setLink(html)
 
 		// run command
 		err = RunLintCommand(certPath, summary)
@@ -33,9 +46,12 @@ func main() {
 		downloadCmd.StringVar(&outDir, "outDir", "certs", "output folder for downloading certificates")
 		var includeCa bool
 		downloadCmd.BoolVar(&includeCa, "includeCa", false, "downloads CA certificates")
+		var html bool
+		downloadCmd.BoolVar(&html, "html", false, "makes links to HTML pages")
 
 		downloadCmd.Parse(os.Args[2:])
 		listPath := downloadCmd.Arg(0)
+		setLink(html)
 
 		// run command
 		err = RunDownloadCommand(listPath, outDir, includeCa)

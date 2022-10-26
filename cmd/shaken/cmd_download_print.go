@@ -72,7 +72,7 @@ func PrintUrlOrg(w io.Writer, r *LintUrlOrgResult) {
 	fmt.Fprintln(w, "|------|--------|-----------|")
 	for code, instances := range r.Problems {
 		rule := uLint.FindRuleByName(code)
-		codeLink := fmt.Sprintf("[%s](ISSUES/%s.md)", code, code)
+		codeLink := fmt.Sprintf("[%s](ISSUES/%s.%s)", code, code, linkExt)
 		fmt.Fprintf(w, "| %s | %s | %d |\n", codeLink, rule.Source, instances)
 	}
 	fmt.Fprintln(w, "")
@@ -127,7 +127,7 @@ func PrintUrlSummary(w io.Writer, r *LintUrlSummaryResult) {
 
 	for _, key := range keys {
 		issuer := r.Organizations[key]
-		issuerNameLink := fmt.Sprintf("[%s](%s)", key, url.PathEscape(path.Join(key, "URL.md")))
+		issuerNameLink := fmt.Sprintf("[%s](%s)", key, url.PathEscape(path.Join(key, fmt.Sprintf("URL.%s", linkExt))))
 		fmt.Fprintf(w, "| %s | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) |\n", issuerNameLink, issuer.Amount, percent(issuer.Amount, r.Amount), issuer.Errors, percent(issuer.Errors, issuer.Amount), issuer.Warnings, percent(issuer.Warnings, issuer.Amount), issuer.Notices, percent(issuer.Notices, issuer.Amount))
 	}
 	fmt.Fprintf(w, "| **Total** | %d (100%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) |\n", r.Amount, r.Errors, percent(r.Errors, r.Amount), r.Warnings, percent(r.Warnings, r.Amount), r.Notices, percent(r.Notices, r.Amount))

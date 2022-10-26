@@ -189,7 +189,6 @@ func LintCertificate(cert *internal.PemCertificate, options *x509.VerifyOptions)
 	}
 
 	organization := getOrganizationName(cert.Certificate, options)
-	fmt.Println(organization)
 
 	thumbprint := computeCertThumbprint(cert.Certificate)
 	fmt.Printf("Lint certificate %s issued by '%s' (%s)\n", thumbprint, organization, link)
@@ -218,7 +217,7 @@ func SaveOrganizationReport(r *LintTotalResult, outDir string) error {
 		// check certs amount for the org
 		leafIssuer := r.LeafCertificates.Issuers[name]
 		caIssuer := r.CaCertificates.Issuers[name]
-		if !((leafIssuer != nil && leafIssuer.Amount > 0) || (caIssuer != nil && caIssuer.Amount > 0)) {
+		if (leafIssuer == nil || leafIssuer.Amount == 0) && (caIssuer == nil || caIssuer.Amount > 0) {
 			// don't save report if there is no certs
 			return nil
 		}
@@ -309,14 +308,18 @@ func SaveCertificatesReport(r *LintTotalResult, outDir string) error {
 			r.CaCertificates.Issuers[name],
 		}
 		for _, issuer := range issuers {
-			if issuer == nil {
+			if issuer == nil || issuer.Amount == 0 {
 				continue
+			}
+			orgDir := path.Join(outDir, name)
+			if err := Mkdir(orgDir); err != nil {
+				return err
 			}
 			for _, cert := range issuer.Certificates {
 				// create folder
-				certDir := path.Join(outDir, name, cert.Thumbprint)
+				certDir := path.Join(orgDir, cert.Thumbprint)
 				if err := Mkdir(certDir); err != nil {
-					return fmt.Errorf("cannot create directory %s, %s", certDir, err.Error())
+					return err
 				}
 
 				// create file

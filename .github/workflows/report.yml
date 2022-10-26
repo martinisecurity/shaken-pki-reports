@@ -18,10 +18,10 @@ jobs:
           go-version: "1.18.3"
 
       - name: Download certificates
-        run: go run cmd/shaken/*.go download --includeCa --outDir x_certs shaken-urls.txt
+        run: go run cmd/shaken/*.go download --html --includeCa --outDir x_certs shaken-urls.txt
 
       - name: Run lint
-        run: go run cmd/shaken/*.go lint x_certs
+        run: go run cmd/shaken/*.go lint --html x_certs
 
       - name: Publish report
         uses: JamesIves/github-pages-deploy-action@v4
