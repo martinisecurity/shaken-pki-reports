@@ -217,7 +217,7 @@ func SaveOrganizationReport(r *LintTotalResult, outDir string) error {
 		// check certs amount for the org
 		leafIssuer := r.LeafCertificates.Issuers[name]
 		caIssuer := r.CaCertificates.Issuers[name]
-		if (leafIssuer == nil || leafIssuer.Amount == 0) && (caIssuer == nil || caIssuer.Amount > 0) {
+		if (leafIssuer == nil || leafIssuer.Amount == 0) && (caIssuer == nil || caIssuer.Amount == 0) {
 			// don't save report if there is no certs
 			return nil
 		}
