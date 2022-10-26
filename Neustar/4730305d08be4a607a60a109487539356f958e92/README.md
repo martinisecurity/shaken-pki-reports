@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate 4730305d08be4a607a60a109487539356f958e92
-Tested At: 2022-10-26 21:14:14 +0000 UTC\
+Tested At: 2022-10-26 22:30:12 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 143 day(s)\
 Subject: CN=SHAKEN 804J, O=QuestBlue Systems Inc, C=US\
@@ -15,9 +15,9 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDBzCCAqygAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
-| e_sti_extension_unknown | error | ATIS-1000080v4 | STI certificate shall not include extensions that are not specified |
+| e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | e_sti_certificate_policies | error | ATIS-1000080v4 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| e_sti_extension_unknown | error | ATIS-1000080v4 | STI certificate shall not include extensions that are not specified |
 
-Generated: 26/10/2022 at 21:14:23
+Generated: 26/10/2022 at 22:31:35

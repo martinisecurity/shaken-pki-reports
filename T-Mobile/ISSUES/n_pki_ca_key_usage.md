@@ -22,4 +22,4 @@ no warning, or error, or not effective date level issues were found
 | notice | CN=TMOBILE-PROD-SUB-STIRSHAKEN-EC, O=TMOBILE-USA, C=US | [view](../45f4213a0916f509c15c42441aa6811f71c047ba/README.md) | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 
 
-Generated: 26/10/2022 at 21:14:23
+Generated: 26/10/2022 at 22:31:35

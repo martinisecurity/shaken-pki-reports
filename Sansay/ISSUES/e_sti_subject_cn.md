@@ -18,9 +18,7 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 | error | emailAddress=jfindley@interactivetel.com, CN=SHAKEN InteractiveTel\\, LLC 920J, OU=NOC, O=InteractiveTel\\, LLC, ST=Texas, C=US, emailAddress=jfindley@interactivetel.com | [view](../ef323e1e970d8611dfb1119902cb5f032ccf294b/README.md) | Common name shall contain the text string 'SHAKEN 920J' |
 | error | emailAddress=voiceops@clearfly.net, CN=SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J, OU=NOC, O=Greenfly Networks Inc dba Clearfly Communications, ST=Montana, C=US, emailAddress=voiceops@clearfly.net | [view](../bf52ae05225edb2863f74a7c335ba64fd83ffe5b/README.md) | Common name shall contain the text string 'SHAKEN 210J' |
 | error | emailAddress=voiceops@clearfly.net, CN=SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J, OU=NOC, O=Greenfly Networks Inc dba Clearfly Communications, ST=Montana, C=US, emailAddress=voiceops@clearfly.net | [view](../c16c41de71faf34e0617e45b50b41db2fee2a460/README.md) | Common name shall contain the text string 'SHAKEN 210J' |
-| error | CN=SHAKEN Broadband Dynamics LLC 583j, OU=Network Operations, O=Broadband Dynamics LLC, ST=Arizona, C=US | [view](../74f49ce626795f27c2dff215fe38423bfc8f6993/README.md) | Common name shall contain the text string 'SHAKEN 583j' |
 | error | CN=SHAKEN Consolidated Communications 5113, OU=NOC, O=Consolidated Communications, ST=New Hampshire, C=US | [view](../5316bee949c660127319dcec6ae9670ca0ddbe55/README.md) | Common name shall contain the text string 'SHAKEN 5113' |
-| error | CN=SHAKEN Magna5\\, LLC 3849, OU=NOC, O=Magna5\\, LLC, ST=Texas, C=US | [view](../17599bafbe0c44b8ec89c36eea809196b551d725/README.md) | Common name shall contain the text string 'SHAKEN 3849' |
 | error | emailAddress=ops@iplinktelecom.com, CN=SHAKEN IP Link Telecom Inc. 902J, OU=IP Link Telecom Inc., O=IP Link Telecom Inc., ST=Oregon, C=US, emailAddress=ops@iplinktelecom.com | [view](../b468243c5f8cda69c8584e9ad9fdfdc92cee7d7f/README.md) | Common name shall contain the text string 'SHAKEN 902J' |
 | error | emailAddress=voiceops@clearfly.net, CN=SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J, OU=NOC, O=Greenfly Networks Inc dba Clearfly Communications, ST=Montana, C=US, emailAddress=voiceops@clearfly.net | [view](../4b88575374d53776eac5b5f936426c459cfbb24e/README.md) | Common name shall contain the text string 'SHAKEN 210J' |
 | error | emailAddress=stir-shaken@convoso.com, CN=SHAKEN Convoso 758J, OU=Infrastructure, O=Convoso, ST=California, C=US, emailAddress=stir-shaken@convoso.com | [view](../db665c48b470c140b334c322ecf98af9d8968788/README.md) | Common name shall contain the text string 'SHAKEN 758J' |
@@ -87,6 +85,8 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 | error | CN=SHAKEN Ytel Inc. 703J, OU=Carrier, O=Ytel Inc., ST=California, C=US | [view](../fcf554450f39fbe029ccdd034d9070e3b4783c8a/README.md) | Common name shall contain the text string 'SHAKEN 703J' |
 | error | emailAddress=voiceops@clearfly.net, CN=SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J, OU=NOC, O=Greenfly Networks Inc dba Clearfly Communications, ST=Montana, C=US, emailAddress=voiceops@clearfly.net | [view](../80928cca9b6e8e2de10138480a5827d88624b8ac/README.md) | Common name shall contain the text string 'SHAKEN 210J' |
 | error | emailAddress=billing@ntcinternationalinc.com, CN=SHAKEN NTC International\\, INC 016K, OU=Operations, O=NTC International\\, INC, ST=Delaware, C=US, emailAddress=billing@ntcinternationalinc.com | [view](../6232068ab8e75570bd010619f5fd471b86fc5f14/README.md) | Common name shall contain the text string 'SHAKEN 016K' |
+| error | CN=SHAKEN Magna5\\, LLC 3849, OU=Operations, O=Magna5\\, LLC, ST=Texas, C=US | [view](../f297384ae418d711edb0b994a6a815f13aaa94be/README.md) | Common name shall contain the text string 'SHAKEN 3849' |
+| error | CN=SHAKEN Broadband Dynamics LLC 583j, OU=Operations, O=Broadband Dynamics LLC, ST=Arizona, C=US | [view](../30717ae6361a27b9f1ebf7fbeb9624c427b46190/README.md) | Common name shall contain the text string 'SHAKEN 583j' |
 
 ### CA Certificates
 
@@ -96,4 +96,4 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 26/10/2022 at 21:14:23
+Generated: 26/10/2022 at 22:31:35

@@ -2,7 +2,7 @@
 ## NetNumber
 
 ### Certificate ff1d02a3c6ad3f781b7f0c1ed0d1ce118ccf17fd
-Tested At: 2022-10-26 21:14:23 +0000 UTC\
+Tested At: 2022-10-26 22:31:34 +0000 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 6 day(s)\
 Subject: O=Google, C=US, CN=Google SHAKEN cert 969H\
@@ -15,11 +15,11 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICxTCCAkugAwIBAgIJ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_sti_certificate_policies | error | ATIS-1000080v4 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| e_cp1_3_ambiguous_identifier | error | CPv1.3 | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| n_sti_certificate_policy_critical | notice | ATIS-1000080v4 | STI certificates should contain a CertificatePolicies extension marked uncritical |
 | e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 | e_sti_subject_cn | error | ATIS-1000080v4 | Common name shall contain the text string 'SHAKEN 969H' |
-| n_sti_certificate_policy_critical | notice | ATIS-1000080v4 | STI certificates should contain a CertificatePolicies extension marked uncritical |
 | e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| e_sti_certificate_policies | error | ATIS-1000080v4 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| e_cp1_3_ambiguous_identifier | error | CPv1.3 | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
-Generated: 26/10/2022 at 21:14:23
+Generated: 26/10/2022 at 22:31:35

@@ -23,8 +23,8 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://crs.sti.uscellular.com/certs/uscc_shaken_CA.crt
 
@@ -37,8 +37,8 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://shaken.stir.mediacomcc.com/certs/mediacomcertchain.crt
 
@@ -79,50 +79,50 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://sti-cr.cgah.tnsi.com/certs/5dc472732f3dd53854a5183f1dadceeb6127fac7
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://sti-cr.cgah.tnsi.com/certs/6c54d88f5669c28848983d4572f11c0b896342ac
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://sti-cr.cgah.tnsi.com/certs/786c2c44c5fcfd1ed973607e3ac560ee3425d030
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://sti-cr.cgah.tnsi.com/certs/934dd1fd3cc80f18d4322f0336a0dab2e9d7998d
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://sti-cr.cgah.tnsi.com/certs/97ebbd6324f0d938d5e150ecb217c5ead6156cfa
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://sti-cr.cgah.tnsi.com/certs/99b4dd6734c3c1840bfdc0a2014214200e402920
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://sti-cr.cgah.tnsi.com/certs/9b2b8bbbd5a5a28082425a21229434097aafd9b2
 
@@ -135,8 +135,8 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://sti-cr.cgah.tnsi.com/certs/de39b976c7549358da256530d81cfb1f446a2583
 
@@ -146,4 +146,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 
-Generated: 26/10/2022 at 21:14:10
+Generated: 26/10/2022 at 22:29:39

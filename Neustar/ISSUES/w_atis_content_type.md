@@ -9,16 +9,16 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | w_atis_protocol | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### http://sip.phx.dlr.freevoicepbx.com/Freevoice_963J
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_protocol | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://187.174.67.118:8080/7075515eb2d150fc98c43e794c07bbca.cer
@@ -26,17 +26,17 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_protocol | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_tls_transport | error | System | Get "https://187.174.67.118:8080/7075515eb2d150fc98c43e794c07bbca.cer": x509: cannot validate certificate for 187.174.67.118 because it doesn't contain any IP SANs |
-| w_atis_protocol | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 
 ### https://187.174.68.251:8080/7075515eb2d150fc98c43e794c07bbca.cer
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_protocol | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 | e_tls_transport | error | System | Get "https://187.174.68.251:8080/7075515eb2d150fc98c43e794c07bbca.cer": x509: cannot validate certificate for 187.174.68.251 because it doesn't contain any IP SANs |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| w_atis_protocol | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://api.alianza.com/v2/stir-shaken/certs/b45a4083-1554-4412-b5fc-bbd2c027091e/key.crt
@@ -71,15 +71,15 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cdn.pgxn.net/sti/20230701.cer
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cert.sticr.att.net:8443/certs/att/abbf5398-e1e1-42af-96a7-092303b168ba
 
@@ -92,22 +92,22 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header has 'max-age' directive but it's value is less than 24 hours |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header has 'max-age' directive but it's value is less than 24 hours |
 
 ### https://certs.sip.wtsky.net/prod/shaken-6-2023.cer
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/1.1
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/1.241
 
@@ -120,8 +120,8 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/131.132
 
@@ -148,22 +148,22 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/146.147
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/158.172
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/164.180
 
@@ -176,8 +176,8 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/168.185
 
@@ -197,8 +197,8 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/39.203
 
@@ -218,8 +218,8 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/87.166
 
@@ -232,15 +232,15 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.alticeusa.com/ccid/authn/v2/certs/11011.10003
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.alticeusa.com/ccid/authn/v2/certs/11012.10003
 
@@ -288,8 +288,8 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11028.10175.pem
 
@@ -309,29 +309,29 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11053.10194
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11053.10194.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11055.10194
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11055.10194.pem
 
@@ -358,8 +358,8 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11078.10126
 
@@ -386,8 +386,8 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11084.10126
 
@@ -400,22 +400,22 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11089.10126
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11089.10126.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11091.10126
 
@@ -442,15 +442,15 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11114.10192.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11125.10033
 
@@ -463,15 +463,15 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11126.10191.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11133.10171.pem
 
@@ -491,8 +491,8 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11155.10177
 
@@ -505,8 +505,8 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11159.10178
 
@@ -526,15 +526,15 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11162.10187
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11162.10187.pem
 
@@ -547,15 +547,15 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11168.10183.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11172.10187.pem
 
@@ -568,29 +568,29 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11174.10187.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11180.10184.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11182.10184.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11184.10174
 
@@ -610,8 +610,8 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11186.10187.pem
 
@@ -624,85 +624,85 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11188.10187.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11194.10187
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11194.10187.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11200.10185
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11200.10185.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11206.10187.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11208.10175
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11208.10175.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11212.10175
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11212.10175.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11216.10175
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11216.10175.pem
 
@@ -743,8 +743,8 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11238.10188.pem
 
@@ -778,29 +778,29 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11272.10189.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11276.10189
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11276.10189.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11282.10179
 
@@ -834,85 +834,85 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11292.10180.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11294.10180
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11294.10180.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11304.10152
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11304.10152.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11306.10152
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11316.10181
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11316.10181.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11338.10182
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11338.10182.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11340.10182
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11340.10182.pem
 
@@ -939,29 +939,29 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11404.10165.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11410.10158.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11414.10183
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11416.10156.pem
 
@@ -974,8 +974,8 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11430.10198.pem
 
@@ -995,8 +995,8 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11440.10200.pem
 
@@ -1016,15 +1016,15 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11484.10112.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11484.10206.pem
 
@@ -1037,8 +1037,8 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11508.10138.pem
 
@@ -1079,8 +1079,8 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11538.10154
 
@@ -1093,43 +1093,43 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11541.10167
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11541.10167.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11544.10197
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11544.10197.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11551.10188
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11551.10188.pem
 
@@ -1142,8 +1142,8 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11552.10188.pem
 
@@ -1156,8 +1156,8 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11553.10201.pem
 
@@ -1170,15 +1170,15 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://ecms.securetransit.net/certs/410bad9e05a57353f0d8739a421be619.cer
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://fstelephony.appspot.com/static/cert/shaken_identity_2022_3.cer
 
@@ -1191,29 +1191,29 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://pki.tncp.textnow.com/stir-shaken-textnow-cert.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://prod001-cr.rbbnidhub.com/OaPccQ6Mgz/sign-cert2
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://prod001-cr.rbbnidhub.com/frvFJbsMgz/sign-cert3
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/goto-2022-09
 
@@ -1229,12 +1229,19 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
+### https://shaken.spectrum.com/4d65efdb8a1ca366e9576c8fda747fa4.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+
 ### https://ssc.getsipnav.com/certs/0ca730172b48ae249d823ea924275602b5f36450
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://ssc.getsipnav.com/certs/16de0926d65be10547c26ed3417d6ffd26e3a7f3
 
@@ -1254,8 +1261,8 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://ssc.getsipnav.com/certs/9588bd2711f79fb29c88000ca03c5001d22e3d4d
 
@@ -1296,8 +1303,8 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://ssc.getsipnav.com/certs/d29187037eabb3b60e24baba5c0b3dc424e004b9
 
@@ -1324,8 +1331,8 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://sscerts.accessline.com/sscerts/Cert-US-04-2022.crt
 
@@ -1366,15 +1373,15 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://stir.tel/c/704J_alt
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://storage.googleapis.com/stirshaken/ShakeNBakeCert.pem
 
@@ -1394,8 +1401,8 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 
-Generated: 26/10/2022 at 21:14:10
+Generated: 26/10/2022 at 22:29:39

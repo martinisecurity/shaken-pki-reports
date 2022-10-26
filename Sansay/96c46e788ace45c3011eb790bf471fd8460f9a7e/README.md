@@ -2,7 +2,7 @@
 ## Sansay
 
 ### Certificate 96c46e788ace45c3011eb790bf471fd8460f9a7e
-Tested At: 2022-10-26 21:14:17 +0000 UTC\
+Tested At: 2022-10-26 22:30:42 +0000 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 15 day(s)\
 Subject: CN=SHAKEN PNG Telecommunications Inc 3395, OU=NOC, O=PNG Telecommunications Inc, ST=Ohio, C=US\
@@ -15,11 +15,11 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC5TCCAougAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
-| w_cp1_3_subject_rdn_unknown | warn | CPv1.3 | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
-| e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | e_sti_subject_cn | error | ATIS-1000080v4 | Common name shall contain the text string 'SHAKEN 3395' |
 | e_cp1_3_ambiguous_identifier | error | CPv1.3 | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | e_sti_certificate_policies | error | ATIS-1000080v4 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
+| w_cp1_3_subject_rdn_unknown | warn | CPv1.3 | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
-Generated: 26/10/2022 at 21:14:23
+Generated: 26/10/2022 at 22:31:35

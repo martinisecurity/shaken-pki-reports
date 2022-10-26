@@ -10,8 +10,8 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_protocol | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://app.connexcs.com/api/stir-shaken/cert/45.crt
 
@@ -38,15 +38,15 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.xcastlabs.net/1666420200/xclsshaken.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://cr.xcastlabs.net/1668234600/xclsshaken.pem
 
@@ -77,4 +77,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 
-Generated: 26/10/2022 at 21:14:10
+Generated: 26/10/2022 at 22:29:39

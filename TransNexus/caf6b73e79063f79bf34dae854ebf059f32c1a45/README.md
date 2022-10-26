@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate caf6b73e79063f79bf34dae854ebf059f32c1a45
-Tested At: 2022-10-26 21:14:20 +0000 UTC\
+Tested At: 2022-10-26 22:31:07 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 237 day(s)\
 Subject: CN=SHAKEN 857J, OU=SHAKEN, O=IEvolve, C=US\
@@ -20,4 +20,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC6TCCAo%2BgAwIBAg
 | e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | w_cp1_3_subject_rdn_unknown | warn | CPv1.3 | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
-Generated: 26/10/2022 at 21:14:23
+Generated: 26/10/2022 at 22:31:35

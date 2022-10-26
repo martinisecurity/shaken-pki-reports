@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate 164675f5894b5459867b897576a59e6aba1fc656
-Tested At: 2022-10-26 21:14:12 +0000 UTC\
+Tested At: 2022-10-26 22:29:53 +0000 UTC\
 Initial Validity Period: 60 day(s)\
 Remaining Validity Period: 35 day(s)\
 Subject: CN=SHAKEN 193E, OU=SHAKEN, O=8x8 Inc, C=US\
@@ -20,4 +20,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC6TCCAo%2BgAwIBAg
 | e_incorrect_ku_encoding | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 | e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 
-Generated: 26/10/2022 at 21:14:23
+Generated: 26/10/2022 at 22:31:35

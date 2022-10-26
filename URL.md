@@ -14,13 +14,13 @@ This report looks at what errors and compliance issues relying parties may exper
 | [Martini Security](Martini%20Security%2FURL.md) | 7 (1.02%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
 | [Metaswitch](Metaswitch%2FURL.md) | 21 (3.07%) | 20 (95.24%) | 21 (100.00%) | 0 (0.00%) |
 | [NetNumber](NetNumber%2FURL.md) | 5 (0.73%) | 2 (40.00%) | 2 (40.00%) | 0 (0.00%) |
-| [Neustar](Neustar%2FURL.md) | 198 (28.91%) | 198 (100.00%) | 198 (100.00%) | 0 (0.00%) |
+| [Neustar](Neustar%2FURL.md) | 199 (29.05%) | 199 (100.00%) | 199 (100.00%) | 0 (0.00%) |
 | [Peeringhub](Peeringhub%2FURL.md) | 7 (1.02%) | 7 (100.00%) | 7 (100.00%) | 0 (0.00%) |
 | [Ribbon Communications](Ribbon%20Communications%2FURL.md) | 3 (0.44%) | 3 (100.00%) | 3 (100.00%) | 0 (0.00%) |
 | [Sansay](Sansay%2FURL.md) | 104 (15.18%) | 10 (9.62%) | 104 (100.00%) | 0 (0.00%) |
 | [T-Mobile](T-Mobile%2FURL.md) | 1 (0.15%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [TransNexus](TransNexus%2FURL.md) | 292 (42.63%) | 3 (1.03%) | 4 (1.37%) | 0 (0.00%) |
-| [Unknown](Unknown%2FURL.md) | 2 (0.29%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
+| [Unknown](Unknown%2FURL.md) | 1 (0.15%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | **Total** | 685 (100%) | 291 (42.48%) | 387 (56.50%) | 0 (0.00%) |
 
-Generated: 26/10/2022 at 21:14:10
+Generated: 26/10/2022 at 22:29:39

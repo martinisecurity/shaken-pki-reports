@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate 2661ebd23f777002d5a8b8e0cced45b06bf12b10
-Tested At: 2022-10-26 21:14:13 +0000 UTC\
+Tested At: 2022-10-26 22:29:59 +0000 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: 5 day(s)\
 Subject: CN=SHAKEN 291K, OU=SHAKEN, O=Hypercore Networks\\, Inc, C=US\
@@ -20,4 +20,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2BTCCAp%2BgAwIB
 | w_cp1_3_subject_rdn_unknown | warn | CPv1.3 | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 26/10/2022 at 21:14:23
+Generated: 26/10/2022 at 22:31:35

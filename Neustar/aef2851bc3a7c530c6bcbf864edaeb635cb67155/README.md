@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate aef2851bc3a7c530c6bcbf864edaeb635cb67155
-Tested At: 2022-10-26 21:14:18 +0000 UTC\
+Tested At: 2022-10-26 22:30:52 +0000 UTC\
 Initial Validity Period: 3653 day(s)\
 Remaining Validity Period: 3596 day(s)\
 Subject: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Inc a TransUnion company, C=US\
@@ -15,10 +15,10 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDSzCCAvGgAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| n_pki_ca_key_usage | notice | SHAKEN PKI Best Practice | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
-| e_sti_ca_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 | w_cp1_3_ca_subject_rdn_unknown | warn | CPv1.3 | Only CN, C, and O can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| e_sti_ca_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 | e_sti_ca_extension_unknown | error | ATIS-1000080v4 | STI certificate shall not include extensions that are not specified |
 | e_cp1_3_ca_key_usage_crl_sign | error | CPv1.3 | The model for managing and communicating the status of revoked certificates is in the form of a distributed Certificate Revocation List (CRL) that is maintained by the STI-PA as described in ATIS-1000080 |
+| n_pki_ca_key_usage | notice | SHAKEN PKI Best Practice | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 
-Generated: 26/10/2022 at 21:14:23
+Generated: 26/10/2022 at 22:31:35

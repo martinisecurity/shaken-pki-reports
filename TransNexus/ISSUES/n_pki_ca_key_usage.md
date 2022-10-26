@@ -18,10 +18,9 @@ no warning, or error, or not effective date level issues were found
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| notice | CN=TransNexus Issuing CA G2, OU=Certification Authorities, O=TransNexus, C=US | [view](../7c82e3e6b326e4aef329019feebd5b6342b224ed/README.md) | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 | notice | CN=TransNexus\\, Inc. SHAKEN Root CA1, OU=SHAKEN, O=TransNexus\\, Inc., C=US | [view](../36dc4ae1d521b8a5aedd10498e6ce757581b197f/README.md) | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 | notice | CN=TransNexus\\, Inc. SHAKEN Issuing CA1, OU=SHAKEN, O=TransNexus\\, Inc., C=US | [view](../2d540c7179aad19290a2098ccac8053645527154/README.md) | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 | notice | CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US | [view](../df7d871ff60d213820a96308346eda870d6e8ed2/README.md) | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 
 
-Generated: 26/10/2022 at 21:14:23
+Generated: 26/10/2022 at 22:31:35

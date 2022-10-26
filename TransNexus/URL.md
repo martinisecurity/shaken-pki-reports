@@ -4,8 +4,8 @@
 
 | Code | Source | Instances |
 |------|--------|-----------|
-| [e_atis_cache_header](ISSUES/e_atis_cache_header.md) | ATIS-1000074 | 3 |
 | [w_atis_content_type](ISSUES/w_atis_content_type.md) | ATIS-1000080 | 4 |
+| [e_atis_cache_header](ISSUES/e_atis_cache_header.md) | ATIS-1000074 | 3 |
 
 ### https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/08d04d1bfffa8ddf52073599e552f0bc.pem
 
@@ -2040,8 +2040,8 @@
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://shaken.spectrum.com/cf1b3d3d-7f2b-42fd-a161-ebe61cd6565a.pem
 
@@ -2051,4 +2051,4 @@
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 
-Generated: 26/10/2022 at 21:14:10
+Generated: 26/10/2022 at 22:29:39
