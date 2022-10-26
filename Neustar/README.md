@@ -4,35 +4,35 @@
 
 ### Leaf Certificates
 
-- Average validity span as of leaf certificates 590 days
-- Percentage of leaf certificates expiring in the next 30 days is 2.13%
-- Certificates with Errors: 62
+- Average validity span as of leaf certificates 583 days
+- Percentage of leaf certificates expiring in the next 30 days is 2.06%
+- Certificates with Errors: 65
 - Certificates with Warnings: 4
 - Certificates with Notices: 0
 - Certificates with tests not executed as the requirements were Not Effective at issuance time: 33
 
 | Status | Code | Source | Instances |
 |--------|------|--------|-----------|
-| not effective | [e_sti_serial_number](ISSUES/e_sti_serial_number.md#leaf-certificates) | ATIS-1000080v4 | 33 |
-| not effective | [w_cp1_3_subject_rdn_unknown](ISSUES/w_cp1_3_subject_rdn_unknown.md#leaf-certificates) | CPv1.3 | 36 |
-| not effective | [e_sti_tn_auth_list](ISSUES/e_sti_tn_auth_list.md#leaf-certificates) | ATIS-1000080v4 | 33 |
-| not effective | [e_sti_signature_algorithm](ISSUES/e_sti_signature_algorithm.md#leaf-certificates) | ATIS-1000080v4 | 33 |
-| not effective | [e_cp1_3_ambiguous_identifier](ISSUES/e_cp1_3_ambiguous_identifier.md#leaf-certificates) | CPv1.3 | 34 |
-| not effective | [e_sti_version](ISSUES/e_sti_version.md#leaf-certificates) | ATIS-1000080v4 | 33 |
-| not effective | [e_sti_key_usage](ISSUES/e_sti_key_usage.md#leaf-certificates) | ATIS-1000080v4 | 33 |
+| error | [e_cp1_3_subject_sn](ISSUES/e_cp1_3_subject_sn.md#leaf-certificates) | CPv1.3 | 97 |
+| not effective | [e_sti_authority_key_identifier](ISSUES/e_sti_authority_key_identifier.md#leaf-certificates) | ATIS-1000080v4 | 33 |
+| not effective | [e_sti_subject_key_identifier](ISSUES/e_sti_subject_key_identifier.md#leaf-certificates) | ATIS-1000080v4 | 33 |
 | not effective | [e_sti_subject_public_key](ISSUES/e_sti_subject_public_key.md#leaf-certificates) | ATIS-1000080v4 | 33 |
-| not effective | [e_sti_extension_unknown](ISSUES/e_sti_extension_unknown.md#leaf-certificates) | ATIS-1000080v4 | 93 |
+| not effective | [e_cp1_3_ambiguous_identifier](ISSUES/e_cp1_3_ambiguous_identifier.md#leaf-certificates) | CPv1.3 | 34 |
+| not effective | [w_cp_1_3_subject_email](ISSUES/w_cp_1_3_subject_email.md#leaf-certificates) | CPv1.3 | 32 |
+| not effective | [e_sti_subject_cn](ISSUES/e_sti_subject_cn.md#leaf-certificates) | ATIS-1000080v4 | 34 |
+| not effective | [e_sti_tn_auth_list](ISSUES/e_sti_tn_auth_list.md#leaf-certificates) | ATIS-1000080v4 | 33 |
+| error | [e_sti_crl_distribution](ISSUES/e_sti_crl_distribution.md#leaf-certificates) | ATIS-1000080v4 | 96 |
+| not effective | [e_sti_key_usage](ISSUES/e_sti_key_usage.md#leaf-certificates) | ATIS-1000080v4 | 33 |
+| not effective | [w_cp1_3_subject_rdn_unknown](ISSUES/w_cp1_3_subject_rdn_unknown.md#leaf-certificates) | CPv1.3 | 36 |
+| not effective | [e_sti_version](ISSUES/e_sti_version.md#leaf-certificates) | ATIS-1000080v4 | 33 |
 | not effective | [e_sti_issuer_dn](ISSUES/e_sti_issuer_dn.md#leaf-certificates) | ATIS-1000080v4 | 33 |
 | not effective | [e_sti_certificate_policies](ISSUES/e_sti_certificate_policies.md#leaf-certificates) | ATIS-1000080v4 | 93 |
-| not effective | [e_sti_crl_distribution](ISSUES/e_sti_crl_distribution.md#leaf-certificates) | ATIS-1000080v4 | 93 |
-| not effective | [e_cp1_3_subject_sn](ISSUES/e_cp1_3_subject_sn.md#leaf-certificates) | CPv1.3 | 94 |
-| not effective | [e_sti_basic_constraints](ISSUES/e_sti_basic_constraints.md#leaf-certificates) | ATIS-1000080v4 | 29 |
-| not effective | [e_sti_subject](ISSUES/e_sti_subject.md#leaf-certificates) | ATIS-1000080v4 | 33 |
 | not effective | [n_sti_certificate_policy_critical](ISSUES/n_sti_certificate_policy_critical.md#leaf-certificates) | ATIS-1000080v4 | 4 |
-| not effective | [e_sti_subject_key_identifier](ISSUES/e_sti_subject_key_identifier.md#leaf-certificates) | ATIS-1000080v4 | 33 |
-| not effective | [e_sti_authority_key_identifier](ISSUES/e_sti_authority_key_identifier.md#leaf-certificates) | ATIS-1000080v4 | 33 |
-| not effective | [e_sti_subject_cn](ISSUES/e_sti_subject_cn.md#leaf-certificates) | ATIS-1000080v4 | 34 |
-| not effective | [w_cp_1_3_subject_email](ISSUES/w_cp_1_3_subject_email.md#leaf-certificates) | CPv1.3 | 32 |
+| not effective | [e_sti_basic_constraints](ISSUES/e_sti_basic_constraints.md#leaf-certificates) | ATIS-1000080v4 | 29 |
+| not effective | [e_sti_signature_algorithm](ISSUES/e_sti_signature_algorithm.md#leaf-certificates) | ATIS-1000080v4 | 33 |
+| not effective | [e_sti_subject](ISSUES/e_sti_subject.md#leaf-certificates) | ATIS-1000080v4 | 33 |
+| not effective | [e_sti_serial_number](ISSUES/e_sti_serial_number.md#leaf-certificates) | ATIS-1000080v4 | 33 |
+| not effective | [e_sti_extension_unknown](ISSUES/e_sti_extension_unknown.md#leaf-certificates) | ATIS-1000080v4 | 93 |
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.\
 \*\* 1 certificates skipped because they are currently expired.
@@ -134,6 +134,9 @@
 | 18 Aug 22 18:07 UTC | SHAKEN 219K | true | [view](d0133e1ece3d41e56d288b90eb8c9335ec24142e%2FREADME.md) |
 | 29 Aug 22 19:07 UTC | ATT SHAKEN 4036 | true | [view](baa252858dcd14844f2871eb9b93d60af3692943%2FREADME.md) |
 | 31 Aug 22 14:47 UTC | SHAKEN 500J | true | [view](eacc4f92800aed1182716331564620b5f6d58106%2FREADME.md) |
+| 09 Sep 22 14:44 UTC | SHAKEN 5606 | true | [view](e370c45f7048a9986af9a3db5183307c2053c976%2FREADME.md) |
+| 12 Sep 22 19:52 UTC | SHAKEN 707J | true | [view](01e985113cfde1adfb8122df529c2bae0301fac2%2FREADME.md) |
+| 15 Sep 22 16:20 UTC | SHAKEN 292K | true | [view](655d6fe195ecd7140c72c94ca361ad4cb893a1cf%2FREADME.md) |
 | 26 Oct 22 16:36 UTC | SHAKEN 770J | true | [view](ed3545f28b8f2116bd00d59d4635fe94fe65183f%2FREADME.md) |
 
 \* For issues relating to this CAs certificate repositories see this [report](URL.md).
@@ -142,32 +145,32 @@
 
 - Certificates with Errors: 2
 - Certificates with Warnings: 2
-- Certificates with Notices: 8
-- Certificates with tests not executed as the requirements were Not Effective at issuance time: 6
+- Certificates with Notices: 10
+- Certificates with tests not executed as the requirements were Not Effective at issuance time: 8
 
 | Status | Code | Source | Instances |
 |--------|------|--------|-----------|
-| error | [e_sti_ca_crl_distribution](ISSUES/e_sti_ca_crl_distribution.md#ca-certificates) | ATIS-1000080v4 | 5 |
-| not effective | [e_sti_root_extension_unknown](ISSUES/e_sti_root_extension_unknown.md#ca-certificates) | ATIS-1000080v4 | 3 |
-| not effective | [e_sti_ca_key_usage](ISSUES/e_sti_ca_key_usage.md#ca-certificates) | ATIS-1000080v4 | 6 |
-| not effective | [e_sti_ca_issuer_dn](ISSUES/e_sti_ca_issuer_dn.md#ca-certificates) | ATIS-1000080v4 | 6 |
-| not effective | [e_sti_ca_extension_unknown](ISSUES/e_sti_ca_extension_unknown.md#ca-certificates) | ATIS-1000080v4 | 4 |
-| not effective | [e_sti_basic_constraints](ISSUES/e_sti_basic_constraints.md#ca-certificates) | ATIS-1000080v4 | 6 |
-| not effective | [e_sti_root_authority_key_identifier](ISSUES/e_sti_root_authority_key_identifier.md#ca-certificates) | ATIS-1000080v4 | 3 |
-| not effective | [e_sti_ca_subject_public_key](ISSUES/e_sti_ca_subject_public_key.md#ca-certificates) | ATIS-1000080v4 | 6 |
-| not effective | [e_cp1_3_ca_key_usage_crl_sign](ISSUES/e_cp1_3_ca_key_usage_crl_sign.md#ca-certificates) | CPv1.3 | 8 |
-| not effective | [e_sti_ca_subject_cn](ISSUES/e_sti_ca_subject_cn.md#ca-certificates) | ATIS-1000080v4 | 6 |
-| not effective | [e_sti_ca_subject](ISSUES/e_sti_ca_subject.md#ca-certificates) | ATIS-1000080v4 | 6 |
-| not effective | [e_sti_ca_serial_number](ISSUES/e_sti_ca_serial_number.md#ca-certificates) | ATIS-1000080v4 | 6 |
+| not effective | [e_sti_root_certificate_policies](ISSUES/e_sti_root_certificate_policies.md#ca-certificates) | ATIS-1000080v4 | 5 |
+| not effective | [e_sti_root_authority_key_identifier](ISSUES/e_sti_root_authority_key_identifier.md#ca-certificates) | ATIS-1000080v4 | 5 |
+| not effective | [e_sti_ca_subject_cn](ISSUES/e_sti_ca_subject_cn.md#ca-certificates) | ATIS-1000080v4 | 8 |
 | not effective | [n_sti_ca_certificate_policy_critical](ISSUES/n_sti_ca_certificate_policy_critical.md#ca-certificates) | ATIS-1000080v4 | 2 |
-| not effective | [e_sti_root_certificate_policies](ISSUES/e_sti_root_certificate_policies.md#ca-certificates) | ATIS-1000080v4 | 3 |
-| not effective | [e_sti_ca_subject_key_identifier](ISSUES/e_sti_ca_subject_key_identifier.md#ca-certificates) | ATIS-1000080v4 | 6 |
-| notice | [n_pki_ca_key_usage](ISSUES/n_pki_ca_key_usage.md#ca-certificates) | SHAKEN PKI Best Practice | 8 |
-| not effective | [w_cp1_3_ca_subject_rdn_unknown](ISSUES/w_cp1_3_ca_subject_rdn_unknown.md#ca-certificates) | CPv1.3 | 8 |
-| not effective | [e_sti_ca_signature_algorithm](ISSUES/e_sti_ca_signature_algorithm.md#ca-certificates) | ATIS-1000080v4 | 6 |
-| not effective | [e_sti_ca_version](ISSUES/e_sti_ca_version.md#ca-certificates) | ATIS-1000080v4 | 6 |
-| not effective | [e_sti_ca_authority_key_identifier](ISSUES/e_sti_ca_authority_key_identifier.md#ca-certificates) | ATIS-1000080v4 | 3 |
 | not effective | [e_sti_ca_certificate_policies](ISSUES/e_sti_ca_certificate_policies.md#ca-certificates) | ATIS-1000080v4 | 3 |
+| not effective | [e_sti_root_extension_unknown](ISSUES/e_sti_root_extension_unknown.md#ca-certificates) | ATIS-1000080v4 | 5 |
+| not effective | [e_sti_ca_subject_key_identifier](ISSUES/e_sti_ca_subject_key_identifier.md#ca-certificates) | ATIS-1000080v4 | 8 |
+| not effective | [e_sti_ca_subject_public_key](ISSUES/e_sti_ca_subject_public_key.md#ca-certificates) | ATIS-1000080v4 | 8 |
+| not effective | [e_sti_ca_subject](ISSUES/e_sti_ca_subject.md#ca-certificates) | ATIS-1000080v4 | 8 |
+| not effective | [e_sti_ca_signature_algorithm](ISSUES/e_sti_ca_signature_algorithm.md#ca-certificates) | ATIS-1000080v4 | 8 |
+| not effective | [e_cp1_3_ca_key_usage_crl_sign](ISSUES/e_cp1_3_ca_key_usage_crl_sign.md#ca-certificates) | CPv1.3 | 10 |
+| error | [e_sti_ca_crl_distribution](ISSUES/e_sti_ca_crl_distribution.md#ca-certificates) | ATIS-1000080v4 | 5 |
+| not effective | [e_sti_ca_key_usage](ISSUES/e_sti_ca_key_usage.md#ca-certificates) | ATIS-1000080v4 | 8 |
+| not effective | [e_sti_basic_constraints](ISSUES/e_sti_basic_constraints.md#ca-certificates) | ATIS-1000080v4 | 8 |
+| not effective | [e_sti_ca_authority_key_identifier](ISSUES/e_sti_ca_authority_key_identifier.md#ca-certificates) | ATIS-1000080v4 | 3 |
+| not effective | [e_sti_ca_extension_unknown](ISSUES/e_sti_ca_extension_unknown.md#ca-certificates) | ATIS-1000080v4 | 4 |
+| not effective | [w_cp1_3_ca_subject_rdn_unknown](ISSUES/w_cp1_3_ca_subject_rdn_unknown.md#ca-certificates) | CPv1.3 | 10 |
+| not effective | [e_sti_ca_version](ISSUES/e_sti_ca_version.md#ca-certificates) | ATIS-1000080v4 | 8 |
+| not effective | [e_sti_ca_serial_number](ISSUES/e_sti_ca_serial_number.md#ca-certificates) | ATIS-1000080v4 | 8 |
+| notice | [n_pki_ca_key_usage](ISSUES/n_pki_ca_key_usage.md#ca-certificates) | SHAKEN PKI Best Practice | 10 |
+| not effective | [e_sti_ca_issuer_dn](ISSUES/e_sti_ca_issuer_dn.md#ca-certificates) | ATIS-1000080v4 | 8 |
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.\
 \*\* 0 certificates skipped because they are currently expired.
@@ -177,12 +180,14 @@
 | Created at | Name | Problems | Link |
 |------------|------|----------|------|
 | 23 Sep 19 13:26 UTC | Neustar Certified Caller ID Root CA | false | [view](028dce43c813a7323688f37a7d491be743d9bbb2%2FREADME.md) |
+| 23 Sep 19 13:26 UTC | Neustar Certified Caller ID Root CA | false | [view](028dce43c813a7323688f37a7d491be743d9bbb2%2FREADME.md) |
 | 23 Sep 19 13:32 UTC | Neustar Certified Caller ID CA-1 | false | [view](9c8e8d386d404f4c97d4c37358f2362f01c9cc10%2FREADME.md) |
 | 08 Oct 20 14:49 UTC | Neustar Canada Certified Caller ID SHAKEN Root CA | false | [view](ba68a7b635a7e85fc1ff99d8f65d7f0ea640dcbd%2FREADME.md) |
 | 08 Oct 20 14:52 UTC | Neustar Canada Certified Caller ID SHAKEN CA-1 | false | [view](a754e630241fb966de4cac2cd9eb9db90c9d029e%2FREADME.md) |
+| 17 Aug 21 17:19 UTC | Neustar Certified Caller ID SHAKEN Root CA | false | [view](1eaae3ee5c77b16be8eafe02fb301f376d86a975%2FREADME.md) |
 | 17 Aug 21 17:19 UTC | Neustar Certified Caller ID SHAKEN Root CA | false | [view](1eaae3ee5c77b16be8eafe02fb301f376d86a975%2FREADME.md) |
 | 19 Aug 21 03:25 UTC | Neustar Certified Caller ID SHAKEN CA-1 | false | [view](b6f33eebd6fa1f397a22fe4d6300df28960f3061%2FREADME.md) |
 | 30 Aug 22 06:39 UTC | Neustar Certified Caller ID SHAKEN CA-2 | true | [view](aef2851bc3a7c530c6bcbf864edaeb635cb67155%2FREADME.md) |
 | 05 Oct 22 17:26 UTC | Neustar Certified Caller ID SHAKEN CA-2 | true | [view](3bbda8c5ef216e5cd2dc6c618a8ebd103aa90e20%2FREADME.md) |
 
-Generated: 26/10/2022 at 20:32:17
+Generated: 26/10/2022 at 21:01:13

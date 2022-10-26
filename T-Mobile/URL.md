@@ -15,4 +15,4 @@
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 
-Generated: 26/10/2022 at 20:31:13
+Generated: 26/10/2022 at 20:59:21

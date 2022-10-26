@@ -103,6 +103,9 @@ Description: STI End-Entity certificates shall contain a CRL Distribution Points
 | error | CN=SHAKEN 219K, O=Avaya Cloud Inc, C=US | [view](../d0133e1ece3d41e56d288b90eb8c9335ec24142e/README.md) | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 | error | CN=ATT SHAKEN 4036, OU=AT&T Services\\, Inc., O=ATT SHAKEN E-E, L=Dallas, ST=Texas, C=US | [view](../baa252858dcd14844f2871eb9b93d60af3692943/README.md) | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 | error | CN=SHAKEN 500J, O=GoTo Communications Inc, C=US | [view](../eacc4f92800aed1182716331564620b5f6d58106/README.md) | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
+| error | CN=SHAKEN 5606, O=Charter Communications Inc SHAKEN 5606, C=US | [view](../e370c45f7048a9986af9a3db5183307c2053c976/README.md) | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
+| error | CN=SHAKEN 707J, O=TextNow Inc, C=CA | [view](../01e985113cfde1adfb8122df529c2bae0301fac2/README.md) | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
+| error | CN=SHAKEN 292K, O=Falcon Endeavors, C=US | [view](../655d6fe195ecd7140c72c94ca361ad4cb893a1cf/README.md) | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 | error | CN=SHAKEN 770J, O=Fuze Inc, C=US | [view](../ed3545f28b8f2116bd00d59d4635fe94fe65183f/README.md) | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 
 ### CA Certificates
@@ -113,4 +116,4 @@ Description: STI End-Entity certificates shall contain a CRL Distribution Points
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 26/10/2022 at 20:32:17
+Generated: 26/10/2022 at 21:01:13

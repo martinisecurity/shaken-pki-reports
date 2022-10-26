@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate 22a8d66576c72f5acfc282c00a7f9e28863234ea
-Tested At: 2022-10-26 20:31:23 +0000 UTC\
+Tested At: 2022-10-26 20:59:38 +0000 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 5 day(s)\
 Subject: CN=SHAKEN 345J, OU=SHAKEN, O=Ooma Inc, C=US\
@@ -20,4 +20,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC6jCCApCgAwIBAgIQ
 | w_cp1_3_subject_rdn_unknown | warn | CPv1.3 | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 26/10/2022 at 20:32:17
+Generated: 26/10/2022 at 21:01:13

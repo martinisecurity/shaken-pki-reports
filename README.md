@@ -2,49 +2,28 @@
 
 [Approved Certificate Authorities](https://authenticate.iconectiv.com/approved-certification-authorities) in the STIR/SHAKEN ecosystem are required to meet technical requirements from [ATIS-1000080](https://access.atis.org/apps/group_public/document.php?document_id=62163) and policy requirements from the supporting CA ecosystem’s [Certificate Policy](https://authenticate.iconectiv.com/documents-authenticate).
 
-This report is generated using [Zlint](https://github.com/zmap/zlint) a tool commonly used to asses CA ecosystem compliance with such requirements. The tests used to generate this report are currently not part of the main Zlint distribution but can be found [here](https://github.com/PeculiarVentures/x509-linter).
+This report is generated using [Zlint](https://github.com/zmap/zlint) a tool commonly used to asses CA ecosystem compliance with such requirements. The tests used to generate this report are currently not part of the main Zlint distribution but can be found [here](https://github.com/martinisecurity/zlint).
 
 ## Summary
 
 ### Leaf Certificates
 
-- Average validity span as of leaf certificates 345 days
-- Percentage of leaf certificates expiring in the next 30 days is 40.33%
+- Average validity span as of leaf certificates 364 days
+- Percentage of leaf certificates expiring in the next 30 days is 38.40%
 
 | Issuers | Certificates | Errors | Warnings | Notices | Not Effective |
 |---------|--------------|--------|----------|---------|---------------|
-| [1RouteGroup](1RouteGroup%2FREADME.md#leaf-certificates) | 1 (0.33%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Allstream Business US, LLC](Allstream%20Business%20US%2C%20LLC%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
-| [Appalachian Wireless](Appalachian%20Wireless%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
-| [Avid Communication](Avid%20Communication%2FREADME.md#leaf-certificates) | 1 (0.33%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
-| [CBTS Technology Solutions LLC](CBTS%20Technology%20Solutions%20LLC%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
-| [Call48](Call48%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
 | [Comcast](Comcast%2FREADME.md#leaf-certificates) | 37 (12.05%) | 37 (100.00%) | 37 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Cspire](Cspire%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
-| [Everstream](Everstream%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
-| [GCI](GCI%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
+| [GBSDTech](GBSDTech%2FREADME.md#leaf-certificates) | 1 (0.33%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) |
 | [Martini Security](Martini%20Security%2FREADME.md#leaf-certificates) | 7 (2.28%) | 7 (100.00%) | 0 (0.00%) | 4 (57.14%) | 0 (0.00%) |
-| [Mediacom Communications Corporation](Mediacom%20Communications%20Corporation%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
+| [Metaswitch](Metaswitch%2FREADME.md#leaf-certificates) | 21 (6.84%) | 1 (4.76%) | 0 (0.00%) | 0 (0.00%) | 20 (95.24%) |
 | [NetNumber](NetNumber%2FREADME.md#leaf-certificates) | 4 (1.30%) | 4 (100.00%) | 1 (25.00%) | 4 (100.00%) | 0 (0.00%) |
-| [Neustar](Neustar%2FREADME.md#leaf-certificates) | 94 (30.62%) | 62 (65.96%) | 4 (4.26%) | 0 (0.00%) | 33 (35.11%) |
-| [Neustar Inc a TransUnion company](Neustar%20Inc%20a%20TransUnion%20company%2FREADME.md#leaf-certificates) | 3 (0.98%) | 3 (100.00%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
-| [New Horizon Communications](New%20Horizon%20Communications%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
-| [Northeast Communications of Wisconsin](Northeast%20Communications%20of%20Wisconsin%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
+| [Neustar](Neustar%2FREADME.md#leaf-certificates) | 97 (31.60%) | 65 (67.01%) | 4 (4.12%) | 0 (0.00%) | 33 (34.02%) |
 | [Peeringhub](Peeringhub%2FREADME.md#leaf-certificates) | 5 (1.63%) | 5 (100.00%) | 5 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [RCN](RCN%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
 | [Ribbon Communications](Ribbon%20Communications%2FREADME.md#leaf-certificates) | 3 (0.98%) | 3 (100.00%) | 3 (100.00%) | 0 (0.00%) | 0 (0.00%) |
 | [Sansay](Sansay%2FREADME.md#leaf-certificates) | 75 (24.43%) | 75 (100.00%) | 75 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Segra](Segra%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
-| [Sonic Telecom](Sonic%20Telecom%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
-| [South Central Rural Telecommunications Cooperative](South%20Central%20Rural%20Telecommunications%20Cooperative%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
 | [T-Mobile](T-Mobile%2FREADME.md#leaf-certificates) | 1 (0.33%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [TDS Telecom](TDS%20Telecom%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
-| [Telesystem](Telesystem%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
 | [TransNexus](TransNexus%2FREADME.md#leaf-certificates) | 56 (18.24%) | 56 (100.00%) | 55 (98.21%) | 0 (0.00%) | 2 (3.57%) |
-| [U. S. Telepacific Corp](U.%20S.%20Telepacific%20Corp%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
-| [USCellular SHAKEN Cert 6349](USCellular%20SHAKEN%20Cert%206349%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
-| [Verizon Data Services LLC](Verizon%20Data%20Services%20LLC%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
-| [WOW Internet Cable and Phone](WOW%20Internet%20Cable%20and%20Phone%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
 | **Total** | 307 (100%) | 255 (83.06%) | 182 (59.28%) | 8 (2.61%) | 55 (17.92%) |
 
 \* The percent of certificates per issuer is calculated against total certificates from all issuers.\
@@ -58,18 +37,18 @@ This report is generated using [Zlint](https://github.com/zmap/zlint) a tool com
 
 | Issuers | Certificates | Errors | Warnings | Notices | Not Effective |
 |---------|--------------|--------|----------|---------|---------------|
-| [Comcast](Comcast%2FREADME.md#ca-certificates) | 1 (4.55%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
-| [GBSDTech](GBSDTech%2FREADME.md#ca-certificates) | 2 (9.09%) | 1 (50.00%) | 0 (0.00%) | 0 (0.00%) | 2 (100.00%) |
-| [Martini Security](Martini%20Security%2FREADME.md#ca-certificates) | 2 (9.09%) | 2 (100.00%) | 1 (50.00%) | 1 (50.00%) | 1 (50.00%) |
-| [Metaswitch STI-CA SHAKEN Issuing 1](Metaswitch%20STI-CA%20SHAKEN%20Issuing%201%2FREADME.md#ca-certificates) | 1 (4.55%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
-| [NetNumber](NetNumber%2FREADME.md#ca-certificates) | 1 (4.55%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
-| [Neustar](Neustar%2FREADME.md#ca-certificates) | 8 (36.36%) | 2 (25.00%) | 2 (25.00%) | 8 (100.00%) | 6 (75.00%) |
-| [Peeringhub](Peeringhub%2FREADME.md#ca-certificates) | 1 (4.55%) | 1 (100.00%) | 0 (0.00%) | 1 (100.00%) | 1 (100.00%) |
-| [Ribbon Communications](Ribbon%20Communications%2FREADME.md#ca-certificates) | 1 (4.55%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) | 1 (100.00%) |
-| [Sansay](Sansay%2FREADME.md#ca-certificates) | 1 (4.55%) | 1 (100.00%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [T-Mobile](T-Mobile%2FREADME.md#ca-certificates) | 1 (4.55%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) | 1 (100.00%) |
-| [TransNexus](TransNexus%2FREADME.md#ca-certificates) | 3 (13.64%) | 2 (66.67%) | 0 (0.00%) | 3 (100.00%) | 3 (100.00%) |
-| **Total** | 22 (100%) | 9 (40.91%) | 4 (18.18%) | 16 (72.73%) | 18 (81.82%) |
+| [Comcast](Comcast%2FREADME.md#ca-certificates) | 2 (5.71%) | 0 (0.00%) | 0 (0.00%) | 1 (50.00%) | 2 (100.00%) |
+| [GBSDTech](GBSDTech%2FREADME.md#ca-certificates) | 3 (8.57%) | 1 (33.33%) | 0 (0.00%) | 0 (0.00%) | 3 (100.00%) |
+| [Martini Security](Martini%20Security%2FREADME.md#ca-certificates) | 3 (8.57%) | 2 (66.67%) | 1 (33.33%) | 1 (33.33%) | 2 (66.67%) |
+| [Metaswitch](Metaswitch%2FREADME.md#ca-certificates) | 2 (5.71%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 2 (100.00%) |
+| [NetNumber](NetNumber%2FREADME.md#ca-certificates) | 3 (8.57%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 3 (100.00%) |
+| [Neustar](Neustar%2FREADME.md#ca-certificates) | 10 (28.57%) | 2 (20.00%) | 2 (20.00%) | 10 (100.00%) | 8 (80.00%) |
+| [Peeringhub](Peeringhub%2FREADME.md#ca-certificates) | 2 (5.71%) | 1 (50.00%) | 0 (0.00%) | 2 (100.00%) | 2 (100.00%) |
+| [Ribbon Communications](Ribbon%20Communications%2FREADME.md#ca-certificates) | 2 (5.71%) | 0 (0.00%) | 0 (0.00%) | 2 (100.00%) | 2 (100.00%) |
+| [Sansay](Sansay%2FREADME.md#ca-certificates) | 2 (5.71%) | 1 (50.00%) | 1 (50.00%) | 1 (50.00%) | 1 (50.00%) |
+| [T-Mobile](T-Mobile%2FREADME.md#ca-certificates) | 2 (5.71%) | 0 (0.00%) | 0 (0.00%) | 2 (100.00%) | 2 (100.00%) |
+| [TransNexus](TransNexus%2FREADME.md#ca-certificates) | 4 (11.43%) | 3 (75.00%) | 0 (0.00%) | 4 (100.00%) | 4 (100.00%) |
+| **Total** | 35 (100%) | 10 (28.57%) | 4 (11.43%) | 23 (65.71%) | 31 (88.57%) |
 
 \* The percent of certificates per issuer is calculated against total certificates from all issuers.\
 \*\* The percent of errors, warnings and notices is calculated against total observed certificates from the specified issuer.\
@@ -84,4 +63,4 @@ This report is generated using [Zlint](https://github.com/zmap/zlint) a tool com
 | Notice | Tests in which industry best practices are not followed. |
 | Not Effective	| Tests that exist in the current specifications but were not in effect at the time of issuance. |
 
-Generated: 26/10/2022 at 20:32:17
+Generated: 26/10/2022 at 21:01:13

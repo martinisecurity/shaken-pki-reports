@@ -2,9 +2,9 @@
 ## Sansay
 
 ### Certificate ccd437835c59c46742e20ffa132954e2127fbc42
-Tested At: 2022-10-26 20:32:02 +0000 UTC\
+Tested At: 2022-10-26 21:00:47 +0000 UTC\
 Initial Validity Period: 2555 day(s)\
-Remaining Validity Period: 2502 day(s)\
+Remaining Validity Period: 2501 day(s)\
 Subject: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Issuer: CN=SHAKEN Sansay Root CA US, OU=Sansay CA, O=Sansay Corporation, L=San Diego, ST=California, C=US
 
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC2zCCAoCgAwIBAgIU
 | w_cp1_3_ca_subject_rdn_unknown | warn | CPv1.3 | Only CN, C, and O can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_sti_ca_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 
-Generated: 26/10/2022 at 20:32:17
+Generated: 26/10/2022 at 21:01:13

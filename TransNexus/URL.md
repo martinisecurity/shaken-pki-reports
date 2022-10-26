@@ -2002,4 +2002,4 @@
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 
-Generated: 26/10/2022 at 20:31:13
+Generated: 26/10/2022 at 20:59:21
