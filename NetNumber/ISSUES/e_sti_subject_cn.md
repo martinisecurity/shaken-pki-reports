@@ -11,10 +11,10 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | L=Austin, ST=Texas, O=Plivo Inc, C=US, CN=Plivo Inc | [view](../0ebf970365dbca8232b80e72c6da7e05bb43d33a/README.md) | Common name shall contain the text string 'SHAKEN 800J' |
-| error | O=Google, C=US, CN=Google SHAKEN cert 969H | [view](../ff1d02a3c6ad3f781b7f0c1ed0d1ce118ccf17fd/README.md) | Common name shall contain the text string 'SHAKEN 969H' |
-| error | O=Google, C=US, CN=Google SHAKEN cert 969H | [view](../b217a06e40b398741fb71143b36092f26d2bfee5/README.md) | Common name shall contain the text string 'SHAKEN 969H' |
-| error | O=Baltimore-Washington Telephone Company, C=US, CN=Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../58237e16980e6098eaf1ed3897e29619ffb27965/README.md) | Common name shall contain the text string 'SHAKEN 8697' |
+| error | L=Austin, ST=Texas, O=Plivo Inc, C=US, CN=Plivo Inc | [view](../0ebf970365dbca8232b80e72c6da7e05bb43d33a/index.html) | Common name shall contain the text string 'SHAKEN 800J' |
+| error | O=Google, C=US, CN=Google SHAKEN cert 969H | [view](../ff1d02a3c6ad3f781b7f0c1ed0d1ce118ccf17fd/index.html) | Common name shall contain the text string 'SHAKEN 969H' |
+| error | O=Google, C=US, CN=Google SHAKEN cert 969H | [view](../b217a06e40b398741fb71143b36092f26d2bfee5/index.html) | Common name shall contain the text string 'SHAKEN 969H' |
+| error | O=Baltimore-Washington Telephone Company, C=US, CN=Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../58237e16980e6098eaf1ed3897e29619ffb27965/index.html) | Common name shall contain the text string 'SHAKEN 8697' |
 
 ### CA Certificates
 
@@ -24,4 +24,4 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41

@@ -18,8 +18,8 @@ no warning, or error, or not effective date level issues were found
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| not effective | CN=Martini Security SHAKEN R1, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US | [view](../0ffc3156067f94ee63a0ff6f33fce9cff5f51d39/README.md) |  |
-| not effective | CN=Martini Security SHAKEN G1, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US | [view](../0fe086f321e93ca9ae08a19a89bf9049b7625fcf/README.md) |  |
+| not effective | CN=Martini Security SHAKEN R1, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US | [view](../0ffc3156067f94ee63a0ff6f33fce9cff5f51d39/index.html) |  |
+| not effective | CN=Martini Security SHAKEN G1, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US | [view](../0fe086f321e93ca9ae08a19a89bf9049b7625fcf/index.html) |  |
 
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41

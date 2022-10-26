@@ -11,7 +11,7 @@ Description: STI certificates shall include a Serial Number field containing an 
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | CN=SHAKEN, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US | [view](../303d898eeeb3da9a375ea057a8f1fb1a00921e3f/README.md) | STI certificates shall include a Serial Number field containing an integer greater than zero. The serial number shall contain at least 64 bits of output from a Cryptographically Secure PseudoRandom Number Generator (CSPRNG) |
+| error | CN=SHAKEN, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US | [view](../303d898eeeb3da9a375ea057a8f1fb1a00921e3f/index.html) | STI certificates shall include a Serial Number field containing an integer greater than zero. The serial number shall contain at least 64 bits of output from a Cryptographically Secure PseudoRandom Number Generator (CSPRNG) |
 
 ### CA Certificates
 
@@ -21,4 +21,4 @@ Description: STI certificates shall include a Serial Number field containing an 
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41

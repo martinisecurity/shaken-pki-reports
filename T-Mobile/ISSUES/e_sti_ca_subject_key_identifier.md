@@ -18,8 +18,8 @@ no warning, or error, or not effective date level issues were found
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| not effective | CN=TMOBILE-PROD-ROOT-STIRSHAKEN-EC, O=TMOBILE-USA, C=US | [view](../7dddc0874c3665ba6d3e5fce061c3e5ad7761511/README.md) |  |
-| not effective | CN=TMOBILE-PROD-SUB-STIRSHAKEN-EC, O=TMOBILE-USA, C=US | [view](../45f4213a0916f509c15c42441aa6811f71c047ba/README.md) |  |
+| not effective | CN=TMOBILE-PROD-ROOT-STIRSHAKEN-EC, O=TMOBILE-USA, C=US | [view](../7dddc0874c3665ba6d3e5fce061c3e5ad7761511/index.html) |  |
+| not effective | CN=TMOBILE-PROD-SUB-STIRSHAKEN-EC, O=TMOBILE-USA, C=US | [view](../45f4213a0916f509c15c42441aa6811f71c047ba/index.html) |  |
 
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41

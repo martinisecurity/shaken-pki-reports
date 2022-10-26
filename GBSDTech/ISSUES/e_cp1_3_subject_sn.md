@@ -11,7 +11,7 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | CN=MYPBXManager SHAKEN, O=MYPBXManager LLC, ST=New York, C=US | [view](../a3872afd09406d2745d204893b6b52bbf6380f84/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| error | CN=MYPBXManager SHAKEN, O=MYPBXManager LLC, ST=New York, C=US | [view](../a3872afd09406d2745d204893b6b52bbf6380f84/index.html) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 ### CA Certificates
 
@@ -21,4 +21,4 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41

@@ -18,7 +18,7 @@ no warning, or error, or not effective date level issues were found
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| notice | CN=Martini Security SHAKEN G1, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US | [view](../0fe086f321e93ca9ae08a19a89bf9049b7625fcf/README.md) | STI certificates should contain a CertificatePolicies extension marked uncritical |
+| notice | CN=Martini Security SHAKEN G1, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US | [view](../0fe086f321e93ca9ae08a19a89bf9049b7625fcf/index.html) | STI certificates should contain a CertificatePolicies extension marked uncritical |
 
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41

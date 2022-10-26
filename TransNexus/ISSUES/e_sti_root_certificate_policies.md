@@ -18,7 +18,7 @@ no warning, or error, or not effective date level issues were found
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| not effective | CN=TransNexus\\, Inc. SHAKEN Root CA1, OU=SHAKEN, O=TransNexus\\, Inc., C=US | [view](../36dc4ae1d521b8a5aedd10498e6ce757581b197f/README.md) |  |
+| not effective | CN=TransNexus\\, Inc. SHAKEN Root CA1, OU=SHAKEN, O=TransNexus\\, Inc., C=US | [view](../36dc4ae1d521b8a5aedd10498e6ce757581b197f/index.html) |  |
 
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41

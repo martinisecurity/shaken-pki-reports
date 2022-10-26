@@ -11,7 +11,7 @@ Description: STI End-Entity certificates shall contain a CRL Distribution Points
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | CN=MYPBXManager SHAKEN, O=MYPBXManager LLC, ST=New York, C=US | [view](../a3872afd09406d2745d204893b6b52bbf6380f84/README.md) | STI End-Entity certificates shall contain a CRL Distribution Points extension |
+| error | CN=MYPBXManager SHAKEN, O=MYPBXManager LLC, ST=New York, C=US | [view](../a3872afd09406d2745d204893b6b52bbf6380f84/index.html) | STI End-Entity certificates shall contain a CRL Distribution Points extension |
 
 ### CA Certificates
 
@@ -21,4 +21,4 @@ Description: STI End-Entity certificates shall contain a CRL Distribution Points
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41

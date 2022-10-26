@@ -18,7 +18,7 @@ no warning, or error, or not effective date level issues were found
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| not effective | CN=TMOBILE-PROD-ROOT-STIRSHAKEN-EC, O=TMOBILE-USA, C=US | [view](../7dddc0874c3665ba6d3e5fce061c3e5ad7761511/README.md) |  |
+| not effective | CN=TMOBILE-PROD-ROOT-STIRSHAKEN-EC, O=TMOBILE-USA, C=US | [view](../7dddc0874c3665ba6d3e5fce061c3e5ad7761511/index.html) |  |
 
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41

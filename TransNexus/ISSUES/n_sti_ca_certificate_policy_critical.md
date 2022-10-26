@@ -18,8 +18,8 @@ no warning, or error, or not effective date level issues were found
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| not effective | CN=TransNexus\\, Inc. SHAKEN Issuing CA1, OU=SHAKEN, O=TransNexus\\, Inc., C=US | [view](../2d540c7179aad19290a2098ccac8053645527154/README.md) |  |
-| not effective | CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US | [view](../df7d871ff60d213820a96308346eda870d6e8ed2/README.md) |  |
+| not effective | CN=TransNexus\\, Inc. SHAKEN Issuing CA1, OU=SHAKEN, O=TransNexus\\, Inc., C=US | [view](../2d540c7179aad19290a2098ccac8053645527154/index.html) |  |
+| not effective | CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US | [view](../df7d871ff60d213820a96308346eda870d6e8ed2/index.html) |  |
 
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41

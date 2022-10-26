@@ -11,10 +11,10 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| not effective | CN=Charter Communications Inc SHAKEN 5606, OU=Charter Communications Inc, O=TransNexus, C=US | [view](../abbd6bca303f79a930d3a14e0d3538c51934a97a/README.md) |  |
-| error | CN=MobileSphere SHAKEN 873J, OU=MobileSphere, O=TransNexus, C=US | [view](../701a8780085449f2f6ee50c287cecc20f2219b2f/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| error | CN=Fusion Connect SHAKEN 2720, OU=Fusion Connect, O=TransNexus, C=US | [view](../136f6839b2fa440965940ff380d9cde7b053f2d0/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| error | CN=CCI SHAKEN 663J, OU=CCI, O=TransNexus, C=US | [view](../7c0be1458e20b8247bce9338ecbe8322578f807c/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| not effective | CN=Charter Communications Inc SHAKEN 5606, OU=Charter Communications Inc, O=TransNexus, C=US | [view](../abbd6bca303f79a930d3a14e0d3538c51934a97a/index.html) |  |
+| error | CN=MobileSphere SHAKEN 873J, OU=MobileSphere, O=TransNexus, C=US | [view](../701a8780085449f2f6ee50c287cecc20f2219b2f/index.html) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| error | CN=Fusion Connect SHAKEN 2720, OU=Fusion Connect, O=TransNexus, C=US | [view](../136f6839b2fa440965940ff380d9cde7b053f2d0/index.html) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| error | CN=CCI SHAKEN 663J, OU=CCI, O=TransNexus, C=US | [view](../7c0be1458e20b8247bce9338ecbe8322578f807c/index.html) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
 ### CA Certificates
 
@@ -24,4 +24,4 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41

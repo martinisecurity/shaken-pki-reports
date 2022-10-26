@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate 028dce43c813a7323688f37a7d491be743d9bbb2
-Tested At: 2022-10-26 22:29:42 +0000 UTC\
+Tested At: 2022-10-26 23:13:39 +0000 UTC\
 Initial Validity Period: 7305 day(s)\
 Remaining Validity Period: 6176 day(s)\
 Subject: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID Root CA\
@@ -21,22 +21,22 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIEBjCCAu6gAwIBAgIU
 
 ### Not Effective
 
-- e_sti_root_authority_key_identifier
-- e_sti_ca_signature_algorithm
-- e_sti_ca_subject
-- e_sti_ca_version
-- e_sti_ca_key_usage
-- e_sti_root_extension_unknown
 - e_cp1_3_ca_key_usage_crl_sign
-- e_sti_ca_subject_public_key
-- e_sti_ca_subject_cn
-- e_sti_basic_constraints
-- e_sti_ca_issuer_dn
 - e_sti_ca_serial_number
 - e_sti_ca_subject_key_identifier
+- e_sti_root_extension_unknown
+- e_sti_root_authority_key_identifier
 - w_cp1_3_ca_subject_rdn_unknown
+- e_sti_ca_subject_cn
+- e_sti_ca_signature_algorithm
+- e_sti_ca_key_usage
 - e_sti_root_certificate_policies
+- e_sti_ca_subject_public_key
+- e_sti_ca_version
+- e_sti_basic_constraints
+- e_sti_ca_issuer_dn
+- e_sti_ca_subject
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41

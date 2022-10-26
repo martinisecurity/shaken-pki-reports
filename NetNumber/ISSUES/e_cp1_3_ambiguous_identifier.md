@@ -11,10 +11,10 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | L=Austin, ST=Texas, O=Plivo Inc, C=US, CN=Plivo Inc | [view](../0ebf970365dbca8232b80e72c6da7e05bb43d33a/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| error | O=Google, C=US, CN=Google SHAKEN cert 969H | [view](../ff1d02a3c6ad3f781b7f0c1ed0d1ce118ccf17fd/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| error | O=Google, C=US, CN=Google SHAKEN cert 969H | [view](../b217a06e40b398741fb71143b36092f26d2bfee5/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| error | O=Baltimore-Washington Telephone Company, C=US, CN=Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../58237e16980e6098eaf1ed3897e29619ffb27965/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| error | L=Austin, ST=Texas, O=Plivo Inc, C=US, CN=Plivo Inc | [view](../0ebf970365dbca8232b80e72c6da7e05bb43d33a/index.html) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| error | O=Google, C=US, CN=Google SHAKEN cert 969H | [view](../ff1d02a3c6ad3f781b7f0c1ed0d1ce118ccf17fd/index.html) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| error | O=Google, C=US, CN=Google SHAKEN cert 969H | [view](../b217a06e40b398741fb71143b36092f26d2bfee5/index.html) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| error | O=Baltimore-Washington Telephone Company, C=US, CN=Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../58237e16980e6098eaf1ed3897e29619ffb27965/index.html) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
 ### CA Certificates
 
@@ -24,4 +24,4 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41

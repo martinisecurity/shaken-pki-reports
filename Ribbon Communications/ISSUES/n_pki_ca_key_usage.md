@@ -18,8 +18,8 @@ no warning, or error, or not effective date level issues were found
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| notice | CN=SHAKEN Ribbon Root CA, OU=Certification Authority, O=Ribbon Communications, C=US | [view](../5e00d019ee3884ec7d8513deb8f4e8671a1db86e/README.md) | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
-| notice | CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US | [view](../cac26ee453b887be4c545426c19733add7c138c0/README.md) | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
+| notice | CN=SHAKEN Ribbon Root CA, OU=Certification Authority, O=Ribbon Communications, C=US | [view](../5e00d019ee3884ec7d8513deb8f4e8671a1db86e/index.html) | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
+| notice | CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US | [view](../cac26ee453b887be4c545426c19733add7c138c0/index.html) | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41

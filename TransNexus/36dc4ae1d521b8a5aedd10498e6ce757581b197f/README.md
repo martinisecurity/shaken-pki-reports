@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate 36dc4ae1d521b8a5aedd10498e6ce757581b197f
-Tested At: 2022-10-26 22:29:40 +0000 UTC\
+Tested At: 2022-10-26 23:13:38 +0000 UTC\
 Initial Validity Period: 7305 day(s)\
 Remaining Validity Period: 6873 day(s)\
 Subject: CN=TransNexus\\, Inc. SHAKEN Root CA1, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
@@ -20,21 +20,21 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICBzCCAa6gAwIBAgIQ
 
 ### Not Effective
 
-- e_sti_ca_subject_cn
 - e_sti_ca_serial_number
-- e_sti_ca_version
-- e_cp1_3_ca_key_usage_crl_sign
-- e_sti_basic_constraints
-- e_sti_ca_subject_key_identifier
-- e_sti_ca_issuer_dn
-- e_sti_root_certificate_policies
-- w_cp1_3_ca_subject_rdn_unknown
-- e_sti_ca_subject_public_key
-- e_sti_ca_key_usage
-- e_sti_ca_subject
 - e_sti_root_extension_unknown
+- e_sti_ca_subject
+- e_sti_ca_key_usage
+- e_sti_ca_subject_public_key
+- e_sti_ca_subject_cn
+- w_cp1_3_ca_subject_rdn_unknown
+- e_sti_root_certificate_policies
+- e_sti_basic_constraints
 - e_sti_ca_signature_algorithm
+- e_cp1_3_ca_key_usage_crl_sign
+- e_sti_ca_issuer_dn
+- e_sti_ca_subject_key_identifier
+- e_sti_ca_version
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41

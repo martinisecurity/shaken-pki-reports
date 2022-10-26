@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate 9e8c6e83efe9133df13009a69d1dfbe8801f0a13
-Tested At: 2022-10-26 22:30:47 +0000 UTC\
+Tested At: 2022-10-26 23:14:15 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 227 day(s)\
 Subject: CN=SHAKEN 597J, OU=SHAKEN, O=Voxtelesys, C=US\
@@ -20,4 +20,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC7DCCApKgAwIBAgIQ
 | w_cp1_3_subject_rdn_unknown | warn | CPv1.3 | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41

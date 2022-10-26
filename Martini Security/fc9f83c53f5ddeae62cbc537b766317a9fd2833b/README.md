@@ -2,7 +2,7 @@
 ## Martini Security
 
 ### Certificate fc9f83c53f5ddeae62cbc537b766317a9fd2833b
-Tested At: 2022-10-26 22:31:32 +0000 UTC\
+Tested At: 2022-10-26 23:14:40 +0000 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: 85 day(s)\
 Subject: O=LOW LATENCY COMMUNICATIONS LLC, C=US, serialNumber=27E681E41B39FDDADA26A9950A0CA570, CN=SHAKEN 709J\
@@ -17,4 +17,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDKTCCAs6gAwIBAgIU
 |------|------|--------|---------|
 | e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41

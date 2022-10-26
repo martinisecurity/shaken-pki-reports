@@ -11,7 +11,7 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | CN=cert.stir.t-mobile.com, OU=T-Mobile USA\\, Inc, O=T-Mobile USA\\, Inc., L=Bothell, ST=Washington, C=US | [view](../9ac0def10180cb22aad9e8885715c9409031697a/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| error | CN=cert.stir.t-mobile.com, OU=T-Mobile USA\\, Inc, O=T-Mobile USA\\, Inc., L=Bothell, ST=Washington, C=US | [view](../9ac0def10180cb22aad9e8885715c9409031697a/index.html) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
 ### CA Certificates
 
@@ -21,4 +21,4 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41

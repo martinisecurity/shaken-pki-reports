@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate 701a8780085449f2f6ee50c287cecc20f2219b2f
-Tested At: 2022-10-26 22:30:27 +0000 UTC\
+Tested At: 2022-10-26 23:14:04 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 79 day(s)\
 Subject: CN=MobileSphere SHAKEN 873J, OU=MobileSphere, O=TransNexus, C=US\
@@ -17,27 +17,27 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICnTCCAkOgAwIBAgIQ
 |------|------|--------|---------|
 | e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | e_incorrect_ku_encoding | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
-| e_cp1_3_ambiguous_identifier | error | CPv1.3 | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | w_cp1_3_subject_rdn_unknown | warn | CPv1.3 | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| e_cp1_3_ambiguous_identifier | error | CPv1.3 | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
 ### Not Effective
 
 - e_sti_crl_distribution
 - e_sti_subject_public_key
-- e_sti_serial_number
 - e_sti_subject_cn
-- e_sti_authority_key_identifier
-- e_sti_tn_auth_list
-- e_sti_issuer_dn
-- e_sti_subject
-- e_sti_subject_key_identifier
 - e_sti_extension_unknown
-- n_sti_certificate_policy_critical
 - e_sti_certificate_policies
+- e_sti_serial_number
+- e_sti_subject_key_identifier
+- e_sti_tn_auth_list
 - e_sti_version
-- e_sti_signature_algorithm
+- e_sti_subject
+- e_sti_authority_key_identifier
 - e_sti_key_usage
+- e_sti_issuer_dn
+- e_sti_signature_algorithm
+- n_sti_certificate_policy_critical
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41

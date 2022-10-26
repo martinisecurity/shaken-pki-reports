@@ -18,8 +18,8 @@ no warning, or error, or not effective date level issues were found
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| not effective | CN=Metaswitch STI-CA SHAKEN Root | [view](../44d544c71033b19edf1ebcbc6b31428d51203a95/README.md) |  |
-| not effective | CN=Metaswitch STI-CA SHAKEN Issuing 1 | [view](../89a2a7c2332d416885f9adac29ade0024df9d563/README.md) |  |
+| not effective | CN=Metaswitch STI-CA SHAKEN Root | [view](../44d544c71033b19edf1ebcbc6b31428d51203a95/index.html) |  |
+| not effective | CN=Metaswitch STI-CA SHAKEN Issuing 1 | [view](../89a2a7c2332d416885f9adac29ade0024df9d563/index.html) |  |
 
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41

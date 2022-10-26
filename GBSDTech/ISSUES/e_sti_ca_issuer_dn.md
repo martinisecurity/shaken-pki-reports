@@ -18,9 +18,9 @@ no warning, or error, or not effective date level issues were found
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| not effective | CN=GBSDTech SHAKEN Root CA, O=GBSDTech, L=Ft Worth, ST=Texas, C=US | [view](../c6beb88bee7544f012d9579a8002bf774a717ef0/README.md) |  |
-| not effective | CN=GBSDTech SHAKEN Root CA, O=GBSDTech, L=Ft Worth, ST=Texas, C=US | [view](../c6beb88bee7544f012d9579a8002bf774a717ef0/README.md) |  |
-| not effective | CN=1RouteGroup SHAKEN Intermediate CA, O=1RouteGroup, ST=Texas, C=US | [view](../b34acd5cf741f6c98726c200f39517c4bd02d4cd/README.md) |  |
+| not effective | CN=GBSDTech SHAKEN Root CA, O=GBSDTech, L=Ft Worth, ST=Texas, C=US | [view](../c6beb88bee7544f012d9579a8002bf774a717ef0/index.html) |  |
+| not effective | CN=GBSDTech SHAKEN Root CA, O=GBSDTech, L=Ft Worth, ST=Texas, C=US | [view](../c6beb88bee7544f012d9579a8002bf774a717ef0/index.html) |  |
+| not effective | CN=1RouteGroup SHAKEN Intermediate CA, O=1RouteGroup, ST=Texas, C=US | [view](../b34acd5cf741f6c98726c200f39517c4bd02d4cd/index.html) |  |
 
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41

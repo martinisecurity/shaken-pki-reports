@@ -11,9 +11,9 @@ Description: STI End-Entity certificates shall contain a CRL Distribution Points
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | CN=Nuwave Communications SHAKEN 620J, OU=Nuwave Communications, O=Nuwave Communications, C=US | [view](../aa06ee0a2f5d5930087d1a2dc67e5d6d649506cf/README.md) | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
-| error | CN=Veracity SHAKEN 716D, OU=Voice, O=Veracity Networks LLC, C=US | [view](../eaa33c30a7def67c3c9acd4e19eaadb6b0f73ed1/README.md) | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
-| error | CN=Netfortris SHAKEN 8886, OU=VOIP, O=Netfortris, C=US | [view](../917049a2c60a5a3116f69124efa6ec0dc9c119ed/README.md) | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
+| error | CN=Nuwave Communications SHAKEN 620J, OU=Nuwave Communications, O=Nuwave Communications, C=US | [view](../aa06ee0a2f5d5930087d1a2dc67e5d6d649506cf/index.html) | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
+| error | CN=Veracity SHAKEN 716D, OU=Voice, O=Veracity Networks LLC, C=US | [view](../eaa33c30a7def67c3c9acd4e19eaadb6b0f73ed1/index.html) | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
+| error | CN=Netfortris SHAKEN 8886, OU=VOIP, O=Netfortris, C=US | [view](../917049a2c60a5a3116f69124efa6ec0dc9c119ed/index.html) | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 
 ### CA Certificates
 
@@ -23,4 +23,4 @@ Description: STI End-Entity certificates shall contain a CRL Distribution Points
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41

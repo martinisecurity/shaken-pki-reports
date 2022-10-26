@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate fcb822be75aed3225b93dad5afc7bccae93cfe75
-Tested At: 2022-10-26 22:31:32 +0000 UTC\
+Tested At: 2022-10-26 23:14:40 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 164 day(s)\
 Subject: CN=SHAKEN 973J, O=Vibratel, C=US\
@@ -16,8 +16,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2BDCCAp%2BgAwIB
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| e_sti_certificate_policies | error | ATIS-1000080v4 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| e_sti_extension_unknown | error | ATIS-1000080v4 | STI certificate shall not include extensions that are not specified |
 | e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
+| e_sti_extension_unknown | error | ATIS-1000080v4 | STI certificate shall not include extensions that are not specified |
+| e_sti_certificate_policies | error | ATIS-1000080v4 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41

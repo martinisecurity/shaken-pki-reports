@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate 63a29d037569770d076f719fd55e4daa34c1b717
-Tested At: 2022-10-26 22:30:23 +0000 UTC\
+Tested At: 2022-10-26 23:14:02 +0000 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: 1 day(s)\
 Subject: CN=SHAKEN 674J, OU=SHAKEN, O=Panterra Networks Inc., C=US\
@@ -20,4 +20,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2BTCCAp6gAwIBAg
 | w_cp1_3_subject_rdn_unknown | warn | CPv1.3 | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41

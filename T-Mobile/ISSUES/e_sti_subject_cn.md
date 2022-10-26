@@ -11,7 +11,7 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | CN=cert.stir.t-mobile.com, OU=T-Mobile USA\\, Inc, O=T-Mobile USA\\, Inc., L=Bothell, ST=Washington, C=US | [view](../9ac0def10180cb22aad9e8885715c9409031697a/README.md) | Common name shall contain the text string 'SHAKEN 6529' |
+| error | CN=cert.stir.t-mobile.com, OU=T-Mobile USA\\, Inc, O=T-Mobile USA\\, Inc., L=Bothell, ST=Washington, C=US | [view](../9ac0def10180cb22aad9e8885715c9409031697a/index.html) | Common name shall contain the text string 'SHAKEN 6529' |
 
 ### CA Certificates
 
@@ -21,4 +21,4 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 26/10/2022 at 22:31:35
+Generated: 26/10/2022 at 23:14:41
