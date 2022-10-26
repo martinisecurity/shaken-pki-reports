@@ -2,7 +2,7 @@
 ## Neustar Inc a TransUnion company
 
 ### Certificate 655d6fe195ecd7140c72c94ca361ad4cb893a1cf
-Tested At: 2022-10-26 20:21:33 +0000 UTC\
+Tested At: 2022-10-26 20:31:37 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 324 day(s)\
 Subject: CN=SHAKEN 292K, O=Falcon Endeavors, C=US\
@@ -18,4 +18,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDBDCCAqqgAwIBAgIU
 | e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 | e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 26/10/2022 at 20:22:11
+Generated: 26/10/2022 at 20:32:17

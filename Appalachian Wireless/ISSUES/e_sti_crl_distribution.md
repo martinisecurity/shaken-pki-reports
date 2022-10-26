@@ -14,4 +14,4 @@ Description: STI End-Entity certificates shall contain a CRL Distribution Points
 | not effective | CN=Appalachian Wireless SHAKEN Cert 6940, O=Appalachian Wireless, C=US | [view](../2437c95b23b10e95d71f18f8c0b9913ba965a7fa/README.md) |  |
 
 
-Generated: 26/10/2022 at 20:22:11
+Generated: 26/10/2022 at 20:32:17

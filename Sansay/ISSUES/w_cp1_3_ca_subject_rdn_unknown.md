@@ -21,4 +21,4 @@ no warning, or error, or not effective date level issues were found
 | warn | CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US | [view](../ccd437835c59c46742e20ffa132954e2127fbc42/README.md) | Only CN, C, and O can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 26/10/2022 at 20:22:11
+Generated: 26/10/2022 at 20:32:17

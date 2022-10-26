@@ -11,8 +11,9 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
+| error | CN=SHAKEN 5606, O=Charter Communications Inc SHAKEN 5606, C=US | [view](../e370c45f7048a9986af9a3db5183307c2053c976/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | CN=SHAKEN 707J, O=TextNow Inc, C=CA | [view](../01e985113cfde1adfb8122df529c2bae0301fac2/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | CN=SHAKEN 292K, O=Falcon Endeavors, C=US | [view](../655d6fe195ecd7140c72c94ca361ad4cb893a1cf/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 26/10/2022 at 20:22:11
+Generated: 26/10/2022 at 20:32:17

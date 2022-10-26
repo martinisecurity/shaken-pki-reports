@@ -14,4 +14,4 @@ Description: STI certificates shall contain a Basic Constraints extension marked
 | not effective | CN=USCellular SHAKEN Cert 6349, L=Ch, ST=IL, C=US | [view](../9215e4a768eaf6b5209dfeccc846e5d604061979/README.md) |  |
 
 
-Generated: 26/10/2022 at 20:22:11
+Generated: 26/10/2022 at 20:32:17

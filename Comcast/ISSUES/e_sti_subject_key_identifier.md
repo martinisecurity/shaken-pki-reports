@@ -57,4 +57,4 @@ Description: STI certificates shall contain a Subject Key Identifier extension
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 26/10/2022 at 20:22:11
+Generated: 26/10/2022 at 20:32:17

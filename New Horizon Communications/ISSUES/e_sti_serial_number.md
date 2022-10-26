@@ -14,4 +14,4 @@ Description: STI certificates shall include a Serial Number field containing an 
 | not effective | CN=New Horizon SHAKEN Cert 127E, O=New Horizon Communications, C=US | [view](../f8c902cd9b98752b438cd813d9ea611882ca935d/README.md) |  |
 
 
-Generated: 26/10/2022 at 20:22:11
+Generated: 26/10/2022 at 20:32:17

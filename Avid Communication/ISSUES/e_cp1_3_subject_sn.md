@@ -14,4 +14,4 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 | error | CN=Avid Communication SHAKEN Cert 742D, O=Avid Communication, C=US | [view](../ae5ecd4815b5f6173076a0f16e3abb2091254210/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 26/10/2022 at 20:22:11
+Generated: 26/10/2022 at 20:32:17

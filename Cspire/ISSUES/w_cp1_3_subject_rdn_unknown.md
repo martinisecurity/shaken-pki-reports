@@ -14,4 +14,4 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 | not effective | CN=Cspire SHAKEN Cert 6581, O=Cspire, C=US | [view](../9320f7adbea7bb821422b21b229baaef4ef47c11/README.md) |  |
 
 
-Generated: 26/10/2022 at 20:22:11
+Generated: 26/10/2022 at 20:32:17

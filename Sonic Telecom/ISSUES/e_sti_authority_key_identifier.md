@@ -14,4 +14,4 @@ Description: STI certificates shall contain an Authority Key Identifier extensio
 | not effective | CN=Sonic Telecom SHAKEN cert 433E, O=Sonic Telecom, ST=CA, C=US | [view](../954ca8988aa2a569c678c36777914fd6f1cd551a/README.md) |  |
 
 
-Generated: 26/10/2022 at 20:22:11
+Generated: 26/10/2022 at 20:32:17

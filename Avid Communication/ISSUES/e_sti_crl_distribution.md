@@ -14,4 +14,4 @@ Description: STI End-Entity certificates shall contain a CRL Distribution Points
 | error | CN=Avid Communication SHAKEN Cert 742D, O=Avid Communication, C=US | [view](../ae5ecd4815b5f6173076a0f16e3abb2091254210/README.md) | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 
 
-Generated: 26/10/2022 at 20:22:11
+Generated: 26/10/2022 at 20:32:17

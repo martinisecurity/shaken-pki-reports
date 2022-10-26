@@ -14,4 +14,4 @@ Description: STI certificates shall contain a Subject Key Identifier extension
 | not effective | CN=Northeast Communications of Wisconsin SHAKEN Cert 6692, O=Northeast Communications of Wisconsin, C=US | [view](../9222d3511c26fbbd28117b4bbf80e8b54753b3a3/README.md) |  |
 
 
-Generated: 26/10/2022 at 20:22:11
+Generated: 26/10/2022 at 20:32:17

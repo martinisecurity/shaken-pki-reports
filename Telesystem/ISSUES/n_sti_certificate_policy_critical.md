@@ -14,4 +14,4 @@ Description: STI certificates should contain a CertificatePolicies extension mar
 | not effective | CN=Telesystem SHAKEN Cert 786E, O=Telesystem, C=US | [view](../a7560fcc8fd4338d5df9b8a9f0f3981722ef1913/README.md) |  |
 
 
-Generated: 26/10/2022 at 20:22:11
+Generated: 26/10/2022 at 20:32:17

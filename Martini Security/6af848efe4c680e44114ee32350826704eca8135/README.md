@@ -2,7 +2,7 @@
 ## Martini Security
 
 ### Certificate 6af848efe4c680e44114ee32350826704eca8135
-Tested At: 2022-10-26 20:21:34 +0000 UTC\
+Tested At: 2022-10-26 20:31:39 +0000 UTC\
 Initial Validity Period: 1825 day(s)\
 Remaining Validity Period: 1801 day(s)\
 Subject: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
@@ -15,7 +15,7 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDETCCAragAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| w_cp1_3_ca_subject_rdn_unknown | warn | CPv1.3 | Only CN, C, and O can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_sti_ca_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
+| w_cp1_3_ca_subject_rdn_unknown | warn | CPv1.3 | Only CN, C, and O can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
-Generated: 26/10/2022 at 20:22:11
+Generated: 26/10/2022 at 20:32:17

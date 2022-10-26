@@ -14,4 +14,4 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 | not effective | CN=Segra SHAKEN Cert 1784, O=Segra, C=US | [view](../51fddfa3fae372a505080568fed4a0ddba991622/README.md) |  |
 
 
-Generated: 26/10/2022 at 20:22:11
+Generated: 26/10/2022 at 20:32:17

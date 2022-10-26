@@ -11,8 +11,8 @@
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header has 'max-age' directive but it's value is less than 24 hours |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header has 'max-age' directive but it's value is less than 24 hours |
 
 ### https://certificate.zt.plivo.com/cert09062023.crt
 
@@ -43,4 +43,4 @@
 5 tests were ran and no warning or error level issues were found
 
 
-Generated: 26/10/2022 at 20:21:00
+Generated: 26/10/2022 at 20:31:13

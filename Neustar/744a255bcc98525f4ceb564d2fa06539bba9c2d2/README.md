@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate 744a255bcc98525f4ceb564d2fa06539bba9c2d2
-Tested At: 2022-10-26 20:21:35 +0000 UTC\
+Tested At: 2022-10-26 20:31:40 +0000 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 542 day(s)\
 Subject: C=US, ST=KS, L=Warmego, O=Warmego Telecom Company Inc, OU=Warmego Telecom, CN=Warmego\
@@ -20,26 +20,26 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIECTCCAvGgAwIBAgIU
 
 ### Not Effective
 
+- w_cp_1_3_subject_email
+- e_cp1_3_subject_sn
+- e_sti_extension_unknown
+- e_sti_subject_key_identifier
+- e_sti_crl_distribution
 - e_sti_key_usage
 - e_sti_subject_cn
-- e_sti_version
-- e_sti_serial_number
-- e_sti_subject_key_identifier
-- e_sti_issuer_dn
-- e_cp1_3_ambiguous_identifier
-- e_sti_authority_key_identifier
 - e_sti_subject_public_key
-- e_sti_extension_unknown
-- e_sti_basic_constraints
-- w_cp_1_3_subject_email
-- e_sti_subject
-- e_cp1_3_subject_sn
-- e_sti_crl_distribution
-- w_cp1_3_subject_rdn_unknown
-- e_sti_certificate_policies
+- e_cp1_3_ambiguous_identifier
 - e_sti_tn_auth_list
+- e_sti_serial_number
+- e_sti_basic_constraints
+- e_sti_authority_key_identifier
+- e_sti_version
+- e_sti_subject
 - e_sti_signature_algorithm
+- e_sti_certificate_policies
+- w_cp1_3_subject_rdn_unknown
+- e_sti_issuer_dn
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 26/10/2022 at 20:22:11
+Generated: 26/10/2022 at 20:32:17

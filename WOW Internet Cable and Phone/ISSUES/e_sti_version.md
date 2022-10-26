@@ -14,4 +14,4 @@ Description: STI certificates shall contain Version field specifying version 3
 | not effective | CN=WOW Internet Cable and Phone SHAKEN Cert 665E, O=WOW Internet Cable and Phone, C=US | [view](../404c068287b5536bf01b6b5d6c720fa845a6e116/README.md) |  |
 
 
-Generated: 26/10/2022 at 20:22:11
+Generated: 26/10/2022 at 20:32:17

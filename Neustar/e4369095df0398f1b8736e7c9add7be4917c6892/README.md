@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate e4369095df0398f1b8736e7c9add7be4917c6892
-Tested At: 2022-10-26 20:22:04 +0000 UTC\
+Tested At: 2022-10-26 20:32:09 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 6 day(s)\
 Subject: CN=SHAKEN 707J, O=TextNow Inc., C=CA\
@@ -20,26 +20,26 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2FjCCAqOgAwIBAg
 
 ### Not Effective
 
-- e_sti_subject_cn
-- w_cp_1_3_subject_email
-- e_cp1_3_subject_sn
-- e_sti_certificate_policies
-- e_sti_extension_unknown
-- e_sti_tn_auth_list
 - e_cp1_3_ambiguous_identifier
+- e_sti_extension_unknown
+- e_sti_subject_cn
+- e_sti_authority_key_identifier
+- e_sti_signature_algorithm
+- e_sti_version
 - e_sti_key_usage
-- e_sti_serial_number
 - n_sti_certificate_policy_critical
+- e_sti_certificate_policies
+- e_cp1_3_subject_sn
+- e_sti_subject
+- w_cp1_3_subject_rdn_unknown
+- e_sti_tn_auth_list
 - e_sti_issuer_dn
 - e_sti_subject_key_identifier
-- w_cp1_3_subject_rdn_unknown
-- e_sti_version
-- e_sti_authority_key_identifier
-- e_sti_subject_public_key
+- w_cp_1_3_subject_email
 - e_sti_crl_distribution
-- e_sti_signature_algorithm
-- e_sti_subject
+- e_sti_serial_number
+- e_sti_subject_public_key
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 26/10/2022 at 20:22:11
+Generated: 26/10/2022 at 20:32:17

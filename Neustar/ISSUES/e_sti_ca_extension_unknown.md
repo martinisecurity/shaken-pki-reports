@@ -24,4 +24,4 @@ no warning, or error, or not effective date level issues were found
 | error | CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Inc a TransUnion company, C=US | [view](../aef2851bc3a7c530c6bcbf864edaeb635cb67155/README.md) | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 26/10/2022 at 20:22:11
+Generated: 26/10/2022 at 20:32:17

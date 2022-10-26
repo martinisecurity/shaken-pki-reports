@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate df7d871ff60d213820a96308346eda870d6e8ed2
-Tested At: 2022-10-26 20:22:02 +0000 UTC\
+Tested At: 2022-10-26 20:32:08 +0000 UTC\
 Initial Validity Period: 3652 day(s)\
 Remaining Validity Period: 3220 day(s)\
 Subject: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
@@ -15,29 +15,29 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC8TCCApigAwIBAgIQ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| n_pki_ca_key_usage | notice | SHAKEN PKI Best Practice | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 | e_incorrect_ku_encoding | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 1. Raw Bytes: [3 2 0 6], Raw Binary: [00000011 00000010 00000000 00000110] |
+| n_pki_ca_key_usage | notice | SHAKEN PKI Best Practice | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 
 ### Not Effective
 
+- e_sti_ca_subject_public_key
 - e_sti_ca_key_usage
 - e_sti_ca_extension_unknown
-- e_sti_ca_authority_key_identifier
-- e_sti_ca_version
-- e_sti_ca_subject_key_identifier
-- e_sti_basic_constraints
-- e_sti_ca_signature_algorithm
-- e_sti_ca_crl_distribution
-- e_sti_ca_issuer_dn
 - e_sti_ca_subject_cn
-- e_cp1_3_ca_key_usage_crl_sign
-- e_sti_ca_subject_public_key
 - e_sti_ca_serial_number
-- e_sti_ca_subject
-- w_cp1_3_ca_subject_rdn_unknown
-- n_sti_ca_certificate_policy_critical
+- e_sti_ca_signature_algorithm
+- e_sti_ca_subject_key_identifier
+- e_sti_ca_version
 - e_sti_ca_certificate_policies
+- e_cp1_3_ca_key_usage_crl_sign
+- n_sti_ca_certificate_policy_critical
+- e_sti_basic_constraints
+- w_cp1_3_ca_subject_rdn_unknown
+- e_sti_ca_subject
+- e_sti_ca_crl_distribution
+- e_sti_ca_authority_key_identifier
+- e_sti_ca_issuer_dn
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 26/10/2022 at 20:22:11
+Generated: 26/10/2022 at 20:32:17

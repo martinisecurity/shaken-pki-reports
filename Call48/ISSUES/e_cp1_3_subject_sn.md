@@ -14,4 +14,4 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 | not effective | CN=Call48 SHAKEN Cert 505J, O=Call48, C=US | [view](../fbd7fb3bab570a5d715508086d416bb25115d5eb/README.md) |  |
 
 
-Generated: 26/10/2022 at 20:22:11
+Generated: 26/10/2022 at 20:32:17
