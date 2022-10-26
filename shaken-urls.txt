@@ -22,6 +22,7 @@ https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/08d04d1bff
 https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/1113803cceb280f3ccac101750f2ef94.pem
 https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/157efbd6e90975181fbc78fcd1eeb24b.pem
 https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/26df75cb7d2e038e81030c5256f57e50.pem
+https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/2d9c4131825627aaf47bd2c9471d43ae.pem
 https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/3c25289bcc5828aea47638974bae5fc1.pem
 https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/ade3cb8b64d1f4be0937804e24edc5ef.pem
 https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/c3a0ed681ceac85c43c313ee38480028.pem
@@ -122,12 +123,14 @@ https://certificates.clearip.com/5a565c0f-433a-4bce-b57c-868e3e7b3002/d2da023581
 https://certificates.clearip.com/5a565c0f-433a-4bce-b57c-868e3e7b3002/dbae90978ee5b2d8c6a8edf9d5ece370.pem
 https://certificates.clearip.com/5f7c135d-caf3-4661-abb1-d1720e7872e2/1022ee180b7db2f1ca2ec253c94dfad0.pem
 https://certificates.clearip.com/5f7c135d-caf3-4661-abb1-d1720e7872e2/11619920d7fee7122cd5c5a1ea6203f4.pem
+https://certificates.clearip.com/5f7c135d-caf3-4661-abb1-d1720e7872e2/a1d7174c35b1f65a648365b2d6981577.pem
 https://certificates.clearip.com/5f7c135d-caf3-4661-abb1-d1720e7872e2/b9cb01d271bddd30e431e854f8c2cce3.pem
 https://certificates.clearip.com/5f7c135d-caf3-4661-abb1-d1720e7872e2/d5b8fef3be8fc769bfe4063c5ba64a2c.pem
 https://certificates.clearip.com/627e4253-759f-447e-b1a0-c9cda9a6d597/eef13829c4b0f7d34e0feab46b71acf9.pem
 https://certificates.clearip.com/756cb700-f9d2-4a05-850e-c9dfe3e22de4/42afb34dfd1964ebae01739d9e7120bd.pem
 https://certificates.clearip.com/756cb700-f9d2-4a05-850e-c9dfe3e22de4/6410808e3d363b24e911e9dd36c6ef8d.pem
 https://certificates.clearip.com/82d97ecb-9b38-4926-9062-8e21b8986930/28ec7e97780e7ae26bbe623cc083537c.pem
+https://certificates.clearip.com/82d97ecb-9b38-4926-9062-8e21b8986930/4a5ab5a3b56a2bb35ff2b29c212a2ab8.pem
 https://certificates.clearip.com/84c98183-b28e-415a-8dc4-ba02b9ca5418/d99780f1c4a7a1ad60a27b0d675c73f5.pem
 https://certificates.clearip.com/859299ca-4c86-4dfd-9785-6c758bee1b37/34b0b778ed9b4f95b12b2a1c9fbb50de.pem
 https://certificates.clearip.com/859299ca-4c86-4dfd-9785-6c758bee1b37/6b7e2daa26347b1369c76e30cb8994a2.pem
@@ -163,12 +166,14 @@ https://certificates.clearip.com/a429df3a-62d2-4851-90c8-fc446859fb08/566e1ccf94
 https://certificates.clearip.com/a429df3a-62d2-4851-90c8-fc446859fb08/6a5c31c11c8abcf08896a7045502d541.pem
 https://certificates.clearip.com/a429df3a-62d2-4851-90c8-fc446859fb08/6e47bae2800651ab32507e14aee5c135.pem
 https://certificates.clearip.com/a429df3a-62d2-4851-90c8-fc446859fb08/871560c88edd60cdf05c85bf9eae2bf1.pem
+https://certificates.clearip.com/a429df3a-62d2-4851-90c8-fc446859fb08/d409e2ad06ca8da0eec3208c6f98c46f.pem
 https://certificates.clearip.com/a429df3a-62d2-4851-90c8-fc446859fb08/df09a6def78f6ee9cf90e390af802924.pem
 https://certificates.clearip.com/ae8a8a64-668f-4934-823d-42ebc587f82a/af862ae5ed3fbfa249b1c23dfb7b7ec6.pem
 https://certificates.clearip.com/b66a7496-cdd4-46e3-b219-cb0ecdc80d22/1925a83113629fb0818d64cdf29274e3.pem
 https://certificates.clearip.com/b66a7496-cdd4-46e3-b219-cb0ecdc80d22/f10a6e2814430717be9d18e253b564a3.pem
 https://certificates.clearip.com/b7343686-5ed8-402c-89a3-8bf1a3d48975/1c896d70e07d655d9b044626a079c628.pem
 https://certificates.clearip.com/b7343686-5ed8-402c-89a3-8bf1a3d48975/61649b0719ddf13f46df03bd3ca7845a.pem
+https://certificates.clearip.com/b7343686-5ed8-402c-89a3-8bf1a3d48975/9152c149094a3c0a73bbaf2924b00f92.pem
 https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/549c28c1f559ab7545480e687c43408c.pem
 https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/7ff006ca94b186e33549b589f56c1eb3.pem
 https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/897fa3e29271bf32eab3c75497799673.pem
@@ -281,6 +286,7 @@ https://certificates.transnexus.com/706J/9a9ea71d-1c8c-424c-8109-df524a4633d8.cr
 https://certificates.transnexus.com/706J/fdb13f3d-0f05-47c8-a047-af2f9e2f7af5.pem
 https://certificates.transnexus.com/722J/2902cf3c-1e73-4c05-ab0e-e702541b2ccc.pem
 https://certificates.transnexus.com/722J/a547c920-fe4c-4086-a4cf-a744f0a1a4ce.pem
+https://certificates.transnexus.com/722J/f75ff50a-1fd7-4087-a0a1-de57acb1afc5.pem
 https://certificates.transnexus.com/736J/27cf1c16-f0f0-41fa-a0c1-6c167396fe34.pem
 https://certificates.transnexus.com/738J/158b2599-ad08-444d-b19c-d7fad37c803f.pem
 https://certificates.transnexus.com/738J/1d80ee50-712d-4ae3-89f2-d794dff47108.pem
@@ -300,6 +306,7 @@ https://certificates.transnexus.com/841J/e553ed40-e847-4372-bf8b-4afc1e23206c.pe
 https://certificates.transnexus.com/841J/f3c3ccf0-0018-4b22-bf77-8a30b9ffd68e.pem
 https://certificates.transnexus.com/8526/88a92c6f-973b-4d14-9221-4c577d177131.pem
 https://certificates.transnexus.com/8526/ce6a0107-6101-4a05-9a81-ae55b304f8f0.pem
+https://certificates.transnexus.com/8526/f6978975-50bc-40df-b4a2-a1d7794b321f.pem
 https://certificates.transnexus.com/873J/ac03ff61-e0df-456a-b2b1-d4a8d57afcff.pem
 https://certificates.transnexus.com/952J/187853bb-a8b0-460f-a3f1-7fcd1d30b142.pem
 https://certificates.transnexus.com/952J/7787f5d6-eb67-4354-b625-597d01705d8b.pem
@@ -458,6 +465,7 @@ https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11552.10188.pem
 https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11553.10201
 https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11553.10201.pem
 https://cr.sansay.com/016K/order/63_016K_115
+https://cr.sansay.com/016K/order/76_016K_115
 https://cr.sansay.com/210J/order/162_210J_63
 https://cr.sansay.com/210J/order/163_210J_63
 https://cr.sansay.com/210J/order/164_210J_63
@@ -647,6 +655,7 @@ https://sticr.stir.comcast.com/a8412a41-71c1-4744-9047-dd3c11f3b67e.cer
 https://sticr.stir.comcast.com/ab5ccc85-afe6-4966-8c97-22daf388cfbd.cer
 https://sticr.stir.comcast.com/ae29b741-e66d-4105-87a1-7b45c5c2b9b0.cer
 https://sticr.stir.comcast.com/b51976bd-cc19-4104-8fcb-e0b8f3650680.cer
+https://sticr.stir.comcast.com/b851c928-45de-4943-9833-b4ee0c47ca32.cer
 https://sticr.stir.comcast.com/b9638b6c-0d32-401c-92a2-3a5d1bad6fde.cer
 https://sticr.stir.comcast.com/beeb04df-7a7e-436e-ae7a-f793816108ca.cer
 https://sticr.stir.comcast.com/c296d674-aced-4819-ac5b-b24741a2c469.cer
