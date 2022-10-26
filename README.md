@@ -13,7 +13,7 @@ This report is generated using [Zlint](https://github.com/zmap/zlint) a tool com
 
 | Issuers | Certificates | Errors | Warnings | Notices | Not Effective |
 |---------|--------------|--------|----------|---------|---------------|
-| [Comcast](Comcast%2FREADME.html#leaf-certificates) | 38 (12.06%) | 38 (100.00%) | 38 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Comcast](Comcast%2Findex.html#leaf-certificates) | 38 (12.06%) | 38 (100.00%) | 38 (100.00%) | 0 (0.00%) | 0 (0.00%) |
 | [GBSDTech](GBSDTech%2FREADME.md#leaf-certificates) | 1 (0.32%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) |
 | [Martini Security](Martini%20Security%2FREADME.md#leaf-certificates) | 7 (2.22%) | 7 (100.00%) | 0 (0.00%) | 4 (57.14%) | 0 (0.00%) |
 | [Metaswitch](Metaswitch%2FREADME.md#leaf-certificates) | 21 (6.67%) | 1 (4.76%) | 0 (0.00%) | 0 (0.00%) | 20 (95.24%) |
