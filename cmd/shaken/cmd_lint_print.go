@@ -131,10 +131,10 @@ func PrintOrganizationReport(w io.Writer, name string, r *LintTotalResult) {
 		})
 		for _, certReport := range issuer.Certificates {
 			fmt.Fprintf(w, "| %s | %s | %s | %s |\n",
-				certReport.Cert.NotBefore.Format(time.RFC822),                                            // created at
-				certReport.Cert.Subject.CommonName,                                                       // name
-				fmt.Sprintf("%t", certReport.Result.ErrorsPresent || certReport.Result.WarningsPresent),  // problems
-				fmt.Sprintf("[view](%s)", url.PathEscape(path.Join(certReport.Thumbprint, linkDefault))), // link
+				certReport.Cert.NotBefore.Format(time.RFC822),                                           // created at
+				certReport.Cert.Subject.CommonName,                                                      // name
+				fmt.Sprintf("%t", certReport.Result.ErrorsPresent || certReport.Result.WarningsPresent), // problems
+				fmt.Sprintf("[view](%s)", escapeMdLink(path.Join(certReport.Thumbprint, linkDefault))),  // link
 			)
 		}
 		if issuerType == "Leaf Certificates" {
@@ -230,7 +230,7 @@ func PrintOrganizationsTable(w io.Writer, r *LintCertificatesResult, anchor stri
 		if issuer.Amount == 0 {
 			continue
 		}
-		issuerNameLink := fmt.Sprintf("[%s](%s)", key, fmt.Sprintf("%s#%s", url.PathEscape(path.Join(key, linkDefault)), anchor))
+		issuerNameLink := fmt.Sprintf("[%s](%s)", key, fmt.Sprintf("%s#%s", escapeMdLink(path.Join(key, linkDefault)), anchor))
 		fmt.Fprintf(w, "| %s | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) |\n", issuerNameLink, issuer.Amount, percent(issuer.Amount, r.Amount), issuer.Errors, percent(issuer.Errors, issuer.Amount), issuer.Warnings, percent(issuer.Warnings, issuer.Amount), issuer.Notices, percent(issuer.Notices, issuer.Amount), issuer.NE, percent(issuer.NE, issuer.Amount))
 	}
 	fmt.Fprintf(w, "| **Total** | %d (100%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) |\n", r.Amount, r.Errors, percent(r.Errors, r.Amount), r.Warnings, percent(r.Warnings, r.Amount), r.Notices, percent(r.Notices, r.Amount), r.NE, percent(r.NE, r.Amount))

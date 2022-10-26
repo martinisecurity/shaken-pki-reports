@@ -120,3 +120,8 @@ func getOrganizationName(c *x509.Certificate, options *x509.VerifyOptions) strin
 
 	return name
 }
+
+func escapeMdLink(link string) string {
+	link = strings.Replace(link, " ", "%20", -1)
+	return link
+}
