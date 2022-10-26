@@ -14,4 +14,4 @@ Description: The DN shall contain a Country (C=) attribute, a Common Name (CN=) 
 | not effective | CN=RCN SHAKEN Cert 7615, O=RCN, C=US | [view](../2bed8a9246c78dfdf1cbac12bd20316ad5892163/README.md) |  |
 
 
-Generated: 26/10/2022 at 20:21:30
+Generated: 26/10/2022 at 20:22:11

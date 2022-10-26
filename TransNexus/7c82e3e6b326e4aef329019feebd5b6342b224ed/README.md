@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate 7c82e3e6b326e4aef329019feebd5b6342b224ed
-Tested At: 2022-10-26 20:20:26 +0000 UTC\
+Tested At: 2022-10-26 20:21:37 +0000 UTC\
 Initial Validity Period: 4383 day(s)\
 Remaining Validity Period: 3662 day(s)\
 Subject: CN=TransNexus Issuing CA G2, OU=Certification Authorities, O=TransNexus, C=US\
@@ -21,24 +21,24 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICSjCCAe%2BgAwIBAg
 
 ### Not Effective
 
-- e_sti_ca_issuer_dn
-- e_sti_ca_key_usage
-- e_sti_ca_crl_distribution
-- e_sti_ca_extension_unknown
-- e_sti_ca_signature_algorithm
-- e_sti_ca_subject_key_identifier
-- e_cp1_3_ca_key_usage_crl_sign
-- e_sti_ca_subject
-- w_cp1_3_ca_subject_rdn_unknown
-- e_sti_ca_certificate_policies
-- n_sti_ca_certificate_policy_critical
-- e_sti_ca_serial_number
+- e_sti_basic_constraints
 - e_sti_ca_version
 - e_sti_ca_authority_key_identifier
-- e_sti_basic_constraints
-- e_sti_ca_subject_cn
+- n_sti_ca_certificate_policy_critical
+- e_sti_ca_issuer_dn
+- e_sti_ca_extension_unknown
 - e_sti_ca_subject_public_key
+- w_cp1_3_ca_subject_rdn_unknown
+- e_sti_ca_signature_algorithm
+- e_sti_ca_subject_cn
+- e_sti_ca_key_usage
+- e_sti_ca_certificate_policies
+- e_cp1_3_ca_key_usage_crl_sign
+- e_sti_ca_subject
+- e_sti_ca_serial_number
+- e_sti_ca_crl_distribution
+- e_sti_ca_subject_key_identifier
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 26/10/2022 at 20:21:30
+Generated: 26/10/2022 at 20:22:11

@@ -14,4 +14,4 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 | error | CN=MYPBXManager SHAKEN, O=MYPBXManager LLC, ST=New York, C=US | [view](../a3872afd09406d2745d204893b6b52bbf6380f84/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 
 
-Generated: 26/10/2022 at 20:21:29
+Generated: 26/10/2022 at 20:22:11

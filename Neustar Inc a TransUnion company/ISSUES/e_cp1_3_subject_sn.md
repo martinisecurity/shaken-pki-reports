@@ -15,4 +15,4 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 | error | CN=SHAKEN 292K, O=Falcon Endeavors, C=US | [view](../655d6fe195ecd7140c72c94ca361ad4cb893a1cf/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 26/10/2022 at 20:21:30
+Generated: 26/10/2022 at 20:22:11

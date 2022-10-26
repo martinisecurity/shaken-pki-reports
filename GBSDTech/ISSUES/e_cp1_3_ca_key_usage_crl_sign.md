@@ -15,4 +15,4 @@ Description: The model for managing and communicating the status of revoked cert
 | not effective | CN=1RouteGroup SHAKEN Intermediate CA, O=1RouteGroup, ST=Texas, C=US | [view](../b34acd5cf741f6c98726c200f39517c4bd02d4cd/README.md) |  |
 
 
-Generated: 26/10/2022 at 20:21:29
+Generated: 26/10/2022 at 20:22:11

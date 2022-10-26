@@ -2,7 +2,7 @@
 ## WOW Internet Cable and Phone
 
 ### Certificate 404c068287b5536bf01b6b5d6c720fa845a6e116
-Tested At: 2022-10-26 20:20:03 +0000 UTC\
+Tested At: 2022-10-26 20:21:22 +0000 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 577 day(s)\
 Subject: CN=WOW Internet Cable and Phone SHAKEN Cert 665E, O=WOW Internet Cable and Phone, C=US\
@@ -20,27 +20,27 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICczCCAhmgAwIBAgIQ
 
 ### Not Effective
 
-- e_sti_subject
-- e_cp1_3_subject_sn
 - n_sti_certificate_policy_critical
-- e_sti_certificate_policies
-- w_cp_1_3_subject_email
-- e_sti_subject_key_identifier
-- e_sti_crl_distribution
-- e_sti_tn_auth_list
-- e_sti_authority_key_identifier
-- e_sti_extension_unknown
-- e_sti_key_usage
-- e_sti_signature_algorithm
-- e_sti_subject_public_key
-- e_sti_version
-- e_cp1_3_ambiguous_identifier
-- e_sti_basic_constraints
 - e_sti_subject_cn
-- e_sti_issuer_dn
 - e_sti_serial_number
+- e_sti_extension_unknown
+- e_sti_subject_public_key
+- e_sti_signature_algorithm
+- e_sti_subject
+- e_sti_authority_key_identifier
+- e_sti_key_usage
+- e_sti_version
+- w_cp_1_3_subject_email
+- e_sti_crl_distribution
+- e_cp1_3_ambiguous_identifier
+- e_sti_tn_auth_list
+- e_sti_certificate_policies
 - w_cp1_3_subject_rdn_unknown
+- e_sti_subject_key_identifier
+- e_sti_basic_constraints
+- e_cp1_3_subject_sn
+- e_sti_issuer_dn
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 26/10/2022 at 20:21:30
+Generated: 26/10/2022 at 20:22:11

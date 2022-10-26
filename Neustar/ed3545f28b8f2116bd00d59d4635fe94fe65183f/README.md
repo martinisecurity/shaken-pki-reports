@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate ed3545f28b8f2116bd00d59d4635fe94fe65183f
-Tested At: 2022-10-26 20:21:21 +0000 UTC\
+Tested At: 2022-10-26 20:22:06 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 365 day(s)\
 Subject: CN=SHAKEN 770J, O=Fuze Inc, C=US\
@@ -18,4 +18,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2FTCCAqKgAwIBAg
 | e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 
-Generated: 26/10/2022 at 20:21:30
+Generated: 26/10/2022 at 20:22:11

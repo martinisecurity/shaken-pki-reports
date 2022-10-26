@@ -14,4 +14,4 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 | error | CN=MYPBXManager SHAKEN, O=MYPBXManager LLC, ST=New York, C=US | [view](../a3872afd09406d2745d204893b6b52bbf6380f84/README.md) | Cannot get SPC value from the TNAuthList extension, bad TNAuthorizationList, bad TNAuthorizationList ASN.1 raw, asn1: syntax error: data truncated |
 
 
-Generated: 26/10/2022 at 20:21:29
+Generated: 26/10/2022 at 20:22:11

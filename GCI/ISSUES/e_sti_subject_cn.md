@@ -14,4 +14,4 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 | not effective | CN=GCI SHAKEN Cert 7785, O=GCI, C=us | [view](../7922e7785e8781fbbbb6e20feda034b22324662e/README.md) |  |
 
 
-Generated: 26/10/2022 at 20:21:29
+Generated: 26/10/2022 at 20:22:11

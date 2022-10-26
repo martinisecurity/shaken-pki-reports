@@ -14,4 +14,4 @@ Description: STI End-Entity certificates shall contain a CRL Distribution Points
 | not effective | CN=Mediacom 846F, O=Mediacom Communications Corporation, L=Chester, ST=New York, C=US | [view](../82b4c63aa246ac8c380b66179ec2e381c89dde4a/README.md) |  |
 
 
-Generated: 26/10/2022 at 20:21:29
+Generated: 26/10/2022 at 20:22:11

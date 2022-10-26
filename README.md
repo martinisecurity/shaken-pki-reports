@@ -8,8 +8,8 @@ This report is generated using [Zlint](https://github.com/zmap/zlint) a tool com
 
 ### Leaf Certificates
 
-- Average validity span as of leaf certificates 343 days
-- Percentage of leaf certificates expiring in the next 30 days is 40.68%
+- Average validity span as of leaf certificates 345 days
+- Percentage of leaf certificates expiring in the next 30 days is 40.34%
 
 | Issuers | Certificates | Errors | Warnings | Notices | Not Effective |
 |---------|--------------|--------|----------|---------|---------------|
@@ -19,39 +19,39 @@ This report is generated using [Zlint](https://github.com/zmap/zlint) a tool com
 | [Avid Communication](Avid%20Communication%2FREADME.md#leaf-certificates) | 1 (0.33%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
 | [CBTS Technology Solutions LLC](CBTS%20Technology%20Solutions%20LLC%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
 | [Call48](Call48%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
-| [Comcast](Comcast%2FREADME.md#leaf-certificates) | 37 (12.05%) | 37 (100.00%) | 37 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Comcast](Comcast%2FREADME.md#leaf-certificates) | 37 (12.09%) | 37 (100.00%) | 37 (100.00%) | 0 (0.00%) | 0 (0.00%) |
 | [Cspire](Cspire%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
 | [Everstream](Everstream%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
 | [GCI](GCI%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
-| [Martini Security](Martini%20Security%2FREADME.md#leaf-certificates) | 7 (2.28%) | 7 (100.00%) | 0 (0.00%) | 4 (57.14%) | 0 (0.00%) |
+| [Martini Security](Martini%20Security%2FREADME.md#leaf-certificates) | 7 (2.29%) | 7 (100.00%) | 0 (0.00%) | 4 (57.14%) | 0 (0.00%) |
 | [Mediacom Communications Corporation](Mediacom%20Communications%20Corporation%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
-| [NetNumber](NetNumber%2FREADME.md#leaf-certificates) | 4 (1.30%) | 4 (100.00%) | 1 (25.00%) | 4 (100.00%) | 0 (0.00%) |
-| [Neustar](Neustar%2FREADME.md#leaf-certificates) | 94 (30.62%) | 62 (65.96%) | 4 (4.26%) | 0 (0.00%) | 33 (35.11%) |
+| [NetNumber](NetNumber%2FREADME.md#leaf-certificates) | 4 (1.31%) | 4 (100.00%) | 1 (25.00%) | 4 (100.00%) | 0 (0.00%) |
+| [Neustar](Neustar%2FREADME.md#leaf-certificates) | 94 (30.72%) | 62 (65.96%) | 4 (4.26%) | 0 (0.00%) | 33 (35.11%) |
 | [Neustar Inc a TransUnion company](Neustar%20Inc%20a%20TransUnion%20company%2FREADME.md#leaf-certificates) | 2 (0.65%) | 2 (100.00%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
 | [New Horizon Communications](New%20Horizon%20Communications%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
 | [Northeast Communications of Wisconsin](Northeast%20Communications%20of%20Wisconsin%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
 | [Peeringhub](Peeringhub%2FREADME.md#leaf-certificates) | 5 (1.63%) | 5 (100.00%) | 5 (100.00%) | 0 (0.00%) | 0 (0.00%) |
 | [RCN](RCN%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
 | [Ribbon Communications](Ribbon%20Communications%2FREADME.md#leaf-certificates) | 3 (0.98%) | 3 (100.00%) | 3 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Sansay](Sansay%2FREADME.md#leaf-certificates) | 75 (24.43%) | 75 (100.00%) | 75 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Sansay](Sansay%2FREADME.md#leaf-certificates) | 75 (24.51%) | 75 (100.00%) | 75 (100.00%) | 0 (0.00%) | 0 (0.00%) |
 | [Segra](Segra%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
 | [Sonic Telecom](Sonic%20Telecom%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
 | [South Central Rural Telecommunications Cooperative](South%20Central%20Rural%20Telecommunications%20Cooperative%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
 | [T-Mobile](T-Mobile%2FREADME.md#leaf-certificates) | 1 (0.33%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) |
 | [TDS Telecom](TDS%20Telecom%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
 | [Telesystem](Telesystem%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
-| [TransNexus](TransNexus%2FREADME.md#leaf-certificates) | 57 (18.57%) | 57 (100.00%) | 56 (98.25%) | 0 (0.00%) | 2 (3.51%) |
+| [TransNexus](TransNexus%2FREADME.md#leaf-certificates) | 56 (18.30%) | 56 (100.00%) | 55 (98.21%) | 0 (0.00%) | 2 (3.57%) |
 | [U. S. Telepacific Corp](U.%20S.%20Telepacific%20Corp%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
 | [USCellular SHAKEN Cert 6349](USCellular%20SHAKEN%20Cert%206349%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
 | [Verizon Data Services LLC](Verizon%20Data%20Services%20LLC%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
 | [WOW Internet Cable and Phone](WOW%20Internet%20Cable%20and%20Phone%2FREADME.md#leaf-certificates) | 1 (0.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
-| **Total** | 307 (100%) | 255 (83.06%) | 183 (59.61%) | 8 (2.61%) | 55 (17.92%) |
+| **Total** | 306 (100%) | 254 (83.01%) | 182 (59.48%) | 8 (2.61%) | 55 (17.97%) |
 
 \* The percent of certificates per issuer is calculated against total certificates from all issuers.\
 \*\* The percent of errors, warnings and notices is calculated against total observed certificates from the specified issuer.\
 \*\*\* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.\
 \*\*\*\* For information on failed certificate repository retrievals see this [report](URL.md).\
-\*\*\*\*\* 263 certificates skipped because they are currently expired.
+\*\*\*\*\* 264 certificates skipped because they are currently expired.
 
 ### CA Certificates
 
@@ -84,4 +84,4 @@ This report is generated using [Zlint](https://github.com/zmap/zlint) a tool com
 | Notice | Tests in which industry best practices are not followed. |
 | Not Effective	| Tests that exist in the current specifications but were not in effect at the time of issuance. |
 
-Generated: 26/10/2022 at 20:21:29
+Generated: 26/10/2022 at 20:22:11

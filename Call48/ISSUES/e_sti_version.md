@@ -14,4 +14,4 @@ Description: STI certificates shall contain Version field specifying version 3
 | not effective | CN=Call48 SHAKEN Cert 505J, O=Call48, C=US | [view](../fbd7fb3bab570a5d715508086d416bb25115d5eb/README.md) |  |
 
 
-Generated: 26/10/2022 at 20:21:29
+Generated: 26/10/2022 at 20:22:11

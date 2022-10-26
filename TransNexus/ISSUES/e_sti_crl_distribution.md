@@ -34,7 +34,6 @@ Description: STI End-Entity certificates shall contain a CRL Distribution Points
 | error | CN=SHAKEN 115K, OU=SHAKEN, O=RenterNET, C=US | [view](../dd733ba189741f0b583a3e595a3c14db8e87be01/README.md) | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 | error | CN=SHAKEN 815G, OU=SHAKEN, O=382 Communications, C=US | [view](../e689269bc057ddf1876d610f8dd14761b439defc/README.md) | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 | error | CN=SHAKEN 952J, OU=SHAKEN, O=Syndeo LLC dba Broadvoice, C=US | [view](../414512f13c27bb40a6f47741eabd63eb5c90eed3/README.md) | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
-| error | CN=SHAKEN 738J, OU=SHAKEN, O=SkySwitch, C=US | [view](../09981729acce924c05f0312359db27ffcc0a0251/README.md) | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 | error | CN=SHAKEN 841J, OU=SHAKEN, O=Securus Technologies LLC, C=US | [view](../3889bee709733ff19f8acc2ae4a3761d288ffdfe/README.md) | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 | error | CN=SHAKEN 622J, OU=SHAKEN, O=Skye Telecom LLC, C=US | [view](../175e3b3de9a38a8355d047b901bd5eda0c1f1a6a/README.md) | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 | error | CN=SHAKEN 060K, OU=SHAKEN, O=Telware, C=US | [view](../0b14a0d19d2f23312c25f7a36b56acb673cc9762/README.md) | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
@@ -77,4 +76,4 @@ Description: STI End-Entity certificates shall contain a CRL Distribution Points
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 26/10/2022 at 20:21:30
+Generated: 26/10/2022 at 20:22:11

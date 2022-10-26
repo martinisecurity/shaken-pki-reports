@@ -14,4 +14,4 @@ Description: STI certificate shall not include extensions that are not specified
 | not effective | CN=South Central Rural Telecommunications Coop SHAKEN Cert 0418, O=South Central Rural Telecommunications Cooperative, C=US | [view](../fecb8b1e94f2eb58ab0991baa22edaa88600c55c/README.md) |  |
 
 
-Generated: 26/10/2022 at 20:21:30
+Generated: 26/10/2022 at 20:22:11

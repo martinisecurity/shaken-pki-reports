@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate 3b99807bf67bbd42a1fd9db7d922c808e6ba47c7
-Tested At: 2022-10-26 20:20:01 +0000 UTC\
+Tested At: 2022-10-26 20:21:21 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 155 day(s)\
 Subject: CN=SHAKEN 5447, O=Access One Inc, C=US\
@@ -20,4 +20,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2FzCCAqWgAwIBAg
 | e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 | e_sti_extension_unknown | error | ATIS-1000080v4 | STI certificate shall not include extensions that are not specified |
 
-Generated: 26/10/2022 at 20:21:30
+Generated: 26/10/2022 at 20:22:11

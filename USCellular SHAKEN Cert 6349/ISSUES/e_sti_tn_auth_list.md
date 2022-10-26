@@ -14,4 +14,4 @@ Description: STI End-Entity certificates shall contain a TNAuthList extension as
 | not effective | CN=USCellular SHAKEN Cert 6349, L=Ch, ST=IL, C=US | [view](../9215e4a768eaf6b5209dfeccc846e5d604061979/README.md) |  |
 
 
-Generated: 26/10/2022 at 20:21:30
+Generated: 26/10/2022 at 20:22:11

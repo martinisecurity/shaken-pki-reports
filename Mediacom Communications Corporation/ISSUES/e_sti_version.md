@@ -14,4 +14,4 @@ Description: STI certificates shall contain Version field specifying version 3
 | not effective | CN=Mediacom 846F, O=Mediacom Communications Corporation, L=Chester, ST=New York, C=US | [view](../82b4c63aa246ac8c380b66179ec2e381c89dde4a/README.md) |  |
 
 
-Generated: 26/10/2022 at 20:21:29
+Generated: 26/10/2022 at 20:22:11

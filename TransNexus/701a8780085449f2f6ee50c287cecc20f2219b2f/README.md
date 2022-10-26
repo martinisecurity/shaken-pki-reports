@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate 701a8780085449f2f6ee50c287cecc20f2219b2f
-Tested At: 2022-10-26 20:20:21 +0000 UTC\
+Tested At: 2022-10-26 20:21:35 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 79 day(s)\
 Subject: CN=MobileSphere SHAKEN 873J, OU=MobileSphere, O=TransNexus, C=US\
@@ -22,22 +22,22 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICnTCCAkOgAwIBAgIQ
 
 ### Not Effective
 
-- e_sti_subject
-- e_sti_subject_cn
-- e_sti_signature_algorithm
-- e_sti_tn_auth_list
-- e_sti_certificate_policies
-- e_sti_key_usage
-- e_sti_serial_number
-- e_sti_subject_public_key
-- n_sti_certificate_policy_critical
-- e_sti_authority_key_identifier
-- e_sti_version
-- e_sti_extension_unknown
 - e_sti_issuer_dn
+- e_sti_subject
 - e_sti_crl_distribution
+- e_sti_certificate_policies
+- e_sti_extension_unknown
+- e_sti_subject_cn
+- n_sti_certificate_policy_critical
+- e_sti_signature_algorithm
+- e_sti_serial_number
+- e_sti_key_usage
+- e_sti_subject_public_key
+- e_sti_authority_key_identifier
+- e_sti_tn_auth_list
+- e_sti_version
 - e_sti_subject_key_identifier
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 26/10/2022 at 20:21:30
+Generated: 26/10/2022 at 20:22:11

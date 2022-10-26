@@ -14,4 +14,4 @@ Description: STI certificate shall not include extensions that are not specified
 | not effective | CN=GBSDTech SHAKEN Root CA, O=GBSDTech, L=Ft Worth, ST=Texas, C=US | [view](../c6beb88bee7544f012d9579a8002bf774a717ef0/README.md) |  |
 
 
-Generated: 26/10/2022 at 20:21:29
+Generated: 26/10/2022 at 20:22:11

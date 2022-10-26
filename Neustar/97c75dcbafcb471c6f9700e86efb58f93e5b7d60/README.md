@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate 97c75dcbafcb471c6f9700e86efb58f93e5b7d60
-Tested At: 2022-10-26 20:20:37 +0000 UTC\
+Tested At: 2022-10-26 20:21:43 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 211 day(s)\
 Subject: CN=SHAKEN 672J, O=Zoom Voice Communications, C=US\
@@ -15,9 +15,9 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDCjCCArCgAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| e_sti_certificate_policies | error | ATIS-1000080v4 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | e_sti_extension_unknown | error | ATIS-1000080v4 | STI certificate shall not include extensions that are not specified |
 | e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
-| e_sti_certificate_policies | error | ATIS-1000080v4 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 26/10/2022 at 20:21:30
+Generated: 26/10/2022 at 20:22:11
