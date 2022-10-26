@@ -31,7 +31,7 @@ func PrintTotalReport(w io.Writer, r *LintTotalResult) {
 	fmt.Fprintln(w, "")
 	fmt.Fprintln(w, "[Approved Certificate Authorities](https://authenticate.iconectiv.com/approved-certification-authorities) in the STIR/SHAKEN ecosystem are required to meet technical requirements from [ATIS-1000080](https://access.atis.org/apps/group_public/document.php?document_id=62163) and policy requirements from the supporting CA ecosystem’s [Certificate Policy](https://authenticate.iconectiv.com/documents-authenticate).")
 	fmt.Fprintln(w, "")
-	fmt.Fprintln(w, "This report is generated using [Zlint](https://github.com/zmap/zlint) a tool commonly used to asses CA ecosystem compliance with such requirements. The tests used to generate this report are currently not part of the main Zlint distribution but can be found [here](https://github.com/PeculiarVentures/x509-linter).")
+	fmt.Fprintln(w, "This report is generated using [Zlint](https://github.com/zmap/zlint) a tool commonly used to asses CA ecosystem compliance with such requirements. The tests used to generate this report are currently not part of the main Zlint distribution but can be found [here](https://github.com/martinisecurity/zlint).")
 
 	fmt.Fprintln(w, "")
 	fmt.Fprintln(w, "## Summary")
