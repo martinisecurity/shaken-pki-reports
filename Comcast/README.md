@@ -1,0 +1,108 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Comcast
+
+### Leaf Certificates
+
+- Average validity span as of leaf certificates 30 days
+- Percentage of leaf certificates expiring in the next 30 days is 100.00%
+- Certificates with Errors: 37
+- Certificates with Warnings: 37
+- Certificates with Notices: 0
+- Certificates with tests not executed as the requirements were Not Effective at issuance time: 0
+
+| Status | Code | Source | Instances |
+|--------|------|--------|-----------|
+| error | [e_sti_subject_cn](ISSUES/e_sti_subject_cn.md#leaf-certificates) | ATIS-1000080v4 | 37 |
+| warn | [w_ext_subject_key_identifier_missing_sub_cert](ISSUES/w_ext_subject_key_identifier_missing_sub_cert.md#leaf-certificates) | RFC5280 | 37 |
+| error | [e_sti_crl_distribution](ISSUES/e_sti_crl_distribution.md#leaf-certificates) | ATIS-1000080v4 | 37 |
+| error | [e_sti_subject_key_identifier](ISSUES/e_sti_subject_key_identifier.md#leaf-certificates) | ATIS-1000080v4 | 37 |
+| error | [e_cp1_3_subject_sn](ISSUES/e_cp1_3_subject_sn.md#leaf-certificates) | CPv1.3 | 37 |
+| error | [e_sti_certificate_policies](ISSUES/e_sti_certificate_policies.md#leaf-certificates) | ATIS-1000080v4 | 37 |
+| warn | [w_cp1_3_subject_rdn_unknown](ISSUES/w_cp1_3_subject_rdn_unknown.md#leaf-certificates) | CPv1.3 | 37 |
+| error | [e_sti_serial_number](ISSUES/e_sti_serial_number.md#leaf-certificates) | ATIS-1000080v4 | 1 |
+| error | [e_cp1_3_ambiguous_identifier](ISSUES/e_cp1_3_ambiguous_identifier.md#leaf-certificates) | CPv1.3 | 37 |
+
+\* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.\
+\*\* 6 certificates skipped because they are currently expired.
+
+#### Issued certificates
+
+| Created at | Name | Problems | Link |
+|------------|------|----------|------|
+| 30 Sep 22 13:29 UTC | SHAKEN | true | [view](7e09cbcaca476ca8f980ab8e78118113cb6ef205%2FREADME.md) |
+| 01 Oct 22 13:30 UTC | SHAKEN | true | [view](0f854cd19526a2ed1f659c3e4f5e2132b0c1ed0e%2FREADME.md) |
+| 03 Oct 22 12:46 UTC | SHAKEN | true | [view](e45f5da9810dc59bca40951f3b22efc52677dc56%2FREADME.md) |
+| 03 Oct 22 13:30 UTC | SHAKEN | true | [view](c9c99c097192223c8826a9f3bf5322a0c20a78f4%2FREADME.md) |
+| 04 Oct 22 12:46 UTC | SHAKEN | true | [view](f73107f6c2178570522cd0246ae1eb2fe882f9ae%2FREADME.md) |
+| 04 Oct 22 13:29 UTC | SHAKEN | true | [view](fd2814183a001309eed886e8be687c4085fcdc8f%2FREADME.md) |
+| 05 Oct 22 13:29 UTC | SHAKEN | true | [view](dc9e764717b56faa963a0b026603f04b33542673%2FREADME.md) |
+| 06 Oct 22 10:05 UTC | SHAKEN | true | [view](303d898eeeb3da9a375ea057a8f1fb1a00921e3f%2FREADME.md) |
+| 06 Oct 22 12:46 UTC | SHAKEN | true | [view](0228f0f76ce0b557f91c5d005244ed3fd04c8e92%2FREADME.md) |
+| 06 Oct 22 13:29 UTC | SHAKEN | true | [view](d6ccd2f7b184348e520b673b04912066ce4eab69%2FREADME.md) |
+| 07 Oct 22 12:46 UTC | SHAKEN | true | [view](c616fc84f5ac07747c5fb094f20cb76f5c146973%2FREADME.md) |
+| 07 Oct 22 13:30 UTC | SHAKEN | true | [view](e03512878ca79243810bed28c009d73d1b61bdbd%2FREADME.md) |
+| 08 Oct 22 10:05 UTC | SHAKEN | true | [view](569e81e58638e3e577d9d06a196977333363bf31%2FREADME.md) |
+| 08 Oct 22 13:29 UTC | SHAKEN | true | [view](87683fc1c307a71a4bbcb85588fc55a7da5f1191%2FREADME.md) |
+| 09 Oct 22 12:46 UTC | SHAKEN | true | [view](48d021769cdad6cfcb9c754a4c96c173cc0d39e1%2FREADME.md) |
+| 10 Oct 22 12:46 UTC | SHAKEN | true | [view](e4c9b98bbecb46fde63efe9952112de5b6b99ec1%2FREADME.md) |
+| 11 Oct 22 13:30 UTC | SHAKEN | true | [view](c204fb1eaedb603ca51eee84b857e46048efef58%2FREADME.md) |
+| 12 Oct 22 12:46 UTC | SHAKEN | true | [view](051c833d51caccb60906cc06e5008e04c4b9afaa%2FREADME.md) |
+| 12 Oct 22 13:29 UTC | SHAKEN | true | [view](b88bddd5e19942c872735a02e771f4f996de4b9c%2FREADME.md) |
+| 13 Oct 22 12:46 UTC | SHAKEN | true | [view](29feec693c178a589259227e49bd7c7080a94722%2FREADME.md) |
+| 14 Oct 22 10:05 UTC | SHAKEN | true | [view](2a8742b8e2c37f409a0c9c229b8b901248442e37%2FREADME.md) |
+| 14 Oct 22 12:46 UTC | SHAKEN | true | [view](f51dbe5b93ee71bc386bb2c3e0c6fb2052ca579b%2FREADME.md) |
+| 14 Oct 22 13:30 UTC | SHAKEN | true | [view](12307fb9d7f33589504a0ac179dd4e66e4c85683%2FREADME.md) |
+| 15 Oct 22 13:29 UTC | SHAKEN | true | [view](c291effee1f87b2365c2ccdfbf11d3daee6d1793%2FREADME.md) |
+| 17 Oct 22 10:05 UTC | SHAKEN | true | [view](e3c3476442998a446980b0487de0ecb2da911cf4%2FREADME.md) |
+| 17 Oct 22 12:46 UTC | SHAKEN | true | [view](93514bcc695cebc98ba110920ceaea4ee7fc5437%2FREADME.md) |
+| 17 Oct 22 13:29 UTC | SHAKEN | true | [view](caa3abae9e9defc436e4c1208744ec71587c5e1b%2FREADME.md) |
+| 18 Oct 22 12:46 UTC | SHAKEN | true | [view](0a21bcc994571022166cd567493f888abadf1bac%2FREADME.md) |
+| 18 Oct 22 13:30 UTC | SHAKEN | true | [view](ad247d39f3025524d72756ee747c72aa9d2efcab%2FREADME.md) |
+| 19 Oct 22 13:29 UTC | SHAKEN | true | [view](b11ce2599d4b279750f8823c8f39c6e4540afafe%2FREADME.md) |
+| 20 Oct 22 11:12 UTC | SHAKEN | true | [view](f9fdf7a4cb279213b0cb0d2f0638caa19dd4c36c%2FREADME.md) |
+| 20 Oct 22 13:29 UTC | SHAKEN | true | [view](8e62e5ab2267e22f4d55a4ea43494af79ce80900%2FREADME.md) |
+| 21 Oct 22 11:12 UTC | SHAKEN | true | [view](78c0ceb1e0b0d78a459ddd4bd46c08017b9a07f4%2FREADME.md) |
+| 21 Oct 22 13:29 UTC | SHAKEN | true | [view](7adb08c0422dfdbc535f11c8f108e6110df249ea%2FREADME.md) |
+| 22 Oct 22 13:30 UTC | SHAKEN | true | [view](0e0b2467e9112c6a396bbe66266203b592db93aa%2FREADME.md) |
+| 24 Oct 22 11:12 UTC | SHAKEN | true | [view](02a8317e417bc66baac5ec69fcc42e5a3613a834%2FREADME.md) |
+| 25 Oct 22 11:12 UTC | SHAKEN | true | [view](3407ac0a1a3530ed984de90a1518de2b8bc1b13a%2FREADME.md) |
+
+\* For issues relating to this CAs certificate repositories see this [report](URL.md).
+
+### CA Certificates
+
+- Certificates with Errors: 0
+- Certificates with Warnings: 0
+- Certificates with Notices: 0
+- Certificates with tests not executed as the requirements were Not Effective at issuance time: 1
+
+| Status | Code | Source | Instances |
+|--------|------|--------|-----------|
+| not effective | [w_cp1_3_ca_subject_rdn_unknown](ISSUES/w_cp1_3_ca_subject_rdn_unknown.md#ca-certificates) | CPv1.3 | 1 |
+| not effective | [e_sti_ca_subject_cn](ISSUES/e_sti_ca_subject_cn.md#ca-certificates) | ATIS-1000080v4 | 1 |
+| not effective | [e_sti_ca_key_usage](ISSUES/e_sti_ca_key_usage.md#ca-certificates) | ATIS-1000080v4 | 1 |
+| not effective | [e_sti_ca_subject_public_key](ISSUES/e_sti_ca_subject_public_key.md#ca-certificates) | ATIS-1000080v4 | 1 |
+| not effective | [e_sti_ca_crl_distribution](ISSUES/e_sti_ca_crl_distribution.md#ca-certificates) | ATIS-1000080v4 | 1 |
+| not effective | [e_sti_ca_extension_unknown](ISSUES/e_sti_ca_extension_unknown.md#ca-certificates) | ATIS-1000080v4 | 1 |
+| not effective | [e_sti_ca_subject_key_identifier](ISSUES/e_sti_ca_subject_key_identifier.md#ca-certificates) | ATIS-1000080v4 | 1 |
+| not effective | [e_sti_basic_constraints](ISSUES/e_sti_basic_constraints.md#ca-certificates) | ATIS-1000080v4 | 1 |
+| not effective | [e_sti_ca_authority_key_identifier](ISSUES/e_sti_ca_authority_key_identifier.md#ca-certificates) | ATIS-1000080v4 | 1 |
+| not effective | [e_sti_ca_certificate_policies](ISSUES/e_sti_ca_certificate_policies.md#ca-certificates) | ATIS-1000080v4 | 1 |
+| not effective | [e_sti_ca_version](ISSUES/e_sti_ca_version.md#ca-certificates) | ATIS-1000080v4 | 1 |
+| not effective | [e_sti_ca_subject](ISSUES/e_sti_ca_subject.md#ca-certificates) | ATIS-1000080v4 | 1 |
+| not effective | [e_cp1_3_ca_key_usage_crl_sign](ISSUES/e_cp1_3_ca_key_usage_crl_sign.md#ca-certificates) | CPv1.3 | 1 |
+| not effective | [e_sti_ca_issuer_dn](ISSUES/e_sti_ca_issuer_dn.md#ca-certificates) | ATIS-1000080v4 | 1 |
+| not effective | [e_sti_ca_serial_number](ISSUES/e_sti_ca_serial_number.md#ca-certificates) | ATIS-1000080v4 | 1 |
+| not effective | [e_sti_ca_signature_algorithm](ISSUES/e_sti_ca_signature_algorithm.md#ca-certificates) | ATIS-1000080v4 | 1 |
+
+\* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.\
+\*\* 0 certificates skipped because they are currently expired.
+
+#### Issued certificates
+
+| Created at | Name | Problems | Link |
+|------------|------|----------|------|
+| 06 Apr 20 13:48 UTC | Comcast SHAKEN Intermediate CA | false | [view](39011602b92be825bea3e29648f2e1866d60d0c6%2FREADME.md) |
+
+Generated: 26/10/2022 at 20:21:29
