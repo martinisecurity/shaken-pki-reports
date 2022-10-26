@@ -13,8 +13,6 @@ github.com/martinisecurity/zlint/v3 v3.0.0-20221025190918-c385e1e5d5af h1:wO/8RU
 github.com/martinisecurity/zlint/v3 v3.0.0-20221025190918-c385e1e5d5af/go.mod h1:NWwPC+ZxcwB46M9uUByU0FAlpR8TmjFvr3ZgE7Wi7XE=
 github.com/mreiferson/go-httpclient v0.0.0-20160630210159-31f0106b4474/go.mod h1:OQA4XLvDbMgS8P0CevmM4m9Q3Jq4phKUzcocxuGJ5m8=
 github.com/op/go-logging v0.0.0-20160315200505-970db520ece7/go.mod h1:HzydrMdWErDVzsI23lYNej1Htcns9BCg93Dk0bBINWk=
-github.com/peculiarventures/x509-linter v0.0.0-20221025230527-46435e716b5c h1:HCRRmIiaUQrMCeSkVHzprF09wCBmM/6k3PzMBKiovN4=
-github.com/peculiarventures/x509-linter v0.0.0-20221025230527-46435e716b5c/go.mod h1:kDZ5HfCyRuWe/7Kb/+vwe9U5LvEzW46Q7lc9wuDz9bQ=
 github.com/pelletier/go-toml v1.9.3 h1:zeC5b1GviRUyKYd6OJPvBU/mcVDVoL1OhT17FCt5dSQ=
 github.com/pelletier/go-toml v1.9.3/go.mod h1:u1nR/EPcESfeI/szUZKdtJ0xRNbUoANCkoOuaOx1Y+c=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=

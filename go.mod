@@ -3,7 +3,6 @@ module github.com/martinisecurity/shaken-pki-reports
 go 1.18
 
 require (
-	github.com/peculiarventures/x509-linter v0.0.0-20221025230527-46435e716b5c
 	github.com/zmap/zcrypto v0.0.0-20220803033029-557f3e4940be
 	github.com/zmap/zlint/v3 v3.3.2-0.20220828143300-44e12c12ca43
 )

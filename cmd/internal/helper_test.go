@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/peculiarventures/x509-linter/cmd/internal"
+	"github.com/martinisecurity/shaken-pki-reports/cmd/internal"
 	"github.com/zmap/zcrypto/x509"
 )
 
