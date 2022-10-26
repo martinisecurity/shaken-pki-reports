@@ -31,16 +31,17 @@ func RunLintCommand(certPath string, summary bool) error {
 
 	if fileInfo.IsDir() {
 		// load root certs
+		rootPool, err := ReadRootCertificates(CA_TRUST_LIST)
+		if err != nil {
+			return fmt.Errorf("cannot load root certificates, %w", err)
+		}
 		checkCerts := []*internal.PemCertificate{}
-		rootPool := x509.NewCertPool()
 		intermediatePool := x509.NewCertPool()
-		rootPem, err := os.ReadFile("shaken-ca-list.pem")
-		if err == nil {
-			rootCerts := internal.ParseCertificates(rootPem)
-			for _, cert := range rootCerts {
-				rootPool.AddCert(cert.Certificate)
-				checkCerts = append(checkCerts, cert)
-			}
+		rootCerts := rootPool.Certificates()
+		for _, cert := range rootCerts {
+			checkCerts = append(checkCerts, &internal.PemCertificate{
+				Certificate: cert,
+			})
 		}
 
 		files, err := ioutil.ReadDir(certPath)
