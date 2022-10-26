@@ -13,7 +13,7 @@
 
 | Status | Code | Source | Instances |
 |--------|------|--------|-----------|
-| error | [e_cp1_3_ambiguous_identifier](ISSUES/e_cp1_3_ambiguous_identifier.html#leaf-certificates) | CPv1.3 | 38 |
+| error | [e_cp1_3_ambiguous_identifier](./ISSUES/e_cp1_3_ambiguous_identifier.html#leaf-certificates) | CPv1.3 | 38 |
 | error | [e_sti_subject_cn](ISSUES/e_sti_subject_cn.html#leaf-certificates) | ATIS-1000080v4 | 38 |
 | error | [e_sti_subject_key_identifier](ISSUES/e_sti_subject_key_identifier.html#leaf-certificates) | ATIS-1000080v4 | 38 |
 | error | [e_sti_crl_distribution](ISSUES/e_sti_crl_distribution.html#leaf-certificates) | ATIS-1000080v4 | 38 |
