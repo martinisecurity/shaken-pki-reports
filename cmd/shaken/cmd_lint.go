@@ -5,6 +5,7 @@ import (
 	"io/ioutil"
 	"os"
 	"path"
+	"time"
 
 	"github.com/martinisecurity/shaken-pki-reports/cmd/internal"
 	"github.com/zmap/zcrypto/x509"
@@ -71,6 +72,7 @@ func RunLintCommand(certPath string, summary bool) error {
 		r := LintCertificates(checkCerts, &x509.VerifyOptions{
 			Roots:         rootPool,
 			Intermediates: intermediatePool,
+			CurrentTime:   time.Now(),
 		})
 
 		if err := Mkdir(REPORT_DIR_NAME); err != nil {
@@ -187,9 +189,16 @@ func LintCertificate(cert *internal.PemCertificate, options *x509.VerifyOptions)
 	}
 
 	organization := getOrganizationName(cert.Certificate, options)
+	fmt.Println(organization)
 
 	thumbprint := computeCertThumbprint(cert.Certificate)
 	fmt.Printf("Lint certificate %s issued by '%s' (%s)\n", thumbprint, organization, link)
+
+	isUntrusted := false
+	_, _, _, err = cert.Certificate.Verify(*options)
+	if _, ok := err.(x509.UnknownAuthorityError); ok {
+		isUntrusted = true
+	}
 
 	return &LintCertificateResult{
 		Link:         link,
@@ -197,14 +206,23 @@ func LintCertificate(cert *internal.PemCertificate, options *x509.VerifyOptions)
 		Thumbprint:   thumbprint,
 		Result:       zlint.LintCertificateEx(cert.Certificate, registry),
 		Organization: organization,
+		IsExpired:    cert.Certificate.NotAfter.Before(time.Now()),
+		IsUntrusted:  isUntrusted,
 	}, nil
 }
 
 // SaveOrganizationReport writes report for each organization
 func SaveOrganizationReport(r *LintTotalResult, outDir string) error {
-
 	names := r.getOrganizationsNames()
 	for _, name := range names {
+		// check certs amount for the org
+		leafIssuer := r.LeafCertificates.Issuers[name]
+		caIssuer := r.CaCertificates.Issuers[name]
+		if !((leafIssuer != nil && leafIssuer.Amount > 0) || (caIssuer != nil && caIssuer.Amount > 0)) {
+			// don't save report if there is no certs
+			return nil
+		}
+
 		// create folder
 		orgDir := path.Join(outDir, name)
 		if err := Mkdir(orgDir); err != nil {

@@ -101,18 +101,16 @@ var wellknownIssueNames = map[string]string{
 func getOrganizationName(c *x509.Certificate, options *x509.VerifyOptions) string {
 	name := internal.GetOrganizationName(c)
 	if options != nil {
-		current, expired, never, err := c.Verify(*options)
-		if err != nil {
-			if len(current) > 0 {
-				chain := current[0]
-				name = internal.GetOrganizationName(chain[len(chain)-1])
-			} else if len(expired) > 0 {
-				chain := expired[0]
-				name = internal.GetOrganizationName(chain[len(chain)-1])
-			} else if len(never) > 0 {
-				chain := never[0]
-				name = internal.GetOrganizationName(chain[len(chain)-1])
-			}
+		current, expired, never, _ := c.Verify(*options)
+		if len(current) > 0 {
+			chain := current[0]
+			name = internal.GetOrganizationName(chain[len(chain)-1])
+		} else if len(expired) > 0 {
+			chain := expired[0]
+			name = internal.GetOrganizationName(chain[len(chain)-1])
+		} else if len(never) > 0 {
+			chain := never[0]
+			name = internal.GetOrganizationName(chain[len(chain)-1])
 		}
 	}
 

@@ -17,6 +17,8 @@ type LintCertificateResult struct {
 	Thumbprint   string
 	Result       *zlint.ResultSet
 	Organization string
+	IsExpired    bool
+	IsUntrusted  bool
 }
 
 type Findings struct {
@@ -31,10 +33,11 @@ type LintIssue struct {
 }
 
 type LintOrganizationResult struct {
-	Name                string
-	Issues              map[string]*LintIssue
-	Certificates        []*LintCertificateResult
-	ExpiredCertificates int
+	Name                  string
+	Issues                map[string]*LintIssue
+	Certificates          []*LintCertificateResult
+	ExpiredCertificates   int
+	UntrustedCertificates int
 	LintResult
 	*Findings
 }
@@ -96,8 +99,9 @@ func (t *LintOrganizationResult) AppendCertificate(c *LintCertificateResult) {
 }
 
 type LintCertificatesResult struct {
-	Issuers             map[string]*LintOrganizationResult
-	ExpiredCertificates int
+	Issuers               map[string]*LintOrganizationResult
+	ExpiredCertificates   int
+	UntrustedCertificates int
 	LintResult
 	*Findings
 }
@@ -122,10 +126,21 @@ func (t *LintCertificatesResult) AppendCertificate(c *LintCertificateResult) {
 		t.Issuers[c.Organization] = issuer
 	}
 
-	if c.Cert.NotAfter.Before(time.Now()) {
-		// exclude expired certificates
+	skip := false
+	if c.IsExpired {
 		issuer.ExpiredCertificates += 1
 		t.ExpiredCertificates += 1
+		skip = true
+	}
+
+	if c.IsUntrusted {
+		issuer.UntrustedCertificates += 1
+		t.UntrustedCertificates += 1
+		skip = true
+	}
+
+	if skip {
+		// exclude untrusted certificates
 		return
 	}
 

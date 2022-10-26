@@ -46,7 +46,8 @@ func PrintTotalReport(w io.Writer, r *LintTotalResult) {
 		fmt.Fprintln(w, "\\*\\* The percent of errors, warnings and notices is calculated against total observed certificates from the specified issuer.\\")
 		fmt.Fprintln(w, "\\*\\*\\* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.\\")
 		fmt.Fprintln(w, "\\*\\*\\*\\* For information on failed certificate repository retrievals see this [report](URL.md).\\")
-		fmt.Fprintf(w, "\\*\\*\\*\\*\\* %d certificates skipped because they are currently expired.\n", r.LeafCertificates.ExpiredCertificates)
+		fmt.Fprintf(w, "\\*\\*\\*\\*\\* %d certificates skipped because they are currently expired.\\\n", r.LeafCertificates.ExpiredCertificates)
+		fmt.Fprintf(w, "\\*\\*\\*\\*\\*\\* %d certificates skipped because they are not currently trusted by the STI-PA.\n", r.LeafCertificates.UntrustedCertificates)
 	}
 	if r.CaCertificates.Amount > 0 {
 		fmt.Fprintln(w, "")
@@ -56,7 +57,8 @@ func PrintTotalReport(w io.Writer, r *LintTotalResult) {
 		fmt.Fprintln(w, "")
 		fmt.Fprintln(w, "\\* The percent of certificates per issuer is calculated against total certificates from all issuers.\\")
 		fmt.Fprintln(w, "\\*\\* The percent of errors, warnings and notices is calculated against total observed certificates from the specified issuer.\\")
-		fmt.Fprintf(w, "\\*\\*\\* %d certificates skipped because they are currently expired.\n", r.CaCertificates.ExpiredCertificates)
+		fmt.Fprintf(w, "\\*\\*\\* %d certificates skipped because they are currently expired.\\\n", r.CaCertificates.ExpiredCertificates)
+		fmt.Fprintf(w, "\\*\\*\\*\\* %d certificates skipped because they are not currently trusted by the STI-PA.\n", r.CaCertificates.UntrustedCertificates)
 	}
 
 	fmt.Fprintln(w, "")
@@ -115,7 +117,8 @@ func PrintOrganizationReport(w io.Writer, name string, r *LintTotalResult) {
 		// TODO don't show for CA
 		fmt.Fprintln(w, "")
 		fmt.Fprintln(w, "\\* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.\\")
-		fmt.Fprintf(w, "\\*\\* %d certificates skipped because they are currently expired.\n", issuer.ExpiredCertificates)
+		fmt.Fprintf(w, "\\*\\* %d certificates skipped because they are currently expired.\\\n", issuer.ExpiredCertificates)
+		fmt.Fprintf(w, "\\*\\*\\* %d certificates skipped because they are not currently trusted by the STI-PA.\n", issuer.UntrustedCertificates)
 
 		// certificates
 		fmt.Fprintln(w, "")
@@ -224,6 +227,9 @@ func PrintOrganizationsTable(w io.Writer, r *LintCertificatesResult, anchor stri
 
 	for _, key := range keys {
 		issuer := r.Issuers[key]
+		if issuer.Amount == 0 {
+			continue
+		}
 		issuerNameLink := fmt.Sprintf("[%s](%s)", key, fmt.Sprintf("%s#%s", url.PathEscape(path.Join(key, "README.md")), anchor))
 		fmt.Fprintf(w, "| %s | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) |\n", issuerNameLink, issuer.Amount, percent(issuer.Amount, r.Amount), issuer.Errors, percent(issuer.Errors, issuer.Amount), issuer.Warnings, percent(issuer.Warnings, issuer.Amount), issuer.Notices, percent(issuer.Notices, issuer.Amount), issuer.NE, percent(issuer.NE, issuer.Amount))
 	}
