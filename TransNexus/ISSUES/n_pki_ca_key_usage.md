@@ -24,4 +24,4 @@ no warning, or error, or not effective date level issues were found
 | notice | CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US | [view](../df7d871ff60d213820a96308346eda870d6e8ed2/README.md) | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 
 
-Generated: 26/10/2022 at 21:01:13
+Generated: 26/10/2022 at 21:14:23

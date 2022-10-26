@@ -21,4 +21,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | CN=SHAKEN Sansay Root CA US, OU=Sansay CA, O=Sansay Corporation, L=San Diego, ST=California, C=US | [view](../04f4ce72f3872ae25e9a1ca055747240370ff404/README.md) |  |
 
 
-Generated: 26/10/2022 at 21:01:13
+Generated: 26/10/2022 at 21:14:23

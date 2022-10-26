@@ -4,8 +4,8 @@
 
 | Code | Source | Instances |
 |------|--------|-----------|
-| [w_atis_content_type](ISSUES/w_atis_content_type.md) | ATIS-1000080 | 4 |
 | [e_atis_cache_header](ISSUES/e_atis_cache_header.md) | ATIS-1000074 | 3 |
+| [w_atis_content_type](ISSUES/w_atis_content_type.md) | ATIS-1000080 | 4 |
 
 ### https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/08d04d1bfffa8ddf52073599e552f0bc.pem
 
@@ -29,6 +29,13 @@
 5 tests were ran and no warning or error level issues were found
 
 ### https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/26df75cb7d2e038e81030c5256f57e50.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
+### https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/2d9c4131825627aaf47bd2c9471d43ae.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
@@ -735,6 +742,13 @@
 
 5 tests were ran and no warning or error level issues were found
 
+### https://certificates.clearip.com/5f7c135d-caf3-4661-abb1-d1720e7872e2/a1d7174c35b1f65a648365b2d6981577.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
 ### https://certificates.clearip.com/5f7c135d-caf3-4661-abb1-d1720e7872e2/b9cb01d271bddd30e431e854f8c2cce3.pem
 
 | Code | Status | Source | Details |
@@ -771,6 +785,13 @@
 5 tests were ran and no warning or error level issues were found
 
 ### https://certificates.clearip.com/82d97ecb-9b38-4926-9062-8e21b8986930/28ec7e97780e7ae26bbe623cc083537c.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
+### https://certificates.clearip.com/82d97ecb-9b38-4926-9062-8e21b8986930/4a5ab5a3b56a2bb35ff2b29c212a2ab8.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
@@ -1022,6 +1043,13 @@
 
 5 tests were ran and no warning or error level issues were found
 
+### https://certificates.clearip.com/a429df3a-62d2-4851-90c8-fc446859fb08/d409e2ad06ca8da0eec3208c6f98c46f.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
 ### https://certificates.clearip.com/a429df3a-62d2-4851-90c8-fc446859fb08/df09a6def78f6ee9cf90e390af802924.pem
 
 | Code | Status | Source | Details |
@@ -1058,6 +1086,13 @@
 5 tests were ran and no warning or error level issues were found
 
 ### https://certificates.clearip.com/b7343686-5ed8-402c-89a3-8bf1a3d48975/61649b0719ddf13f46df03bd3ca7845a.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
+### https://certificates.clearip.com/b7343686-5ed8-402c-89a3-8bf1a3d48975/9152c149094a3c0a73bbaf2924b00f92.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
@@ -1819,6 +1854,13 @@
 
 5 tests were ran and no warning or error level issues were found
 
+### https://certificates.transnexus.com/722J/f75ff50a-1fd7-4087-a0a1-de57acb1afc5.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
 ### https://certificates.transnexus.com/736J/27cf1c16-f0f0-41fa-a0c1-6c167396fe34.pem
 
 | Code | Status | Source | Details |
@@ -1952,6 +1994,13 @@
 
 5 tests were ran and no warning or error level issues were found
 
+### https://certificates.transnexus.com/8526/f6978975-50bc-40df-b4a2-a1d7794b321f.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
 ### https://certificates.transnexus.com/873J/ac03ff61-e0df-456a-b2b1-d4a8d57afcff.pem
 
 | Code | Status | Source | Details |
@@ -1984,8 +2033,8 @@
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 ### https://prod001-cr.rbbnidhub.com/8ZJdVFg7gz/2
 
@@ -1998,8 +2047,8 @@
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 
-Generated: 26/10/2022 at 20:59:21
+Generated: 26/10/2022 at 21:14:10

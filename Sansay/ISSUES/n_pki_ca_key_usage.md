@@ -21,4 +21,4 @@ no warning, or error, or not effective date level issues were found
 | notice | CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US | [view](../ccd437835c59c46742e20ffa132954e2127fbc42/README.md) | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 
 
-Generated: 26/10/2022 at 21:01:13
+Generated: 26/10/2022 at 21:14:23

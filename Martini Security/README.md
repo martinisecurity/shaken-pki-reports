@@ -42,9 +42,9 @@
 
 | Status | Code | Source | Instances |
 |--------|------|--------|-----------|
-| not effective | [w_cp1_3_ca_subject_rdn_unknown](ISSUES/w_cp1_3_ca_subject_rdn_unknown.md#ca-certificates) | CPv1.3 | 3 |
-| not effective | [e_cp1_3_ca_key_usage_crl_sign](ISSUES/e_cp1_3_ca_key_usage_crl_sign.md#ca-certificates) | CPv1.3 | 2 |
 | error | [e_sti_ca_crl_distribution](ISSUES/e_sti_ca_crl_distribution.md#ca-certificates) | ATIS-1000080v4 | 2 |
+| not effective | [e_cp1_3_ca_key_usage_crl_sign](ISSUES/e_cp1_3_ca_key_usage_crl_sign.md#ca-certificates) | CPv1.3 | 2 |
+| not effective | [w_cp1_3_ca_subject_rdn_unknown](ISSUES/w_cp1_3_ca_subject_rdn_unknown.md#ca-certificates) | CPv1.3 | 3 |
 | notice | [n_sti_ca_certificate_policy_critical](ISSUES/n_sti_ca_certificate_policy_critical.md#ca-certificates) | ATIS-1000080v4 | 1 |
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.\
@@ -58,4 +58,4 @@
 | 03 May 22 15:41 UTC | Martini Security SHAKEN G1 | true | [view](0fe086f321e93ca9ae08a19a89bf9049b7625fcf%2FREADME.md) |
 | 02 Oct 22 10:40 UTC | Martini Security SHAKEN G2 | true | [view](6af848efe4c680e44114ee32350826704eca8135%2FREADME.md) |
 
-Generated: 26/10/2022 at 21:01:13
+Generated: 26/10/2022 at 21:14:23

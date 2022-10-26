@@ -48,6 +48,7 @@ Description: STI certificates shall contain a Subject Key Identifier extension
 | error | CN=SHAKEN, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US | [view](../0e0b2467e9112c6a396bbe66266203b592db93aa/README.md) | STI certificates shall contain a Subject Key Identifier extension |
 | error | CN=SHAKEN, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US | [view](../02a8317e417bc66baac5ec69fcc42e5a3613a834/README.md) | STI certificates shall contain a Subject Key Identifier extension |
 | error | CN=SHAKEN, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US | [view](../3407ac0a1a3530ed984de90a1518de2b8bc1b13a/README.md) | STI certificates shall contain a Subject Key Identifier extension |
+| error | CN=SHAKEN, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US | [view](../b9a2a1554c1e26638a56b319ee1aa6b2837fafbe/README.md) | STI certificates shall contain a Subject Key Identifier extension |
 
 ### CA Certificates
 
@@ -57,4 +58,4 @@ Description: STI certificates shall contain a Subject Key Identifier extension
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 26/10/2022 at 21:01:13
+Generated: 26/10/2022 at 21:14:23

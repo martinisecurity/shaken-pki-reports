@@ -45,6 +45,7 @@ Description: Information that is not verified shall not be included in certifica
 | warn | emailAddress=voiceops@clearfly.net, CN=SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J, OU=NOC, O=Greenfly Networks Inc dba Clearfly Communications, ST=Montana, C=US, emailAddress=voiceops@clearfly.net | [view](../ce25f15061e2dea749adaef0f052f4994469c486/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 | warn | emailAddress=kelsey@qualityvoicedata.com, CN=SHAKEN Quality Voice & Data Inc. 548J, OU=Quality Voice & Data, O=Quality Voice & Data Inc., ST=Nebraska, C=US, emailAddress=kelsey@qualityvoicedata.com | [view](../234394d42b2f264577cf8ba53c515205085ea962/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 | warn | emailAddress=voiceops@clearfly.net, CN=SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J, OU=NOC, O=Greenfly Networks Inc dba Clearfly Communications, ST=Montana, C=US, emailAddress=voiceops@clearfly.net | [view](../80928cca9b6e8e2de10138480a5827d88624b8ac/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
+| warn | emailAddress=billing@ntcinternationalinc.com, CN=SHAKEN NTC International\\, INC 016K, OU=Operations, O=NTC International\\, INC, ST=Delaware, C=US, emailAddress=billing@ntcinternationalinc.com | [view](../6232068ab8e75570bd010619f5fd471b86fc5f14/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 
 ### CA Certificates
 
@@ -54,4 +55,4 @@ Description: Information that is not verified shall not be included in certifica
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 26/10/2022 at 21:01:13
+Generated: 26/10/2022 at 21:14:23

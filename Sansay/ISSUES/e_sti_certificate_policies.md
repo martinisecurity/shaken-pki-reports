@@ -86,6 +86,7 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 | error | CN=SHAKEN Arbeit 816J, OU=TAC, O=Arbeit, ST=New York, C=US | [view](../3c57a7c13faaf7c741e563de98b02b118916d486/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | CN=SHAKEN Ytel Inc. 703J, OU=Carrier, O=Ytel Inc., ST=California, C=US | [view](../fcf554450f39fbe029ccdd034d9070e3b4783c8a/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | emailAddress=voiceops@clearfly.net, CN=SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J, OU=NOC, O=Greenfly Networks Inc dba Clearfly Communications, ST=Montana, C=US, emailAddress=voiceops@clearfly.net | [view](../80928cca9b6e8e2de10138480a5827d88624b8ac/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | emailAddress=billing@ntcinternationalinc.com, CN=SHAKEN NTC International\\, INC 016K, OU=Operations, O=NTC International\\, INC, ST=Delaware, C=US, emailAddress=billing@ntcinternationalinc.com | [view](../6232068ab8e75570bd010619f5fd471b86fc5f14/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 ### CA Certificates
 
@@ -95,4 +96,4 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 26/10/2022 at 21:01:13
+Generated: 26/10/2022 at 21:14:23

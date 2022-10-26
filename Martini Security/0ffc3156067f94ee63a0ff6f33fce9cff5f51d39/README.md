@@ -2,7 +2,7 @@
 ## Martini Security
 
 ### Certificate 0ffc3156067f94ee63a0ff6f33fce9cff5f51d39
-Tested At: 2022-10-26 20:59:22 +0000 UTC\
+Tested At: 2022-10-26 21:14:11 +0000 UTC\
 Initial Validity Period: 9132 day(s)\
 Remaining Validity Period: 8956 day(s)\
 Subject: CN=Martini Security SHAKEN R1, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
@@ -20,9 +20,9 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICJTCCAcygAwIBAgIU
 
 ### Not Effective
 
-- w_cp1_3_ca_subject_rdn_unknown
 - e_cp1_3_ca_key_usage_crl_sign
+- w_cp1_3_ca_subject_rdn_unknown
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 26/10/2022 at 21:01:13
+Generated: 26/10/2022 at 21:14:23

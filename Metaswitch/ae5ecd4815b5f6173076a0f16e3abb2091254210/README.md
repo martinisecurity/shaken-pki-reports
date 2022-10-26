@@ -2,7 +2,7 @@
 ## Metaswitch
 
 ### Certificate ae5ecd4815b5f6173076a0f16e3abb2091254210
-Tested At: 2022-10-26 21:00:31 +0000 UTC\
+Tested At: 2022-10-26 21:14:18 +0000 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 954 day(s)\
 Subject: CN=Avid Communication SHAKEN Cert 742D, O=Avid Communication, C=US\
@@ -15,11 +15,11 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICXzCCAgWgAwIBAgIQ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_sti_key_usage | error | ATIS-1000080v4 | The Key Usage extension shall contain a single key usage value of digitalSignature |
 | e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| e_sti_issuer_dn | error | ATIS-1000080v4 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 | e_sti_subject_cn | error | ATIS-1000080v4 | Common name shall contain the text string 'SHAKEN 742D' |
-| e_cp1_3_ambiguous_identifier | error | CPv1.3 | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
+| e_sti_issuer_dn | error | ATIS-1000080v4 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
+| e_cp1_3_ambiguous_identifier | error | CPv1.3 | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| e_sti_key_usage | error | ATIS-1000080v4 | The Key Usage extension shall contain a single key usage value of digitalSignature |
 
-Generated: 26/10/2022 at 21:01:13
+Generated: 26/10/2022 at 21:14:23

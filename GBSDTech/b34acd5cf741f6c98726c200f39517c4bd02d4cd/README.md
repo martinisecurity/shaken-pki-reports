@@ -2,7 +2,7 @@
 ## GBSDTech
 
 ### Certificate b34acd5cf741f6c98726c200f39517c4bd02d4cd
-Tested At: 2022-10-26 21:00:35 +0000 UTC\
+Tested At: 2022-10-26 21:14:19 +0000 UTC\
 Initial Validity Period: 7299 day(s)\
 Remaining Validity Period: 6760 day(s)\
 Subject: CN=1RouteGroup SHAKEN Intermediate CA, O=1RouteGroup, ST=Texas, C=US\
@@ -20,23 +20,23 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIB9zCCAZ2gAwIBAgIC
 
 ### Not Effective
 
-- e_cp1_3_ca_key_usage_crl_sign
 - e_sti_ca_subject_key_identifier
-- e_sti_ca_extension_unknown
-- e_sti_ca_key_usage
-- e_sti_ca_subject_public_key
-- e_sti_ca_authority_key_identifier
+- e_cp1_3_ca_key_usage_crl_sign
 - w_cp1_3_ca_subject_rdn_unknown
-- e_sti_basic_constraints
-- e_sti_ca_issuer_dn
-- e_sti_ca_serial_number
-- e_sti_ca_signature_algorithm
-- e_sti_ca_certificate_policies
-- e_sti_ca_version
 - e_sti_ca_crl_distribution
-- e_sti_ca_subject_cn
+- e_sti_ca_authority_key_identifier
+- e_sti_ca_issuer_dn
+- e_sti_ca_version
+- e_sti_basic_constraints
 - e_sti_ca_subject
+- e_sti_ca_serial_number
+- e_sti_ca_certificate_policies
+- e_sti_ca_signature_algorithm
+- e_sti_ca_subject_public_key
+- e_sti_ca_key_usage
+- e_sti_ca_subject_cn
+- e_sti_ca_extension_unknown
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 26/10/2022 at 21:01:13
+Generated: 26/10/2022 at 21:14:23

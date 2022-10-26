@@ -21,4 +21,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | CN=Comcast SHAKEN Root CA, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US | [view](../e341fff079ef701a75085e21aaa915d84a27a52a/README.md) |  |
 
 
-Generated: 26/10/2022 at 21:01:13
+Generated: 26/10/2022 at 21:14:23

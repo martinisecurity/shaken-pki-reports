@@ -50,6 +50,7 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 | warn | CN=SHAKEN 345J, OU=SHAKEN, O=Ooma Inc, C=US | [view](../fc99f74650aae6ff90f41e781e215bf1a8f06f68/README.md) | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | warn | CN=SHAKEN 345J, OU=SHAKEN, O=Ooma Inc, C=US | [view](../ecf5e6662e3084505582f48a356cc82f2e95a7dd/README.md) | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | warn | CN=SHAKEN 012K, OU=SHAKEN, O=CallCurrent\\, Inc., C=US | [view](../a96d0880d34d1cb60fd0f00ce985722fb952a02d/README.md) | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| warn | CN=SHAKEN 089K, OU=SHAKEN, O=Logista Solutions, C=US | [view](../fde031a4737afd05ee9408293b200a35bfa307e4/README.md) | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | warn | CN=SHAKEN 9714, OU=SHAKEN, O=Grid4 Communications, C=US | [view](../cb1430446ee425f297b477264f245934a792e826/README.md) | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | warn | CN=SHAKEN 297K, OU=SHAKEN, O=Clarity Voice, C=US | [view](../9df80eed66106e1aa17a18c41d830a3e240c445a/README.md) | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | warn | CN=SHAKEN 674J, OU=SHAKEN, O=Panterra Networks Inc., C=US | [view](../ff10d41f263188f0218fa8d9f25b21d42e3fe1f7/README.md) | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
@@ -57,6 +58,8 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 | warn | CN=SHAKEN 7453, OU=SHAKEN, O=TPx, C=US | [view](../e6d88e273d127842c50b03c4b5e1c0dd088872fe/README.md) | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | warn | CN=SHAKEN 849J, OU=SHAKEN, O=Fuse.Cloud, C=US | [view](../ef4f17c2145aaea571f41b690925b622e8146800/README.md) | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | warn | CN=SHAKEN 469A, OU=SHAKEN, O=T3 Communications Inc., C=US | [view](../b3972d4d4686a49e9ae279e328f8b822c476fe52/README.md) | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| warn | CN=SHAKEN 790J, OU=SHAKEN, O=Viirtue, C=US | [view](../38fe760cf3e12683c131b3d0f2e891f007794503/README.md) | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| warn | CN=SHAKEN 625J, OU=SHAKEN, O=Victory Telecom Inc., C=US | [view](../e2aacd36d02951b3e73b552ea16b976f7ccf9f26/README.md) | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | warn | CN=SHAKEN 738J, OU=SHAKEN, O=SIP.US LLC, C=US | [view](../dcfb7c5055b8e4f07f3136116eaf7e354dabb82a/README.md) | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | warn | CN=SHAKEN 459J, OU=SHAKEN, O=Altaworx, C=US | [view](../cf6536ed84fa4fb421ebf66f89eb4d51794270c3/README.md) | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | warn | CN=SHAKEN 366G, OU=SHAKEN, O=USA Digital, C=US | [view](../bd7a8b9542e2a04e92af34f261cb8afa92a1af0d/README.md) | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
@@ -66,7 +69,11 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 | warn | CN=SHAKEN 0172, OU=SHAKEN, O=CallTower, C=US | [view](../8dcc3b92f9308b0c51305675d84fe107f0187ecc/README.md) | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | warn | CN=SHAKEN 291K, OU=SHAKEN, O=Hypercore Networks\\, Inc, C=US | [view](../2661ebd23f777002d5a8b8e0cced45b06bf12b10/README.md) | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | warn | CN=SHAKEN 738J, OU=SHAKEN, O=SkySwitch, C=US | [view](../aa9b65dead966d217c2e51f1e78559a830fefbf8/README.md) | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| warn | CN=SHAKEN 157C, OU=SHAKEN, O=DigitalSpeed Communications, C=US | [view](../21e6797a2a553ddf3e1d5c9d5ceb99f93fa6c773/README.md) | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | warn | CN=SHAKEN 606F, OU=SHAKEN, O=Global Data Systems Inc., C=US | [view](../0ea62e7be98fcc1d31d5d28965f8fabeb1cd9e5a/README.md) | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| warn | CN=SHAKEN 722J, OU=SHAKEN, O=EvolveIP LLC, C=US | [view](../160aff282003da74ec5b92fd7f622fb8487e6879/README.md) | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| warn | CN=SHAKEN 012K, OU=SHAKEN, O=CallCurrent\\, Inc., C=US | [view](../d645bcf28ab9c9c17f50a509aee493520976cd68/README.md) | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| warn | CN=SHAKEN 8526, OU=SHAKEN, O=MetTel, C=US | [view](../c75227976fe6d09fed2d445131b0aa220b68e55f/README.md) | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 ### CA Certificates
 
@@ -76,4 +83,4 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 26/10/2022 at 21:01:13
+Generated: 26/10/2022 at 21:14:23
