@@ -71,7 +71,7 @@ func PrintUrlOrg(w io.Writer, r *LintUrlOrgResult) {
 	fmt.Fprintln(w, "|------|--------|-----------|")
 	for code, instances := range r.Problems {
 		rule := uLint.FindRuleByName(code)
-		codeLink := fmt.Sprintf("[%s](ISSUES/%s/README.md)", code, code)
+		codeLink := fmt.Sprintf("[%s](../ISSUES/%s/README.md)", code, code)
 		fmt.Fprintf(w, "| %s | %s | %d |\n", codeLink, rule.Source, instances)
 	}
 	fmt.Fprintln(w, "")
@@ -112,12 +112,24 @@ func PrintUrlSummary(w io.Writer, r *LintUrlSummaryResult) {
 	fmt.Fprintln(w, "")
 
 	fmt.Fprintln(w, "")
-	fmt.Fprintln(w, "| Issuers | Links | Errors | Warnings | Notices |")
+	PrintOrgTable(w, r.Organizations, r, "..")
+
+	// fmt.Fprintln(w, "")
+	// fmt.Fprintln(w, "## Clients")
+	// fmt.Fprintln(w, "")
+	// PrintOrgTable(w, r.Clients, r, "CLIENTS")
+
+	PrintFooter(w)
+}
+
+// PrintOrgTable prints table for the Organization test results
+func PrintOrgTable(w io.Writer, r map[string]*LintUrlOrgResult, t *LintUrlSummaryResult, basePath string) {
+	fmt.Fprintln(w, "| Domains | Links | Errors | Warnings | Notices |")
 	fmt.Fprintln(w, "|---------|-------|--------|----------|---------|")
 
-	// order r.Issuers keys
-	keys := make([]string, 0, len(r.Organizations))
-	for k := range r.Organizations {
+	// order keys
+	keys := make([]string, 0, len(r))
+	for k := range r {
 		keys = append(keys, k)
 	}
 	sort.Slice(keys[:], func(a int, b int) bool {
@@ -125,11 +137,9 @@ func PrintUrlSummary(w io.Writer, r *LintUrlSummaryResult) {
 	})
 
 	for _, key := range keys {
-		issuer := r.Organizations[key]
-		issuerNameLink := fmt.Sprintf("[%s](%s)", key, path.Join(escapeMdLink(key), "URL", "README.md"))
-		fmt.Fprintf(w, "| %s | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) |\n", issuerNameLink, issuer.Amount, percent(issuer.Amount, r.Amount), issuer.Errors, percent(issuer.Errors, issuer.Amount), issuer.Warnings, percent(issuer.Warnings, issuer.Amount), issuer.Notices, percent(issuer.Notices, issuer.Amount))
+		item := r[key]
+		clientName := fmt.Sprintf("[%s](%s)", key, path.Join(basePath, escapeMdLink(key), "URL", "README.md"))
+		fmt.Fprintf(w, "| %s | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) |\n", clientName, item.Amount, percent(item.Amount, t.Amount), item.Errors, percent(item.Errors, item.Amount), item.Warnings, percent(item.Warnings, item.Amount), item.Notices, percent(item.Notices, item.Amount))
 	}
-	fmt.Fprintf(w, "| **Total** | %d (100%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) |\n", r.Amount, r.Errors, percent(r.Errors, r.Amount), r.Warnings, percent(r.Warnings, r.Amount), r.Notices, percent(r.Notices, r.Amount))
-
-	PrintFooter(w)
+	fmt.Fprintf(w, "| **Total** | %d (100%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) |\n", t.Amount, t.Errors, percent(t.Errors, t.Amount), t.Warnings, percent(t.Warnings, t.Amount), t.Notices, percent(t.Notices, t.Amount))
 }

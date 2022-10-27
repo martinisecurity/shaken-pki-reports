@@ -131,36 +131,54 @@ func RunDownloadCommand(listPath string, outDir string, includeCa bool) error {
 	defer file.Close()
 	PrintUrlSummary(file, lintResults)
 
-	for orgName, lintOrg := range lintResults.Organizations {
-		// create org dir
-		orgDir := path.Join(REPORT_DIR_NAME, orgName)
-		err := Mkdir(orgDir)
-		if err != nil {
+	for _, lintOrg := range lintResults.Organizations {
+		if err := SaveOrgReport(lintOrg, REPORT_DIR_NAME); err != nil {
 			return err
 		}
+	}
 
-		// create org report file
-		orgFile, err := CreateReport(path.Join(orgDir, "URL"))
-		if err != nil {
-			return fmt.Errorf("cannot create organization report, %s", err.Error())
+	clientsDir := path.Join(REPORT_DIR_NAME, "URL", "CLIENTS")
+	if err := Mkdir(clientsDir); err != nil {
+		return err
+	}
+	for _, lintClient := range lintResults.Clients {
+		if err := SaveOrgReport(lintClient, clientsDir); err != nil {
+			return err
 		}
-		defer orgFile.Close()
-		PrintUrlOrg(orgFile, lintOrg)
+	}
 
-		// create issue report file
-		issuesDir := path.Join(orgDir, "ISSUES")
-		err = Mkdir(issuesDir)
+	return nil
+}
+
+func SaveOrgReport(r *LintUrlOrgResult, basePath string) error {
+	// create org dir
+	orgDir := path.Join(basePath, r.Name)
+	err := Mkdir(orgDir)
+	if err != nil {
+		return err
+	}
+
+	// create org report file
+	orgFile, err := CreateReport(path.Join(orgDir, "URL"))
+	if err != nil {
+		return fmt.Errorf("cannot create organization report, %s", err.Error())
+	}
+	defer orgFile.Close()
+	PrintUrlOrg(orgFile, r)
+
+	// create issue report file
+	issuesDir := path.Join(orgDir, "ISSUES")
+	err = Mkdir(issuesDir)
+	if err != nil {
+		return fmt.Errorf("cannot create issues report, %s", err.Error())
+	}
+	for code := range r.Problems {
+		issueFile, err := CreateReport(path.Join(issuesDir, code))
 		if err != nil {
 			return fmt.Errorf("cannot create issues report, %s", err.Error())
 		}
-		for code := range lintOrg.Problems {
-			issueFile, err := CreateReport(path.Join(issuesDir, code))
-			if err != nil {
-				return fmt.Errorf("cannot create issues report, %s", err.Error())
-			}
-			defer issueFile.Close()
-			PrintUrlIssue(issueFile, code, lintOrg)
-		}
+		defer issueFile.Close()
+		PrintUrlIssue(issueFile, code, r)
 	}
 
 	return nil

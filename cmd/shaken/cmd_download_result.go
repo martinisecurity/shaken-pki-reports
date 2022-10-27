@@ -1,7 +1,10 @@
 package main
 
 import (
+	"fmt"
 	"net/url"
+	"strconv"
+	"strings"
 
 	uLint "github.com/martinisecurity/shaken-pki-reports/lint"
 )
@@ -37,13 +40,20 @@ func (t *LintUrlSummaryResult) AppendLink(name string, l *uLint.LintResultSet) {
 	host := "Unknown"
 	u, err := url.Parse(l.Url)
 	if err == nil {
-		host = u.Host
+		parts := strings.Split(u.Hostname(), ".")
+		if _, err := strconv.Atoi(parts[len(parts)-1]); err == nil {
+			// IP address
+			host = u.Hostname()
+		} else {
+			// domain
+			host = fmt.Sprintf("%s.%s", parts[len(parts)-2], parts[len(parts)-1])
+		}
 	}
 	client := t.Clients[host]
 	if client == nil {
 		client = NewLintUrlOrgResult()
 		client.Name = host
-		t.Clients[name] = client
+		t.Clients[host] = client
 	}
 	client.AppendLink(l)
 
@@ -102,3 +112,13 @@ func (t *LintUrlOrgResult) AppendLink(l *uLint.LintResultSet) {
 		t.Notices += 1
 	}
 }
+
+// var wellknownDomainNames = map[string]string{}
+
+// func getClientName(domain string) string {
+// 	if name := wellknownDomainNames[domain]; len(name) > 0 {
+// 		return name
+// 	}
+
+// 	return "Unknown"
+// }
