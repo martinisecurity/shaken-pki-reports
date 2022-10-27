@@ -124,9 +124,9 @@ func RunDownloadCommand(listPath string, outDir string, includeCa bool) error {
 	}
 
 	// write summary URL report
-	file, err := os.Create(path.Join(REPORT_DIR_NAME, "URL.md"))
+	file, err := CreateReport(path.Join(REPORT_DIR_NAME, "URL"))
 	if err != nil {
-		return fmt.Errorf("cannot create summary report, %s", err.Error())
+		return err
 	}
 	defer file.Close()
 	PrintUrlSummary(file, lintResults)
@@ -140,7 +140,7 @@ func RunDownloadCommand(listPath string, outDir string, includeCa bool) error {
 		}
 
 		// create org report file
-		orgFile, err := os.Create(path.Join(orgDir, "URL.md"))
+		orgFile, err := CreateReport(path.Join(orgDir, "URL"))
 		if err != nil {
 			return fmt.Errorf("cannot create organization report, %s", err.Error())
 		}
@@ -154,7 +154,7 @@ func RunDownloadCommand(listPath string, outDir string, includeCa bool) error {
 			return fmt.Errorf("cannot create issues report, %s", err.Error())
 		}
 		for code := range lintOrg.Problems {
-			issueFile, err := os.Create(path.Join(issuesDir, fmt.Sprintf("%s.md", code)))
+			issueFile, err := CreateReport(path.Join(issuesDir, code))
 			if err != nil {
 				return fmt.Errorf("cannot create issues report, %s", err.Error())
 			}

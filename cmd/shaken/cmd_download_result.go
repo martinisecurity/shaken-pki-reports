@@ -1,10 +1,15 @@
 package main
 
-import uLint "github.com/martinisecurity/shaken-pki-reports/lint"
+import (
+	"net/url"
+
+	uLint "github.com/martinisecurity/shaken-pki-reports/lint"
+)
 
 // LintUrlSummaryResult keeps summary for all URL tests
 type LintUrlSummaryResult struct {
 	Organizations map[string]*LintUrlOrgResult
+	Clients       map[string]*LintUrlOrgResult
 	LintResult
 }
 
@@ -12,6 +17,7 @@ type LintUrlSummaryResult struct {
 func NewLintUrlSummaryResult() *LintUrlSummaryResult {
 	return &LintUrlSummaryResult{
 		Organizations: map[string]*LintUrlOrgResult{},
+		Clients:       map[string]*LintUrlOrgResult{},
 	}
 }
 
@@ -26,6 +32,20 @@ func (t *LintUrlSummaryResult) AppendLink(name string, l *uLint.LintResultSet) {
 	}
 
 	org.AppendLink(l)
+
+	// get host
+	host := "Unknown"
+	u, err := url.Parse(l.Url)
+	if err == nil {
+		host = u.Host
+	}
+	client := t.Clients[host]
+	if client == nil {
+		client = NewLintUrlOrgResult()
+		client.Name = host
+		t.Clients[name] = client
+	}
+	client.AppendLink(l)
 
 	// update statuses
 	t.Amount += 1

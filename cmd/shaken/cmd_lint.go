@@ -229,10 +229,9 @@ func SaveOrganizationReport(r *LintTotalResult, outDir string) error {
 		}
 
 		// create file
-		orgFile := path.Join(orgDir, "README.md")
-		file, err := os.Create(orgFile)
+		file, err := CreateReport(orgDir)
 		if err != nil {
-			return fmt.Errorf("cannot create %s, %w", orgFile, err)
+			return err
 		}
 		defer file.Close()
 
@@ -276,10 +275,9 @@ func SaveIssueGroupReport(orgName string, issueName string, r *LintTotalResult, 
 		return fmt.Errorf("cannot save IssueGroup report, %w", err)
 	}
 
-	reportFile := path.Join(issuesDir, fmt.Sprintf("%s.md", issueName))
-	file, err := os.Create(reportFile)
+	file, err := CreateReport(path.Join(issuesDir, issueName))
 	if err != nil {
-		return fmt.Errorf("cannot save IssueGroup report, %w", err)
+		return err
 	}
 	defer file.Close()
 
@@ -289,7 +287,7 @@ func SaveIssueGroupReport(orgName string, issueName string, r *LintTotalResult, 
 }
 
 func SaveTotalReport(r *LintTotalResult, outDir string) error {
-	file, err := os.Create(path.Join(outDir, "README.md"))
+	file, err := CreateReport(outDir)
 	if err != nil {
 		return fmt.Errorf("cannot save README.md, %w", err)
 	}
@@ -317,16 +315,15 @@ func SaveCertificatesReport(r *LintTotalResult, outDir string) error {
 			}
 			for _, cert := range issuer.Certificates {
 				// create folder
-				certDir := path.Join(orgDir, cert.Thumbprint)
-				if err := Mkdir(certDir); err != nil {
+				certsDir := path.Join(orgDir, "CERTIFICATES")
+				if err := Mkdir(certsDir); err != nil {
 					return err
 				}
 
-				// create file
-				certFile := path.Join(path.Join(certDir, "README.md"))
-				file, err := os.Create(certFile)
+				certDir := path.Join(certsDir, cert.Thumbprint)
+				file, err := CreateReport(certDir)
 				if err != nil {
-					return fmt.Errorf("cannot create %s, %w", certFile, err)
+					return err
 				}
 				defer file.Close()
 

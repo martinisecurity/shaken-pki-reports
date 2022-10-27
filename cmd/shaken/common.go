@@ -5,6 +5,7 @@ import (
 	"io"
 	"net/http"
 	"os"
+	"path"
 	"strings"
 	"time"
 
@@ -36,6 +37,21 @@ func Mkdir(name string) error {
 	}
 
 	return nil
+}
+
+// CreateReport creates a directory with README.md file in it and returns point ot the file.
+func CreateReport(name string) (*os.File, error) {
+	err := Mkdir(name)
+	if err != nil {
+		return nil, fmt.Errorf("cannot create the report file, %w", err)
+	}
+
+	file, err := os.Create(path.Join(name, "README.md"))
+	if err != nil {
+		return nil, fmt.Errorf("cannot create the report file, %w", err)
+	}
+
+	return file, nil
 }
 
 // PrintFooter prints common footer
