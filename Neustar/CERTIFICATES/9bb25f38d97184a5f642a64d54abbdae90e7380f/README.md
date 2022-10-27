@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate 9bb25f38d97184a5f642a64d54abbdae90e7380f
-Tested At: 2022-10-27 18:24:46 +0000 UTC\
+Tested At: 2022-10-27 18:56:35 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 140 day(s)\
 Subject: CN=SHAKEN 393J, O=Cloudli Communications, C=US\
@@ -15,9 +15,9 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDBzCCAq2gAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_sti_extension_unknown | error | ATIS-1000080v4 | STI certificate shall not include extensions that are not specified |
-| e_sti_certificate_policies | error | ATIS-1000080v4 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
+| e_sti_extension_unknown | error | ATIS-1000080v4 | STI certificate shall not include extensions that are not specified |
+| e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| e_sti_certificate_policies | error | ATIS-1000080v4 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
-Generated: 27/10/2022 at 18:24:52
+Generated: 27/10/2022 at 18:57:26

@@ -21,4 +21,4 @@ no warning, or error, or not effective date level issues were found
 | error | CN=1RouteGroup SHAKEN Intermediate CA, O=1RouteGroup, ST=Texas, C=US | [view](../../CERTIFICATES/b34acd5cf741f6c98726c200f39517c4bd02d4cd/README.md) |  |
 
 
-Generated: 27/10/2022 at 18:24:52
+Generated: 27/10/2022 at 18:57:26

@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate 73a4f541c6b374256193ef36dfcd3a46c7ff6b14
-Tested At: 2022-10-27 18:24:44 +0000 UTC\
+Tested At: 2022-10-27 18:56:18 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 216 day(s)\
 Subject: CN=SHAKEN 704J, O=Clearly IP, C=US\
@@ -20,4 +20,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2BjCCAqGgAwIBAg
 | e_sti_certificate_policies | error | ATIS-1000080v4 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 
-Generated: 27/10/2022 at 18:24:52
+Generated: 27/10/2022 at 18:57:26

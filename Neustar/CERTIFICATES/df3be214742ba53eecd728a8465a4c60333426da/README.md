@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate df3be214742ba53eecd728a8465a4c60333426da
-Tested At: 2022-10-27 18:24:50 +0000 UTC\
+Tested At: 2022-10-27 18:57:09 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 240 day(s)\
 Subject: CN=SHAKEN 739J, O=Unified Global Solutions LLC, C=US\
@@ -20,4 +20,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDDTCCArOgAwIBAgIU
 | e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 | e_sti_extension_unknown | error | ATIS-1000080v4 | STI certificate shall not include extensions that are not specified |
 
-Generated: 27/10/2022 at 18:24:52
+Generated: 27/10/2022 at 18:57:26

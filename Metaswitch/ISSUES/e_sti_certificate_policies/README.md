@@ -40,4 +40,4 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 27/10/2022 at 18:24:52
+Generated: 27/10/2022 at 18:57:26

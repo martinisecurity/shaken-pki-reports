@@ -21,4 +21,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | CN=Comcast SHAKEN Intermediate CA, O=Comcast, ST=Pennsylvania, C=US | [view](../../CERTIFICATES/39011602b92be825bea3e29648f2e1866d60d0c6/README.md) |  |
 
 
-Generated: 27/10/2022 at 18:24:52
+Generated: 27/10/2022 at 18:57:26

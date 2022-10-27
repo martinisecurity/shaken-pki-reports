@@ -40,4 +40,4 @@ Description: STI certificates shall contain a Basic Constraints extension marked
 | not effective | CN=Metaswitch STI-CA SHAKEN Issuing 1 | [view](../../CERTIFICATES/89a2a7c2332d416885f9adac29ade0024df9d563/README.md) |  |
 
 
-Generated: 27/10/2022 at 18:24:52
+Generated: 27/10/2022 at 18:57:26

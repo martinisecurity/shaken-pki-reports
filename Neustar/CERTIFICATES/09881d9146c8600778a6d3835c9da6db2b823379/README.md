@@ -2,9 +2,9 @@
 ## Neustar
 
 ### Certificate 09881d9146c8600778a6d3835c9da6db2b823379
-Tested At: 2022-10-27 18:24:40 +0000 UTC\
+Tested At: 2022-10-27 18:55:35 +0000 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 147 day(s)\
+Remaining Validity Period: 146 day(s)\
 Subject: CN=SHAKEN 597F, O=VoIP Innovations, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US
 
@@ -15,9 +15,9 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDATCCAqegAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 | e_sti_certificate_policies | error | ATIS-1000080v4 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | e_sti_extension_unknown | error | ATIS-1000080v4 | STI certificate shall not include extensions that are not specified |
+| e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 27/10/2022 at 18:24:52
+Generated: 27/10/2022 at 18:57:26

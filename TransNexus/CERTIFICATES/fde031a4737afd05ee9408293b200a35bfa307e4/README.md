@@ -2,9 +2,9 @@
 ## TransNexus
 
 ### Certificate fde031a4737afd05ee9408293b200a35bfa307e4
-Tested At: 2022-10-27 18:24:52 +0000 UTC\
+Tested At: 2022-10-27 18:57:25 +0000 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: 4 day(s)\
+Remaining Validity Period: 3 day(s)\
 Subject: CN=SHAKEN 089K, OU=SHAKEN, O=Logista Solutions, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US
 
@@ -20,4 +20,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC8zCCApmgAwIBAgIQ
 | w_cp1_3_subject_rdn_unknown | warn | CPv1.3 | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 
-Generated: 27/10/2022 at 18:24:52
+Generated: 27/10/2022 at 18:57:27

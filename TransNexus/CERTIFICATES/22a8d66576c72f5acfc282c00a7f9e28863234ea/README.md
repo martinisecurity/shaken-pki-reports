@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate 22a8d66576c72f5acfc282c00a7f9e28863234ea
-Tested At: 2022-10-27 18:24:41 +0000 UTC\
+Tested At: 2022-10-27 18:55:46 +0000 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 4 day(s)\
 Subject: CN=SHAKEN 345J, OU=SHAKEN, O=Ooma Inc, C=US\
@@ -20,4 +20,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC6jCCApCgAwIBAgIQ
 | w_cp1_3_subject_rdn_unknown | warn | CPv1.3 | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 
-Generated: 27/10/2022 at 18:24:52
+Generated: 27/10/2022 at 18:57:27

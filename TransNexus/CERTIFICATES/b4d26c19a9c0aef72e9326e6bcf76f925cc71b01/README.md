@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate b4d26c19a9c0aef72e9326e6bcf76f925cc71b01
-Tested At: 2022-10-27 18:24:47 +0000 UTC\
+Tested At: 2022-10-27 18:56:47 +0000 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: 1 day(s)\
 Subject: CN=SHAKEN 366G, OU=SHAKEN, O=USA Digital, C=US\
@@ -20,4 +20,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC7jCCApOgAwIBAgIQ
 | e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 | w_cp1_3_subject_rdn_unknown | warn | CPv1.3 | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
-Generated: 27/10/2022 at 18:24:52
+Generated: 27/10/2022 at 18:57:27

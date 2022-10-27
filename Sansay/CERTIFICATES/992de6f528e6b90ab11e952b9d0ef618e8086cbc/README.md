@@ -2,7 +2,7 @@
 ## Sansay
 
 ### Certificate 992de6f528e6b90ab11e952b9d0ef618e8086cbc
-Tested At: 2022-10-27 18:24:46 +0000 UTC\
+Tested At: 2022-10-27 18:56:33 +0000 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 30 day(s)\
 Subject: CN=SHAKEN PNG Telecommunications Inc 3395, OU=NOC, O=PNG Telecommunications Inc, ST=Ohio, C=US\
@@ -15,11 +15,11 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC5DCCAougAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| e_sti_certificate_policies | error | ATIS-1000080v4 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | w_cp1_3_subject_rdn_unknown | warn | CPv1.3 | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
-| e_sti_subject_cn | error | ATIS-1000080v4 | Common name shall contain the text string 'SHAKEN 3395' |
 | e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
-| e_sti_certificate_policies | error | ATIS-1000080v4 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | e_cp1_3_ambiguous_identifier | error | CPv1.3 | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| e_sti_subject_cn | error | ATIS-1000080v4 | Common name shall contain the text string 'SHAKEN 3395' |
 
-Generated: 27/10/2022 at 18:24:52
+Generated: 27/10/2022 at 18:57:27

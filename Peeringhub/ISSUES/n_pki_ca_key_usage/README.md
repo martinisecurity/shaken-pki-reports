@@ -22,4 +22,4 @@ no warning, or error, or not effective date level issues were found
 | notice | CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US | [view](../../CERTIFICATES/7f08026ddf8b2e37428ba8218541a8437a2ab962/README.md) | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 
 
-Generated: 27/10/2022 at 18:24:52
+Generated: 27/10/2022 at 18:57:26
