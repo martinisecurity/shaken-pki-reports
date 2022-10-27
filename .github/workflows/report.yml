@@ -29,3 +29,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           FOLDER: x_report
           CLEAN: true
+          clean-exclude: |
+            _config.yaml
