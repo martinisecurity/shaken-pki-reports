@@ -161,13 +161,17 @@ func PrintCertificateReport(w io.Writer, r *LintCertificateResult) {
 	fmt.Fprintf(w, "Issuer: %s\n\n", strings.ReplaceAll(r.Cert.Issuer.String(), "\\", "\\\\"))
 	fmt.Fprintf(w, "Link: %s\n\n", r.Link)
 	fmt.Fprintf(w, "View: [Click to view](https://understandingwebpki.com/?cert=%s)\n\n", url.QueryEscape(base64.StdEncoding.EncodeToString(r.Cert.Raw)))
-	fmt.Fprintln(w, "")
-	fmt.Fprintf(w, "| Code | Type | Source | Details |\n")
-	fmt.Fprintf(w, "|------|------|--------|---------|\n")
+	first := true
 	for code, result := range r.Result.Results {
 		if result.Status == lint.Error ||
 			result.Status == lint.Warn ||
 			result.Status == lint.Notice {
+			if first {
+				fmt.Fprintln(w, "")
+				fmt.Fprintf(w, "| Code | Type | Source | Details |\n")
+				fmt.Fprintf(w, "|------|------|--------|---------|\n")
+				first = false
+			}
 			rule := lint.GlobalRegistry().ByName(code)
 			fmt.Fprintf(w, "| %s | %s | %s | %s |\n", code, statusToString(result.Status), rule.Source, result.Details)
 		}
