@@ -30,6 +30,7 @@ type LintResult struct {
 // Mkdir creates a new dictionary with the specified name.
 // It doesn't do anything if directory already exists. Returns error if os.Mkdir has problems.
 func Mkdir(name string) error {
+	name = escapeMdLink(name)
 	if _, err := os.Stat(name); os.IsNotExist(err) {
 		if err := os.Mkdir(name, os.ModePerm); err != nil {
 			return fmt.Errorf("cannot create directory %s, %s", name, err.Error())
@@ -41,6 +42,8 @@ func Mkdir(name string) error {
 
 // CreateReport creates a directory with README.md file in it and returns point ot the file.
 func CreateReport(name string) (*os.File, error) {
+	name = escapeMdLink(name)
+
 	err := Mkdir(name)
 	if err != nil {
 		return nil, fmt.Errorf("cannot create the report file, %w", err)
@@ -138,6 +141,6 @@ func getOrganizationName(c *x509.Certificate, options *x509.VerifyOptions) strin
 }
 
 func escapeMdLink(link string) string {
-	link = strings.Replace(link, " ", "%20", -1)
+	link = strings.Replace(link, " ", "_", -1)
 	return link
 }
