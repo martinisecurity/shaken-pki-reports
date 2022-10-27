@@ -22,4 +22,4 @@ no warning, or error, or not effective date level issues were found
 | error | L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN Root Intermediate CA 1 | [view](../../CERTIFICATES/563c5f6e1e683f67ab636b71bf04a9d49e4ccbae/README.md) | STI certificates shall contain a Signature Algorithm field with the value 'ecdsa-with-SHA256' |
 
 
-Generated: 27/10/2022 at 22:33:03
+Generated: 27/10/2022 at 22:44:50

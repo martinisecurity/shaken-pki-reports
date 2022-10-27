@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate a754e630241fb966de4cac2cd9eb9db90c9d029e
-Tested At: 2022-10-27 22:32:28 +0000 UTC\
+Tested At: 2022-10-27 22:43:45 +0000 UTC\
 Initial Validity Period: 3653 day(s)\
 Remaining Validity Period: 2904 day(s)\
 Subject: CN=Neustar Canada Certified Caller ID SHAKEN CA-1, OU=www.ca.ccid.neustar, O=Neustar Information Services Inc, C=CA\
@@ -16,20 +16,20 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDYzCCAwmgAwIBAgIU
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | n_pki_ca_key_usage | notice | SHAKEN PKI Best Practice | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
+| w_pki_ca_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_sti_ca_crl_distribution_not_reachable | error | ATIS-1000080 | Unable to retrieve CRL specified in CRLdp from allow listed IP address |
 
 ### Not Effective
 
-- e_sti_ca_certificate_policies
-- e_cp1_3_ca_key_usage_crl_sign
 - e_sti_ca_crl_distribution
+- e_sti_ca_certificate_policies
 - e_sti_ca_extension_unknown
 - e_sti_ca_issuer_dn
 - n_sti_ca_certificate_policy_critical
-- w_cp1_3_ca_subject_rdn_unknown
 - e_sti_ca_serial_number
+- e_cp1_3_ca_key_usage_crl_sign
 - e_sti_ca_subject_cn
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 22:33:03
+Generated: 27/10/2022 at 22:44:50

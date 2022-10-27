@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate 9d5c774d9afe17e1749201abcd597a5760e26d65
-Tested At: 2022-10-27 22:32:26 +0000 UTC\
+Tested At: 2022-10-27 22:43:43 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 245 day(s)\
 Subject: CN=SHAKEN 049K, O=Dialpad Inc., C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2FDCCAqOgAwIBAg
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | e_sti_extension_unknown | error | ATIS-1000080 | STI certificate shall not include extensions that are not specified |
 
-Generated: 27/10/2022 at 22:33:03
+Generated: 27/10/2022 at 22:44:50

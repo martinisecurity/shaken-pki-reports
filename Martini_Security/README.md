@@ -42,7 +42,7 @@
 
 | Status | Code | Source | Instances |
 |--------|------|--------|-----------|
-| warn | [w_cp1_3_ca_subject_rdn_unknown](ISSUES/w_cp1_3_ca_subject_rdn_unknown/README.md#ca-certificates) | United States SHAKEN CP | 3 |
+| warn | [w_pki_ca_subject_rdn_unknown](ISSUES/w_pki_ca_subject_rdn_unknown/README.md#ca-certificates) | SHAKEN PKI Best Practice | 3 |
 | notice | [n_sti_ca_certificate_policy_critical](ISSUES/n_sti_ca_certificate_policy_critical/README.md#ca-certificates) | ATIS-1000080 | 1 |
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.\
@@ -57,4 +57,4 @@
 | 03 May 22 15:41 UTC | Martini Security SHAKEN G1 | true | [view](CERTIFICATES/0fe086f321e93ca9ae08a19a89bf9049b7625fcf/README.md) |
 | 02 Oct 22 10:40 UTC | Martini Security SHAKEN G2 | true | [view](CERTIFICATES/6af848efe4c680e44114ee32350826704eca8135/README.md) |
 
-Generated: 27/10/2022 at 22:33:03
+Generated: 27/10/2022 at 22:44:50

@@ -4,10 +4,10 @@
 
 | Code | Source | Instances |
 |------|--------|-----------|
-| [w_aits_pem_certificate_chain](../ISSUES/w_aits_pem_certificate_chain/README.md) | ATIS-1000080 | 1 |
 | [e_http_status_200](../ISSUES/e_http_status_200/README.md) | HTTP | 1 |
-| [e_atis_cache_header](../ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 | 1 |
 | [w_atis_content_type](../ISSUES/w_atis_content_type/README.md) | ATIS-1000080 | 94 |
+| [e_atis_cache_header](../ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 | 1 |
+| [w_aits_pem_certificate_chain](../ISSUES/w_aits_pem_certificate_chain/README.md) | ATIS-1000080 | 1 |
 
 ### https://cr.sansay.com/016K/order/63_016K_115
 
@@ -577,4 +577,4 @@
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 
-Generated: 27/10/2022 at 22:31:34
+Generated: 27/10/2022 at 22:42:50

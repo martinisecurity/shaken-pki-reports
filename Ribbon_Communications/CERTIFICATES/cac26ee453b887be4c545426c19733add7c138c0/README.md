@@ -2,7 +2,7 @@
 ## Ribbon Communications
 
 ### Certificate cac26ee453b887be4c545426c19733add7c138c0
-Tested At: 2022-10-27 22:32:42 +0000 UTC\
+Tested At: 2022-10-27 22:44:29 +0000 UTC\
 Initial Validity Period: 4383 day(s)\
 Remaining Validity Period: 3851 day(s)\
 Subject: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
@@ -16,20 +16,18 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICpTCCAkugAwIBAgIQ
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | n_pki_ca_key_usage | notice | SHAKEN PKI Best Practice | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
-
-152 tests were ran and no warning or error level issues were found
+| w_pki_ca_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 ### Not Effective
 
-- e_sti_ca_certificate_policies
-- e_sti_ca_extension_unknown
-- w_cp1_3_ca_subject_rdn_unknown
 - e_sti_ca_serial_number
 - n_sti_ca_certificate_policy_critical
-- e_sti_ca_crl_distribution
-- e_cp1_3_ca_key_usage_crl_sign
 - e_sti_ca_subject_cn
+- e_cp1_3_ca_key_usage_crl_sign
+- e_sti_ca_extension_unknown
+- e_sti_ca_certificate_policies
+- e_sti_ca_crl_distribution
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 22:33:03
+Generated: 27/10/2022 at 22:44:50

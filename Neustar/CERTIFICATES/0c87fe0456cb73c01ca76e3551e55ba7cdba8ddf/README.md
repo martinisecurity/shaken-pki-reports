@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate 0c87fe0456cb73c01ca76e3551e55ba7cdba8ddf
-Tested At: 2022-10-27 22:31:41 +0000 UTC\
+Tested At: 2022-10-27 22:42:56 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 83 day(s)\
 Subject: CN=SHAKEN 899J, O=Telco Connection, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDATCCAqegAwIBAgIU
 | e_sti_extension_unknown | error | ATIS-1000080 | STI certificate shall not include extensions that are not specified |
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
-Generated: 27/10/2022 at 22:33:03
+Generated: 27/10/2022 at 22:44:50

@@ -2,7 +2,7 @@
 ## Metaswitch
 
 ### Certificate b3b4954ec8815349931cd0c6947d42a12569872f
-Tested At: 2022-10-27 22:32:34 +0000 UTC\
+Tested At: 2022-10-27 22:44:22 +0000 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 477 day(s)\
 Subject: CN=Verizon SHAKEN cert 5807, OU=NNO CDS, O=Verizon Data Services LLC, L=Southlake, ST=Texas, C=US\
@@ -17,18 +17,18 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICkzCCAjigAwIBAgIQ
 |------|------|--------|---------|
 | e_sti_key_usage | error | ATIS-1000080 | The Key Usage extension shall contain a single key usage value of digitalSignature |
 | e_sti_issuer_dn | error | ATIS-1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
+| w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 ### Not Effective
 
-- e_cp1_3_subject_sn
-- w_cp1_3_subject_rdn_unknown
-- w_cp_1_3_subject_email
 - e_sti_subject_cn
+- e_sti_extension_unknown
 - e_sti_serial_number
+- w_cp_1_3_subject_email
 - e_sti_signature_algorithm
 - e_cp1_3_ambiguous_identifier
-- e_sti_extension_unknown
+- e_cp1_3_subject_sn
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 22:33:03
+Generated: 27/10/2022 at 22:44:50

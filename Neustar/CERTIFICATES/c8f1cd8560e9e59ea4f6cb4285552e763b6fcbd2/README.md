@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate c8f1cd8560e9e59ea4f6cb4285552e763b6fcbd2
-Tested At: 2022-10-27 22:32:41 +0000 UTC\
+Tested At: 2022-10-27 22:44:28 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 244 day(s)\
 Subject: CN=SHAKEN 738J, O=BCM One Inc, C=US\
@@ -16,7 +16,7 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2FTCCAqKgAwIBAg
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | e_sti_extension_unknown | error | ATIS-1000080 | STI certificate shall not include extensions that are not specified |
-| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 27/10/2022 at 22:33:03
+Generated: 27/10/2022 at 22:44:50
