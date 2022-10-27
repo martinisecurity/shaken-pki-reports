@@ -1,0 +1,23 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+## TransNexus
+
+### Certificate b110a3f4054ff7065b1c6f14883ade56f2ced44e
+Tested At: 2022-10-27 18:24:47 +0000 UTC\
+Initial Validity Period: 90 day(s)\
+Remaining Validity Period: 60 day(s)\
+Subject: CN=SHAKEN 505J, OU=SHAKEN, O=HFA Services LLC dba Call48, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US
+
+Link: https://certificates.transnexus.com/505J/e7c8b693-b40a-4cfd-bd50-260db797f09b.pem
+
+View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2FDCCAqOgAwIBAgIQQ%2B4HO%2BQ0PMQ%2BTQqxY5JcsTAKBggqhkjOPQQDAjBnMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEPMA0GA1UECxMGU0hBS0VOMSwwKgYDVQQDEyNUcmFuc05leHVzLCBJbmMuIFNIQUtFTiBJc3N1aW5nIENBMzAeFw0yMjA5MjYxODQwMjBaFw0yMjEyMjUxODQwMTlaMFoxCzAJBgNVBAYTAlVTMSQwIgYDVQQKExtIRkEgU2VydmljZXMgTExDIGRiYSBDYWxsNDgxDzANBgNVBAsTBlNIQUtFTjEUMBIGA1UEAxMLU0hBS0VOIDUwNUowWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASlXtexQZmHx3Fp%2FizBV%2F8MA1CW6S%2Bfkq1iQMJqxW8ATiBUP8qIOcOwG5xLRFFooMJmhgWL1lR%2FQ8fkVLQUjWLqo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCAIAwHQYDVR0OBBYEFGN%2BeoA7Pzi5oTtCzKDgKpjX%2F00nMB8GA1UdIwQYMBaAFLuW3jESzdOWmYSkNjBgPNdSgX0nMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDUwNUowCgYIKoZIzj0EAwIDRwAwRAIgMMTUp0wkYfBuL70U6aocEI1DeAkknvlGk3%2B0N6%2B262kCID4dFx4T9ZfvRODsx5gK4615PnDjM7fpx%2FR0P3gthcDb)
+
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| e_incorrect_ku_encoding | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
+| e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
+| w_cp1_3_subject_rdn_unknown | warn | CPv1.3 | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+Generated: 27/10/2022 at 18:24:52
