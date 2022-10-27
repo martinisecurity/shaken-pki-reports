@@ -2,7 +2,7 @@
 ## Martini Security
 
 ### Certificate 40f3c020740bc812d269c19b112caf6bd0bbf666
-Tested At: 2022-10-27 18:55:59 +0000 UTC\
+Tested At: 2022-10-27 21:25:41 +0000 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: 62 day(s)\
 Subject: O=ACS Business Systems\\, Inc., C=US, serialNumber=26B223248528C08FD107CA236F21268A, CN=SHAKEN 073K\
@@ -15,7 +15,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDJjCCAs2gAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
-| n_sti_certificate_policy_critical | notice | ATIS-1000080v4 | STI certificates should contain a CertificatePolicies extension marked uncritical |
+| n_sti_certificate_policy_critical | notice | ATIS-1000080 | STI certificates should contain a CertificatePolicies extension marked uncritical |
 
-Generated: 27/10/2022 at 18:57:26
+152 tests were ran and no warning or error level issues were found
+
+Generated: 27/10/2022 at 21:27:34

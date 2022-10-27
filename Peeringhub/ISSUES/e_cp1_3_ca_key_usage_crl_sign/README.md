@@ -2,8 +2,8 @@
 
 ## Peeringhub
 Name: e_cp1_3_ca_key_usage_crl_sign\
-Source: CPv1.3\
-Citation: ToKENs (SHAKEN) Certificate Policy / 4.9 Certificate Revocation and Suspension\
+Source: United States SHAKEN CP\
+Citation: United States SHAKEN Certificate Policy / 4.9 Certificate Revocation and Suspension\
 Effective Date: 18 Aug 22 00:00 UTC\
 Description: The model for managing and communicating the status of revoked certificates is in the form of a distributed Certificate Revocation List (CRL) that is maintained by the STI-PA as described in ATIS-1000080
 
@@ -22,4 +22,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US | [view](../../CERTIFICATES/7f08026ddf8b2e37428ba8218541a8437a2ab962/README.md) |  |
 
 
-Generated: 27/10/2022 at 18:57:26
+Generated: 27/10/2022 at 21:27:34

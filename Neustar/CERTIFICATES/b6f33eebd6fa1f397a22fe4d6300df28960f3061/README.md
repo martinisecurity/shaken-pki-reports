@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate b6f33eebd6fa1f397a22fe4d6300df28960f3061
-Tested At: 2022-10-27 18:56:48 +0000 UTC\
+Tested At: 2022-10-27 21:26:45 +0000 UTC\
 Initial Validity Period: 3653 day(s)\
 Remaining Validity Period: 3219 day(s)\
 Subject: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
@@ -17,28 +17,19 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDOjCCAt%2BgAwIBAg
 |------|------|--------|---------|
 | n_pki_ca_key_usage | notice | SHAKEN PKI Best Practice | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 
-150 tests were ran and no warning or error level issues were found
+152 tests were ran and no warning or error level issues were found
 
 ### Not Effective
 
-- e_sti_ca_authority_key_identifier
+- e_sti_ca_subject_cn
+- e_sti_ca_serial_number
+- e_sti_ca_certificate_policies
 - n_sti_ca_certificate_policy_critical
 - e_sti_ca_crl_distribution
-- e_sti_ca_extension_unknown
-- e_sti_ca_serial_number
-- w_cp1_3_ca_subject_rdn_unknown
-- e_sti_ca_subject_key_identifier
 - e_cp1_3_ca_key_usage_crl_sign
-- e_sti_ca_certificate_policies
-- e_sti_ca_issuer_dn
-- e_sti_ca_subject_cn
-- e_sti_ca_subject_public_key
-- e_sti_ca_subject
-- e_sti_ca_signature_algorithm
-- e_sti_basic_constraints
-- e_sti_ca_version
-- e_sti_ca_key_usage
+- w_cp1_3_ca_subject_rdn_unknown
+- e_sti_ca_extension_unknown
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 18:57:26
+Generated: 27/10/2022 at 21:27:34

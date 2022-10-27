@@ -2,7 +2,7 @@
 
 ## Ribbon Communications
 Name: e_sti_ca_serial_number\
-Source: ATIS-1000080v4\
+Source: ATIS-1000080\
 Citation: ATIS-1000080.v004 / 6.4.1 STI Certificate Requirements\
 Effective Date: 18 Oct 21 00:00 UTC\
 Description: STI certificates shall include a Serial Number field containing an integer greater than zero. The serial number shall contain at least 64 bits of output from a Cryptographically Secure PseudoRandom Number Generator (CSPRNG)
@@ -22,4 +22,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US | [view](../../CERTIFICATES/cac26ee453b887be4c545426c19733add7c138c0/README.md) |  |
 
 
-Generated: 27/10/2022 at 18:57:26
+Generated: 27/10/2022 at 21:27:34

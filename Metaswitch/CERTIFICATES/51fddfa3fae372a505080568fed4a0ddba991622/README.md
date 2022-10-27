@@ -2,7 +2,7 @@
 ## Metaswitch
 
 ### Certificate 51fddfa3fae372a505080568fed4a0ddba991622
-Tested At: 2022-10-27 18:56:06 +0000 UTC\
+Tested At: 2022-10-27 21:25:49 +0000 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 568 day(s)\
 Subject: CN=Segra SHAKEN Cert 1784, O=Segra, C=US\
@@ -15,32 +15,20 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICRDCCAeugAwIBAgIQ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-
-150 tests were ran and no warning or error level issues were found
+| e_sti_issuer_dn | error | ATIS-1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
+| e_sti_key_usage | error | ATIS-1000080 | The Key Usage extension shall contain a single key usage value of digitalSignature |
 
 ### Not Effective
 
-- e_sti_tn_auth_list
-- n_sti_certificate_policy_critical
-- e_sti_certificate_policies
-- e_sti_issuer_dn
-- e_sti_subject
-- e_sti_version
-- e_sti_key_usage
 - e_cp1_3_ambiguous_identifier
-- e_cp1_3_subject_sn
-- e_sti_authority_key_identifier
-- e_sti_subject_cn
-- e_sti_basic_constraints
-- e_sti_serial_number
-- e_sti_subject_public_key
-- w_cp_1_3_subject_email
-- e_sti_extension_unknown
-- e_sti_subject_key_identifier
-- e_sti_crl_distribution
 - w_cp1_3_subject_rdn_unknown
+- e_cp1_3_subject_sn
 - e_sti_signature_algorithm
+- e_sti_subject_cn
+- w_cp_1_3_subject_email
+- e_sti_serial_number
+- e_sti_extension_unknown
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 18:57:26
+Generated: 27/10/2022 at 21:27:34

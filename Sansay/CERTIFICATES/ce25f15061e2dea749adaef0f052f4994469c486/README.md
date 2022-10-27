@@ -2,7 +2,7 @@
 ## Sansay
 
 ### Certificate ce25f15061e2dea749adaef0f052f4994469c486
-Tested At: 2022-10-27 18:57:01 +0000 UTC\
+Tested At: 2022-10-27 21:27:00 +0000 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 27 day(s)\
 Subject: emailAddress=voiceops@clearfly.net, CN=SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J, OU=NOC, O=Greenfly Networks Inc dba Clearfly Communications, ST=Montana, C=US, emailAddress=voiceops@clearfly.net\
@@ -15,12 +15,11 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIID6jCCA5CgAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| w_cp_1_3_subject_email | warn | CPv1.3 | Email addresses are not allowed as the CP does not specify how to validate them |
-| e_sti_certificate_policies | error | ATIS-1000080v4 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| e_sti_subject_cn | error | ATIS-1000080v4 | Common name shall contain the text string 'SHAKEN 210J' |
-| e_cp1_3_ambiguous_identifier | error | CPv1.3 | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| w_cp1_3_subject_rdn_unknown | warn | CPv1.3 | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
-| e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
+| e_sti_subject_cn | error | ATIS-1000080 | Common name shall contain the text string 'SHAKEN 210J' |
+| e_cp1_3_ambiguous_identifier | error | United States SHAKEN CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| w_cp1_3_subject_rdn_unknown | warn | United States SHAKEN CP | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| w_cp_1_3_subject_email | warn | United States SHAKEN CP | Email addresses are not allowed as the CP does not specify how to validate them |
 
-Generated: 27/10/2022 at 18:57:26
+Generated: 27/10/2022 at 21:27:34

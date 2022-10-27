@@ -2,9 +2,9 @@
 
 ## Sansay
 Name: e_sti_certificate_policies\
-Source: ATIS-1000080v4\
-Citation: ATIS-1000080.v004 / 6.4.1 STI Certificate Requirements\
-Effective Date: 16 Jan 22 00:00 UTC\
+Source: ATIS-1000080\
+Citation: ATIS-1000080.v003 / 6.4.1 SHAKEN Certificate Requirements\
+Effective Date: 03 Dec 20 00:00 UTC\
 Description: STI End-Entity certificates shall include a Certificate Policies extension containing a single OID value that identifies the SHAKEN Certificate Policy established by the STI-PA
 
 ### Leaf Certificates
@@ -37,7 +37,6 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 | error | CN=SHAKEN Xchange Telecom LLC 325B, OU=Bulk Solutions STI-AS, O=Xchange Telecom LLC, ST=New York, C=US | [view](../../CERTIFICATES/7e46cda05ca9cc6162b35e3bca5473f3b116f894/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | CN=SHAKEN Sangoma 777G, OU=Network Engineering, O=Sangoma, ST=Georgia, C=US | [view](../../CERTIFICATES/9c29e43ad0d0a8b99fab79bd5286de3be29036d2/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | CN=SHAKEN Star2Star Communications\\, LLC 590J, OU=BVPROD, O=Star2Star Communications\\, LLC, ST=Florida, C=US | [view](../../CERTIFICATES/2d0447640ab27711d4dd006d93b157294024999e/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| error | CN=SHAKEN Mitel Cloud Services\\, Inc. 670J, OU=ComNet, O=Mitel Cloud Services\\, Inc., ST=Arizona, C=US | [view](../../CERTIFICATES/4a8b88b1dfa4c13c7cdfb12aa4ef2e3e9b21b340/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | emailAddress=voiceops@clearfly.net, CN=SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J, OU=NOC, O=Greenfly Networks Inc dba Clearfly Communications, ST=Montana, C=US, emailAddress=voiceops@clearfly.net | [view](../../CERTIFICATES/691446ca2218fb6bcee0ed2caf300341df43d229/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | CN=SHAKEN  XCast Labs 689J, OU=XCast Labs, O=XCast Labs, ST=California, C=US | [view](../../CERTIFICATES/a43ba3cabb5a608ecbf99658457527a9bcc7c383/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | emailAddress=billing@ntcinternationalinc.com, CN=SHAKEN NTC International\\, INC 016K, OU=Operations, O=NTC International\\, INC, ST=Delaware, C=US, emailAddress=billing@ntcinternationalinc.com | [view](../../CERTIFICATES/b1461ee1db05056389f1b81ae21a7b2362f75e34/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
@@ -87,6 +86,7 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 | error | CN=SHAKEN Matrix 9451, OU=Engineering, O=Matrix, ST=Texas, C=US | [view](../../CERTIFICATES/764fa97f28f00dfa35b84c10855caebe4b14aa58/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | CN=SHAKEN Matrix 7379, OU=Operations, O=Matrix, ST=Texas, C=US | [view](../../CERTIFICATES/87df82fdcaa50c2205c4e3960534360594c9cf89/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | CN=SHAKEN PNG Telecommunications Inc 3395, OU=NOC, O=PNG Telecommunications Inc, ST=Ohio, C=US | [view](../../CERTIFICATES/992de6f528e6b90ab11e952b9d0ef618e8086cbc/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | CN=SHAKEN Primo Dialler LLC 249K, OU=Service Provider, O=Primo Dialler LLC, ST=Wyoming, C=US | [view](../../CERTIFICATES/ed332e384c67663b2e5c9132a45f6dcca9bce9a5/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 ### CA Certificates
 
@@ -96,4 +96,4 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 27/10/2022 at 18:57:26
+Generated: 27/10/2022 at 21:27:34

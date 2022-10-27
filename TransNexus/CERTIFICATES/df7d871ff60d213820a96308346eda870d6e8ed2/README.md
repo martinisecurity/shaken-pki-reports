@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate df7d871ff60d213820a96308346eda870d6e8ed2
-Tested At: 2022-10-27 18:57:09 +0000 UTC\
+Tested At: 2022-10-27 21:27:11 +0000 UTC\
 Initial Validity Period: 3652 day(s)\
 Remaining Validity Period: 3219 day(s)\
 Subject: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
@@ -15,29 +15,20 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC8TCCApigAwIBAgIQ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_incorrect_ku_encoding | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 1. Raw Bytes: [3 2 0 6], Raw Binary: [00000011 00000010 00000000 00000110] |
 | n_pki_ca_key_usage | notice | SHAKEN PKI Best Practice | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
+| e_incorrect_ku_encoding | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 1. Raw Bytes: [3 2 0 6], Raw Binary: [00000011 00000010 00000000 00000110] |
 
 ### Not Effective
 
-- e_sti_ca_extension_unknown
-- e_sti_ca_key_usage
-- w_cp1_3_ca_subject_rdn_unknown
-- e_sti_ca_subject_key_identifier
 - e_sti_ca_crl_distribution
-- e_sti_ca_issuer_dn
-- e_sti_ca_authority_key_identifier
-- e_sti_basic_constraints
 - e_sti_ca_serial_number
-- e_sti_ca_subject
-- n_sti_ca_certificate_policy_critical
-- e_sti_ca_subject_public_key
-- e_cp1_3_ca_key_usage_crl_sign
 - e_sti_ca_subject_cn
-- e_sti_ca_version
+- e_cp1_3_ca_key_usage_crl_sign
 - e_sti_ca_certificate_policies
-- e_sti_ca_signature_algorithm
+- n_sti_ca_certificate_policy_critical
+- w_cp1_3_ca_subject_rdn_unknown
+- e_sti_ca_extension_unknown
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 18:57:27
+Generated: 27/10/2022 at 21:27:34

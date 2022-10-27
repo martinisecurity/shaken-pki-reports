@@ -2,8 +2,8 @@
 
 ## T-Mobile
 Name: w_cp1_3_ca_subject_rdn_unknown\
-Source: CPv1.3\
-Citation: ToKENs (SHAKEN) Certificate Policy\
+Source: United States SHAKEN CP\
+Citation: United States SHAKEN Certificate Policy\
 Effective Date: 18 Aug 22 00:00 UTC\
 Description: Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject. However, the names should be meaningful meaningful enough to represent the SP to whom the certificate is being issued, in a manner similar to that used to identify SP’s equipment in the network.
 
@@ -22,4 +22,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | CN=TMOBILE-PROD-SUB-STIRSHAKEN-EC, O=TMOBILE-USA, C=US | [view](../../CERTIFICATES/45f4213a0916f509c15c42441aa6811f71c047ba/README.md) |  |
 
 
-Generated: 27/10/2022 at 18:57:26
+Generated: 27/10/2022 at 21:27:34

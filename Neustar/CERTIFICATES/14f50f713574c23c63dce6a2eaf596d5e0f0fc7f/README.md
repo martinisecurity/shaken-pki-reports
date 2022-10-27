@@ -2,9 +2,9 @@
 ## Neustar
 
 ### Certificate 14f50f713574c23c63dce6a2eaf596d5e0f0fc7f
-Tested At: 2022-10-27 18:55:41 +0000 UTC\
+Tested At: 2022-10-27 21:25:18 +0000 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 99 day(s)\
+Remaining Validity Period: 98 day(s)\
 Subject: CN=SHAKEN 785J, O=Range Telecom, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US
 
@@ -15,9 +15,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2FjCCAqSgAwIBAg
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_sti_certificate_policies | error | ATIS-1000080v4 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| e_sti_extension_unknown | error | ATIS-1000080v4 | STI certificate shall not include extensions that are not specified |
-| e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
+| e_sti_extension_unknown | error | ATIS-1000080 | STI certificate shall not include extensions that are not specified |
+| e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 27/10/2022 at 18:57:26
+Generated: 27/10/2022 at 21:27:34

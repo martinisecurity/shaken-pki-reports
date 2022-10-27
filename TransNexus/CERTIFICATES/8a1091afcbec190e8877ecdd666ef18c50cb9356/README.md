@@ -2,9 +2,9 @@
 ## TransNexus
 
 ### Certificate 8a1091afcbec190e8877ecdd666ef18c50cb9356
-Tested At: 2022-10-27 18:56:26 +0000 UTC\
+Tested At: 2022-10-27 21:26:16 +0000 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 246 day(s)\
+Remaining Validity Period: 245 day(s)\
 Subject: CN=SHAKEN 736J, OU=SHAKEN, O=Masergy Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US
 
@@ -15,9 +15,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2BDCCAp6gAwIBAg
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| w_cp1_3_subject_rdn_unknown | warn | CPv1.3 | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
-| e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 | e_incorrect_ku_encoding | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
+| w_cp1_3_subject_rdn_unknown | warn | United States SHAKEN CP | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 27/10/2022 at 18:57:27
+Generated: 27/10/2022 at 21:27:34

@@ -2,7 +2,7 @@
 ## Peeringhub
 
 ### Certificate d2590d58fcb7193f05fdefc76a1897333a060627
-Tested At: 2022-10-27 18:55:29 +0000 UTC\
+Tested At: 2022-10-27 21:25:03 +0000 UTC\
 Initial Validity Period: 7300 day(s)\
 Remaining Validity Period: 6621 day(s)\
 Subject: CN=Peeringhub Inc Root CA, OU=Certification Authorities, O=Peeringhub Inc, C=US\
@@ -17,25 +17,17 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICEDCCAbWgAwIBAgIJ
 |------|------|--------|---------|
 | n_pki_ca_key_usage | notice | SHAKEN PKI Best Practice | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 
-150 tests were ran and no warning or error level issues were found
+152 tests were ran and no warning or error level issues were found
 
 ### Not Effective
 
+- w_cp1_3_ca_subject_rdn_unknown
 - e_sti_ca_serial_number
 - e_sti_root_certificate_policies
-- e_sti_ca_subject_cn
-- e_sti_ca_signature_algorithm
-- e_sti_ca_subject
-- e_sti_ca_version
 - e_sti_root_extension_unknown
-- w_cp1_3_ca_subject_rdn_unknown
-- e_sti_ca_key_usage
+- e_sti_ca_subject_cn
 - e_cp1_3_ca_key_usage_crl_sign
-- e_sti_ca_issuer_dn
-- e_sti_ca_subject_public_key
-- e_sti_basic_constraints
-- e_sti_ca_subject_key_identifier
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 18:57:26
+Generated: 27/10/2022 at 21:27:34

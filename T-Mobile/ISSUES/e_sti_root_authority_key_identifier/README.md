@@ -2,9 +2,9 @@
 
 ## T-Mobile
 Name: e_sti_root_authority_key_identifier\
-Source: ATIS-1000080v4\
-Citation: ATIS-1000080.v004 / 6.4.1 STI Certificate Requirements\
-Effective Date: 18 Oct 21 00:00 UTC\
+Source: ATIS-1000080\
+Citation: ATIS-1000080.v003 / 6.4.1 SHAKEN Certificate Requirements\
+Effective Date: 04 Sep 20 00:00 UTC\
 Description: For root certificates that contain an Authority Key Identifier extension, the Authority Key Identifier shall contain a keyIdentifier field with a value that matches the Subject Key Identifier value of the same root certificate
 
 ### Leaf Certificates
@@ -21,4 +21,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | CN=TMOBILE-PROD-ROOT-STIRSHAKEN-EC, O=TMOBILE-USA, C=US | [view](../../CERTIFICATES/7dddc0874c3665ba6d3e5fce061c3e5ad7761511/README.md) |  |
 
 
-Generated: 27/10/2022 at 18:57:26
+Generated: 27/10/2022 at 21:27:34

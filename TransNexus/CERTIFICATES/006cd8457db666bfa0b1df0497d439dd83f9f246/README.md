@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate 006cd8457db666bfa0b1df0497d439dd83f9f246
-Tested At: 2022-10-27 18:55:30 +0000 UTC\
+Tested At: 2022-10-27 21:25:04 +0000 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 4 day(s)\
 Subject: CN=SHAKEN 722J, OU=SHAKEN, O=EvolveIP LLC, C=US\
@@ -15,9 +15,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC7jCCApSgAwIBAgIQ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| w_cp1_3_subject_rdn_unknown | warn | CPv1.3 | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| w_cp1_3_subject_rdn_unknown | warn | United States SHAKEN CP | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_incorrect_ku_encoding | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
-| e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
+| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 27/10/2022 at 18:57:27
+Generated: 27/10/2022 at 21:27:34

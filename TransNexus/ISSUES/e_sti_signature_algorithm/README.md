@@ -2,7 +2,7 @@
 
 ## TransNexus
 Name: e_sti_signature_algorithm\
-Source: ATIS-1000080v4\
+Source: ATIS-1000080\
 Citation: ATIS-1000080.v004 / 6.4.1 STI Certificate Requirements\
 Effective Date: 16 Jan 22 00:00 UTC\
 Description: STI certificates shall contain a Signature Algorithm field with the value 'ecdsa-with-SHA256'
@@ -22,4 +22,4 @@ Description: STI certificates shall contain a Signature Algorithm field with the
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 27/10/2022 at 18:57:26
+Generated: 27/10/2022 at 21:27:34

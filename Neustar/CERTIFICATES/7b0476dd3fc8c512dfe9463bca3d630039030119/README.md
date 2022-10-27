@@ -2,9 +2,9 @@
 ## Neustar
 
 ### Certificate 7b0476dd3fc8c512dfe9463bca3d630039030119
-Tested At: 2022-10-27 18:56:20 +0000 UTC\
+Tested At: 2022-10-27 21:26:08 +0000 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 29 day(s)\
+Remaining Validity Period: 28 day(s)\
 Subject: CN=prod SHAKEN 811J, O=Alianza, L=Pleasant Grove, ST=Utah, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US
 
@@ -16,30 +16,19 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDJTCCAsugAwIBAgIU
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 
-150 tests were ran and no warning or error level issues were found
+152 tests were ran and no warning or error level issues were found
 
 ### Not Effective
 
-- e_sti_issuer_dn
-- w_cp_1_3_subject_email
-- w_cp1_3_subject_rdn_unknown
-- e_cp1_3_ambiguous_identifier
-- e_sti_crl_distribution
-- e_sti_key_usage
-- e_sti_tn_auth_list
-- e_sti_version
-- e_sti_subject
-- e_sti_authority_key_identifier
 - e_sti_serial_number
-- e_sti_subject_public_key
-- n_sti_certificate_policy_critical
-- e_sti_extension_unknown
 - e_sti_signature_algorithm
+- w_cp1_3_subject_rdn_unknown
+- e_sti_extension_unknown
 - e_sti_subject_cn
-- e_sti_certificate_policies
+- e_cp1_3_ambiguous_identifier
 - e_cp1_3_subject_sn
-- e_sti_subject_key_identifier
+- w_cp_1_3_subject_email
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 18:57:26
+Generated: 27/10/2022 at 21:27:34

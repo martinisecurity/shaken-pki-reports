@@ -2,7 +2,7 @@
 ## Martini Security
 
 ### Certificate 0fe086f321e93ca9ae08a19a89bf9049b7625fcf
-Tested At: 2022-10-27 18:55:39 +0000 UTC\
+Tested At: 2022-10-27 21:25:15 +0000 UTC\
 Initial Validity Period: 1825 day(s)\
 Remaining Validity Period: 1648 day(s)\
 Subject: CN=Martini Security SHAKEN G1, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
@@ -15,8 +15,9 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDEjCCArmgAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_sti_ca_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
-| n_sti_ca_certificate_policy_critical | notice | ATIS-1000080v4 | STI certificates should contain a CertificatePolicies extension marked uncritical |
+| n_sti_ca_certificate_policy_critical | notice | ATIS-1000080 | STI certificates should contain a CertificatePolicies extension marked uncritical |
+
+152 tests were ran and no warning or error level issues were found
 
 ### Not Effective
 
@@ -25,4 +26,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDEjCCArmgAwIBAgIU
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 18:57:26
+Generated: 27/10/2022 at 21:27:34

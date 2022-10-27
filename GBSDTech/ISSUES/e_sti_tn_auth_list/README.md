@@ -2,9 +2,9 @@
 
 ## GBSDTech
 Name: e_sti_tn_auth_list\
-Source: ATIS-1000080v4\
-Citation: ATIS-1000080.v004 / 6.4.1 STI Certificate Requirements\
-Effective Date: 16 Jan 22 00:00 UTC\
+Source: ATIS-1000080\
+Citation: ATIS-1000080.v003 / 6.4.1 SHAKEN Certificate Requirements\
+Effective Date: 03 Dec 20 00:00 UTC\
 Description: STI End-Entity certificates shall contain a TNAuthList extension as specified in RFC 8226. The TNAuthList shall contain a single SPC value
 
 ### Leaf Certificates
@@ -21,4 +21,4 @@ Description: STI End-Entity certificates shall contain a TNAuthList extension as
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 27/10/2022 at 18:57:26
+Generated: 27/10/2022 at 21:27:34

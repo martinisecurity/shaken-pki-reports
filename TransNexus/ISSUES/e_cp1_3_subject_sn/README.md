@@ -2,8 +2,8 @@
 
 ## TransNexus
 Name: e_cp1_3_subject_sn\
-Source: CPv1.3\
-Citation: ToKENs (SHAKEN) Certificate Policy\
+Source: United States SHAKEN CP\
+Citation: United States SHAKEN Certificate Policy\
 Effective Date: 10 Jan 22 00:00 UTC\
 Description: The ‘serialNumber’ attribute shall be included along with the CN
 
@@ -36,14 +36,6 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 | error | CN=SHAKEN 952J, OU=SHAKEN, O=Syndeo LLC dba Broadvoice, C=US | [view](../../CERTIFICATES/414512f13c27bb40a6f47741eabd63eb5c90eed3/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | CN=SHAKEN 841J, OU=SHAKEN, O=Securus Technologies LLC, C=US | [view](../../CERTIFICATES/3889bee709733ff19f8acc2ae4a3761d288ffdfe/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | CN=SHAKEN 622J, OU=SHAKEN, O=Skye Telecom LLC, C=US | [view](../../CERTIFICATES/175e3b3de9a38a8355d047b901bd5eda0c1f1a6a/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| error | CN=SHAKEN 674J, OU=SHAKEN, O=Panterra Networks Inc., C=US | [view](../../CERTIFICATES/63a29d037569770d076f719fd55e4daa34c1b717/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| error | CN=SHAKEN 738J, OU=SHAKEN, O=SIP.US LLC, C=US | [view](../../CERTIFICATES/ffe9e32959b31e1ef27b20255df21d5408b7c432/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| error | CN=SHAKEN 854D, OU=SHAKEN, O=Xtel, C=US | [view](../../CERTIFICATES/54c7bf84f9870adf34d3624c71a4b8224436f994/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| error | CN=SHAKEN 790J, OU=SHAKEN, O=Viirtue, C=US | [view](../../CERTIFICATES/992671c6facefac133d44aa22b9d4f09f46456e8/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| error | CN=SHAKEN 459J, OU=SHAKEN, O=Altaworx, C=US | [view](../../CERTIFICATES/8c970d3ca70f330e52327f79d8039b381d94826f/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| error | CN=SHAKEN 366G, OU=SHAKEN, O=USA Digital, C=US | [view](../../CERTIFICATES/b4d26c19a9c0aef72e9326e6bcf76f925cc71b01/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| error | CN=SHAKEN 738J, OU=SHAKEN, O=SIP.US LLC, C=US | [view](../../CERTIFICATES/b394a8c34e7c0ca1568a3be4c04c8399e79156d9/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| error | CN=SHAKEN 518J, OU=SHAKEN, O=TransNexus\\, Inc., C=US | [view](../../CERTIFICATES/8a595b01c0d9c2558e1a00b65da85badc3d941d2/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | CN=SHAKEN 983J, OU=SHAKEN, O=ESI, C=US | [view](../../CERTIFICATES/fa5b20f5d1c96d0095d20cd3cf723e84a876e7ab/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | CN=SHAKEN 551G, OU=SHAKEN, O=Brightlink Communications LLC, C=US | [view](../../CERTIFICATES/fc9938ac7cc123cd2e27f38171de9b31183c5871/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | CN=SHAKEN 345J, OU=SHAKEN, O=Ooma Inc, C=US | [view](../../CERTIFICATES/fc99f74650aae6ff90f41e781e215bf1a8f06f68/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
@@ -82,4 +74,4 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 27/10/2022 at 18:57:26
+Generated: 27/10/2022 at 21:27:34

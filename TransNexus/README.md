@@ -4,38 +4,28 @@
 
 ### Leaf Certificates
 
-- Average validity span as of leaf certificates 83 days
-- Percentage of leaf certificates expiring in the next 30 days is 74.19%
-- Certificates with Errors: 62
-- Certificates with Warnings: 61
+- Average validity span as of leaf certificates 94 days
+- Percentage of leaf certificates expiring in the next 30 days is 70.37%
+- Certificates with Errors: 54
+- Certificates with Warnings: 53
 - Certificates with Notices: 0
 - Certificates with tests not executed as the requirements were Not Effective at issuance time: 2
 
 | Status | Code | Source | Instances |
 |--------|------|--------|-----------|
-| error | [e_incorrect_ku_encoding](ISSUES/e_incorrect_ku_encoding/README.md#leaf-certificates) | RFC5280 | 62 |
-| warn | [w_cp1_3_subject_rdn_unknown](ISSUES/w_cp1_3_subject_rdn_unknown/README.md#leaf-certificates) | CPv1.3 | 62 |
-| error | [e_cp1_3_ambiguous_identifier](ISSUES/e_cp1_3_ambiguous_identifier/README.md#leaf-certificates) | CPv1.3 | 4 |
-| not effective | [e_sti_key_usage](ISSUES/e_sti_key_usage/README.md#leaf-certificates) | ATIS-1000080v4 | 2 |
-| not effective | [e_sti_subject_key_identifier](ISSUES/e_sti_subject_key_identifier/README.md#leaf-certificates) | ATIS-1000080v4 | 2 |
-| not effective | [e_sti_version](ISSUES/e_sti_version/README.md#leaf-certificates) | ATIS-1000080v4 | 2 |
-| not effective | [e_sti_extension_unknown](ISSUES/e_sti_extension_unknown/README.md#leaf-certificates) | ATIS-1000080v4 | 2 |
-| not effective | [e_sti_signature_algorithm](ISSUES/e_sti_signature_algorithm/README.md#leaf-certificates) | ATIS-1000080v4 | 2 |
-| not effective | [e_sti_subject_public_key](ISSUES/e_sti_subject_public_key/README.md#leaf-certificates) | ATIS-1000080v4 | 2 |
-| not effective | [e_sti_serial_number](ISSUES/e_sti_serial_number/README.md#leaf-certificates) | ATIS-1000080v4 | 2 |
-| error | [e_cp1_3_subject_sn](ISSUES/e_cp1_3_subject_sn/README.md#leaf-certificates) | CPv1.3 | 62 |
-| error | [e_sti_certificate_policies](ISSUES/e_sti_certificate_policies/README.md#leaf-certificates) | ATIS-1000080v4 | 4 |
-| not effective | [n_sti_certificate_policy_critical](ISSUES/n_sti_certificate_policy_critical/README.md#leaf-certificates) | ATIS-1000080v4 | 2 |
-| not effective | [e_sti_authority_key_identifier](ISSUES/e_sti_authority_key_identifier/README.md#leaf-certificates) | ATIS-1000080v4 | 2 |
-| not effective | [e_sti_subject](ISSUES/e_sti_subject/README.md#leaf-certificates) | ATIS-1000080v4 | 2 |
-| not effective | [w_cp_1_3_subject_email](ISSUES/w_cp_1_3_subject_email/README.md#leaf-certificates) | CPv1.3 | 1 |
-| error | [e_sti_crl_distribution](ISSUES/e_sti_crl_distribution/README.md#leaf-certificates) | ATIS-1000080v4 | 62 |
-| not effective | [e_sti_tn_auth_list](ISSUES/e_sti_tn_auth_list/README.md#leaf-certificates) | ATIS-1000080v4 | 2 |
-| not effective | [e_sti_issuer_dn](ISSUES/e_sti_issuer_dn/README.md#leaf-certificates) | ATIS-1000080v4 | 2 |
-| not effective | [e_sti_subject_cn](ISSUES/e_sti_subject_cn/README.md#leaf-certificates) | ATIS-1000080v4 | 2 |
+| not effective | [e_sti_subject_cn](ISSUES/e_sti_subject_cn/README.md#leaf-certificates) | ATIS-1000080 | 2 |
+| not effective | [e_sti_extension_unknown](ISSUES/e_sti_extension_unknown/README.md#leaf-certificates) | ATIS-1000080 | 2 |
+| not effective | [w_cp_1_3_subject_email](ISSUES/w_cp_1_3_subject_email/README.md#leaf-certificates) | United States SHAKEN CP | 1 |
+| warn | [w_cp1_3_subject_rdn_unknown](ISSUES/w_cp1_3_subject_rdn_unknown/README.md#leaf-certificates) | United States SHAKEN CP | 54 |
+| not effective | [e_sti_signature_algorithm](ISSUES/e_sti_signature_algorithm/README.md#leaf-certificates) | ATIS-1000080 | 2 |
+| error | [e_cp1_3_ambiguous_identifier](ISSUES/e_cp1_3_ambiguous_identifier/README.md#leaf-certificates) | United States SHAKEN CP | 4 |
+| error | [e_sti_certificate_policies](ISSUES/e_sti_certificate_policies/README.md#leaf-certificates) | ATIS-1000080 | 3 |
+| not effective | [e_sti_serial_number](ISSUES/e_sti_serial_number/README.md#leaf-certificates) | ATIS-1000080 | 2 |
+| error | [e_incorrect_ku_encoding](ISSUES/e_incorrect_ku_encoding/README.md#leaf-certificates) | RFC5280 | 54 |
+| error | [e_cp1_3_subject_sn](ISSUES/e_cp1_3_subject_sn/README.md#leaf-certificates) | United States SHAKEN CP | 54 |
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.\
-\*\* 230 certificates skipped because they are currently expired.\
+\*\* 238 certificates skipped because they are currently expired.\
 \*\*\* 1 certificates skipped because they are not currently trusted by the STI-PA.
 
 #### Issued certificates
@@ -67,14 +57,6 @@
 | 13 Oct 22 18:02 UTC | SHAKEN 952J | true | [view](CERTIFICATES/414512f13c27bb40a6f47741eabd63eb5c90eed3/README.md) |
 | 20 Oct 22 09:13 UTC | SHAKEN 841J | true | [view](CERTIFICATES/3889bee709733ff19f8acc2ae4a3761d288ffdfe/README.md) |
 | 20 Oct 22 15:48 UTC | SHAKEN 622J | true | [view](CERTIFICATES/175e3b3de9a38a8355d047b901bd5eda0c1f1a6a/README.md) |
-| 20 Oct 22 20:17 UTC | SHAKEN 674J | true | [view](CERTIFICATES/63a29d037569770d076f719fd55e4daa34c1b717/README.md) |
-| 20 Oct 22 20:18 UTC | SHAKEN 738J | true | [view](CERTIFICATES/ffe9e32959b31e1ef27b20255df21d5408b7c432/README.md) |
-| 20 Oct 22 20:21 UTC | SHAKEN 854D | true | [view](CERTIFICATES/54c7bf84f9870adf34d3624c71a4b8224436f994/README.md) |
-| 20 Oct 22 20:21 UTC | SHAKEN 790J | true | [view](CERTIFICATES/992671c6facefac133d44aa22b9d4f09f46456e8/README.md) |
-| 20 Oct 22 20:22 UTC | SHAKEN 459J | true | [view](CERTIFICATES/8c970d3ca70f330e52327f79d8039b381d94826f/README.md) |
-| 20 Oct 22 20:23 UTC | SHAKEN 366G | true | [view](CERTIFICATES/b4d26c19a9c0aef72e9326e6bcf76f925cc71b01/README.md) |
-| 20 Oct 22 20:23 UTC | SHAKEN 738J | true | [view](CERTIFICATES/b394a8c34e7c0ca1568a3be4c04c8399e79156d9/README.md) |
-| 20 Oct 22 20:48 UTC | SHAKEN 518J | true | [view](CERTIFICATES/8a595b01c0d9c2558e1a00b65da85badc3d941d2/README.md) |
 | 21 Oct 22 20:13 UTC | SHAKEN 983J | true | [view](CERTIFICATES/fa5b20f5d1c96d0095d20cd3cf723e84a876e7ab/README.md) |
 | 22 Oct 22 00:21 UTC | SHAKEN 551G | true | [view](CERTIFICATES/fc9938ac7cc123cd2e27f38171de9b31183c5871/README.md) |
 | 22 Oct 22 04:04 UTC | SHAKEN 345J | true | [view](CERTIFICATES/fc99f74650aae6ff90f41e781e215bf1a8f06f68/README.md) |
@@ -116,27 +98,18 @@
 
 | Status | Code | Source | Instances |
 |--------|------|--------|-----------|
-| not effective | [e_sti_ca_issuer_dn](ISSUES/e_sti_ca_issuer_dn/README.md#ca-certificates) | ATIS-1000080v4 | 3 |
-| not effective | [e_sti_ca_serial_number](ISSUES/e_sti_ca_serial_number/README.md#ca-certificates) | ATIS-1000080v4 | 3 |
-| not effective | [e_sti_ca_key_usage](ISSUES/e_sti_ca_key_usage/README.md#ca-certificates) | ATIS-1000080v4 | 3 |
+| not effective | [e_sti_ca_serial_number](ISSUES/e_sti_ca_serial_number/README.md#ca-certificates) | ATIS-1000080 | 3 |
 | notice | [n_pki_ca_key_usage](ISSUES/n_pki_ca_key_usage/README.md#ca-certificates) | SHAKEN PKI Best Practice | 3 |
-| not effective | [e_sti_ca_authority_key_identifier](ISSUES/e_sti_ca_authority_key_identifier/README.md#ca-certificates) | ATIS-1000080v4 | 2 |
-| not effective | [n_sti_ca_certificate_policy_critical](ISSUES/n_sti_ca_certificate_policy_critical/README.md#ca-certificates) | ATIS-1000080v4 | 2 |
-| not effective | [e_sti_ca_subject_public_key](ISSUES/e_sti_ca_subject_public_key/README.md#ca-certificates) | ATIS-1000080v4 | 3 |
-| not effective | [e_sti_ca_subject_key_identifier](ISSUES/e_sti_ca_subject_key_identifier/README.md#ca-certificates) | ATIS-1000080v4 | 3 |
-| not effective | [e_sti_ca_certificate_policies](ISSUES/e_sti_ca_certificate_policies/README.md#ca-certificates) | ATIS-1000080v4 | 2 |
-| not effective | [e_sti_root_certificate_policies](ISSUES/e_sti_root_certificate_policies/README.md#ca-certificates) | ATIS-1000080v4 | 1 |
-| not effective | [e_sti_ca_subject_cn](ISSUES/e_sti_ca_subject_cn/README.md#ca-certificates) | ATIS-1000080v4 | 3 |
+| not effective | [e_sti_ca_certificate_policies](ISSUES/e_sti_ca_certificate_policies/README.md#ca-certificates) | ATIS-1000080 | 2 |
+| not effective | [e_sti_ca_crl_distribution](ISSUES/e_sti_ca_crl_distribution/README.md#ca-certificates) | ATIS-1000080 | 2 |
+| not effective | [n_sti_ca_certificate_policy_critical](ISSUES/n_sti_ca_certificate_policy_critical/README.md#ca-certificates) | ATIS-1000080 | 2 |
+| not effective | [e_sti_ca_extension_unknown](ISSUES/e_sti_ca_extension_unknown/README.md#ca-certificates) | ATIS-1000080 | 2 |
+| not effective | [e_sti_root_extension_unknown](ISSUES/e_sti_root_extension_unknown/README.md#ca-certificates) | ATIS-1000080 | 1 |
+| not effective | [w_cp1_3_ca_subject_rdn_unknown](ISSUES/w_cp1_3_ca_subject_rdn_unknown/README.md#ca-certificates) | United States SHAKEN CP | 3 |
+| not effective | [e_cp1_3_ca_key_usage_crl_sign](ISSUES/e_cp1_3_ca_key_usage_crl_sign/README.md#ca-certificates) | United States SHAKEN CP | 3 |
 | error | [e_incorrect_ku_encoding](ISSUES/e_incorrect_ku_encoding/README.md#ca-certificates) | RFC5280 | 3 |
-| not effective | [e_sti_root_extension_unknown](ISSUES/e_sti_root_extension_unknown/README.md#ca-certificates) | ATIS-1000080v4 | 1 |
-| not effective | [e_sti_ca_version](ISSUES/e_sti_ca_version/README.md#ca-certificates) | ATIS-1000080v4 | 3 |
-| not effective | [e_sti_ca_extension_unknown](ISSUES/e_sti_ca_extension_unknown/README.md#ca-certificates) | ATIS-1000080v4 | 2 |
-| not effective | [w_cp1_3_ca_subject_rdn_unknown](ISSUES/w_cp1_3_ca_subject_rdn_unknown/README.md#ca-certificates) | CPv1.3 | 3 |
-| not effective | [e_cp1_3_ca_key_usage_crl_sign](ISSUES/e_cp1_3_ca_key_usage_crl_sign/README.md#ca-certificates) | CPv1.3 | 3 |
-| not effective | [e_sti_ca_subject](ISSUES/e_sti_ca_subject/README.md#ca-certificates) | ATIS-1000080v4 | 3 |
-| not effective | [e_sti_ca_signature_algorithm](ISSUES/e_sti_ca_signature_algorithm/README.md#ca-certificates) | ATIS-1000080v4 | 3 |
-| not effective | [e_sti_basic_constraints](ISSUES/e_sti_basic_constraints/README.md#ca-certificates) | ATIS-1000080v4 | 3 |
-| not effective | [e_sti_ca_crl_distribution](ISSUES/e_sti_ca_crl_distribution/README.md#ca-certificates) | ATIS-1000080v4 | 2 |
+| not effective | [e_sti_root_certificate_policies](ISSUES/e_sti_root_certificate_policies/README.md#ca-certificates) | ATIS-1000080 | 1 |
+| not effective | [e_sti_ca_subject_cn](ISSUES/e_sti_ca_subject_cn/README.md#ca-certificates) | ATIS-1000080 | 3 |
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.\
 \*\* 0 certificates skipped because they are currently expired.\
@@ -150,4 +123,4 @@
 | 20 Aug 21 00:00 UTC | TransNexus, Inc. SHAKEN Issuing CA1 | true | [view](CERTIFICATES/2d540c7179aad19290a2098ccac8053645527154/README.md) |
 | 20 Aug 21 00:00 UTC | TransNexus, Inc. SHAKEN Issuing CA3 | true | [view](CERTIFICATES/df7d871ff60d213820a96308346eda870d6e8ed2/README.md) |
 
-Generated: 27/10/2022 at 18:57:26
+Generated: 27/10/2022 at 21:27:34

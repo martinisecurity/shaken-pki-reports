@@ -2,7 +2,7 @@
 ## Metaswitch
 
 ### Certificate 2437c95b23b10e95d71f18f8c0b9913ba965a7fa
-Tested At: 2022-10-27 18:55:47 +0000 UTC\
+Tested At: 2022-10-27 21:25:25 +0000 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 571 day(s)\
 Subject: CN=Appalachian Wireless SHAKEN Cert 6940, O=Appalachian Wireless, C=US\
@@ -15,32 +15,20 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICZDCCAgmgAwIBAgIQ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-
-150 tests were ran and no warning or error level issues were found
+| e_sti_issuer_dn | error | ATIS-1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
+| e_sti_key_usage | error | ATIS-1000080 | The Key Usage extension shall contain a single key usage value of digitalSignature |
 
 ### Not Effective
 
-- e_sti_authority_key_identifier
-- e_sti_issuer_dn
-- w_cp_1_3_subject_email
-- e_sti_tn_auth_list
-- e_cp1_3_subject_sn
-- e_sti_subject_key_identifier
-- e_sti_basic_constraints
-- e_sti_subject
-- e_sti_subject_public_key
-- e_cp1_3_ambiguous_identifier
-- e_sti_certificate_policies
-- e_sti_version
 - e_sti_extension_unknown
-- n_sti_certificate_policy_critical
-- e_sti_key_usage
-- e_sti_subject_cn
-- w_cp1_3_subject_rdn_unknown
-- e_sti_crl_distribution
 - e_sti_serial_number
+- e_sti_subject_cn
+- w_cp_1_3_subject_email
+- e_cp1_3_subject_sn
+- w_cp1_3_subject_rdn_unknown
+- e_cp1_3_ambiguous_identifier
 - e_sti_signature_algorithm
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 18:57:26
+Generated: 27/10/2022 at 21:27:34

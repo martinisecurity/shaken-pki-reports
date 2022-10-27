@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate ed757497d6919742972670344cc56fde4ff35f24
-Tested At: 2022-10-27 18:57:17 +0000 UTC\
+Tested At: 2022-10-27 21:27:22 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 77 day(s)\
 Subject: CN=SHAKEN 506J, O=Twilio International, C=US\
@@ -15,26 +15,16 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDBTCCAqugAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 ### Not Effective
 
-- e_sti_authority_key_identifier
-- e_sti_extension_unknown
-- e_sti_key_usage
-- e_sti_crl_distribution
-- e_sti_certificate_policies
-- e_sti_tn_auth_list
-- e_sti_subject_key_identifier
-- e_sti_subject_public_key
-- e_sti_version
-- e_sti_serial_number
-- n_sti_certificate_policy_critical
-- e_sti_subject
 - e_sti_subject_cn
-- e_sti_issuer_dn
+- e_sti_serial_number
+- e_sti_extension_unknown
 - e_sti_signature_algorithm
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 18:57:26
+Generated: 27/10/2022 at 21:27:34

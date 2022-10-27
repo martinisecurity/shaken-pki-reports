@@ -2,8 +2,8 @@
 
 ## Neustar
 Name: w_cp1_3_ca_subject_rdn_unknown\
-Source: CPv1.3\
-Citation: ToKENs (SHAKEN) Certificate Policy\
+Source: United States SHAKEN CP\
+Citation: United States SHAKEN Certificate Policy\
 Effective Date: 18 Aug 22 00:00 UTC\
 Description: Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject. However, the names should be meaningful meaningful enough to represent the SP to whom the certificate is being issued, in a manner similar to that used to identify SP’s equipment in the network.
 
@@ -30,4 +30,4 @@ no warning, or error, or not effective date level issues were found
 | warn | CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US | [view](../../CERTIFICATES/3bbda8c5ef216e5cd2dc6c618a8ebd103aa90e20/README.md) | Only CN, C, and O can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 27/10/2022 at 18:57:26
+Generated: 27/10/2022 at 21:27:34
