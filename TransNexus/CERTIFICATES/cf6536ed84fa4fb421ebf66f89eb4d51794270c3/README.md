@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate cf6536ed84fa4fb421ebf66f89eb4d51794270c3
-Tested At: 2022-10-27 21:27:01 +0000 UTC\
+Tested At: 2022-10-27 21:42:45 +0000 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: 3 day(s)\
 Subject: CN=SHAKEN 459J, OU=SHAKEN, O=Altaworx, C=US\
@@ -16,7 +16,7 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC6jCCApCgAwIBAgIQ
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | w_cp1_3_subject_rdn_unknown | warn | United States SHAKEN CP | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
-| e_incorrect_ku_encoding | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| e_incorrect_ku_encoding | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
-Generated: 27/10/2022 at 21:27:34
+Generated: 27/10/2022 at 21:42:52

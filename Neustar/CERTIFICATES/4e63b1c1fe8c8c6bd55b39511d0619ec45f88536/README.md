@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate 4e63b1c1fe8c8c6bd55b39511d0619ec45f88536
-Tested At: 2022-10-27 21:25:47 +0000 UTC\
+Tested At: 2022-10-27 21:42:26 +0000 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 472 day(s)\
 Subject: C=US, ST=CA, L=Belmont, O=Ringcentral, OU=Ringcentral, CN=Ringcentral-ProdKeystore\
@@ -20,15 +20,15 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIEBjCCAu6gAwIBAgIU
 
 ### Not Effective
 
-- e_sti_signature_algorithm
-- e_cp1_3_ambiguous_identifier
-- e_sti_serial_number
-- e_sti_extension_unknown
-- e_sti_subject_cn
-- w_cp1_3_subject_rdn_unknown
-- w_cp_1_3_subject_email
 - e_cp1_3_subject_sn
+- e_sti_extension_unknown
+- w_cp_1_3_subject_email
+- e_sti_signature_algorithm
+- e_sti_serial_number
+- w_cp1_3_subject_rdn_unknown
+- e_sti_subject_cn
+- e_cp1_3_ambiguous_identifier
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 21:27:34
+Generated: 27/10/2022 at 21:42:52

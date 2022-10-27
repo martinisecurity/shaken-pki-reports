@@ -2,7 +2,7 @@
 ## Metaswitch
 
 ### Certificate 82b4c63aa246ac8c380b66179ec2e381c89dde4a
-Tested At: 2022-10-27 21:26:12 +0000 UTC\
+Tested At: 2022-10-27 21:42:33 +0000 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 577 day(s)\
 Subject: CN=Mediacom 846F, O=Mediacom Communications Corporation, L=Chester, ST=New York, C=US\
@@ -20,15 +20,15 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICfjCCAiWgAwIBAgIQ
 
 ### Not Effective
 
-- e_cp1_3_ambiguous_identifier
 - w_cp_1_3_subject_email
-- e_cp1_3_subject_sn
-- e_sti_serial_number
+- e_sti_subject_cn
 - e_sti_signature_algorithm
 - e_sti_extension_unknown
-- e_sti_subject_cn
+- e_cp1_3_ambiguous_identifier
+- e_sti_serial_number
+- e_cp1_3_subject_sn
 - w_cp1_3_subject_rdn_unknown
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 21:27:34
+Generated: 27/10/2022 at 21:42:52

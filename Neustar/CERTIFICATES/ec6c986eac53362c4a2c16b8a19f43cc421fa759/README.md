@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate ec6c986eac53362c4a2c16b8a19f43cc421fa759
-Tested At: 2022-10-27 21:27:20 +0000 UTC\
+Tested At: 2022-10-27 21:42:49 +0000 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 529 day(s)\
 Subject: C=US, ST=VA, L=Courbevoie, O=Orange, OU=Orange Business Services, CN=Orange\
@@ -15,20 +15,20 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIID%2FzCCAuegAwIBAg
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 | e_sti_crl_distribution_not_reachable | error | ATIS-1000080 | Unable to retrieve CRL specified in CRLdp from allow listed IP address |
+| e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 
 ### Not Effective
 
+- w_cp1_3_subject_rdn_unknown
+- e_sti_signature_algorithm
 - e_sti_extension_unknown
 - e_sti_subject_cn
-- e_cp1_3_ambiguous_identifier
-- e_cp1_3_subject_sn
-- e_sti_signature_algorithm
 - w_cp_1_3_subject_email
-- w_cp1_3_subject_rdn_unknown
+- e_cp1_3_ambiguous_identifier
 - e_sti_serial_number
+- e_cp1_3_subject_sn
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 21:27:34
+Generated: 27/10/2022 at 21:42:52

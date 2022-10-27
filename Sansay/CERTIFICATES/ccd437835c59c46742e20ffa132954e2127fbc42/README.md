@@ -2,7 +2,7 @@
 ## Sansay
 
 ### Certificate ccd437835c59c46742e20ffa132954e2127fbc42
-Tested At: 2022-10-27 21:26:58 +0000 UTC\
+Tested At: 2022-10-27 21:42:44 +0000 UTC\
 Initial Validity Period: 2555 day(s)\
 Remaining Validity Period: 2500 day(s)\
 Subject: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
@@ -15,7 +15,7 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC2zCCAoCgAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| w_cp1_3_ca_subject_rdn_unknown | warn | United States SHAKEN CP | Only CN, C, and O can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | n_pki_ca_key_usage | notice | SHAKEN PKI Best Practice | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
+| w_cp1_3_ca_subject_rdn_unknown | warn | United States SHAKEN CP | Only CN, C, and O can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
-Generated: 27/10/2022 at 21:27:34
+Generated: 27/10/2022 at 21:42:52

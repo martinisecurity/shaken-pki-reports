@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate 44e193e2290156b4d91bc3735831fa6afb0ff7ff
-Tested At: 2022-10-27 21:25:43 +0000 UTC\
+Tested At: 2022-10-27 21:42:25 +0000 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 557 day(s)\
 Subject: C=US, ST=NY, L=Albany, O=Firstlight, OU=VoIP, CN=SHAKEN-8468\
@@ -15,20 +15,20 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIID8DCCAtigAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_sti_crl_distribution_not_reachable | error | ATIS-1000080 | Unable to retrieve CRL specified in CRLdp from allow listed IP address |
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
+| e_sti_crl_distribution_not_reachable | error | ATIS-1000080 | Unable to retrieve CRL specified in CRLdp from allow listed IP address |
 
 ### Not Effective
 
+- e_sti_extension_unknown
 - e_cp1_3_ambiguous_identifier
-- e_sti_serial_number
-- w_cp_1_3_subject_email
+- w_cp1_3_subject_rdn_unknown
 - e_cp1_3_subject_sn
 - e_sti_subject_cn
-- e_sti_extension_unknown
-- w_cp1_3_subject_rdn_unknown
+- e_sti_serial_number
+- w_cp_1_3_subject_email
 - e_sti_signature_algorithm
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 21:27:34
+Generated: 27/10/2022 at 21:42:52

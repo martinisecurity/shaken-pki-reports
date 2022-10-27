@@ -2,7 +2,7 @@
 ## Peeringhub
 
 ### Certificate 7f08026ddf8b2e37428ba8218541a8437a2ab962
-Tested At: 2022-10-27 21:26:10 +0000 UTC\
+Tested At: 2022-10-27 21:42:32 +0000 UTC\
 Initial Validity Period: 3650 day(s)\
 Remaining Validity Period: 3524 day(s)\
 Subject: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
@@ -20,9 +20,9 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDDzCCArWgAwIBAgIR
 
 ### Not Effective
 
-- w_cp1_3_ca_subject_rdn_unknown
 - e_cp1_3_ca_key_usage_crl_sign
+- w_cp1_3_ca_subject_rdn_unknown
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 21:27:34
+Generated: 27/10/2022 at 21:42:52

@@ -2,7 +2,7 @@
 ## NetNumber
 
 ### Certificate ff1d02a3c6ad3f781b7f0c1ed0d1ce118ccf17fd
-Tested At: 2022-10-27 21:27:33 +0000 UTC\
+Tested At: 2022-10-27 21:42:52 +0000 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 5 day(s)\
 Subject: O=Google, C=US, CN=Google SHAKEN cert 969H\
@@ -15,10 +15,10 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICxTCCAkugAwIBAgIJ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| n_sti_certificate_policy_critical | notice | ATIS-1000080 | STI certificates should contain a CertificatePolicies extension marked uncritical |
 | e_sti_subject_cn | error | ATIS-1000080 | Common name shall contain the text string 'SHAKEN 969H' |
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| n_sti_certificate_policy_critical | notice | ATIS-1000080 | STI certificates should contain a CertificatePolicies extension marked uncritical |
 | e_cp1_3_ambiguous_identifier | error | United States SHAKEN CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 27/10/2022 at 21:27:34
+Generated: 27/10/2022 at 21:42:52

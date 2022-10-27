@@ -13,4 +13,4 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 
-Generated: 27/10/2022 at 21:25:02
+Generated: 27/10/2022 at 21:42:12

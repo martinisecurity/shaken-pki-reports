@@ -2,7 +2,7 @@
 ## T-Mobile
 
 ### Certificate 7dddc0874c3665ba6d3e5fce061c3e5ad7761511
-Tested At: 2022-10-27 21:25:03 +0000 UTC\
+Tested At: 2022-10-27 21:42:13 +0000 UTC\
 Initial Validity Period: 9131 day(s)\
 Remaining Validity Period: 7997 day(s)\
 Subject: CN=TMOBILE-PROD-ROOT-STIRSHAKEN-EC, O=TMOBILE-USA, C=US\
@@ -21,22 +21,22 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICBjCCAaugAwIBAgIC
 
 ### Not Effective
 
-- e_sti_ca_subject_public_key
-- e_sti_root_extension_unknown
-- e_sti_ca_serial_number
-- e_sti_ca_issuer_dn
-- e_sti_root_certificate_policies
-- e_sti_ca_subject_key_identifier
-- e_sti_ca_version
-- e_sti_ca_key_usage
-- w_cp1_3_ca_subject_rdn_unknown
-- e_sti_ca_subject_cn
-- e_sti_ca_subject
-- e_cp1_3_ca_key_usage_crl_sign
-- e_sti_basic_constraints
 - e_sti_ca_signature_algorithm
+- e_sti_ca_subject_public_key
+- e_sti_ca_key_usage
+- e_sti_ca_issuer_dn
+- e_sti_ca_subject_key_identifier
+- e_sti_ca_subject_cn
+- e_cp1_3_ca_key_usage_crl_sign
+- e_sti_ca_serial_number
+- e_sti_root_extension_unknown
+- w_cp1_3_ca_subject_rdn_unknown
+- e_sti_ca_subject
+- e_sti_ca_version
+- e_sti_basic_constraints
 - e_sti_root_authority_key_identifier
+- e_sti_root_certificate_policies
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 21:27:34
+Generated: 27/10/2022 at 21:42:52

@@ -2,7 +2,7 @@
 ## GBSDTech
 
 ### Certificate b34acd5cf741f6c98726c200f39517c4bd02d4cd
-Tested At: 2022-10-27 21:26:42 +0000 UTC\
+Tested At: 2022-10-27 21:42:40 +0000 UTC\
 Initial Validity Period: 7299 day(s)\
 Remaining Validity Period: 6759 day(s)\
 Subject: CN=1RouteGroup SHAKEN Intermediate CA, O=1RouteGroup, ST=Texas, C=US\
@@ -21,14 +21,14 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIB9zCCAZ2gAwIBAgIC
 
 ### Not Effective
 
-- e_sti_ca_crl_distribution
-- e_sti_ca_serial_number
-- e_sti_ca_subject_cn
-- e_cp1_3_ca_key_usage_crl_sign
-- w_cp1_3_ca_subject_rdn_unknown
-- e_sti_ca_extension_unknown
 - e_sti_ca_certificate_policies
+- e_cp1_3_ca_key_usage_crl_sign
+- e_sti_ca_extension_unknown
+- e_sti_ca_serial_number
+- e_sti_ca_crl_distribution
+- e_sti_ca_subject_cn
+- w_cp1_3_ca_subject_rdn_unknown
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 21:27:34
+Generated: 27/10/2022 at 21:42:52

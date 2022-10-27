@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate e370c45f7048a9986af9a3db5183307c2053c976
-Tested At: 2022-10-27 21:27:14 +0000 UTC\
+Tested At: 2022-10-27 21:42:47 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 317 day(s)\
 Subject: CN=SHAKEN 5606, O=Charter Communications Inc SHAKEN 5606, C=US\
@@ -17,4 +17,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDGTCCAsCgAwIBAgIU
 |------|------|--------|---------|
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 27/10/2022 at 21:27:34
+Generated: 27/10/2022 at 21:42:52

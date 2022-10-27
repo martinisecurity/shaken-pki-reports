@@ -2,7 +2,7 @@
 ## Comcast
 
 ### Certificate 0e0b2467e9112c6a396bbe66266203b592db93aa
-Tested At: 2022-10-27 21:25:13 +0000 UTC\
+Tested At: 2022-10-27 21:42:16 +0000 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 25 day(s)\
 Subject: CN=SHAKEN, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US\
@@ -16,11 +16,11 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICVzCCAf2gAwIBAgII
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | w_cp1_3_subject_rdn_unknown | warn | United States SHAKEN CP | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
-| e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
-| e_cp1_3_ambiguous_identifier | error | United States SHAKEN CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| e_sti_subject_cn | error | ATIS-1000080 | Common name shall contain the text string 'SHAKEN 7610' |
 | e_sti_subject_key_identifier | error | ATIS-1000080 | STI certificates shall contain a Subject Key Identifier extension |
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
+| e_cp1_3_ambiguous_identifier | error | United States SHAKEN CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | w_ext_subject_key_identifier_missing_sub_cert | warn | RFC5280 |  |
+| e_sti_subject_cn | error | ATIS-1000080 | Common name shall contain the text string 'SHAKEN 7610' |
 
-Generated: 27/10/2022 at 21:27:34
+Generated: 27/10/2022 at 21:42:52

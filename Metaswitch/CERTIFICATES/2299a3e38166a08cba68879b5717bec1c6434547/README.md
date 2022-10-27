@@ -2,7 +2,7 @@
 ## Metaswitch
 
 ### Certificate 2299a3e38166a08cba68879b5717bec1c6434547
-Tested At: 2022-10-27 21:25:24 +0000 UTC\
+Tested At: 2022-10-27 21:42:19 +0000 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 416 day(s)\
 Subject: CN=TDS Telecom SHAKEN Cert 7804, O=TDS Telecom, C=US\
@@ -15,20 +15,20 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICUDCCAfegAwIBAgIQ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_sti_issuer_dn | error | ATIS-1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 | e_sti_key_usage | error | ATIS-1000080 | The Key Usage extension shall contain a single key usage value of digitalSignature |
+| e_sti_issuer_dn | error | ATIS-1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 
 ### Not Effective
 
+- w_cp1_3_subject_rdn_unknown
 - e_sti_signature_algorithm
-- e_cp1_3_subject_sn
+- e_sti_subject_cn
+- w_cp_1_3_subject_email
 - e_sti_serial_number
 - e_sti_extension_unknown
-- w_cp_1_3_subject_email
+- e_cp1_3_subject_sn
 - e_cp1_3_ambiguous_identifier
-- e_sti_subject_cn
-- w_cp1_3_subject_rdn_unknown
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 21:27:34
+Generated: 27/10/2022 at 21:42:52

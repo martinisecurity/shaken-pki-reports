@@ -21,4 +21,4 @@ no warning, or error, or not effective date level issues were found
 | error | CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US | [view](../../CERTIFICATES/7f08026ddf8b2e37428ba8218541a8437a2ab962/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 27/10/2022 at 21:27:34
+Generated: 27/10/2022 at 21:42:52

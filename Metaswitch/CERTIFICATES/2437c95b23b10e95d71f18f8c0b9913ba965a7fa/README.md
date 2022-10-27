@@ -2,7 +2,7 @@
 ## Metaswitch
 
 ### Certificate 2437c95b23b10e95d71f18f8c0b9913ba965a7fa
-Tested At: 2022-10-27 21:25:25 +0000 UTC\
+Tested At: 2022-10-27 21:42:19 +0000 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 571 day(s)\
 Subject: CN=Appalachian Wireless SHAKEN Cert 6940, O=Appalachian Wireless, C=US\
@@ -20,15 +20,15 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICZDCCAgmgAwIBAgIQ
 
 ### Not Effective
 
-- e_sti_extension_unknown
-- e_sti_serial_number
+- w_cp1_3_subject_rdn_unknown
 - e_sti_subject_cn
+- e_sti_extension_unknown
+- e_sti_signature_algorithm
+- e_cp1_3_ambiguous_identifier
 - w_cp_1_3_subject_email
 - e_cp1_3_subject_sn
-- w_cp1_3_subject_rdn_unknown
-- e_cp1_3_ambiguous_identifier
-- e_sti_signature_algorithm
+- e_sti_serial_number
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 21:27:34
+Generated: 27/10/2022 at 21:42:52

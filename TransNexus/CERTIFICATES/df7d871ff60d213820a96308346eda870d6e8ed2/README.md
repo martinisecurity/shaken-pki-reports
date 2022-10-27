@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate df7d871ff60d213820a96308346eda870d6e8ed2
-Tested At: 2022-10-27 21:27:11 +0000 UTC\
+Tested At: 2022-10-27 21:42:47 +0000 UTC\
 Initial Validity Period: 3652 day(s)\
 Remaining Validity Period: 3219 day(s)\
 Subject: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
@@ -20,15 +20,15 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC8TCCApigAwIBAgIQ
 
 ### Not Effective
 
-- e_sti_ca_crl_distribution
-- e_sti_ca_serial_number
 - e_sti_ca_subject_cn
 - e_cp1_3_ca_key_usage_crl_sign
-- e_sti_ca_certificate_policies
+- e_sti_ca_crl_distribution
 - n_sti_ca_certificate_policy_critical
-- w_cp1_3_ca_subject_rdn_unknown
+- e_sti_ca_certificate_policies
 - e_sti_ca_extension_unknown
+- e_sti_ca_serial_number
+- w_cp1_3_ca_subject_rdn_unknown
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 21:27:34
+Generated: 27/10/2022 at 21:42:52

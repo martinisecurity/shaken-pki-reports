@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate ba68a7b635a7e85fc1ff99d8f65d7f0ea640dcbd
-Tested At: 2022-10-27 21:26:48 +0000 UTC\
+Tested At: 2022-10-27 21:42:42 +0000 UTC\
 Initial Validity Period: 7305 day(s)\
 Remaining Validity Period: 6556 day(s)\
 Subject: CN=Neustar Canada Certified Caller ID SHAKEN Root CA, OU=cms-ca.ccid.neustar, O=Neustar Information Services Inc, C=CA\
@@ -23,12 +23,12 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICmzCCAkKgAwIBAgIU
 
 - w_cp1_3_ca_subject_rdn_unknown
 - e_sti_root_certificate_policies
+- e_sti_ca_issuer_dn
 - e_sti_ca_subject_cn
+- e_sti_root_extension_unknown
 - e_cp1_3_ca_key_usage_crl_sign
 - e_sti_ca_serial_number
-- e_sti_root_extension_unknown
-- e_sti_ca_issuer_dn
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 21:27:34
+Generated: 27/10/2022 at 21:42:52

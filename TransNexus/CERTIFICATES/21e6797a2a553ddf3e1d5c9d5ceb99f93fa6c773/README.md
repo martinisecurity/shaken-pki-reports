@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate 21e6797a2a553ddf3e1d5c9d5ceb99f93fa6c773
-Tested At: 2022-10-27 21:25:24 +0000 UTC\
+Tested At: 2022-10-27 21:42:19 +0000 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: 4 day(s)\
 Subject: CN=SHAKEN 157C, OU=SHAKEN, O=DigitalSpeed Communications, C=US\
@@ -16,7 +16,7 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2FTCCAqOgAwIBAg
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | e_incorrect_ku_encoding | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
-| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | w_cp1_3_subject_rdn_unknown | warn | United States SHAKEN CP | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 27/10/2022 at 21:27:34
+Generated: 27/10/2022 at 21:42:52
