@@ -172,7 +172,7 @@ func LintCertificate(cert *internal.PemCertificate, options *x509.VerifyOptions)
 		IncludeSources: lint.SourceList{
 			lint.RFC5280,
 			lint.ATIS1000080,
-			lint.CPv1_3,
+			lint.UnitedStatesSHAKENCP,
 			lint.ShakenPKI,
 		},
 		ExcludeNames: []string{
