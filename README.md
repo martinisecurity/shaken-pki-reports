@@ -6,55 +6,29 @@ This report is generated using [Zlint](https://github.com/zmap/zlint) a tool com
 
 ## Summary
 
-### Leaf Certificates
-
-- Average validity span as of leaf certificates 363 days
-- Percentage of leaf certificates expiring in the next 30 days is 38.61%
-
-| Issuers | Certificates | Errors | Warnings | Notices | Not Effective |
-|---------|--------------|--------|----------|---------|---------------|
-| [Comcast](Comcast/README.md#leaf-certificates) | 38 (12.38%) | 38 (100.00%) | 38 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [GBSDTech](GBSDTech/README.md#leaf-certificates) | 1 (0.33%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Martini Security](Martini_Security/README.md#leaf-certificates) | 7 (2.28%) | 0 (0.00%) | 0 (0.00%) | 4 (57.14%) | 0 (0.00%) |
-| [Metaswitch](Metaswitch/README.md#leaf-certificates) | 21 (6.84%) | 21 (100.00%) | 0 (0.00%) | 0 (0.00%) | 20 (95.24%) |
-| [NetNumber](NetNumber/README.md#leaf-certificates) | 4 (1.30%) | 4 (100.00%) | 1 (25.00%) | 4 (100.00%) | 0 (0.00%) |
-| [Neustar](Neustar/README.md#leaf-certificates) | 97 (31.60%) | 82 (84.54%) | 4 (4.12%) | 0 (0.00%) | 33 (34.02%) |
-| [Peeringhub](Peeringhub/README.md#leaf-certificates) | 5 (1.63%) | 5 (100.00%) | 5 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Ribbon Communications](Ribbon_Communications/README.md#leaf-certificates) | 3 (0.98%) | 3 (100.00%) | 3 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Sansay](Sansay/README.md#leaf-certificates) | 76 (24.76%) | 76 (100.00%) | 76 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [T-Mobile](T-Mobile/README.md#leaf-certificates) | 1 (0.33%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [TransNexus](TransNexus/README.md#leaf-certificates) | 54 (17.59%) | 54 (100.00%) | 53 (98.15%) | 0 (0.00%) | 2 (3.70%) |
-| **Total** | 307 (100%) | 285 (92.83%) | 182 (59.28%) | 8 (2.61%) | 55 (17.92%) |
-
-\* The percent of certificates per issuer is calculated against total certificates from all issuers.\
-\*\* The percent of errors, warnings and notices is calculated against total observed certificates from the specified issuer.\
-\*\*\* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.\
-\*\*\*\* For information on failed certificate repository retrievals see this [report](URL/README.md).\
-\*\*\*\*\* 273 certificates skipped because they are currently expired.\
-\*\*\*\*\*\* 1 certificates skipped because they are not currently trusted by the STI-PA.
 
 ### CA Certificates
 
 
 | Issuers | Certificates | Errors | Warnings | Notices | Not Effective |
 |---------|--------------|--------|----------|---------|---------------|
-| [Comcast](Comcast/README.md#ca-certificates) | 2 (5.88%) | 0 (0.00%) | 0 (0.00%) | 1 (50.00%) | 2 (100.00%) |
-| [GBSDTech](GBSDTech/README.md#ca-certificates) | 3 (8.82%) | 1 (33.33%) | 0 (0.00%) | 0 (0.00%) | 3 (100.00%) |
-| [Martini Security](Martini_Security/README.md#ca-certificates) | 3 (8.82%) | 0 (0.00%) | 1 (33.33%) | 1 (33.33%) | 2 (66.67%) |
-| [Metaswitch](Metaswitch/README.md#ca-certificates) | 2 (5.88%) | 2 (100.00%) | 0 (0.00%) | 0 (0.00%) | 2 (100.00%) |
-| [NetNumber](NetNumber/README.md#ca-certificates) | 3 (8.82%) | 2 (66.67%) | 0 (0.00%) | 0 (0.00%) | 3 (100.00%) |
-| [Neustar](Neustar/README.md#ca-certificates) | 10 (29.41%) | 3 (30.00%) | 2 (20.00%) | 10 (100.00%) | 8 (80.00%) |
-| [Peeringhub](Peeringhub/README.md#ca-certificates) | 2 (5.88%) | 1 (50.00%) | 0 (0.00%) | 2 (100.00%) | 2 (100.00%) |
-| [Ribbon Communications](Ribbon_Communications/README.md#ca-certificates) | 2 (5.88%) | 0 (0.00%) | 0 (0.00%) | 2 (100.00%) | 2 (100.00%) |
-| [Sansay](Sansay/README.md#ca-certificates) | 2 (5.88%) | 0 (0.00%) | 1 (50.00%) | 1 (50.00%) | 1 (50.00%) |
-| [T-Mobile](T-Mobile/README.md#ca-certificates) | 2 (5.88%) | 0 (0.00%) | 0 (0.00%) | 2 (100.00%) | 2 (100.00%) |
-| [TransNexus](TransNexus/README.md#ca-certificates) | 3 (8.82%) | 3 (100.00%) | 0 (0.00%) | 3 (100.00%) | 3 (100.00%) |
-| **Total** | 34 (100%) | 12 (35.29%) | 4 (11.76%) | 22 (64.71%) | 30 (88.24%) |
+| [Comcast](Comcast/README.md#ca-certificates) | 1 (7.69%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) | 1 (100.00%) |
+| [GBSDTech](GBSDTech/README.md#ca-certificates) | 1 (7.69%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
+| [Martini Security](Martini_Security/README.md#ca-certificates) | 1 (7.69%) | 0 (0.00%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Metaswitch](Metaswitch/README.md#ca-certificates) | 1 (7.69%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
+| [NetNumber](NetNumber/README.md#ca-certificates) | 2 (15.38%) | 1 (50.00%) | 1 (50.00%) | 0 (0.00%) | 2 (100.00%) |
+| [Neustar](Neustar/README.md#ca-certificates) | 2 (15.38%) | 0 (0.00%) | 0 (0.00%) | 2 (100.00%) | 2 (100.00%) |
+| [Peeringhub](Peeringhub/README.md#ca-certificates) | 1 (7.69%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) | 1 (100.00%) |
+| [Ribbon Communications](Ribbon_Communications/README.md#ca-certificates) | 1 (7.69%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) | 1 (100.00%) |
+| [Sansay](Sansay/README.md#ca-certificates) | 1 (7.69%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) |
+| [T-Mobile](T-Mobile/README.md#ca-certificates) | 1 (7.69%) | 0 (0.00%) | 0 (0.00%) | 1 (100.00%) | 1 (100.00%) |
+| [TransNexus](TransNexus/README.md#ca-certificates) | 1 (7.69%) | 1 (100.00%) | 1 (100.00%) | 1 (100.00%) | 1 (100.00%) |
+| **Total** | 13 (100%) | 3 (23.08%) | 3 (23.08%) | 7 (53.85%) | 12 (92.31%) |
 
 \* The percent of certificates per issuer is calculated against total certificates from all issuers.\
 \*\* The percent of errors, warnings and notices is calculated against total observed certificates from the specified issuer.\
-\*\*\* 2 certificates skipped because they are currently expired.\
-\*\*\*\* 1 certificates skipped because they are not currently trusted by the STI-PA.
+\*\*\* 0 certificates skipped because they are currently expired.\
+\*\*\*\* 0 certificates skipped because they are not currently trusted by the STI-PA.
 
 ## Key
 
@@ -65,4 +39,4 @@ This report is generated using [Zlint](https://github.com/zmap/zlint) a tool com
 | Notice | Tests in which industry best practices are not followed. |
 | Not Effective	| Tests that exist in the current specifications but were not in effect at the time of issuance. |
 
-Generated: 27/10/2022 at 21:42:52
+Generated: 27/10/2022 at 22:13:25
