@@ -40,4 +40,4 @@ Description: STI certificates shall contain an Authority Key Identifier extensio
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 26/10/2022 at 23:14:41
+Generated: 27/10/2022 at 00:07:07

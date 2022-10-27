@@ -2,7 +2,7 @@
 ## Ribbon Communications
 
 ### Certificate 917049a2c60a5a3116f69124efa6ec0dc9c119ed
-Tested At: 2022-10-26 23:14:12 +0000 UTC\
+Tested At: 2022-10-27 00:06:14 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 227 day(s)\
 Subject: CN=Netfortris SHAKEN 8886, OU=VOIP, O=Netfortris, C=US\
@@ -15,11 +15,11 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC6DCCAo%2BgAwIBAg
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_cp1_3_ambiguous_identifier | error | CPv1.3 | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| e_sti_extension_unknown | error | ATIS-1000080v4 | STI certificate shall not include extensions that are not specified |
-| e_sti_certificate_policies | error | ATIS-1000080v4 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
-| w_cp1_3_subject_rdn_unknown | warn | CPv1.3 | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_cp1_3_subject_sn | error | CPv1.3 | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| e_cp1_3_ambiguous_identifier | error | CPv1.3 | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| e_sti_certificate_policies | error | ATIS-1000080v4 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| w_cp1_3_subject_rdn_unknown | warn | CPv1.3 | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| e_sti_extension_unknown | error | ATIS-1000080v4 | STI certificate shall not include extensions that are not specified |
+| e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 
-Generated: 26/10/2022 at 23:14:41
+Generated: 27/10/2022 at 00:07:07

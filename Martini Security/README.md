@@ -24,13 +24,13 @@
 
 | Created at | Name | Problems | Link |
 |------------|------|----------|------|
-| 28 Sep 22 17:54 UTC | SHAKEN 709J | true | [view](9747ae9f98177798503a9a3a39d2bdd7d7fc83ff%2Findex.html) |
-| 28 Sep 22 18:19 UTC | SHAKEN 709J | true | [view](e0a6d57c161fdaf3bf3e66127a55faed687f369f%2Findex.html) |
-| 28 Sep 22 21:31 UTC | SHAKEN 709J | true | [view](2d4251600f5c82cdd43a3417e193174b012fa87d%2Findex.html) |
-| 29 Sep 22 18:20 UTC | SHAKEN 073K | true | [view](40f3c020740bc812d269c19b112caf6bd0bbf666%2Findex.html) |
-| 21 Oct 22 17:38 UTC | SHAKEN 709J | true | [view](fc9f83c53f5ddeae62cbc537b766317a9fd2833b%2Findex.html) |
-| 21 Oct 22 19:21 UTC | SHAKEN 709J | true | [view](24e9291180b8802ed47977791c8cc42c70506452%2Findex.html) |
-| 25 Oct 22 20:57 UTC | SHAKEN 073K | true | [view](8b08d98c9f8361f2f52a874484a17039d02b04f3%2Findex.html) |
+| 28 Sep 22 17:54 UTC | SHAKEN 709J | true | [view](9747ae9f98177798503a9a3a39d2bdd7d7fc83ff/index.html) |
+| 28 Sep 22 18:19 UTC | SHAKEN 709J | true | [view](e0a6d57c161fdaf3bf3e66127a55faed687f369f/index.html) |
+| 28 Sep 22 21:31 UTC | SHAKEN 709J | true | [view](2d4251600f5c82cdd43a3417e193174b012fa87d/index.html) |
+| 29 Sep 22 18:20 UTC | SHAKEN 073K | true | [view](40f3c020740bc812d269c19b112caf6bd0bbf666/index.html) |
+| 21 Oct 22 17:38 UTC | SHAKEN 709J | true | [view](fc9f83c53f5ddeae62cbc537b766317a9fd2833b/index.html) |
+| 21 Oct 22 19:21 UTC | SHAKEN 709J | true | [view](24e9291180b8802ed47977791c8cc42c70506452/index.html) |
+| 25 Oct 22 20:57 UTC | SHAKEN 073K | true | [view](8b08d98c9f8361f2f52a874484a17039d02b04f3/index.html) |
 
 \* For issues relating to this CAs certificate repositories see this [report](URL.html).
 
@@ -43,10 +43,10 @@
 
 | Status | Code | Source | Instances |
 |--------|------|--------|-----------|
-| not effective | [e_cp1_3_ca_key_usage_crl_sign](ISSUES/e_cp1_3_ca_key_usage_crl_sign.html#ca-certificates) | CPv1.3 | 2 |
 | not effective | [w_cp1_3_ca_subject_rdn_unknown](ISSUES/w_cp1_3_ca_subject_rdn_unknown.html#ca-certificates) | CPv1.3 | 3 |
-| error | [e_sti_ca_crl_distribution](ISSUES/e_sti_ca_crl_distribution.html#ca-certificates) | ATIS-1000080v4 | 2 |
+| not effective | [e_cp1_3_ca_key_usage_crl_sign](ISSUES/e_cp1_3_ca_key_usage_crl_sign.html#ca-certificates) | CPv1.3 | 2 |
 | notice | [n_sti_ca_certificate_policy_critical](ISSUES/n_sti_ca_certificate_policy_critical.html#ca-certificates) | ATIS-1000080v4 | 1 |
+| error | [e_sti_ca_crl_distribution](ISSUES/e_sti_ca_crl_distribution.html#ca-certificates) | ATIS-1000080v4 | 2 |
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.\
 \*\* 0 certificates skipped because they are currently expired.\
@@ -56,8 +56,8 @@
 
 | Created at | Name | Problems | Link |
 |------------|------|----------|------|
-| 03 May 22 15:31 UTC | Martini Security SHAKEN R1 | false | [view](0ffc3156067f94ee63a0ff6f33fce9cff5f51d39%2Findex.html) |
-| 03 May 22 15:41 UTC | Martini Security SHAKEN G1 | true | [view](0fe086f321e93ca9ae08a19a89bf9049b7625fcf%2Findex.html) |
-| 02 Oct 22 10:40 UTC | Martini Security SHAKEN G2 | true | [view](6af848efe4c680e44114ee32350826704eca8135%2Findex.html) |
+| 03 May 22 15:31 UTC | Martini Security SHAKEN R1 | false | [view](0ffc3156067f94ee63a0ff6f33fce9cff5f51d39/index.html) |
+| 03 May 22 15:41 UTC | Martini Security SHAKEN G1 | true | [view](0fe086f321e93ca9ae08a19a89bf9049b7625fcf/index.html) |
+| 02 Oct 22 10:40 UTC | Martini Security SHAKEN G2 | true | [view](6af848efe4c680e44114ee32350826704eca8135/index.html) |
 
-Generated: 26/10/2022 at 23:14:41
+Generated: 27/10/2022 at 00:07:07

@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate e689269bc057ddf1876d610f8dd14761b439defc
-Tested At: 2022-10-26 23:14:35 +0000 UTC\
+Tested At: 2022-10-27 00:06:55 +0000 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: 76 day(s)\
 Subject: CN=SHAKEN 815G, OU=SHAKEN, O=382 Communications, C=US\
@@ -20,4 +20,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC8zCCApqgAwIBAgIQ
 | w_cp1_3_subject_rdn_unknown | warn | CPv1.3 | Only CN, C, O, and SERIALNUMBER can be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_sti_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
 
-Generated: 26/10/2022 at 23:14:41
+Generated: 27/10/2022 at 00:07:07

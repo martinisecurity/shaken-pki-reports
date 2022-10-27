@@ -30,4 +30,4 @@ no warning, or error, or not effective date level issues were found
 | notice | CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US | [view](../3bbda8c5ef216e5cd2dc6c618a8ebd103aa90e20/index.html) | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 
 
-Generated: 26/10/2022 at 23:14:41
+Generated: 27/10/2022 at 00:07:07

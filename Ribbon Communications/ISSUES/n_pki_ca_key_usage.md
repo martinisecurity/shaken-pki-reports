@@ -22,4 +22,4 @@ no warning, or error, or not effective date level issues were found
 | notice | CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US | [view](../cac26ee453b887be4c545426c19733add7c138c0/index.html) | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 
 
-Generated: 26/10/2022 at 23:14:41
+Generated: 27/10/2022 at 00:07:07

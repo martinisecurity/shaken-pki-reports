@@ -2,7 +2,7 @@
 ## Peeringhub
 
 ### Certificate 7f08026ddf8b2e37428ba8218541a8437a2ab962
-Tested At: 2022-10-26 23:14:07 +0000 UTC\
+Tested At: 2022-10-27 00:06:05 +0000 UTC\
 Initial Validity Period: 3650 day(s)\
 Remaining Validity Period: 3524 day(s)\
 Subject: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
@@ -15,9 +15,9 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDDzCCArWgAwIBAgIR
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| n_pki_ca_key_usage | notice | SHAKEN PKI Best Practice | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 | e_sti_ca_certificate_policies | error | ATIS-1000080v4 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | e_sti_ca_crl_distribution | error | ATIS-1000080v4 | CRL Distribution Point shall be reachable if the requesting IP address within the program ACLs |
+| n_pki_ca_key_usage | notice | SHAKEN PKI Best Practice | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 
 ### Not Effective
 
@@ -26,4 +26,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDDzCCArWgAwIBAgIR
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 26/10/2022 at 23:14:41
+Generated: 27/10/2022 at 00:07:07

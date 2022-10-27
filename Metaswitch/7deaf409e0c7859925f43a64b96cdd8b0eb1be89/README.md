@@ -2,7 +2,7 @@
 ## Metaswitch
 
 ### Certificate 7deaf409e0c7859925f43a64b96cdd8b0eb1be89
-Tested At: 2022-10-26 23:14:06 +0000 UTC\
+Tested At: 2022-10-27 00:06:04 +0000 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 528 day(s)\
 Subject: CN=U. S. Telepacific Corp SHAKEN 7453, O=U. S. Telepacific Corp, L=Los Angeles, ST=California, C=US\
@@ -20,27 +20,27 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICjjCCAjSgAwIBAgIQ
 
 ### Not Effective
 
-- w_cp1_3_subject_rdn_unknown
-- e_sti_certificate_policies
-- e_sti_subject_public_key
 - e_sti_issuer_dn
-- e_sti_subject
-- e_cp1_3_subject_sn
 - e_sti_version
-- e_cp1_3_ambiguous_identifier
-- e_sti_extension_unknown
-- e_sti_signature_algorithm
-- w_cp_1_3_subject_email
+- e_cp1_3_subject_sn
 - n_sti_certificate_policy_critical
+- e_sti_key_usage
+- e_cp1_3_ambiguous_identifier
+- e_sti_crl_distribution
 - e_sti_serial_number
 - e_sti_authority_key_identifier
+- e_sti_subject_public_key
 - e_sti_basic_constraints
-- e_sti_crl_distribution
-- e_sti_key_usage
+- e_sti_extension_unknown
+- w_cp1_3_subject_rdn_unknown
 - e_sti_tn_auth_list
-- e_sti_subject_key_identifier
+- e_sti_signature_algorithm
+- e_sti_certificate_policies
 - e_sti_subject_cn
+- e_sti_subject
+- w_cp_1_3_subject_email
+- e_sti_subject_key_identifier
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 26/10/2022 at 23:14:41
+Generated: 27/10/2022 at 00:07:07

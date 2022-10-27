@@ -13,17 +13,17 @@ This report is generated using [Zlint](https://github.com/zmap/zlint) a tool com
 
 | Issuers | Certificates | Errors | Warnings | Notices | Not Effective |
 |---------|--------------|--------|----------|---------|---------------|
-| [Comcast](Comcast%2Findex.html#leaf-certificates) | 38 (12.06%) | 38 (100.00%) | 38 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [GBSDTech](GBSDTech%2Findex.html#leaf-certificates) | 1 (0.32%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Martini Security](Martini%20Security%2Findex.html#leaf-certificates) | 7 (2.22%) | 7 (100.00%) | 0 (0.00%) | 4 (57.14%) | 0 (0.00%) |
-| [Metaswitch](Metaswitch%2Findex.html#leaf-certificates) | 21 (6.67%) | 1 (4.76%) | 0 (0.00%) | 0 (0.00%) | 20 (95.24%) |
-| [NetNumber](NetNumber%2Findex.html#leaf-certificates) | 4 (1.27%) | 4 (100.00%) | 1 (25.00%) | 4 (100.00%) | 0 (0.00%) |
-| [Neustar](Neustar%2Findex.html#leaf-certificates) | 96 (30.48%) | 64 (66.67%) | 4 (4.17%) | 0 (0.00%) | 33 (34.38%) |
-| [Peeringhub](Peeringhub%2Findex.html#leaf-certificates) | 5 (1.59%) | 5 (100.00%) | 5 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Ribbon Communications](Ribbon%20Communications%2Findex.html#leaf-certificates) | 3 (0.95%) | 3 (100.00%) | 3 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Sansay](Sansay%2Findex.html#leaf-certificates) | 76 (24.13%) | 76 (100.00%) | 76 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [T-Mobile](T-Mobile%2Findex.html#leaf-certificates) | 1 (0.32%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [TransNexus](TransNexus%2Findex.html#leaf-certificates) | 63 (20.00%) | 63 (100.00%) | 62 (98.41%) | 0 (0.00%) | 2 (3.17%) |
+| [Comcast](Comcast/index.html#leaf-certificates) | 38 (12.06%) | 38 (100.00%) | 38 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [GBSDTech](GBSDTech/index.html#leaf-certificates) | 1 (0.32%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Martini Security](Martini%20Security/index.html#leaf-certificates) | 7 (2.22%) | 7 (100.00%) | 0 (0.00%) | 4 (57.14%) | 0 (0.00%) |
+| [Metaswitch](Metaswitch/index.html#leaf-certificates) | 21 (6.67%) | 1 (4.76%) | 0 (0.00%) | 0 (0.00%) | 20 (95.24%) |
+| [NetNumber](NetNumber/index.html#leaf-certificates) | 4 (1.27%) | 4 (100.00%) | 1 (25.00%) | 4 (100.00%) | 0 (0.00%) |
+| [Neustar](Neustar/index.html#leaf-certificates) | 96 (30.48%) | 64 (66.67%) | 4 (4.17%) | 0 (0.00%) | 33 (34.38%) |
+| [Peeringhub](Peeringhub/index.html#leaf-certificates) | 5 (1.59%) | 5 (100.00%) | 5 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Ribbon Communications](Ribbon%20Communications/index.html#leaf-certificates) | 3 (0.95%) | 3 (100.00%) | 3 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Sansay](Sansay/index.html#leaf-certificates) | 76 (24.13%) | 76 (100.00%) | 76 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [T-Mobile](T-Mobile/index.html#leaf-certificates) | 1 (0.32%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [TransNexus](TransNexus/index.html#leaf-certificates) | 63 (20.00%) | 63 (100.00%) | 62 (98.41%) | 0 (0.00%) | 2 (3.17%) |
 | **Total** | 315 (100%) | 263 (83.49%) | 191 (60.63%) | 8 (2.54%) | 55 (17.46%) |
 
 \* The percent of certificates per issuer is calculated against total certificates from all issuers.\
@@ -38,17 +38,17 @@ This report is generated using [Zlint](https://github.com/zmap/zlint) a tool com
 
 | Issuers | Certificates | Errors | Warnings | Notices | Not Effective |
 |---------|--------------|--------|----------|---------|---------------|
-| [Comcast](Comcast%2Findex.html#ca-certificates) | 2 (5.88%) | 0 (0.00%) | 0 (0.00%) | 1 (50.00%) | 2 (100.00%) |
-| [GBSDTech](GBSDTech%2Findex.html#ca-certificates) | 3 (8.82%) | 1 (33.33%) | 0 (0.00%) | 0 (0.00%) | 3 (100.00%) |
-| [Martini Security](Martini%20Security%2Findex.html#ca-certificates) | 3 (8.82%) | 2 (66.67%) | 1 (33.33%) | 1 (33.33%) | 2 (66.67%) |
-| [Metaswitch](Metaswitch%2Findex.html#ca-certificates) | 2 (5.88%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 2 (100.00%) |
-| [NetNumber](NetNumber%2Findex.html#ca-certificates) | 3 (8.82%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 3 (100.00%) |
-| [Neustar](Neustar%2Findex.html#ca-certificates) | 10 (29.41%) | 2 (20.00%) | 2 (20.00%) | 10 (100.00%) | 8 (80.00%) |
-| [Peeringhub](Peeringhub%2Findex.html#ca-certificates) | 2 (5.88%) | 1 (50.00%) | 0 (0.00%) | 2 (100.00%) | 2 (100.00%) |
-| [Ribbon Communications](Ribbon%20Communications%2Findex.html#ca-certificates) | 2 (5.88%) | 0 (0.00%) | 0 (0.00%) | 2 (100.00%) | 2 (100.00%) |
-| [Sansay](Sansay%2Findex.html#ca-certificates) | 2 (5.88%) | 1 (50.00%) | 1 (50.00%) | 1 (50.00%) | 1 (50.00%) |
-| [T-Mobile](T-Mobile%2Findex.html#ca-certificates) | 2 (5.88%) | 0 (0.00%) | 0 (0.00%) | 2 (100.00%) | 2 (100.00%) |
-| [TransNexus](TransNexus%2Findex.html#ca-certificates) | 3 (8.82%) | 3 (100.00%) | 0 (0.00%) | 3 (100.00%) | 3 (100.00%) |
+| [Comcast](Comcast/index.html#ca-certificates) | 2 (5.88%) | 0 (0.00%) | 0 (0.00%) | 1 (50.00%) | 2 (100.00%) |
+| [GBSDTech](GBSDTech/index.html#ca-certificates) | 3 (8.82%) | 1 (33.33%) | 0 (0.00%) | 0 (0.00%) | 3 (100.00%) |
+| [Martini Security](Martini%20Security/index.html#ca-certificates) | 3 (8.82%) | 2 (66.67%) | 1 (33.33%) | 1 (33.33%) | 2 (66.67%) |
+| [Metaswitch](Metaswitch/index.html#ca-certificates) | 2 (5.88%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 2 (100.00%) |
+| [NetNumber](NetNumber/index.html#ca-certificates) | 3 (8.82%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 3 (100.00%) |
+| [Neustar](Neustar/index.html#ca-certificates) | 10 (29.41%) | 2 (20.00%) | 2 (20.00%) | 10 (100.00%) | 8 (80.00%) |
+| [Peeringhub](Peeringhub/index.html#ca-certificates) | 2 (5.88%) | 1 (50.00%) | 0 (0.00%) | 2 (100.00%) | 2 (100.00%) |
+| [Ribbon Communications](Ribbon%20Communications/index.html#ca-certificates) | 2 (5.88%) | 0 (0.00%) | 0 (0.00%) | 2 (100.00%) | 2 (100.00%) |
+| [Sansay](Sansay/index.html#ca-certificates) | 2 (5.88%) | 1 (50.00%) | 1 (50.00%) | 1 (50.00%) | 1 (50.00%) |
+| [T-Mobile](T-Mobile/index.html#ca-certificates) | 2 (5.88%) | 0 (0.00%) | 0 (0.00%) | 2 (100.00%) | 2 (100.00%) |
+| [TransNexus](TransNexus/index.html#ca-certificates) | 3 (8.82%) | 3 (100.00%) | 0 (0.00%) | 3 (100.00%) | 3 (100.00%) |
 | **Total** | 34 (100%) | 10 (29.41%) | 4 (11.76%) | 22 (64.71%) | 30 (88.24%) |
 
 \* The percent of certificates per issuer is calculated against total certificates from all issuers.\
@@ -65,4 +65,4 @@ This report is generated using [Zlint](https://github.com/zmap/zlint) a tool com
 | Notice | Tests in which industry best practices are not followed. |
 | Not Effective	| Tests that exist in the current specifications but were not in effect at the time of issuance. |
 
-Generated: 26/10/2022 at 23:14:41
+Generated: 27/10/2022 at 00:07:07

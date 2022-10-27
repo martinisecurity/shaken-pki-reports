@@ -21,4 +21,4 @@ Description: STI certificates shall contain a Basic Constraints extension marked
 | not effective | CN=TMOBILE-PROD-SUB-STIRSHAKEN-EC, O=TMOBILE-USA, C=US | [view](../45f4213a0916f509c15c42441aa6811f71c047ba/index.html) |  |
 
 
-Generated: 26/10/2022 at 23:14:41
+Generated: 27/10/2022 at 00:07:07

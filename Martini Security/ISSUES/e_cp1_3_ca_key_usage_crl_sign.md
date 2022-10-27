@@ -22,4 +22,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | CN=Martini Security SHAKEN G1, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US | [view](../0fe086f321e93ca9ae08a19a89bf9049b7625fcf/index.html) |  |
 
 
-Generated: 26/10/2022 at 23:14:41
+Generated: 27/10/2022 at 00:07:07
