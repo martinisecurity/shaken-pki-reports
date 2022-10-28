@@ -4,8 +4,8 @@
 
 | Code | Source | Instances |
 |------|--------|-----------|
-| [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 | 2 |
 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 | 2 |
+| [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 | 2 |
 
 ### https://app.connexcs.com/api/stir-shaken/cert/45.crt
 
@@ -22,4 +22,4 @@
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header has 'max-age' directive but it's value is less than 24 hours |
 
 
-Generated: 28/10/2022 at 18:22:16
+Generated: 28/10/2022 at 18:54:21

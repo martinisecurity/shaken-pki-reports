@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate cf6536ed84fa4fb421ebf66f89eb4d51794270c3
-Tested At: 2022-10-28 18:22:47 +0000 UTC\
+Tested At: 2022-10-28 18:54:53 +0000 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: 3 day(s)\
 Subject: CN=SHAKEN 459J, OU=SHAKEN, O=Altaworx, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC6jCCApCgAwIBAgIQ
 | w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 28/10/2022 at 18:22:55
+Generated: 28/10/2022 at 18:55:01

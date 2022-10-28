@@ -2,7 +2,7 @@
 ## Metaswitch
 
 ### Certificate 89a2a7c2332d416885f9adac29ade0024df9d563
-Tested At: 2022-10-28 18:22:37 +0000 UTC\
+Tested At: 2022-10-28 18:54:42 +0000 UTC\
 Initial Validity Period: 4380 day(s)\
 Remaining Validity Period: 3678 day(s)\
 Subject: CN=Metaswitch STI-CA SHAKEN Issuing 1\
@@ -19,14 +19,14 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIBtjCCAVygAwIBAgIQ
 
 ### Not Effective
 
-- e_sti_ca_serial_number
 - e_cp1_3_ca_key_usage_crl_sign
+- e_sti_ca_extension_unknown
 - e_sti_ca_crl_distribution
 - e_sti_ca_subject_cn
 - e_sti_ca_issuer_dn
-- e_sti_ca_extension_unknown
 - e_sti_ca_certificate_policies
+- e_sti_ca_serial_number
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 28/10/2022 at 18:22:55
+Generated: 28/10/2022 at 18:55:01

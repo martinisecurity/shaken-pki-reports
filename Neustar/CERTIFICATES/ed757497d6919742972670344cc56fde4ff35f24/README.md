@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate ed757497d6919742972670344cc56fde4ff35f24
-Tested At: 2022-10-28 18:22:52 +0000 UTC\
+Tested At: 2022-10-28 18:54:58 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 76 day(s)\
 Subject: CN=SHAKEN 506J, O=Twilio International, C=US\
@@ -22,9 +22,9 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDBTCCAqugAwIBAgIU
 
 - e_sti_extension_unknown
 - e_sti_signature_algorithm
-- e_sti_serial_number
 - e_sti_subject_cn
+- e_sti_serial_number
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 28/10/2022 at 18:22:55
+Generated: 28/10/2022 at 18:55:01

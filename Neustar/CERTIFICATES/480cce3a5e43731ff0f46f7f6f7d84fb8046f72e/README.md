@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate 480cce3a5e43731ff0f46f7f6f7d84fb8046f72e
-Tested At: 2022-10-28 18:22:28 +0000 UTC\
+Tested At: 2022-10-28 18:54:33 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 202 day(s)\
 Subject: CN=SHAKEN 030K, O=G12 COMMUNICATIONS, C=US\
@@ -16,7 +16,7 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDAzCCAqmgAwIBAgIU
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| e_sti_extension_unknown | error | ATIS-1000080 | STI certificate shall not include extensions that are not specified |
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| e_sti_extension_unknown | error | ATIS-1000080 | STI certificate shall not include extensions that are not specified |
 
-Generated: 28/10/2022 at 18:22:55
+Generated: 28/10/2022 at 18:55:01

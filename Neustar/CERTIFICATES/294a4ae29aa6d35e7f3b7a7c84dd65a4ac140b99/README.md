@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate 294a4ae29aa6d35e7f3b7a7c84dd65a4ac140b99
-Tested At: 2022-10-28 18:22:23 +0000 UTC\
+Tested At: 2022-10-28 18:54:29 +0000 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 554 day(s)\
 Subject: C=US, ST=CO, L=Centennial, O=IntelePeer CC LLC, OU=IntelePeer CC LLC, CN=intelepeer.com\
@@ -15,20 +15,20 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIEDDCCAvSgAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
+| w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_sti_crl_distribution_not_reachable | error | ATIS-1000080 | Unable to retrieve CRL specified in CRLdp from allow listed IP address |
 
 ### Not Effective
 
+- e_cp1_3_subject_sn
 - e_sti_extension_unknown
 - e_cp1_3_ambiguous_identifier
+- w_cp_1_3_subject_email
 - e_sti_signature_algorithm
 - e_sti_subject_cn
-- w_cp_1_3_subject_email
-- e_cp1_3_subject_sn
 - e_sti_serial_number
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 28/10/2022 at 18:22:55
+Generated: 28/10/2022 at 18:55:01

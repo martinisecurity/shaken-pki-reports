@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate 3bbda8c5ef216e5cd2dc6c618a8ebd103aa90e20
-Tested At: 2022-10-28 18:22:27 +0000 UTC\
+Tested At: 2022-10-28 18:54:32 +0000 UTC\
 Initial Validity Period: 3653 day(s)\
 Remaining Validity Period: 3630 day(s)\
 Subject: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
@@ -16,7 +16,7 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDOTCCAuCgAwIBAgIU
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | w_pki_ca_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
-| n_pki_ca_key_usage | notice | SHAKEN PKI Best Practice | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 | e_cp1_3_ca_key_usage_crl_sign | error | United States SHAKEN CP | The model for managing and communicating the status of revoked certificates is in the form of a distributed Certificate Revocation List (CRL) that is maintained by the STI-PA as described in ATIS-1000080 |
+| n_pki_ca_key_usage | notice | SHAKEN PKI Best Practice | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 
-Generated: 28/10/2022 at 18:22:55
+Generated: 28/10/2022 at 18:55:01

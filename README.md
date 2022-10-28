@@ -8,23 +8,23 @@ This report is generated using [Zlint](https://github.com/zmap/zlint) a tool com
 
 ### Leaf Certificates
 
-- Average validity span as of leaf certificates 307 days
-- Percentage of leaf certificates expiring in the next 30 days is 47.33%
+- Average validity span as of leaf certificates 305 days
+- Percentage of leaf certificates expiring in the next 30 days is 47.69%
 
 | Issuers | Certificates | Errors | Warnings | Notices | Not Effective |
 |---------|--------------|--------|----------|---------|---------------|
-| [Comcast](Comcast/README.md#leaf-certificates) | 42 (12.32%) | 42 (100.00%) | 42 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Comcast](Comcast/README.md#leaf-certificates) | 42 (12.35%) | 42 (100.00%) | 42 (100.00%) | 0 (0.00%) | 0 (0.00%) |
 | [GBSDTech](GBSDTech/README.md#leaf-certificates) | 1 (0.29%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Martini Security](Martini_Security/README.md#leaf-certificates) | 7 (2.05%) | 0 (0.00%) | 0 (0.00%) | 4 (57.14%) | 0 (0.00%) |
-| [Metaswitch](Metaswitch/README.md#leaf-certificates) | 21 (6.16%) | 21 (100.00%) | 6 (28.57%) | 0 (0.00%) | 20 (95.24%) |
-| [NetNumber](NetNumber/README.md#leaf-certificates) | 4 (1.17%) | 4 (100.00%) | 1 (25.00%) | 4 (100.00%) | 0 (0.00%) |
-| [Neustar](Neustar/README.md#leaf-certificates) | 97 (28.45%) | 82 (84.54%) | 33 (34.02%) | 0 (0.00%) | 33 (34.02%) |
+| [Martini Security](Martini_Security/README.md#leaf-certificates) | 7 (2.06%) | 0 (0.00%) | 0 (0.00%) | 4 (57.14%) | 0 (0.00%) |
+| [Metaswitch](Metaswitch/README.md#leaf-certificates) | 21 (6.18%) | 21 (100.00%) | 6 (28.57%) | 0 (0.00%) | 20 (95.24%) |
+| [NetNumber](NetNumber/README.md#leaf-certificates) | 4 (1.18%) | 4 (100.00%) | 1 (25.00%) | 4 (100.00%) | 0 (0.00%) |
+| [Neustar](Neustar/README.md#leaf-certificates) | 96 (28.24%) | 81 (84.38%) | 33 (34.38%) | 0 (0.00%) | 33 (34.38%) |
 | [Peeringhub](Peeringhub/README.md#leaf-certificates) | 5 (1.47%) | 5 (100.00%) | 5 (100.00%) | 0 (0.00%) | 0 (0.00%) |
 | [Ribbon Communications](Ribbon_Communications/README.md#leaf-certificates) | 3 (0.88%) | 3 (100.00%) | 3 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Sansay](Sansay/README.md#leaf-certificates) | 82 (24.05%) | 82 (100.00%) | 82 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Sansay](Sansay/README.md#leaf-certificates) | 82 (24.12%) | 82 (100.00%) | 82 (100.00%) | 0 (0.00%) | 0 (0.00%) |
 | [T-Mobile](T-Mobile/README.md#leaf-certificates) | 1 (0.29%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [TransNexus](TransNexus/README.md#leaf-certificates) | 78 (22.87%) | 78 (100.00%) | 78 (100.00%) | 0 (0.00%) | 2 (2.56%) |
-| **Total** | 341 (100%) | 319 (93.55%) | 252 (73.90%) | 8 (2.35%) | 55 (16.13%) |
+| [TransNexus](TransNexus/README.md#leaf-certificates) | 78 (22.94%) | 78 (100.00%) | 78 (100.00%) | 0 (0.00%) | 2 (2.56%) |
+| **Total** | 340 (100%) | 318 (93.53%) | 252 (74.12%) | 8 (2.35%) | 55 (16.18%) |
 
 \* The percent of certificates per issuer is calculated against total certificates from all issuers.\
 \*\* The percent of errors, warnings and notices is calculated against total observed certificates from the specified issuer.\
@@ -65,4 +65,4 @@ This report is generated using [Zlint](https://github.com/zmap/zlint) a tool com
 | Notice | Tests in which industry best practices are not followed. |
 | Not Effective	| Tests that exist in the current specifications but were not in effect at the time of issuance. |
 
-Generated: 28/10/2022 at 18:22:55
+Generated: 28/10/2022 at 18:55:00

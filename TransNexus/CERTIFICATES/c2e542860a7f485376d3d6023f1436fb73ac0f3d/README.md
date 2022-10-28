@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate c2e542860a7f485376d3d6023f1436fb73ac0f3d
-Tested At: 2022-10-28 18:22:45 +0000 UTC\
+Tested At: 2022-10-28 18:54:51 +0000 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: 7 day(s)\
 Subject: CN=SHAKEN 749J, OU=SHAKEN, O=iTalkGlobal, C=US\
@@ -15,7 +15,7 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC7TCCApOgAwIBAgIQ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 28/10/2022 at 18:22:55
+Generated: 28/10/2022 at 18:55:01

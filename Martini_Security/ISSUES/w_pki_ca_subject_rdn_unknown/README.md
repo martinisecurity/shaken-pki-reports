@@ -23,4 +23,4 @@ no warning, or error, or not effective date level issues were found
 | warn | CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US | [view](../../CERTIFICATES/6af848efe4c680e44114ee32350826704eca8135/README.md) | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 28/10/2022 at 18:22:55
+Generated: 28/10/2022 at 18:55:00

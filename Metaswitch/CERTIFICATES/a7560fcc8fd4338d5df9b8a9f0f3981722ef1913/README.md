@@ -2,7 +2,7 @@
 ## Metaswitch
 
 ### Certificate a7560fcc8fd4338d5df9b8a9f0f3981722ef1913
-Tested At: 2022-10-28 18:22:41 +0000 UTC\
+Tested At: 2022-10-28 18:54:47 +0000 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 456 day(s)\
 Subject: CN=Telesystem SHAKEN Cert 786E, O=Telesystem, C=US\
@@ -15,19 +15,19 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICTjCCAfWgAwIBAgIQ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_sti_key_usage | error | ATIS-1000080 | The Key Usage extension shall contain a single key usage value of digitalSignature |
 | e_sti_issuer_dn | error | ATIS-1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
+| e_sti_key_usage | error | ATIS-1000080 | The Key Usage extension shall contain a single key usage value of digitalSignature |
 
 ### Not Effective
 
-- e_sti_signature_algorithm
-- w_cp_1_3_subject_email
 - e_cp1_3_subject_sn
 - e_sti_extension_unknown
-- e_sti_serial_number
+- w_cp_1_3_subject_email
+- e_sti_signature_algorithm
 - e_cp1_3_ambiguous_identifier
+- e_sti_serial_number
 - e_sti_subject_cn
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 28/10/2022 at 18:22:55
+Generated: 28/10/2022 at 18:55:01

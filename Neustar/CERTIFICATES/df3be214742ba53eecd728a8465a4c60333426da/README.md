@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate df3be214742ba53eecd728a8465a4c60333426da
-Tested At: 2022-10-28 18:22:49 +0000 UTC\
+Tested At: 2022-10-28 18:54:55 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 239 day(s)\
 Subject: CN=SHAKEN 739J, O=Unified Global Solutions LLC, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDDTCCArOgAwIBAgIU
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
-Generated: 28/10/2022 at 18:22:55
+Generated: 28/10/2022 at 18:55:01

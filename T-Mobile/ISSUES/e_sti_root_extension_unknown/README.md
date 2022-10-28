@@ -21,4 +21,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | CN=TMOBILE-PROD-ROOT-STIRSHAKEN-EC, O=TMOBILE-USA, C=US | [view](../../CERTIFICATES/7dddc0874c3665ba6d3e5fce061c3e5ad7761511/README.md) |  |
 
 
-Generated: 28/10/2022 at 18:22:55
+Generated: 28/10/2022 at 18:55:01
