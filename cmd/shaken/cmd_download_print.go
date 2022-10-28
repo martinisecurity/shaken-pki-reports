@@ -118,22 +118,44 @@ func PrintUrlSummary(w io.Writer, r *LintUrlSummaryResult) {
 		fmt.Fprintln(w, "")
 		fmt.Fprintln(w, "### CA Operated Repositories")
 		fmt.Fprintln(w, "")
-		PrintOrgTable(w, caGroup, path.Join("ORGS", groupName_CA))
+		PrintCATable(w, caGroup, path.Join("ORGS", groupName_CA))
 	}
 	if spGroup := r.Groups[groupName_ServiceProvider]; spGroup != nil {
 		fmt.Fprintln(w, "")
 		fmt.Fprintln(w, "### Service Provider Operated Repositories")
 		fmt.Fprintln(w, "")
-		PrintOrgTable(w, spGroup, path.Join("ORGS", groupName_ServiceProvider))
+		PrintOSPTable(w, spGroup, path.Join("ORGS", groupName_ServiceProvider))
 	}
 
 	PrintFooter(w)
 }
 
-// PrintOrgTable prints table for the Organization test results
-func PrintOrgTable(w io.Writer, r *LintUrlOrgGroupResult, basePath string) {
+// PrintCATable prints table for the Organization test results
+func PrintCATable(w io.Writer, r *LintUrlOrgGroupResult, basePath string) {
 	fmt.Fprintln(w, "| Issuers | Links | Errors | Warnings | Notices |")
 	fmt.Fprintln(w, "|---------|-------|--------|----------|---------|")
+
+	// order keys
+	keys := make([]string, 0, len(r.Items))
+	for k := range r.Items {
+		keys = append(keys, k)
+	}
+	sort.Slice(keys[:], func(a int, b int) bool {
+		return keys[a] < keys[b]
+	})
+
+	for _, key := range keys {
+		item := r.Items[key]
+		clientName := fmt.Sprintf("[%s](%s)", key, path.Join(basePath, escapeMdLink(key), "README.md"))
+		fmt.Fprintf(w, "| %s | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) |\n", clientName, item.Amount, percent(item.Amount, r.Amount), item.Errors, percent(item.Errors, item.Amount), item.Warnings, percent(item.Warnings, item.Amount), item.Notices, percent(item.Notices, item.Amount))
+	}
+	fmt.Fprintf(w, "| **Total** | %d (100%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) |\n", r.Amount, r.Errors, percent(r.Errors, r.Amount), r.Warnings, percent(r.Warnings, r.Amount), r.Notices, percent(r.Notices, r.Amount))
+}
+
+// PrintSPTable prints table for the Organization test results
+func PrintOSPTable(w io.Writer, r *LintUrlOrgGroupResult, basePath string) {
+	fmt.Fprintln(w, "| Providers | Links | Errors | Warnings | Notices |")
+	fmt.Fprintln(w, "|-----------|-------|--------|----------|---------|")
 
 	// order keys
 	keys := make([]string, 0, len(r.Items))
