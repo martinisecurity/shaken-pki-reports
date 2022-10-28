@@ -4,8 +4,8 @@
 
 | Code | Source | Instances |
 |------|--------|-----------|
-| [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 | 3 |
 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 | 3 |
+| [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 | 3 |
 
 ### https://cr.ccid.alticeusa.com/ccid/authn/v2/certs/11011.10003
 
@@ -29,4 +29,4 @@
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
 
-Generated: 28/10/2022 at 18:15:07
+Generated: 28/10/2022 at 18:22:16

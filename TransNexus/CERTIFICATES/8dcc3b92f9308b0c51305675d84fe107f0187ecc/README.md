@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate 8dcc3b92f9308b0c51305675d84fe107f0187ecc
-Tested At: 2022-10-28 18:15:29 +0000 UTC\
+Tested At: 2022-10-28 18:22:37 +0000 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: 3 day(s)\
 Subject: CN=SHAKEN 0172, OU=SHAKEN, O=CallTower, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC7DCCApGgAwIBAgIQ
 | e_incorrect_ku_encoding | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 | w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
-Generated: 28/10/2022 at 18:15:47
+Generated: 28/10/2022 at 18:22:55

@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate 3475a0a95ab1463443919df71ceff158ee753348
-Tested At: 2022-10-28 18:15:18 +0000 UTC\
+Tested At: 2022-10-28 18:22:25 +0000 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: 5 day(s)\
 Subject: CN=SHAKEN 107K, OU=SHAKEN, O=Atheral, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC6DCCAo%2BgAwIBAg
 | w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_incorrect_ku_encoding | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
-Generated: 28/10/2022 at 18:15:47
+Generated: 28/10/2022 at 18:22:55

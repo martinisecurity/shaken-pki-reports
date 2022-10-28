@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate a96d0880d34d1cb60fd0f00ce985722fb952a02d
-Tested At: 2022-10-28 18:15:33 +0000 UTC\
+Tested At: 2022-10-28 18:22:41 +0000 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: 2 day(s)\
 Subject: CN=SHAKEN 012K, OU=SHAKEN, O=CallCurrent\\, Inc., C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC8zCCApmgAwIBAgIQ
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
-Generated: 28/10/2022 at 18:15:47
+Generated: 28/10/2022 at 18:22:55

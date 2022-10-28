@@ -54,4 +54,4 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 28/10/2022 at 18:15:47
+Generated: 28/10/2022 at 18:22:55

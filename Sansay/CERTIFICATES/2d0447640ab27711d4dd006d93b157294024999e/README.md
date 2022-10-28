@@ -2,7 +2,7 @@
 ## Sansay
 
 ### Certificate 2d0447640ab27711d4dd006d93b157294024999e
-Tested At: 2022-10-28 18:15:16 +0000 UTC\
+Tested At: 2022-10-28 18:22:24 +0000 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 14 day(s)\
 Subject: CN=SHAKEN Star2Star Communications\\, LLC 590J, OU=BVPROD, O=Star2Star Communications\\, LLC, ST=Florida, C=US\
@@ -15,10 +15,10 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC8DCCApegAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_cp1_3_ambiguous_identifier | error | United States SHAKEN CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| e_sti_subject_cn | error | ATIS-1000080 | Common name shall contain the text string 'SHAKEN 590J' |
-| w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| e_sti_subject_cn | error | ATIS-1000080 | Common name shall contain the text string 'SHAKEN 590J' |
+| e_cp1_3_ambiguous_identifier | error | United States SHAKEN CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 28/10/2022 at 18:15:47
+Generated: 28/10/2022 at 18:22:55

@@ -2,7 +2,7 @@
 ## Sansay
 
 ### Certificate 9ab28ecee0c6785a7aa07eac83709ae3b5cc6116
-Tested At: 2022-10-28 18:15:32 +0000 UTC\
+Tested At: 2022-10-28 18:22:39 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 348 day(s)\
 Subject: CN=SHAKEN Technology Innovation Lab 599J, OU=Research and Development, O=Technology Innovation Lab, ST=New York, C=US\
@@ -15,10 +15,10 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2FTCCAqKgAwIBAg
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_sti_subject_cn | error | ATIS-1000080 | Common name shall contain the text string 'SHAKEN 599J' |
-| e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | e_cp1_3_ambiguous_identifier | error | United States SHAKEN CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
-Generated: 28/10/2022 at 18:15:47
+Generated: 28/10/2022 at 18:22:55

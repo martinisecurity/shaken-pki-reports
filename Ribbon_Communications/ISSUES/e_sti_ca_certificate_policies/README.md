@@ -21,4 +21,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US | [view](../../CERTIFICATES/cac26ee453b887be4c545426c19733add7c138c0/README.md) |  |
 
 
-Generated: 28/10/2022 at 18:15:47
+Generated: 28/10/2022 at 18:22:55

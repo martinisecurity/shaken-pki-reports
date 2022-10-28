@@ -98,4 +98,4 @@ This report looks at what errors and compliance issues relying parties may exper
 | [connexcs.com](ORGS/SP/connexcs.com/README.md) | 1 (1.27%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | **Total** | 79 (100%) | 75 (94.94%) | 76 (96.20%) | 0 (0.00%) |
 
-Generated: 28/10/2022 at 18:15:07
+Generated: 28/10/2022 at 18:22:16

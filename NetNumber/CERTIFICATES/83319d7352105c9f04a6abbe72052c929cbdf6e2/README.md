@@ -2,7 +2,7 @@
 ## NetNumber
 
 ### Certificate 83319d7352105c9f04a6abbe72052c929cbdf6e2
-Tested At: 2022-10-28 18:15:09 +0000 UTC\
+Tested At: 2022-10-28 18:22:17 +0000 UTC\
 Initial Validity Period: 9125 day(s)\
 Remaining Validity Period: 8730 day(s)\
 Subject: L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN Root CA 1\
@@ -21,11 +21,11 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDTzCCArCgAwIBAgII
 
 ### Not Effective
 
-- e_sti_ca_subject_cn
 - e_sti_root_extension_unknown
 - e_sti_root_certificate_policies
+- e_sti_ca_subject_cn
 - e_sti_ca_serial_number
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 28/10/2022 at 18:15:47
+Generated: 28/10/2022 at 18:22:55

@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate dce5a7287dd0c8ce81b627fea32ce6e7787519cf
-Tested At: 2022-10-28 18:15:41 +0000 UTC\
+Tested At: 2022-10-28 18:22:49 +0000 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: 6 day(s)\
 Subject: CN=SHAKEN 738J, OU=SHAKEN, O=SIP.US LLC, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC7DCCApKgAwIBAgIQ
 | w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 28/10/2022 at 18:15:47
+Generated: 28/10/2022 at 18:22:55

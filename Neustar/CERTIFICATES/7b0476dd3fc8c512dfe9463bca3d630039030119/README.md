@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate 7b0476dd3fc8c512dfe9463bca3d630039030119
-Tested At: 2022-10-28 18:15:27 +0000 UTC\
+Tested At: 2022-10-28 18:22:35 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 28 day(s)\
 Subject: CN=prod SHAKEN 811J, O=Alianza, L=Pleasant Grove, ST=Utah, C=US\
@@ -20,13 +20,13 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDJTCCAsugAwIBAgIU
 ### Not Effective
 
 - w_cp_1_3_subject_email
-- e_cp1_3_ambiguous_identifier
 - e_sti_extension_unknown
-- e_sti_signature_algorithm
-- e_cp1_3_subject_sn
-- e_sti_serial_number
 - e_sti_subject_cn
+- e_cp1_3_subject_sn
+- e_cp1_3_ambiguous_identifier
+- e_sti_signature_algorithm
+- e_sti_serial_number
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 28/10/2022 at 18:15:47
+Generated: 28/10/2022 at 18:22:55

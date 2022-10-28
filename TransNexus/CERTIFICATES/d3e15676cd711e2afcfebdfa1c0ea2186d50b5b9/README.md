@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate d3e15676cd711e2afcfebdfa1c0ea2186d50b5b9
-Tested At: 2022-10-28 18:15:40 +0000 UTC\
+Tested At: 2022-10-28 18:22:48 +0000 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: 59 day(s)\
 Subject: CN=SHAKEN 505J, OU=SHAKEN, O=HFA Services LLC dba Call48, C=US\
@@ -15,8 +15,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2FjCCAqOgAwIBAg
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | e_incorrect_ku_encoding | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
+| w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
-Generated: 28/10/2022 at 18:15:47
+Generated: 28/10/2022 at 18:22:55

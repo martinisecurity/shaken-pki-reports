@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate 5818dcd116e2be68a4cf8186f52e2f46f8c736df
-Tested At: 2022-10-28 18:15:23 +0000 UTC\
+Tested At: 2022-10-28 18:22:31 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 284 day(s)\
 Subject: CN=SHAKEN 710A, O=Allo Communications LLC, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDCDCCAq6gAwIBAgIU
 | e_sti_extension_unknown | error | ATIS-1000080 | STI certificate shall not include extensions that are not specified |
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
-Generated: 28/10/2022 at 18:15:47
+Generated: 28/10/2022 at 18:22:55

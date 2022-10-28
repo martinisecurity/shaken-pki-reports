@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate 3889bee709733ff19f8acc2ae4a3761d288ffdfe
-Tested At: 2022-10-28 18:15:18 +0000 UTC\
+Tested At: 2022-10-28 18:22:26 +0000 UTC\
 Initial Validity Period: 14 day(s)\
 Remaining Validity Period: 6 day(s)\
 Subject: CN=SHAKEN 841J, OU=SHAKEN, O=Securus Technologies LLC, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2BjCCAqCgAwIBAg
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | e_incorrect_ku_encoding | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
-Generated: 28/10/2022 at 18:15:47
+Generated: 28/10/2022 at 18:22:55

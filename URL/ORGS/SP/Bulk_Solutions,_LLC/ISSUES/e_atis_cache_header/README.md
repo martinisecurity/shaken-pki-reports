@@ -21,4 +21,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 
-Generated: 28/10/2022 at 18:15:07
+Generated: 28/10/2022 at 18:22:16

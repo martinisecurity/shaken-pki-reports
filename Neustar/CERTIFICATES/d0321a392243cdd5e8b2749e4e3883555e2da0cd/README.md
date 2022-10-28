@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate d0321a392243cdd5e8b2749e4e3883555e2da0cd
-Tested At: 2022-10-28 18:15:40 +0000 UTC\
+Tested At: 2022-10-28 18:22:47 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 263 day(s)\
 Subject: CN=SHAKEN 715J, O=Coredial LLC, C=US\
@@ -15,8 +15,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2FTCCAqOgAwIBAg
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_sti_extension_unknown | error | ATIS-1000080 | STI certificate shall not include extensions that are not specified |
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| e_sti_extension_unknown | error | ATIS-1000080 | STI certificate shall not include extensions that are not specified |
 
-Generated: 28/10/2022 at 18:15:47
+Generated: 28/10/2022 at 18:22:55

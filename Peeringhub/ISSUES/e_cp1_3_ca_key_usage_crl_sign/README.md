@@ -22,4 +22,4 @@ no warning, or error, or not effective date level issues were found
 | error | CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US | [view](../../CERTIFICATES/7f08026ddf8b2e37428ba8218541a8437a2ab962/README.md) | The model for managing and communicating the status of revoked certificates is in the form of a distributed Certificate Revocation List (CRL) that is maintained by the STI-PA as described in ATIS-1000080 |
 
 
-Generated: 28/10/2022 at 18:15:47
+Generated: 28/10/2022 at 18:22:55

@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate ec2b53d5858323c5fa07581e228017c956c006ff
-Tested At: 2022-10-28 18:15:44 +0000 UTC\
+Tested At: 2022-10-28 18:22:52 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 237 day(s)\
 Subject: CN=SHAKEN 254H, O=GTT Americas LLC, C=US\
@@ -15,8 +15,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDADCCAqegAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_sti_extension_unknown | error | ATIS-1000080 | STI certificate shall not include extensions that are not specified |
-| e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| e_sti_extension_unknown | error | ATIS-1000080 | STI certificate shall not include extensions that are not specified |
 
-Generated: 28/10/2022 at 18:15:47
+Generated: 28/10/2022 at 18:22:55

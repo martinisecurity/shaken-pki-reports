@@ -2,7 +2,7 @@
 ## Metaswitch
 
 ### Certificate 9222d3511c26fbbd28117b4bbf80e8b54753b3a3
-Tested At: 2022-10-28 18:15:31 +0000 UTC\
+Tested At: 2022-10-28 18:22:39 +0000 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 499 day(s)\
 Subject: CN=Northeast Communications of Wisconsin SHAKEN Cert 6692, O=Northeast Communications of Wisconsin, C=US\
@@ -15,19 +15,19 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIChjCCAiugAwIBAgIQ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_sti_issuer_dn | error | ATIS-1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 | e_sti_key_usage | error | ATIS-1000080 | The Key Usage extension shall contain a single key usage value of digitalSignature |
+| e_sti_issuer_dn | error | ATIS-1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 
 ### Not Effective
 
-- e_sti_subject_cn
-- w_cp_1_3_subject_email
-- e_cp1_3_ambiguous_identifier
 - e_cp1_3_subject_sn
-- e_sti_serial_number
+- w_cp_1_3_subject_email
 - e_sti_signature_algorithm
+- e_sti_subject_cn
 - e_sti_extension_unknown
+- e_cp1_3_ambiguous_identifier
+- e_sti_serial_number
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 28/10/2022 at 18:15:47
+Generated: 28/10/2022 at 18:22:55

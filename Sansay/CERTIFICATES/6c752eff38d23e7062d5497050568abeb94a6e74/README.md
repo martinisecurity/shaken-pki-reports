@@ -2,7 +2,7 @@
 ## Sansay
 
 ### Certificate 6c752eff38d23e7062d5497050568abeb94a6e74
-Tested At: 2022-10-28 18:15:25 +0000 UTC\
+Tested At: 2022-10-28 18:22:33 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 348 day(s)\
 Subject: CN=SHAKEN Asia Pacific Network 988J, OU=APN, O=Asia Pacific Network, ST=Texas, C=US\
@@ -21,4 +21,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC2TCCAn%2BgAwIBAg
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | e_sti_subject_cn | error | ATIS-1000080 | Common name shall contain the text string 'SHAKEN 988J' |
 
-Generated: 28/10/2022 at 18:15:47
+Generated: 28/10/2022 at 18:22:55
