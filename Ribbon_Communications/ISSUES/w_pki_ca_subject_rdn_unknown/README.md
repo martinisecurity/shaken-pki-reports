@@ -22,4 +22,4 @@ no warning, or error, or not effective date level issues were found
 | warn | CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US | [view](../../CERTIFICATES/cac26ee453b887be4c545426c19733add7c138c0/README.md) | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 28/10/2022 at 10:33:25
+Generated: 28/10/2022 at 16:28:22

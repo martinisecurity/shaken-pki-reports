@@ -2,9 +2,9 @@
 ## Neustar
 
 ### Certificate 72584ecdb4805a2b263e44c004c3980c8138a0e6
-Tested At: 2022-10-28 10:32:33 +0000 UTC\
+Tested At: 2022-10-28 16:27:28 +0000 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 195 day(s)\
+Remaining Validity Period: 194 day(s)\
 Subject: CN=SHAKEN 005K, O=PrimeVOX Communications, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US
 
@@ -15,8 +15,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDCTCCAq6gAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | e_sti_extension_unknown | error | ATIS-1000080 | STI certificate shall not include extensions that are not specified |
+| e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 28/10/2022 at 10:33:25
+Generated: 28/10/2022 at 16:28:22

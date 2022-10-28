@@ -4,10 +4,10 @@
 
 | Code | Source | Instances |
 |------|--------|-----------|
-| [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 | 94 |
-| [w_aits_pem_certificate_chain](ISSUES/w_aits_pem_certificate_chain/README.md) | ATIS-1000080 | 1 |
 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 | 1 |
+| [w_aits_pem_certificate_chain](ISSUES/w_aits_pem_certificate_chain/README.md) | ATIS-1000080 | 1 |
 | [e_http_status_200](ISSUES/e_http_status_200/README.md) | HTTP | 1 |
+| [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 | 100 |
 
 ### https://cr.sansay.com/016K/order/63_016K_115
 
@@ -147,6 +147,12 @@
 |------|--------|--------|---------|
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
+### https://cr.sansay.com/210J/order/205_210J_63
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+
 ### https://cr.sansay.com/258K_CERT
 
 | Code | Status | Source | Details |
@@ -154,6 +160,12 @@
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.sansay.com/325B_20211101.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+
+### https://cr.sansay.com/382G_TERRANOVA_STIR_SHAKEN.crt
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
@@ -244,6 +256,18 @@
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.sansay.com/548J/order/165_548J_67
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+
+### https://cr.sansay.com/548J/order/167_548J_67
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+
+### https://cr.sansay.com/548J/order/168_548J_67
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
@@ -351,6 +375,12 @@
 |------|--------|--------|---------|
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
+### https://cr.sansay.com/920J/order/130_920J_66
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+
 ### https://cr.sansay.com/920J/order/89_920J_66
 
 | Code | Status | Source | Details |
@@ -447,6 +477,12 @@
 |------|--------|--------|---------|
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
+### https://cr.sansay.com/MagicJack_324E.crt
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+
 ### https://cr.sansay.com/Magna5_3849.crt
 
 | Code | Status | Source | Details |
@@ -463,9 +499,9 @@
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
-| w_aits_pem_certificate_chain | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| w_aits_pem_certificate_chain | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 | e_http_status_200 | error | HTTP | HTTP response shall have StatusCode 200, but it is 404 Not Found |
 
 ### https://cr.sansay.com/MomentumTelecom_1417
@@ -577,4 +613,4 @@
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 
-Generated: 28/10/2022 at 10:31:55
+Generated: 28/10/2022 at 16:26:49

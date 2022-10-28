@@ -2,9 +2,9 @@
 ## Neustar
 
 ### Certificate 8e07c831a4c5e548c6afc8e3551d98aca209c093
-Tested At: 2022-10-28 10:32:42 +0000 UTC\
+Tested At: 2022-10-28 16:27:38 +0000 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 194 day(s)\
+Remaining Validity Period: 193 day(s)\
 Subject: CN=SHAKEN 821J, O=Bluerock Communications, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US
 
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDBzCCAq6gAwIBAgIU
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
-Generated: 28/10/2022 at 10:33:25
+Generated: 28/10/2022 at 16:28:22

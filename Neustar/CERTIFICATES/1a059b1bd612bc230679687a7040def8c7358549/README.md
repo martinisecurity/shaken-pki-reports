@@ -2,9 +2,9 @@
 ## Neustar
 
 ### Certificate 1a059b1bd612bc230679687a7040def8c7358549
-Tested At: 2022-10-28 10:32:08 +0000 UTC\
+Tested At: 2022-10-28 16:27:01 +0000 UTC\
 Initial Validity Period: 1096 day(s)\
-Remaining Validity Period: 483 day(s)\
+Remaining Validity Period: 482 day(s)\
 Subject: C=US, ST=CO, L=Denver, O=Teliax Inc., OU=Teliax Inc., CN=Shaken\
 Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1
 
@@ -15,20 +15,20 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIID8zCCAtugAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| e_sti_crl_distribution_not_reachable | error | ATIS-1000080 | Unable to retrieve CRL specified in CRLdp from allow listed IP address |
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 | w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
-| e_sti_crl_distribution_not_reachable | error | ATIS-1000080 | Unable to retrieve CRL specified in CRLdp from allow listed IP address |
 
 ### Not Effective
 
-- e_sti_signature_algorithm
+- e_sti_subject_cn
 - e_sti_serial_number
-- e_sti_extension_unknown
+- e_cp1_3_subject_sn
 - e_cp1_3_ambiguous_identifier
 - w_cp_1_3_subject_email
-- e_cp1_3_subject_sn
-- e_sti_subject_cn
+- e_sti_extension_unknown
+- e_sti_signature_algorithm
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 28/10/2022 at 10:33:25
+Generated: 28/10/2022 at 16:28:22

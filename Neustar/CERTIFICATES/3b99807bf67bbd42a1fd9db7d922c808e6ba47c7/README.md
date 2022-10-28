@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate 3b99807bf67bbd42a1fd9db7d922c808e6ba47c7
-Tested At: 2022-10-28 10:32:18 +0000 UTC\
+Tested At: 2022-10-28 16:27:12 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 153 day(s)\
 Subject: CN=SHAKEN 5447, O=Access One Inc, C=US\
@@ -15,8 +15,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2FzCCAqWgAwIBAg
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | e_sti_extension_unknown | error | ATIS-1000080 | STI certificate shall not include extensions that are not specified |
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 28/10/2022 at 10:33:25
+Generated: 28/10/2022 at 16:28:22

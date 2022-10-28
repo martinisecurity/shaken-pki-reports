@@ -2,7 +2,7 @@
 ## Metaswitch
 
 ### Certificate 6ca7e5b5d9ed6cb533df49b136b7e70bdae0da64
-Tested At: 2022-10-28 10:32:32 +0000 UTC\
+Tested At: 2022-10-28 16:27:27 +0000 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 570 day(s)\
 Subject: CN=Everstream SHAKEN Cert 472C\\ , O=Everstream, C=US\
@@ -20,14 +20,14 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICTzCCAfagAwIBAgIQ
 
 ### Not Effective
 
+- e_sti_extension_unknown
+- e_sti_serial_number
+- e_cp1_3_subject_sn
 - e_sti_signature_algorithm
 - e_sti_subject_cn
 - e_cp1_3_ambiguous_identifier
 - w_cp_1_3_subject_email
-- e_sti_serial_number
-- e_cp1_3_subject_sn
-- e_sti_extension_unknown
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 28/10/2022 at 10:33:25
+Generated: 28/10/2022 at 16:28:22

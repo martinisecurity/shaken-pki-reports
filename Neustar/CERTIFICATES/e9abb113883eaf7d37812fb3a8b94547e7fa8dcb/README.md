@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate e9abb113883eaf7d37812fb3a8b94547e7fa8dcb
-Tested At: 2022-10-28 10:33:16 +0000 UTC\
+Tested At: 2022-10-28 16:28:13 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 177 day(s)\
 Subject: CN=SHAKEN 502E, O=Accessline Communications Corp., C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDEDCCAragAwIBAgIU
 | e_sti_extension_unknown | error | ATIS-1000080 | STI certificate shall not include extensions that are not specified |
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 28/10/2022 at 10:33:25
+Generated: 28/10/2022 at 16:28:22

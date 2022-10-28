@@ -16,4 +16,4 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | w_aits_pem_certificate_chain | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
 
-Generated: 28/10/2022 at 10:31:55
+Generated: 28/10/2022 at 16:26:49

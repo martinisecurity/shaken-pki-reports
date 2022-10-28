@@ -46,6 +46,10 @@ Description: Information that is not verified shall not be included in certifica
 | warn | emailAddress=kelsey@qualityvoicedata.com, CN=SHAKEN Quality Voice & Data Inc. 548J, OU=Quality Voice & Data, O=Quality Voice & Data Inc., ST=Nebraska, C=US, emailAddress=kelsey@qualityvoicedata.com | [view](../../CERTIFICATES/234394d42b2f264577cf8ba53c515205085ea962/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 | warn | emailAddress=voiceops@clearfly.net, CN=SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J, OU=NOC, O=Greenfly Networks Inc dba Clearfly Communications, ST=Montana, C=US, emailAddress=voiceops@clearfly.net | [view](../../CERTIFICATES/80928cca9b6e8e2de10138480a5827d88624b8ac/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 | warn | emailAddress=billing@ntcinternationalinc.com, CN=SHAKEN NTC International\\, INC 016K, OU=Operations, O=NTC International\\, INC, ST=Delaware, C=US, emailAddress=billing@ntcinternationalinc.com | [view](../../CERTIFICATES/6232068ab8e75570bd010619f5fd471b86fc5f14/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
+| warn | emailAddress=kelsey@qualityvoicedata.com, CN=SHAKEN Quality Voice & Data Inc. 548J, OU=Quality Voice & Data, O=Quality Voice & Data Inc., ST=Nebraska, C=US, emailAddress=kelsey@qualityvoicedata.com | [view](../../CERTIFICATES/65c37965feb40d58ef07e569462edbe0b1ac0940/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
+| warn | emailAddress=jfindley@interactivetel.com, CN=SHAKEN InteractiveTel\\, LLC 920J, OU=NOC, O=InteractiveTel\\, LLC, ST=Texas, C=US, emailAddress=jfindley@interactivetel.com | [view](../../CERTIFICATES/614144186eaeba226f0bb178f18938b70d626a47/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
+| warn | emailAddress=voiceops@clearfly.net, CN=SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J, OU=NOC, O=Greenfly Networks Inc dba Clearfly Communications, ST=Montana, C=US, emailAddress=voiceops@clearfly.net | [view](../../CERTIFICATES/e578f9ad8513316e6e6a4990d92fa8c01abc5315/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
+| warn | emailAddress=kelsey@qualityvoicedata.com, CN=SHAKEN Quality Voice & Data Inc. 548J, OU=Quality Voice & Data, O=Quality Voice & Data Inc., ST=Nebraska, C=US, emailAddress=kelsey@qualityvoicedata.com | [view](../../CERTIFICATES/8170c29c0a56fb452d7fcdcd00d48990c49b4676/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 
 ### CA Certificates
 
@@ -55,4 +59,4 @@ Description: Information that is not verified shall not be included in certifica
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 28/10/2022 at 10:33:25
+Generated: 28/10/2022 at 16:28:22

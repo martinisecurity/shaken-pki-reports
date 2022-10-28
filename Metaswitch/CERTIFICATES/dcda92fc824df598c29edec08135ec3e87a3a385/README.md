@@ -2,9 +2,9 @@
 ## Metaswitch
 
 ### Certificate dcda92fc824df598c29edec08135ec3e87a3a385
-Tested At: 2022-10-28 10:33:11 +0000 UTC\
+Tested At: 2022-10-28 16:28:07 +0000 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 536 day(s)\
+Remaining Validity Period: 535 day(s)\
 Subject: CN=CBTS Technology Solutions SHAKEN Cert 600F, O=CBTS Technology Solutions LLC, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1
 
@@ -20,14 +20,14 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICcDCCAhegAwIBAgIQ
 
 ### Not Effective
 
-- e_cp1_3_subject_sn
-- e_sti_subject_cn
-- e_sti_serial_number
-- e_cp1_3_ambiguous_identifier
-- e_sti_signature_algorithm
-- e_sti_extension_unknown
 - w_cp_1_3_subject_email
+- e_sti_subject_cn
+- e_cp1_3_subject_sn
+- e_cp1_3_ambiguous_identifier
+- e_sti_serial_number
+- e_sti_extension_unknown
+- e_sti_signature_algorithm
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 28/10/2022 at 10:33:25
+Generated: 28/10/2022 at 16:28:22

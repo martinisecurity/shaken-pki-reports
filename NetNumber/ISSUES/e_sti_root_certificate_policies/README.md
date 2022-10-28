@@ -22,4 +22,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN Root CA 1 | [view](../../CERTIFICATES/83319d7352105c9f04a6abbe72052c929cbdf6e2/README.md) |  |
 
 
-Generated: 28/10/2022 at 10:33:25
+Generated: 28/10/2022 at 16:28:22

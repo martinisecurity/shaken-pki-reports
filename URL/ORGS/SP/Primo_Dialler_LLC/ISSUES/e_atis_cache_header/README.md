@@ -13,5 +13,12 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
+### https://cdn.cnxcdn.com/shaken/45.crt
 
-Generated: 28/10/2022 at 10:31:55
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+| e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header has 'max-age' directive but it's value is less than 24 hours |
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+
+
+Generated: 28/10/2022 at 16:26:49

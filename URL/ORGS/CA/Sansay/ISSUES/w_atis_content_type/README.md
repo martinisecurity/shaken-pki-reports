@@ -144,6 +144,12 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 |------|--------|--------|---------|
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
+### https://cr.sansay.com/210J/order/205_210J_63
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+
 ### https://cr.sansay.com/258K_CERT
 
 | Code | Status | Source | Details |
@@ -151,6 +157,12 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.sansay.com/325B_20211101.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+
+### https://cr.sansay.com/382G_TERRANOVA_STIR_SHAKEN.crt
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
@@ -241,6 +253,18 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 ### https://cr.sansay.com/548J/order/165_548J_67
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+
+### https://cr.sansay.com/548J/order/167_548J_67
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+
+### https://cr.sansay.com/548J/order/168_548J_67
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
@@ -348,6 +372,12 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 |------|--------|--------|---------|
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
+### https://cr.sansay.com/920J/order/130_920J_66
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+
 ### https://cr.sansay.com/920J/order/89_920J_66
 
 | Code | Status | Source | Details |
@@ -444,6 +474,12 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 |------|--------|--------|---------|
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
+### https://cr.sansay.com/MagicJack_324E.crt
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+| w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+
 ### https://cr.sansay.com/Magna5_3849.crt
 
 | Code | Status | Source | Details |
@@ -461,9 +497,9 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
 | w_aits_pem_certificate_chain | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
+| e_http_status_200 | error | HTTP | HTTP response shall have StatusCode 200, but it is 404 Not Found |
 | e_atis_cache_header | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
-| e_http_status_200 | error | HTTP | HTTP response shall have StatusCode 200, but it is 404 Not Found |
 
 ### https://cr.sansay.com/MomentumTelecom_1417
 
@@ -574,4 +610,4 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | w_atis_content_type | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
 
-Generated: 28/10/2022 at 10:31:55
+Generated: 28/10/2022 at 16:26:49

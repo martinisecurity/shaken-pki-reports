@@ -49,6 +49,10 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 | error | CN=SHAKEN, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US | [view](../../CERTIFICATES/02a8317e417bc66baac5ec69fcc42e5a3613a834/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 | error | CN=SHAKEN, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US | [view](../../CERTIFICATES/3407ac0a1a3530ed984de90a1518de2b8bc1b13a/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 | error | CN=SHAKEN, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US | [view](../../CERTIFICATES/b9a2a1554c1e26638a56b319ee1aa6b2837fafbe/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
+| error | CN=SHAKEN, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US | [view](../../CERTIFICATES/76c2cdcc0b3359ce6c17967a59531b8e77bd207c/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
+| error | CN=SHAKEN, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US | [view](../../CERTIFICATES/e4c558f5a97eace49b6145b3a45a4b01127bc530/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
+| error | CN=SHAKEN, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US | [view](../../CERTIFICATES/3c6292efb9853fbb2d5185113edc44fefc4118b8/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
+| error | CN=SHAKEN, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US | [view](../../CERTIFICATES/39c9af12448ee055adf5c180d247cd08caac734a/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 
 ### CA Certificates
 
@@ -58,4 +62,4 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 28/10/2022 at 10:33:25
+Generated: 28/10/2022 at 16:28:22

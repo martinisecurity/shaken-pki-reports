@@ -2,7 +2,7 @@
 ## Peeringhub
 
 ### Certificate 417122a7bf47730e788f52241d189a83b05cedc9
-Tested At: 2022-10-28 10:32:20 +0000 UTC\
+Tested At: 2022-10-28 16:27:14 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 303 day(s)\
 Subject: CN=Teleinx SHAKEN 744J, O=Teleinx LLC, L=Chicago, ST=IL, C=US\
@@ -17,7 +17,7 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDGTCCAr6gAwIBAgIQ
 |------|------|--------|---------|
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_cp1_3_ambiguous_identifier | error | United States SHAKEN CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
-Generated: 28/10/2022 at 10:33:25
+Generated: 28/10/2022 at 16:28:22

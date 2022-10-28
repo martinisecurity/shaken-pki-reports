@@ -24,4 +24,4 @@ Description: STI certificates should contain a CertificatePolicies extension mar
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 28/10/2022 at 10:33:25
+Generated: 28/10/2022 at 16:28:22

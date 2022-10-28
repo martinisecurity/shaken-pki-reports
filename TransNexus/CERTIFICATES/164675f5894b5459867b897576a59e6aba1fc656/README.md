@@ -2,9 +2,9 @@
 ## TransNexus
 
 ### Certificate 164675f5894b5459867b897576a59e6aba1fc656
-Tested At: 2022-10-28 10:32:06 +0000 UTC\
+Tested At: 2022-10-28 16:27:00 +0000 UTC\
 Initial Validity Period: 60 day(s)\
-Remaining Validity Period: 34 day(s)\
+Remaining Validity Period: 33 day(s)\
 Subject: CN=SHAKEN 193E, OU=SHAKEN, O=8x8 Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US
 
@@ -16,7 +16,7 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC6TCCAo%2BgAwIBAg
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
-| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | e_incorrect_ku_encoding | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
+| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 28/10/2022 at 10:33:25
+Generated: 28/10/2022 at 16:28:22

@@ -4,21 +4,21 @@
 
 ### Leaf Certificates
 
-- Average validity span as of leaf certificates 104 days
-- Percentage of leaf certificates expiring in the next 30 days is 75.00%
-- Certificates with Errors: 76
-- Certificates with Warnings: 76
+- Average validity span as of leaf certificates 98 days
+- Percentage of leaf certificates expiring in the next 30 days is 76.83%
+- Certificates with Errors: 82
+- Certificates with Warnings: 82
 - Certificates with Notices: 0
 - Certificates with tests not executed as the requirements were Not Effective at issuance time: 0
 
 | Status | Code | Source | Instances |
 |--------|------|--------|-----------|
-| warn | [w_pki_subject_rdn_unknown](ISSUES/w_pki_subject_rdn_unknown/README.md#leaf-certificates) | SHAKEN PKI Best Practice | 76 |
-| error | [e_cp1_3_subject_sn](ISSUES/e_cp1_3_subject_sn/README.md#leaf-certificates) | United States SHAKEN CP | 76 |
-| error | [e_sti_certificate_policies](ISSUES/e_sti_certificate_policies/README.md#leaf-certificates) | ATIS-1000080 | 76 |
-| error | [e_cp1_3_ambiguous_identifier](ISSUES/e_cp1_3_ambiguous_identifier/README.md#leaf-certificates) | United States SHAKEN CP | 76 |
-| warn | [w_cp_1_3_subject_email](ISSUES/w_cp_1_3_subject_email/README.md#leaf-certificates) | United States SHAKEN CP | 35 |
-| error | [e_sti_subject_cn](ISSUES/e_sti_subject_cn/README.md#leaf-certificates) | ATIS-1000080 | 76 |
+| error | [e_sti_subject_cn](ISSUES/e_sti_subject_cn/README.md#leaf-certificates) | ATIS-1000080 | 82 |
+| error | [e_cp1_3_subject_sn](ISSUES/e_cp1_3_subject_sn/README.md#leaf-certificates) | United States SHAKEN CP | 82 |
+| warn | [w_cp_1_3_subject_email](ISSUES/w_cp_1_3_subject_email/README.md#leaf-certificates) | United States SHAKEN CP | 39 |
+| error | [e_cp1_3_ambiguous_identifier](ISSUES/e_cp1_3_ambiguous_identifier/README.md#leaf-certificates) | United States SHAKEN CP | 82 |
+| error | [e_sti_certificate_policies](ISSUES/e_sti_certificate_policies/README.md#leaf-certificates) | ATIS-1000080 | 82 |
+| warn | [w_pki_subject_rdn_unknown](ISSUES/w_pki_subject_rdn_unknown/README.md#leaf-certificates) | SHAKEN PKI Best Practice | 82 |
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.\
 \*\* 25 certificates skipped because they are currently expired.\
@@ -81,13 +81,17 @@
 | 21 Oct 22 02:07 UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | true | [view](CERTIFICATES/d97b36d2797cb4b5067b0c6a6bf660bc34c1408d/README.md) |
 | 24 Oct 22 01:52 UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | true | [view](CERTIFICATES/ce25f15061e2dea749adaef0f052f4994469c486/README.md) |
 | 24 Oct 22 16:25 UTC | SHAKEN Quality Voice & Data Inc. 548J | true | [view](CERTIFICATES/234394d42b2f264577cf8ba53c515205085ea962/README.md) |
+| 24 Oct 22 19:50 UTC | SHAKEN MagicJack 324E | true | [view](CERTIFICATES/e75ca28bdd122cf3b1f8720d52b73cc26ebaa8e6/README.md) |
 | 24 Oct 22 20:23 UTC | SHAKEN Arbeit 816J | true | [view](CERTIFICATES/3c57a7c13faaf7c741e563de98b02b118916d486/README.md) |
 | 24 Oct 22 21:11 UTC | SHAKEN Ytel Inc. 703J | true | [view](CERTIFICATES/fcf554450f39fbe029ccdd034d9070e3b4783c8a/README.md) |
 | 25 Oct 22 01:47 UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | true | [view](CERTIFICATES/80928cca9b6e8e2de10138480a5827d88624b8ac/README.md) |
 | 25 Oct 22 06:22 UTC | SHAKEN NTC International, INC 016K | true | [view](CERTIFICATES/6232068ab8e75570bd010619f5fd471b86fc5f14/README.md) |
+| 26 Oct 22 16:15 UTC | SHAKEN Quality Voice & Data Inc. 548J | true | [view](CERTIFICATES/65c37965feb40d58ef07e569462edbe0b1ac0940/README.md) |
+| 26 Oct 22 16:49 UTC | SHAKEN InteractiveTel, LLC 920J | true | [view](CERTIFICATES/614144186eaeba226f0bb178f18938b70d626a47/README.md) |
 | 26 Oct 22 22:10 UTC | SHAKEN Magna5, LLC 3849 | true | [view](CERTIFICATES/f297384ae418d711edb0b994a6a815f13aaa94be/README.md) |
 | 26 Oct 22 22:26 UTC | SHAKEN Broadband Dynamics LLC 583j | true | [view](CERTIFICATES/30717ae6361a27b9f1ebf7fbeb9624c427b46190/README.md) |
 | 26 Oct 22 22:40 UTC | SHAKEN Consolidated Communications 5113 | true | [view](CERTIFICATES/59810f4e4c1fa44d2375dd6e3db1f82f6620f4b1/README.md) |
+| 26 Oct 22 22:53 UTC | SHAKEN Terra Nova Telecom 382G | true | [view](CERTIFICATES/06732ebb85199cedeaa6c976524a8a005a7ea183/README.md) |
 | 27 Oct 22 00:35 UTC | SHAKEN Touchtone 683A | true | [view](CERTIFICATES/2fd4e91f0fb6098760d93b0f943266dca8d42c97/README.md) |
 | 27 Oct 22 00:36 UTC | SHAKEN Apeiron Systems 012J | true | [view](CERTIFICATES/824b3f223bd6cd5ec9f7748528dcc903eb8cd2db/README.md) |
 | 27 Oct 22 00:36 UTC | SHAKEN Fonative, Inc. 684J | true | [view](CERTIFICATES/94146e95b4fb0bb0aa8b268bac2f9fec241edecb/README.md) |
@@ -103,6 +107,8 @@
 | 27 Oct 22 00:42 UTC | SHAKEN Matrix 9451 | true | [view](CERTIFICATES/764fa97f28f00dfa35b84c10855caebe4b14aa58/README.md) |
 | 27 Oct 22 00:43 UTC | SHAKEN Matrix 7379 | true | [view](CERTIFICATES/87df82fdcaa50c2205c4e3960534360594c9cf89/README.md) |
 | 27 Oct 22 00:43 UTC | SHAKEN PNG Telecommunications Inc 3395 | true | [view](CERTIFICATES/992de6f528e6b90ab11e952b9d0ef618e8086cbc/README.md) |
+| 27 Oct 22 01:37 UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | true | [view](CERTIFICATES/e578f9ad8513316e6e6a4990d92fa8c01abc5315/README.md) |
+| 27 Oct 22 16:10 UTC | SHAKEN Quality Voice & Data Inc. 548J | true | [view](CERTIFICATES/8170c29c0a56fb452d7fcdcd00d48990c49b4676/README.md) |
 | 27 Oct 22 18:39 UTC | SHAKEN Primo Dialler LLC 249K | true | [view](CERTIFICATES/ed332e384c67663b2e5c9132a45f6dcca9bce9a5/README.md) |
 
 \* For issues relating to this CAs certificate repositories see this [report](URL/README.md).
@@ -116,21 +122,21 @@
 
 | Status | Code | Source | Instances |
 |--------|------|--------|-----------|
-| not effective | [e_sti_basic_constraints](ISSUES/e_sti_basic_constraints/README.md#ca-certificates) | ATIS-1000080 | 1 |
-| not effective | [e_sti_ca_subject_cn](ISSUES/e_sti_ca_subject_cn/README.md#ca-certificates) | ATIS-1000080 | 1 |
 | not effective | [e_sti_ca_serial_number](ISSUES/e_sti_ca_serial_number/README.md#ca-certificates) | ATIS-1000080 | 1 |
-| not effective | [e_sti_ca_signature_algorithm](ISSUES/e_sti_ca_signature_algorithm/README.md#ca-certificates) | ATIS-1000080 | 1 |
-| notice | [n_pki_ca_key_usage](ISSUES/n_pki_ca_key_usage/README.md#ca-certificates) | SHAKEN PKI Best Practice | 1 |
-| not effective | [e_sti_ca_version](ISSUES/e_sti_ca_version/README.md#ca-certificates) | ATIS-1000080 | 1 |
-| not effective | [e_cp1_3_ca_key_usage_crl_sign](ISSUES/e_cp1_3_ca_key_usage_crl_sign/README.md#ca-certificates) | United States SHAKEN CP | 1 |
-| not effective | [e_sti_root_extension_unknown](ISSUES/e_sti_root_extension_unknown/README.md#ca-certificates) | ATIS-1000080 | 1 |
-| not effective | [e_sti_ca_key_usage](ISSUES/e_sti_ca_key_usage/README.md#ca-certificates) | ATIS-1000080 | 1 |
-| not effective | [e_sti_ca_subject_public_key](ISSUES/e_sti_ca_subject_public_key/README.md#ca-certificates) | ATIS-1000080 | 1 |
 | warn | [w_pki_ca_subject_rdn_unknown](ISSUES/w_pki_ca_subject_rdn_unknown/README.md#ca-certificates) | SHAKEN PKI Best Practice | 2 |
-| not effective | [e_sti_ca_subject](ISSUES/e_sti_ca_subject/README.md#ca-certificates) | ATIS-1000080 | 1 |
-| not effective | [e_sti_root_certificate_policies](ISSUES/e_sti_root_certificate_policies/README.md#ca-certificates) | ATIS-1000080 | 1 |
-| not effective | [e_sti_ca_issuer_dn](ISSUES/e_sti_ca_issuer_dn/README.md#ca-certificates) | ATIS-1000080 | 1 |
+| notice | [n_pki_ca_key_usage](ISSUES/n_pki_ca_key_usage/README.md#ca-certificates) | SHAKEN PKI Best Practice | 1 |
+| not effective | [e_sti_ca_subject_cn](ISSUES/e_sti_ca_subject_cn/README.md#ca-certificates) | ATIS-1000080 | 1 |
+| not effective | [e_sti_ca_subject_public_key](ISSUES/e_sti_ca_subject_public_key/README.md#ca-certificates) | ATIS-1000080 | 1 |
 | not effective | [e_sti_ca_subject_key_identifier](ISSUES/e_sti_ca_subject_key_identifier/README.md#ca-certificates) | ATIS-1000080 | 1 |
+| not effective | [e_sti_ca_issuer_dn](ISSUES/e_sti_ca_issuer_dn/README.md#ca-certificates) | ATIS-1000080 | 1 |
+| not effective | [e_sti_ca_signature_algorithm](ISSUES/e_sti_ca_signature_algorithm/README.md#ca-certificates) | ATIS-1000080 | 1 |
+| not effective | [e_cp1_3_ca_key_usage_crl_sign](ISSUES/e_cp1_3_ca_key_usage_crl_sign/README.md#ca-certificates) | United States SHAKEN CP | 1 |
+| not effective | [e_sti_ca_subject](ISSUES/e_sti_ca_subject/README.md#ca-certificates) | ATIS-1000080 | 1 |
+| not effective | [e_sti_ca_version](ISSUES/e_sti_ca_version/README.md#ca-certificates) | ATIS-1000080 | 1 |
+| not effective | [e_sti_root_extension_unknown](ISSUES/e_sti_root_extension_unknown/README.md#ca-certificates) | ATIS-1000080 | 1 |
+| not effective | [e_sti_basic_constraints](ISSUES/e_sti_basic_constraints/README.md#ca-certificates) | ATIS-1000080 | 1 |
+| not effective | [e_sti_root_certificate_policies](ISSUES/e_sti_root_certificate_policies/README.md#ca-certificates) | ATIS-1000080 | 1 |
+| not effective | [e_sti_ca_key_usage](ISSUES/e_sti_ca_key_usage/README.md#ca-certificates) | ATIS-1000080 | 1 |
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.\
 \*\* 2 certificates skipped because they are currently expired.\
@@ -143,4 +149,4 @@
 | 21 Aug 20 01:22 UTC | SHAKEN Sansay Root CA US | true | [view](CERTIFICATES/04f4ce72f3872ae25e9a1ca055747240370ff404/README.md) |
 | 02 Sep 22 20:53 UTC | SHAKEN Sansay Intermediate CA US WEST 1 | true | [view](CERTIFICATES/ccd437835c59c46742e20ffa132954e2127fbc42/README.md) |
 
-Generated: 28/10/2022 at 10:33:25
+Generated: 28/10/2022 at 16:28:22

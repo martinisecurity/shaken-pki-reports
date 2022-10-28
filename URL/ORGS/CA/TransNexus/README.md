@@ -89,6 +89,13 @@
 
 5 tests were ran and no warning or error level issues were found
 
+### https://certificates.clearip.com/0b98ecf4-0a43-4b89-8fc0-8e029d8258fa/bd16518450fdc9b0e55bc59cd934697c.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
 ### https://certificates.clearip.com/0b98ecf4-0a43-4b89-8fc0-8e029d8258fa/c2c3d7ec98bdd25d87e7944fbce62f43.pem
 
 | Code | Status | Source | Details |
@@ -145,6 +152,13 @@
 
 5 tests were ran and no warning or error level issues were found
 
+### https://certificates.clearip.com/0c4e235f-3e3e-4dd3-bbfc-2f15badab180/b6892033e7e35d5357abf1a641073bf6.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
 ### https://certificates.clearip.com/0c4e235f-3e3e-4dd3-bbfc-2f15badab180/df9628ea058b94fa4b83e51d15bffb80.pem
 
 | Code | Status | Source | Details |
@@ -160,6 +174,13 @@
 5 tests were ran and no warning or error level issues were found
 
 ### https://certificates.clearip.com/0ed28b24-35cd-4fbe-82b2-ae7b4e44f3d3/e096c22db9c707afa3ea6bcd8354432f.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
+### https://certificates.clearip.com/11124177-79f3-48b2-867a-386d4dc61c99/467ce6407e421d4db6b024d99ba3d4ea.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
@@ -237,6 +258,13 @@
 5 tests were ran and no warning or error level issues were found
 
 ### https://certificates.clearip.com/2185f3c0-09fe-4171-ac47-5f28eb0ef48e/71130952ab4a6116fcb4d9e691dcd07b.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
+### https://certificates.clearip.com/2185f3c0-09fe-4171-ac47-5f28eb0ef48e/8d05a8854c3957918f1f16bfe260b259.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
@@ -397,6 +425,13 @@
 
 5 tests were ran and no warning or error level issues were found
 
+### https://certificates.clearip.com/2e3276e5-a5c5-43c7-ae11-3a226bf1b5ed/8cf027bfba0180817348b19dfc538290.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
 ### https://certificates.clearip.com/2e3276e5-a5c5-43c7-ae11-3a226bf1b5ed/97da34bb46dd55bad1ebd901ba4dfe87.pem
 
 | Code | Status | Source | Details |
@@ -439,6 +474,13 @@
 
 5 tests were ran and no warning or error level issues were found
 
+### https://certificates.clearip.com/36952c34-78d8-4c32-9499-188a418f31ba/292c05077b7b6e80288715aea31e3fa1.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
 ### https://certificates.clearip.com/36952c34-78d8-4c32-9499-188a418f31ba/4de9a24de596a626dd4a02acbebbfed7.pem
 
 | Code | Status | Source | Details |
@@ -461,6 +503,13 @@
 5 tests were ran and no warning or error level issues were found
 
 ### https://certificates.clearip.com/384afe84-56e7-4f0a-a8f8-9be6e100ab3e/86041b4ca313a03fab1401d13a820e26.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
+### https://certificates.clearip.com/384afe84-56e7-4f0a-a8f8-9be6e100ab3e/bd57ebc311aedc3a3d6e9e257b5f542c.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
@@ -551,6 +600,13 @@
 
 5 tests were ran and no warning or error level issues were found
 
+### https://certificates.clearip.com/4ba6f296-2d7c-42c2-8fe4-12b74f5076df/8624c57cb5bae15eefe0c18490948d41.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
 ### https://certificates.clearip.com/4ba6f296-2d7c-42c2-8fe4-12b74f5076df/bbb2ce089e69ca426c4375841dad4178.pem
 
 | Code | Status | Source | Details |
@@ -594,6 +650,13 @@
 5 tests were ran and no warning or error level issues were found
 
 ### https://certificates.clearip.com/51a37c7a-5af2-439d-94ce-677fa750ee2f/46c406131ba5bd50525f194f3dc14485.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
+### https://certificates.clearip.com/51a37c7a-5af2-439d-94ce-677fa750ee2f/4ed1cdeae5e330e85aa1a08b0499c57e.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
@@ -649,6 +712,13 @@
 
 5 tests were ran and no warning or error level issues were found
 
+### https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/61f4b2f02a3fde483e0a75ab26c4524b.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
 ### https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/633629e02b9ac5be93e30c1af326d37e.pem
 
 | Code | Status | Source | Details |
@@ -691,6 +761,13 @@
 
 5 tests were ran and no warning or error level issues were found
 
+### https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/ac538bf559c04fd9143ab4aa59589b1c.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
 ### https://certificates.clearip.com/5a565c0f-433a-4bce-b57c-868e3e7b3002/128a99f55845a19f6ec13f5c4c802b52.pem
 
 | Code | Status | Source | Details |
@@ -720,6 +797,13 @@
 5 tests were ran and no warning or error level issues were found
 
 ### https://certificates.clearip.com/5a565c0f-433a-4bce-b57c-868e3e7b3002/dbae90978ee5b2d8c6a8edf9d5ece370.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
+### https://certificates.clearip.com/5f7c135d-caf3-4661-abb1-d1720e7872e2/06bce0219cbd2420e11523954915f6ef.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
@@ -880,6 +964,13 @@
 
 5 tests were ran and no warning or error level issues were found
 
+### https://certificates.clearip.com/88814589-ad88-4c53-b3c3-47f8334afb98/61db9dd902bd71a164aa5c3770731009.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
 ### https://certificates.clearip.com/88814589-ad88-4c53-b3c3-47f8334afb98/65b9c8389b135d2db8bd95e6d1e8c36e.pem
 
 | Code | Status | Source | Details |
@@ -1020,6 +1111,13 @@
 
 5 tests were ran and no warning or error level issues were found
 
+### https://certificates.clearip.com/a429df3a-62d2-4851-90c8-fc446859fb08/615bf0d5dc2548fbf2877af69489316b.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
 ### https://certificates.clearip.com/a429df3a-62d2-4851-90c8-fc446859fb08/6a5c31c11c8abcf08896a7045502d541.pem
 
 | Code | Status | Source | Details |
@@ -1069,7 +1167,21 @@
 
 5 tests were ran and no warning or error level issues were found
 
+### https://certificates.clearip.com/b66a7496-cdd4-46e3-b219-cb0ecdc80d22/dd9ef96fbf98f0935e2baf5a0813aabc.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
 ### https://certificates.clearip.com/b66a7496-cdd4-46e3-b219-cb0ecdc80d22/f10a6e2814430717be9d18e253b564a3.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
+### https://certificates.clearip.com/b7343686-5ed8-402c-89a3-8bf1a3d48975/1b6c455dcc3cd7586f99609b4a7291af.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
@@ -1140,6 +1252,13 @@
 5 tests were ran and no warning or error level issues were found
 
 ### https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/df27796e2058ebd3153fb6dd48e8ce57.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
+### https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/e054aab41422166cb18f62755c06360b.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
@@ -1223,6 +1342,13 @@
 
 5 tests were ran and no warning or error level issues were found
 
+### https://certificates.clearip.com/d3d6dbfc-2914-49c7-8f47-d0aa5bd5d764/6e0df5aab72d070417858423b3f50a35.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
 ### https://certificates.clearip.com/d3d6dbfc-2914-49c7-8f47-d0aa5bd5d764/8cb0dce87d05b9515483c81f65663c96.pem
 
 | Code | Status | Source | Details |
@@ -1245,6 +1371,13 @@
 5 tests were ran and no warning or error level issues were found
 
 ### https://certificates.clearip.com/d673a99f-ad2d-4256-8d65-e20ff91adba4/8140550d516aca64f042df75c37894ed.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
+### https://certificates.clearip.com/d7bfa171-ff4f-483d-849b-3f987c919d43/d231dd34f8310b359216e546f8265010.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
@@ -1294,6 +1427,13 @@
 5 tests were ran and no warning or error level issues were found
 
 ### https://certificates.clearip.com/e9497931-96b3-4ff8-8306-1b1273847a4d/59f0afb4d62df958645c6aa48d62462e.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
+### https://certificates.clearip.com/e9497931-96b3-4ff8-8306-1b1273847a4d/664da3349fd259a9a51e89e03db614e0.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
@@ -1391,6 +1531,13 @@
 
 5 tests were ran and no warning or error level issues were found
 
+### https://certificates.clearip.com/f8a68e44-8fb0-4f28-b533-c4df27ed8e1b/cdd3b511b36a1e55582d685e00872a44.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
 ### https://certificates.clearip.com/f8a68e44-8fb0-4f28-b533-c4df27ed8e1b/cfc4e5aa3473beac73e5f34be1ae6593.pem
 
 | Code | Status | Source | Details |
@@ -1441,6 +1588,13 @@
 5 tests were ran and no warning or error level issues were found
 
 ### https://certificates.clearip.com/fa6a5cd3-a6c2-4c98-9995-b87249365948/64459e329bf595c2fc75b7caf0f2709b.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
+### https://certificates.clearip.com/fa6a5cd3-a6c2-4c98-9995-b87249365948/a3af8e35746ebb41aac8afeb72e0d244.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
@@ -1595,6 +1749,13 @@
 5 tests were ran and no warning or error level issues were found
 
 ### https://certificates.transnexus.com/0172/d1be3f78-bfc4-426b-8bd8-28bfd3a114db.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
+### https://certificates.transnexus.com/066K/8d407530-1355-4576-8fa1-d7ad1efe4299.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
@@ -1763,6 +1924,13 @@
 5 tests were ran and no warning or error level issues were found
 
 ### https://certificates.transnexus.com/551G/ad6412b9-b448-4b1a-8e95-d00b1b0a6274.pem
+
+| Code | Status | Source | Details |
+|------|--------|--------|---------|
+
+5 tests were ran and no warning or error level issues were found
+
+### https://certificates.transnexus.com/551G/cda98320-b55d-4677-b2f3-771ab42f88f2.pem
 
 | Code | Status | Source | Details |
 |------|--------|--------|---------|
@@ -2029,4 +2197,4 @@
 5 tests were ran and no warning or error level issues were found
 
 
-Generated: 28/10/2022 at 10:31:55
+Generated: 28/10/2022 at 16:26:49
