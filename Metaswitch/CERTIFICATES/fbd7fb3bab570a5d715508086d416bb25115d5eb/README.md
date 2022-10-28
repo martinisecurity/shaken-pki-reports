@@ -2,7 +2,7 @@
 ## Metaswitch
 
 ### Certificate fbd7fb3bab570a5d715508086d416bb25115d5eb
-Tested At: 2022-10-27 22:44:47 +0000 UTC\
+Tested At: 2022-10-28 10:33:22 +0000 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 437 day(s)\
 Subject: CN=Call48 SHAKEN Cert 505J, O=Call48, C=US\
@@ -20,14 +20,14 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICRzCCAe2gAwIBAgIQ
 
 ### Not Effective
 
-- e_cp1_3_ambiguous_identifier
-- e_sti_serial_number
-- e_sti_extension_unknown
-- e_sti_subject_cn
-- e_cp1_3_subject_sn
 - w_cp_1_3_subject_email
 - e_sti_signature_algorithm
+- e_sti_subject_cn
+- e_cp1_3_subject_sn
+- e_sti_extension_unknown
+- e_sti_serial_number
+- e_cp1_3_ambiguous_identifier
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 22:44:50
+Generated: 28/10/2022 at 10:33:25

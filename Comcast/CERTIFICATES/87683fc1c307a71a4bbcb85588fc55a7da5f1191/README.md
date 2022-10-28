@@ -2,7 +2,7 @@
 ## Comcast
 
 ### Certificate 87683fc1c307a71a4bbcb85588fc55a7da5f1191
-Tested At: 2022-10-27 22:43:35 +0000 UTC\
+Tested At: 2022-10-28 10:32:39 +0000 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 11 day(s)\
 Subject: CN=SHAKEN, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US\
@@ -15,12 +15,12 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICVzCCAf2gAwIBAgII
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_sti_subject_key_identifier | error | ATIS-1000080 | STI certificates shall contain a Subject Key Identifier extension |
-| w_ext_subject_key_identifier_missing_sub_cert | warn | RFC5280 |  |
+| w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
+| e_sti_subject_key_identifier | error | ATIS-1000080 | STI certificates shall contain a Subject Key Identifier extension |
 | e_sti_subject_cn | error | ATIS-1000080 | Common name shall contain the text string 'SHAKEN 7610' |
 | e_cp1_3_ambiguous_identifier | error | United States SHAKEN CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
-| w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| w_ext_subject_key_identifier_missing_sub_cert | warn | RFC5280 |  |
 
-Generated: 27/10/2022 at 22:44:50
+Generated: 28/10/2022 at 10:33:25

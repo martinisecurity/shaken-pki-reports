@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate 655d6fe195ecd7140c72c94ca361ad4cb893a1cf
-Tested At: 2022-10-27 22:43:23 +0000 UTC\
+Tested At: 2022-10-28 10:32:30 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 323 day(s)\
 Subject: CN=SHAKEN 292K, O=Falcon Endeavors, C=US\
@@ -17,4 +17,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDBDCCAqqgAwIBAgIU
 |------|------|--------|---------|
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 27/10/2022 at 22:44:50
+Generated: 28/10/2022 at 10:33:25

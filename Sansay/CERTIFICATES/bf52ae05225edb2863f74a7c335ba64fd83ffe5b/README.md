@@ -2,9 +2,9 @@
 ## Sansay
 
 ### Certificate bf52ae05225edb2863f74a7c335ba64fd83ffe5b
-Tested At: 2022-10-27 22:44:26 +0000 UTC\
+Tested At: 2022-10-28 10:33:00 +0000 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: 7 day(s)\
+Remaining Validity Period: 6 day(s)\
 Subject: emailAddress=voiceops@clearfly.net, CN=SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J, OU=NOC, O=Greenfly Networks Inc dba Clearfly Communications, ST=Montana, C=US, emailAddress=voiceops@clearfly.net\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US
 
@@ -16,10 +16,10 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIID6zCCA5CgAwIBAgIU
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
-| w_cp_1_3_subject_email | warn | United States SHAKEN CP | Email addresses are not allowed as the CP does not specify how to validate them |
 | e_cp1_3_ambiguous_identifier | error | United States SHAKEN CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| w_cp_1_3_subject_email | warn | United States SHAKEN CP | Email addresses are not allowed as the CP does not specify how to validate them |
 | e_sti_subject_cn | error | ATIS-1000080 | Common name shall contain the text string 'SHAKEN 210J' |
+| w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
-Generated: 27/10/2022 at 22:44:50
+Generated: 28/10/2022 at 10:33:25

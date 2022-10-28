@@ -2,7 +2,7 @@
 ## Metaswitch
 
 ### Certificate ff4fd6ee8ba51ca3158a8f6e11a2d6ddef2effb7
-Tested At: 2022-10-27 22:44:49 +0000 UTC\
+Tested At: 2022-10-28 10:33:24 +0000 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 499 day(s)\
 Subject: CN=Allstream SHAKEN cert 4130, O=Allstream Business US\\, LLC, L=Vancouver, ST=WA, C=US\
@@ -21,14 +21,14 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICgDCCAiWgAwIBAgIQ
 
 ### Not Effective
 
-- e_sti_subject_cn
 - e_cp1_3_ambiguous_identifier
-- e_sti_serial_number
-- e_cp1_3_subject_sn
-- e_sti_extension_unknown
 - w_cp_1_3_subject_email
+- e_cp1_3_subject_sn
 - e_sti_signature_algorithm
+- e_sti_extension_unknown
+- e_sti_subject_cn
+- e_sti_serial_number
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 22:44:50
+Generated: 28/10/2022 at 10:33:25

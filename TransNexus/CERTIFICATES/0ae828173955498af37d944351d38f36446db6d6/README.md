@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate 0ae828173955498af37d944351d38f36446db6d6
-Tested At: 2022-10-27 22:42:56 +0000 UTC\
+Tested At: 2022-10-28 10:32:01 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 287 day(s)\
 Subject: CN=SHAKEN 073H, OU=SHAKEN, O=Telnyx LCC, C=US\
@@ -15,8 +15,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC7DCCApKgAwIBAgIQ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| e_incorrect_ku_encoding | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
-| e_incorrect_ku_encoding | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
-Generated: 27/10/2022 at 22:44:50
+Generated: 28/10/2022 at 10:33:25

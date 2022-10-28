@@ -2,9 +2,9 @@
 ## TransNexus
 
 ### Certificate 01505cd524c060dffca87d0b043e0be889026713
-Tested At: 2022-10-27 22:42:52 +0000 UTC\
+Tested At: 2022-10-28 10:31:57 +0000 UTC\
 Initial Validity Period: 124 day(s)\
-Remaining Validity Period: 68 day(s)\
+Remaining Validity Period: 67 day(s)\
 Subject: CN=SHAKEN 6628, OU=SHAKEN, O=Merryville Investments LTD Inc dba ClarityTel, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US
 
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDDjCCArWgAwIBAgIQ
 | w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 27/10/2022 at 22:44:50
+Generated: 28/10/2022 at 10:33:25

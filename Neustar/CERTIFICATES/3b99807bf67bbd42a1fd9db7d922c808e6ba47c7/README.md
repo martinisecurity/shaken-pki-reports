@@ -2,9 +2,9 @@
 ## Neustar
 
 ### Certificate 3b99807bf67bbd42a1fd9db7d922c808e6ba47c7
-Tested At: 2022-10-27 22:43:12 +0000 UTC\
+Tested At: 2022-10-28 10:32:18 +0000 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 154 day(s)\
+Remaining Validity Period: 153 day(s)\
 Subject: CN=SHAKEN 5447, O=Access One Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US
 
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2FzCCAqWgAwIBAg
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 27/10/2022 at 22:44:50
+Generated: 28/10/2022 at 10:33:25

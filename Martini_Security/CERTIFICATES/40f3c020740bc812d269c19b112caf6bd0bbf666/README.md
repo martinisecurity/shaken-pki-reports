@@ -2,9 +2,9 @@
 ## Martini Security
 
 ### Certificate 40f3c020740bc812d269c19b112caf6bd0bbf666
-Tested At: 2022-10-27 22:43:13 +0000 UTC\
+Tested At: 2022-10-28 10:32:19 +0000 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: 62 day(s)\
+Remaining Validity Period: 61 day(s)\
 Subject: O=ACS Business Systems\\, Inc., C=US, serialNumber=26B223248528C08FD107CA236F21268A, CN=SHAKEN 073K\
 Issuer: CN=Martini Security SHAKEN G1, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US
 
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDJjCCAs2gAwIBAgIU
 
 152 tests were ran and no warning or error level issues were found
 
-Generated: 27/10/2022 at 22:44:50
+Generated: 28/10/2022 at 10:33:25

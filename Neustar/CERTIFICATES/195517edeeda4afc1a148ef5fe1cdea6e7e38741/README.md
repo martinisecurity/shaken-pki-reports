@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate 195517edeeda4afc1a148ef5fe1cdea6e7e38741
-Tested At: 2022-10-27 22:43:02 +0000 UTC\
+Tested At: 2022-10-28 10:32:07 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 240 day(s)\
 Subject: CN=SHAKEN 067K, O=Junction Networks Inc, C=US\
@@ -15,8 +15,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDBjCCAqygAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_sti_extension_unknown | error | ATIS-1000080 | STI certificate shall not include extensions that are not specified |
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| e_sti_extension_unknown | error | ATIS-1000080 | STI certificate shall not include extensions that are not specified |
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
-Generated: 27/10/2022 at 22:44:50
+Generated: 28/10/2022 at 10:33:25

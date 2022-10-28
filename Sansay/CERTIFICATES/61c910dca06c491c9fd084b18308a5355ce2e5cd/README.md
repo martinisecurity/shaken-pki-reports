@@ -2,7 +2,7 @@
 ## Sansay
 
 ### Certificate 61c910dca06c491c9fd084b18308a5355ce2e5cd
-Tested At: 2022-10-27 22:43:22 +0000 UTC\
+Tested At: 2022-10-28 10:32:29 +0000 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 13 day(s)\
 Subject: emailAddress=iconectiv-hmc@hostmycalls.com, CN=SHAKEN IPSBS Managed Services LLC 828J, OU=NOC, O=IPSBS Managed Services LLC, ST=Tennessee, C=US, emailAddress=iconectiv-hmc@hostmycalls.com\
@@ -16,10 +16,10 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDxTCCA2ygAwIBAgIU
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | e_cp1_3_ambiguous_identifier | error | United States SHAKEN CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| e_sti_subject_cn | error | ATIS-1000080 | Common name shall contain the text string 'SHAKEN 828J' |
-| e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | w_cp_1_3_subject_email | warn | United States SHAKEN CP | Email addresses are not allowed as the CP does not specify how to validate them |
-| w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| e_sti_subject_cn | error | ATIS-1000080 | Common name shall contain the text string 'SHAKEN 828J' |
 
-Generated: 27/10/2022 at 22:44:50
+Generated: 28/10/2022 at 10:33:25

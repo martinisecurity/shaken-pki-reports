@@ -2,7 +2,7 @@
 ## Sansay
 
 ### Certificate a92ee6711a571645b8822e074d96d38b501e493d
-Tested At: 2022-10-27 22:44:17 +0000 UTC\
+Tested At: 2022-10-28 10:32:50 +0000 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 16 day(s)\
 Subject: emailAddress=kelsey@qualityvoicedata.com, CN=SHAKEN Quality Voice & Data Inc. 548J, OU=Quality Voice & Data, O=Quality Voice & Data Inc., ST=Nebraska, C=US, emailAddress=kelsey@qualityvoicedata.com\
@@ -15,11 +15,11 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIID0jCCA3igAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_cp1_3_ambiguous_identifier | error | United States SHAKEN CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| w_cp_1_3_subject_email | warn | United States SHAKEN CP | Email addresses are not allowed as the CP does not specify how to validate them |
 | w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | e_sti_subject_cn | error | ATIS-1000080 | Common name shall contain the text string 'SHAKEN 548J' |
+| e_cp1_3_ambiguous_identifier | error | United States SHAKEN CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| w_cp_1_3_subject_email | warn | United States SHAKEN CP | Email addresses are not allowed as the CP does not specify how to validate them |
+| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 27/10/2022 at 22:44:50
+Generated: 28/10/2022 at 10:33:25

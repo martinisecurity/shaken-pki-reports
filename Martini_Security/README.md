@@ -57,4 +57,4 @@
 | 03 May 22 15:41 UTC | Martini Security SHAKEN G1 | true | [view](CERTIFICATES/0fe086f321e93ca9ae08a19a89bf9049b7625fcf/README.md) |
 | 02 Oct 22 10:40 UTC | Martini Security SHAKEN G2 | true | [view](CERTIFICATES/6af848efe4c680e44114ee32350826704eca8135/README.md) |
 
-Generated: 27/10/2022 at 22:44:50
+Generated: 28/10/2022 at 10:33:25

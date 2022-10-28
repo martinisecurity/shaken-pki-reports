@@ -104,6 +104,7 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 | error | CN=SHAKEN 219K, O=Avaya Cloud Inc, C=US | [view](../../CERTIFICATES/d0133e1ece3d41e56d288b90eb8c9335ec24142e/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | CN=ATT SHAKEN 4036, OU=AT&T Services\\, Inc., O=ATT SHAKEN E-E, L=Dallas, ST=Texas, C=US | [view](../../CERTIFICATES/baa252858dcd14844f2871eb9b93d60af3692943/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | CN=SHAKEN 500J, O=GoTo Communications Inc, C=US | [view](../../CERTIFICATES/eacc4f92800aed1182716331564620b5f6d58106/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| error | CN=SHAKEN 5606, O=Charter Communications Inc SHAKEN 5606, C=US | [view](../../CERTIFICATES/e370c45f7048a9986af9a3db5183307c2053c976/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | CN=SHAKEN 707J, O=TextNow Inc, C=CA | [view](../../CERTIFICATES/01e985113cfde1adfb8122df529c2bae0301fac2/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | CN=SHAKEN 292K, O=Falcon Endeavors, C=US | [view](../../CERTIFICATES/655d6fe195ecd7140c72c94ca361ad4cb893a1cf/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | CN=SHAKEN 770J, O=Fuze Inc, C=US | [view](../../CERTIFICATES/ed3545f28b8f2116bd00d59d4635fe94fe65183f/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
@@ -116,4 +117,4 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 27/10/2022 at 22:44:50
+Generated: 28/10/2022 at 10:33:25

@@ -23,4 +23,4 @@ no warning, or error, or not effective date level issues were found
 | warn | CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US | [view](../../CERTIFICATES/df7d871ff60d213820a96308346eda870d6e8ed2/README.md) | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 27/10/2022 at 22:44:50
+Generated: 28/10/2022 at 10:33:25

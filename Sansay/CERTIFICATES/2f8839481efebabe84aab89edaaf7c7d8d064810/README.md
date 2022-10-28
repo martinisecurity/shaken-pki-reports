@@ -2,7 +2,7 @@
 ## Sansay
 
 ### Certificate 2f8839481efebabe84aab89edaaf7c7d8d064810
-Tested At: 2022-10-27 22:43:09 +0000 UTC\
+Tested At: 2022-10-28 10:32:15 +0000 UTC\
 Initial Validity Period: 180 day(s)\
 Remaining Validity Period: 164 day(s)\
 Subject: CN=SHAKEN Inventive Labs Corp 649J, OU=NOC, O=Inventive Labs Corp, ST=Colorado, C=US\
@@ -21,4 +21,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC2jCCAoCgAwIBAgIU
 | e_sti_subject_cn | error | ATIS-1000080 | Common name shall contain the text string 'SHAKEN 649J' |
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
-Generated: 27/10/2022 at 22:44:50
+Generated: 28/10/2022 at 10:33:25

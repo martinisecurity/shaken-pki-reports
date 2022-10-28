@@ -2,9 +2,9 @@
 ## Metaswitch
 
 ### Certificate 9320f7adbea7bb821422b21b229baaef4ef47c11
-Tested At: 2022-10-27 22:43:40 +0000 UTC\
+Tested At: 2022-10-28 10:32:44 +0000 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 514 day(s)\
+Remaining Validity Period: 513 day(s)\
 Subject: CN=Cspire SHAKEN Cert 6581, O=Cspire, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1
 
@@ -15,19 +15,19 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICRjCCAe2gAwIBAgIQ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_sti_issuer_dn | error | ATIS-1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 | e_sti_key_usage | error | ATIS-1000080 | The Key Usage extension shall contain a single key usage value of digitalSignature |
+| e_sti_issuer_dn | error | ATIS-1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 
 ### Not Effective
 
+- w_cp_1_3_subject_email
 - e_cp1_3_ambiguous_identifier
-- e_sti_extension_unknown
-- e_sti_serial_number
 - e_sti_signature_algorithm
 - e_cp1_3_subject_sn
-- w_cp_1_3_subject_email
+- e_sti_extension_unknown
+- e_sti_serial_number
 - e_sti_subject_cn
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 22:44:50
+Generated: 28/10/2022 at 10:33:25

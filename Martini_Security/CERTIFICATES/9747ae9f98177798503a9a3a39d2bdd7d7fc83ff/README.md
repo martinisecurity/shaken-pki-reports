@@ -2,9 +2,9 @@
 ## Martini Security
 
 ### Certificate 9747ae9f98177798503a9a3a39d2bdd7d7fc83ff
-Tested At: 2022-10-27 22:43:41 +0000 UTC\
+Tested At: 2022-10-28 10:32:45 +0000 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: 61 day(s)\
+Remaining Validity Period: 60 day(s)\
 Subject: O=LOW LATENCY COMMUNICATIONS LLC, C=US, serialNumber=455A8164FA26EF1FB3A14C431883438D, CN=SHAKEN 709J\
 Issuer: CN=Martini Security SHAKEN G1, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US
 
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDKjCCAtGgAwIBAgIU
 
 152 tests were ran and no warning or error level issues were found
 
-Generated: 27/10/2022 at 22:44:50
+Generated: 28/10/2022 at 10:33:25

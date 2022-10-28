@@ -2,7 +2,7 @@
 ## Sansay
 
 ### Certificate 4627f95dd2ca4c2d4d33dd81994a19375739171c
-Tested At: 2022-10-27 22:43:15 +0000 UTC\
+Tested At: 2022-10-28 10:32:21 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 349 day(s)\
 Subject: CN=SHAKEN Carrier One Inc. 705J, OU=Voice NOC, O=Carrier One Inc., ST=Wyoming, C=US\
@@ -21,4 +21,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC2jCCAn%2BgAwIBAg
 | e_cp1_3_ambiguous_identifier | error | United States SHAKEN CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 27/10/2022 at 22:44:50
+Generated: 28/10/2022 at 10:33:25

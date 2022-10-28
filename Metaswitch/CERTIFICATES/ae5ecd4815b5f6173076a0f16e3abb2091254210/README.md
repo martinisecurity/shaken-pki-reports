@@ -2,7 +2,7 @@
 ## Metaswitch
 
 ### Certificate ae5ecd4815b5f6173076a0f16e3abb2091254210
-Tested At: 2022-10-27 22:44:19 +0000 UTC\
+Tested At: 2022-10-28 10:32:52 +0000 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 953 day(s)\
 Subject: CN=Avid Communication SHAKEN Cert 742D, O=Avid Communication, C=US\
@@ -16,9 +16,9 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICXzCCAgWgAwIBAgIQ
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | e_cp1_3_ambiguous_identifier | error | United States SHAKEN CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| e_sti_subject_cn | error | ATIS-1000080 | Common name shall contain the text string 'SHAKEN 742D' |
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| e_sti_key_usage | error | ATIS-1000080 | The Key Usage extension shall contain a single key usage value of digitalSignature |
 | e_sti_issuer_dn | error | ATIS-1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
+| e_sti_key_usage | error | ATIS-1000080 | The Key Usage extension shall contain a single key usage value of digitalSignature |
+| e_sti_subject_cn | error | ATIS-1000080 | Common name shall contain the text string 'SHAKEN 742D' |
 
-Generated: 27/10/2022 at 22:44:50
+Generated: 28/10/2022 at 10:33:25

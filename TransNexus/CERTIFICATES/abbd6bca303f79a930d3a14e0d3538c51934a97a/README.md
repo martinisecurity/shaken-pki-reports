@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate abbd6bca303f79a930d3a14e0d3538c51934a97a
-Tested At: 2022-10-27 22:44:18 +0000 UTC\
+Tested At: 2022-10-28 10:32:51 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 6 day(s)\
 Subject: CN=Charter Communications Inc SHAKEN 5606, OU=Charter Communications Inc, O=TransNexus, C=US\
@@ -20,14 +20,14 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICuTCCAl%2BgAwIBAg
 
 ### Not Effective
 
-- w_cp_1_3_subject_email
 - e_cp1_3_ambiguous_identifier
-- e_sti_serial_number
-- e_sti_subject_cn
-- e_sti_extension_unknown
-- e_sti_signature_algorithm
 - e_cp1_3_subject_sn
+- e_sti_extension_unknown
+- w_cp_1_3_subject_email
+- e_sti_serial_number
+- e_sti_signature_algorithm
+- e_sti_subject_cn
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 27/10/2022 at 22:44:50
+Generated: 28/10/2022 at 10:33:25

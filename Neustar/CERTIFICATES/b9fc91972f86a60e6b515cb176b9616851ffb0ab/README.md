@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate b9fc91972f86a60e6b515cb176b9616851ffb0ab
-Tested At: 2022-10-27 22:44:24 +0000 UTC\
+Tested At: 2022-10-28 10:32:58 +0000 UTC\
 Initial Validity Period: 398 day(s)\
 Remaining Validity Period: 252 day(s)\
 Subject: CN=***SHAKEN***464D, OU=VOIP, O=Fibernetics, L=Cambridge, ST=ON, C=CA\
@@ -18,9 +18,9 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDNzCCAt2gAwIBAgIU
 | w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_cp1_3_ambiguous_identifier | error | United States SHAKEN CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | e_sti_crl_distribution_not_reachable | error | ATIS-1000080 | Unable to retrieve CRL specified in CRLdp from allow listed IP address |
-| e_sti_subject_cn | error | ATIS-1000080 | Common name shall contain the text string 'SHAKEN 464D' |
 | e_sti_extension_unknown | error | ATIS-1000080 | STI certificate shall not include extensions that are not specified |
+| e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| e_sti_subject_cn | error | ATIS-1000080 | Common name shall contain the text string 'SHAKEN 464D' |
 
-Generated: 27/10/2022 at 22:44:50
+Generated: 28/10/2022 at 10:33:25
