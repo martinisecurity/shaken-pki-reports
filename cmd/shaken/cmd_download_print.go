@@ -116,13 +116,13 @@ func PrintUrlSummary(w io.Writer, r *LintUrlSummaryResult) {
 	fmt.Fprintln(w, "")
 	if caGroup := r.Groups[groupName_CA]; caGroup != nil {
 		fmt.Fprintln(w, "")
-		fmt.Fprintf(w, "### CA Operated Repositories")
+		fmt.Fprintln(w, "### CA Operated Repositories")
 		fmt.Fprintln(w, "")
 		PrintOrgTable(w, caGroup, path.Join("ORGS", groupName_CA))
 	}
 	if spGroup := r.Groups[groupName_ServiceProvider]; spGroup != nil {
 		fmt.Fprintln(w, "")
-		fmt.Fprintf(w, "### Service Provider Operated Repositories")
+		fmt.Fprintln(w, "### Service Provider Operated Repositories")
 		fmt.Fprintln(w, "")
 		PrintOrgTable(w, spGroup, path.Join("ORGS", groupName_ServiceProvider))
 	}
