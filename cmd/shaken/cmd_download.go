@@ -11,7 +11,6 @@ import (
 
 	"github.com/martinisecurity/shaken-pki-reports/cmd/internal"
 	uLinter "github.com/martinisecurity/shaken-pki-reports/linter"
-	"github.com/zmap/zcrypto/x509"
 )
 
 // RunDownloadCommand runs the download command. If there is any problem it returns an error.
@@ -32,12 +31,6 @@ func RunDownloadCommand(listPath string, outDir string, includeCa bool) error {
 		return err
 	}
 
-	// get root certs
-	rootPool, err := ReadRootCertificates(CA_TRUST_LIST)
-	if err != nil {
-		return err
-	}
-
 	links := strings.Split(string(raw), "\n")
 	lintResults := NewLintUrlSummaryResult()
 	for _, link := range links {
@@ -48,27 +41,16 @@ func RunDownloadCommand(listPath string, outDir string, includeCa bool) error {
 
 		// lint URL
 		lintResult := uLinter.LintUrl(link)
+		lintResults.AppendLink(lintResult)
 		if lintResult.StatusCode != 200 {
-			lintResults.AppendLink("Unknown", lintResult)
 			continue
 		}
 
 		// parse certificates and put them into the folder
 		certs := internal.ParseCertificates(lintResult.Body)
 		files := []string{}
-		intermediatePool := x509.NewCertPool()
-		var leafCert *x509.Certificate
 		for _, pemCert := range certs {
 			cert := pemCert.Certificate
-			if cert.IsCA {
-				intermediatePool.AddCert(cert)
-				if !includeCa {
-					// skip CA cert if includeCa is false
-					continue
-				}
-			} else {
-				leafCert = cert
-			}
 
 			// compute cert sha1 thumbprint
 			sha1 := crypto.SHA1.New()
@@ -101,16 +83,6 @@ func RunDownloadCommand(listPath string, outDir string, includeCa bool) error {
 			files = append(files, fmt.Sprintf("write  %s", filePath))
 		}
 
-		// get Org name or use default Unknown
-		orgName := "Unknown"
-		if leafCert != nil {
-			orgName = getOrganizationName(leafCert, &x509.VerifyOptions{
-				Intermediates: intermediatePool,
-				Roots:         rootPool,
-			})
-		}
-		lintResults.AppendLink(orgName, lintResult)
-
 		// log status
 		fmt.Printf("%-7s%s\n", "OK", link)
 		for _, file := range files {
@@ -131,19 +103,21 @@ func RunDownloadCommand(listPath string, outDir string, includeCa bool) error {
 	defer file.Close()
 	PrintUrlSummary(file, lintResults)
 
-	for _, lintOrg := range lintResults.Organizations {
-		if err := SaveOrgReport(lintOrg, REPORT_DIR_NAME); err != nil {
-			return err
-		}
-	}
-
-	clientsDir := path.Join(REPORT_DIR_NAME, "URL", "CLIENTS")
-	if err := Mkdir(clientsDir); err != nil {
+	// create ORGS dir
+	orgsDir := path.Join(REPORT_DIR_NAME, "URL", "ORGS")
+	if err := Mkdir(orgsDir); err != nil {
 		return err
 	}
-	for _, lintClient := range lintResults.Clients {
-		if err := SaveOrgReport(lintClient, clientsDir); err != nil {
+
+	for groupName, group := range lintResults.Groups {
+		groupDir := path.Join(orgsDir, groupName)
+		if err := Mkdir(groupDir); err != nil {
 			return err
+		}
+		for _, org := range group.Items {
+			if err := SaveOrgReport(org, groupDir); err != nil {
+				return err
+			}
 		}
 	}
 
@@ -159,7 +133,7 @@ func SaveOrgReport(r *LintUrlOrgResult, basePath string) error {
 	}
 
 	// create org report file
-	orgFile, err := CreateReport(path.Join(orgDir, "URL"))
+	orgFile, err := CreateReport(orgDir)
 	if err != nil {
 		return fmt.Errorf("cannot create organization report, %s", err.Error())
 	}

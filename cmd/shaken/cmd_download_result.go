@@ -6,56 +6,137 @@ import (
 	"strconv"
 	"strings"
 
+	"github.com/martinisecurity/shaken-pki-reports/cmd/internal"
 	uLint "github.com/martinisecurity/shaken-pki-reports/lint"
 )
 
+// LintUrlOrgGroupResult
+type LintUrlOrgGroupResult struct {
+	Name  string
+	Items map[string]*LintUrlOrgResult
+	LintResult
+}
+
+func NewLintUrlOrgGroupResult() *LintUrlOrgGroupResult {
+	return &LintUrlOrgGroupResult{
+		Items: map[string]*LintUrlOrgResult{},
+	}
+}
+
+// AppendLink adds URL test result into the specified organization and updates statuses
+func (t *LintUrlOrgGroupResult) AppendLink(name string, l *uLint.LintResultSet) {
+	// create or reuse the organization
+	org := t.Items[name]
+	if org == nil {
+		org = NewLintUrlOrgResult()
+		org.Name = name
+		t.Items[name] = org
+	}
+
+	org.AppendLink(l)
+
+	// update statuses
+	t.Amount += 1
+	if l.HasErrors {
+		t.Errors += 1
+	}
+	if l.HasWarnings {
+		t.Warnings += 1
+	}
+	if l.HasNotices {
+		t.Notices += 1
+	}
+}
+
 // LintUrlSummaryResult keeps summary for all URL tests
 type LintUrlSummaryResult struct {
-	Organizations map[string]*LintUrlOrgResult
-	Clients       map[string]*LintUrlOrgResult
+	Groups map[string]*LintUrlOrgGroupResult
 	LintResult
 }
 
 // NewLintUrlSummaryResult create new instance of NewLintUrlSummaryResult
 func NewLintUrlSummaryResult() *LintUrlSummaryResult {
 	return &LintUrlSummaryResult{
-		Organizations: map[string]*LintUrlOrgResult{},
-		Clients:       map[string]*LintUrlOrgResult{},
+		Groups: map[string]*LintUrlOrgGroupResult{},
 	}
 }
 
-// AppendLink adds URL test result into the specified organization and updates statuses
-func (t *LintUrlSummaryResult) AppendLink(name string, l *uLint.LintResultSet) {
-	// create or reuse the organization
-	org := t.Organizations[name]
-	if org == nil {
-		org = NewLintUrlOrgResult()
-		org.Name = name
-		t.Organizations[name] = org
-	}
+var wellknownCaDomains = map[string]string{
+	"certificates.clearip.com":         "TransNexus",
+	"certificates.peeringhub.io":       "Peeringhub",
+	"certificates.transnexus.com":      "TransNexus",
+	"cr-partner.ccid.neustar.biz":      "Neustar",
+	"cr.ccid.neustar.biz":              "Neustar",
+	"cr.sansay.com":                    "Sansay",
+	"p.mtsec.me":                       "Martini Security",
+	"prod001-cr.rbbnidhub.com":         "Ribbon Communications",
+	"prod001-prod011-cr.rbbnidhub.com": "Ribbon Communications",
+	"sticr.stir.comcast.com":           "Comcast",
+	"t-mobile-sticr.fosrvt.com":        "T-Mobile",
+	"sti-cr.cgah.tnsi.com":             "Metaswitch",
+}
 
-	org.AppendLink(l)
+const (
+	groupName_CA              = "CA"
+	groupName_ServiceProvider = "SP"
+)
 
-	// get host
-	host := "Unknown"
-	u, err := url.Parse(l.Url)
-	if err == nil {
+func (t *LintUrlSummaryResult) GetOrgName(l *uLint.LintResultSet) (string, string) {
+	var caName string
+	u, _ := url.Parse(l.Url)
+	if u == nil {
+		return "Unknown", groupName_ServiceProvider
+	} else {
+		if caName = wellknownCaDomains[u.Hostname()]; len(caName) > 0 {
+			// CA
+			return caName, groupName_CA
+		}
+
+		// Service Provider
+		var spName string
+		if l.StatusCode == 200 {
+			if certs := internal.ParseCertificates(l.Body); len(certs) > 0 {
+				cert := certs[0].Certificate
+				if len(cert.Subject.Organization) > 0 {
+					// use O name from the Subject
+					return cert.Subject.Organization[0], groupName_ServiceProvider
+				} else if len(cert.Issuer.Organization) > 0 {
+					// use O name from the Issuer
+					return cert.Issuer.Organization[1], groupName_ServiceProvider
+				} else if spc, err := internal.GetTNEntrySPC(cert); err == nil {
+					// use SPC value from the TNAuthList extension
+					return fmt.Sprintf("SHAKEN %s", spc), groupName_ServiceProvider
+				}
+			}
+		}
+
+		// use Host name from the URL
 		parts := strings.Split(u.Hostname(), ".")
 		if _, err := strconv.Atoi(parts[len(parts)-1]); err == nil {
 			// IP address
-			host = u.Hostname()
+			spName = u.Hostname()
 		} else {
 			// domain
-			host = fmt.Sprintf("%s.%s", parts[len(parts)-2], parts[len(parts)-1])
+			spName = fmt.Sprintf("%s.%s", parts[len(parts)-2], parts[len(parts)-1])
 		}
+
+		return spName, groupName_ServiceProvider
 	}
-	client := t.Clients[host]
-	if client == nil {
-		client = NewLintUrlOrgResult()
-		client.Name = host
-		t.Clients[host] = client
+}
+
+// AppendLink adds URL test result into the specified organization group and updates statuses
+func (t *LintUrlSummaryResult) AppendLink(l *uLint.LintResultSet) {
+	orgName, groupName := t.GetOrgName(l)
+
+	// create or reuse the group
+	group := t.Groups[groupName]
+	if group == nil {
+		group = NewLintUrlOrgGroupResult()
+		group.Name = groupName
+		t.Groups[groupName] = group
 	}
-	client.AppendLink(l)
+
+	group.AppendLink(orgName, l)
 
 	// update statuses
 	t.Amount += 1

@@ -27,6 +27,7 @@ func PrintUrlIssue(w io.Writer, code string, r *LintUrlOrgResult) {
 		fmt.Fprintf(w, "Description: %s\n", rule.Description)
 	}
 
+	fmt.Fprintln(w, "")
 	for _, link := range r.Links {
 		if !link.HasProblem(code) {
 			continue
@@ -71,7 +72,7 @@ func PrintUrlOrg(w io.Writer, r *LintUrlOrgResult) {
 	fmt.Fprintln(w, "|------|--------|-----------|")
 	for code, instances := range r.Problems {
 		rule := uLint.FindRuleByName(code)
-		codeLink := fmt.Sprintf("[%s](../ISSUES/%s/README.md)", code, code)
+		codeLink := fmt.Sprintf("[%s](ISSUES/%s/README.md)", code, code)
 		fmt.Fprintf(w, "| %s | %s | %d |\n", codeLink, rule.Source, instances)
 	}
 	fmt.Fprintln(w, "")
@@ -111,25 +112,32 @@ func PrintUrlSummary(w io.Writer, r *LintUrlSummaryResult) {
 	fmt.Fprintln(w, "This report looks at what errors and compliance issues relying parties may experience when trying to use these certificate repositories.")
 	fmt.Fprintln(w, "")
 
+	fmt.Fprintln(w, "## Details")
 	fmt.Fprintln(w, "")
-	PrintOrgTable(w, r.Organizations, r, "..")
-
-	// fmt.Fprintln(w, "")
-	// fmt.Fprintln(w, "## Clients")
-	// fmt.Fprintln(w, "")
-	// PrintOrgTable(w, r.Clients, r, "CLIENTS")
+	if caGroup := r.Groups[groupName_CA]; caGroup != nil {
+		fmt.Fprintln(w, "")
+		fmt.Fprintf(w, "### CA Operated Repositories")
+		fmt.Fprintln(w, "")
+		PrintOrgTable(w, caGroup, path.Join("ORGS", groupName_CA))
+	}
+	if spGroup := r.Groups[groupName_ServiceProvider]; spGroup != nil {
+		fmt.Fprintln(w, "")
+		fmt.Fprintf(w, "### Service Provider Operated Repositories")
+		fmt.Fprintln(w, "")
+		PrintOrgTable(w, spGroup, path.Join("ORGS", groupName_ServiceProvider))
+	}
 
 	PrintFooter(w)
 }
 
 // PrintOrgTable prints table for the Organization test results
-func PrintOrgTable(w io.Writer, r map[string]*LintUrlOrgResult, t *LintUrlSummaryResult, basePath string) {
-	fmt.Fprintln(w, "| Domains | Links | Errors | Warnings | Notices |")
+func PrintOrgTable(w io.Writer, r *LintUrlOrgGroupResult, basePath string) {
+	fmt.Fprintln(w, "| Issuers | Links | Errors | Warnings | Notices |")
 	fmt.Fprintln(w, "|---------|-------|--------|----------|---------|")
 
 	// order keys
-	keys := make([]string, 0, len(r))
-	for k := range r {
+	keys := make([]string, 0, len(r.Items))
+	for k := range r.Items {
 		keys = append(keys, k)
 	}
 	sort.Slice(keys[:], func(a int, b int) bool {
@@ -137,9 +145,9 @@ func PrintOrgTable(w io.Writer, r map[string]*LintUrlOrgResult, t *LintUrlSummar
 	})
 
 	for _, key := range keys {
-		item := r[key]
-		clientName := fmt.Sprintf("[%s](%s)", key, path.Join(basePath, escapeMdLink(key), "URL", "README.md"))
-		fmt.Fprintf(w, "| %s | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) |\n", clientName, item.Amount, percent(item.Amount, t.Amount), item.Errors, percent(item.Errors, item.Amount), item.Warnings, percent(item.Warnings, item.Amount), item.Notices, percent(item.Notices, item.Amount))
+		item := r.Items[key]
+		clientName := fmt.Sprintf("[%s](%s)", key, path.Join(basePath, escapeMdLink(key), "README.md"))
+		fmt.Fprintf(w, "| %s | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) |\n", clientName, item.Amount, percent(item.Amount, r.Amount), item.Errors, percent(item.Errors, item.Amount), item.Warnings, percent(item.Warnings, item.Amount), item.Notices, percent(item.Notices, item.Amount))
 	}
-	fmt.Fprintf(w, "| **Total** | %d (100%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) |\n", t.Amount, t.Errors, percent(t.Errors, t.Amount), t.Warnings, percent(t.Warnings, t.Amount), t.Notices, percent(t.Notices, t.Amount))
+	fmt.Fprintf(w, "| **Total** | %d (100%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) |\n", r.Amount, r.Errors, percent(r.Errors, r.Amount), r.Warnings, percent(r.Warnings, r.Amount), r.Notices, percent(r.Notices, r.Amount))
 }
