@@ -124,7 +124,7 @@ func PrintUrlSummary(w io.Writer, r *LintUrlSummaryResult) {
 		fmt.Fprintln(w, "")
 		fmt.Fprintln(w, "### Service Provider Operated Repositories")
 		fmt.Fprintln(w, "")
-		PrintOSPTable(w, spGroup, path.Join("ORGS", groupName_ServiceProvider))
+		PrintSPTable(w, spGroup, path.Join("ORGS", groupName_ServiceProvider))
 	}
 
 	PrintFooter(w)
@@ -153,7 +153,7 @@ func PrintCATable(w io.Writer, r *LintUrlOrgGroupResult, basePath string) {
 }
 
 // PrintSPTable prints table for the Organization test results
-func PrintOSPTable(w io.Writer, r *LintUrlOrgGroupResult, basePath string) {
+func PrintSPTable(w io.Writer, r *LintUrlOrgGroupResult, basePath string) {
 	fmt.Fprintln(w, "| Providers | Links | Errors | Warnings | Notices |")
 	fmt.Fprintln(w, "|-----------|-------|--------|----------|---------|")
 
