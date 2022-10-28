@@ -23,4 +23,4 @@ no warning, or error, or not effective date level issues were found
 | warn | L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN Root Intermediate CA 1 | [view](../../CERTIFICATES/563c5f6e1e683f67ab636b71bf04a9d49e4ccbae/README.md) | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 28/10/2022 at 18:55:00
+Generated: 28/10/2022 at 19:22:10

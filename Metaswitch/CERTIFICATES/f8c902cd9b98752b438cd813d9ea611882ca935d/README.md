@@ -2,7 +2,7 @@
 ## Metaswitch
 
 ### Certificate f8c902cd9b98752b438cd813d9ea611882ca935d
-Tested At: 2022-10-28 18:54:59 +0000 UTC\
+Tested At: 2022-10-28 19:22:09 +0000 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 631 day(s)\
 Subject: CN=New Horizon SHAKEN Cert 127E, O=New Horizon Communications, C=US\
@@ -20,14 +20,14 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICYTCCAgagAwIBAgIQ
 
 ### Not Effective
 
-- e_sti_extension_unknown
 - e_sti_signature_algorithm
 - e_sti_subject_cn
 - e_cp1_3_subject_sn
 - e_sti_serial_number
+- e_sti_extension_unknown
 - w_cp_1_3_subject_email
 - e_cp1_3_ambiguous_identifier
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 28/10/2022 at 18:55:01
+Generated: 28/10/2022 at 19:22:10

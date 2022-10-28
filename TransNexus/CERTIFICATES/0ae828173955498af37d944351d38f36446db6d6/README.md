@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate 0ae828173955498af37d944351d38f36446db6d6
-Tested At: 2022-10-28 18:54:25 +0000 UTC\
+Tested At: 2022-10-28 19:21:43 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 286 day(s)\
 Subject: CN=SHAKEN 073H, OU=SHAKEN, O=Telnyx LCC, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC7DCCApKgAwIBAgIQ
 | w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_incorrect_ku_encoding | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
-Generated: 28/10/2022 at 18:55:01
+Generated: 28/10/2022 at 19:22:10

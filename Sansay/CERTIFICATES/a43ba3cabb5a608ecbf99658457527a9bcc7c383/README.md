@@ -2,7 +2,7 @@
 ## Sansay
 
 ### Certificate a43ba3cabb5a608ecbf99658457527a9bcc7c383
-Tested At: 2022-10-28 18:54:46 +0000 UTC\
+Tested At: 2022-10-28 19:22:00 +0000 UTC\
 Initial Validity Period: 31 day(s)\
 Remaining Validity Period: 15 day(s)\
 Subject: CN=SHAKEN  XCast Labs 689J, OU=XCast Labs, O=XCast Labs, ST=California, C=US\
@@ -21,4 +21,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDgDCCAyagAwIBAgIU
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
-Generated: 28/10/2022 at 18:55:01
+Generated: 28/10/2022 at 19:22:10

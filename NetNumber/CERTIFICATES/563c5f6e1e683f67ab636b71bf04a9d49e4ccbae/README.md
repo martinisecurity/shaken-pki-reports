@@ -2,7 +2,7 @@
 ## NetNumber
 
 ### Certificate 563c5f6e1e683f67ab636b71bf04a9d49e4ccbae
-Tested At: 2022-10-28 18:54:35 +0000 UTC\
+Tested At: 2022-10-28 19:21:52 +0000 UTC\
 Initial Validity Period: 4380 day(s)\
 Remaining Validity Period: 3986 day(s)\
 Subject: L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN Root Intermediate CA 1\
@@ -16,18 +16,18 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDNzCCApigAwIBAgIJ
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | e_sti_ca_subject_public_key | error | ATIS-1000080 | STI certificates shall contain a Subject Public Key Info field specifying a Public Key Algorithm of "id-ecPublicKey" and containing a 256-bit public key |
-| e_sti_ca_signature_algorithm | error | ATIS-1000080 | STI certificates shall contain a Signature Algorithm field with the value 'ecdsa-with-SHA256' |
 | w_pki_ca_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| e_sti_ca_signature_algorithm | error | ATIS-1000080 | STI certificates shall contain a Signature Algorithm field with the value 'ecdsa-with-SHA256' |
 
 ### Not Effective
 
-- n_sti_ca_certificate_policy_critical
 - e_sti_ca_extension_unknown
-- e_sti_ca_certificate_policies
-- e_sti_ca_serial_number
 - e_sti_ca_crl_distribution
+- e_sti_ca_serial_number
+- n_sti_ca_certificate_policy_critical
+- e_sti_ca_certificate_policies
 - e_sti_ca_subject_cn
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 28/10/2022 at 18:55:01
+Generated: 28/10/2022 at 19:22:10

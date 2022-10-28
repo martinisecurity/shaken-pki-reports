@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate 175e3b3de9a38a8355d047b901bd5eda0c1f1a6a
-Tested At: 2022-10-28 18:54:27 +0000 UTC\
+Tested At: 2022-10-28 19:21:45 +0000 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: 82 day(s)\
 Subject: CN=SHAKEN 622J, OU=SHAKEN, O=Skye Telecom LLC, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC8jCCApigAwIBAgIQ
 | w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 28/10/2022 at 18:55:01
+Generated: 28/10/2022 at 19:22:10

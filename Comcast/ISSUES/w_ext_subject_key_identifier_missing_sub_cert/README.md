@@ -62,4 +62,4 @@ Description: Sub certificates SHOULD include Subject Key Identifier in end entit
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 28/10/2022 at 18:55:00
+Generated: 28/10/2022 at 19:22:10

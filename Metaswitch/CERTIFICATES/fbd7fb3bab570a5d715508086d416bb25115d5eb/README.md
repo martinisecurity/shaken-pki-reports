@@ -2,7 +2,7 @@
 ## Metaswitch
 
 ### Certificate fbd7fb3bab570a5d715508086d416bb25115d5eb
-Tested At: 2022-10-28 18:54:59 +0000 UTC\
+Tested At: 2022-10-28 19:22:09 +0000 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 436 day(s)\
 Subject: CN=Call48 SHAKEN Cert 505J, O=Call48, C=US\
@@ -15,19 +15,19 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICRzCCAe2gAwIBAgIQ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_sti_issuer_dn | error | ATIS-1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 | e_sti_key_usage | error | ATIS-1000080 | The Key Usage extension shall contain a single key usage value of digitalSignature |
+| e_sti_issuer_dn | error | ATIS-1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 
 ### Not Effective
 
-- e_cp1_3_subject_sn
-- e_sti_extension_unknown
-- e_sti_serial_number
-- e_cp1_3_ambiguous_identifier
-- e_sti_signature_algorithm
 - w_cp_1_3_subject_email
+- e_sti_extension_unknown
+- e_sti_signature_algorithm
+- e_cp1_3_subject_sn
+- e_cp1_3_ambiguous_identifier
 - e_sti_subject_cn
+- e_sti_serial_number
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 28/10/2022 at 18:55:01
+Generated: 28/10/2022 at 19:22:10

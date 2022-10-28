@@ -2,7 +2,7 @@
 ## GBSDTech
 
 ### Certificate a3872afd09406d2745d204893b6b52bbf6380f84
-Tested At: 2022-10-28 18:54:46 +0000 UTC\
+Tested At: 2022-10-28 19:22:00 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 243 day(s)\
 Subject: CN=MYPBXManager SHAKEN, O=MYPBXManager LLC, ST=New York, C=US\
@@ -15,13 +15,13 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIClTCCAjqgAwIBAgIC
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_sti_crl_distribution | error | ATIS-1000080 | STI End-Entity certificates shall contain a CRL Distribution Points extension |
-| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | e_sti_tn_auth_list | error | ATIS-1000080 | bad TNAuthorizationList, bad TNAuthorizationList ASN.1 raw, asn1: syntax error: data truncated |
-| e_sti_serial_number | error | ATIS-1000080 | STI certificates shall include a Serial Number field containing an integer greater than zero. The serial number shall contain at least 64 bits of output from a Cryptographically Secure PseudoRandom Number Generator (CSPRNG) |
-| w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| e_sti_crl_distribution | error | ATIS-1000080 | STI End-Entity certificates shall contain a CRL Distribution Points extension |
 | e_sti_subject_cn | error | ATIS-1000080 | Cannot get SPC value from the TNAuthList extension, bad TNAuthorizationList, bad TNAuthorizationList ASN.1 raw, asn1: syntax error: data truncated |
-| e_cp1_3_ambiguous_identifier | error | United States SHAKEN CP | bad TNAuthorizationList, bad TNAuthorizationList ASN.1 raw, asn1: syntax error: data truncated |
+| w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| e_sti_serial_number | error | ATIS-1000080 | STI certificates shall include a Serial Number field containing an integer greater than zero. The serial number shall contain at least 64 bits of output from a Cryptographically Secure PseudoRandom Number Generator (CSPRNG) |
+| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
+| e_cp1_3_ambiguous_identifier | error | United States SHAKEN CP | bad TNAuthorizationList, bad TNAuthorizationList ASN.1 raw, asn1: syntax error: data truncated |
 
-Generated: 28/10/2022 at 18:55:01
+Generated: 28/10/2022 at 19:22:10

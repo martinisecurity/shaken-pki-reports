@@ -2,7 +2,7 @@
 ## Metaswitch
 
 ### Certificate 2299a3e38166a08cba68879b5717bec1c6434547
-Tested At: 2022-10-28 18:54:28 +0000 UTC\
+Tested At: 2022-10-28 19:21:46 +0000 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 415 day(s)\
 Subject: CN=TDS Telecom SHAKEN Cert 7804, O=TDS Telecom, C=US\
@@ -20,14 +20,14 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICUDCCAfegAwIBAgIQ
 
 ### Not Effective
 
-- e_sti_extension_unknown
 - w_cp_1_3_subject_email
-- e_sti_subject_cn
-- e_sti_serial_number
 - e_cp1_3_ambiguous_identifier
 - e_sti_signature_algorithm
+- e_sti_serial_number
 - e_cp1_3_subject_sn
+- e_sti_subject_cn
+- e_sti_extension_unknown
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 28/10/2022 at 18:55:01
+Generated: 28/10/2022 at 19:22:10

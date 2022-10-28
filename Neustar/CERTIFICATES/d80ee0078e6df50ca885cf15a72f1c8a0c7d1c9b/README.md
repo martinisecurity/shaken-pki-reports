@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate d80ee0078e6df50ca885cf15a72f1c8a0c7d1c9b
-Tested At: 2022-10-28 18:54:54 +0000 UTC\
+Tested At: 2022-10-28 19:22:05 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 244 day(s)\
 Subject: CN=SHAKEN 743J, O=Whisl Telecom LLC, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDAzCCAqigAwIBAgIU
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | e_sti_extension_unknown | error | ATIS-1000080 | STI certificate shall not include extensions that are not specified |
 
-Generated: 28/10/2022 at 18:55:01
+Generated: 28/10/2022 at 19:22:10

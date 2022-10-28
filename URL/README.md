@@ -38,6 +38,7 @@ This report looks at what errors and compliance issues relying parties may exper
 | [Baltimore-Washington Telephone Company](ORGS/SP/Baltimore-Washington_Telephone_Company/README.md) | 1 (1.27%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Bandwidth.com CLEC LLC](ORGS/SP/Bandwidth.com_CLEC_LLC/README.md) | 1 (1.27%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Bulk Solutions, LLC](ORGS/SP/Bulk_Solutions,_LLC/README.md) | 2 (2.53%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
+| [Charter Communications Inc SHAKEN 5606](ORGS/SP/Charter_Communications_Inc_SHAKEN_5606/README.md) | 1 (1.27%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Clearly IP](ORGS/SP/Clearly_IP/README.md) | 1 (1.27%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Commio](ORGS/SP/Commio/README.md) | 1 (1.27%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Company Name](ORGS/SP/Company_Name/README.md) | 1 (1.27%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -95,7 +96,6 @@ This report looks at what errors and compliance issues relying parties may exper
 | [Zultys Inc](ORGS/SP/Zultys_Inc/README.md) | 1 (1.27%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [alticeusa](ORGS/SP/alticeusa/README.md) | 3 (3.80%) | 3 (100.00%) | 3 (100.00%) | 0 (0.00%) |
 | [connexcs.com](ORGS/SP/connexcs.com/README.md) | 1 (1.27%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [spectrum.com](ORGS/SP/spectrum.com/README.md) | 1 (1.27%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | **Total** | 79 (100%) | 75 (94.94%) | 76 (96.20%) | 0 (0.00%) |
 
-Generated: 28/10/2022 at 18:54:21
+Generated: 28/10/2022 at 19:21:41

@@ -2,7 +2,7 @@
 ## Peeringhub
 
 ### Certificate 360f1867f89798d6c73ce738d31f5db88dc645fd
-Tested At: 2022-10-28 18:54:31 +0000 UTC\
+Tested At: 2022-10-28 19:21:49 +0000 UTC\
 Initial Validity Period: 31 day(s)\
 Remaining Validity Period: 22 day(s)\
 Subject: CN=TalkAsiaVoip LLC SHAKEN 198K, O=TalkAsiaVoip LLC, ST=DE, C=US\
@@ -20,4 +20,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDFDCCArugAwIBAgIR
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 28/10/2022 at 18:55:01
+Generated: 28/10/2022 at 19:22:10

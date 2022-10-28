@@ -2,7 +2,7 @@
 ## Comcast
 
 ### Certificate e341fff079ef701a75085e21aaa915d84a27a52a
-Tested At: 2022-10-28 18:54:22 +0000 UTC\
+Tested At: 2022-10-28 19:21:42 +0000 UTC\
 Initial Validity Period: 7300 day(s)\
 Remaining Validity Period: 6345 day(s)\
 Subject: CN=Comcast SHAKEN Root CA, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US\
@@ -15,26 +15,26 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICNzCCAdygAwIBAgIJ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| w_pki_ca_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | n_pki_ca_key_usage | notice | SHAKEN PKI Best Practice | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
+| w_pki_ca_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 ### Not Effective
 
-- e_sti_ca_serial_number
-- e_sti_ca_signature_algorithm
-- e_cp1_3_ca_key_usage_crl_sign
-- e_sti_root_extension_unknown
-- e_sti_basic_constraints
-- e_sti_ca_key_usage
-- e_sti_ca_subject_public_key
 - e_sti_ca_subject
-- e_sti_ca_version
-- e_sti_ca_subject_cn
-- e_sti_root_certificate_policies
 - e_sti_ca_subject_key_identifier
+- e_sti_root_extension_unknown
 - e_sti_root_authority_key_identifier
+- e_sti_ca_serial_number
+- e_sti_ca_subject_public_key
+- e_cp1_3_ca_key_usage_crl_sign
+- e_sti_ca_version
+- e_sti_ca_signature_algorithm
 - e_sti_ca_issuer_dn
+- e_sti_ca_key_usage
+- e_sti_ca_subject_cn
+- e_sti_basic_constraints
+- e_sti_root_certificate_policies
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 28/10/2022 at 18:55:01
+Generated: 28/10/2022 at 19:22:10
