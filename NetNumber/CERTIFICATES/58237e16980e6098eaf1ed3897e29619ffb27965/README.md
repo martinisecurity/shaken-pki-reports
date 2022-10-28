@@ -2,7 +2,7 @@
 ## NetNumber
 
 ### Certificate 58237e16980e6098eaf1ed3897e29619ffb27965
-Tested At: 2022-10-28 16:27:21 +0000 UTC\
+Tested At: 2022-10-28 18:15:23 +0000 UTC\
 Initial Validity Period: 31 day(s)\
 Remaining Validity Period: 29 day(s)\
 Subject: O=Baltimore-Washington Telephone Company, C=US, CN=Baltimore-Washington Telephone Company SHAKEN cert 8697\
@@ -15,11 +15,11 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICvTCCAkOgAwIBAgIJ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | e_sti_subject_cn | error | ATIS-1000080 | Common name shall contain the text string 'SHAKEN 8697' |
-| e_cp1_3_ambiguous_identifier | error | United States SHAKEN CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| e_sti_crl_distribution | error | ATIS-1000080 | STI End-Entity certificates shall contain a CRL Distribution Points extension |
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | n_sti_certificate_policy_critical | notice | ATIS-1000080 | STI certificates should contain a CertificatePolicies extension marked uncritical |
-| e_sti_crl_distribution | error | ATIS-1000080 | STI End-Entity certificates shall contain a CRL Distribution Points extension |
+| e_cp1_3_ambiguous_identifier | error | United States SHAKEN CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
-Generated: 28/10/2022 at 16:28:22
+Generated: 28/10/2022 at 18:15:47

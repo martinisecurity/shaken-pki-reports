@@ -2,7 +2,7 @@
 ## GBSDTech
 
 ### Certificate c6beb88bee7544f012d9579a8002bf774a717ef0
-Tested At: 2022-10-28 16:27:57 +0000 UTC\
+Tested At: 2022-10-28 18:15:38 +0000 UTC\
 Initial Validity Period: 7300 day(s)\
 Remaining Validity Period: 6760 day(s)\
 Subject: CN=GBSDTech SHAKEN Root CA, O=GBSDTech, L=Ft Worth, ST=Texas, C=US\
@@ -19,12 +19,12 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICDTCCAbSgAwIBAgIU
 
 ### Not Effective
 
-- e_sti_root_extension_unknown
-- e_sti_ca_serial_number
 - e_sti_ca_subject_cn
-- e_sti_root_certificate_policies
+- e_sti_root_extension_unknown
 - e_cp1_3_ca_key_usage_crl_sign
+- e_sti_ca_serial_number
+- e_sti_root_certificate_policies
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 28/10/2022 at 16:28:22
+Generated: 28/10/2022 at 18:15:47

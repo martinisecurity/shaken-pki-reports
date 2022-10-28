@@ -2,7 +2,7 @@
 ## TransNexus
 
 ### Certificate 76579174555c2405b844fbf6ace0ccb15e0aa02c
-Tested At: 2022-10-28 16:27:29 +0000 UTC\
+Tested At: 2022-10-28 18:15:26 +0000 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: 3 day(s)\
 Subject: CN=SHAKEN 518J, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC8zCCApigAwIBAgIQ
 | w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 28/10/2022 at 16:28:22
+Generated: 28/10/2022 at 18:15:47

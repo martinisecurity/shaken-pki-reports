@@ -2,9 +2,9 @@
 ## TransNexus
 
 ### Certificate abbd6bca303f79a930d3a14e0d3538c51934a97a
-Tested At: 2022-10-28 16:27:47 +0000 UTC\
+Tested At: 2022-10-28 18:15:34 +0000 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 6 day(s)\
+Remaining Validity Period: 5 day(s)\
 Subject: CN=Charter Communications Inc SHAKEN 5606, OU=Charter Communications Inc, O=TransNexus, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA1, OU=SHAKEN, O=TransNexus\\, Inc., C=US
 
@@ -15,19 +15,19 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICuTCCAl%2BgAwIBAg
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_incorrect_ku_encoding | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 | w_pki_subject_rdn_unknown | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| e_incorrect_ku_encoding | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 ### Not Effective
 
-- e_cp1_3_ambiguous_identifier
-- e_cp1_3_subject_sn
 - e_sti_serial_number
 - w_cp_1_3_subject_email
 - e_sti_extension_unknown
 - e_sti_signature_algorithm
 - e_sti_subject_cn
+- e_cp1_3_subject_sn
+- e_cp1_3_ambiguous_identifier
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 28/10/2022 at 16:28:22
+Generated: 28/10/2022 at 18:15:47

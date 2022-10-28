@@ -2,9 +2,9 @@
 ## Neustar
 
 ### Certificate dc963db2ed6822a25536cf079c237f08d5ae4fcc
-Tested At: 2022-10-28 16:28:07 +0000 UTC\
+Tested At: 2022-10-28 18:15:41 +0000 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 85 day(s)\
+Remaining Validity Period: 84 day(s)\
 Subject: CN=SHAKEN 750J, O=Microtalk USA\\, Inc., C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US
 
@@ -15,8 +15,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDBDCCAqqgAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| e_sti_extension_unknown | error | ATIS-1000080 | STI certificate shall not include extensions that are not specified |
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| e_sti_extension_unknown | error | ATIS-1000080 | STI certificate shall not include extensions that are not specified |
 
-Generated: 28/10/2022 at 16:28:22
+Generated: 28/10/2022 at 18:15:47

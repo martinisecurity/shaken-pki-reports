@@ -2,9 +2,9 @@
 ## Neustar
 
 ### Certificate 0c87fe0456cb73c01ca76e3551e55ba7cdba8ddf
-Tested At: 2022-10-28 16:26:56 +0000 UTC\
+Tested At: 2022-10-28 18:15:11 +0000 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 83 day(s)\
+Remaining Validity Period: 82 day(s)\
 Subject: CN=SHAKEN 899J, O=Telco Connection, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US
 
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDATCCAqegAwIBAgIU
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | e_sti_extension_unknown | error | ATIS-1000080 | STI certificate shall not include extensions that are not specified |
 
-Generated: 28/10/2022 at 16:28:22
+Generated: 28/10/2022 at 18:15:47

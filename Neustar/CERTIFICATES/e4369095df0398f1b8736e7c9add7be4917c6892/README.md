@@ -2,9 +2,9 @@
 ## Neustar
 
 ### Certificate e4369095df0398f1b8736e7c9add7be4917c6892
-Tested At: 2022-10-28 16:28:10 +0000 UTC\
+Tested At: 2022-10-28 18:15:42 +0000 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 5 day(s)\
+Remaining Validity Period: 4 day(s)\
 Subject: CN=SHAKEN 707J, O=TextNow Inc., C=CA\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US
 
@@ -17,14 +17,14 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2FjCCAqOgAwIBAg
 
 ### Not Effective
 
-- e_sti_subject_cn
-- w_cp_1_3_subject_email
 - e_cp1_3_subject_sn
-- e_sti_signature_algorithm
 - e_cp1_3_ambiguous_identifier
-- e_sti_serial_number
+- e_sti_signature_algorithm
+- w_cp_1_3_subject_email
+- e_sti_subject_cn
 - e_sti_extension_unknown
+- e_sti_serial_number
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 28/10/2022 at 16:28:22
+Generated: 28/10/2022 at 18:15:47

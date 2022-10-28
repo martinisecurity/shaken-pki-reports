@@ -4,9 +4,9 @@
 
 | Code | Source | Instances |
 |------|--------|-----------|
-| [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 | 1 |
 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 | 1 |
 | [w_atis_protocol](ISSUES/w_atis_protocol/README.md) | ATIS-1000080 | 1 |
+| [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 | 1 |
 
 ### http://sti.comsapi.com/258k/ca.crt
 
@@ -17,4 +17,4 @@
 | w_atis_protocol | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 
 
-Generated: 28/10/2022 at 16:26:49
+Generated: 28/10/2022 at 18:15:07

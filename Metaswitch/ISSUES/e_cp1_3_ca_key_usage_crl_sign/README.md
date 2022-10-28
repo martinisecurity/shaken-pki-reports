@@ -22,4 +22,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | CN=Metaswitch STI-CA SHAKEN Issuing 1 | [view](../../CERTIFICATES/89a2a7c2332d416885f9adac29ade0024df9d563/README.md) |  |
 
 
-Generated: 28/10/2022 at 16:28:22
+Generated: 28/10/2022 at 18:15:47

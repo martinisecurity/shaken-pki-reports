@@ -2,7 +2,7 @@
 ## Neustar
 
 ### Certificate 01e985113cfde1adfb8122df529c2bae0301fac2
-Tested At: 2022-10-28 16:26:51 +0000 UTC\
+Tested At: 2022-10-28 18:15:09 +0000 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 320 day(s)\
 Subject: CN=SHAKEN 707J, O=TextNow Inc, C=CA\
@@ -17,4 +17,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2FzCCAqWgAwIBAg
 |------|------|--------|---------|
 | e_cp1_3_subject_sn | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
-Generated: 28/10/2022 at 16:28:22
+Generated: 28/10/2022 at 18:15:47

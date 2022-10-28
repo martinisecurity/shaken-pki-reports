@@ -22,4 +22,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US | [view](../../CERTIFICATES/b6f33eebd6fa1f397a22fe4d6300df28960f3061/README.md) |  |
 
 
-Generated: 28/10/2022 at 16:28:22
+Generated: 28/10/2022 at 18:15:47

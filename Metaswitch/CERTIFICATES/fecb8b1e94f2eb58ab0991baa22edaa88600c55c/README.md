@@ -2,9 +2,9 @@
 ## Metaswitch
 
 ### Certificate fecb8b1e94f2eb58ab0991baa22edaa88600c55c
-Tested At: 2022-10-28 16:28:21 +0000 UTC\
+Tested At: 2022-10-28 18:15:47 +0000 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 506 day(s)\
+Remaining Validity Period: 505 day(s)\
 Subject: CN=South Central Rural Telecommunications Coop SHAKEN Cert 0418, O=South Central Rural Telecommunications Cooperative, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1
 
@@ -20,14 +20,14 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICmTCCAj%2BgAwIBAg
 
 ### Not Effective
 
-- e_sti_serial_number
-- w_cp_1_3_subject_email
 - e_cp1_3_subject_sn
-- e_sti_subject_cn
-- e_sti_extension_unknown
+- e_sti_serial_number
 - e_sti_signature_algorithm
 - e_cp1_3_ambiguous_identifier
+- e_sti_extension_unknown
+- w_cp_1_3_subject_email
+- e_sti_subject_cn
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 28/10/2022 at 16:28:22
+Generated: 28/10/2022 at 18:15:47

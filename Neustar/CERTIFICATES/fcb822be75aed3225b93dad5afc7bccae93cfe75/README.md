@@ -2,9 +2,9 @@
 ## Neustar
 
 ### Certificate fcb822be75aed3225b93dad5afc7bccae93cfe75
-Tested At: 2022-10-28 16:28:19 +0000 UTC\
+Tested At: 2022-10-28 18:15:46 +0000 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 163 day(s)\
+Remaining Validity Period: 162 day(s)\
 Subject: CN=SHAKEN 973J, O=Vibratel, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US
 
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2BDCCAp%2BgAwIB
 | e_sti_extension_unknown | error | ATIS-1000080 | STI certificate shall not include extensions that are not specified |
 | e_sti_certificate_policies | error | ATIS-1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
-Generated: 28/10/2022 at 16:28:22
+Generated: 28/10/2022 at 18:15:47

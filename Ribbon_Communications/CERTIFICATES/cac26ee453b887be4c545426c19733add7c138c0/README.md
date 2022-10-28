@@ -2,7 +2,7 @@
 ## Ribbon Communications
 
 ### Certificate cac26ee453b887be4c545426c19733add7c138c0
-Tested At: 2022-10-28 16:27:59 +0000 UTC\
+Tested At: 2022-10-28 18:15:38 +0000 UTC\
 Initial Validity Period: 4383 day(s)\
 Remaining Validity Period: 3850 day(s)\
 Subject: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
@@ -20,14 +20,14 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICpTCCAkugAwIBAgIQ
 
 ### Not Effective
 
-- e_cp1_3_ca_key_usage_crl_sign
-- e_sti_ca_extension_unknown
-- e_sti_ca_crl_distribution
-- e_sti_ca_subject_cn
-- n_sti_ca_certificate_policy_critical
 - e_sti_ca_certificate_policies
+- e_sti_ca_subject_cn
 - e_sti_ca_serial_number
+- e_sti_ca_crl_distribution
+- n_sti_ca_certificate_policy_critical
+- e_sti_ca_extension_unknown
+- e_cp1_3_ca_key_usage_crl_sign
 
 \* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
-Generated: 28/10/2022 at 16:28:22
+Generated: 28/10/2022 at 18:15:47
