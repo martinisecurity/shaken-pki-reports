@@ -13,7 +13,7 @@ const pemCertificateChain_details = "ATIS-1000080 separately indicates that the 
 
 func init() {
 	lint.RegisterRule(&lint.LintRule{
-		Code:        "w_aits_pem_certificate_chain",
+		Code:        "w_atis_pem_certificate_chain",
 		Description: pemCertificateChain_details,
 		Source:      lint.Atis1000080Source,
 		Rule:        NewPemCertificateChain,
