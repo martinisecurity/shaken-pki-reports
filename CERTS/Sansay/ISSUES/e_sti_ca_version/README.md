@@ -1,0 +1,22 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Sansay
+
+Name: e_sti_ca_version\
+Source: ATIS-1000080\
+Citation: ATIS-1000080.v003 / 6.4.1 SHAKEN Certificate Requirements\
+Effective Date: 04 Sep 20 00:00 UTC\
+Description: STI certificates shall contain Version field specifying version 3
+
+### Leaf Certificates
+
+no warning, or error, or not effective date level issues were found
+
+### CA Certificates
+
+| Status | Subject | Link | Details |
+|--------|---------|------|---------|
+| not effective | SHAKEN Sansay Root CA US | [view](../../CERTS/8356d251b255f4ac3fd108bb79be4c02dcea2d3b13d138892bdb3a70cbe6a343/README.md) |  |
+
+
+Generated: 31/10/2022 at 16:43:22

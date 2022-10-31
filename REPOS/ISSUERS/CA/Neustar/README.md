@@ -1,0 +1,173 @@
+# STIR/SHAKEN Certificate Repository Compliance
+
+## Neustar
+
+153 repositories were included in the corpus being tested\
+100.00% of repositories contain one or more Error level issue\
+100.00% of repositories contain one or more Warning level issue\
+0.00% of repositories contain one or more Notice level issue\
+55ms average time it took to download each certificate
+
+| Instances | Test Status | Source |
+|-----------|-------------|--------|
+| 153 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
+| 153 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+
+| Repository | Problems | Link |
+|------------|----------|------|
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/1.1` | true | [view](REPOS/6b6f6478b3872d6b2aa2000a590486031c62e4c3/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/1.241` | true | [view](REPOS/4210a9511e73cc30631a33ab8d6c5b5ae7f94a74/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/120.121` | true | [view](REPOS/e566fe7eecf1e618e39afa04d3f232beeef09ae9/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/123.124` | true | [view](REPOS/ee86a5df060f60609b264e6968f17c2542c6e69a/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/131.132` | true | [view](REPOS/6d8d2aa64295ce8c6ec3feb2f7181217374ed01a/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/132.133` | true | [view](REPOS/c1ad339fb5d4d2a7a04821d1ebf43e2be30cd1ad/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/134.135` | true | [view](REPOS/0652192cdc932420b2f169c664614911c1822067/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/145.146` | true | [view](REPOS/c70ea3803f7826403e1f6597fe5f1ca42c864c3f/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/146.147` | true | [view](REPOS/ea1d30a69850081339ce51d9cf2abb9f7f8820bb/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/158.172` | true | [view](REPOS/5a2c4764eac8894189712f73b88dcf2aa15a4fa1/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/164.180` | true | [view](REPOS/af4549e573de1a9e1493faa3332481c39fb726ba/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/165.181` | true | [view](REPOS/5cec563c7358362bf380f2dcc4f2b2c3fe1daeef/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/168.185` | true | [view](REPOS/c5414d2a21ee3d422de84b8dbab4491cc5a5b04e/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/176.230` | true | [view](REPOS/396c797d9f996a10b1445e49b8723b39d11becd2/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/179.233` | true | [view](REPOS/954d57dbd4d7a6da6322bc11683d086f3507d80e/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/39.203` | true | [view](REPOS/e1180f60557a72b14541350856939e8696257512/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/49.162` | true | [view](REPOS/8bd510d34b1011dd87b929851c41bf5acc3c6c4e/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/77.226` | true | [view](REPOS/4bd1e44976a991af4b32947748994ff036b900dd/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/87.166` | true | [view](REPOS/8b6ed33acdcb571081b92f1294d6c05413aae50a/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/91.155` | true | [view](REPOS/9c4bceb690b6f9b6a0f7100c68d20c40439bec1a/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11001.10012` | true | [view](REPOS/af4d5835df1120f76adb6ea0134c3f46759db780/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11022.10175` | true | [view](REPOS/3ad5ae0a42f48be45adc9f85208b67cc2cacbc0b/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11022.10175.pem` | true | [view](REPOS/f8cc55d4665360c7889e585e6717b9b6c921231e/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11025.10175.pem` | true | [view](REPOS/5a36500b7af4fbaf9dfb0b105889e7bc715c479c/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11027.10175.pem` | true | [view](REPOS/4d171ec6ac35ae5c2ce5a7bcb4b67db0bc739f15/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11028.10175.pem` | true | [view](REPOS/a85b5a80e92190458baa4dbd7f36f26ee463b8d6/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11034.10174` | true | [view](REPOS/234ddccf457933163303a52fabd2532efbafcd04/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11034.10174.pem` | true | [view](REPOS/9f299cb3f49f765292d2c596ba164d7e2e7d7f7f/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11053.10194` | true | [view](REPOS/457ebff12b471f6768981a7663fe26183c113807/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11053.10194.pem` | true | [view](REPOS/e6b07f900974b371cec737b398de9ac2bdee3a1d/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11055.10194` | true | [view](REPOS/aa8384d5f4cf28c795717d7e490ebd8d3acccaed/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11055.10194.pem` | true | [view](REPOS/b5c6c29e6fa4d4ed982eae52408defc035cef7e0/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11061.10194` | true | [view](REPOS/f9e4a95823e19eef83aea56fa822816ad881dad5/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11061.10194.pem` | true | [view](REPOS/a854092b6b09b82b392481f72a4286ec74662c82/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11063.10194.pem` | true | [view](REPOS/9546e27276a8021f8833df4894c0f80c1c080a3c/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11078.10126` | true | [view](REPOS/094120ca1169295f0b6f14bc47d7b81c30f77470/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11078.10126.pem` | true | [view](REPOS/7272ed9c8d8a3cdb8c3a0b71c7b6f479b4d1426a/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11080.10126` | true | [view](REPOS/d249e5101dd8a207fa668f74d1732a94f0f99caf/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11080.10126.pem` | true | [view](REPOS/f8ab9026f48bc7c26813b9c9677d3878df09abf8/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11084.10126` | true | [view](REPOS/894b11a54ba9cfdd0ae35df51d3469775faac16a/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11084.10126.pem` | true | [view](REPOS/3a34ba43012c4e6de35e7cf18bdbe19ea94a478e/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11089.10126` | true | [view](REPOS/458769f1a78610629efdd24e0c228be403c33fad/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11089.10126.pem` | true | [view](REPOS/7a8cf89e2ad03bfcd2abe5ccdcae2093c1543d2b/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11091.10126` | true | [view](REPOS/874bc27eca0da29558033cf4034292048454fe72/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11091.10126.pem` | true | [view](REPOS/6dbd34045b55818d1e5490f15d03df2cafcdcaec/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11095.10126` | true | [view](REPOS/26982fa4d982443037503fc8bc9d3f08b6caffe0/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11095.10126.pem` | true | [view](REPOS/c10f35f3b4a97eef8b1cde4e9721d5e36de9101f/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11114.10192.pem` | true | [view](REPOS/9f352fc72ab293a0dbdff78d9b75061c082af6c8/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11125.10033` | true | [view](REPOS/ca95d08fdc8a4cdb89f9ccc6a2acd46606fd9a85/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11126.10191` | true | [view](REPOS/3288817d2f3a858e7174cf9623754d83c3ce9371/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11126.10191.pem` | true | [view](REPOS/b7f53adb5dbd5cd9d760fadd70ee1445e2d1b52e/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11133.10171.pem` | true | [view](REPOS/86fe74464fdfcf891918ea444a75b9c0d34d9069/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11135.10171.pem` | true | [view](REPOS/115632c9aa524c63b936cae11eb4fcac7190cc11/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11137.10171.pem` | true | [view](REPOS/19af1c6448e34b21d08c75ff97aabd31741a78b1/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11155.10177` | true | [view](REPOS/6527fc38f8dc85e76993b94b34a1022dad5d88ef/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11155.10177.pem` | true | [view](REPOS/f01672297ffee5e41a58485ce55fd824e4d39c07/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11159.10178` | true | [view](REPOS/8d809851d9769af3db03bf3dec62acb6ce41007b/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11159.10178.pem` | true | [view](REPOS/6d6047a0aa7d7ec5425ae0283439ae82e5e6752e/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11161.10178.pem` | true | [view](REPOS/a9832bb0badf1e37fc0fcf9a7ef67517afa02635/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11162.10187` | true | [view](REPOS/15d16f9f3a972a6d9774097db5c23b22ba2cdd5d/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11162.10187.pem` | true | [view](REPOS/75ea721e3ae5bdf263ec75e244d2776f90d00f04/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11166.10183.pem` | true | [view](REPOS/6cd6b632e3529217f961cece44223f5f0165c711/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11168.10183.pem` | true | [view](REPOS/78df908c940668e61b92729cb06270c53790a416/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11172.10187.pem` | true | [view](REPOS/6cd48be323797ce7b120f043266007857a8d286b/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11174.10187` | true | [view](REPOS/8a6172cf6e96f60f96d611c34530f25a805dbe4f/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11174.10187.pem` | true | [view](REPOS/bcd974b4ac01a2c5c54fb76ee635d27826bc0f90/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11180.10184.pem` | true | [view](REPOS/275cf591d9a5b1997bba39990e0454828f0a4fd7/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11182.10184.pem` | true | [view](REPOS/87511906b7d8a154e190e5724f15872b9bf2f536/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11184.10174` | true | [view](REPOS/76a8dee11f952ea31271d7a6d1178ef1a272a660/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11184.10174.pem` | true | [view](REPOS/92744cbb31c813121af7533d9586574a1994684e/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11186.10187` | true | [view](REPOS/b93401cbafd58072232696bccb0b63093a7a5e62/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11186.10187.pem` | true | [view](REPOS/091575ace71856685a172cc32123a855a9d65d3e/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11188.10187` | true | [view](REPOS/e47d468db79d4ea677ce53202377bca50160890a/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11188.10187.pem` | true | [view](REPOS/199ac1faeeef5dae3ac0236e7c1592a2f77dd6a0/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11194.10187` | true | [view](REPOS/5c560a27c36f2631bda74dcca7a8bfbc5590d803/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11194.10187.pem` | true | [view](REPOS/77515cbfe65874a5d10748581c8c1a2bad92a3d0/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11200.10185` | true | [view](REPOS/3f95a40544f140e2f811ab32d845ffc997d409d5/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11200.10185.pem` | true | [view](REPOS/bad5e5179c284bba2570cf1b8d19489f41467723/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11206.10187.pem` | true | [view](REPOS/2efbdeb3db2f3ec93c85a44c149b2528b28ebcbd/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11208.10175` | true | [view](REPOS/49bab61e3fd9f5405ba56e1c5136bda7fc301fab/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11208.10175.pem` | true | [view](REPOS/0a1cd66b066293983a1c293ca2ffa6cacad72387/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11212.10175` | true | [view](REPOS/1a15de63ad4f15959d1bd1fa7920c27e0266631c/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11212.10175.pem` | true | [view](REPOS/252a5ddde58612dbca1e8e5657dbc1538a3dedc1/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11216.10175` | true | [view](REPOS/268a4cf0176133e12bfd71a0d91e16fa7200f70a/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11216.10175.pem` | true | [view](REPOS/cd98d0c4c37cff3c301d8672fcbcabe50810b102/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11220.10175` | true | [view](REPOS/4614d53c3ab0cfae7a6fccd5ae24fc51b49c0cc8/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11220.10175.pem` | true | [view](REPOS/248894873b1db9b4ae88da682edd24ff7da4bf05/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11224.10175` | true | [view](REPOS/0e226e3b5665698a93a428d3cbc262d57a2864cb/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11224.10175.pem` | true | [view](REPOS/5d0e929793b8cba35ee8661ca39b3b751c396ed9/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11238.10188` | true | [view](REPOS/1f6495a0d9aef20d8755233050c679ba08797c3a/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11238.10188.pem` | true | [view](REPOS/ecfda6226f53f852803e425d2d14d95c23914235/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11260.10189.pem` | true | [view](REPOS/e69a3ba4fd32eca474534849cc98c23bd0de2d51/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11262.10189.pem` | true | [view](REPOS/198ad312272f9b8736da9f4812a617d24926c3ec/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11266.10189.pem` | true | [view](REPOS/a46dfa6ba31efcfc49c815faa7843729f8987ea9/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11272.10189` | true | [view](REPOS/1568c54c451bfe89e2fc656ea14e822682a677fc/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11272.10189.pem` | true | [view](REPOS/6731cb2d41c64d9d3eaf131a4e03a64c707b263d/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11276.10189` | true | [view](REPOS/8101e702e809d700aa9665a137d348400aff6605/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11276.10189.pem` | true | [view](REPOS/a08932bc3015b79a9879f2391c30a5beddd902da/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11282.10179` | true | [view](REPOS/ca6d9d72c503ec4ea7b647c1d48b06c3ce7520dc/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11282.10179.pem` | true | [view](REPOS/e87ba84add3a17e2345e61b8d31eb91c45c265a2/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11284.10179` | true | [view](REPOS/5305c2965df82e8fb02cf53ae2bc24ab7e6e1315/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11284.10179.pem` | true | [view](REPOS/344c45f29638fe1ee6ca2c38fcc8cfe181e6c013/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11292.10180` | true | [view](REPOS/44aa20e4a2d82634b52c03abce8b513a5fdd949c/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11292.10180.pem` | true | [view](REPOS/79b10a60b6cbcdb52130abca876036f4026ce04e/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11294.10180` | true | [view](REPOS/9ec52501c1789502e418e06d27eb9178a52e3b39/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11294.10180.pem` | true | [view](REPOS/462d1d99928ce758ec56b0004c68d59aaf9287a4/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11304.10152` | true | [view](REPOS/0caf83321f6ab20307dc86fd3897e0c659195635/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11304.10152.pem` | true | [view](REPOS/5b16c9f9bfc15ea4789b3902764647b98fba8ed0/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11306.10152` | true | [view](REPOS/4d5b663cee8945aff58b9213d15d0efdaad8cf43/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11316.10181` | true | [view](REPOS/ae6a72107dc2cb9a53f0f39a1b92b5d7061b8a97/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11316.10181.pem` | true | [view](REPOS/37e2715c8217db43dc1ff55e395ca2c3a95bd250/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11338.10182` | true | [view](REPOS/8925948597ea9b8f08426cdd604ca7f8049358e3/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11338.10182.pem` | true | [view](REPOS/09f7f7eaabd22b4a08e85d6ba8f4d66f68c7264b/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11340.10182` | true | [view](REPOS/9d3a8eb506cfbafbb9c80b12eba7c4b528695d8d/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11340.10182.pem` | true | [view](REPOS/16881dd5c9a3bd8696005272dc9dfcca26a081d3/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11342.10182` | true | [view](REPOS/3409384dda3cc95a32dad25ce1c72c745c1b2bbe/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11342.10182.pem` | true | [view](REPOS/cf50a3b383e06706cc3cab1ca6ca748555011462/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11404.10165` | true | [view](REPOS/09fedd81235be4fdfbeb404b0bad463d75ff6303/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11404.10165.pem` | true | [view](REPOS/768b42435ca9308bb66249a663a923b96d5d7622/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11410.10158.pem` | true | [view](REPOS/27ad672aacc43ddf9af1832398705fea4d8ecad5/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11414.10183` | true | [view](REPOS/c76951771ee76d9cdb00f8d073e2a196910f4de9/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11414.10183.pem` | true | [view](REPOS/73630e26ce21dd535c65dc82eddf66b009cd7890/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11416.10156.pem` | true | [view](REPOS/6057a9b3d80c9c07cbf01eeb077820f6bb03979c/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11430.10198` | true | [view](REPOS/58c9afbd7bdeb800a0f74165fc7195558f588bc8/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11430.10198.pem` | true | [view](REPOS/3dced64a83ef69d03a4495e822a6e7b6bfbf0bcd/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11432.10198.pem` | true | [view](REPOS/3c78203a850071da210676aea525bc2ea0d704b9/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11438.10200.pem` | true | [view](REPOS/cf8151857e05b09f06ef88830cd401e4dd12997e/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11440.10200.pem` | true | [view](REPOS/2d0c644001a7370132e294c54b4123905c99ba0c/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11478.10162.pem` | true | [view](REPOS/785ff67dbe91787bb7a0eafab937eb9ba6a6ac9a/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11484.10112` | true | [view](REPOS/c6c3c12122496eac46f344619bc96a2bfbfd3f46/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11484.10112.pem` | true | [view](REPOS/c24b516efc84853f8f05818d2fc5d9edcf3a0966/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11484.10206.pem` | true | [view](REPOS/ed3eb986a34baf7a7f75191ae6c7f6f2c98aaaf8/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11484.10208.pem` | true | [view](REPOS/914019696fb853b1b55b800550e64afe93470f69/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11508.10138` | true | [view](REPOS/8a0147e1fe8cc8c729b699b7f489125ceb15f75f/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11508.10138.pem` | true | [view](REPOS/d5adb552c2ab06545859bb68ddf300c0ac687c32/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11528.10146` | true | [view](REPOS/e62000202d91785dc783dcc0d707b56bf49e6084/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11528.10146.pem` | true | [view](REPOS/9a508d0c64ced771a1bdbb8b594b6fd6fb591a3a/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11535.10153` | true | [view](REPOS/faefbe487c50bf41ad3f5ab83a2e1b0dd5383677/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11536.10153.pem` | true | [view](REPOS/33c8071d6c8e3c7a9b6a47c0bf6d1f1ced55f016/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11537.10153.pem` | true | [view](REPOS/3d790123552cc2e03006d9d1d0cf6c24ec855341/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11538.10154` | true | [view](REPOS/dd87eb9657b835415b8c41cad14052a08f63e65a/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11538.10154.pem` | true | [view](REPOS/1f56ea671c638f75cccb1c48ba9ed42364043da4/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11541.10167` | true | [view](REPOS/f3ba97df1ae7c3015acf114793157e625ff48c92/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11541.10167.pem` | true | [view](REPOS/2d6abea787763fdecfd538ab5127a09662e481b4/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11544.10197` | true | [view](REPOS/9482604cd24f065a97901d6354388613070eeeef/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11544.10197.pem` | true | [view](REPOS/b5b0307abb47a4d94d4c362e2b7a201a451263fa/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11545.10197.pem` | true | [view](REPOS/16fde2dd5455db899ec4998fcadab0a99cd0ac9c/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11551.10188` | true | [view](REPOS/182c6a56d46b035d68dfb9dfc4aacfa20916c4b1/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11551.10188.pem` | true | [view](REPOS/ce79957151bcab988c67b63ba670d26ad5dce799/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11552.10188` | true | [view](REPOS/e47f8b6ad333224b211ff0b123982fd3b8886449/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11552.10188.pem` | true | [view](REPOS/0d0e72fa8c9837872d83eeb0df673a713d639ef8/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11553.10201` | true | [view](REPOS/62e3afacb90645592e3d4e7185b43407a653913e/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11553.10201.pem` | true | [view](REPOS/fc753e0dc248aeff621e1387b093f222818fa7f4/README.md) |
+
+
+Generated: 31/10/2022 at 16:43:22
