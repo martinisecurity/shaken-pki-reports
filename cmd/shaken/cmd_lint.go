@@ -49,20 +49,21 @@ type LintCommandItem struct {
 }
 
 func (t *LintCommandItem) HasCertificateProblems() bool {
-	bTrue := true
 	if t.hasCertificateProblems == nil {
+		flag := false
 		if t.CertificateResult.ErrorsPresent ||
 			t.CertificateResult.WarningsPresent ||
 			t.CertificateResult.NoticesPresent {
-			t.hasCertificateProblems = &bTrue
+			flag = true
 		} else {
 			for _, r := range t.CertificateResult.Results {
 				if r.Status == lint.NE {
-					t.hasCertificateProblems = &bTrue
+					flag = true
 					break
 				}
 			}
 		}
+		t.hasCertificateProblems = &flag
 	}
 
 	return *t.hasCertificateProblems
