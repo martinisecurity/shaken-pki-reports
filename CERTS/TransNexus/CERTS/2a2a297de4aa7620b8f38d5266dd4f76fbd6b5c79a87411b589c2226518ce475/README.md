@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 193E
 
-Tested At: 31 Oct 22 16:40 UTC\
+Tested At: 31 Oct 22 18:16 UTC\
 Initial Validity Period: 60 day(s)\
 Remaining Validity Period: 30 day(s)\
 Subject: CN=SHAKEN 193E, OU=SHAKEN, O=8x8 Inc, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC6TCCAo%2BgAwIBAg
 | [e_cp1_3_subject_sn](../../ISSUES/e_cp1_3_subject_sn/README.md) | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

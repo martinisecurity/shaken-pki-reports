@@ -19,4 +19,4 @@ no warning, or error, or not effective date level issues were found
 | notice | Martini Security SHAKEN G1 | [view](../../CERTS/46e98b1599688c83928b66bcdd49e723ee4207128b5ba4488046edf2879970ef/README.md) | STI certificates should contain a CertificatePolicies extension marked uncritical |
 
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

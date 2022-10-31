@@ -10,4 +10,4 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 |------------|----------|------|
 | `https://stir.tel/c/704J_alt` | true | [view](../../REPOS/651239007efec3ecc82c845c3666dcff06dc0612/README.md) |
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

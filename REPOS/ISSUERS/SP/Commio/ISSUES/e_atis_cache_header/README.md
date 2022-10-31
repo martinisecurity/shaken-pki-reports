@@ -10,4 +10,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 |------------|----------|------|
 | `https://storage.googleapis.com/stirshaken/ShakeNBakeCert.pem` | true | [view](../../REPOS/73d4ff8ea77f3fed275f57ed476e547be77e4677/README.md) |
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

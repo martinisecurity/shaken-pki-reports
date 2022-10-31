@@ -17,6 +17,7 @@ no warning, or error, or not effective date level issues were found
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
 | warn | SHAKEN Sansay Intermediate CA US WEST 1 | [view](../../CERTS/4b1dfdba2b1e4bbffbf900a20f1f6f7befbef0008b963e4922a64469cb97d24b/README.md) | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| warn | SHAKEN Sansay Root CA US | [view](../../CERTS/8356d251b255f4ac3fd108bb79be4c02dcea2d3b13d138892bdb3a70cbe6a343/README.md) | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

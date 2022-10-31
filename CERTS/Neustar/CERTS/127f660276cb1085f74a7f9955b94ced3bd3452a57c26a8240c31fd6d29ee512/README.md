@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 819J
 
-Tested At: 31 Oct 22 16:40 UTC\
+Tested At: 31 Oct 22 18:16 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 221 day(s)\
+Remaining Validity Period: 220 day(s)\
 Subject: CN=SHAKEN 819J, O=Crexendo Business Solutions Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/146.147
@@ -14,9 +14,9 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDDzCCAragAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_sti_certificate_policies](../../ISSUES/e_sti_certificate_policies/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_cp1_3_subject_sn](../../ISSUES/e_cp1_3_subject_sn/README.md) | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [e_sti_certificate_policies](../../ISSUES/e_sti_certificate_policies/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_sti_extension_unknown](../../ISSUES/e_sti_extension_unknown/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

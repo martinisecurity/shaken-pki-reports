@@ -6,7 +6,7 @@
 100.00% of repositories contain one or more Error level issue\
 100.00% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-579ms average time it took to download each certificate
+396ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -18,4 +18,4 @@
 | `https://dial.maqssolution.live/255K.pem` | true | [view](REPOS/adf028fff3c5bfdb49037b7d051913539200fab7/README.md) |
 
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

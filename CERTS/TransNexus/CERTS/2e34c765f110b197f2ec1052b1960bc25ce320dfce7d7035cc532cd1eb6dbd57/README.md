@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 622J
 
-Tested At: 31 Oct 22 16:40 UTC\
+Tested At: 31 Oct 22 18:16 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: 79 day(s)\
 Subject: CN=SHAKEN 622J, OU=SHAKEN, O=Skye Telecom LLC, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC8jCCApigAwIBAgIQ
 | [e_cp1_3_subject_sn](../../ISSUES/e_cp1_3_subject_sn/README.md) | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

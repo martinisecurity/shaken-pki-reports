@@ -45,25 +45,25 @@
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
-| 1 | [e_cp1_3_ca_key_usage_crl_sign](ISSUES/e_cp1_3_ca_key_usage_crl_sign/README.md) | United States SHAKEN CP |
-| 1 | [e_sti_basic_constraints](ISSUES/e_sti_basic_constraints/README.md) | ATIS-1000080 |
+| 2 | [e_cp1_3_ca_key_usage_crl_sign](ISSUES/e_cp1_3_ca_key_usage_crl_sign/README.md) | United States SHAKEN CP |
+| 2 | [e_sti_basic_constraints](ISSUES/e_sti_basic_constraints/README.md) | ATIS-1000080 |
 | 1 | [e_sti_ca_authority_key_identifier](ISSUES/e_sti_ca_authority_key_identifier/README.md) | ATIS-1000080 |
 | 1 | [e_sti_ca_certificate_policies](ISSUES/e_sti_ca_certificate_policies/README.md) | ATIS-1000080 |
 | 1 | [e_sti_ca_crl_distribution](ISSUES/e_sti_ca_crl_distribution/README.md) | ATIS-1000080 |
 | 1 | [e_sti_ca_extension_unknown](ISSUES/e_sti_ca_extension_unknown/README.md) | ATIS-1000080 |
-| 1 | [e_sti_ca_issuer_dn](ISSUES/e_sti_ca_issuer_dn/README.md) | ATIS-1000080 |
-| 1 | [e_sti_ca_key_usage](ISSUES/e_sti_ca_key_usage/README.md) | ATIS-1000080 |
-| 1 | [e_sti_ca_serial_number](ISSUES/e_sti_ca_serial_number/README.md) | ATIS-1000080 |
-| 1 | [e_sti_ca_signature_algorithm](ISSUES/e_sti_ca_signature_algorithm/README.md) | ATIS-1000080 |
-| 1 | [e_sti_ca_subject](ISSUES/e_sti_ca_subject/README.md) | ATIS-1000080 |
-| 1 | [e_sti_ca_subject_cn](ISSUES/e_sti_ca_subject_cn/README.md) | ATIS-1000080 |
-| 1 | [e_sti_ca_subject_key_identifier](ISSUES/e_sti_ca_subject_key_identifier/README.md) | ATIS-1000080 |
-| 1 | [e_sti_ca_subject_public_key](ISSUES/e_sti_ca_subject_public_key/README.md) | ATIS-1000080 |
-| 1 | [e_sti_ca_version](ISSUES/e_sti_ca_version/README.md) | ATIS-1000080 |
+| 2 | [e_sti_ca_issuer_dn](ISSUES/e_sti_ca_issuer_dn/README.md) | ATIS-1000080 |
+| 2 | [e_sti_ca_key_usage](ISSUES/e_sti_ca_key_usage/README.md) | ATIS-1000080 |
+| 2 | [e_sti_ca_serial_number](ISSUES/e_sti_ca_serial_number/README.md) | ATIS-1000080 |
+| 2 | [e_sti_ca_signature_algorithm](ISSUES/e_sti_ca_signature_algorithm/README.md) | ATIS-1000080 |
+| 2 | [e_sti_ca_subject](ISSUES/e_sti_ca_subject/README.md) | ATIS-1000080 |
+| 2 | [e_sti_ca_subject_cn](ISSUES/e_sti_ca_subject_cn/README.md) | ATIS-1000080 |
+| 2 | [e_sti_ca_subject_key_identifier](ISSUES/e_sti_ca_subject_key_identifier/README.md) | ATIS-1000080 |
+| 2 | [e_sti_ca_subject_public_key](ISSUES/e_sti_ca_subject_public_key/README.md) | ATIS-1000080 |
+| 2 | [e_sti_ca_version](ISSUES/e_sti_ca_version/README.md) | ATIS-1000080 |
 | 1 | [e_sti_root_authority_key_identifier](ISSUES/e_sti_root_authority_key_identifier/README.md) | ATIS-1000080 |
 | 1 | [e_sti_root_certificate_policies](ISSUES/e_sti_root_certificate_policies/README.md) | ATIS-1000080 |
 | 1 | [e_sti_root_extension_unknown](ISSUES/e_sti_root_extension_unknown/README.md) | ATIS-1000080 |
-| 1 | [n_pki_ca_key_usage](ISSUES/n_pki_ca_key_usage/README.md) | SHAKEN PKI Best Practice |
+| 2 | [n_pki_ca_key_usage](ISSUES/n_pki_ca_key_usage/README.md) | SHAKEN PKI Best Practice |
 | 1 | [n_sti_ca_certificate_policy_critical](ISSUES/n_sti_ca_certificate_policy_critical/README.md) | ATIS-1000080 |
 
 ### Details
@@ -82,4 +82,4 @@
 | 19 Sep 19 20:12 UTC | TMOBILE-PROD-ROOT-STIRSHAKEN-EC | true | [view](CERTS/d54b8c44268da3eaee9c5483c289652d1bd7f82420891114475470adebf8bf1e/README.md) |
 
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

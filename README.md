@@ -4,7 +4,7 @@
 
 This report is broken int two parts:
 1. One generated using [Zlint](https://github.com/zmap/zlint) a tool commonly used to asses CA ecosystem compliance with such requirements. The tests used to generate this report are currently not part of the main [Zlint](https://github.com/martinisecurity/zlint) distribution but can be found here.
-2. One generated with a custom script that eumerates the known STIR/SHAKEN certificates and asses each repository against the current rule set . The source for this test can be found here while the report itself can be found [here](https://ecosystemcompliance.martinisecurity.com/REPOS/README.md).
+2. One generated with a custom script that eumerates the known STIR/SHAKEN certificates and asses each repository against the current rule set . The source for this test can be found here while the report itself can be found [here](REPOS/README.md).
 
 ## Summary
 
@@ -14,13 +14,13 @@ This report is broken int two parts:
 
 ### Leaf Certificates
 
-420 certificates were included in the corpus being tested\
+419 certificates were included in the corpus being tested\
 301 certificates in the corpus were skipped because they were expired\
 2 certificates in the corpus were skipped because they are not currently trusted\
-88.33% of certificates contain one or more Error level issue\
-71.19% of certificates contain one or more Warning level issue\
-1.90% of certificates contain one or more Notice level issue\
-33.10% of certificates are too old to be assessed against currently enforced expectations\
+88.31% of certificates contain one or more Error level issue\
+71.36% of certificates contain one or more Warning level issue\
+1.91% of certificates contain one or more Notice level issue\
+33.17% of certificates are too old to be assessed against currently enforced expectations\
 452 days is the average remaining validity for the certificates in the corpus\
 453 days is the average initial validity for the certificates in the corpus\
 148 certificates expire in the next 30 days
@@ -40,8 +40,8 @@ This report is broken int two parts:
 
 ## Certificate Repository
 
-67.62% of certificate repositories contain one or more Error level issue\
-86.19% of certificates repositories contain one or more Warning level issue\
+67.54% of certificate repositories contain one or more Error level issue\
+86.16% of certificates repositories contain one or more Warning level issue\
 0.00% of certificates repositories contain one or more Notice level issue
 
 ## Details
@@ -50,18 +50,18 @@ This report is broken int two parts:
 
 | Issuers | Certificates | Errors | Warnings | Notices | Not Effective |
 |---------|--------------|--------|----------|---------|---------------|
-| [Comcast](CERTS/Comcast/README.md#leaf-certificates) | 40 (9.52%) | 40 (9.52%) | 40 (9.52%) | 0 (0.00%) | 0 (0.00%) |
+| [Comcast](CERTS/Comcast/README.md#leaf-certificates) | 40 (9.55%) | 40 (9.55%) | 40 (9.55%) | 0 (0.00%) | 0 (0.00%) |
 | [GBSDTech](CERTS/GBSDTech/README.md#leaf-certificates) | 1 (0.24%) | 1 (0.24%) | 1 (0.24%) | 0 (0.00%) | 0 (0.00%) |
 | [Martini Security](CERTS/Martini_Security/README.md#leaf-certificates) | 7 (1.67%) | 0 (0.00%) | 0 (0.00%) | 4 (0.95%) | 0 (0.00%) |
-| [Metaswitch](CERTS/Metaswitch/README.md#leaf-certificates) | 21 (5.00%) | 21 (5.00%) | 6 (1.43%) | 0 (0.00%) | 20 (4.76%) |
+| [Metaswitch](CERTS/Metaswitch/README.md#leaf-certificates) | 21 (5.01%) | 21 (5.01%) | 6 (1.43%) | 0 (0.00%) | 20 (4.77%) |
 | [NetNumber](CERTS/NetNumber/README.md#leaf-certificates) | 4 (0.95%) | 4 (0.95%) | 1 (0.24%) | 4 (0.95%) | 0 (0.00%) |
-| [Neustar](CERTS/Neustar/README.md#leaf-certificates) | 201 (47.86%) | 159 (37.86%) | 105 (25.00%) | 0 (0.00%) | 117 (27.86%) |
+| [Neustar](CERTS/Neustar/README.md#leaf-certificates) | 200 (47.73%) | 158 (37.71%) | 105 (25.06%) | 0 (0.00%) | 117 (27.92%) |
 | [Peeringhub](CERTS/Peeringhub/README.md#leaf-certificates) | 5 (1.19%) | 5 (1.19%) | 5 (1.19%) | 0 (0.00%) | 0 (0.00%) |
-| [Ribbon Communications](CERTS/Ribbon_Communications/README.md#leaf-certificates) | 3 (0.71%) | 3 (0.71%) | 3 (0.71%) | 0 (0.00%) | 0 (0.00%) |
-| [Sansay](CERTS/Sansay/README.md#leaf-certificates) | 85 (20.24%) | 85 (20.24%) | 85 (20.24%) | 0 (0.00%) | 0 (0.00%) |
+| [Ribbon Communications](CERTS/Ribbon_Communications/README.md#leaf-certificates) | 3 (0.72%) | 3 (0.72%) | 3 (0.72%) | 0 (0.00%) | 0 (0.00%) |
+| [Sansay](CERTS/Sansay/README.md#leaf-certificates) | 85 (20.29%) | 85 (20.29%) | 85 (20.29%) | 0 (0.00%) | 0 (0.00%) |
 | [T-Mobile](CERTS/T-Mobile/README.md#leaf-certificates) | 1 (0.24%) | 1 (0.24%) | 1 (0.24%) | 0 (0.00%) | 0 (0.00%) |
-| [TransNexus](CERTS/TransNexus/README.md#leaf-certificates) | 52 (12.38%) | 52 (12.38%) | 52 (12.38%) | 0 (0.00%) | 2 (0.48%) |
-| **Total** | 420 (100.00%) | 371 (88.33%) | 299 (71.19%) | 8 (1.90%) | 139 (33.10%) |
+| [TransNexus](CERTS/TransNexus/README.md#leaf-certificates) | 52 (12.41%) | 52 (12.41%) | 52 (12.41%) | 0 (0.00%) | 2 (0.48%) |
+| **Total** | 419 (100.00%) | 370 (88.31%) | 299 (71.36%) | 8 (1.91%) | 139 (33.17%) |
 
 ## CA Certificates
 
@@ -81,4 +81,4 @@ This report is broken int two parts:
 | **Total** | 29 (100.00%) | 12 (41.38%) | 25 (86.21%) | 18 (62.07%) | 22 (75.86%) |
 
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

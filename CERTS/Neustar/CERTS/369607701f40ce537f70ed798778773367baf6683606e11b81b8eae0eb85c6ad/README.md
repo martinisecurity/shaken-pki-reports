@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN-8468
 
-Tested At: 31 Oct 22 16:41 UTC\
+Tested At: 31 Oct 22 18:16 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 553 day(s)\
 Subject: C=US, ST=NY, L=Albany, O=Firstlight, OU=VoIP, CN=SHAKEN-8468\
@@ -14,9 +14,9 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIID8DCCAtigAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| [w_pki_subject_rdn_unknown](../../ISSUES/w_pki_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | [e_sti_certificate_policies](../../ISSUES/e_sti_certificate_policies/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 | [e_sti_crl_distribution_not_reachable](../../ISSUES/e_sti_crl_distribution_not_reachable/README.md) | error | ATIS&#x2011;1000080 | Unable to retrieve CRL specified in CRLdp from allow listed IP address |
-| [w_pki_subject_rdn_unknown](../../ISSUES/w_pki_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
 ### Not Effective
@@ -32,4 +32,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIID8DCCAtigAwIBAgIU
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

@@ -2,7 +2,7 @@
 
 ## Certificate Charter Communications Inc SHAKEN 5606
 
-Tested At: 31 Oct 22 16:42 UTC\
+Tested At: 31 Oct 22 18:17 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 2 day(s)\
 Subject: CN=Charter Communications Inc SHAKEN 5606, OU=Charter Communications Inc, O=TransNexus, C=US\
@@ -31,4 +31,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICuTCCAl%2BgAwIBAg
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

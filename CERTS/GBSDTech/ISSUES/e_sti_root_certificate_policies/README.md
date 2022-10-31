@@ -19,4 +19,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | GBSDTech SHAKEN Root CA | [view](../../CERTS/6d2bee73a01c1c9fe92273ff8ba56e0c870b7b901cbebcc9e12226fc109e1af9/README.md) |  |
 
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

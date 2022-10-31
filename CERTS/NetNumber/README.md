@@ -22,12 +22,12 @@
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
-| 1 | [e_cp1_3_ambiguous_identifier](ISSUES/e_cp1_3_ambiguous_identifier/README.md) | United States SHAKEN CP |
-| 1 | [e_cp1_3_subject_sn](ISSUES/e_cp1_3_subject_sn/README.md) | United States SHAKEN CP |
-| 1 | [e_sti_certificate_policies](ISSUES/e_sti_certificate_policies/README.md) | ATIS-1000080 |
+| 4 | [e_cp1_3_ambiguous_identifier](ISSUES/e_cp1_3_ambiguous_identifier/README.md) | United States SHAKEN CP |
+| 4 | [e_cp1_3_subject_sn](ISSUES/e_cp1_3_subject_sn/README.md) | United States SHAKEN CP |
+| 4 | [e_sti_certificate_policies](ISSUES/e_sti_certificate_policies/README.md) | ATIS-1000080 |
 | 1 | [e_sti_crl_distribution](ISSUES/e_sti_crl_distribution/README.md) | ATIS-1000080 |
-| 1 | [e_sti_subject_cn](ISSUES/e_sti_subject_cn/README.md) | ATIS-1000080 |
-| 1 | [n_sti_certificate_policy_critical](ISSUES/n_sti_certificate_policy_critical/README.md) | ATIS-1000080 |
+| 4 | [e_sti_subject_cn](ISSUES/e_sti_subject_cn/README.md) | ATIS-1000080 |
+| 4 | [n_sti_certificate_policy_critical](ISSUES/n_sti_certificate_policy_critical/README.md) | ATIS-1000080 |
 | 1 | [w_pki_subject_rdn_unknown](ISSUES/w_pki_subject_rdn_unknown/README.md) | SHAKEN PKI Best Practice |
 
 #### CA Certificates
@@ -49,14 +49,14 @@
 | 1 | [e_sti_ca_certificate_policies](ISSUES/e_sti_ca_certificate_policies/README.md) | ATIS-1000080 |
 | 1 | [e_sti_ca_crl_distribution](ISSUES/e_sti_ca_crl_distribution/README.md) | ATIS-1000080 |
 | 1 | [e_sti_ca_extension_unknown](ISSUES/e_sti_ca_extension_unknown/README.md) | ATIS-1000080 |
-| 1 | [e_sti_ca_serial_number](ISSUES/e_sti_ca_serial_number/README.md) | ATIS-1000080 |
-| 1 | [e_sti_ca_signature_algorithm](ISSUES/e_sti_ca_signature_algorithm/README.md) | ATIS-1000080 |
-| 1 | [e_sti_ca_subject_cn](ISSUES/e_sti_ca_subject_cn/README.md) | ATIS-1000080 |
-| 1 | [e_sti_ca_subject_public_key](ISSUES/e_sti_ca_subject_public_key/README.md) | ATIS-1000080 |
-| 1 | [e_sti_root_certificate_policies](ISSUES/e_sti_root_certificate_policies/README.md) | ATIS-1000080 |
-| 1 | [e_sti_root_extension_unknown](ISSUES/e_sti_root_extension_unknown/README.md) | ATIS-1000080 |
+| 3 | [e_sti_ca_serial_number](ISSUES/e_sti_ca_serial_number/README.md) | ATIS-1000080 |
+| 2 | [e_sti_ca_signature_algorithm](ISSUES/e_sti_ca_signature_algorithm/README.md) | ATIS-1000080 |
+| 3 | [e_sti_ca_subject_cn](ISSUES/e_sti_ca_subject_cn/README.md) | ATIS-1000080 |
+| 2 | [e_sti_ca_subject_public_key](ISSUES/e_sti_ca_subject_public_key/README.md) | ATIS-1000080 |
+| 2 | [e_sti_root_certificate_policies](ISSUES/e_sti_root_certificate_policies/README.md) | ATIS-1000080 |
+| 2 | [e_sti_root_extension_unknown](ISSUES/e_sti_root_extension_unknown/README.md) | ATIS-1000080 |
 | 1 | [n_sti_ca_certificate_policy_critical](ISSUES/n_sti_ca_certificate_policy_critical/README.md) | ATIS-1000080 |
-| 1 | [w_pki_ca_subject_rdn_unknown](ISSUES/w_pki_ca_subject_rdn_unknown/README.md) | SHAKEN PKI Best Practice |
+| 3 | [w_pki_ca_subject_rdn_unknown](ISSUES/w_pki_ca_subject_rdn_unknown/README.md) | SHAKEN PKI Best Practice |
 
 ### Details
 
@@ -66,7 +66,6 @@
 |------------|---------|----------|------|
 | 26 Oct 22 15:00 UTC | Baltimore-Washington Telephone Company SHAKEN cert 8697 | true | [view](CERTS/0541bcf0e982d7e6cb1c0bbbcce11b835523895f5816aab422fd0fbd9d8f2ffb/README.md) |
 | 10 Jun 22 00:00 UTC | Plivo Inc | true | [view](CERTS/7dc750fb7aa68d2b67b8dbc89f65217f92db54504685058be016638011adf8bf/README.md) |
-| 09 Sep 22 00:10 UTC | Google SHAKEN cert 969H | true | [view](CERTS/f96afa0b55abfade7449d6e388ac0292dc5401b5c103c0e03e7c16af23d5c616/README.md) |
 | 25 Oct 22 01:08 UTC | Google SHAKEN cert 969H | true | [view](CERTS/ea9be023aa06e4b6606c9048a6ccace9a16100695fe5b5747654a521d7acfc56/README.md) |
 | 02 Oct 22 01:01 UTC | Google SHAKEN cert 969H | true | [view](CERTS/857d06cf3d0d97ef0146c5c90bd1138b91f9a400a0c04a7c0f3c6851805afcb9/README.md) |
 
@@ -79,4 +78,4 @@
 | 27 Sep 21 19:45 UTC | NetNumber SHAKEN Root CA 1 | true | [view](CERTS/2dd1386ca717f31d550b35b9bce9daa9b02483bcdb98bdfcfca07202276136d7/README.md) |
 
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

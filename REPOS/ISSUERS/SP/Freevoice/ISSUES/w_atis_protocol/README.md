@@ -10,4 +10,4 @@ Description: The verifier should not dereference any protocol other than https o
 |------------|----------|------|
 | `http://sip.phx.dlr.freevoicepbx.com/Freevoice_963J` | true | [view](../../REPOS/142af8e9a7a3c09b3d81de07699fa3a77721664a/README.md) |
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

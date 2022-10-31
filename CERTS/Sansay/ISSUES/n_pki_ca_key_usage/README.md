@@ -19,4 +19,4 @@ no warning, or error, or not effective date level issues were found
 | notice | SHAKEN Sansay Intermediate CA US WEST 1 | [view](../../CERTS/4b1dfdba2b1e4bbffbf900a20f1f6f7befbef0008b963e4922a64469cb97d24b/README.md) | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

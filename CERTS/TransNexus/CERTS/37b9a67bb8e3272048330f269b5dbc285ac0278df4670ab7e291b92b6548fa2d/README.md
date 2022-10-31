@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 6628
 
-Tested At: 31 Oct 22 16:40 UTC\
+Tested At: 31 Oct 22 18:16 UTC\
 Initial Validity Period: 124 day(s)\
 Remaining Validity Period: 64 day(s)\
 Subject: CN=SHAKEN 6628, OU=SHAKEN, O=Merryville Investments LTD Inc dba ClarityTel, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDDjCCArWgAwIBAgIQ
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

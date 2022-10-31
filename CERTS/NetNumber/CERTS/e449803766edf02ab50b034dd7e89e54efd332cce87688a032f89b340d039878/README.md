@@ -2,7 +2,7 @@
 
 ## Certificate NetNumber SHAKEN Root Intermediate CA 1
 
-Tested At: 31 Oct 22 16:43 UTC\
+Tested At: 31 Oct 22 18:25 UTC\
 Initial Validity Period: 4380 day(s)\
 Remaining Validity Period: 3983 day(s)\
 Subject: L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN Root Intermediate CA 1\
@@ -13,8 +13,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDNzCCApigAwIBAgIJ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_sti_ca_subject_public_key](../../ISSUES/e_sti_ca_subject_public_key/README.md) | error | ATIS&#x2011;1000080 | STI certificates shall contain a Subject Public Key Info field specifying a Public Key Algorithm of "id-ecPublicKey" and containing a 256-bit public key |
 | [e_sti_ca_signature_algorithm](../../ISSUES/e_sti_ca_signature_algorithm/README.md) | error | ATIS&#x2011;1000080 | STI certificates shall contain a Signature Algorithm field with the value 'ecdsa-with-SHA256' |
+| [e_sti_ca_subject_public_key](../../ISSUES/e_sti_ca_subject_public_key/README.md) | error | ATIS&#x2011;1000080 | STI certificates shall contain a Subject Public Key Info field specifying a Public Key Algorithm of "id-ecPublicKey" and containing a 256-bit public key |
 | [w_pki_ca_subject_rdn_unknown](../../ISSUES/w_pki_ca_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
@@ -30,4 +30,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDNzCCApigAwIBAgIJ
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

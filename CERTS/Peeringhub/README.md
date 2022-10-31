@@ -22,10 +22,10 @@
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
-| 1 | [e_cp1_3_ambiguous_identifier](ISSUES/e_cp1_3_ambiguous_identifier/README.md) | United States SHAKEN CP |
-| 1 | [e_cp1_3_subject_sn](ISSUES/e_cp1_3_subject_sn/README.md) | United States SHAKEN CP |
-| 1 | [e_sti_certificate_policies](ISSUES/e_sti_certificate_policies/README.md) | ATIS-1000080 |
-| 1 | [w_pki_subject_rdn_unknown](ISSUES/w_pki_subject_rdn_unknown/README.md) | SHAKEN PKI Best Practice |
+| 5 | [e_cp1_3_ambiguous_identifier](ISSUES/e_cp1_3_ambiguous_identifier/README.md) | United States SHAKEN CP |
+| 5 | [e_cp1_3_subject_sn](ISSUES/e_cp1_3_subject_sn/README.md) | United States SHAKEN CP |
+| 5 | [e_sti_certificate_policies](ISSUES/e_sti_certificate_policies/README.md) | ATIS-1000080 |
+| 5 | [w_pki_subject_rdn_unknown](ISSUES/w_pki_subject_rdn_unknown/README.md) | SHAKEN PKI Best Practice |
 
 #### CA Certificates
 
@@ -42,14 +42,14 @@
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
-| 1 | [e_cp1_3_ca_key_usage_crl_sign](ISSUES/e_cp1_3_ca_key_usage_crl_sign/README.md) | United States SHAKEN CP |
+| 2 | [e_cp1_3_ca_key_usage_crl_sign](ISSUES/e_cp1_3_ca_key_usage_crl_sign/README.md) | United States SHAKEN CP |
 | 1 | [e_sti_ca_certificate_policies](ISSUES/e_sti_ca_certificate_policies/README.md) | ATIS-1000080 |
 | 1 | [e_sti_ca_serial_number](ISSUES/e_sti_ca_serial_number/README.md) | ATIS-1000080 |
 | 1 | [e_sti_ca_subject_cn](ISSUES/e_sti_ca_subject_cn/README.md) | ATIS-1000080 |
 | 1 | [e_sti_root_certificate_policies](ISSUES/e_sti_root_certificate_policies/README.md) | ATIS-1000080 |
 | 1 | [e_sti_root_extension_unknown](ISSUES/e_sti_root_extension_unknown/README.md) | ATIS-1000080 |
-| 1 | [n_pki_ca_key_usage](ISSUES/n_pki_ca_key_usage/README.md) | SHAKEN PKI Best Practice |
-| 1 | [w_pki_ca_subject_rdn_unknown](ISSUES/w_pki_ca_subject_rdn_unknown/README.md) | SHAKEN PKI Best Practice |
+| 2 | [n_pki_ca_key_usage](ISSUES/n_pki_ca_key_usage/README.md) | SHAKEN PKI Best Practice |
+| 2 | [w_pki_ca_subject_rdn_unknown](ISSUES/w_pki_ca_subject_rdn_unknown/README.md) | SHAKEN PKI Best Practice |
 
 ### Details
 
@@ -60,8 +60,6 @@
 | 31 Jul 22 09:09 UTC | Voiceterm SHAKEN 240K | true | [view](CERTS/84819934eb8b7f347d7365133dba4376d162d283fa9d09858aa1706ec88487c6/README.md) |
 | 29 Jul 22 16:41 UTC | ATI SHAKEN 731J | true | [view](CERTS/bbc0a32743f1e659eff17172cbef96ee8cc3000aeb1dda85e1a47d47391ec3ab/README.md) |
 | 26 Aug 22 23:31 UTC | Teleinx SHAKEN 744J | true | [view](CERTS/743032377136fc18e443399c5fc57e36a5706188f141a522438a806143997925/README.md) |
-| 26 Aug 22 23:10 UTC | MAQSSOLUTIONS LLC SHAKEN 255K | true | [view](CERTS/93f1c363e63e701dd5e30338966a6c6587fdc723bf58c9607d61fc7ab41c720d/README.md) |
-| 22 Sep 22 22:46 UTC | Apex Telecom SHAKEN 288K | true | [view](CERTS/12b3311f24c41edfb3b61e75b4bf6c3fcdd18563e2106e802c05e21ab0201723/README.md) |
 | 15 Oct 22 00:00 UTC | VOCALTRANSIT SHAKEN 783J | true | [view](CERTS/81b78fff8a772249d72d4854d97672d7ac69a83c4900beaac699d28d220d8c13/README.md) |
 | 19 Oct 22 19:24 UTC | TalkAsiaVoip LLC SHAKEN 198K | true | [view](CERTS/b49964274f962d87bf69c69b8c2efd07cd4de3d20155339e41ab2752477fd19b/README.md) |
 
@@ -73,4 +71,4 @@
 | 17 Dec 20 15:31 UTC | Peeringhub Inc Root CA | true | [view](CERTS/0ad4adc0b4d93fdb0e628c577020c73b8a5caff750e7e499f80ee2ab362a3f6a/README.md) |
 
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

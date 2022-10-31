@@ -16,7 +16,7 @@ no warning, or error, or not effective date level issues were found
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| not effective | SHAKEN Sansay Intermediate CA US WEST 1 | [view](../../CERTS/52041b27f345f20093d35f09ac6ca8e6123622aca8d71d3b358e2a94b674e2c9/README.md) |  |
+| not effective | SHAKEN Sansay Root CA US | [view](../../CERTS/8356d251b255f4ac3fd108bb79be4c02dcea2d3b13d138892bdb3a70cbe6a343/README.md) |  |
 
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

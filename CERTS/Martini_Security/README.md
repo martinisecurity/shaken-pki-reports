@@ -22,7 +22,7 @@
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
-| 1 | [n_sti_certificate_policy_critical](ISSUES/n_sti_certificate_policy_critical/README.md) | ATIS-1000080 |
+| 4 | [n_sti_certificate_policy_critical](ISSUES/n_sti_certificate_policy_critical/README.md) | ATIS-1000080 |
 
 #### CA Certificates
 
@@ -40,7 +40,7 @@
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
 | 1 | [n_sti_ca_certificate_policy_critical](ISSUES/n_sti_ca_certificate_policy_critical/README.md) | ATIS-1000080 |
-| 1 | [w_pki_ca_subject_rdn_unknown](ISSUES/w_pki_ca_subject_rdn_unknown/README.md) | SHAKEN PKI Best Practice |
+| 3 | [w_pki_ca_subject_rdn_unknown](ISSUES/w_pki_ca_subject_rdn_unknown/README.md) | SHAKEN PKI Best Practice |
 
 ### Details
 
@@ -65,4 +65,4 @@
 | 03 May 22 15:31 UTC | Martini Security SHAKEN R1 | true | [view](CERTS/6077e368b0a0e4b6076eaa07ce67d6652ef310c4757776b76af84a6a9e003cdf/README.md) |
 
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

@@ -6,7 +6,7 @@
 100.00% of repositories contain one or more Error level issue\
 100.00% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-12ms average time it took to download each certificate
+65ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -18,4 +18,4 @@
 | `https://pki.tncp.textnow.com/stir-shaken-textnow-cert.pem` | true | [view](REPOS/3958a3a042e51efa3bf53241511f9ea26a628622/README.md) |
 
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

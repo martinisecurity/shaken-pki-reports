@@ -2,9 +2,9 @@
 
 ## Certificate Neustar Certified Caller ID SHAKEN Root CA
 
-Tested At: 31 Oct 22 16:43 UTC\
+Tested At: 31 Oct 22 18:25 UTC\
 Initial Validity Period: 7305 day(s)\
-Remaining Validity Period: 6866 day(s)\
+Remaining Validity Period: 6865 day(s)\
 Subject: CN=Neustar Certified Caller ID SHAKEN Root CA, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN Root CA, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US
 
@@ -13,8 +13,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICdzCCAh2gAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [n_pki_ca_key_usage](../../ISSUES/n_pki_ca_key_usage/README.md) | notice | SHAKEN PKI Best Practice | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 | [w_pki_ca_subject_rdn_unknown](../../ISSUES/w_pki_ca_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| [n_pki_ca_key_usage](../../ISSUES/n_pki_ca_key_usage/README.md) | notice | SHAKEN PKI Best Practice | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 
 
 ### Not Effective
@@ -28,4 +28,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICdzCCAh2gAwIBAgIU
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

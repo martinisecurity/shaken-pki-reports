@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 772J
 
-Tested At: 31 Oct 22 16:43 UTC\
+Tested At: 31 Oct 22 18:25 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 203 day(s)\
 Subject: CN=SHAKEN 772J, O=VOIP ESSENTIAL INC, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDAjCCAqmgAwIBAgIU
 | [e_sti_extension_unknown](../../ISSUES/e_sti_extension_unknown/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

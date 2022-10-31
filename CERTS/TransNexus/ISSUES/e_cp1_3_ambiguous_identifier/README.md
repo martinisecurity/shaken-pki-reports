@@ -13,10 +13,13 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
 | error | CCI SHAKEN 663J | [view](../../CERTS/9cfd0b9974acdc9b5fce3888cf2f6cf99173e7955adeebd37a1e60dfc444a0b3/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| error | MobileSphere SHAKEN 873J | [view](../../CERTS/8f74ddd5e6964042b119d5b3f17d24694ec78c8688e0ffc96d13fdb0e8df26d4/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| error | Fusion Connect SHAKEN 2720 | [view](../../CERTS/03a010b294807e90cc1309d7466fd2ddc591158a69be6950ff4d0eab32de0799/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| not effective | Charter Communications Inc SHAKEN 5606 | [view](../../CERTS/6e6a467b634c931ad2b441fcdbeeec1d29fb3b3a9687018774c563fa866e00ed/README.md) |  |
 
 ### CA Certificates
 
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

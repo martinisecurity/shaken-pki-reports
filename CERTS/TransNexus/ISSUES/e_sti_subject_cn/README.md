@@ -12,11 +12,12 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| not effective | TCN SHAKEN 706J | [view](../../CERTS/221a0b74876597aaab3a56ac25b522c35127f049c58ecd6cfcb02aada95144d0/README.md) |  |
+| not effective | MobileSphere SHAKEN 873J | [view](../../CERTS/8f74ddd5e6964042b119d5b3f17d24694ec78c8688e0ffc96d13fdb0e8df26d4/README.md) |  |
+| not effective | Charter Communications Inc SHAKEN 5606 | [view](../../CERTS/6e6a467b634c931ad2b441fcdbeeec1d29fb3b3a9687018774c563fa866e00ed/README.md) |  |
 
 ### CA Certificates
 
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03

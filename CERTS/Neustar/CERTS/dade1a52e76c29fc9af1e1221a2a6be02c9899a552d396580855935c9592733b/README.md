@@ -2,7 +2,7 @@
 
 ## Certificate Neustar Certified Caller ID CA-1
 
-Tested At: 31 Oct 22 16:43 UTC\
+Tested At: 31 Oct 22 18:25 UTC\
 Initial Validity Period: 3653 day(s)\
 Remaining Validity Period: 2519 day(s)\
 Subject: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1\
@@ -13,8 +13,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIE2TCCA8GgAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [w_pki_ca_subject_rdn_unknown](../../ISSUES/w_pki_ca_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | [n_pki_ca_key_usage](../../ISSUES/n_pki_ca_key_usage/README.md) | notice | SHAKEN PKI Best Practice | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
+| [w_pki_ca_subject_rdn_unknown](../../ISSUES/w_pki_ca_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
 ### Not Effective
@@ -39,4 +39,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIE2TCCA8GgAwIBAgIU
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 31/10/2022 at 16:43:22
+Generated: 31/10/2022 at 18:25:03
