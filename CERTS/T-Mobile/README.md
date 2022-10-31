@@ -11,6 +11,7 @@
 
 1 certificates were included in the corpus being tested\
 0 certificates in the corpus were skipped because they were expired\
+0 repositories in the corpus were skipped because they were duplicated\
 0 certificates in the corpus were skipped because they are not currently trusted\
 100.00% of certificates contain one or more Error level issue\
 100.00% of certificates contain one or more Warning level issue\
@@ -34,6 +35,7 @@
 
 2 certificates were included in the corpus being tested\
 0 certificates in the corpus were skipped because they were expired\
+0 repositories in the corpus were skipped because they were duplicated\
 0 certificates in the corpus were skipped because they are not currently trusted\
 0.00% of certificates contain one or more Error level issue\
 0.00% of certificates contain one or more Warning level issue\
@@ -78,8 +80,8 @@
 
 | Created at | Subject | Problems | Link |
 |------------|---------|----------|------|
-| 27 Sep 19 17:12 UTC | TMOBILE-PROD-SUB-STIRSHAKEN-EC | true | [view](CERTS/4378a3f136510465232246b4d6a72d600db7e11117ac0e3d59c65528f47c9c4f/README.md) |
 | 19 Sep 19 20:12 UTC | TMOBILE-PROD-ROOT-STIRSHAKEN-EC | true | [view](CERTS/d54b8c44268da3eaee9c5483c289652d1bd7f82420891114475470adebf8bf1e/README.md) |
+| 27 Sep 19 17:12 UTC | TMOBILE-PROD-SUB-STIRSHAKEN-EC | true | [view](CERTS/4378a3f136510465232246b4d6a72d600db7e11117ac0e3d59c65528f47c9c4f/README.md) |
 
 
-Generated: 31/10/2022 at 19:21:49
+Generated: 31/10/2022 at 20:32:42

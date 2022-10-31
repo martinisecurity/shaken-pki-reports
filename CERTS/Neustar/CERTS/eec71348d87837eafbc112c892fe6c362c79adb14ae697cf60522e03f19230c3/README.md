@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 534J
 
-Tested At: 31 Oct 22 19:20 UTC\
+Tested At: 31 Oct 22 20:24 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 220 day(s)\
 Subject: CN=SHAKEN 534J, O=UComTel, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2BDCCAp6gAwIBAg
 | [e_sti_extension_unknown](../../ISSUES/e_sti_extension_unknown/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 31/10/2022 at 19:21:49
+Generated: 31/10/2022 at 20:32:42

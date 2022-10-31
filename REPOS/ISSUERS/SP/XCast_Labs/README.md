@@ -3,10 +3,11 @@
 ## XCast Labs
 
 3 repositories were included in the corpus being tested\
+0 repositories in the corpus were skipped because they were duplicated\
 100.00% of repositories contain one or more Error level issue\
 100.00% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-35ms average time it took to download each certificate
+66ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -20,4 +21,4 @@
 | `https://cr.xcastlabs.net/1668234600/xclsshaken.pem` | true | [view](REPOS/5039332f8883f8c1e5d71a6bc53ffcedbd71cf74/README.md) |
 
 
-Generated: 31/10/2022 at 19:21:49
+Generated: 31/10/2022 at 20:32:43

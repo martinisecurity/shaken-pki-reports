@@ -2,17 +2,18 @@
 
 ## Sansay
 
-109 repositories were included in the corpus being tested\
-0.92% of repositories contain one or more Error level issue\
+108 repositories were included in the corpus being tested\
+1 repositories in the corpus were skipped because they were duplicated\
+0.93% of repositories contain one or more Error level issue\
 100.00% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-3ms average time it took to download each certificate
+4ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
 | 1 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
 | 1 | [e_http_status_200](ISSUES/e_http_status_200/README.md) | HTTP |
-| 109 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 108 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 | 1 | [w_atis_pem_certificate_chain](ISSUES/w_atis_pem_certificate_chain/README.md) | ATIS-1000080 |
 
 | Repository | Problems | Link |
@@ -42,7 +43,6 @@
 | `https://cr.sansay.com/210J/order/203_210J_63` | true | [view](REPOS/59a686b30e95364faba92bbcdf1a94c5144c6b7f/README.md) |
 | `https://cr.sansay.com/210J/order/205_210J_63` | true | [view](REPOS/5a7834f4441abc878e6ae5e1471de4577626e677/README.md) |
 | `https://cr.sansay.com/210J/order/206_210J_63` | true | [view](REPOS/3ea4aa61530aa7bbd8798f024577c6c16f63ebb2/README.md) |
-| `https://cr.sansay.com/258K_CERT` | true | [view](REPOS/48d6df33f100ce6dbd46b9271a310bc388d83c8b/README.md) |
 | `https://cr.sansay.com/325B_20211101.pem` | true | [view](REPOS/71c5948b5aac5e7b508043a2515d8cf6f4a58e31/README.md) |
 | `https://cr.sansay.com/382G_TERRANOVA_STIR_SHAKEN.crt` | true | [view](REPOS/6e6c71e4a8fff99711d1595ab30809db18105b93/README.md) |
 | `https://cr.sansay.com/463G/order/448_463G_53` | true | [view](REPOS/767a4753d7c178a7826ea0c4a73afd8d09ecc341/README.md) |
@@ -128,4 +128,4 @@
 | `https://cr.sansay.com/star2star_stirshaken_20220922` | true | [view](REPOS/9f19fc9d73b83395796f7e4f0d8a277010ab2fd7/README.md) |
 
 
-Generated: 31/10/2022 at 19:21:49
+Generated: 31/10/2022 at 20:32:43

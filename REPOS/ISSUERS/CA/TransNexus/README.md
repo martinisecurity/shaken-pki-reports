@@ -3,13 +3,13 @@
 ## TransNexus
 
 327 repositories were included in the corpus being tested\
+0 repositories in the corpus were skipped because they were duplicated\
 0.00% of repositories contain one or more Error level issue\
 0.00% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-30ms average time it took to download each certificate
+12ms average time it took to download each certificate
 
-| Instances | Test Status | Source |
-|-----------|-------------|--------|
+No issues found
 
 | Repository | Problems | Link |
 |------------|----------|------|
@@ -342,4 +342,4 @@
 | `https://certificates.transnexus.com/952J/b81c5f3e-5577-44d2-a22e-5bcfb144b13e.pem` | false | [view](REPOS/93cf6db42066e90ae8fe18a6f8bddee4303a09e3/README.md) |
 
 
-Generated: 31/10/2022 at 19:21:49
+Generated: 31/10/2022 at 20:32:43

@@ -3,10 +3,11 @@
 ## Contact Center Specialists LLC
 
 1 repositories were included in the corpus being tested\
+0 repositories in the corpus were skipped because they were duplicated\
 100.00% of repositories contain one or more Error level issue\
 100.00% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-23ms average time it took to download each certificate
+20ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -18,4 +19,4 @@
 | `https://ssc.getsipnav.com/certs/16de0926d65be10547c26ed3417d6ffd26e3a7f3` | true | [view](REPOS/d97e29161cacdd986fc1664765451ba6f147f06a/README.md) |
 
 
-Generated: 31/10/2022 at 19:21:49
+Generated: 31/10/2022 at 20:32:43

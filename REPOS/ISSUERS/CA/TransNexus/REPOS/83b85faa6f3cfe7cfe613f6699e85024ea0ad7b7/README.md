@@ -3,12 +3,12 @@
 ## TransNexus
 
 Name: `https://certificates.transnexus.com/952J/187853bb-a8b0-460f-a3f1-7fcd1d30b142.pem`\
-Tested At: 31 Oct 22 19:20 UTC\
-Time: 6ms
+Tested At: 31 Oct 22 20:24 UTC\
+Time: 2ms
 
 ### Issues
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 
-Generated: 31/10/2022 at 19:21:49
+Generated: 31/10/2022 at 20:32:43

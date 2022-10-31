@@ -6,6 +6,7 @@ Name: w_atis_content_type\
 Source: ATIS-1000080\
 Description: ATIS-1000080 separately indicates that the mime type should be application/pem-certificate-chain
 ### Repositories
+
 | Repository | Problems | Link |
 |------------|----------|------|
 | `https://cr.sansay.com/016K/order/63_016K_115` | true | [view](../../REPOS/f1ae391c3972838829f272530e08ddbf1969be14/README.md) |
@@ -33,7 +34,6 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | `https://cr.sansay.com/210J/order/203_210J_63` | true | [view](../../REPOS/59a686b30e95364faba92bbcdf1a94c5144c6b7f/README.md) |
 | `https://cr.sansay.com/210J/order/205_210J_63` | true | [view](../../REPOS/5a7834f4441abc878e6ae5e1471de4577626e677/README.md) |
 | `https://cr.sansay.com/210J/order/206_210J_63` | true | [view](../../REPOS/3ea4aa61530aa7bbd8798f024577c6c16f63ebb2/README.md) |
-| `https://cr.sansay.com/258K_CERT` | true | [view](../../REPOS/48d6df33f100ce6dbd46b9271a310bc388d83c8b/README.md) |
 | `https://cr.sansay.com/325B_20211101.pem` | true | [view](../../REPOS/71c5948b5aac5e7b508043a2515d8cf6f4a58e31/README.md) |
 | `https://cr.sansay.com/382G_TERRANOVA_STIR_SHAKEN.crt` | true | [view](../../REPOS/6e6c71e4a8fff99711d1595ab30809db18105b93/README.md) |
 | `https://cr.sansay.com/463G/order/448_463G_53` | true | [view](../../REPOS/767a4753d7c178a7826ea0c4a73afd8d09ecc341/README.md) |
@@ -118,4 +118,5 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | `https://cr.sansay.com/star2star-prod-stirshaken` | true | [view](../../REPOS/54e4a0308739d11788b00b354a6cd51473fbf024/README.md) |
 | `https://cr.sansay.com/star2star_stirshaken_20220922` | true | [view](../../REPOS/9f19fc9d73b83395796f7e4f0d8a277010ab2fd7/README.md) |
 
-Generated: 31/10/2022 at 19:21:49
+
+Generated: 31/10/2022 at 20:32:43

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 292K
 
-Tested At: 31 Oct 22 19:21 UTC\
+Tested At: 31 Oct 22 20:25 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 319 day(s)\
 Subject: CN=SHAKEN 292K, O=Falcon Endeavors, C=US\
@@ -17,4 +17,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDBDCCAqqgAwIBAgIU
 | [e_cp1_3_subject_sn](../../ISSUES/e_cp1_3_subject_sn/README.md) | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 31/10/2022 at 19:21:49
+Generated: 31/10/2022 at 20:32:42

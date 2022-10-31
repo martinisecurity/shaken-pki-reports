@@ -2,7 +2,7 @@
 
 ## Certificate RCN SHAKEN Cert 7615
 
-Tested At: 31 Oct 22 19:21 UTC\
+Tested At: 31 Oct 22 20:25 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 502 day(s)\
 Subject: CN=RCN SHAKEN Cert 7615, O=RCN, C=US\
@@ -14,8 +14,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICQTCCAeegAwIBAgIQ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_sti_issuer_dn](../../ISSUES/e_sti_issuer_dn/README.md) | error | ATIS&#x2011;1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 | [e_sti_key_usage](../../ISSUES/e_sti_key_usage/README.md) | error | ATIS&#x2011;1000080 | The Key Usage extension shall contain a single key usage value of digitalSignature |
+| [e_sti_issuer_dn](../../ISSUES/e_sti_issuer_dn/README.md) | error | ATIS&#x2011;1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 
 
 ### Not Effective
@@ -31,4 +31,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICQTCCAeegAwIBAgIQ
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 31/10/2022 at 19:21:49
+Generated: 31/10/2022 at 20:32:43

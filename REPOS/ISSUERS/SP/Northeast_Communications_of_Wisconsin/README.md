@@ -3,10 +3,11 @@
 ## Northeast Communications of Wisconsin
 
 1 repositories were included in the corpus being tested\
+0 repositories in the corpus were skipped because they were duplicated\
 100.00% of repositories contain one or more Error level issue\
 100.00% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-337ms average time it took to download each certificate
+171ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -18,4 +19,4 @@
 | `https://cdn-cr.cgah.tnsi.com/certs/1a7ab760b70a56725786e626f157ba4512f909ec` | true | [view](REPOS/c0cc22e2a370659ed009f0201da4a32f66f1153d/README.md) |
 
 
-Generated: 31/10/2022 at 19:21:49
+Generated: 31/10/2022 at 20:32:43

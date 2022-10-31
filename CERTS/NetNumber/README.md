@@ -11,6 +11,7 @@
 
 4 certificates were included in the corpus being tested\
 1 certificates in the corpus were skipped because they were expired\
+0 repositories in the corpus were skipped because they were duplicated\
 0 certificates in the corpus were skipped because they are not currently trusted\
 100.00% of certificates contain one or more Error level issue\
 25.00% of certificates contain one or more Warning level issue\
@@ -34,6 +35,7 @@
 
 3 certificates were included in the corpus being tested\
 0 certificates in the corpus were skipped because they were expired\
+0 repositories in the corpus were skipped because they were duplicated\
 0 certificates in the corpus were skipped because they are not currently trusted\
 66.67% of certificates contain one or more Error level issue\
 100.00% of certificates contain one or more Warning level issue\
@@ -64,18 +66,18 @@
 
 | Created at | Subject | Problems | Link |
 |------------|---------|----------|------|
-| 26 Oct 22 15:00 UTC | Baltimore-Washington Telephone Company SHAKEN cert 8697 | true | [view](CERTS/0541bcf0e982d7e6cb1c0bbbcce11b835523895f5816aab422fd0fbd9d8f2ffb/README.md) |
 | 10 Jun 22 00:00 UTC | Plivo Inc | true | [view](CERTS/7dc750fb7aa68d2b67b8dbc89f65217f92db54504685058be016638011adf8bf/README.md) |
-| 25 Oct 22 01:08 UTC | Google SHAKEN cert 969H | true | [view](CERTS/ea9be023aa06e4b6606c9048a6ccace9a16100695fe5b5747654a521d7acfc56/README.md) |
 | 02 Oct 22 01:01 UTC | Google SHAKEN cert 969H | true | [view](CERTS/857d06cf3d0d97ef0146c5c90bd1138b91f9a400a0c04a7c0f3c6851805afcb9/README.md) |
+| 25 Oct 22 01:08 UTC | Google SHAKEN cert 969H | true | [view](CERTS/ea9be023aa06e4b6606c9048a6ccace9a16100695fe5b5747654a521d7acfc56/README.md) |
+| 26 Oct 22 15:00 UTC | Baltimore-Washington Telephone Company SHAKEN cert 8697 | true | [view](CERTS/0541bcf0e982d7e6cb1c0bbbcce11b835523895f5816aab422fd0fbd9d8f2ffb/README.md) |
 
 #### CA Certificates
 
 | Created at | Subject | Problems | Link |
 |------------|---------|----------|------|
-| 29 Sep 21 13:22 UTC | NetNumber SHAKEN Root Intermediate CA 1 | true | [view](CERTS/e449803766edf02ab50b034dd7e89e54efd332cce87688a032f89b340d039878/README.md) |
 | 12 Jul 21 23:25 UTC | NetNumber SHAKEN Root CA | true | [view](CERTS/7ac80e8481ecb019dc95484016842db78686069efbc0f703e7f39310217b6157/README.md) |
 | 27 Sep 21 19:45 UTC | NetNumber SHAKEN Root CA 1 | true | [view](CERTS/2dd1386ca717f31d550b35b9bce9daa9b02483bcdb98bdfcfca07202276136d7/README.md) |
+| 29 Sep 21 13:22 UTC | NetNumber SHAKEN Root Intermediate CA 1 | true | [view](CERTS/e449803766edf02ab50b034dd7e89e54efd332cce87688a032f89b340d039878/README.md) |
 
 
-Generated: 31/10/2022 at 19:21:49
+Generated: 31/10/2022 at 20:32:43

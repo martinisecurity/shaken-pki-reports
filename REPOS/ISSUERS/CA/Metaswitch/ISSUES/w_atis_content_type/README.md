@@ -6,6 +6,7 @@ Name: w_atis_content_type\
 Source: ATIS-1000080\
 Description: ATIS-1000080 separately indicates that the mime type should be application/pem-certificate-chain
 ### Repositories
+
 | Repository | Problems | Link |
 |------------|----------|------|
 | `https://sti-cr.cgah.tnsi.com/certs/11d9e0e06eeaaf56fb9be54eec6aae5a8b3461fe` | true | [view](../../REPOS/3b3a2bead0211bccb53952e15923351e2f2a8538/README.md) |
@@ -23,4 +24,5 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | `https://sti-cr.cgah.tnsi.com/certs/cd1856717574765eb6b4bddb7a5bc8814e1e2103` | true | [view](../../REPOS/8a93062c89a419a83af68fafaa8bc49b3e23ad38/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/de39b976c7549358da256530d81cfb1f446a2583` | true | [view](../../REPOS/5b6aeeae4a284e7607c4cb9d696247d8dce1a428/README.md) |
 
-Generated: 31/10/2022 at 19:21:49
+
+Generated: 31/10/2022 at 20:32:43

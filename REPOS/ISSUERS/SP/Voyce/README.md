@@ -3,10 +3,11 @@
 ## Voyce
 
 1 repositories were included in the corpus being tested\
+0 repositories in the corpus were skipped because they were duplicated\
 100.00% of repositories contain one or more Error level issue\
 100.00% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-26ms average time it took to download each certificate
+20ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -18,4 +19,4 @@
 | `https://ssc.getsipnav.com/certs/b00badc474bbf0d965554e422647a4fcc426eb0c` | true | [view](REPOS/b8a64db014ecd80918bc4eade866029c5ca427e7/README.md) |
 
 
-Generated: 31/10/2022 at 19:21:49
+Generated: 31/10/2022 at 20:32:43

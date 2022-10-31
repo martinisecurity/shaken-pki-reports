@@ -6,6 +6,7 @@ Name: w_atis_content_type\
 Source: ATIS-1000080\
 Description: ATIS-1000080 separately indicates that the mime type should be application/pem-certificate-chain
 ### Repositories
+
 | Repository | Problems | Link |
 |------------|----------|------|
 | `https://sticr.stir.comcast.com/00aec434-5013-4136-9d51-04f563275d0d.cer` | true | [view](../../REPOS/73658ffc1f55ae879a04f6928577f8b95f8d1302/README.md) |
@@ -60,4 +61,5 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | `https://sticr.stir.comcast.com/fd36683c-6292-4ab0-879d-e59fe379bfbf.cer` | true | [view](../../REPOS/e7bdb7695e33ee0a3c2b1816f9daf2933de929e5/README.md) |
 | `https://sticr.stir.comcast.com/ff4f3455-b2b0-4f18-9435-ef5fa9a58b9f.cer` | true | [view](../../REPOS/abb5d20577a6b6bfd7727965fd4a8466601d4de0/README.md) |
 
-Generated: 31/10/2022 at 19:21:49
+
+Generated: 31/10/2022 at 20:32:43

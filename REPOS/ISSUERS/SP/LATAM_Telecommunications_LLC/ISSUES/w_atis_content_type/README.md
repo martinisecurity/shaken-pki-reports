@@ -6,9 +6,10 @@ Name: w_atis_content_type\
 Source: ATIS-1000080\
 Description: ATIS-1000080 separately indicates that the mime type should be application/pem-certificate-chain
 ### Repositories
+
 | Repository | Problems | Link |
 |------------|----------|------|
 | `https://187.174.67.118:8080/7075515eb2d150fc98c43e794c07bbca.cer` | true | [view](../../REPOS/d8faee293b08466701e0b503002bc7343687408c/README.md) |
-| `https://187.174.68.251:8080/7075515eb2d150fc98c43e794c07bbca.cer` | true | [view](../../REPOS/08f75793f66de82676ee55430a54822033ae8662/README.md) |
 
-Generated: 31/10/2022 at 19:21:49
+
+Generated: 31/10/2022 at 20:32:43

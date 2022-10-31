@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Matrix 3058
 
-Tested At: 31 Oct 22 19:21 UTC\
+Tested At: 31 Oct 22 20:25 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 26 day(s)\
 Subject: CN=SHAKEN Matrix 3058, OU=NOC, O=Matrix, ST=Texas, C=US\
@@ -21,4 +21,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICvTCCAmOgAwIBAgIU
 | [e_sti_certificate_policies](../../ISSUES/e_sti_certificate_policies/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 31/10/2022 at 19:21:49
+Generated: 31/10/2022 at 20:32:42

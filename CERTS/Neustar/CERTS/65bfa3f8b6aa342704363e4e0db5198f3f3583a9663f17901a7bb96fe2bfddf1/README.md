@@ -2,7 +2,7 @@
 
 ## Certificate Warmego
 
-Tested At: 31 Oct 22 19:20 UTC\
+Tested At: 31 Oct 22 20:24 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 537 day(s)\
 Subject: C=US, ST=KS, L=Warmego, O=Warmego Telecom Company Inc, OU=Warmego Telecom, CN=Warmego\
@@ -31,4 +31,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIECTCCAvGgAwIBAgIU
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 31/10/2022 at 19:21:49
+Generated: 31/10/2022 at 20:32:42

@@ -3,10 +3,11 @@
 ## Peeringhub
 
 3 repositories were included in the corpus being tested\
+0 repositories in the corpus were skipped because they were duplicated\
 100.00% of repositories contain one or more Error level issue\
 100.00% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-153ms average time it took to download each certificate
+166ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -20,4 +21,4 @@
 | `https://certificates.peeringhub.io/744J/744J.crt` | true | [view](REPOS/3af0a5123d6850e5aa936da2adc555ea47a5274c/README.md) |
 
 
-Generated: 31/10/2022 at 19:21:49
+Generated: 31/10/2022 at 20:32:43

@@ -11,6 +11,7 @@
 
 3 certificates were included in the corpus being tested\
 0 certificates in the corpus were skipped because they were expired\
+0 repositories in the corpus were skipped because they were duplicated\
 0 certificates in the corpus were skipped because they are not currently trusted\
 100.00% of certificates contain one or more Error level issue\
 100.00% of certificates contain one or more Warning level issue\
@@ -32,6 +33,7 @@
 
 2 certificates were included in the corpus being tested\
 0 certificates in the corpus were skipped because they were expired\
+0 repositories in the corpus were skipped because they were duplicated\
 0 certificates in the corpus were skipped because they are not currently trusted\
 0.00% of certificates contain one or more Error level issue\
 100.00% of certificates contain one or more Warning level issue\
@@ -73,4 +75,4 @@
 | 13 May 21 00:00 UTC | SHAKEN Ribbon Root CA | true | [view](CERTS/7c2799d3642d04f04fe667c3ab251c18689af323acdc43b2fa5f3dc89e3a0f14/README.md) |
 
 
-Generated: 31/10/2022 at 19:21:49
+Generated: 31/10/2022 at 20:32:42

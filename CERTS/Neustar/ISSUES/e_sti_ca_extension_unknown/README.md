@@ -21,4 +21,4 @@ no warning, or error, or not effective date level issues were found
 | error | Neustar Certified Caller ID SHAKEN CA-2 | [view](../../CERTS/3ea530838e9952fdda913a8bd669bf37f88f4ffdb39a34698f34a63915c9e404/README.md) | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 31/10/2022 at 19:21:49
+Generated: 31/10/2022 at 20:32:42

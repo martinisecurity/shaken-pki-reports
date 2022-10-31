@@ -11,6 +11,7 @@
 
 1 certificates were included in the corpus being tested\
 0 certificates in the corpus were skipped because they were expired\
+0 repositories in the corpus were skipped because they were duplicated\
 0 certificates in the corpus were skipped because they are not currently trusted\
 100.00% of certificates contain one or more Error level issue\
 100.00% of certificates contain one or more Warning level issue\
@@ -35,6 +36,7 @@
 
 2 certificates were included in the corpus being tested\
 0 certificates in the corpus were skipped because they were expired\
+0 repositories in the corpus were skipped because they were duplicated\
 0 certificates in the corpus were skipped because they are not currently trusted\
 50.00% of certificates contain one or more Error level issue\
 100.00% of certificates contain one or more Warning level issue\
@@ -71,8 +73,8 @@
 
 | Created at | Subject | Problems | Link |
 |------------|---------|----------|------|
-| 05 May 21 20:22 UTC | 1RouteGroup SHAKEN Intermediate CA | true | [view](CERTS/99e9a67644a30ebc33ecc9aa8df6335524d49a4691164e357c5d2406b58a578e/README.md) |
 | 05 May 21 19:05 UTC | GBSDTech SHAKEN Root CA | true | [view](CERTS/6d2bee73a01c1c9fe92273ff8ba56e0c870b7b901cbebcc9e12226fc109e1af9/README.md) |
+| 05 May 21 20:22 UTC | 1RouteGroup SHAKEN Intermediate CA | true | [view](CERTS/99e9a67644a30ebc33ecc9aa8df6335524d49a4691164e357c5d2406b58a578e/README.md) |
 
 
-Generated: 31/10/2022 at 19:21:49
+Generated: 31/10/2022 at 20:32:42

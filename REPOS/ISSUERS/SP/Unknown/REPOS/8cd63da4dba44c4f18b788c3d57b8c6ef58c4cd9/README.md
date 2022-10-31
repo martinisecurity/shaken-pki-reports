@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://api.alianza.com/v2/stir-shaken/certs/b45a4083-1554-4412-b5fc-bbd2c027091e/key.crt`\
-Tested At: 31 Oct 22 19:19 UTC\
-Time: 511ms
+Tested At: 31 Oct 22 20:24 UTC\
+Time: 464ms
 
 ### Issues
 
@@ -14,4 +14,4 @@ Time: 511ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 31/10/2022 at 19:21:49
+Generated: 31/10/2022 at 20:32:43

@@ -6,8 +6,10 @@ Name: w_atis_content_type\
 Source: ATIS-1000080\
 Description: ATIS-1000080 separately indicates that the mime type should be application/pem-certificate-chain
 ### Repositories
+
 | Repository | Problems | Link |
 |------------|----------|------|
 | `https://ssc.getsipnav.com/certs/16de0926d65be10547c26ed3417d6ffd26e3a7f3` | true | [view](../../REPOS/d97e29161cacdd986fc1664765451ba6f147f06a/README.md) |
 
-Generated: 31/10/2022 at 19:21:49
+
+Generated: 31/10/2022 at 20:32:43

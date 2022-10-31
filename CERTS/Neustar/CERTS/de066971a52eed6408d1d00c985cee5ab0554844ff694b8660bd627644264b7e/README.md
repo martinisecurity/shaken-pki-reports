@@ -2,12 +2,12 @@
 
 ## Certificate SHAKEN 966J
 
-Tested At: 31 Oct 22 19:20 UTC\
+Tested At: 31 Oct 22 20:24 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 172 day(s)\
 Subject: CN=SHAKEN 966J, O=J2 Web Services Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
-Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/123.124
+Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/120.121
 
 View: [Click to view](https://understandingwebpki.com/?cert=MIIDAzCCAqqgAwIBAgIUAnoGj%2FMc8uQELqLSGN0DWawkBbMwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0xMB4XDTIyMDQyMDIwNTQxOVoXDTIzMDQyMDIwNTQxOVowQTELMAkGA1UEBhMCVVMxHDAaBgNVBAoME0oyIFdlYiBTZXJ2aWNlcyBJbmMxFDASBgNVBAMMC1NIQUtFTiA5NjZKMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEXAx%2Bx7y7GuGkgUtc6xM6AldmYCHhotPVWdHhEmWc6liaW587gcGYdKi3zoVTetc%2F3FP8CBXXBWLNy9v%2BqtBT5KOCATkwggE1MBYGCCsGAQUFBwEaBAowCKAGFgQ5NjZKMAwGA1UdEwEB%2FwQCMAAwHwYDVR0jBBgwFoAUr9HIwu5yTIP8P%2B0Zp20dkLIH8DowWwYIKwYBBQUHAQEETzBNMEsGCCsGAQUFBzAChj9odHRwOi8vY2FjZXJ0cy11cy5jY2lkLm5ldXN0YXIvTmV1c3RhckNlcnRpZmllZENhbGxlcklkQ0ExLmNydCAwFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEBMEcGA1UdHwRAMD4wPKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybDAdBgNVHQ4EFgQU7HdbqkCRtsyZwgYkw7EjgTbx2G0wDgYDVR0PAQH%2FBAQDAgeAMAoGCCqGSM49BAMCA0cAMEQCIDEa42qPAD%2BaembDW1Srs8CUrQ%2B2XImsvWJz5d65mhGQAiA4OpFfcsryloeISZzAKNRQEMcSpjwfypqDckbWk2mtCQ%3D%3D)
 
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDAzCCAqqgAwIBAgIU
 | [e_sti_extension_unknown](../../ISSUES/e_sti_extension_unknown/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 31/10/2022 at 19:21:49
+Generated: 31/10/2022 at 20:32:42
