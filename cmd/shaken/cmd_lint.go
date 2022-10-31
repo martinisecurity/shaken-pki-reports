@@ -71,7 +71,7 @@ func (t *LintCommandItem) Id() string {
 }
 
 func (t *LintCommandItem) IsSkipped() bool {
-	return t.IsExpired || t.IsUntrusted
+	return t.IsExpired || t.IsUntrusted || t.IsDuplicateRepository
 }
 
 func (t *LintCommandItem) HasCertificateProblems() bool {
