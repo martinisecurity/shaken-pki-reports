@@ -10,20 +10,21 @@ import (
 )
 
 type CertificateGroupReport struct {
-	Items                    []*LintCommandItem
-	RepositoryErrorAmount    int
-	RepositoryWarnAmount     int
-	RepositoryNoticeAmount   int
-	TestedAmount             int
-	SkippedExpiredAmount     int
-	SkippedUntrustedAmount   int
-	ErrorAmount              int
-	WarnAmount               int
-	NoticeAmount             int
-	NotEffectiveAmount       int
-	ExpiresSoon              int
-	averageRemainingValidity []int
-	averageInitialValidity   []int
+	Items                     []*LintCommandItem
+	RepositoryErrorAmount     int
+	RepositoryWarnAmount      int
+	RepositoryNoticeAmount    int
+	TestedAmount              int
+	SkippedExpiredAmount      int
+	SkippedUntrustedAmount    int
+	SkippedRepositoriesAmount int
+	ErrorAmount               int
+	WarnAmount                int
+	NoticeAmount              int
+	NotEffectiveAmount        int
+	ExpiresSoon               int
+	averageRemainingValidity  []int
+	averageInitialValidity    []int
 }
 
 func average(sum int, amount int) float64 {
@@ -42,6 +43,7 @@ func (t *CertificateGroupReport) Join(c *CertificateGroupReport) {
 	t.TestedAmount += c.TestedAmount
 	t.SkippedExpiredAmount += c.SkippedExpiredAmount
 	t.SkippedUntrustedAmount += c.SkippedUntrustedAmount
+	t.SkippedRepositoriesAmount += c.SkippedRepositoriesAmount
 	t.ErrorAmount += c.ErrorAmount
 	t.WarnAmount += c.WarnAmount
 	t.NoticeAmount += c.NoticeAmount
@@ -105,6 +107,10 @@ func (t *CertificateGroupReport) Append(i *LintCommandItem) bool {
 	i.UpdateStatuses()
 
 	skip := false
+	if i.IsDuplicateRepository {
+		t.SkippedRepositoriesAmount += 1
+		skip = true
+	}
 	if i.IsUntrusted {
 		t.SkippedUntrustedAmount += 1
 		skip = true
@@ -385,20 +391,24 @@ func (t *RepositoryGroupReport) Append(v *LintCommandItem) bool {
 		return false
 	}
 
-	t.Items = append(t.Items, v)
-	t.TestedAmount += 1
+	if v.IsDuplicateRepository {
+		t.SkippedAmount += 1
+	} else {
+		t.Items = append(t.Items, v)
+		t.TestedAmount += 1
 
-	if v.UrlResult.HasErrors {
-		t.ErrorAmount += 1
-	}
-	if v.UrlResult.HasWarnings {
-		t.WarnAmount += 1
-	}
-	if v.UrlResult.HasNotices {
-		t.NoticeAmount += 1
-	}
+		if v.UrlResult.HasErrors {
+			t.ErrorAmount += 1
+		}
+		if v.UrlResult.HasWarnings {
+			t.WarnAmount += 1
+		}
+		if v.UrlResult.HasNotices {
+			t.NoticeAmount += 1
+		}
 
-	t.averageTime = append(t.averageTime, v.UrlResult.Time)
+		t.averageTime = append(t.averageTime, v.UrlResult.Time)
+	}
 
 	return true
 }
@@ -441,20 +451,22 @@ func (t *RepositoryIssuerReport) Append(v *LintCommandItem) bool {
 		return false
 	}
 
-	for c, r := range v.UrlResult.Results {
-		if r.Status == uLint.Error ||
-			r.Status == uLint.Warn ||
-			r.Status == uLint.Notice {
-			p := t.Problems[c]
-			if p == nil {
-				l := uLint.FindRuleByName(c)
-				p = &Problem{
-					Name:   c,
-					Source: string(l.Source),
+	if !v.IsDuplicateRepository {
+		for c, r := range v.UrlResult.Results {
+			if r.Status == uLint.Error ||
+				r.Status == uLint.Warn ||
+				r.Status == uLint.Notice {
+				p := t.Problems[c]
+				if p == nil {
+					l := uLint.FindRuleByName(c)
+					p = &Problem{
+						Name:   c,
+						Source: string(l.Source),
+					}
+					t.Problems[c] = p
 				}
-				t.Problems[c] = p
+				p.Items = append(p.Items, v)
 			}
-			p.Items = append(p.Items, v)
 		}
 	}
 

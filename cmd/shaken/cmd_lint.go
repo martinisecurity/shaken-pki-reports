@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/hex"
 	"fmt"
+	"math/rand"
 	"net/url"
 	"os"
 	"path"
@@ -42,10 +43,31 @@ type LintCommandItem struct {
 	CertificateResult      *zlint.ResultSet
 	IsExpired              bool
 	IsUntrusted            bool
+	IsDuplicateRepository  bool
 	Chain                  []*x509.Certificate
 	certStatusUpdated      bool
 	CaCrAvailable          CaCrAvailableType
 	hasCertificateProblems *bool
+	id                     string
+}
+
+type LintCommandItems map[string]*LintCommandItem
+
+func (t *LintCommandItem) Id() string {
+	if len(t.id) == 0 {
+		randId := make([]byte, 20)
+		rand.Read(randId)
+
+		t.id = hex.EncodeToString(randId)
+		if t.Url != nil {
+			t.id = getRepositoryId(t.Url)
+		}
+		if t.Certificate != nil {
+			t.id = getCertificateId(t.Certificate)
+		}
+	}
+
+	return t.id
 }
 
 func (t *LintCommandItem) IsSkipped() bool {
@@ -346,7 +368,7 @@ func (t *Report) saveRepositories(outDir string) error {
 						return err
 					}
 					for _, item := range issuer.Items {
-						repoDir := path.Join(issuerReposDir, hex.EncodeToString(repoFingerprint(item.Url)))
+						repoDir := path.Join(issuerReposDir, getRepositoryId(item.Url))
 						repoFile, err := CreateReport(repoDir)
 						if err != nil {
 							return err
@@ -381,7 +403,17 @@ func (t *Report) saveRepositories(outDir string) error {
 func MakeReport(items []*LintCommandItem) *Report {
 	r := NewReport()
 
+	mapItems := LintCommandItems{}
 	for _, item := range items {
+		item.UpdateStatuses()
+
+		id := item.Id()
+		if existingItem := mapItems[id]; existingItem != nil {
+			item.IsDuplicateRepository = true
+		} else {
+			mapItems[id] = item
+		}
+
 		if item.Certificate != nil && item.CertificateResult != nil {
 			r.Certificates.Append(item)
 		}

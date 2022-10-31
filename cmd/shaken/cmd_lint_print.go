@@ -1,9 +1,7 @@
 package main
 
 import (
-	"crypto"
 	"encoding/base64"
-	"encoding/hex"
 	"fmt"
 	"io"
 	"net/url"
@@ -75,6 +73,7 @@ func PrintCertificateSummaryReport(w io.Writer, r *CertificateSummaryReport) {
 func PrintCertificateFindings(w io.Writer, r *CertificateGroupReport) {
 	fmt.Fprintf(w, "%d certificates were included in the corpus being tested\\\n", r.TestedAmount)
 	fmt.Fprintf(w, "%d certificates in the corpus were skipped because they were expired\\\n", r.SkippedExpiredAmount)
+	fmt.Fprintf(w, "%d repositories in the corpus were skipped because they were duplicated\\\n", r.SkippedRepositoriesAmount)
 	fmt.Fprintf(w, "%d certificates in the corpus were skipped because they are not currently trusted\\\n", r.SkippedUntrustedAmount)
 	fmt.Fprintf(w, "%0.2f%% of certificates contain one or more Error level issue\\\n", r.AverageErrors())
 	fmt.Fprintf(w, "%0.2f%% of certificates contain one or more Warning level issue\\\n", r.AverageWarns())
@@ -307,6 +306,10 @@ func PrintIssueCertificates(w io.Writer, c string, r *Problem, b string) {
 func PrintCertificates(w io.Writer, r []*LintCommandItem, basePath string) {
 	fmt.Fprintln(w, "| Created at | Subject | Problems | Link |")
 	fmt.Fprintln(w, "|------------|---------|----------|------|")
+	// order by notBefore
+	sort.Slice(r[:], func(i, j int) bool {
+		return r[i].Certificate.NotBefore.Before(r[j].Certificate.NotBefore)
+	})
 	for _, v := range r {
 		fmt.Fprintf(w, "| %s | %s | %t | %s |\n",
 			v.Certificate.NotBefore.Format(time.RFC822),
@@ -394,10 +397,12 @@ func PrintRepositoryIssuerReport(w io.Writer, r *RepositoryIssuerReport) {
 	fmt.Fprintln(w)
 
 	PrintRepositoryFindings(w, &r.RepositoryGroupReport)
-	// if len(r.Problems) > 0 {
 	fmt.Fprintln(w)
-	PrintProblems(w, r.Problems)
-	// }
+	if len(r.Problems) > 0 {
+		PrintProblems(w, r.Problems)
+	} else {
+		fmt.Fprintln(w, "No issues found")
+	}
 	fmt.Fprintln(w)
 	PrintRepositories(w, r.Items, DIR_REPOS)
 	fmt.Fprintln(w)
@@ -463,33 +468,31 @@ func PrintRepositoryIssuerProblemReport(w io.Writer, issuer *RepositoryIssuerRep
 
 	// list repositories
 	fmt.Fprintln(w, "### Repositories")
+	fmt.Fprintln(w)
 	PrintRepositories(w, problem.Items, path.Join("..", "..", DIR_REPOS))
+	fmt.Fprintln(w)
 
 	PrintFooter(w)
-}
-
-func repoFingerprint(u *url.URL) []byte {
-	res := []byte{}
-	digest := crypto.SHA1.New()
-	digest.Write([]byte(u.String()))
-
-	return digest.Sum(res)
 }
 
 func PrintRepositories(w io.Writer, r []*LintCommandItem, basePath string) {
 	fmt.Fprintln(w, "| Repository | Problems | Link |")
 	fmt.Fprintln(w, "|------------|----------|------|")
+	sort.Slice(r[:], func(i, j int) bool {
+		return r[i].Url.String() < r[j].Url.String()
+	})
 	for _, v := range r {
 		fmt.Fprintf(w, "| %s | %t | %s |\n",
 			fmt.Sprintf("`%s`", v.Url),
 			v.UrlResult.HasErrors || v.UrlResult.HasWarnings || v.UrlResult.HasNotices,
-			fmt.Sprintf("[view](%s)", path.Join(basePath, hex.EncodeToString(repoFingerprint(v.Url)), "README.md")),
+			fmt.Sprintf("[view](%s)", path.Join(basePath, getRepositoryId(v.Url), "README.md")),
 		)
 	}
 }
 
 func PrintRepositoryFindings(w io.Writer, r *RepositoryGroupReport) {
 	fmt.Fprintf(w, "%d repositories were included in the corpus being tested\\\n", r.TestedAmount)
+	fmt.Fprintf(w, "%d repositories in the corpus were skipped because they were duplicated\\\n", r.SkippedAmount)
 	fmt.Fprintf(w, "%0.2f%% of repositories contain one or more Error level issue\\\n", r.AverageErrors())
 	fmt.Fprintf(w, "%0.2f%% of repositories contain one or more Warning level issue\\\n", r.AverageWarns())
 	fmt.Fprintf(w, "%0.2f%% of repositories contain one or more Notice level issue\\\n", r.AverageNotices())

@@ -1,10 +1,12 @@
 package main
 
 import (
+	"crypto"
 	"encoding/hex"
 	"fmt"
 	"io"
 	"net/http"
+	"net/url"
 	"os"
 	"path"
 	"strings"
@@ -139,4 +141,12 @@ func escapeMdLink(link string) string {
 
 func getCertificateId(c *x509.Certificate) string {
 	return hex.EncodeToString(c.FingerprintSHA256)
+}
+
+func getRepositoryId(u *url.URL) string {
+	res := []byte{}
+	digest := crypto.SHA1.New()
+	digest.Write([]byte(u.String()))
+
+	return hex.EncodeToString(digest.Sum(res))
 }
