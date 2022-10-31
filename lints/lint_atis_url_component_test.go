@@ -2,6 +2,7 @@ package lints_test
 
 import (
 	"net/http"
+	"net/url"
 	"reflect"
 	"testing"
 
@@ -11,7 +12,8 @@ import (
 
 func Test_queryParams_Execute(t *testing.T) {
 	type args struct {
-		data *lint.LintData
+		StatusCode int
+		Url        string
 	}
 	tests := []struct {
 		name string
@@ -21,12 +23,8 @@ func Test_queryParams_Execute(t *testing.T) {
 		{
 			name: "correct url",
 			args: args{
-				data: &lint.LintData{
-					Response: &http.Response{
-						StatusCode: 200,
-					},
-					Url: "https://appreg.telcoportal.com/mobileapps/neustar/Microtalk-Shaken.pem",
-				},
+				StatusCode: 200,
+				Url:        "https://appreg.telcoportal.com/mobileapps/neustar/Microtalk-Shaken.pem",
 			},
 			want: &lint.LintResult{
 				Status: lint.Pass,
@@ -35,12 +33,8 @@ func Test_queryParams_Execute(t *testing.T) {
 		{
 			name: "url with query params",
 			args: args{
-				data: &lint.LintData{
-					Response: &http.Response{
-						StatusCode: 200,
-					},
-					Url: "https://appreg.telcoportal.com/mobileapps/neustar/Microtalk-Shaken.pem?param=1",
-				},
+				StatusCode: 200,
+				Url:        "https://appreg.telcoportal.com/mobileapps/neustar/Microtalk-Shaken.pem?param=1",
 			},
 			want: &lint.LintResult{
 				Status:  lint.Error,
@@ -50,12 +44,8 @@ func Test_queryParams_Execute(t *testing.T) {
 		{
 			name: "url with empty query params",
 			args: args{
-				data: &lint.LintData{
-					Response: &http.Response{
-						StatusCode: 200,
-					},
-					Url: "https://appreg.telcoportal.com/mobileapps/neustar/Microtalk-Shaken.pem?",
-				},
+				StatusCode: 200,
+				Url:        "https://appreg.telcoportal.com/mobileapps/neustar/Microtalk-Shaken.pem?",
 			},
 			want: &lint.LintResult{
 				Status:  lint.Error,
@@ -65,27 +55,8 @@ func Test_queryParams_Execute(t *testing.T) {
 		{
 			name: "url with fragment",
 			args: args{
-				data: &lint.LintData{
-					Response: &http.Response{
-						StatusCode: 200,
-					},
-					Url: "https://appreg.telcoportal.com/mobileapps/neustar/Microtalk-Shaken.pem#some",
-				},
-			},
-			want: &lint.LintResult{
-				Status:  lint.Error,
-				Details: "The STI-VS shall not dereference URLs that contain a userinfo subcomponent, query component, or fragment identifier component",
-			},
-		},
-		{
-			name: "url with empty fragment",
-			args: args{
-				data: &lint.LintData{
-					Response: &http.Response{
-						StatusCode: 200,
-					},
-					Url: "https://appreg.telcoportal.com/mobileapps/neustar/Microtalk-Shaken.pem#",
-				},
+				StatusCode: 200,
+				Url:        "https://appreg.telcoportal.com/mobileapps/neustar/Microtalk-Shaken.pem#some",
 			},
 			want: &lint.LintResult{
 				Status:  lint.Error,
@@ -95,12 +66,8 @@ func Test_queryParams_Execute(t *testing.T) {
 		{
 			name: "url with user info",
 			args: args{
-				data: &lint.LintData{
-					Response: &http.Response{
-						StatusCode: 200,
-					},
-					Url: "https://userinfo@telcoportal.com/mobileapps/neustar/Microtalk-Shaken.pem",
-				},
+				StatusCode: 200,
+				Url:        "https://userinfo@telcoportal.com/mobileapps/neustar/Microtalk-Shaken.pem",
 			},
 			want: &lint.LintResult{
 				Status:  lint.Error,
@@ -111,7 +78,14 @@ func Test_queryParams_Execute(t *testing.T) {
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
 			h := lints.NewUrlComponent()
-			if got := h.Execute(tt.args.data); !reflect.DeepEqual(got, tt.want) {
+			u, _ := url.Parse(tt.args.Url)
+			d := &lint.LintData{
+				Url: u,
+				Response: &http.Response{
+					StatusCode: tt.args.StatusCode,
+				},
+			}
+			if got := h.Execute(d); !reflect.DeepEqual(got, tt.want) {
 				t.Errorf("queryParams.Execute() = %v, want %v", got, tt.want)
 			}
 		})

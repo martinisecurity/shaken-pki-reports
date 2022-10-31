@@ -1,6 +1,7 @@
 package linter_test
 
 import (
+	"net/url"
 	"reflect"
 	"testing"
 
@@ -9,7 +10,8 @@ import (
 )
 
 func TestLintUrl_HttpStatus503(t *testing.T) {
-	res := linter.LintUrl("https://app.connexcs.com/api/stir-shaken/cert/41.crt")
+	u, _ := url.Parse("https://app.connexcs.com/api/stir-shaken/cert/41.crt")
+	res := linter.LintUrl(u)
 
 	want := &lint.LintResult{
 		Status:  lint.Error,
@@ -21,7 +23,8 @@ func TestLintUrl_HttpStatus503(t *testing.T) {
 }
 
 func TestLintUrl_AtisContentType(t *testing.T) {
-	res := linter.LintUrl("https://cr.sansay.com/548J/order/144_548J_67")
+	u, _ := url.Parse("https://cr.sansay.com/548J/order/144_548J_67")
+	res := linter.LintUrl(u)
 
 	want := &lint.LintResult{
 		Status:  lint.Warn,
@@ -77,7 +80,8 @@ func TestLintUrl_AtisProtocol(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			res := linter.LintUrl(tt.url)
+			u, _ := url.Parse(tt.url)
+			res := linter.LintUrl(u)
 			if got := res.Results[tt.code]; !reflect.DeepEqual(got, tt.want) {
 				t.Errorf("lint.LintUrl() = %v, want %v", got, tt.want)
 			}

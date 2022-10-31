@@ -1,7 +1,7 @@
 package main
 
 import (
-	"crypto/sha1"
+	"crypto"
 	"encoding/base64"
 	"encoding/hex"
 	"fmt"
@@ -13,298 +13,528 @@ import (
 	"time"
 
 	"github.com/martinisecurity/shaken-pki-reports/cmd/internal"
-	"github.com/zmap/zcrypto/x509"
+	uLint "github.com/martinisecurity/shaken-pki-reports/lint"
 	"github.com/zmap/zlint/v3/lint"
 )
 
-// PrintFindingList prints the list of findings
-func PrintFindingList(w io.Writer, f *Findings) {
-	if f.LeafCertificates > 0 {
-		fmt.Fprintf(w, "- Average validity span as of leaf certificates %d days\n", f.ValidityDays/int(f.LeafCertificates))
-		fmt.Fprintf(w, "- Percentage of leaf certificates expiring in the next 30 days is %0.2f%%\n", percent(f.SoonExpiredCertificates, f.LeafCertificates))
-	}
-}
+const (
+	HEADER_CERTS = "# STIR/SHAKEN CA Ecosystem Compliance"
+	HEADER_REPOS = "# STIR/SHAKEN Certificate Repository Compliance"
+)
 
-// PrintTotalReport prints the total report
-func PrintTotalReport(w io.Writer, r *LintTotalResult) {
-	fmt.Fprintln(w, "# STIR/SHAKEN CA Ecosystem Compliance")
-	fmt.Fprintln(w, "")
-	fmt.Fprintln(w, "[Approved Certificate Authorities](https://authenticate.iconectiv.com/approved-certification-authorities) in the STIR/SHAKEN ecosystem are required to meet technical requirements from [ATIS-1000080](https://access.atis.org/apps/group_public/document.php?document_id=62163) and policy requirements from the supporting CA ecosystem’s [Certificate Policy](https://authenticate.iconectiv.com/documents-authenticate).")
-	fmt.Fprintln(w, "")
-	fmt.Fprintln(w, "This report is generated using [Zlint](https://github.com/zmap/zlint) a tool commonly used to asses CA ecosystem compliance with such requirements. The tests used to generate this report are currently not part of the main Zlint distribution but can be found [here](https://github.com/martinisecurity/zlint).")
+func PrintCertificateSummaryReport(w io.Writer, r *CertificateSummaryReport) {
+	fmt.Fprintln(w, HEADER_CERTS)
+	fmt.Fprintln(w)
 
-	fmt.Fprintln(w, "")
+	fmt.Fprintln(w, "[Approved Certificate Authorities](https://ecosystemcompliance.martinisecurity.com/#:~:text=Approved%20Certificate%20Authorities) in the STIR/SHAKEN ecosystem are required to meet technical requirements from [ATIS-1000080](https://access.atis.org/apps/group_public/document.php?document_id=62163) and policy requirements from the supporting CA ecosystem’s [Certificate Policy](https://authenticate.iconectiv.com/documents-authenticate).")
+	fmt.Fprintln(w)
+
+	fmt.Fprintln(w, "This report is broken int two parts:")
+	fmt.Fprintln(w, "1. One generated using [Zlint](https://github.com/zmap/zlint) a tool commonly used to asses CA ecosystem compliance with such requirements. The tests used to generate this report are currently not part of the main [Zlint](https://github.com/martinisecurity/zlint) distribution but can be found here.")
+	fmt.Fprintln(w, "2. One generated with a custom script that eumerates the known STIR/SHAKEN certificates and asses each repository against the current rule set . The source for this test can be found here while the report itself can be found [here](https://ecosystemcompliance.martinisecurity.com/URL).")
+	fmt.Fprintln(w)
+
 	fmt.Fprintln(w, "## Summary")
-	fmt.Fprintln(w, "")
-	if r.LeafCertificates.Amount > 0 {
-		fmt.Fprintln(w, "### Leaf Certificates")
-		fmt.Fprintln(w, "")
-		PrintFindingList(w, r.LeafCertificates.Findings)
-		PrintOrganizationsTable(w, r.LeafCertificates, "leaf-certificates")
-		fmt.Fprintln(w, "")
-		fmt.Fprintln(w, "\\* The percent of certificates per issuer is calculated against total certificates from all issuers.\\")
-		fmt.Fprintln(w, "\\*\\* The percent of errors, warnings and notices is calculated against total observed certificates from the specified issuer.\\")
-		fmt.Fprintln(w, "\\*\\*\\* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.\\")
-		fmt.Fprintln(w, "\\*\\*\\*\\* For information on failed certificate repository retrievals see this [report](URL/README.md).\\")
-		fmt.Fprintf(w, "\\*\\*\\*\\*\\* %d certificates skipped because they are currently expired.\\\n", r.LeafCertificates.ExpiredCertificates)
-		fmt.Fprintf(w, "\\*\\*\\*\\*\\*\\* %d certificates skipped because they are not currently trusted by the STI-PA.\n", r.LeafCertificates.UntrustedCertificates)
-	}
-	if r.CaCertificates.Amount > 0 {
-		fmt.Fprintln(w, "")
-		fmt.Fprintln(w, "### CA Certificates")
-		fmt.Fprintln(w, "")
-		PrintOrganizationsTable(w, r.CaCertificates, "ca-certificates")
-		fmt.Fprintln(w, "")
-		fmt.Fprintln(w, "\\* The percent of certificates per issuer is calculated against total certificates from all issuers.\\")
-		fmt.Fprintln(w, "\\*\\* The percent of errors, warnings and notices is calculated against total observed certificates from the specified issuer.\\")
-		fmt.Fprintf(w, "\\*\\*\\* %d certificates skipped because they are currently expired.\\\n", r.CaCertificates.ExpiredCertificates)
-		fmt.Fprintf(w, "\\*\\*\\*\\* %d certificates skipped because they are not currently trusted by the STI-PA.\n", r.CaCertificates.UntrustedCertificates)
-	}
+	fmt.Fprintln(w)
+	fmt.Fprintln(w, "\\* The percent of certificates per issuer is calculated against total certificates from all issuers.\\")
+	fmt.Fprintln(w, "\\*\\* The percent of errors, warnings and notices is calculated against total observed certificates from the specified issuer.\\")
+	fmt.Fprintln(w, "\\*\\*\\* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.")
+	fmt.Fprintln(w)
 
-	fmt.Fprintln(w, "")
-	fmt.Fprintln(w, "## Key")
-	fmt.Fprintln(w, "")
-	fmt.Fprintln(w, "| Type | Description |")
-	fmt.Fprintln(w, "|------|-------------|")
-	fmt.Fprintln(w, "| Error | Tests in which the specifications are unambiguous on what the expected behavior must be. |")
-	fmt.Fprintln(w, "| Warning	| Tests in which the specifications are ambiguous or are provide only a recommendation. |")
-	fmt.Fprintln(w, "| Notice | Tests in which industry best practices are not followed. |")
-	fmt.Fprintln(w, "| Not Effective	| Tests that exist in the current specifications but were not in effect at the time of issuance. |")
+	fmt.Fprintln(w, "### Leaf Certificates")
+	fmt.Fprintln(w)
+	PrintCertificateFindings(w, &r.Leaf.CertificateGroupReport)
+	fmt.Fprintln(w)
+	fmt.Fprintln(w, "### CA Certificates")
+	fmt.Fprintln(w)
+	PrintCertificateFindings(w, &r.CA.CertificateGroupReport)
+	fmt.Fprintln(w)
+
+	// TODO
+	fmt.Fprintln(w, "## Certificate Repository")
+	fmt.Fprintln(w)
+	fmt.Fprintf(w, "%0.2f%% of certificate repositories contain one or more Error level issue\\\n", 0.0)
+	fmt.Fprintf(w, "%0.2f%% of certificates repositories contain one or more Warning level issue\\\n", 0.0)
+	fmt.Fprintf(w, "%0.2f%% of certificates repositories are too old to be assessed against currently enforced expectations\n", 0.0)
+	fmt.Fprintln(w)
+
+	fmt.Fprintln(w, "## Details")
+	fmt.Fprintln(w)
+	fmt.Fprintln(w, "## Leaf Certificates")
+	fmt.Fprintln(w)
+	PrintCertificateSummaryIssuers(w, r.Leaf, "leaf-certificates")
+	fmt.Fprintln(w)
+
+	fmt.Fprintln(w, "## CA Certificates")
+	fmt.Fprintln(w)
+	PrintCertificateSummaryIssuers(w, r.CA, "ca-certificates")
+	fmt.Fprintln(w)
 
 	PrintFooter(w)
 }
 
-// PrintOrganizationReport prints Organization report
-func PrintOrganizationReport(w io.Writer, name string, r *LintTotalResult) {
-	// header
-	fmt.Fprintln(w, "# STIR/SHAKEN CA Ecosystem Compliance")
+func PrintCertificateFindings(w io.Writer, r *CertificateGroupReport) {
+	fmt.Fprintf(w, "%d certificates were included in the corpus being tested\\\n", r.TestedAmount)
+	fmt.Fprintf(w, "%d certificates in the corpus were skipped because they were expired\\\n", r.SkippedExpiredAmount)
+	fmt.Fprintf(w, "%d certificates in the corpus were skipped because they are not currently trusted\\\n", r.SkippedUntrustedAmount)
+	fmt.Fprintf(w, "%0.2f%% of certificates contain one or more Error level issue\\\n", r.AverageErrors())
+	fmt.Fprintf(w, "%0.2f%% of certificates contain one or more Warning level issue\\\n", r.AverageWarns())
+	fmt.Fprintf(w, "%0.2f%% of certificates contain one or more Notice level issue\\\n", r.AverageNotices())
+	fmt.Fprintf(w, "%0.2f%% of certificates are too old to be assessed against currently enforced expectations\\\n", r.AverageNotEffective())
+	fmt.Fprintf(w, "%0.0f days is the average remaining validity for the certificates in the corpus\\\n", r.AverageRemainingValidity())
+	fmt.Fprintf(w, "%0.0f days is the average initial validity for the certificates in the corpus\\\n", r.AverageInitialValidity())
+	fmt.Fprintf(w, "%d certificates expire in the next 30 days\n", r.ExpiresSoon)
+}
 
-	// summary
-	fmt.Fprintln(w, "")
-	fmt.Fprintf(w, "## %s\n", name)
+func PrintCertificateSummaryIssuers(w io.Writer, r *CertificateIssuersReport, anchor string) {
+	fmt.Fprintln(w, "| Issuers | Certificates | Errors | Warnings | Notices | Not Effective |")
+	fmt.Fprintln(w, "|---------|--------------|--------|----------|---------|---------------|")
+	print := func(amount int) string {
+		return fmt.Sprintf("%d (%0.2f%%)", amount, percent(amount, r.TestedAmount))
+	}
 
-	issuersKeys := []string{
-		"Leaf Certificates",
-		"CA Certificates",
+	// sort issuer names
+	keys := make([]string, 0, len(r.Issuers))
+	for k := range r.Issuers {
+		keys = append(keys, k)
 	}
-	issuers := map[string]*LintOrganizationResult{
-		issuersKeys[0]: r.LeafCertificates.Issuers[name],
-		issuersKeys[1]: r.CaCertificates.Issuers[name],
-	}
-	for _, issuerType := range issuersKeys {
-		issuer := issuers[issuerType]
-		if issuer == nil {
+	sort.Strings(keys)
+
+	for _, key := range keys {
+		issuer := r.Issuers[key]
+		if issuer.TestedAmount == 0 {
 			continue
 		}
-		fmt.Fprintln(w, "")
-		fmt.Fprintf(w, "### %s\n", issuerType)
-		fmt.Fprintln(w, "")
-		PrintFindingList(w, issuer.Findings)
-		fmt.Fprintf(w, "- Certificates with Errors: %d\n", issuer.Errors)
-		fmt.Fprintf(w, "- Certificates with Warnings: %d\n", issuer.Warnings)
-		fmt.Fprintf(w, "- Certificates with Notices: %d\n", issuer.Notices)
-		fmt.Fprintf(w, "- Certificates with tests not executed as the requirements were Not Effective at issuance time: %d\n", issuer.NE)
-		fmt.Fprintln(w, "")
-		fmt.Fprintln(w, "| Status | Code | Source | Instances |")
-		fmt.Fprintln(w, "|--------|------|--------|-----------|")
-		for code, issue := range issuer.Issues {
-			rule := lint.GlobalRegistry().ByName(code)
-			codeLink := fmt.Sprintf("[%s](ISSUES/%s/README.md#%s)", code, code, strings.ReplaceAll(strings.ToLower(issuerType), " ", "-"))
-			fmt.Fprintf(w, "| %s | %s | %s | %d |\n", statusToString(issue.Type), codeLink, rule.Source, issue.Amount)
-		}
+		fmt.Fprintf(w, "| %s | %s | %s | %s | %s | %s |\n",
+			fmt.Sprintf("[%s](%s/%s/README.md#%s)", issuer.Name, DIR_CERTS, escapeMdLink(issuer.Name), anchor),
+			print(issuer.TestedAmount),
+			print(issuer.ErrorAmount),
+			print(issuer.WarnAmount),
+			print(issuer.NoticeAmount),
+			print(issuer.NotEffectiveAmount),
+		)
+	}
+	fmt.Fprintf(w, "| **Total** | %s | %s | %s | %s | %s |\n",
+		print(r.TestedAmount),
+		print(r.ErrorAmount),
+		print(r.WarnAmount),
+		print(r.NoticeAmount),
+		print(r.NotEffectiveAmount),
+	)
+}
 
-		// summery footer
-		// TODO don't show for CA
-		fmt.Fprintln(w, "")
-		fmt.Fprintln(w, "\\* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.\\")
-		fmt.Fprintf(w, "\\*\\* %d certificates skipped because they are currently expired.\\\n", issuer.ExpiredCertificates)
-		fmt.Fprintf(w, "\\*\\*\\* %d certificates skipped because they are not currently trusted by the STI-PA.\n", issuer.UntrustedCertificates)
+func PrintCertificateIssuerReport(w io.Writer, r *CertificateIssuerJoin) {
+	fmt.Fprintln(w, HEADER_CERTS)
+	fmt.Fprintln(w)
 
-		// certificates
-		fmt.Fprintln(w, "")
-		fmt.Fprintln(w, "#### Issued certificates")
-		fmt.Fprintln(w, "")
-		fmt.Fprintln(w, "| Created at | Name | Problems | Link |")
-		fmt.Fprintln(w, "|------------|------|----------|------|")
-		sort.Slice(issuer.Certificates[:], func(i, j int) bool {
-			return issuer.Certificates[i].Cert.NotBefore.Unix() < issuer.Certificates[j].Cert.NotBefore.Unix()
-		})
-		for _, certReport := range issuer.Certificates {
-			fmt.Fprintf(w, "| %s | %s | %s | %s |\n",
-				certReport.Cert.NotBefore.Format(time.RFC822),                                                       // created at
-				certReport.Cert.Subject.CommonName,                                                                  // name
-				fmt.Sprintf("%t", certReport.Result.ErrorsPresent || certReport.Result.WarningsPresent),             // problems
-				fmt.Sprintf("[view](CERTIFICATES/%s)", path.Join(escapeMdLink(certReport.Thumbprint), "README.md")), // link
-			)
-		}
-		if issuerType == "Leaf Certificates" {
-			fmt.Fprintln(w, "")
-			fmt.Fprintln(w, "\\* For issues relating to this CAs certificate repositories see this [report](URL/README.md).")
-		}
+	fmt.Fprintf(w, "## %s\n", r.Name)
+	fmt.Fprintln(w)
+
+	fmt.Fprintln(w, "### Summary")
+	fmt.Fprintln(w)
+	fmt.Fprintln(w, "\\* The percent of errors, warnings and notices is calculated against total observed unexpired and trusted certificates from the specified issuer.\\")
+	fmt.Fprintln(w, "\\*\\* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran.")
+	fmt.Fprintln(w)
+
+	if r.Leaf != nil {
+		fmt.Fprintln(w, "#### Leaf Certificates")
+		fmt.Fprintln(w)
+		PrintCertificateFindings(w, &r.Leaf.CertificateGroupReport)
+		fmt.Fprintln(w)
+		PrintProblems(w, r.Leaf.Problems)
+		fmt.Fprintln(w)
+	}
+	if r.CA != nil {
+		fmt.Fprintln(w, "#### CA Certificates")
+		fmt.Fprintln(w)
+		PrintCertificateFindings(w, &r.CA.CertificateGroupReport)
+		fmt.Fprintln(w)
+		PrintProblems(w, r.CA.Problems)
+		fmt.Fprintln(w)
+	}
+
+	fmt.Fprintln(w, "### Details")
+	fmt.Fprintln(w)
+
+	if r.Leaf != nil {
+		fmt.Fprintln(w, "#### Leaf Certificates")
+		fmt.Fprintln(w)
+		PrintCertificates(w, r.Leaf.Items, DIR_CERTS)
+		fmt.Fprintln(w)
+	}
+	if r.CA != nil {
+		fmt.Fprintln(w, "#### CA Certificates")
+		fmt.Fprintln(w)
+		PrintCertificates(w, r.CA.Items, DIR_CERTS)
+		fmt.Fprintln(w)
 	}
 
 	PrintFooter(w)
 }
 
-// PrintCertificateReport prints the certificate report
-func PrintCertificateReport(w io.Writer, r *LintCertificateResult) {
-	fmt.Fprintf(w, "### Certificate %s\n", r.Thumbprint)
-	fmt.Fprintf(w, "Tested At: %s\\\n", time.Unix(r.Result.Timestamp, 0).String())
-	fmt.Fprintf(w, "Initial Validity Period: %d day(s)\\\n", internal.GetValidityDays(r.Cert))
-	remainingDays := internal.GetRemainingDays(r.Cert, time.Now())
-	remaining := fmt.Sprintf("%d day(s)", remainingDays)
-	if remainingDays < 1 {
-		remaining = "Expired"
+func PrintCertificateReport(w io.Writer, r *LintCommandItem) {
+	fmt.Fprintln(w, HEADER_CERTS)
+	fmt.Fprintln(w)
+
+	fmt.Fprintf(w, "## Certificate %s\n", r.Certificate.Subject.CommonName)
+	fmt.Fprintln(w)
+	fmt.Fprintf(w, "Tested At: %s\\\n", time.Unix(r.CertificateResult.Timestamp, 0).Format(time.RFC822))
+	fmt.Fprintf(w, "Initial Validity Period: %d day(s)\\\n", internal.GetValidityDays(r.Certificate))
+	fmt.Fprintf(w, "Remaining Validity Period: %d day(s)\\\n", internal.GetRemainingDays(r.Certificate, time.Now()))
+	fmt.Fprintf(w, "Subject: %s\\\n", strings.ReplaceAll(r.Certificate.Subject.String(), "\\", "\\\\"))
+	fmt.Fprintf(w, "Issuer: %s", strings.ReplaceAll(r.Certificate.Issuer.String(), "\\", "\\\\"))
+	if r.Url != nil {
+		fmt.Fprintln(w, "\\")
+		fmt.Fprintf(w, "Link: %s\n", r.Url.String())
+	} else {
+		fmt.Fprintln(w)
 	}
-	fmt.Fprintf(w, "Remaining Validity Period: %s\\\n", remaining)
-	fmt.Fprintf(w, "Subject: %s\\\n", strings.ReplaceAll(r.Cert.Subject.String(), "\\", "\\\\"))
-	fmt.Fprintf(w, "Issuer: %s\n\n", strings.ReplaceAll(r.Cert.Issuer.String(), "\\", "\\\\"))
-	fmt.Fprintf(w, "Link: %s\n\n", r.Link)
-	fmt.Fprintf(w, "View: [Click to view](https://understandingwebpki.com/?cert=%s)\n\n", url.QueryEscape(base64.StdEncoding.EncodeToString(r.Cert.Raw)))
+	fmt.Fprintln(w)
+	fmt.Fprintf(w, "View: [Click to view](https://understandingwebpki.com/?cert=%s)\n\n", url.QueryEscape(base64.StdEncoding.EncodeToString(r.Certificate.Raw)))
+	fmt.Fprintln(w)
 	first := true
-	for code, result := range r.Result.Results {
+	for code, result := range r.CertificateResult.Results {
 		if result.Status == lint.Error ||
 			result.Status == lint.Warn ||
 			result.Status == lint.Notice {
 			if first {
-				fmt.Fprintln(w, "")
 				fmt.Fprintf(w, "| Code | Type | Source | Details |\n")
 				fmt.Fprintf(w, "|------|------|--------|---------|\n")
 				first = false
 			}
 			rule := lint.GlobalRegistry().ByName(code)
-			fmt.Fprintf(w, "| %s | %s | %s | %s |\n", code, statusToString(result.Status), rule.Source, result.Details)
+			fmt.Fprintf(w, "| %s | %s | %s | %s |\n",
+				fmt.Sprintf("[%s](%s)", code, path.Join("..", "..", DIR_ISSUES, code, "README.md")),
+				statusToString(result.Status),
+				strings.ReplaceAll(string(rule.Source), "-", "&#x2011;"),
+				result.Details,
+			)
 		}
 	}
 
-	if !r.Result.ErrorsPresent && !r.Result.WarningsPresent {
-		fmt.Fprintln(w, "")
-		fmt.Fprintf(w, "%d tests were ran and no warning or error level issues were found\n", len(r.Result.Results))
+	if first {
+		fmt.Fprintln(w)
+		fmt.Fprintf(w, "%d tests were ran and no warning or error level issues were found\n", len(r.CertificateResult.Results))
 	}
+	fmt.Fprintln(w)
 
 	neHeader := false
-	for code, result := range r.Result.Results {
+	codeKeys := []string{}
+	for key := range r.CertificateResult.Results {
+		codeKeys = append(codeKeys, key)
+	}
+	sort.Strings(codeKeys)
+	for _, key := range codeKeys {
+		result := r.CertificateResult.Results[key]
 		if result.Status == lint.NE {
 			if !neHeader {
 				// Print header only once
-				fmt.Fprintln(w, "")
+				fmt.Fprintln(w)
 				fmt.Fprintln(w, "### Not Effective")
-				fmt.Fprintln(w, "")
+				fmt.Fprintln(w)
 				neHeader = true
 			}
 
-			fmt.Fprintf(w, "- %s\n", code)
+			fmt.Fprintf(w, "- %s\n", key)
 		}
 	}
 
 	if neHeader {
 		// Issue footer
-		fmt.Fprintln(w, "")
-		fmt.Fprintln(w, "\\* Tests use the ATIS 1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.")
+		fmt.Fprintln(w)
+		fmt.Fprintln(w, "\\* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.")
+		fmt.Fprintln(w)
 	}
-}
-
-// PrintCertificateReportForIssuer prints the certificate report for specified issuer.
-func PrintCertificateReportForIssuer(w io.Writer, issuerName string, r *LintCertificateResult) {
-	fmt.Fprintln(w, "# STIR/SHAKEN CA Ecosystem Compliance")
-	fmt.Fprintf(w, "## %s\n", issuerName)
-	fmt.Fprintln(w, "")
-	PrintCertificateReport(w, r)
 
 	PrintFooter(w)
 }
 
-// PrintOrganizationsTable prints table with the list of organizations.
-func PrintOrganizationsTable(w io.Writer, r *LintCertificatesResult, anchor string) {
-	fmt.Fprintln(w, "")
-	fmt.Fprintln(w, "| Issuers | Certificates | Errors | Warnings | Notices | Not Effective |")
-	fmt.Fprintln(w, "|---------|--------------|--------|----------|---------|---------------|")
+func PrintCertificateIssueReport(w io.Writer, c string, r *CertificateIssuerJoin) {
+	fmt.Fprintln(w, HEADER_CERTS)
+	fmt.Fprintln(w)
 
-	// order r.Issuers keys
-	keys := make([]string, 0, len(r.Issuers))
-	for k := range r.Issuers {
-		keys = append(keys, k)
-	}
-	sort.Slice(keys[:], func(a int, b int) bool {
-		return keys[a] < keys[b]
-	})
+	fmt.Fprintf(w, "## %s\n", r.Name)
+	fmt.Fprintln(w)
 
-	for _, key := range keys {
-		issuer := r.Issuers[key]
-		if issuer.Amount == 0 {
-			continue
-		}
-		issuerNameLink := fmt.Sprintf("[%s](%s/README.md#%s)", key, escapeMdLink(key), anchor)
-		fmt.Fprintf(w, "| %s | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) |\n", issuerNameLink, issuer.Amount, percent(issuer.Amount, r.Amount), issuer.Errors, percent(issuer.Errors, issuer.Amount), issuer.Warnings, percent(issuer.Warnings, issuer.Amount), issuer.Notices, percent(issuer.Notices, issuer.Amount), issuer.NE, percent(issuer.NE, issuer.Amount))
-	}
-	fmt.Fprintf(w, "| **Total** | %d (100%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) | %d (%0.2f%%) |\n", r.Amount, r.Errors, percent(r.Errors, r.Amount), r.Warnings, percent(r.Warnings, r.Amount), r.Notices, percent(r.Notices, r.Amount), r.NE, percent(r.NE, r.Amount))
-	// TODO add a footnote
-	// fmt.Fprintln(w, "")
-	// fmt.Fprintf(w, "* 140 tests are included in this test suite")
-}
-
-// PrintIssueGroupReport prints group report for for the specified issue and organization
-func PrintIssueGroupReport(w io.Writer, orgName string, issueName string, r *LintTotalResult) {
-	// header
-	fmt.Fprintln(w, "# STIR/SHAKEN CA Ecosystem Compliance")
-	fmt.Fprintln(w, "")
-	fmt.Fprintf(w, "## %s", orgName)
-	fmt.Fprintln(w, "")
-	issueInfo := lint.GlobalRegistry().ByName(issueName)
+	issueInfo := lint.GlobalRegistry().ByName(c)
 	fmt.Fprintf(w, "Name: %s\\\n", issueInfo.Name)
 	fmt.Fprintf(w, "Source: %s\\\n", issueInfo.Source)
 	fmt.Fprintf(w, "Citation: %s\\\n", issueInfo.Citation)
 	fmt.Fprintf(w, "Effective Date: %s\\\n", issueInfo.EffectiveDate.Format(time.RFC822))
 	fmt.Fprintf(w, "Description: %s\n", issueInfo.Description)
-	fmt.Fprintln(w, "")
+	fmt.Fprintln(w)
 
-	leafIssuer := r.LeafCertificates.Issuers[orgName]
-	if leafIssuer != nil {
+	certsDir := path.Join("..", "..", DIR_CERTS)
+	if r.Leaf != nil {
 		fmt.Fprintln(w, "### Leaf Certificates")
-		fmt.Fprintln(w, "")
-		PrintIssueGroupCertificateTable(w, issueName, leafIssuer)
+		fmt.Fprintln(w)
+		PrintIssueCertificates(w, c, r.Leaf.Problems[c], certsDir)
+		fmt.Fprintln(w)
 	}
 
-	caIssuer := r.CaCertificates.Issuers[orgName]
-	if caIssuer != nil {
+	if r.CA != nil {
 		fmt.Fprintln(w, "### CA Certificates")
-		fmt.Fprintln(w, "")
-		PrintIssueGroupCertificateTable(w, issueName, caIssuer)
+		fmt.Fprintln(w)
+		PrintIssueCertificates(w, c, r.CA.Problems[c], certsDir)
+		fmt.Fprintln(w)
 	}
 
 	PrintFooter(w)
 }
 
-// PrintIssueGroupCertificateTable prints table with the list of certificates for specified issuer and organization
-func PrintIssueGroupCertificateTable(w io.Writer, issueName string, org *LintOrganizationResult) {
-	fmt.Fprintln(w, "| Status | Subject | Link | Details |")
-	fmt.Fprintln(w, "|--------|---------|------|---------|")
-	counter := 0
-	for _, cert := range org.Certificates {
-		issue := cert.Result.Results[issueName]
-		if issue == nil || issue.Status == lint.Pass || issue.Status == lint.Fatal || issue.Status == lint.NA || issue.Status == lint.Reserved {
-			continue
+func PrintIssueCertificates(w io.Writer, c string, r *Problem, b string) {
+	if r != nil {
+		fmt.Fprintln(w, "| Status | Subject | Link | Details |")
+		fmt.Fprintln(w, "|--------|---------|------|---------|")
+		for _, v := range r.Items {
+			issue := v.CertificateResult.Results[c]
+			if issue.Status == lint.Error ||
+				issue.Status == lint.Warn ||
+				issue.Status == lint.Notice ||
+				issue.Status == lint.NE {
+				fmt.Fprintf(w, "| %s | %s | %s | %s |\n",
+					statusToString(issue.Status),
+					v.Certificate.Subject.CommonName,
+					fmt.Sprintf("[view](%s)", path.Join(b, path.Join(hex.EncodeToString(v.Certificate.FingerprintSHA256), "README.md"))),
+					issue.Details,
+				)
+			}
 		}
-		subject := strings.ReplaceAll(cert.Cert.Subject.String(), "\\", "\\\\")
-		link := fmt.Sprintf("[view](%s)", path.Join("..", "..", "CERTIFICATES", path.Join(computeCertThumbprint(cert.Cert), "README.md")))
-		fmt.Fprintf(w, "| %s | %s | %s | %s |\n", statusToString(issue.Status), subject, link, issue.Details)
-		counter += 1
+	} else {
+		fmt.Fprintln(w, "no warning, or error, or not effective date level issues were found")
+	}
+}
+
+func PrintCertificates(w io.Writer, r []*LintCommandItem, b string) {
+	fmt.Fprintln(w, "| Created at | Subject | Problems | Link |")
+	fmt.Fprintln(w, "|------------|---------|----------|------|")
+	for _, v := range r {
+		fmt.Fprintf(w, "| %s | %s | %t | %s |\n",
+			v.Certificate.NotBefore.Format(time.RFC822),
+			v.Certificate.Subject.CommonName,
+			v.CertificateResult.ErrorsPresent || v.CertificateResult.WarningsPresent || v.CertificateResult.NoticesPresent,
+			fmt.Sprintf("[view](%s)", path.Join(b, hex.EncodeToString(v.Certificate.FingerprintSHA256), "README.md")),
+		)
+	}
+}
+
+func PrintProblems(w io.Writer, r map[string]*Problem) {
+	fmt.Fprintln(w, "| Instances | Test Status | Source |")
+	fmt.Fprintln(w, "|-----------|-------------|--------|")
+
+	// sort problems by code names
+	keys := make([]string, 0, len(r))
+	for k := range r {
+		keys = append(keys, k)
+	}
+	sort.Strings(keys)
+
+	for _, key := range keys {
+		p := r[key]
+		fmt.Fprintf(w, "| %d | %s | %s |\n",
+			len(p.Items),
+			fmt.Sprintf("[%s](%s)", key, path.Join(DIR_ISSUES, key, "README.md")),
+			p.Source,
+		)
+	}
+}
+
+func PrintRepositorySummaryReport(w io.Writer, r *RepositorySummaryReport) {
+	fmt.Fprintln(w, HEADER_REPOS)
+	fmt.Fprintln(w)
+
+	fmt.Fprintln(w, "## Summary")
+	fmt.Fprintln(w)
+
+	if r.CA.TestedAmount > 0 && r.SP.TestedAmount > 0 {
+		fmt.Fprintln(w, "### All Repositories")
+		fmt.Fprintln(w)
+		PrintRepositoryFindings(w, &r.RepositoryGroupReport)
+		fmt.Fprintln(w)
 	}
 
-	fmt.Fprintln(w, "")
-	if counter == 0 {
-		fmt.Fprintln(w, "no warning, or error, or not effective date level issues were found")
-		fmt.Fprintln(w, "")
+	if r.CA.TestedAmount > 0 {
+		fmt.Fprintln(w, "### CA Operated Repositories")
+		fmt.Fprintln(w)
+		PrintRepositoryFindings(w, &r.CA.RepositoryGroupReport)
+		fmt.Fprintln(w)
 	}
+
+	if r.SP.TestedAmount > 0 {
+		fmt.Fprintln(w, "### Service Provider Operated Repositories")
+		fmt.Fprintln(w)
+		PrintRepositoryFindings(w, &r.SP.RepositoryGroupReport)
+		fmt.Fprintln(w)
+	}
+
+	fmt.Fprintln(w, "## Details")
+	fmt.Fprintln(w)
+
+	if r.CA.TestedAmount > 0 {
+		fmt.Fprintln(w, "### CA Operated Repositories")
+		fmt.Fprintln(w)
+		PrintSummaryDetails(w, r.CA)
+		fmt.Fprintln(w)
+	}
+
+	if r.SP.TestedAmount > 0 {
+		fmt.Fprintln(w, "### Service Provider Operated Repositories")
+		fmt.Fprintln(w)
+		PrintSummaryDetails(w, r.SP)
+		fmt.Fprintln(w)
+	}
+
+	PrintFooter(w)
+}
+
+func PrintRepositoryIssuerReport(w io.Writer, r *RepositoryIssuerReport) {
+	fmt.Fprintln(w, HEADER_REPOS)
+	fmt.Fprintln(w)
+
+	fmt.Fprintf(w, "## %s\n", r.Name)
+	fmt.Fprintln(w)
+
+	PrintRepositoryFindings(w, &r.RepositoryGroupReport)
+	// if len(r.Problems) > 0 {
+	fmt.Fprintln(w)
+	PrintProblems(w, r.Problems)
+	// }
+	fmt.Fprintln(w)
+	PrintRepositories(w, r.Items, DIR_REPOS)
+	fmt.Fprintln(w)
+
+	PrintFooter(w)
+}
+
+func PrintRepositoryIssuerUrlReport(w io.Writer, issuer *RepositoryIssuerReport, item *LintCommandItem) {
+	fmt.Fprintln(w, HEADER_REPOS)
+	fmt.Fprintln(w)
+
+	fmt.Fprintf(w, "## %s\n", issuer.Name)
+	fmt.Fprintln(w)
+	fmt.Fprintf(w, "Name: `%s`\\\n", item.Url)
+	fmt.Fprintf(w, "Tested At: %s\\\n", item.UrlResult.Timestamp.Format(time.RFC822))
+	fmt.Fprintf(w, "Time: %dms\n", item.UrlResult.Time)
+	fmt.Fprintln(w)
+
+	// list problems
+	fmt.Fprintln(w, "### Issues")
+	fmt.Fprintln(w)
+	r := item.UrlResult.Results
+	if len(r) > 0 {
+		fmt.Fprintln(w, "| Code | Type | Source | Details |")
+		fmt.Fprintln(w, "|------|------|--------|---------|")
+		keys := []string{}
+		for key := range r {
+			keys = append(keys, key)
+		}
+		sort.Strings(keys)
+
+		for _, key := range keys {
+			issue := r[key]
+			if issue.Status == uLint.Error ||
+				issue.Status == uLint.Warn ||
+				issue.Status == uLint.Notice {
+				l := uLint.FindRuleByName(key)
+				fmt.Fprintf(w, "| %s | %s | %s | %s |\n",
+					fmt.Sprintf("[%s](%s)", key, path.Join("..", "..", DIR_ISSUES, key, "README.md")),
+					issue.Status,
+					l.Source,
+					issue.Details,
+				)
+			}
+		}
+	} else {
+		fmt.Fprintln(w, "no warning, or error, or notice date level issues were found")
+	}
+
+	PrintFooter(w)
+}
+
+func PrintRepositoryIssuerProblemReport(w io.Writer, issuer *RepositoryIssuerReport, problem *Problem) {
+	fmt.Fprintln(w, HEADER_REPOS)
+	fmt.Fprintln(w)
+
+	fmt.Fprintf(w, "## %s\n", issuer.Name)
+	fmt.Fprintln(w)
+	fmt.Fprintf(w, "Name: %s\\\n", problem.Name)
+	l := uLint.FindRuleByName(problem.Name)
+	fmt.Fprintf(w, "Source: %s\\\n", l.Source)
+	fmt.Fprintf(w, "Description: %s\n", l.Description)
+
+	// list repositories
+	fmt.Fprintln(w, "### Repositories")
+	PrintRepositories(w, problem.Items, path.Join("..", "..", DIR_REPOS))
+
+	PrintFooter(w)
+}
+
+func repoFingerprint(u *url.URL) []byte {
+	res := []byte{}
+	digest := crypto.SHA1.New()
+	digest.Write([]byte(u.String()))
+
+	return digest.Sum(res)
+}
+
+func PrintRepositories(w io.Writer, r []*LintCommandItem, basePath string) {
+	fmt.Fprintln(w, "| Repository | Problems | Link |")
+	fmt.Fprintln(w, "|------------|----------|------|")
+	for _, v := range r {
+		fmt.Fprintf(w, "| %s | %t | %s |\n",
+			fmt.Sprintf("`%s`", v.Url),
+			v.UrlResult.HasErrors || v.UrlResult.HasWarnings || v.UrlResult.HasNotices,
+			fmt.Sprintf("[view](%s)", path.Join(basePath, hex.EncodeToString(repoFingerprint(v.Url)), "README.md")),
+		)
+	}
+}
+
+func PrintRepositoryFindings(w io.Writer, r *RepositoryGroupReport) {
+	fmt.Fprintf(w, "%d repositories were included in the corpus being tested\\\n", r.TestedAmount)
+	fmt.Fprintf(w, "%0.2f%% of repositories contain one or more Error level issue\\\n", r.AverageErrors())
+	fmt.Fprintf(w, "%0.2f%% of repositories contain one or more Warning level issue\\\n", r.AverageWarns())
+	fmt.Fprintf(w, "%0.2f%% of repositories contain one or more Notice level issue\\\n", r.AverageNotices())
+	fmt.Fprintf(w, "%0.0fms average time it took to download each certificate\n", r.AverageTime())
+}
+
+func PrintSummaryDetails(w io.Writer, r *RepositoryIssuersReport) {
+	name := "Issuers"
+	dir := DIR_CA
+	if r.Type == SP {
+		name = "Providers"
+		dir = DIR_SP
+	}
+	fmt.Fprintf(w, "| %s | Certificates | Errors | Warnings | Notices |\n", name)
+	fmt.Fprintln(w, "|----|--------------|--------|----------|---------|")
+
+	print := func(amount int) string {
+		return fmt.Sprintf("%d (%0.2f%%)", amount, percent(amount, r.TestedAmount))
+	}
+
+	keys := []string{}
+	for key := range r.Issuers {
+		keys = append(keys, key)
+	}
+	sort.Strings(keys)
+	for _, key := range keys {
+		issuer := r.Issuers[key]
+		fmt.Fprintf(w, "| %s | %s | %s | %s | %s |\n",
+			fmt.Sprintf("[%s](%s)", issuer.Name, path.Join(DIR_ISSUERS, dir, escapeMdLink(issuer.Name), "README.md")),
+			print(issuer.TestedAmount),
+			print(issuer.ErrorAmount),
+			print(issuer.WarnAmount),
+			print(issuer.NoticeAmount),
+		)
+	}
+	fmt.Fprintf(w, "| **Total** | %s | %s | %s | %s |\n",
+		print(r.TestedAmount),
+		print(r.ErrorAmount),
+		print(r.WarnAmount),
+		print(r.NoticeAmount),
+	)
 }
 
 // Helpers
-
-func computeCertThumbprint(c *x509.Certificate) string {
-	thumbprint := sha1.New()
-	thumbprint.Write(c.Raw)
-	return hex.EncodeToString(thumbprint.Sum(nil))
-}
 
 func statusToString(s lint.LintStatus) string {
 	switch s {
@@ -321,6 +551,6 @@ func statusToString(s lint.LintStatus) string {
 	}
 }
 
-func percent(a uint, b uint) float64 {
+func percent(a int, b int) float64 {
 	return float64(a) / float64(b) * 100
 }

@@ -2,6 +2,7 @@ package lint
 
 import (
 	"net/http"
+	"net/url"
 	"time"
 )
 
@@ -19,7 +20,7 @@ type LintRule struct {
 // LintData contains common data for testing.
 type LintData struct {
 	//  Url keeps URL link.
-	Url string
+	Url *url.URL
 	// Response keeps HTTP response.
 	Response *http.Response
 	Error    error
@@ -52,8 +53,10 @@ type LintResult struct {
 // LintResultSet contains a list of rule tests and common information about the test.
 type LintResultSet struct {
 	Timestamp time.Time
+	// Time contains request time getting in ms
+	Time int
 	// Url keeps URL link.
-	Url string
+	Url *url.URL
 	// StatusCode keeps HTTP status code.
 	StatusCode int
 	// Body keeps HTTP response content.

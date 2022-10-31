@@ -20,6 +20,7 @@ const (
 
 // LintResult is common lint result
 type LintResult struct {
+	Name     string
 	Amount   uint
 	Errors   uint
 	Warnings uint
@@ -96,7 +97,7 @@ func ReadRootCertificates(fileOrUrl string) (*x509.CertPool, error) {
 
 	rootCerts := internal.ParseCertificates(rootPem)
 	for _, cert := range rootCerts {
-		p.AddCert(cert.Certificate)
+		p.AddCert(cert)
 	}
 
 	return p, nil
@@ -115,29 +116,19 @@ var wellknownIssueNames = map[string]string{
 	"TransNexus, Inc.":                 "TransNexus",
 }
 
-// getOrganizationName returns organization name.
-// It tries to get name from the certificate chain, otherwise uses name from the certificate
-func getOrganizationName(c *x509.Certificate, options *x509.VerifyOptions) string {
-	name := internal.GetOrganizationName(c)
-	if options != nil {
-		current, expired, never, _ := c.Verify(*options)
-		if len(current) > 0 {
-			chain := current[0]
-			name = internal.GetOrganizationName(chain[len(chain)-1])
-		} else if len(expired) > 0 {
-			chain := expired[0]
-			name = internal.GetOrganizationName(chain[len(chain)-1])
-		} else if len(never) > 0 {
-			chain := never[0]
-			name = internal.GetOrganizationName(chain[len(chain)-1])
-		}
-	}
-
-	if len(wellknownIssueNames[name]) != 0 {
-		name = wellknownIssueNames[name]
-	}
-
-	return name
+var wellknownCaDomains = map[string]string{
+	"certificates.clearip.com":         "TransNexus",
+	"certificates.peeringhub.io":       "Peeringhub",
+	"certificates.transnexus.com":      "TransNexus",
+	"cr-partner.ccid.neustar.biz":      "Neustar",
+	"cr.ccid.neustar.biz":              "Neustar",
+	"cr.sansay.com":                    "Sansay",
+	"p.mtsec.me":                       "Martini Security",
+	"prod001-cr.rbbnidhub.com":         "Ribbon Communications",
+	"prod001-prod011-cr.rbbnidhub.com": "Ribbon Communications",
+	"sticr.stir.comcast.com":           "Comcast",
+	"t-mobile-sticr.fosrvt.com":        "T-Mobile",
+	"sti-cr.cgah.tnsi.com":             "Metaswitch",
 }
 
 func escapeMdLink(link string) string {

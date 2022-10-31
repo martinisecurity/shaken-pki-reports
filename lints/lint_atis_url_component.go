@@ -1,7 +1,6 @@
 package lints
 
 import (
-	"net/url"
 	"strings"
 
 	"github.com/martinisecurity/shaken-pki-reports/lint"
@@ -24,16 +23,15 @@ func NewUrlComponent() lint.LintRuleInterface {
 
 // CheckApplies implements LintUrlRuleInterface
 func (*urlComponent) CheckApplies(data *lint.LintData) bool {
-	_, err := url.Parse(data.Url)
-	return err != nil
+	return true
 }
 
 // Execute implements lint.LintUrlRuleInterface
 func (*urlComponent) Execute(data *lint.LintData) *lint.LintResult {
-	url, _ := url.Parse(data.Url)
-	if len(url.Fragment) > 0 || strings.HasSuffix(data.Url, "#") ||
-		len(url.RawQuery) > 0 || strings.HasSuffix(data.Url, "?") ||
-		url.User != nil {
+	urlString := data.Url.String()
+	if len(data.Url.Fragment) > 0 || strings.HasSuffix(urlString, "#") ||
+		len(data.Url.RawQuery) > 0 || strings.HasSuffix(urlString, "?") ||
+		data.Url.User != nil {
 		return &lint.LintResult{
 			Status:  lint.Error,
 			Details: "The STI-VS shall not dereference URLs that contain a userinfo subcomponent, query component, or fragment identifier component",

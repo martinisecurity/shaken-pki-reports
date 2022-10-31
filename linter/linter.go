@@ -5,27 +5,34 @@ import (
 	"errors"
 	"io"
 	"net/http"
+	"net/url"
 	"time"
 
 	"github.com/martinisecurity/shaken-pki-reports/lint"
 	_ "github.com/martinisecurity/shaken-pki-reports/lints"
 )
 
-func LintUrl(url string) *lint.LintResultSet {
+func LintUrl(url *url.URL) *lint.LintResultSet {
 	result := &lint.LintResultSet{
 		Timestamp: time.Now(),
+		Time:      0,
 		Url:       url,
 		Results:   map[string]*lint.LintResult{},
 	}
+	urlString := url.String()
 
 	// send GET request
 	http.DefaultTransport.(*http.Transport).TLSClientConfig = &tls.Config{}
-	response, err := http.Get(url)
+	reqStart := time.Now()
+	response, err := http.Get(urlString)
+	reqEnd := time.Now()
 	if err != nil {
 		// Disable SSL verification
 		http.DefaultTransport.(*http.Transport).TLSClientConfig = &tls.Config{InsecureSkipVerify: true}
 		var err2 error
-		response, err2 = http.Get(url)
+		reqStart = time.Now()
+		response, err2 = http.Get(urlString)
+		reqEnd = time.Now()
 		if err2 == nil {
 			result.Append("e_tls_transport", &lint.LintResult{
 				Status:  lint.Error,
@@ -35,6 +42,7 @@ func LintUrl(url string) *lint.LintResultSet {
 			err = err2
 		}
 	}
+	result.Time = int(reqEnd.Sub(reqStart).Milliseconds())
 	testData := &lint.LintData{
 		Url:      url,
 		Response: response,
@@ -44,7 +52,7 @@ func LintUrl(url string) *lint.LintResultSet {
 	if response != nil {
 		// test redirect
 		if response.StatusCode == 200 {
-			req, _ := http.NewRequest("GET", url, nil)
+			req, _ := http.NewRequest("GET", urlString, nil)
 			if req != nil {
 				client := new(http.Client)
 				client.CheckRedirect = func(req *http.Request, via []*http.Request) error {
