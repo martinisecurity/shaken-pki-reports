@@ -2,7 +2,7 @@
 
 ## Certificate frontier.com
 
-Tested At: 31 Oct 22 18:16 UTC\
+Tested At: 31 Oct 22 18:32 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 90 day(s)\
 Subject: C=US, ST=NY, L=Rochester, O=Support, OU=Communications, CN=frontier.com\
@@ -25,7 +25,6 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIID%2BzCCAuOgAwIBAg
 - e_sti_basic_constraints
 - e_sti_certificate_policies
 - e_sti_crl_distribution
-- e_sti_crl_distribution_not_reachable
 - e_sti_extension_unknown
 - e_sti_issuer_dn
 - e_sti_key_usage
@@ -42,4 +41,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIID%2BzCCAuOgAwIBAg
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 31/10/2022 at 18:25:03
+Generated: 31/10/2022 at 18:34:12

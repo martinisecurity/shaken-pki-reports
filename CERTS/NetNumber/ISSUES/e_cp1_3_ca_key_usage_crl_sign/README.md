@@ -19,4 +19,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | NetNumber SHAKEN Root CA | [view](../../CERTS/7ac80e8481ecb019dc95484016842db78686069efbc0f703e7f39310217b6157/README.md) |  |
 
 
-Generated: 31/10/2022 at 18:25:03
+Generated: 31/10/2022 at 18:34:12

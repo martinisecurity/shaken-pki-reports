@@ -2,7 +2,7 @@
 
 ## Certificate Baltimore-Washington Telephone Company SHAKEN cert 8697
 
-Tested At: 31 Oct 22 18:15 UTC\
+Tested At: 31 Oct 22 18:32 UTC\
 Initial Validity Period: 31 day(s)\
 Remaining Validity Period: 26 day(s)\
 Subject: O=Baltimore-Washington Telephone Company, C=US, CN=Baltimore-Washington Telephone Company SHAKEN cert 8697\
@@ -14,12 +14,12 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICvTCCAkOgAwIBAgIJ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_sti_crl_distribution](../../ISSUES/e_sti_crl_distribution/README.md) | error | ATIS&#x2011;1000080 | STI End-Entity certificates shall contain a CRL Distribution Points extension |
-| [e_cp1_3_subject_sn](../../ISSUES/e_cp1_3_subject_sn/README.md) | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| [e_cp1_3_ambiguous_identifier](../../ISSUES/e_cp1_3_ambiguous_identifier/README.md) | error | United States SHAKEN CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | [e_sti_certificate_policies](../../ISSUES/e_sti_certificate_policies/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [n_sti_certificate_policy_critical](../../ISSUES/n_sti_certificate_policy_critical/README.md) | notice | ATIS&#x2011;1000080 | STI certificates should contain a CertificatePolicies extension marked uncritical |
+| [e_sti_crl_distribution](../../ISSUES/e_sti_crl_distribution/README.md) | error | ATIS&#x2011;1000080 | STI End-Entity certificates shall contain a CRL Distribution Points extension |
+| [e_cp1_3_ambiguous_identifier](../../ISSUES/e_cp1_3_ambiguous_identifier/README.md) | error | United States SHAKEN CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | [e_sti_subject_cn](../../ISSUES/e_sti_subject_cn/README.md) | error | ATIS&#x2011;1000080 | Common name shall contain the text string 'SHAKEN 8697' |
+| [e_cp1_3_subject_sn](../../ISSUES/e_cp1_3_subject_sn/README.md) | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 31/10/2022 at 18:25:03
+Generated: 31/10/2022 at 18:34:12

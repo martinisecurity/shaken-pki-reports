@@ -6,7 +6,7 @@
 100.00% of repositories contain one or more Error level issue\
 100.00% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-2119ms average time it took to download each certificate
+352ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -21,4 +21,4 @@
 | `https://shaken.spectrum.com/4d65efdb8a1ca366e9576c8fda747fa4.pem` | true | [view](REPOS/18cdd5acaf4706a8bff59aa0338843318ac4e3c1/README.md) |
 
 
-Generated: 31/10/2022 at 18:25:03
+Generated: 31/10/2022 at 18:34:12

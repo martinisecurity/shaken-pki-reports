@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 073H
 
-Tested At: 31 Oct 22 18:16 UTC\
+Tested At: 31 Oct 22 18:32 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 283 day(s)\
 Subject: CN=SHAKEN 073H, OU=SHAKEN, O=Telnyx LCC, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC7DCCApKgAwIBAgIQ
 | [w_pki_subject_rdn_unknown](../../ISSUES/w_pki_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 31/10/2022 at 18:25:03
+Generated: 31/10/2022 at 18:34:12

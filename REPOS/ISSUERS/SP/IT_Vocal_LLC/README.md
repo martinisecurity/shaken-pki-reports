@@ -6,7 +6,7 @@
 100.00% of repositories contain one or more Error level issue\
 100.00% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-88ms average time it took to download each certificate
+74ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -18,4 +18,4 @@
 | `https://shaken.vocaltransit.com/783J/vocaltransit-STIRSHAKEN.crt` | true | [view](REPOS/86e19698fc1d5b85bbffe8673c702f458fe26593/README.md) |
 
 
-Generated: 31/10/2022 at 18:25:03
+Generated: 31/10/2022 at 18:34:12

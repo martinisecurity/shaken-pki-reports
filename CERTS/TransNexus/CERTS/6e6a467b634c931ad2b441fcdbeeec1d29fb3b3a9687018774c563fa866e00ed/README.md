@@ -2,7 +2,7 @@
 
 ## Certificate Charter Communications Inc SHAKEN 5606
 
-Tested At: 31 Oct 22 18:17 UTC\
+Tested At: 31 Oct 22 18:33 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 2 day(s)\
 Subject: CN=Charter Communications Inc SHAKEN 5606, OU=Charter Communications Inc, O=TransNexus, C=US\
@@ -14,8 +14,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICuTCCAl%2BgAwIBAg
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [w_pki_subject_rdn_unknown](../../ISSUES/w_pki_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
+| [w_pki_subject_rdn_unknown](../../ISSUES/w_pki_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
 ### Not Effective
@@ -31,4 +31,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICuTCCAl%2BgAwIBAg
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 31/10/2022 at 18:25:03
+Generated: 31/10/2022 at 18:34:12

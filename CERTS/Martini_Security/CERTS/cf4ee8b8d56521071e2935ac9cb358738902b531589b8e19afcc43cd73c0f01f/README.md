@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 073K
 
-Tested At: 31 Oct 22 18:17 UTC\
+Tested At: 31 Oct 22 18:33 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: 84 day(s)\
 Subject: O=ACS Business Systems\\, Inc., C=US, serialNumber=009BD5E9708FE1918B0243C25CEC586F, CN=SHAKEN 073K\
@@ -13,7 +13,7 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDJTCCAsqgAwIBAgIU
 
 
 
-152 tests were ran and no warning or error level issues were found
+150 tests were ran and no warning or error level issues were found
 
 
-Generated: 31/10/2022 at 18:25:03
+Generated: 31/10/2022 at 18:34:12

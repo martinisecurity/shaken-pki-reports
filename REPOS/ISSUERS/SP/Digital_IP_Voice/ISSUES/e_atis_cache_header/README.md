@@ -10,4 +10,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 |------------|----------|------|
 | `https://az.tax/1` | true | [view](../../REPOS/fd8b5a9adb15d0a05df94173aeb4e2327619d1cf/README.md) |
 
-Generated: 31/10/2022 at 18:25:03
+Generated: 31/10/2022 at 18:34:12

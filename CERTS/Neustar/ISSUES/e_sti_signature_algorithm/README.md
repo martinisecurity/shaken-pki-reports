@@ -135,4 +135,4 @@ Description: STI certificates shall contain a Signature Algorithm field with the
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 31/10/2022 at 18:25:03
+Generated: 31/10/2022 at 18:34:12

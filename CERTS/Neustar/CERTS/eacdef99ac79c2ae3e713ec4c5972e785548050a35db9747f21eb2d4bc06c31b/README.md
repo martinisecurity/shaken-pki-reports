@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 139K
 
-Tested At: 31 Oct 22 18:15 UTC\
+Tested At: 31 Oct 22 18:32 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 243 day(s)\
 Subject: CN=SHAKEN 139K, O=FaxLogic LLC, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2FTCCAqOgAwIBAg
 | [e_sti_extension_unknown](../../ISSUES/e_sti_extension_unknown/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 31/10/2022 at 18:25:03
+Generated: 31/10/2022 at 18:34:12

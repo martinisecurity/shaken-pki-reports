@@ -28,7 +28,6 @@
 | 37 | [e_sti_basic_constraints](ISSUES/e_sti_basic_constraints/README.md) | ATIS-1000080 |
 | 191 | [e_sti_certificate_policies](ISSUES/e_sti_certificate_policies/README.md) | ATIS-1000080 |
 | 39 | [e_sti_crl_distribution](ISSUES/e_sti_crl_distribution/README.md) | ATIS-1000080 |
-| 102 | [e_sti_crl_distribution_not_reachable](ISSUES/e_sti_crl_distribution_not_reachable/README.md) | ATIS-1000080 |
 | 194 | [e_sti_extension_unknown](ISSUES/e_sti_extension_unknown/README.md) | ATIS-1000080 |
 | 39 | [e_sti_issuer_dn](ISSUES/e_sti_issuer_dn/README.md) | ATIS-1000080 |
 | 39 | [e_sti_key_usage](ISSUES/e_sti_key_usage/README.md) | ATIS-1000080 |
@@ -63,7 +62,6 @@
 | 1 | [e_sti_ca_authority_key_identifier](ISSUES/e_sti_ca_authority_key_identifier/README.md) | ATIS-1000080 |
 | 2 | [e_sti_ca_certificate_policies](ISSUES/e_sti_ca_certificate_policies/README.md) | ATIS-1000080 |
 | 2 | [e_sti_ca_crl_distribution](ISSUES/e_sti_ca_crl_distribution/README.md) | ATIS-1000080 |
-| 1 | [e_sti_ca_crl_distribution_not_reachable](ISSUES/e_sti_ca_crl_distribution_not_reachable/README.md) | ATIS-1000080 |
 | 3 | [e_sti_ca_extension_unknown](ISSUES/e_sti_ca_extension_unknown/README.md) | ATIS-1000080 |
 | 2 | [e_sti_ca_issuer_dn](ISSUES/e_sti_ca_issuer_dn/README.md) | ATIS-1000080 |
 | 2 | [e_sti_ca_key_usage](ISSUES/e_sti_ca_key_usage/README.md) | ATIS-1000080 |
@@ -300,4 +298,4 @@
 | 17 Aug 21 17:19 UTC | Neustar Certified Caller ID SHAKEN Root CA | true | [view](CERTS/4c728d18b628cc67dda5490e0b4aa8ef4ba679f96d033f34f1680e219e0806c3/README.md) |
 
 
-Generated: 31/10/2022 at 18:25:03
+Generated: 31/10/2022 at 18:34:12

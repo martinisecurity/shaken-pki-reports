@@ -21,4 +21,4 @@ Description: STI certificate shall not include extensions that are not specified
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 31/10/2022 at 18:25:03
+Generated: 31/10/2022 at 18:34:12

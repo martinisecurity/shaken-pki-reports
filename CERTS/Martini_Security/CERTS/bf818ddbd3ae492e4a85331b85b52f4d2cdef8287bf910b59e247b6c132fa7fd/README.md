@@ -2,7 +2,7 @@
 
 ## Certificate Martini Security SHAKEN G2
 
-Tested At: 31 Oct 22 18:25 UTC\
+Tested At: 31 Oct 22 18:34 UTC\
 Initial Validity Period: 1825 day(s)\
 Remaining Validity Period: 1796 day(s)\
 Subject: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
@@ -16,4 +16,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDETCCAragAwIBAgIU
 | [w_pki_ca_subject_rdn_unknown](../../ISSUES/w_pki_ca_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 31/10/2022 at 18:25:03
+Generated: 31/10/2022 at 18:34:12

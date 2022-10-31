@@ -6,7 +6,7 @@
 0.00% of repositories contain one or more Error level issue\
 100.00% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-115ms average time it took to download each certificate
+42ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -17,4 +17,4 @@
 | `https://sti.verizon.com/vzwcert/vzshaken-02-2024.crt` | true | [view](REPOS/3c993e5ab26bb9e246ceac061b199e01aa2501c1/README.md) |
 
 
-Generated: 31/10/2022 at 18:25:03
+Generated: 31/10/2022 at 18:34:12

@@ -23,4 +23,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sti-cr.cgah.tnsi.com/certs/cd1856717574765eb6b4bddb7a5bc8814e1e2103` | true | [view](../../REPOS/8a93062c89a419a83af68fafaa8bc49b3e23ad38/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/de39b976c7549358da256530d81cfb1f446a2583` | true | [view](../../REPOS/5b6aeeae4a284e7607c4cb9d696247d8dce1a428/README.md) |
 
-Generated: 31/10/2022 at 18:25:03
+Generated: 31/10/2022 at 18:34:12

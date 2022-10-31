@@ -109,4 +109,4 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | `https://cr.sansay.com/star2star-prod-stirshaken` | true | [view](../../REPOS/54e4a0308739d11788b00b354a6cd51473fbf024/README.md) |
 | `https://cr.sansay.com/star2star_stirshaken_20220922` | true | [view](../../REPOS/9f19fc9d73b83395796f7e4f0d8a277010ab2fd7/README.md) |
 
-Generated: 31/10/2022 at 18:25:03
+Generated: 31/10/2022 at 18:34:12

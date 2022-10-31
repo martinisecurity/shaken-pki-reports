@@ -6,7 +6,7 @@
 0.00% of repositories contain one or more Error level issue\
 0.00% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-126ms average time it took to download each certificate
+15ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -18,4 +18,4 @@
 | `https://www.gstatic.com/gtp/stir/yWm5JCvzCtTKhZihGKFIFA.pem` | false | [view](REPOS/6b2e4421bedd60b52d10758facb47f4b6901ed03/README.md) |
 
 
-Generated: 31/10/2022 at 18:25:03
+Generated: 31/10/2022 at 18:34:12

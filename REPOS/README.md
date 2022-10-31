@@ -8,7 +8,7 @@
 41.57% of repositories contain one or more Error level issue\
 55.39% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-315ms average time it took to download each certificate
+73ms average time it took to download each certificate
 
 ### CA Operated Repositories
 
@@ -16,7 +16,7 @@
 35.04% of repositories contain one or more Error level issue\
 50.39% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-330ms average time it took to download each certificate
+63ms average time it took to download each certificate
 
 ### Service Provider Operated Repositories
 
@@ -24,7 +24,7 @@
 94.94% of repositories contain one or more Error level issue\
 96.20% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-190ms average time it took to download each certificate
+151ms average time it took to download each certificate
 
 ## Details
 
@@ -117,4 +117,4 @@
 | **Total** | 79 (100.00%) | 75 (94.94%) | 76 (96.20%) | 0 (0.00%) |
 
 
-Generated: 31/10/2022 at 18:25:03
+Generated: 31/10/2022 at 18:34:12

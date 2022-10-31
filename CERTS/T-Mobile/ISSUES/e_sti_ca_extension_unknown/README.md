@@ -19,4 +19,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | TMOBILE-PROD-SUB-STIRSHAKEN-EC | [view](../../CERTS/4378a3f136510465232246b4d6a72d600db7e11117ac0e3d59c65528f47c9c4f/README.md) |  |
 
 
-Generated: 31/10/2022 at 18:25:03
+Generated: 31/10/2022 at 18:34:12
