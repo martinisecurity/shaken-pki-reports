@@ -425,6 +425,7 @@ func LintCertificate(c *x509.Certificate) (*zlint.ResultSet, error) {
 	fmt.Println("Lint certificate")
 	fmt.Printf("  Issuer: %s\n", c.Issuer.String())
 	fmt.Printf("  Subject: %s\n", c.Subject.String())
+	timeStart := time.Now()
 	// Initialize lint registry
 	var err error
 	if registry == nil {
@@ -437,6 +438,8 @@ func LintCertificate(c *x509.Certificate) (*zlint.ResultSet, error) {
 				lint.ShakenPKI,
 			},
 			ExcludeNames: []string{
+				"e_sti_crl_distribution_not_reachable",
+				"e_sti_ca_crl_distribution_not_reachable",
 				"w_distribution_point_missing_ldap_or_uri",
 			},
 		})
@@ -445,5 +448,9 @@ func LintCertificate(c *x509.Certificate) (*zlint.ResultSet, error) {
 		}
 	}
 
-	return zlint.LintCertificateEx(c, registry), nil
+	res := zlint.LintCertificateEx(c, registry)
+	timeEnd := time.Now()
+	fmt.Printf("  Time: %dms\n", int(timeEnd.Sub(timeStart).Milliseconds()))
+
+	return res, nil
 }
