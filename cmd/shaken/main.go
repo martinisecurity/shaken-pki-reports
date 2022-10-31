@@ -8,7 +8,7 @@ import (
 
 func main() {
 	if len(os.Args) < 2 {
-		fmt.Println("expected 'lint' or 'download' subcommands")
+		fmt.Println("expected 'lint' subcommand")
 		os.Exit(1)
 	}
 
@@ -29,7 +29,7 @@ func main() {
 		// run command
 		err = RunLintCommand(lintArgs)
 	default:
-		fmt.Println("expected 'lint' or 'download' subcommands")
+		fmt.Println("expected 'lint' subcommand")
 		os.Exit(1)
 	}
 
