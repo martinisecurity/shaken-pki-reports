@@ -34,17 +34,38 @@ const (
 )
 
 type LintCommandItem struct {
-	Roots             *x509.CertPool
-	Intermediates     *x509.CertPool
-	Url               *url.URL
-	Certificate       *x509.Certificate
-	UrlResult         *uLint.LintResultSet
-	CertificateResult *zlint.ResultSet
-	IsExpired         bool
-	IsUntrusted       bool
-	Chain             []*x509.Certificate
-	certStatusUpdated bool
-	CaCrAvailable     CaCrAvailableType
+	Roots                  *x509.CertPool
+	Intermediates          *x509.CertPool
+	Url                    *url.URL
+	Certificate            *x509.Certificate
+	UrlResult              *uLint.LintResultSet
+	CertificateResult      *zlint.ResultSet
+	IsExpired              bool
+	IsUntrusted            bool
+	Chain                  []*x509.Certificate
+	certStatusUpdated      bool
+	CaCrAvailable          CaCrAvailableType
+	hasCertificateProblems *bool
+}
+
+func (t *LintCommandItem) HasCertificateProblems() bool {
+	bTrue := true
+	if t.hasCertificateProblems == nil {
+		if t.CertificateResult.ErrorsPresent ||
+			t.CertificateResult.WarningsPresent ||
+			t.CertificateResult.NoticesPresent {
+			t.hasCertificateProblems = &bTrue
+		} else {
+			for _, r := range t.CertificateResult.Results {
+				if r.Status == lint.NE {
+					t.hasCertificateProblems = &bTrue
+					break
+				}
+			}
+		}
+	}
+
+	return *t.hasCertificateProblems
 }
 
 func (t *LintCommandItem) UpdateStatuses() {

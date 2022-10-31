@@ -50,12 +50,11 @@ func PrintCertificateSummaryReport(w io.Writer, r *CertificateSummaryReport) {
 	PrintCertificateFindings(w, &r.CA.CertificateGroupReport)
 	fmt.Fprintln(w)
 
-	// TODO
 	fmt.Fprintln(w, "## Certificate Repository")
 	fmt.Fprintln(w)
-	fmt.Fprintf(w, "%0.2f%% of certificate repositories contain one or more Error level issue\\\n", 0.0)
-	fmt.Fprintf(w, "%0.2f%% of certificates repositories contain one or more Warning level issue\\\n", 0.0)
-	fmt.Fprintf(w, "%0.2f%% of certificates repositories are too old to be assessed against currently enforced expectations\n", 0.0)
+	fmt.Fprintf(w, "%0.2f%% of certificate repositories contain one or more Error level issue\\\n", r.Leaf.AverageRepositoryErrors())
+	fmt.Fprintf(w, "%0.2f%% of certificates repositories contain one or more Warning level issue\\\n", r.Leaf.AverageRepositoryWarns())
+	fmt.Fprintf(w, "%0.2f%% of certificates repositories contain one or more Notice level issue\n", r.Leaf.AverageRepositoryNotices())
 	fmt.Fprintln(w)
 
 	fmt.Fprintln(w, "## Details")
@@ -312,7 +311,7 @@ func PrintCertificates(w io.Writer, r []*LintCommandItem, b string) {
 		fmt.Fprintf(w, "| %s | %s | %t | %s |\n",
 			v.Certificate.NotBefore.Format(time.RFC822),
 			v.Certificate.Subject.CommonName,
-			v.CertificateResult.ErrorsPresent || v.CertificateResult.WarningsPresent || v.CertificateResult.NoticesPresent,
+			v.HasCertificateProblems(),
 			fmt.Sprintf("[view](%s)", path.Join(b, hex.EncodeToString(v.Certificate.FingerprintSHA256), "README.md")),
 		)
 	}

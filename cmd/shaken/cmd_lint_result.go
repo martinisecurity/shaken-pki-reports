@@ -11,6 +11,9 @@ import (
 
 type CertificateGroupReport struct {
 	Items                    []*LintCommandItem
+	RepositoryErrorAmount    int
+	RepositoryWarnAmount     int
+	RepositoryNoticeAmount   int
 	TestedAmount             int
 	SkippedExpiredAmount     int
 	SkippedUntrustedAmount   int
@@ -33,6 +36,9 @@ func averagePercent(sum int, amount int) float64 {
 
 func (t *CertificateGroupReport) Join(c *CertificateGroupReport) {
 	t.Items = append(t.Items, c.Items...)
+	t.RepositoryErrorAmount += c.RepositoryErrorAmount
+	t.RepositoryWarnAmount += c.RepositoryWarnAmount
+	t.RepositoryNoticeAmount += c.RepositoryNoticeAmount
 	t.TestedAmount += c.TestedAmount
 	t.SkippedExpiredAmount += c.SkippedExpiredAmount
 	t.SkippedUntrustedAmount += c.SkippedUntrustedAmount
@@ -51,7 +57,7 @@ func (t *CertificateGroupReport) AverageRemainingValidity() float64 {
 		sum += v
 	}
 
-	return averagePercent(sum, len(t.averageRemainingValidity))
+	return average(sum, len(t.averageRemainingValidity))
 }
 
 func (t *CertificateGroupReport) AverageInitialValidity() float64 {
@@ -60,7 +66,19 @@ func (t *CertificateGroupReport) AverageInitialValidity() float64 {
 		sum += v
 	}
 
-	return averagePercent(sum, len(t.averageInitialValidity))
+	return average(sum, len(t.averageInitialValidity))
+}
+
+func (t *CertificateGroupReport) AverageRepositoryErrors() float64 {
+	return averagePercent(t.RepositoryErrorAmount, t.TestedAmount)
+}
+
+func (t *CertificateGroupReport) AverageRepositoryWarns() float64 {
+	return averagePercent(t.RepositoryWarnAmount, t.TestedAmount)
+}
+
+func (t *CertificateGroupReport) AverageRepositoryNotices() float64 {
+	return averagePercent(t.RepositoryNoticeAmount, t.TestedAmount)
 }
 
 func (t *CertificateGroupReport) AverageErrors() float64 {
@@ -115,6 +133,19 @@ func (t *CertificateGroupReport) Append(i *LintCommandItem) bool {
 
 		// refresh status counters
 		cr := i.CertificateResult
+
+		if ur := i.UrlResult; ur != nil {
+			if ur.HasErrors {
+				t.RepositoryErrorAmount += 1
+			}
+			if ur.HasWarnings {
+				t.RepositoryWarnAmount += 1
+			}
+			if ur.HasNotices {
+				t.RepositoryNoticeAmount += 1
+			}
+		}
+
 		hasError := false
 		hasWarn := false
 		hasNotice := false
