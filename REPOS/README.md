@@ -4,19 +4,19 @@
 
 ### All Repositories
 
-724 repositories were included in the corpus being tested\
-41.57% of repositories contain one or more Error level issue\
-55.39% of repositories contain one or more Warning level issue\
+751 repositories were included in the corpus being tested\
+40.61% of repositories contain one or more Error level issue\
+55.13% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-73ms average time it took to download each certificate
+77ms average time it took to download each certificate
 
 ### CA Operated Repositories
 
-645 repositories were included in the corpus being tested\
-35.04% of repositories contain one or more Error level issue\
-50.39% of repositories contain one or more Warning level issue\
+672 repositories were included in the corpus being tested\
+34.23% of repositories contain one or more Error level issue\
+50.30% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-63ms average time it took to download each certificate
+48ms average time it took to download each certificate
 
 ### Service Provider Operated Repositories
 
@@ -24,7 +24,7 @@
 94.94% of repositories contain one or more Error level issue\
 96.20% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-151ms average time it took to download each certificate
+328ms average time it took to download each certificate
 
 ## Details
 
@@ -32,16 +32,16 @@
 
 | Issuers | Certificates | Errors | Warnings | Notices |
 |----|--------------|--------|----------|---------|
-| [Comcast](ISSUERS/CA/Comcast/README.md) | 48 (7.44%) | 48 (7.44%) | 48 (7.44%) | 0 (0.00%) |
-| [Martini Security](ISSUERS/CA/Martini_Security/README.md) | 7 (1.09%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Metaswitch](ISSUERS/CA/Metaswitch/README.md) | 14 (2.17%) | 14 (2.17%) | 14 (2.17%) | 0 (0.00%) |
-| [Neustar](ISSUERS/CA/Neustar/README.md) | 153 (23.72%) | 153 (23.72%) | 153 (23.72%) | 0 (0.00%) |
-| [Peeringhub](ISSUERS/CA/Peeringhub/README.md) | 3 (0.47%) | 3 (0.47%) | 3 (0.47%) | 0 (0.00%) |
-| [Ribbon Communications](ISSUERS/CA/Ribbon_Communications/README.md) | 6 (0.93%) | 6 (0.93%) | 6 (0.93%) | 0 (0.00%) |
-| [Sansay](ISSUERS/CA/Sansay/README.md) | 100 (15.50%) | 1 (0.16%) | 100 (15.50%) | 0 (0.00%) |
-| [T-Mobile](ISSUERS/CA/T-Mobile/README.md) | 1 (0.16%) | 1 (0.16%) | 1 (0.16%) | 0 (0.00%) |
-| [TransNexus](ISSUERS/CA/TransNexus/README.md) | 313 (48.53%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
-| **Total** | 645 (100.00%) | 226 (35.04%) | 325 (50.39%) | 0 (0.00%) |
+| [Comcast](ISSUERS/CA/Comcast/README.md) | 51 (7.59%) | 51 (7.59%) | 51 (7.59%) | 0 (0.00%) |
+| [Martini Security](ISSUERS/CA/Martini_Security/README.md) | 7 (1.04%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Metaswitch](ISSUERS/CA/Metaswitch/README.md) | 14 (2.08%) | 14 (2.08%) | 14 (2.08%) | 0 (0.00%) |
+| [Neustar](ISSUERS/CA/Neustar/README.md) | 153 (22.77%) | 153 (22.77%) | 153 (22.77%) | 0 (0.00%) |
+| [Peeringhub](ISSUERS/CA/Peeringhub/README.md) | 3 (0.45%) | 3 (0.45%) | 3 (0.45%) | 0 (0.00%) |
+| [Ribbon Communications](ISSUERS/CA/Ribbon_Communications/README.md) | 7 (1.04%) | 7 (1.04%) | 7 (1.04%) | 0 (0.00%) |
+| [Sansay](ISSUERS/CA/Sansay/README.md) | 109 (16.22%) | 1 (0.15%) | 109 (16.22%) | 0 (0.00%) |
+| [T-Mobile](ISSUERS/CA/T-Mobile/README.md) | 1 (0.15%) | 1 (0.15%) | 1 (0.15%) | 0 (0.00%) |
+| [TransNexus](ISSUERS/CA/TransNexus/README.md) | 327 (48.66%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
+| **Total** | 672 (100.00%) | 230 (34.23%) | 338 (50.30%) | 0 (0.00%) |
 
 ### Service Provider Operated Repositories
 
@@ -50,7 +50,6 @@
 | [AM Communications Labs Inc](ISSUERS/SP/AM_Communications_Labs_Inc/README.md) | 1 (1.27%) | 1 (1.27%) | 1 (1.27%) | 0 (0.00%) |
 | [ATT SHAKEN E-E](ISSUERS/SP/ATT_SHAKEN_E-E/README.md) | 1 (1.27%) | 1 (1.27%) | 1 (1.27%) | 0 (0.00%) |
 | [Accessline Communications Corp.](ISSUERS/SP/Accessline_Communications_Corp./README.md) | 1 (1.27%) | 1 (1.27%) | 1 (1.27%) | 0 (0.00%) |
-| [Alianza](ISSUERS/SP/Alianza/README.md) | 1 (1.27%) | 1 (1.27%) | 1 (1.27%) | 0 (0.00%) |
 | [Allstream Business US, LLC](ISSUERS/SP/Allstream_Business_US,_LLC/README.md) | 1 (1.27%) | 1 (1.27%) | 1 (1.27%) | 0 (0.00%) |
 | [Apex Telecom](ISSUERS/SP/Apex_Telecom/README.md) | 1 (1.27%) | 1 (1.27%) | 1 (1.27%) | 0 (0.00%) |
 | [Avid Telecom](ISSUERS/SP/Avid_Telecom/README.md) | 1 (1.27%) | 1 (1.27%) | 1 (1.27%) | 0 (0.00%) |
@@ -101,7 +100,7 @@
 | [TextNow Inc.](ISSUERS/SP/TextNow_Inc./README.md) | 1 (1.27%) | 1 (1.27%) | 1 (1.27%) | 0 (0.00%) |
 | [TransNexus](ISSUERS/SP/TransNexus/README.md) | 1 (1.27%) | 1 (1.27%) | 1 (1.27%) | 0 (0.00%) |
 | [U. S. Telepacific Corp](ISSUERS/SP/U._S._Telepacific_Corp/README.md) | 1 (1.27%) | 1 (1.27%) | 1 (1.27%) | 0 (0.00%) |
-| [Unknown](ISSUERS/SP/Unknown/README.md) | 2 (2.53%) | 2 (2.53%) | 2 (2.53%) | 0 (0.00%) |
+| [Unknown](ISSUERS/SP/Unknown/README.md) | 3 (3.80%) | 3 (3.80%) | 3 (3.80%) | 0 (0.00%) |
 | [VOIP ESSENTIAL INC](ISSUERS/SP/VOIP_ESSENTIAL_INC/README.md) | 1 (1.27%) | 1 (1.27%) | 1 (1.27%) | 0 (0.00%) |
 | [Verizon Data Services LLC](ISSUERS/SP/Verizon_Data_Services_LLC/README.md) | 1 (1.27%) | 0 (0.00%) | 1 (1.27%) | 0 (0.00%) |
 | [Vibratel](ISSUERS/SP/Vibratel/README.md) | 1 (1.27%) | 1 (1.27%) | 1 (1.27%) | 0 (0.00%) |
@@ -117,4 +116,4 @@
 | **Total** | 79 (100.00%) | 75 (94.94%) | 76 (96.20%) | 0 (0.00%) |
 
 
-Generated: 31/10/2022 at 18:34:12
+Generated: 31/10/2022 at 19:21:49

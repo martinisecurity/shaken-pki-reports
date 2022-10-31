@@ -6,7 +6,7 @@
 100.00% of repositories contain one or more Error level issue\
 100.00% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-306ms average time it took to download each certificate
+135ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -18,4 +18,4 @@
 | `https://qcall.meta.tpx.net/certs/shaken_cacert.crt` | true | [view](REPOS/135ba22af33ee37bfbe885e30a8b6e1084f02cca/README.md) |
 
 
-Generated: 31/10/2022 at 18:34:12
+Generated: 31/10/2022 at 19:21:49

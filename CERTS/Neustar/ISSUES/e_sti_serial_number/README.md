@@ -12,7 +12,7 @@ Description: STI certificates shall include a Serial Number field containing an 
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| not effective | prod SHAKEN 811J | [view](../../CERTS/c922d426cf1608066115f57d7f5481c01191b0e73fa49ab1a2b9ebba1a9d5f2b/README.md) |  |
+| not effective | SHAKEN_0377 | [view](../../CERTS/a891efce3a4b35ed5111a2f8d9dbf2abef04a0e5c9ce4ea5313c0ede3e92ce26/README.md) |  |
 | not effective | digitalipvoice.com | [view](../../CERTS/b95967027d535f36fc40bb91a16bc17d7fe58af8fa14d922a1c9daed9933443a/README.md) |  |
 | not effective | SHAKEN | [view](../../CERTS/a76f137e6ae23b3f27db8b6c2c339571ff7b5a106f61709d6d36b49852d0a070/README.md) |  |
 | not effective | SHAKEN | [view](../../CERTS/158c61d4da5ed8d0aaef7582d9a821a358a22ec2f241d449ecdab2e35ccf2fad/README.md) |  |
@@ -135,4 +135,4 @@ Description: STI certificates shall include a Serial Number field containing an 
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 31/10/2022 at 18:34:12
+Generated: 31/10/2022 at 19:21:49

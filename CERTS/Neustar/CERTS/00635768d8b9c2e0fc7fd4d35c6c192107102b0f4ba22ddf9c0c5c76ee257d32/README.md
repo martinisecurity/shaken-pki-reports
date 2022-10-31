@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 506J
 
-Tested At: 31 Oct 22 18:32 UTC\
+Tested At: 31 Oct 22 19:20 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 73 day(s)\
 Subject: CN=SHAKEN 506J, O=Twilio International, C=US\
@@ -14,8 +14,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDBTCCAqugAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_cp1_3_subject_sn](../../ISSUES/e_cp1_3_subject_sn/README.md) | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_sti_certificate_policies](../../ISSUES/e_sti_certificate_policies/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| [e_cp1_3_subject_sn](../../ISSUES/e_cp1_3_subject_sn/README.md) | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
 ### Not Effective
@@ -28,4 +28,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDBTCCAqugAwIBAgIU
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 31/10/2022 at 18:34:12
+Generated: 31/10/2022 at 19:21:49

@@ -2,16 +2,16 @@
 
 ## Comcast
 
-48 repositories were included in the corpus being tested\
+51 repositories were included in the corpus being tested\
 100.00% of repositories contain one or more Error level issue\
 100.00% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-14ms average time it took to download each certificate
+22ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
-| 48 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
-| 48 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 51 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
+| 51 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
 | Repository | Problems | Link |
 |------------|----------|------|
@@ -37,17 +37,20 @@
 | `https://sticr.stir.comcast.com/516e7545-25b2-4eef-ad7f-e5bcac2e6d4f.cer` | true | [view](REPOS/98b396350463ef1b615f8a84886fde42eb66a29d/README.md) |
 | `https://sticr.stir.comcast.com/52ffc4cc-6266-49e0-90c5-6803b2f5601b.cer` | true | [view](REPOS/008a6adc2c70626e4bd0d3e78780bf3017592746/README.md) |
 | `https://sticr.stir.comcast.com/585a2efa-9cb6-4b4c-9c2e-0864259a611a.cer` | true | [view](REPOS/bb137fe7e58a24d8b7ef208735532cb221ad11bc/README.md) |
+| `https://sticr.stir.comcast.com/6b5b4beb-a922-4a38-b864-6c4f29afdc96.cer` | true | [view](REPOS/4d556f978b373cc59d7fe839d7fc8b552226981f/README.md) |
 | `https://sticr.stir.comcast.com/6fbf5eef-8c40-4451-ae21-c85decacc5d8.cer` | true | [view](REPOS/8b45b2239bdbab50e4a61ff468cbe570124adece/README.md) |
 | `https://sticr.stir.comcast.com/790cde70-2d5d-4e3d-88dc-84283ad70f47.cer` | true | [view](REPOS/e2dda025e0ec95d07bc6ae891e8945d371ab9c39/README.md) |
 | `https://sticr.stir.comcast.com/7fa7ab43-191d-4a8d-ac17-ebed13b7b30d.cer` | true | [view](REPOS/989e00267d774417ae39d7c583f4f25ee03b5deb/README.md) |
 | `https://sticr.stir.comcast.com/8850a181-dd51-4267-a217-93e5a6f3ac43.cer` | true | [view](REPOS/7656d7a38bb97f076553faed747216b58859bf34/README.md) |
 | `https://sticr.stir.comcast.com/8ed54c39-124f-491b-a004-06ff92b5202a.cer` | true | [view](REPOS/c4fe5a10dbe44ad151dcae03ccc636c6696376ac/README.md) |
+| `https://sticr.stir.comcast.com/93b74f38-b0d3-4785-8c90-18101ac2cb8a.cer` | true | [view](REPOS/d604438f82134b8be0204ec92e77cca2e431fd54/README.md) |
 | `https://sticr.stir.comcast.com/a08aaa95-a740-4271-9688-966b04d17b57.cer` | true | [view](REPOS/9c4d63614ae54ba000ec6058bf03a9d8c968617f/README.md) |
 | `https://sticr.stir.comcast.com/a178dd35-f3ff-4671-98b7-11d95cff2bbd.cer` | true | [view](REPOS/e0e83470571dfeadc96d82e2d55e13ff38fe55b9/README.md) |
 | `https://sticr.stir.comcast.com/a8412a41-71c1-4744-9047-dd3c11f3b67e.cer` | true | [view](REPOS/0a50cb331d79d8850bc2219cbd328feac4b9e66a/README.md) |
 | `https://sticr.stir.comcast.com/ab5ccc85-afe6-4966-8c97-22daf388cfbd.cer` | true | [view](REPOS/e535c71b213603b7594b35c95be077132a12990c/README.md) |
 | `https://sticr.stir.comcast.com/ae29b741-e66d-4105-87a1-7b45c5c2b9b0.cer` | true | [view](REPOS/cf5aa03e9a23d7228e6632d7d108cc6d30fea380/README.md) |
 | `https://sticr.stir.comcast.com/b51976bd-cc19-4104-8fcb-e0b8f3650680.cer` | true | [view](REPOS/665656ecc54be604e669fe9bcb99c7921801ac96/README.md) |
+| `https://sticr.stir.comcast.com/b7195f5e-c8e2-4666-a72b-3601756ab84a.cer` | true | [view](REPOS/f61b450dcb15dfd514d8328249dab8362bb37416/README.md) |
 | `https://sticr.stir.comcast.com/b851c928-45de-4943-9833-b4ee0c47ca32.cer` | true | [view](REPOS/846ad7a7602722e6954cb0a7030a56db7e64172d/README.md) |
 | `https://sticr.stir.comcast.com/b9638b6c-0d32-401c-92a2-3a5d1bad6fde.cer` | true | [view](REPOS/e7bcb289ba03eb2e20af7eadd3b28438999237ec/README.md) |
 | `https://sticr.stir.comcast.com/beeb04df-7a7e-436e-ae7a-f793816108ca.cer` | true | [view](REPOS/d91173111d893da147ed2134856eea904ac0fbdc/README.md) |
@@ -65,4 +68,4 @@
 | `https://sticr.stir.comcast.com/ff4f3455-b2b0-4f18-9435-ef5fa9a58b9f.cer` | true | [view](REPOS/abb5d20577a6b6bfd7727965fd4a8466601d4de0/README.md) |
 
 
-Generated: 31/10/2022 at 18:34:12
+Generated: 31/10/2022 at 19:21:49

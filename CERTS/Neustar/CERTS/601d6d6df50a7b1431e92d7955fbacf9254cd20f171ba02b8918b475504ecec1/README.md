@@ -2,9 +2,9 @@
 
 ## Certificate AGOC
 
-Tested At: 31 Oct 22 18:32 UTC\
+Tested At: 31 Oct 22 19:20 UTC\
 Initial Validity Period: 1096 day(s)\
-Remaining Validity Period: 218 day(s)\
+Remaining Validity Period: 217 day(s)\
 Subject: C=US, ST=PA, L=BUTLER, O=AGOC, OU=AGOC, CN=AGOC\
 Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11114.10192.pem
@@ -41,4 +41,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIID4zCCAsugAwIBAgIU
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 31/10/2022 at 18:34:12
+Generated: 31/10/2022 at 19:21:49

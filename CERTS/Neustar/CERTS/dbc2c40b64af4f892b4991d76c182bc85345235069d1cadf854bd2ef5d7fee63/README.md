@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 033H
 
-Tested At: 31 Oct 22 18:32 UTC\
+Tested At: 31 Oct 22 19:20 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 224 day(s)\
 Subject: CN=SHAKEN 033H, O=GetGo Communications LLC, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDCTCCAq%2BgAwIBAg
 | [e_cp1_3_subject_sn](../../ISSUES/e_cp1_3_subject_sn/README.md) | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 31/10/2022 at 18:34:12
+Generated: 31/10/2022 at 19:21:49

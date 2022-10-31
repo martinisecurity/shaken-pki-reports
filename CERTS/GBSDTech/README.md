@@ -40,7 +40,7 @@
 100.00% of certificates contain one or more Warning level issue\
 0.00% of certificates contain one or more Notice level issue\
 100.00% of certificates are too old to be assessed against currently enforced expectations\
-7119 days is the average remaining validity for the certificates in the corpus\
+7118 days is the average remaining validity for the certificates in the corpus\
 7300 days is the average initial validity for the certificates in the corpus\
 0 certificates expire in the next 30 days
 
@@ -75,4 +75,4 @@
 | 05 May 21 19:05 UTC | GBSDTech SHAKEN Root CA | true | [view](CERTS/6d2bee73a01c1c9fe92273ff8ba56e0c870b7b901cbebcc9e12226fc109e1af9/README.md) |
 
 
-Generated: 31/10/2022 at 18:34:12
+Generated: 31/10/2022 at 19:21:49

@@ -31,14 +31,17 @@ Description: STI certificates shall contain a Subject Key Identifier extension
 | error | SHAKEN | [view](../../CERTS/b28bbfa48eeb7401282c0af83ad52bf3214c96f77e791ee9d3c02a53ea25cc02/README.md) | STI certificates shall contain a Subject Key Identifier extension |
 | error | SHAKEN | [view](../../CERTS/8fb4a8e814f1c87cf2456b1ecf1e5ce491a5eb399b2d37de0d1a34b4ddb637db/README.md) | STI certificates shall contain a Subject Key Identifier extension |
 | error | SHAKEN | [view](../../CERTS/b017ee25cc6232cd9591bc6df0cedbe2b95465b8123f651f7b23e71bba10d6f8/README.md) | STI certificates shall contain a Subject Key Identifier extension |
+| error | SHAKEN | [view](../../CERTS/3d44d0a8d9179445f0ac646cceb3f6a3566f63e2bed4ec08b58a017b063fa36d/README.md) | STI certificates shall contain a Subject Key Identifier extension |
 | error | SHAKEN | [view](../../CERTS/953e14280d248a2cfd95a650e81ed9094d23f05f5b410e01f66eb7377cdafded/README.md) | STI certificates shall contain a Subject Key Identifier extension |
 | error | SHAKEN | [view](../../CERTS/fc473a65f1226915a1bddec7b99fa1e53f0e1acc2f4e10106b07b18fc0054b4d/README.md) | STI certificates shall contain a Subject Key Identifier extension |
 | error | SHAKEN | [view](../../CERTS/e01c63f891eca98375b1583ba29104c72618fbe3109cd7b558c37529af2cb29e/README.md) | STI certificates shall contain a Subject Key Identifier extension |
 | error | SHAKEN | [view](../../CERTS/ecadce07ce7ec53f7d525daa5f6379dd1ad5b2605ae82e533a13b1f0c3dba5db/README.md) | STI certificates shall contain a Subject Key Identifier extension |
+| error | SHAKEN | [view](../../CERTS/cf1f5b80441df2551cfa967ecd684687eb9ea9dd5ce30a4035c8646cdb966c59/README.md) | STI certificates shall contain a Subject Key Identifier extension |
 | error | SHAKEN | [view](../../CERTS/cea5d6f242a1a4ba4b6cb6508c37e90bca07ab8c9296345cac84052670b45b79/README.md) | STI certificates shall contain a Subject Key Identifier extension |
 | error | SHAKEN | [view](../../CERTS/2750a59b74cbb4082d06dc5c8a297b7a211f318bef6a3f79a5cb194e8f5547fe/README.md) | STI certificates shall contain a Subject Key Identifier extension |
 | error | SHAKEN | [view](../../CERTS/8b259dd4c8adee7126f6d77d613a73d8e123a155ea3455a9531f86ef8572aa0e/README.md) | STI certificates shall contain a Subject Key Identifier extension |
 | error | SHAKEN | [view](../../CERTS/b0c45f73954a4e38e300e41c38ce976628c64c2388298b5fdd227bc3d1e0e32e/README.md) | STI certificates shall contain a Subject Key Identifier extension |
+| error | SHAKEN | [view](../../CERTS/af6785002cd605e314824b90e6e06e3e39bb849078865200001a86382c0dd370/README.md) | STI certificates shall contain a Subject Key Identifier extension |
 | error | SHAKEN | [view](../../CERTS/753a9492590251d2621c7d0ca1debbbb708d93027dca45ea69f3dfa251819eda/README.md) | STI certificates shall contain a Subject Key Identifier extension |
 | error | SHAKEN | [view](../../CERTS/5eaa41cb4d2988f9518bc9d580a9c548dd41a6d7e12ba89c919fc302ca3ebaa4/README.md) | STI certificates shall contain a Subject Key Identifier extension |
 | error | SHAKEN | [view](../../CERTS/fac21dba03b7a0483042818a126b8dc22298b595e36252e3ece22596f707de47/README.md) | STI certificates shall contain a Subject Key Identifier extension |
@@ -58,4 +61,4 @@ Description: STI certificates shall contain a Subject Key Identifier extension
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 31/10/2022 at 18:34:12
+Generated: 31/10/2022 at 19:21:49

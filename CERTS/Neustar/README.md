@@ -12,13 +12,13 @@
 200 certificates were included in the corpus being tested\
 1 certificates in the corpus were skipped because they were expired\
 1 certificates in the corpus were skipped because they are not currently trusted\
-79.00% of certificates contain one or more Error level issue\
+79.50% of certificates contain one or more Error level issue\
 52.50% of certificates contain one or more Warning level issue\
 0.00% of certificates contain one or more Notice level issue\
 58.50% of certificates are too old to be assessed against currently enforced expectations\
-735 days is the average remaining validity for the certificates in the corpus\
-738 days is the average initial validity for the certificates in the corpus\
-2 certificates expire in the next 30 days
+739 days is the average remaining validity for the certificates in the corpus\
+741 days is the average initial validity for the certificates in the corpus\
+1 certificates expire in the next 30 days
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -26,7 +26,7 @@
 | 200 | [e_cp1_3_subject_sn](ISSUES/e_cp1_3_subject_sn/README.md) | United States SHAKEN CP |
 | 39 | [e_sti_authority_key_identifier](ISSUES/e_sti_authority_key_identifier/README.md) | ATIS-1000080 |
 | 37 | [e_sti_basic_constraints](ISSUES/e_sti_basic_constraints/README.md) | ATIS-1000080 |
-| 191 | [e_sti_certificate_policies](ISSUES/e_sti_certificate_policies/README.md) | ATIS-1000080 |
+| 192 | [e_sti_certificate_policies](ISSUES/e_sti_certificate_policies/README.md) | ATIS-1000080 |
 | 39 | [e_sti_crl_distribution](ISSUES/e_sti_crl_distribution/README.md) | ATIS-1000080 |
 | 194 | [e_sti_extension_unknown](ISSUES/e_sti_extension_unknown/README.md) | ATIS-1000080 |
 | 39 | [e_sti_issuer_dn](ISSUES/e_sti_issuer_dn/README.md) | ATIS-1000080 |
@@ -86,10 +86,10 @@
 | Created at | Subject | Problems | Link |
 |------------|---------|----------|------|
 | 28 Jul 22 20:56 UTC | SHAKEN 074K | true | [view](CERTS/ce2299b32a7f2749baeb8864b84a8b531591a05a0c79c3bff8af7b8da441d513/README.md) |
+| 07 May 21 14:09 UTC | SHAKEN_0377 | true | [view](CERTS/a891efce3a4b35ed5111a2f8d9dbf2abef04a0e5c9ce4ea5313c0ede3e92ce26/README.md) |
 | 06 Apr 22 12:06 UTC | SHAKEN 963J | true | [view](CERTS/89a285de49404991c7aef6ece2e9172f0e3ba219c221a49bbe039a2080f6244d/README.md) |
 | 13 Jul 22 19:10 UTC | SHAKEN 771J | true | [view](CERTS/0d7b51533df7b19ce84f11cf53ff9c2260e112501402635565d154d9e9741d63/README.md) |
 | 13 Jul 22 19:10 UTC | SHAKEN 771J | true | [view](CERTS/0d7b51533df7b19ce84f11cf53ff9c2260e112501402635565d154d9e9741d63/README.md) |
-| 24 Nov 21 19:08 UTC | prod SHAKEN 811J | true | [view](CERTS/c922d426cf1608066115f57d7f5481c01191b0e73fa49ab1a2b9ebba1a9d5f2b/README.md) |
 | 24 May 22 15:44 UTC | SHAKEN 845J | true | [view](CERTS/5779b9ac57abada079f96ac7625dfe923e44f6993378e4291a5ed16b1ba65a64/README.md) |
 | 20 Jan 22 17:34 UTC | SHAKEN 750J | true | [view](CERTS/52cb96a36b3dac1475b04a10b545d0f9399e4dc1b3227aaccb7dc4a01278e7c3/README.md) |
 | 09 Jul 20 15:29 UTC | digitalipvoice.com | true | [view](CERTS/b95967027d535f36fc40bb91a16bc17d7fe58af8fa14d922a1c9daed9933443a/README.md) |
@@ -298,4 +298,4 @@
 | 17 Aug 21 17:19 UTC | Neustar Certified Caller ID SHAKEN Root CA | true | [view](CERTS/4c728d18b628cc67dda5490e0b4aa8ef4ba679f96d033f34f1680e219e0806c3/README.md) |
 
 
-Generated: 31/10/2022 at 18:34:12
+Generated: 31/10/2022 at 19:21:49

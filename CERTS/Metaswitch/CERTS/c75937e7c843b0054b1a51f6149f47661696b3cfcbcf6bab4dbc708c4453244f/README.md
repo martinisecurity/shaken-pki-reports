@@ -2,7 +2,7 @@
 
 ## Certificate USCellular SHAKEN Cert 6349
 
-Tested At: 31 Oct 22 18:33 UTC\
+Tested At: 31 Oct 22 19:21 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 517 day(s)\
 Subject: CN=USCellular SHAKEN Cert 6349, L=Ch, ST=IL, C=US\
@@ -14,10 +14,10 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICVDCCAfqgAwIBAgIQ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_sti_subject](../../ISSUES/e_sti_subject/README.md) | error | ATIS&#x2011;1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
-| [e_sti_issuer_dn](../../ISSUES/e_sti_issuer_dn/README.md) | error | ATIS&#x2011;1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 | [w_pki_subject_rdn_unknown](../../ISSUES/w_pki_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | [e_sti_key_usage](../../ISSUES/e_sti_key_usage/README.md) | error | ATIS&#x2011;1000080 | The Key Usage extension shall contain a single key usage value of digitalSignature |
+| [e_sti_subject](../../ISSUES/e_sti_subject/README.md) | error | ATIS&#x2011;1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
+| [e_sti_issuer_dn](../../ISSUES/e_sti_issuer_dn/README.md) | error | ATIS&#x2011;1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 
 
 ### Not Effective
@@ -33,4 +33,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICVDCCAfqgAwIBAgIQ
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 31/10/2022 at 18:34:12
+Generated: 31/10/2022 at 19:21:49

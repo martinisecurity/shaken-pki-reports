@@ -10,4 +10,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 |------------|----------|------|
 | `https://fstelephony.appspot.com/static/cert/shaken_identity_2022_3.cer` | true | [view](../../REPOS/8ccbe64ca2dfa897d54aa6462ccb0a54b45685ed/README.md) |
 
-Generated: 31/10/2022 at 18:34:12
+Generated: 31/10/2022 at 19:21:49

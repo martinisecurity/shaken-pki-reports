@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 500J
 
-Tested At: 31 Oct 22 18:33 UTC\
+Tested At: 31 Oct 22 19:21 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 304 day(s)\
 Subject: CN=SHAKEN 500J, O=GoTo Communications Inc, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDCDCCAq6gAwIBAgIU
 | [e_sti_certificate_policies](../../ISSUES/e_sti_certificate_policies/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 31/10/2022 at 18:34:12
+Generated: 31/10/2022 at 19:21:49

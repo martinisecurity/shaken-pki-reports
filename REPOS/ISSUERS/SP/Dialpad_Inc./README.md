@@ -6,7 +6,7 @@
 100.00% of repositories contain one or more Error level issue\
 100.00% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-91ms average time it took to download each certificate
+122ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -18,4 +18,4 @@
 | `https://fstelephony.appspot.com/static/cert/shaken_identity_2022_3.cer` | true | [view](REPOS/8ccbe64ca2dfa897d54aa6462ccb0a54b45685ed/README.md) |
 
 
-Generated: 31/10/2022 at 18:34:12
+Generated: 31/10/2022 at 19:21:49

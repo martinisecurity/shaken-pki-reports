@@ -2,19 +2,21 @@
 
 ## Ribbon Communications
 
-6 repositories were included in the corpus being tested\
+7 repositories were included in the corpus being tested\
 100.00% of repositories contain one or more Error level issue\
 100.00% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-57ms average time it took to download each certificate
+40ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
-| 6 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
-| 6 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 7 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
+| 7 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 1 | [w_atis_protocol](ISSUES/w_atis_protocol/README.md) | ATIS-1000080 |
 
 | Repository | Problems | Link |
 |------------|----------|------|
+| `http://prod001-cr.rbbnidhub.com/MU7B8iqMRz/sign-cert1` | true | [view](REPOS/522ecf70744a0db033cbdbf68392c8ec6076f6d2/README.md) |
 | `https://prod001-cr.rbbnidhub.com/8ZJdVFg7gz/2` | true | [view](REPOS/d0c78e6de82553af58528191d82ef35a1ff6d334/README.md) |
 | `https://prod001-cr.rbbnidhub.com/Jx6yR-yMgz/620J202204-2c7d5c55a20834b031681dbd3e2eb9f0` | true | [view](REPOS/9001cfdeca4b88a06df2ed198c94ba2110d66370/README.md) |
 | `https://prod001-cr.rbbnidhub.com/OaPccQ6Mgz/sign-cert2` | true | [view](REPOS/5a69211b12707a2e111ba37b2e29287a90e6bf6a/README.md) |
@@ -23,4 +25,4 @@
 | `https://prod001-prod011-cr.rbbnidhub.com/t0CiOIjnRz/NFJune102022-26092b2abd3c6bbfc676d98623fc1b25` | true | [view](REPOS/33017846ac0354f869e6a30ef5fdf72910ca73ea/README.md) |
 
 
-Generated: 31/10/2022 at 18:34:12
+Generated: 31/10/2022 at 19:21:49

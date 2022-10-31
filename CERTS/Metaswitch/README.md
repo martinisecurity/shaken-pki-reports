@@ -96,4 +96,4 @@
 | 25 Nov 20 11:21 UTC | Metaswitch STI-CA SHAKEN Root | true | [view](CERTS/c27184f75f81fc119b85d51d416477bf635040e5d66ce6051799b37b9aa17485/README.md) |
 
 
-Generated: 31/10/2022 at 18:34:12
+Generated: 31/10/2022 at 19:21:49

@@ -2,7 +2,7 @@
 
 ## Certificate Martini Security SHAKEN G1
 
-Tested At: 31 Oct 22 18:34 UTC\
+Tested At: 31 Oct 22 19:21 UTC\
 Initial Validity Period: 1825 day(s)\
 Remaining Validity Period: 1644 day(s)\
 Subject: CN=Martini Security SHAKEN G1, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
@@ -13,8 +13,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDEjCCArmgAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [n_sti_ca_certificate_policy_critical](../../ISSUES/n_sti_ca_certificate_policy_critical/README.md) | notice | ATIS&#x2011;1000080 | STI certificates should contain a CertificatePolicies extension marked uncritical |
 | [w_pki_ca_subject_rdn_unknown](../../ISSUES/w_pki_ca_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| [n_sti_ca_certificate_policy_critical](../../ISSUES/n_sti_ca_certificate_policy_critical/README.md) | notice | ATIS&#x2011;1000080 | STI certificates should contain a CertificatePolicies extension marked uncritical |
 
 
-Generated: 31/10/2022 at 18:34:12
+Generated: 31/10/2022 at 19:21:49

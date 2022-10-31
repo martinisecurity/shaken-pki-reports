@@ -20,4 +20,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | Neustar Certified Caller ID SHAKEN Root CA | [view](../../CERTS/4c728d18b628cc67dda5490e0b4aa8ef4ba679f96d033f34f1680e219e0806c3/README.md) |  |
 
 
-Generated: 31/10/2022 at 18:34:12
+Generated: 31/10/2022 at 19:21:49

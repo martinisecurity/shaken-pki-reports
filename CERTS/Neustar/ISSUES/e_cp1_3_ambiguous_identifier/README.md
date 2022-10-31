@@ -12,7 +12,7 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| not effective | prod SHAKEN 811J | [view](../../CERTS/c922d426cf1608066115f57d7f5481c01191b0e73fa49ab1a2b9ebba1a9d5f2b/README.md) |  |
+| not effective | SHAKEN_0377 | [view](../../CERTS/a891efce3a4b35ed5111a2f8d9dbf2abef04a0e5c9ce4ea5313c0ede3e92ce26/README.md) |  |
 | not effective | digitalipvoice.com | [view](../../CERTS/b95967027d535f36fc40bb91a16bc17d7fe58af8fa14d922a1c9daed9933443a/README.md) |  |
 | not effective | SHAKEN | [view](../../CERTS/a76f137e6ae23b3f27db8b6c2c339571ff7b5a106f61709d6d36b49852d0a070/README.md) |  |
 | error | ATT SHAKEN 4036 | [view](../../CERTS/3a8d4d5fe47e784f925bca30b21d44f3492ad0813fd074ef2d438cca1d4acc68/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
@@ -124,4 +124,4 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 31/10/2022 at 18:34:12
+Generated: 31/10/2022 at 19:21:49

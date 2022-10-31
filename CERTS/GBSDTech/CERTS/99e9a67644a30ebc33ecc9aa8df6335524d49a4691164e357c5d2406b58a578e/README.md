@@ -2,7 +2,7 @@
 
 ## Certificate 1RouteGroup SHAKEN Intermediate CA
 
-Tested At: 31 Oct 22 18:34 UTC\
+Tested At: 31 Oct 22 19:21 UTC\
 Initial Validity Period: 7299 day(s)\
 Remaining Validity Period: 6756 day(s)\
 Subject: CN=1RouteGroup SHAKEN Intermediate CA, O=1RouteGroup, ST=Texas, C=US\
@@ -13,9 +13,9 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIB9zCCAZ2gAwIBAgIC
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_ext_authority_key_identifier_no_key_identifier](../../ISSUES/e_ext_authority_key_identifier_no_key_identifier/README.md) | error | RFC5280 |  |
 | [e_sti_ca_authority_key_identifier](../../ISSUES/e_sti_ca_authority_key_identifier/README.md) | error | ATIS&#x2011;1000080 | STI certificates shall contain an Authority Key Identifier extension |
 | [e_ext_authority_key_identifier_missing](../../ISSUES/e_ext_authority_key_identifier_missing/README.md) | error | RFC5280 |  |
+| [e_ext_authority_key_identifier_no_key_identifier](../../ISSUES/e_ext_authority_key_identifier_no_key_identifier/README.md) | error | RFC5280 |  |
 | [w_pki_ca_subject_rdn_unknown](../../ISSUES/w_pki_ca_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
@@ -31,4 +31,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIB9zCCAZ2gAwIBAgIC
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 31/10/2022 at 18:34:12
+Generated: 31/10/2022 at 19:21:49
