@@ -102,8 +102,6 @@ func (t *CertificateGroupReport) Append(i *LintCommandItem) bool {
 		return false
 	}
 
-	t.Items = append(t.Items, i)
-
 	i.UpdateStatuses()
 
 	skip := false
@@ -117,6 +115,7 @@ func (t *CertificateGroupReport) Append(i *LintCommandItem) bool {
 	}
 
 	if !skip {
+		t.Items = append(t.Items, i)
 		t.TestedAmount += 1
 
 		// update dates
@@ -216,6 +215,10 @@ func (t *CertificateIssuerReport) Append(i *LintCommandItem) bool {
 		return false
 	}
 
+	if i.IsSkipped() {
+		return true
+	}
+
 	// append problems
 	for code, test := range i.CertificateResult.Results {
 		if test.Status == lint.Error ||
@@ -230,9 +233,9 @@ func (t *CertificateIssuerReport) Append(i *LintCommandItem) bool {
 					Name:   code,
 					Source: string(l.Source),
 				}
-				problem.Items = append(problem.Items, i)
 				t.Problems[code] = problem
 			}
+			problem.Items = append(problem.Items, i)
 		}
 	}
 
@@ -289,9 +292,8 @@ func NewCertificateSummaryReport() *CertificateSummaryReport {
 }
 
 func (t *CertificateSummaryReport) Append(i *LintCommandItem) bool {
-	res := t.CertificateGroupReport.Append(i)
-	if !res {
-		return res
+	if !t.CertificateGroupReport.Append(i) {
+		return false
 	}
 
 	issuers := t.Leaf
@@ -300,7 +302,7 @@ func (t *CertificateSummaryReport) Append(i *LintCommandItem) bool {
 	}
 	issuers.Append(i)
 
-	return res
+	return true
 }
 
 func (t *CertificateSummaryReport) GetIssuers() map[string]*CertificateIssuerJoin {

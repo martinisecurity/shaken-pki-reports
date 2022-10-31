@@ -1,6 +1,7 @@
 package main
 
 import (
+	"encoding/hex"
 	"fmt"
 	"io"
 	"net/http"
@@ -134,4 +135,8 @@ var wellknownCaDomains = map[string]string{
 func escapeMdLink(link string) string {
 	link = strings.Replace(link, " ", "_", -1)
 	return link
+}
+
+func getCertificateId(c *x509.Certificate) string {
+	return hex.EncodeToString(c.FingerprintSHA256)
 }

@@ -31,7 +31,7 @@ func PrintCertificateSummaryReport(w io.Writer, r *CertificateSummaryReport) {
 
 	fmt.Fprintln(w, "This report is broken int two parts:")
 	fmt.Fprintln(w, "1. One generated using [Zlint](https://github.com/zmap/zlint) a tool commonly used to asses CA ecosystem compliance with such requirements. The tests used to generate this report are currently not part of the main [Zlint](https://github.com/martinisecurity/zlint) distribution but can be found here.")
-	fmt.Fprintln(w, "2. One generated with a custom script that eumerates the known STIR/SHAKEN certificates and asses each repository against the current rule set . The source for this test can be found here while the report itself can be found [here](https://ecosystemcompliance.martinisecurity.com/URL).")
+	fmt.Fprintln(w, "2. One generated with a custom script that eumerates the known STIR/SHAKEN certificates and asses each repository against the current rule set . The source for this test can be found here while the report itself can be found [here](REPOS/README.md).")
 	fmt.Fprintln(w)
 
 	fmt.Fprintln(w, "## Summary")
@@ -294,7 +294,7 @@ func PrintIssueCertificates(w io.Writer, c string, r *Problem, b string) {
 				fmt.Fprintf(w, "| %s | %s | %s | %s |\n",
 					statusToString(issue.Status),
 					v.Certificate.Subject.CommonName,
-					fmt.Sprintf("[view](%s)", path.Join(b, path.Join(hex.EncodeToString(v.Certificate.FingerprintSHA256), "README.md"))),
+					fmt.Sprintf("[view](%s)", path.Join(b, path.Join(getCertificateId(v.Certificate), "README.md"))),
 					issue.Details,
 				)
 			}
@@ -304,7 +304,7 @@ func PrintIssueCertificates(w io.Writer, c string, r *Problem, b string) {
 	}
 }
 
-func PrintCertificates(w io.Writer, r []*LintCommandItem, b string) {
+func PrintCertificates(w io.Writer, r []*LintCommandItem, basePath string) {
 	fmt.Fprintln(w, "| Created at | Subject | Problems | Link |")
 	fmt.Fprintln(w, "|------------|---------|----------|------|")
 	for _, v := range r {
@@ -312,7 +312,7 @@ func PrintCertificates(w io.Writer, r []*LintCommandItem, b string) {
 			v.Certificate.NotBefore.Format(time.RFC822),
 			v.Certificate.Subject.CommonName,
 			v.HasCertificateProblems(),
-			fmt.Sprintf("[view](%s)", path.Join(b, hex.EncodeToString(v.Certificate.FingerprintSHA256), "README.md")),
+			fmt.Sprintf("[view](%s)", path.Join(basePath, getCertificateId(v.Certificate), "README.md")),
 		)
 	}
 }

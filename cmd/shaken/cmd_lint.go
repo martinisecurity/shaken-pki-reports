@@ -48,6 +48,10 @@ type LintCommandItem struct {
 	hasCertificateProblems *bool
 }
 
+func (t *LintCommandItem) IsSkipped() bool {
+	return t.IsExpired || t.IsUntrusted
+}
+
 func (t *LintCommandItem) HasCertificateProblems() bool {
 	if t.hasCertificateProblems == nil {
 		flag := false
@@ -267,7 +271,7 @@ func (t *Report) saveCertificates(outDir string) error {
 				if v.Certificate == nil || v.IsExpired || v.IsUntrusted {
 					continue
 				}
-				certDir := path.Join(certsDir, hex.EncodeToString(v.Certificate.FingerprintSHA256))
+				certDir := path.Join(certsDir, getCertificateId(v.Certificate))
 				certFile, err := CreateReport(certDir)
 				if err != nil {
 					return err
@@ -415,25 +419,30 @@ func ReadURLs(path string) ([]*url.URL, error) {
 	return res, nil
 }
 
+var registry lint.Registry
+
 func LintCertificate(c *x509.Certificate) (*zlint.ResultSet, error) {
 	fmt.Println("Lint certificate")
 	fmt.Printf("  Issuer: %s\n", c.Issuer.String())
 	fmt.Printf("  Subject: %s\n", c.Subject.String())
 	// Initialize lint registry
-	registry, err := lint.GlobalRegistry().Filter(lint.FilterOptions{
-		// IncludeSources: lint.SourceList{shaken.ShakenPolicy},
-		IncludeSources: lint.SourceList{
-			lint.RFC5280,
-			lint.ATIS1000080,
-			lint.UnitedStatesSHAKENCP,
-			lint.ShakenPKI,
-		},
-		ExcludeNames: []string{
-			"w_distribution_point_missing_ldap_or_uri",
-		},
-	})
-	if err != nil {
-		return nil, fmt.Errorf("cannot initialize the lint registry, %s", err.Error())
+	var err error
+	if registry == nil {
+		registry, err = lint.GlobalRegistry().Filter(lint.FilterOptions{
+			// IncludeSources: lint.SourceList{shaken.ShakenPolicy},
+			IncludeSources: lint.SourceList{
+				lint.RFC5280,
+				lint.ATIS1000080,
+				lint.UnitedStatesSHAKENCP,
+				lint.ShakenPKI,
+			},
+			ExcludeNames: []string{
+				"w_distribution_point_missing_ldap_or_uri",
+			},
+		})
+		if err != nil {
+			return nil, fmt.Errorf("cannot initialize the lint registry, %s", err.Error())
+		}
 	}
 
 	return zlint.LintCertificateEx(c, registry), nil
