@@ -1,231 +1,552 @@
 package main
 
 import (
-	"sort"
+	"fmt"
 	"time"
 
 	"github.com/martinisecurity/shaken-pki-reports/cmd/internal"
-	"github.com/zmap/zcrypto/x509"
-	"github.com/zmap/zlint/v3"
+	uLint "github.com/martinisecurity/shaken-pki-reports/lint"
 	"github.com/zmap/zlint/v3/lint"
 )
 
-// LintCertificateResult represents extended ZLint test result
-type LintCertificateResult struct {
-	Link         string
-	Cert         *x509.Certificate
-	Thumbprint   string
-	Result       *zlint.ResultSet
-	Organization string
-	IsExpired    bool
-	IsUntrusted  bool
+type CertificateGroupReport struct {
+	Items                    []*LintCommandItem
+	RepositoryErrorAmount    int
+	RepositoryWarnAmount     int
+	RepositoryNoticeAmount   int
+	TestedAmount             int
+	SkippedExpiredAmount     int
+	SkippedUntrustedAmount   int
+	ErrorAmount              int
+	WarnAmount               int
+	NoticeAmount             int
+	NotEffectiveAmount       int
+	ExpiresSoon              int
+	averageRemainingValidity []int
+	averageInitialValidity   []int
 }
 
-type Findings struct {
-	LeafCertificates        uint
-	ValidityDays            int
-	SoonExpiredCertificates uint
+func average(sum int, amount int) float64 {
+	return float64(sum) / float64(amount)
 }
 
-type LintIssue struct {
-	Type   lint.LintStatus
-	Amount uint
+func averagePercent(sum int, amount int) float64 {
+	return average(sum, amount) * 100
 }
 
-type LintOrganizationResult struct {
-	Name                  string
-	Issues                map[string]*LintIssue
-	Certificates          []*LintCertificateResult
-	ExpiredCertificates   int
-	UntrustedCertificates int
-	LintResult
-	*Findings
+func (t *CertificateGroupReport) Join(c *CertificateGroupReport) {
+	t.Items = append(t.Items, c.Items...)
+	t.RepositoryErrorAmount += c.RepositoryErrorAmount
+	t.RepositoryWarnAmount += c.RepositoryWarnAmount
+	t.RepositoryNoticeAmount += c.RepositoryNoticeAmount
+	t.TestedAmount += c.TestedAmount
+	t.SkippedExpiredAmount += c.SkippedExpiredAmount
+	t.SkippedUntrustedAmount += c.SkippedUntrustedAmount
+	t.ErrorAmount += c.ErrorAmount
+	t.WarnAmount += c.WarnAmount
+	t.NoticeAmount += c.NoticeAmount
+	t.NotEffectiveAmount += c.NotEffectiveAmount
+	t.ExpiresSoon += c.ExpiresSoon
+	t.averageRemainingValidity = append(t.averageRemainingValidity, c.averageRemainingValidity...)
+	t.averageInitialValidity = append(t.averageInitialValidity, c.averageInitialValidity...)
 }
 
-// AppendCertificate adds certificate test result and updates statuses
-func (t *LintOrganizationResult) AppendCertificate(c *LintCertificateResult) {
-	t.Certificates = append(t.Certificates, c)
-	nePresents := false
-
-	// Update Issues
-	for code, result := range c.Result.Results {
-		// filter results by Status
-		if !(result.Status == lint.Error ||
-			result.Status == lint.Warn ||
-			result.Status == lint.Notice ||
-			result.Status == lint.NE) {
-			continue
-		}
-		issue := t.Issues[code]
-		if issue == nil {
-			issue = &LintIssue{
-				Type: result.Status,
-			}
-			t.Issues[code] = issue
-		}
-
-		issue.Amount += 1
-
-		// c.Result doesn't have NEPresents
-		if !nePresents && result.Status == lint.NE {
-			nePresents = true
-		}
+func (t *CertificateGroupReport) AverageRemainingValidity() float64 {
+	sum := 0
+	for _, v := range t.averageRemainingValidity {
+		sum += v
 	}
 
-	// Update counters
-	t.Amount += 1
-	if c.Result.ErrorsPresent {
-		t.Errors += 1
-	}
-	if c.Result.WarningsPresent {
-		t.Warnings += 1
-	}
-	if c.Result.NoticesPresent {
-		t.Notices += 1
-	}
-	if nePresents {
-		t.NE += 1
-	}
-
-	// finding
-	if !c.Cert.IsCA {
-		t.LeafCertificates += 1
-		t.ValidityDays += internal.GetValidityDays(c.Cert)
-
-		if time.Now().AddDate(0, 0, 30).After(c.Cert.NotAfter) {
-			t.SoonExpiredCertificates += 1
-		}
-	}
+	return average(sum, len(t.averageRemainingValidity))
 }
 
-type LintCertificatesResult struct {
-	Issuers               map[string]*LintOrganizationResult
-	ExpiredCertificates   int
-	UntrustedCertificates int
-	LintResult
-	*Findings
+func (t *CertificateGroupReport) AverageInitialValidity() float64 {
+	sum := 0
+	for _, v := range t.averageInitialValidity {
+		sum += v
+	}
+
+	return average(sum, len(t.averageInitialValidity))
 }
 
-// NewLintCertificatesResult creates new instance of LintCertificatesResult.
-func NewLintCertificatesResult() *LintCertificatesResult {
-	return &LintCertificatesResult{
-		Issuers:  map[string]*LintOrganizationResult{},
-		Findings: &Findings{},
-	}
+func (t *CertificateGroupReport) AverageRepositoryErrors() float64 {
+	return averagePercent(t.RepositoryErrorAmount, t.TestedAmount)
 }
 
-// AppendCertificate adds certificate test result and updates statuses
-func (t *LintCertificatesResult) AppendCertificate(c *LintCertificateResult) {
-	issuer := t.Issuers[c.Organization]
-	if issuer == nil {
-		issuer = &LintOrganizationResult{
-			Name:     c.Organization,
-			Issues:   map[string]*LintIssue{},
-			Findings: &Findings{},
-		}
-		t.Issuers[c.Organization] = issuer
+func (t *CertificateGroupReport) AverageRepositoryWarns() float64 {
+	return averagePercent(t.RepositoryWarnAmount, t.TestedAmount)
+}
+
+func (t *CertificateGroupReport) AverageRepositoryNotices() float64 {
+	return averagePercent(t.RepositoryNoticeAmount, t.TestedAmount)
+}
+
+func (t *CertificateGroupReport) AverageErrors() float64 {
+	return averagePercent(t.ErrorAmount, t.TestedAmount)
+}
+
+func (t *CertificateGroupReport) AverageWarns() float64 {
+	return averagePercent(t.WarnAmount, t.TestedAmount)
+}
+
+func (t *CertificateGroupReport) AverageNotices() float64 {
+	return averagePercent(t.NoticeAmount, t.TestedAmount)
+}
+
+func (t *CertificateGroupReport) AverageNotEffective() float64 {
+	return averagePercent(t.NotEffectiveAmount, t.TestedAmount)
+}
+
+func (t *CertificateGroupReport) Append(i *LintCommandItem) bool {
+	if i == nil || i.Certificate == nil || i.CertificateResult == nil {
+		return false
 	}
+
+	t.Items = append(t.Items, i)
+
+	i.UpdateStatuses()
 
 	skip := false
-	if c.IsExpired {
-		issuer.ExpiredCertificates += 1
-		t.ExpiredCertificates += 1
+	if i.IsUntrusted {
+		t.SkippedUntrustedAmount += 1
+		skip = true
+	}
+	if i.IsExpired {
+		t.SkippedExpiredAmount += 1
 		skip = true
 	}
 
-	if c.IsUntrusted {
-		issuer.UntrustedCertificates += 1
-		t.UntrustedCertificates += 1
-		skip = true
-	}
+	if !skip {
+		t.TestedAmount += 1
 
-	if skip {
-		// exclude untrusted certificates
-		return
-	}
+		// update dates
+		//   initial
+		initialValidity := internal.GetValidityDays(i.Certificate)
+		t.averageInitialValidity = append(t.averageInitialValidity, initialValidity)
+		//   remaining
+		remainingValidity := internal.GetRemainingDays(i.Certificate, time.Now())
+		t.averageRemainingValidity = append(t.averageInitialValidity, remainingValidity)
 
-	issuer.AppendCertificate(c)
+		if time.Now().AddDate(0, 0, 30).After(i.Certificate.NotAfter) {
+			t.ExpiresSoon += 1
+		}
 
-	// Update counters
-	t.Amount += 1
-	if c.Result.ErrorsPresent {
-		t.Errors += 1
-	}
-	if c.Result.WarningsPresent {
-		t.Warnings += 1
-	}
-	if c.Result.NoticesPresent {
-		t.Notices += 1
-	}
-	for _, issue := range c.Result.Results {
-		if issue.Status == lint.NE {
-			t.NE += 1
-			break
+		// refresh status counters
+		cr := i.CertificateResult
+
+		if ur := i.UrlResult; ur != nil {
+			if ur.HasErrors {
+				t.RepositoryErrorAmount += 1
+			}
+			if ur.HasWarnings {
+				t.RepositoryWarnAmount += 1
+			}
+			if ur.HasNotices {
+				t.RepositoryNoticeAmount += 1
+			}
+		}
+
+		hasError := false
+		hasWarn := false
+		hasNotice := false
+		hasNE := false
+		for _, v := range cr.Results {
+			switch v.Status {
+			case lint.Error:
+				{
+					hasError = true
+					break
+				}
+			case lint.Warn:
+				{
+					hasWarn = true
+					break
+				}
+			case lint.Notice:
+				{
+					hasNotice = true
+					break
+				}
+			case lint.NE:
+				{
+					hasNE = true
+					break
+				}
+			}
+		}
+		if hasError {
+			t.ErrorAmount += 1
+		}
+		if hasWarn {
+			t.WarnAmount += 1
+		}
+		if hasNotice {
+			t.NoticeAmount += 1
+		}
+		if hasNE {
+			t.NotEffectiveAmount += 1
 		}
 	}
 
-	// finding
-	t.LeafCertificates += issuer.LeafCertificates
-	t.ValidityDays += issuer.ValidityDays
-	t.SoonExpiredCertificates += issuer.SoonExpiredCertificates
+	return true
 }
 
-type LintTotalResult struct {
-	Issues           map[string]int
-	LeafCertificates *LintCertificatesResult
-	CaCertificates   *LintCertificatesResult
+type Problem struct {
+	Name   string
+	Items  []*LintCommandItem
+	Source string
 }
 
-// NewLintTotalResult creates new instance of LintTotalResult.
-func NewLintTotalResult() *LintTotalResult {
-	return &LintTotalResult{
-		Issues:           map[string]int{},
-		LeafCertificates: NewLintCertificatesResult(),
-		CaCertificates:   NewLintCertificatesResult(),
+type CertificateIssuerReport struct {
+	Name     string
+	CA       *CertificateGroupReport
+	Leaf     *CertificateGroupReport
+	Problems map[string]*Problem
+	CertificateGroupReport
+}
+
+func NewCertificateIssuerReport() *CertificateIssuerReport {
+	return &CertificateIssuerReport{
+		Problems: map[string]*Problem{},
 	}
 }
 
-// AppendCertificate adds certificate test result. If tested certificate is CA it adds it into the CaCertificates, otherwise LeafCertificates.
-func (t *LintTotalResult) AppendCertificate(r *LintCertificateResult) {
-	// update Issues counter
-	for code, result := range r.Result.Results {
-		if result.Status == lint.Error ||
-			result.Status == lint.Warn ||
-			result.Status == lint.Notice ||
-			result.Status == lint.NE {
-			t.Issues[code] += 1
+func (t *CertificateIssuerReport) Append(i *LintCommandItem) bool {
+	if !t.CertificateGroupReport.Append(i) {
+		return false
+	}
+
+	// append problems
+	for code, test := range i.CertificateResult.Results {
+		if test.Status == lint.Error ||
+			test.Status == lint.Warn ||
+			test.Status == lint.Notice ||
+			test.Status == lint.NE {
+
+			problem := t.Problems[code]
+			if problem == nil {
+				l := lint.GlobalRegistry().ByName(code)
+				problem = &Problem{
+					Name:   code,
+					Source: string(l.Source),
+				}
+				problem.Items = append(problem.Items, i)
+				t.Problems[code] = problem
+			}
 		}
 	}
 
-	if r.Cert.IsCA {
-		t.CaCertificates.AppendCertificate(r)
-		return
-	}
-
-	t.LeafCertificates.AppendCertificate(r)
+	return true
 }
 
-// getOrganizationsNames returns ordered list of unique names fro Leaf and CA issuers
-func (t *LintTotalResult) getOrganizationsNames() []string {
-	nameMap := map[string]bool{}
-	// read all names for Leaf certs
-	for n := range t.LeafCertificates.Issuers {
-		nameMap[n] = true
+type CertificateIssuersReport struct {
+	Issuers map[string]*CertificateIssuerReport
+	CertificateGroupReport
+}
+
+func NewCertificateIssuersReport() *CertificateIssuersReport {
+	return &CertificateIssuersReport{
+		Issuers: map[string]*CertificateIssuerReport{},
 	}
-	// read all names for CA certs
-	for n := range t.CaCertificates.Issuers {
-		nameMap[n] = true
+}
+
+func (t *CertificateIssuersReport) Append(i *LintCommandItem) bool {
+	if !t.CertificateGroupReport.Append(i) {
+		return false
 	}
 
-	res := []string{}
-	for n := range nameMap {
-		res = append(res, n)
+	// issuerName
+	issuerName := internal.GetOrganizationName(i.Certificate)
+	if len(i.Chain) > 0 {
+		issuerName = internal.GetOrganizationName(i.Chain[len(i.Chain)-1])
+	}
+	if len(wellknownIssueNames[issuerName]) != 0 {
+		issuerName = wellknownIssueNames[issuerName]
 	}
 
-	// sort names
-	sort.Slice(res[:], func(i, j int) bool {
-		return res[i] < res[j]
-	})
+	name := t.Issuers[issuerName]
+	if name == nil {
+		name = NewCertificateIssuerReport()
+		name.Name = issuerName
+		t.Issuers[issuerName] = name
+	}
+	name.Append(i)
+
+	return true
+}
+
+type CertificateSummaryReport struct {
+	Leaf *CertificateIssuersReport
+	CA   *CertificateIssuersReport
+	CertificateGroupReport
+}
+
+func NewCertificateSummaryReport() *CertificateSummaryReport {
+	return &CertificateSummaryReport{
+		Leaf: NewCertificateIssuersReport(),
+		CA:   NewCertificateIssuersReport(),
+	}
+}
+
+func (t *CertificateSummaryReport) Append(i *LintCommandItem) bool {
+	res := t.CertificateGroupReport.Append(i)
+	if !res {
+		return res
+	}
+
+	issuers := t.Leaf
+	if i.Certificate.IsCA {
+		issuers = t.CA
+	}
+	issuers.Append(i)
 
 	return res
+}
+
+func (t *CertificateSummaryReport) GetIssuers() map[string]*CertificateIssuerJoin {
+	names := map[string]bool{}
+
+	groups := []*CertificateIssuersReport{
+		t.Leaf,
+		t.CA,
+	}
+	for _, group := range groups {
+		for name := range group.Issuers {
+			names[name] = false
+		}
+	}
+
+	res := map[string]*CertificateIssuerJoin{}
+	for name := range names {
+		leaf := t.Leaf.Issuers[name]
+		ca := t.CA.Issuers[name]
+
+		issuerJoin := &CertificateIssuerJoin{
+			Name:     name,
+			Leaf:     leaf,
+			CA:       ca,
+			Problems: map[string]*Problem{},
+		}
+		res[name] = issuerJoin
+		groups := []*CertificateIssuerReport{
+			leaf,
+			ca,
+		}
+		for _, group := range groups {
+			if group == nil {
+				continue
+			}
+			issuerJoin.Join(group)
+		}
+	}
+
+	return res
+}
+
+type CertificateIssuerJoin struct {
+	Name     string
+	Leaf     *CertificateIssuerReport
+	CA       *CertificateIssuerReport
+	Problems map[string]*Problem
+	CertificateGroupReport
+}
+
+func (t *CertificateIssuerJoin) Join(r *CertificateIssuerReport) {
+	t.CertificateGroupReport.Join(&r.CertificateGroupReport)
+
+	for k, v := range r.Problems {
+		problem := t.Problems[k]
+		if problem == nil {
+			l := lint.GlobalRegistry().ByName(k)
+			problem = &Problem{
+				Name:   v.Name,
+				Source: string(l.Source),
+			}
+			t.Problems[k] = problem
+		}
+		problem.Items = append(problem.Items, v.Items...)
+	}
+}
+
+type RepositoryGroupReport struct {
+	Items         []*LintCommandItem
+	TestedAmount  int
+	SkippedAmount int
+	ErrorAmount   int
+	WarnAmount    int
+	NoticeAmount  int
+	averageTime   []int
+}
+
+func (t *RepositoryGroupReport) Append(v *LintCommandItem) bool {
+	if v.Url == nil || v.UrlResult == nil {
+		return false
+	}
+
+	t.Items = append(t.Items, v)
+	t.TestedAmount += 1
+
+	if v.UrlResult.HasErrors {
+		t.ErrorAmount += 1
+	}
+	if v.UrlResult.HasWarnings {
+		t.WarnAmount += 1
+	}
+	if v.UrlResult.HasNotices {
+		t.NoticeAmount += 1
+	}
+
+	t.averageTime = append(t.averageTime, v.UrlResult.Time)
+
+	return true
+}
+
+func (t *RepositoryGroupReport) AverageErrors() float64 {
+	return averagePercent(t.ErrorAmount, t.TestedAmount)
+}
+
+func (t *RepositoryGroupReport) AverageWarns() float64 {
+	return averagePercent(t.WarnAmount, t.TestedAmount)
+}
+
+func (t *RepositoryGroupReport) AverageNotices() float64 {
+	return averagePercent(t.NoticeAmount, t.TestedAmount)
+}
+
+func (t *RepositoryGroupReport) AverageTime() float64 {
+	sum := 0
+	for _, v := range t.averageTime {
+		sum += v
+	}
+
+	return average(sum, len(t.averageTime))
+}
+
+type RepositoryIssuerReport struct {
+	Name     string
+	Problems map[string]*Problem
+	RepositoryGroupReport
+}
+
+func NewRepositoryIssuerReport() *RepositoryIssuerReport {
+	return &RepositoryIssuerReport{
+		Problems: map[string]*Problem{},
+	}
+}
+
+func (t *RepositoryIssuerReport) Append(v *LintCommandItem) bool {
+	if !t.RepositoryGroupReport.Append(v) {
+		return false
+	}
+
+	for c, r := range v.UrlResult.Results {
+		if r.Status == uLint.Error ||
+			r.Status == uLint.Warn ||
+			r.Status == uLint.Notice {
+			p := t.Problems[c]
+			if p == nil {
+				l := uLint.FindRuleByName(c)
+				p = &Problem{
+					Name:   c,
+					Source: string(l.Source),
+				}
+				t.Problems[c] = p
+			}
+			p.Items = append(p.Items, v)
+		}
+	}
+
+	return true
+}
+
+type RepositoryIssuersType int
+
+const (
+	CA RepositoryIssuersType = 0
+	SP RepositoryIssuersType = 1
+)
+
+type RepositoryIssuers map[string]*RepositoryIssuerReport
+
+type RepositoryIssuersReport struct {
+	Type    RepositoryIssuersType
+	Issuers RepositoryIssuers
+	RepositoryGroupReport
+}
+
+func NewRepositoryIssuersReport(t RepositoryIssuersType) *RepositoryIssuersReport {
+	return &RepositoryIssuersReport{
+		Type:    t,
+		Issuers: map[string]*RepositoryIssuerReport{},
+	}
+}
+
+func (t *RepositoryIssuersReport) Append(v *LintCommandItem) bool {
+	if !t.RepositoryGroupReport.Append(v) {
+		return false
+	}
+
+	// get name
+	name := "Unknown"
+	if t.Type == CA {
+		name = wellknownCaDomains[v.Url.Hostname()]
+	} else {
+		if v.UrlResult.StatusCode == 200 {
+			if certs := internal.ParseCertificates(v.UrlResult.Body); len(certs) > 0 {
+				cert := certs[0]
+				if len(cert.Subject.Organization) > 0 {
+					// use O name from the Subject
+					name = cert.Subject.Organization[0]
+				} else if len(cert.Issuer.Organization) > 0 {
+					// use O name from the Issuer
+					name = cert.Issuer.Organization[0]
+				} else if spc, err := internal.GetTNEntrySPC(cert); err == nil {
+					// use SPC value from the TNAuthList extension
+					name = fmt.Sprintf("SHAKEN %s", spc)
+				}
+			}
+		}
+	}
+
+	// get or create issuer
+	issuer := t.Issuers[name]
+	if issuer == nil {
+		issuer = NewRepositoryIssuerReport()
+		issuer.Name = name
+		t.Issuers[name] = issuer
+	}
+	issuer.Append(v)
+
+	return true
+}
+
+type RepositorySummaryReport struct {
+	// CA contains summary for Certificate Authorities
+	CA *RepositoryIssuersReport
+	// SP contains summary for Service Providers
+	SP *RepositoryIssuersReport
+	RepositoryGroupReport
+}
+
+func NewRepositorySummaryReport() *RepositorySummaryReport {
+	return &RepositorySummaryReport{
+		CA: NewRepositoryIssuersReport(CA),
+		SP: NewRepositoryIssuersReport(SP),
+	}
+}
+
+func (t *RepositorySummaryReport) Append(v *LintCommandItem) bool {
+	if !t.RepositoryGroupReport.Append(v) {
+		return false
+	}
+
+	if len(wellknownCaDomains[v.Url.Hostname()]) > 0 {
+		// CA
+		t.CA.Append(v)
+	} else {
+		// SP
+		t.SP.Append(v)
+	}
+
+	return true
 }

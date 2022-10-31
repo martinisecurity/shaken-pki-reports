@@ -17,8 +17,8 @@ type PemCertificate struct {
 }
 
 // ParseCertificates parses certificates from the DER or PEM source
-func ParseCertificates(source []byte) []*PemCertificate {
-	res := []*PemCertificate{}
+func ParseCertificates(source []byte) []*x509.Certificate {
+	res := []*x509.Certificate{}
 
 	// PEM
 	// pem may contain multiple certificates
@@ -29,10 +29,7 @@ func ParseCertificates(source []byte) []*PemCertificate {
 		}
 		cert, _ := x509.ParseCertificate(pem.Bytes)
 		if cert != nil {
-			res = append(res, &PemCertificate{
-				Headers:     pem.Headers,
-				Certificate: cert,
-			})
+			res = append(res, cert)
 		}
 		source = restBytes
 	}
@@ -40,10 +37,7 @@ func ParseCertificates(source []byte) []*PemCertificate {
 	// DER
 	cert, _ := x509.ParseCertificate(source)
 	if cert != nil {
-		res = append(res, &PemCertificate{
-			Headers:     map[string]string{},
-			Certificate: cert,
-		})
+		res = append(res, cert)
 	}
 
 	return res

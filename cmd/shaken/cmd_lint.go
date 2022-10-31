@@ -1,171 +1,423 @@
 package main
 
 import (
+	"encoding/hex"
 	"fmt"
-	"io/ioutil"
+	"net/url"
 	"os"
 	"path"
+	"strings"
 	"time"
 
 	"github.com/martinisecurity/shaken-pki-reports/cmd/internal"
 	"github.com/zmap/zcrypto/x509"
 	"github.com/zmap/zlint/v3"
 	"github.com/zmap/zlint/v3/lint"
+
+	uLint "github.com/martinisecurity/shaken-pki-reports/lint"
+	uLinter "github.com/martinisecurity/shaken-pki-reports/linter"
 )
 
-func RunLintCommand(certPath string, summary bool) error {
-	if certPath == "" {
-		return fmt.Errorf("cannot get certificate path, variable 'certPath' is empty")
-	}
+type LintCommandArgs struct {
+	OutDir string
+	Root   string
+	Url    string
+}
 
-	// This returns an *os.FileInfo type
-	file, err := os.Open(certPath)
-	if err != nil {
-		return fmt.Errorf("cannot open %s. %s", certPath, err.Error())
-	}
-	defer file.Close()
+type CaCrAvailableType int
 
-	fileInfo, err := file.Stat()
-	if err != nil {
-		return fmt.Errorf("cannot get stat info from the %s. %w", certPath, err)
-	}
+const (
+	Unknown CaCrAvailableType = 0
+	Yes     CaCrAvailableType = 1
+	No      CaCrAvailableType = 2
+	Varies  CaCrAvailableType = 3
+)
 
-	if fileInfo.IsDir() {
-		// load root certs
-		rootPool, err := ReadRootCertificates(CA_TRUST_LIST)
-		if err != nil {
-			return fmt.Errorf("cannot load root certificates, %w", err)
-		}
-		checkCerts := []*internal.PemCertificate{}
-		intermediatePool := x509.NewCertPool()
-		rootCerts := rootPool.Certificates()
-		for _, cert := range rootCerts {
-			checkCerts = append(checkCerts, &internal.PemCertificate{
-				Certificate: cert,
-			})
-		}
+type LintCommandItem struct {
+	Roots                  *x509.CertPool
+	Intermediates          *x509.CertPool
+	Url                    *url.URL
+	Certificate            *x509.Certificate
+	UrlResult              *uLint.LintResultSet
+	CertificateResult      *zlint.ResultSet
+	IsExpired              bool
+	IsUntrusted            bool
+	Chain                  []*x509.Certificate
+	certStatusUpdated      bool
+	CaCrAvailable          CaCrAvailableType
+	hasCertificateProblems *bool
+}
 
-		files, err := ioutil.ReadDir(certPath)
-		if err != nil {
-			return fmt.Errorf("cannot read the directory %s, %w", certPath, err)
-		}
-
-		for _, file := range files {
-			if !file.IsDir() {
-				certPath := path.Join(certPath, file.Name())
-				certRaw, err := os.ReadFile(certPath)
-				if err != nil {
-					continue
-				}
-				certs := internal.ParseCertificates(certRaw)
-				for _, cert := range certs {
-					if cert.Certificate.IsCA {
-						// add intermediate certs into pool
-						intermediatePool.AddCert(cert.Certificate)
-					}
-					// add leaf and intermediate certs into check list
-					checkCerts = append(checkCerts, cert)
+func (t *LintCommandItem) HasCertificateProblems() bool {
+	bTrue := true
+	if t.hasCertificateProblems == nil {
+		if t.CertificateResult.ErrorsPresent ||
+			t.CertificateResult.WarningsPresent ||
+			t.CertificateResult.NoticesPresent {
+			t.hasCertificateProblems = &bTrue
+		} else {
+			for _, r := range t.CertificateResult.Results {
+				if r.Status == lint.NE {
+					t.hasCertificateProblems = &bTrue
+					break
 				}
 			}
 		}
+	}
 
-		r := LintCertificates(checkCerts, &x509.VerifyOptions{
-			Roots:         rootPool,
-			Intermediates: intermediatePool,
+	return *t.hasCertificateProblems
+}
+
+func (t *LintCommandItem) UpdateStatuses() {
+	// update certificate statuses
+	if !t.certStatusUpdated && t.Certificate != nil {
+		// build chain
+		ch1, ch2, ch3, err := t.Certificate.Verify(x509.VerifyOptions{
+			Roots:         t.Roots,
+			Intermediates: t.Intermediates,
 			CurrentTime:   time.Now(),
 		})
-
-		if err := Mkdir(REPORT_DIR_NAME); err != nil {
-			return err
+		if len(ch1) > 0 {
+			t.Chain = ch1[0]
+		} else if len(ch2) > 0 {
+			t.Chain = ch2[0]
+		} else if len(ch3) > 0 {
+			t.Chain = ch3[0]
 		}
 
-		err = SaveTotalReport(r, REPORT_DIR_NAME)
-		if err != nil {
-			return err
-		}
-		err = SaveOrganizationReport(r, REPORT_DIR_NAME)
-		if err != nil {
-			return err
-		}
-		err = SaveCertificatesReport(r, REPORT_DIR_NAME)
-		if err != nil {
-			return err
-		}
-	} else {
-		// file is not a directory
-
-		raw, err := os.ReadFile(certPath)
-		if err != nil {
-			return fmt.Errorf("cannot read the file %s, %s", certPath, err.Error())
+		// check untrusted
+		if _, ok := err.(x509.UnknownAuthorityError); ok {
+			t.IsUntrusted = true
 		}
 
-		certs := internal.ParseCertificates(raw)
+		// check expired
+		if t.Certificate.NotAfter.Before(time.Now()) {
+			t.IsExpired = true
+		}
+
+		t.certStatusUpdated = true
+	}
+}
+
+func RunLintCommand(args *LintCommandArgs) error {
+	// get urls
+	urls, err := ReadURLs(args.Url)
+	if err != nil {
+		return err
+	}
+
+	// get root certs
+	rootPool, err := ReadRootCertificates(args.Root)
+	if err != nil {
+		return err
+	}
+
+	icaPool := x509.NewCertPool()
+	leafPool := x509.NewCertPool()
+
+	items := []*LintCommandItem{}
+	for _, u := range urls {
+		item := &LintCommandItem{
+			Roots:         rootPool,
+			Intermediates: icaPool,
+		}
+		items = append(items, item)
+		item.Url = u
+
+		// lint URL
+		fmt.Println("Lint URL")
+		fmt.Printf("  URL: %s\n", u.String())
+		item.UrlResult = uLinter.LintUrl(u)
+		fmt.Printf("  Status: %d\n", item.UrlResult.StatusCode)
+		if item.UrlResult.StatusCode != 200 {
+			continue
+		}
+
+		certs := internal.ParseCertificates(item.UrlResult.Body)
 		if len(certs) == 0 {
-			return fmt.Errorf("cannot read the certificate from the file %s, %s", certPath, err.Error())
+			continue
 		}
-
-		result, err := LintCertificate(certs[0], nil)
-		if err != nil {
-			return fmt.Errorf("cannot lint the certificate, %w", err)
-		}
-
-		counter := map[lint.LintSource]int{}
-		for code, result := range result.Result.Results {
-			if result.Status == lint.Pass || result.Status == lint.Error || result.Status == lint.Warn || result.Status == lint.Notice || result.Status == lint.NE {
-				rule := lint.GlobalRegistry().ByName(code)
-				counter[rule.Source] += 1
+		for _, c := range certs {
+			if c.IsCA {
+				if !c.SelfSigned {
+					// ICA
+					icaPool.AddCert(c)
+				}
+			} else {
+				// Leaf
+				leafPool.AddCert(c)
+				item.Certificate = c
+				cr, _ := LintCertificate(c)
+				if cr != nil {
+					// test the leaf certificate
+					item.CertificateResult = cr
+				}
 			}
 		}
-		for source, v := range counter {
-			fmt.Printf("%s: %d\n", source, v)
-		}
+	}
 
-		PrintCertificateReport(os.Stdout, result)
+	// run tests for ICAs
+	for _, c := range icaPool.Certificates() {
+		cr, _ := LintCertificate(c)
+		if cr != nil {
+			// test the ICA certificate
+			items = append(items, &LintCommandItem{
+				Roots:             rootPool,
+				Intermediates:     icaPool,
+				Certificate:       c,
+				CertificateResult: cr,
+			})
+		}
+	}
+
+	// run tests for Roots
+	for _, c := range rootPool.Certificates() {
+		cr, _ := LintCertificate(c)
+		if cr != nil {
+			// test the ICA certificate
+			items = append(items, &LintCommandItem{
+				Roots:             rootPool,
+				Intermediates:     icaPool,
+				Certificate:       c,
+				CertificateResult: cr,
+			})
+		}
+	}
+
+	report := MakeReport(items)
+
+	if err := report.Save(args.OutDir); err != nil {
+		return err
 	}
 
 	return nil
 }
 
-func ReadCertificatesDir(dirPath string) ([]*internal.PemCertificate, error) {
-	files, err := ioutil.ReadDir(dirPath)
-	if err != nil {
-		return nil, fmt.Errorf("cannot read the '%s' directory, %w", dirPath, err)
+type Report struct {
+	Certificates *CertificateSummaryReport
+	Repositories *RepositorySummaryReport
+}
+
+func NewReport() *Report {
+	return &Report{
+		Certificates: NewCertificateSummaryReport(),
+		Repositories: NewRepositorySummaryReport(),
+	}
+}
+
+const (
+	DIR_CERTS   = "CERTS"
+	DIR_ISSUES  = "ISSUES"
+	DIR_ISSUERS = "ISSUERS"
+	DIR_REPOS   = "REPOS"
+	DIR_CA      = "CA"
+	DIR_SP      = "SP"
+)
+
+func (t *Report) Save(outDir string) error {
+	if err := Mkdir(outDir); err != nil {
+		return err
 	}
 
-	res := []*internal.PemCertificate{}
+	if err := t.saveCertificates(outDir); err != nil {
+		return err
+	}
 
-	for _, file := range files {
-		if !file.IsDir() {
-			certPath := path.Join(dirPath, file.Name())
-			certRaw, err := os.ReadFile(certPath)
-			if err != nil {
-				continue
+	if err := t.saveRepositories(outDir); err != nil {
+		return err
+	}
+
+	return nil
+}
+
+func (t *Report) saveCertificates(outDir string) error {
+	summary, err := CreateReport(outDir)
+	if err != nil {
+		return err
+	}
+	defer summary.Close()
+
+	PrintCertificateSummaryReport(summary, t.Certificates)
+
+	// save issuers
+	certsDir := path.Join(outDir, DIR_CERTS)
+	if err := Mkdir(certsDir); err != nil {
+		return err
+	}
+	issuers := t.Certificates.GetIssuers()
+	for _, issuer := range issuers {
+		// issuer report
+		issuerDir := path.Join(certsDir, escapeMdLink(issuer.Name))
+		issuerFile, err := CreateReport(issuerDir)
+		if err != nil {
+			return err
+		}
+		defer issuerFile.Close()
+
+		PrintCertificateIssuerReport(issuerFile, issuer)
+
+		if issuer.TestedAmount > 0 {
+			// certificate reports
+			certsDir := path.Join(issuerDir, DIR_CERTS)
+			if err := Mkdir(certsDir); err != nil {
+				return err
+			}
+			for _, v := range issuer.Items {
+				if v.Certificate == nil || v.IsExpired || v.IsUntrusted {
+					continue
+				}
+				certDir := path.Join(certsDir, hex.EncodeToString(v.Certificate.FingerprintSHA256))
+				certFile, err := CreateReport(certDir)
+				if err != nil {
+					return err
+				}
+				defer certFile.Close()
+
+				PrintCertificateReport(certFile, v)
 			}
 
-			certs := internal.ParseCertificates(certRaw)
-			res = append(res, certs...)
+			// problems reports
+			issuesDir := path.Join(issuerDir, DIR_ISSUES)
+			if err := Mkdir(issuesDir); err != nil {
+				return err
+			}
+			for _, p := range issuer.Problems {
+				issueDir := path.Join(issuesDir, p.Name)
+				issueFile, err := CreateReport(issueDir)
+				if err != nil {
+					return err
+				}
+				defer issueFile.Close()
+
+				PrintCertificateIssueReport(issueFile, p.Name, issuer)
+			}
 		}
+	}
+
+	return nil
+}
+
+func (t *Report) saveRepositories(outDir string) error {
+	reposDir := path.Join(outDir, DIR_REPOS)
+	repoFile, err := CreateReport(reposDir)
+	if err != nil {
+		return err
+	}
+	defer repoFile.Close()
+	PrintRepositorySummaryReport(repoFile, t.Repositories)
+
+	issuesDir := path.Join(reposDir, DIR_ISSUERS)
+	if err := Mkdir(issuesDir); err != nil {
+		return err
+	}
+	issuerGroups := []*RepositoryIssuersReport{
+		t.Repositories.CA,
+		t.Repositories.SP,
+	}
+	for _, issuerGroup := range issuerGroups {
+		dir := DIR_CA
+		if issuerGroup.Type == SP {
+			dir = DIR_SP
+		}
+
+		if issuerGroup.TestedAmount > 0 {
+			caDir := path.Join(issuesDir, dir)
+			if err := Mkdir(caDir); err != nil {
+				return err
+			}
+			for _, issuer := range issuerGroup.Issuers {
+				issuerDir := path.Join(caDir, escapeMdLink(issuer.Name))
+				issuerFile, err := CreateReport(issuerDir)
+				if err != nil {
+					return err
+				}
+				defer issuerFile.Close()
+
+				PrintRepositoryIssuerReport(issuerFile, issuer)
+
+				if issuer.TestedAmount > 0 {
+					issuerReposDir := path.Join(issuerDir, DIR_REPOS)
+					if err := Mkdir(issuerReposDir); err != nil {
+						return err
+					}
+					for _, item := range issuer.Items {
+						repoDir := path.Join(issuerReposDir, hex.EncodeToString(repoFingerprint(item.Url)))
+						repoFile, err := CreateReport(repoDir)
+						if err != nil {
+							return err
+						}
+						defer repoFile.Close()
+						PrintRepositoryIssuerUrlReport(repoFile, issuer, item)
+					}
+				}
+				if len(issuer.Problems) > 0 {
+					issuerProblemsDir := path.Join(issuerDir, DIR_ISSUES)
+					if err := Mkdir(issuerProblemsDir); err != nil {
+						return err
+					}
+					for c, problem := range issuer.Problems {
+						problemDir := path.Join(issuerProblemsDir, c)
+						problemFile, err := CreateReport(problemDir)
+						if err != nil {
+							return err
+						}
+						defer problemFile.Close()
+
+						PrintRepositoryIssuerProblemReport(problemFile, issuer, problem)
+					}
+				}
+			}
+		}
+	}
+
+	return nil
+}
+
+func MakeReport(items []*LintCommandItem) *Report {
+	r := NewReport()
+
+	for _, item := range items {
+		if item.Certificate != nil && item.CertificateResult != nil {
+			r.Certificates.Append(item)
+		}
+		if item.Url != nil && item.UrlResult != nil {
+			r.Repositories.Append(item)
+		}
+	}
+
+	return r
+}
+
+// ReadURLs reads file with HTTP urls
+func ReadURLs(path string) ([]*url.URL, error) {
+	// read file with URL list
+	raw, err := os.ReadFile(path)
+	if err != nil {
+		return nil, fmt.Errorf("cannot read file with URLs, %w", err)
+	}
+
+	links := strings.Split(string(raw), "\n")
+	var res []*url.URL
+	for _, link := range links {
+		// use http links only
+		if !strings.HasPrefix(link, "http") {
+			continue
+		}
+
+		u, err := url.Parse(link)
+		if err != nil {
+			continue
+		}
+		res = append(res, u)
 	}
 
 	return res, nil
 }
 
-func LintCertificates(certs []*internal.PemCertificate, options *x509.VerifyOptions) *LintTotalResult {
-	res := NewLintTotalResult()
-
-	for _, cert := range certs {
-		certRes, err := LintCertificate(cert, options)
-		if err != nil {
-			continue
-		}
-
-		res.AppendCertificate(certRes)
-	}
-
-	return res
-}
-
-func LintCertificate(cert *internal.PemCertificate, options *x509.VerifyOptions) (*LintCertificateResult, error) {
+func LintCertificate(c *x509.Certificate) (*zlint.ResultSet, error) {
+	fmt.Println("Lint certificate")
+	fmt.Printf("  Issuer: %s\n", c.Issuer.String())
+	fmt.Printf("  Subject: %s\n", c.Subject.String())
 	// Initialize lint registry
 	registry, err := lint.GlobalRegistry().Filter(lint.FilterOptions{
 		// IncludeSources: lint.SourceList{shaken.ShakenPolicy},
@@ -183,154 +435,5 @@ func LintCertificate(cert *internal.PemCertificate, options *x509.VerifyOptions)
 		return nil, fmt.Errorf("cannot initialize the lint registry, %s", err.Error())
 	}
 
-	link := cert.Headers["Link"]
-	if len(link) == 0 {
-		link = ""
-	}
-
-	organization := getOrganizationName(cert.Certificate, options)
-
-	thumbprint := computeCertThumbprint(cert.Certificate)
-	fmt.Printf("Lint certificate %s issued by '%s' (%s)\n", thumbprint, organization, link)
-
-	isUntrusted := false
-	_, _, _, err = cert.Certificate.Verify(*options)
-	if _, ok := err.(x509.UnknownAuthorityError); ok {
-		isUntrusted = true
-	}
-
-	return &LintCertificateResult{
-		Link:         link,
-		Cert:         cert.Certificate,
-		Thumbprint:   thumbprint,
-		Result:       zlint.LintCertificateEx(cert.Certificate, registry),
-		Organization: organization,
-		IsExpired:    cert.Certificate.NotAfter.Before(time.Now()),
-		IsUntrusted:  isUntrusted,
-	}, nil
-}
-
-// SaveOrganizationReport writes report for each organization
-func SaveOrganizationReport(r *LintTotalResult, outDir string) error {
-	names := r.getOrganizationsNames()
-	for _, name := range names {
-		// check certs amount for the org
-		leafIssuer := r.LeafCertificates.Issuers[name]
-		caIssuer := r.CaCertificates.Issuers[name]
-		if (leafIssuer == nil || leafIssuer.Amount == 0) && (caIssuer == nil || caIssuer.Amount == 0) {
-			// don't save report if there is no certs
-			return nil
-		}
-
-		// create folder
-		orgDir := path.Join(outDir, name)
-		if err := Mkdir(orgDir); err != nil {
-			return err
-		}
-
-		// create file
-		file, err := CreateReport(orgDir)
-		if err != nil {
-			return err
-		}
-		defer file.Close()
-
-		PrintOrganizationReport(file, name, r)
-
-		for code := range r.Issues {
-			if hasIssue(name, code, r) {
-				SaveIssueGroupReport(name, code, r, orgDir)
-			}
-		}
-	}
-
-	return nil
-}
-
-// hasIssue returns true if LeafCertificates or CaCertificates for selected orgName contains issueName and it has problems
-func hasIssue(orgName string, issueName string, r *LintTotalResult) bool {
-	certsSet := []*LintCertificatesResult{
-		r.LeafCertificates,
-		r.CaCertificates,
-	}
-	for _, certs := range certsSet {
-		issuer := certs.Issuers[orgName]
-		if issuer != nil {
-			issue := issuer.Issues[issueName]
-			if issue != nil {
-				return true
-			}
-		}
-	}
-
-	return false
-}
-
-func SaveIssueGroupReport(orgName string, issueName string, r *LintTotalResult, orgDir string) error {
-	// check if Leaf and CA has this issue
-
-	issuesDir := path.Join(orgDir, "ISSUES")
-	err := Mkdir(issuesDir)
-	if err != nil {
-		return fmt.Errorf("cannot save IssueGroup report, %w", err)
-	}
-
-	file, err := CreateReport(path.Join(issuesDir, issueName))
-	if err != nil {
-		return err
-	}
-	defer file.Close()
-
-	PrintIssueGroupReport(file, orgName, issueName, r)
-
-	return nil
-}
-
-func SaveTotalReport(r *LintTotalResult, outDir string) error {
-	file, err := CreateReport(outDir)
-	if err != nil {
-		return fmt.Errorf("cannot save README.md, %w", err)
-	}
-	defer file.Close()
-
-	PrintTotalReport(file, r)
-
-	return nil
-}
-
-func SaveCertificatesReport(r *LintTotalResult, outDir string) error {
-	names := r.getOrganizationsNames()
-	for _, name := range names {
-		issuers := []*LintOrganizationResult{
-			r.LeafCertificates.Issuers[name],
-			r.CaCertificates.Issuers[name],
-		}
-		for _, issuer := range issuers {
-			if issuer == nil || issuer.Amount == 0 {
-				continue
-			}
-			orgDir := path.Join(outDir, name)
-			if err := Mkdir(orgDir); err != nil {
-				return err
-			}
-			for _, cert := range issuer.Certificates {
-				// create folder
-				certsDir := path.Join(orgDir, "CERTIFICATES")
-				if err := Mkdir(certsDir); err != nil {
-					return err
-				}
-
-				certDir := path.Join(certsDir, cert.Thumbprint)
-				file, err := CreateReport(certDir)
-				if err != nil {
-					return err
-				}
-				defer file.Close()
-
-				PrintCertificateReportForIssuer(file, name, cert)
-			}
-		}
-	}
-
-	return nil
+	return zlint.LintCertificateEx(c, registry), nil
 }

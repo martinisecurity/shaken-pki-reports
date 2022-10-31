@@ -14,5 +14,4 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
-x_certs
-x_report
+x_*
