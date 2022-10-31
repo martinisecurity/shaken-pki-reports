@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN-6744
 
-Tested At: 31 Oct 22 20:25 UTC\
+Tested At: 31 Oct 22 20:40 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 497 day(s)\
 Subject: C=US, ST=GA, L=Atlanta, O=Southern Linc, OU=Voice and Signaling, CN=SHAKEN-6744\
@@ -14,8 +14,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIEAzCCAuugAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [w_pki_subject_rdn_unknown](../../ISSUES/w_pki_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | [e_sti_certificate_policies](../../ISSUES/e_sti_certificate_policies/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
+| [w_pki_subject_rdn_unknown](../../ISSUES/w_pki_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
 ### Not Effective
@@ -31,4 +31,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIEAzCCAuugAwIBAgIU
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 31/10/2022 at 20:32:42
+Generated: 31/10/2022 at 20:47:45

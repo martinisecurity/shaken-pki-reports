@@ -7,7 +7,7 @@
 100.00% of repositories contain one or more Error level issue\
 100.00% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-123ms average time it took to download each certificate
+162ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -19,4 +19,4 @@
 | `https://www.talkasiavoip.com/198K.pem` | true | [view](REPOS/bb30be37f3905720319bcf16596a6c137b7f5d2c/README.md) |
 
 
-Generated: 31/10/2022 at 20:32:43
+Generated: 31/10/2022 at 20:47:45

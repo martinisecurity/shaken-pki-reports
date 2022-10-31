@@ -2,7 +2,7 @@
 
 ## Certificate alticeusa.com
 
-Tested At: 31 Oct 22 20:24 UTC\
+Tested At: 31 Oct 22 20:40 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 48 day(s)\
 Subject: C=US, ST=NY, L=Hicksville, O=alticeusa, OU=alticeusa, CN=alticeusa.com\
@@ -41,4 +41,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIID%2BjCCAuKgAwIBAg
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 31/10/2022 at 20:32:42
+Generated: 31/10/2022 at 20:47:45

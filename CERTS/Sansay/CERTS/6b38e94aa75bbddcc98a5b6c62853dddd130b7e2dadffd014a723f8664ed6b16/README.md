@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J
 
-Tested At: 31 Oct 22 20:25 UTC\
+Tested At: 31 Oct 22 20:40 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 23 day(s)\
 Subject: emailAddress=voiceops@clearfly.net, CN=SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J, OU=NOC, O=Greenfly Networks Inc dba Clearfly Communications, ST=Montana, C=US, emailAddress=voiceops@clearfly.net\
@@ -22,4 +22,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIID6jCCA5CgAwIBAgIU
 | [w_pki_subject_rdn_unknown](../../ISSUES/w_pki_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 31/10/2022 at 20:32:42
+Generated: 31/10/2022 at 20:47:45

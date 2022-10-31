@@ -7,7 +7,7 @@
 100.00% of repositories contain one or more Error level issue\
 100.00% of repositories contain one or more Warning level issue\
 0.00% of repositories contain one or more Notice level issue\
-337ms average time it took to download each certificate
+311ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -19,4 +19,4 @@
 | `https://bulkvs-cr.s3.amazonaws.com/644J_20210615001.crt` | true | [view](REPOS/b89028a0c1c358663641f2c88d60cf1ad7fcfd54/README.md) |
 
 
-Generated: 31/10/2022 at 20:32:43
+Generated: 31/10/2022 at 20:47:45

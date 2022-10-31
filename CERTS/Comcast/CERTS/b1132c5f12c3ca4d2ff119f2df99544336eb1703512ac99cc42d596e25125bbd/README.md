@@ -2,7 +2,7 @@
 
 ## Certificate Comcast SHAKEN Root CA
 
-Tested At: 31 Oct 22 20:32 UTC\
+Tested At: 31 Oct 22 20:47 UTC\
 Initial Validity Period: 7300 day(s)\
 Remaining Validity Period: 6342 day(s)\
 Subject: CN=Comcast SHAKEN Root CA, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US\
@@ -13,8 +13,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICNzCCAdygAwIBAgIJ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [n_pki_ca_key_usage](../../ISSUES/n_pki_ca_key_usage/README.md) | notice | SHAKEN PKI Best Practice | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 | [w_pki_ca_subject_rdn_unknown](../../ISSUES/w_pki_ca_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| [n_pki_ca_key_usage](../../ISSUES/n_pki_ca_key_usage/README.md) | notice | SHAKEN PKI Best Practice | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 
 
 ### Not Effective
@@ -37,4 +37,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICNzCCAdygAwIBAgIJ
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 31/10/2022 at 20:32:42
+Generated: 31/10/2022 at 20:47:45

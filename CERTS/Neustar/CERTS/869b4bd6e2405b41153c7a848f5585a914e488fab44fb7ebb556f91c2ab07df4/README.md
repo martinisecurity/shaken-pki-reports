@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 712J
 
-Tested At: 31 Oct 22 20:24 UTC\
+Tested At: 31 Oct 22 20:40 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 233 day(s)\
 Subject: CN=SHAKEN 712J, O=ANPI Business LLC, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDAjCCAqigAwIBAgIU
 | [e_cp1_3_subject_sn](../../ISSUES/e_cp1_3_subject_sn/README.md) | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 31/10/2022 at 20:32:42
+Generated: 31/10/2022 at 20:47:45

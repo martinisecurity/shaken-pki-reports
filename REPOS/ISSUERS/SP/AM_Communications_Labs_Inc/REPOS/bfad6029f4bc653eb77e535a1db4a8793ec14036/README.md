@@ -3,8 +3,8 @@
 ## AM Communications Labs Inc
 
 Name: `https://ssc.getsipnav.com/certs/d68017fb427d47359b7108377a18cf105aad7709`\
-Tested At: 31 Oct 22 20:25 UTC\
-Time: 18ms
+Tested At: 31 Oct 22 20:40 UTC\
+Time: 19ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 18ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 31/10/2022 at 20:32:43
+Generated: 31/10/2022 at 20:47:45

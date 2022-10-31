@@ -23,25 +23,25 @@
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
-| 106 | [e_cp1_3_ambiguous_identifier](ISSUES/e_cp1_3_ambiguous_identifier/README.md) | United States SHAKEN CP |
-| 201 | [e_cp1_3_subject_sn](ISSUES/e_cp1_3_subject_sn/README.md) | United States SHAKEN CP |
-| 39 | [e_sti_authority_key_identifier](ISSUES/e_sti_authority_key_identifier/README.md) | ATIS-1000080 |
-| 37 | [e_sti_basic_constraints](ISSUES/e_sti_basic_constraints/README.md) | ATIS-1000080 |
-| 192 | [e_sti_certificate_policies](ISSUES/e_sti_certificate_policies/README.md) | ATIS-1000080 |
-| 39 | [e_sti_crl_distribution](ISSUES/e_sti_crl_distribution/README.md) | ATIS-1000080 |
-| 194 | [e_sti_extension_unknown](ISSUES/e_sti_extension_unknown/README.md) | ATIS-1000080 |
-| 39 | [e_sti_issuer_dn](ISSUES/e_sti_issuer_dn/README.md) | ATIS-1000080 |
-| 39 | [e_sti_key_usage](ISSUES/e_sti_key_usage/README.md) | ATIS-1000080 |
-| 117 | [e_sti_serial_number](ISSUES/e_sti_serial_number/README.md) | ATIS-1000080 |
-| 117 | [e_sti_signature_algorithm](ISSUES/e_sti_signature_algorithm/README.md) | ATIS-1000080 |
-| 39 | [e_sti_subject](ISSUES/e_sti_subject/README.md) | ATIS-1000080 |
-| 117 | [e_sti_subject_cn](ISSUES/e_sti_subject_cn/README.md) | ATIS-1000080 |
-| 39 | [e_sti_subject_key_identifier](ISSUES/e_sti_subject_key_identifier/README.md) | ATIS-1000080 |
-| 39 | [e_sti_subject_public_key](ISSUES/e_sti_subject_public_key/README.md) | ATIS-1000080 |
-| 39 | [e_sti_tn_auth_list](ISSUES/e_sti_tn_auth_list/README.md) | ATIS-1000080 |
-| 39 | [e_sti_version](ISSUES/e_sti_version/README.md) | ATIS-1000080 |
-| 105 | [w_cp_1_3_subject_email](ISSUES/w_cp_1_3_subject_email/README.md) | United States SHAKEN CP |
-| 105 | [w_pki_subject_rdn_unknown](ISSUES/w_pki_subject_rdn_unknown/README.md) | SHAKEN PKI Best Practice |
+| 33 | [e_cp1_3_ambiguous_identifier](ISSUES/e_cp1_3_ambiguous_identifier/README.md) | United States SHAKEN CP |
+| 96 | [e_cp1_3_subject_sn](ISSUES/e_cp1_3_subject_sn/README.md) | United States SHAKEN CP |
+| 12 | [e_sti_authority_key_identifier](ISSUES/e_sti_authority_key_identifier/README.md) | ATIS-1000080 |
+| 10 | [e_sti_basic_constraints](ISSUES/e_sti_basic_constraints/README.md) | ATIS-1000080 |
+| 90 | [e_sti_certificate_policies](ISSUES/e_sti_certificate_policies/README.md) | ATIS-1000080 |
+| 12 | [e_sti_crl_distribution](ISSUES/e_sti_crl_distribution/README.md) | ATIS-1000080 |
+| 92 | [e_sti_extension_unknown](ISSUES/e_sti_extension_unknown/README.md) | ATIS-1000080 |
+| 12 | [e_sti_issuer_dn](ISSUES/e_sti_issuer_dn/README.md) | ATIS-1000080 |
+| 12 | [e_sti_key_usage](ISSUES/e_sti_key_usage/README.md) | ATIS-1000080 |
+| 33 | [e_sti_serial_number](ISSUES/e_sti_serial_number/README.md) | ATIS-1000080 |
+| 33 | [e_sti_signature_algorithm](ISSUES/e_sti_signature_algorithm/README.md) | ATIS-1000080 |
+| 12 | [e_sti_subject](ISSUES/e_sti_subject/README.md) | ATIS-1000080 |
+| 33 | [e_sti_subject_cn](ISSUES/e_sti_subject_cn/README.md) | ATIS-1000080 |
+| 12 | [e_sti_subject_key_identifier](ISSUES/e_sti_subject_key_identifier/README.md) | ATIS-1000080 |
+| 12 | [e_sti_subject_public_key](ISSUES/e_sti_subject_public_key/README.md) | ATIS-1000080 |
+| 12 | [e_sti_tn_auth_list](ISSUES/e_sti_tn_auth_list/README.md) | ATIS-1000080 |
+| 12 | [e_sti_version](ISSUES/e_sti_version/README.md) | ATIS-1000080 |
+| 32 | [w_cp_1_3_subject_email](ISSUES/w_cp_1_3_subject_email/README.md) | United States SHAKEN CP |
+| 32 | [w_pki_subject_rdn_unknown](ISSUES/w_pki_subject_rdn_unknown/README.md) | SHAKEN PKI Best Practice |
 
 #### CA Certificates
 
@@ -196,4 +196,4 @@
 | 05 Oct 22 17:26 UTC | Neustar Certified Caller ID SHAKEN CA-2 | true | [view](CERTS/0bd95ecbb97c09de0df079ca41e10c360c4b5928ac56c496879a2c90c6bbffe4/README.md) |
 
 
-Generated: 31/10/2022 at 20:32:42
+Generated: 31/10/2022 at 20:47:45
