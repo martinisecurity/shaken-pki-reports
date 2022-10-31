@@ -4,7 +4,7 @@
 
 This report is broken int two parts:
 1. One generated using [Zlint](https://github.com/zmap/zlint) a tool commonly used to asses CA ecosystem compliance with such requirements. The tests used to generate this report are currently not part of the main [Zlint](https://github.com/martinisecurity/zlint) distribution but can be found here.
-2. One generated with a custom script that eumerates the known STIR/SHAKEN certificates and asses each repository against the current rule set . The source for this test can be found here while the report itself can be found [here](https://ecosystemcompliance.martinisecurity.com/URL).
+2. One generated with a custom script that eumerates the known STIR/SHAKEN certificates and asses each repository against the current rule set . The source for this test can be found here while the report itself can be found [here](https://ecosystemcompliance.martinisecurity.com/REPOS/README.md).
 
 ## Summary
 
