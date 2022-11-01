@@ -55,6 +55,19 @@ func (t *CertificateGroupReport) Join(c *CertificateGroupReport) {
 	t.averageInitialValidity = append(t.averageInitialValidity, c.averageInitialValidity...)
 }
 
+func (t *CertificateGroupReport) AverageCertificatesWithProblems() float64 {
+	sum := 0
+	count := 0
+	for _, v := range t.Items {
+		if v.HasCertificateProblems() {
+			count += 1
+			sum += len(v.CertificateProblems)
+		}
+	}
+
+	return average(sum, count)
+}
+
 func (t *CertificateGroupReport) AverageRemainingValidity() float64 {
 	sum := 0
 	for _, v := range t.averageRemainingValidity {
@@ -225,6 +238,7 @@ func (t *CertificateIssuerReport) Append(i *LintCommandItem) bool {
 	}
 
 	// append problems
+	problemsCounter := 0
 	for code, test := range i.CertificateResult.Results {
 		if test.Status == lint.Error ||
 			test.Status == lint.Warn ||
@@ -241,6 +255,7 @@ func (t *CertificateIssuerReport) Append(i *LintCommandItem) bool {
 				t.Problems[code] = problem
 			}
 			problem.Items = append(problem.Items, i)
+			problemsCounter += 1
 		}
 	}
 

@@ -35,23 +35,38 @@ const (
 )
 
 type LintCommandItem struct {
-	Roots                  *x509.CertPool
-	Intermediates          *x509.CertPool
-	Url                    *url.URL
-	Certificate            *x509.Certificate
-	UrlResult              *uLint.LintResultSet
-	CertificateResult      *zlint.ResultSet
-	IsExpired              bool
-	IsUntrusted            bool
-	IsDuplicateRepository  bool
-	Chain                  []*x509.Certificate
-	certStatusUpdated      bool
-	CaCrAvailable          CaCrAvailableType
-	hasCertificateProblems *bool
-	id                     string
+	Roots                 *x509.CertPool
+	Intermediates         *x509.CertPool
+	Url                   *url.URL
+	Certificate           *x509.Certificate
+	UrlResult             *uLint.LintResultSet
+	CertificateResult     *zlint.ResultSet
+	CertificateProblems   map[string]*lint.LintResult
+	IsExpired             bool
+	IsUntrusted           bool
+	IsDuplicateRepository bool
+	Chain                 []*x509.Certificate
+	certStatusUpdated     bool
+	CaCrAvailable         CaCrAvailableType
+	id                    string
 }
 
 type LintCommandItems map[string]*LintCommandItem
+
+func (t *LintCommandItem) SetCertificateResult(cr *zlint.ResultSet) {
+	t.CertificateResult = cr
+	if t.CertificateProblems == nil {
+		t.CertificateProblems = map[string]*lint.LintResult{}
+	}
+	for c, p := range cr.Results {
+		if p.Status == lint.Error ||
+			p.Status == lint.Warn ||
+			p.Status == lint.Notice ||
+			p.Status == lint.NE {
+			t.CertificateProblems[c] = p
+		}
+	}
+}
 
 func (t *LintCommandItem) Id() string {
 	if len(t.id) == 0 {
@@ -75,24 +90,7 @@ func (t *LintCommandItem) IsSkipped() bool {
 }
 
 func (t *LintCommandItem) HasCertificateProblems() bool {
-	if t.hasCertificateProblems == nil {
-		flag := false
-		if t.CertificateResult.ErrorsPresent ||
-			t.CertificateResult.WarningsPresent ||
-			t.CertificateResult.NoticesPresent {
-			flag = true
-		} else {
-			for _, r := range t.CertificateResult.Results {
-				if r.Status == lint.NE {
-					flag = true
-					break
-				}
-			}
-		}
-		t.hasCertificateProblems = &flag
-	}
-
-	return *t.hasCertificateProblems
+	return len(t.CertificateProblems) > 0
 }
 
 func (t *LintCommandItem) UpdateStatuses() {
@@ -177,7 +175,7 @@ func RunLintCommand(args *LintCommandArgs) error {
 				cr, _ := LintCertificate(c)
 				if cr != nil {
 					// test the leaf certificate
-					item.CertificateResult = cr
+					item.SetCertificateResult(cr)
 				}
 			}
 		}
@@ -188,12 +186,13 @@ func RunLintCommand(args *LintCommandArgs) error {
 		cr, _ := LintCertificate(c)
 		if cr != nil {
 			// test the ICA certificate
-			items = append(items, &LintCommandItem{
-				Roots:             rootPool,
-				Intermediates:     icaPool,
-				Certificate:       c,
-				CertificateResult: cr,
-			})
+			item := &LintCommandItem{
+				Roots:         rootPool,
+				Intermediates: icaPool,
+				Certificate:   c,
+			}
+			item.SetCertificateResult(cr)
+			items = append(items, item)
 		}
 	}
 
@@ -202,12 +201,13 @@ func RunLintCommand(args *LintCommandArgs) error {
 		cr, _ := LintCertificate(c)
 		if cr != nil {
 			// test the ICA certificate
-			items = append(items, &LintCommandItem{
-				Roots:             rootPool,
-				Intermediates:     icaPool,
-				Certificate:       c,
-				CertificateResult: cr,
-			})
+			item := &LintCommandItem{
+				Roots:         rootPool,
+				Intermediates: icaPool,
+				Certificate:   c,
+			}
+			item.SetCertificateResult(cr)
+			items = append(items, item)
 		}
 	}
 
