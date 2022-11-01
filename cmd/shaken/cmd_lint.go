@@ -38,8 +38,9 @@ type LintCommandItem struct {
 	Roots                 *x509.CertPool
 	Intermediates         *x509.CertPool
 	Url                   *url.URL
-	Certificate           *x509.Certificate
+	UrlProblems           map[string]*uLint.LintResult
 	UrlResult             *uLint.LintResultSet
+	Certificate           *x509.Certificate
 	CertificateResult     *zlint.ResultSet
 	CertificateProblems   map[string]*lint.LintResult
 	IsExpired             bool
@@ -68,6 +69,20 @@ func (t *LintCommandItem) SetCertificateResult(cr *zlint.ResultSet) {
 	}
 }
 
+func (t *LintCommandItem) SetUrlResult(ur *uLint.LintResultSet) {
+	t.UrlResult = ur
+	if t.UrlProblems == nil {
+		t.UrlProblems = map[string]*uLint.LintResult{}
+	}
+	for c, p := range ur.Results {
+		if p.Status == uLint.Error ||
+			p.Status == uLint.Warn ||
+			p.Status == uLint.Notice {
+			t.UrlProblems[c] = p
+		}
+	}
+}
+
 func (t *LintCommandItem) Id() string {
 	if len(t.id) == 0 {
 		randId := make([]byte, 20)
@@ -91,6 +106,10 @@ func (t *LintCommandItem) IsSkipped() bool {
 
 func (t *LintCommandItem) HasCertificateProblems() bool {
 	return len(t.CertificateProblems) > 0
+}
+
+func (t *LintCommandItem) HasUrlProblems() bool {
+	return len(t.UrlProblems) > 0
 }
 
 func (t *LintCommandItem) UpdateStatuses() {
@@ -152,7 +171,7 @@ func RunLintCommand(args *LintCommandArgs) error {
 		// lint URL
 		fmt.Println("Lint URL")
 		fmt.Printf("  URL: %s\n", u.String())
-		item.UrlResult = uLinter.LintUrl(u)
+		item.SetUrlResult(uLinter.LintUrl(u))
 		fmt.Printf("  Status: %d\n", item.UrlResult.StatusCode)
 		if item.UrlResult.StatusCode != 200 {
 			continue

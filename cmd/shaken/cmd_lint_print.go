@@ -521,6 +521,7 @@ func PrintRepositoryFindings(w io.Writer, r *RepositoryGroupReport) {
 	fmt.Fprintf(w, "- %d repositories were included in the corpus being tested\n", r.Amount)
 	fmt.Fprintf(w, "- %d repositories in the corpus were skipped because they were duplicated\n", r.SkippedAmount)
 	fmt.Fprintf(w, "- %d repositories being tested against the remaining rules\n", r.TestedAmount)
+	fmt.Fprintf(w, "- %0.2f issues on average found in non-compliant certificate repository URLs\n", r.AverageUrlsWithProblems())
 	fmt.Fprintf(w, "- %0.2f%% of repositories contain one or more Error level issue\n", r.AverageErrors())
 	fmt.Fprintf(w, "- %0.2f%% of repositories contain one or more Warning level issue\n", r.AverageWarns())
 	fmt.Fprintf(w, "- %0.2f%% of repositories contain one or more Notice level issue\n", r.AverageNotices())

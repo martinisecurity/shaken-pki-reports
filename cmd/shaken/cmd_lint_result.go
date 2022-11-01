@@ -401,6 +401,19 @@ type RepositoryGroupReport struct {
 	averageTime   []int
 }
 
+func (t *RepositoryGroupReport) AverageUrlsWithProblems() float64 {
+	sum := 0
+	count := 0
+	for _, v := range t.Items {
+		if v.HasUrlProblems() {
+			count += 1
+			sum += len(v.UrlProblems)
+		}
+	}
+
+	return average(sum, count)
+}
+
 func (t *RepositoryGroupReport) Append(v *LintCommandItem) bool {
 	if v.Url == nil || v.UrlResult == nil {
 		return false
