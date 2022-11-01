@@ -57,14 +57,24 @@ func PrintCertificateSummaryReport(w io.Writer, r *CertificateSummaryReport) {
 	fmt.Fprintln(w, "\\*\\* The percent of errors, warnings and notices is calculated against total observed certificates from the specified issuer.\\")
 	fmt.Fprintln(w, "\\*\\*\\* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.")
 	fmt.Fprintln(w)
-	fmt.Fprintln(w, "## Leaf Certificates")
+	fmt.Fprintln(w, "### Leaf Certificates")
 	fmt.Fprintln(w)
 	PrintCertificateSummaryIssuers(w, r.Leaf, "leaf-certificates")
 	fmt.Fprintln(w)
 
-	fmt.Fprintln(w, "## CA Certificates")
+	fmt.Fprintln(w, "### CA Certificates")
 	fmt.Fprintln(w)
 	PrintCertificateSummaryIssuers(w, r.CA, "ca-certificates")
+	fmt.Fprintln(w)
+
+	fmt.Fprintln(w, "### Key")
+	fmt.Fprintln(w)
+	fmt.Fprintln(w, "| Type | Description |")
+	fmt.Fprintln(w, "|------|-------------|")
+	fmt.Fprintln(w, "| Errors | Tests in which the specifications are unambiguous on what the expected behavior must be. |")
+	fmt.Fprintln(w, "| Warnings | Tests in which the specifications are ambiguous or are provide only a recommendation. |")
+	fmt.Fprintln(w, "| Notices | Tests in which industry best practices are not followed. |")
+	fmt.Fprintln(w, "| Not Effective | Tests that exist in the current specifications but were not in effect at the time of issuance. |")
 	fmt.Fprintln(w)
 
 	PrintFooter(w)
@@ -386,6 +396,15 @@ func PrintRepositorySummaryReport(w io.Writer, r *RepositorySummaryReport) {
 		PrintSummaryDetails(w, r.SP)
 		fmt.Fprintln(w)
 	}
+
+	fmt.Fprintln(w, "### Key")
+	fmt.Fprintln(w)
+	fmt.Fprintln(w, "| Type | Description |")
+	fmt.Fprintln(w, "|------|-------------|")
+	fmt.Fprintln(w, "| Errors | Tests in which the specifications are unambiguous on what the expected behavior must be. |")
+	fmt.Fprintln(w, "| Warnings | Tests in which the specifications are ambiguous or are provide only a recommendation. |")
+	fmt.Fprintln(w, "| Notices | Tests in which industry best practices are not followed. |")
+	fmt.Fprintln(w)
 
 	PrintFooter(w)
 }
