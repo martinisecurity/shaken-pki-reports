@@ -9,41 +9,43 @@
 
 #### Leaf Certificates
 
-4 certificates were included in the corpus being tested\
-1 certificates in the corpus were skipped because they were expired\
-0 repositories in the corpus were skipped because they were duplicated\
-0 certificates in the corpus were skipped because they are not currently trusted\
-100.00% of certificates contain one or more Error level issue\
-25.00% of certificates contain one or more Warning level issue\
-100.00% of certificates contain one or more Notice level issue\
-0.00% of certificates are too old to be assessed against currently enforced expectations\
-91 days is the average remaining validity for the certificates in the corpus\
-114 days is the average initial validity for the certificates in the corpus\
-3 certificates expire in the next 30 days
+- 5 certificates were included in the corpus being tested
+- 0 repositories in the corpus were skipped because they are duplicates
+- 2 certificates in the corpus were skipped because they are expired
+- 0 certificates in the corpus were skipped because they are not currently trusted
+- 3 certificates being tested against the remaining rules
+- 100.00% of certificates contain one or more Error level issue
+- 33.33% of certificates contain one or more Warning level issue
+- 100.00% of certificates contain one or more Notice level issue
+- 0.00% of certificates are too old to be assessed against currently enforced expectations
+- 112 days is the average remaining validity for the certificates in the corpus
+- 142 days is the average initial validity for the certificates in the corpus
+- 2 certificates expire in the next 30 days
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
-| 4 | [e_cp1_3_ambiguous_identifier](ISSUES/e_cp1_3_ambiguous_identifier/README.md) | United States SHAKEN CP |
-| 4 | [e_cp1_3_subject_sn](ISSUES/e_cp1_3_subject_sn/README.md) | United States SHAKEN CP |
-| 4 | [e_sti_certificate_policies](ISSUES/e_sti_certificate_policies/README.md) | ATIS-1000080 |
+| 3 | [e_cp1_3_ambiguous_identifier](ISSUES/e_cp1_3_ambiguous_identifier/README.md) | United States SHAKEN CP |
+| 3 | [e_cp1_3_subject_sn](ISSUES/e_cp1_3_subject_sn/README.md) | United States SHAKEN CP |
+| 3 | [e_sti_certificate_policies](ISSUES/e_sti_certificate_policies/README.md) | ATIS-1000080 |
 | 1 | [e_sti_crl_distribution](ISSUES/e_sti_crl_distribution/README.md) | ATIS-1000080 |
-| 4 | [e_sti_subject_cn](ISSUES/e_sti_subject_cn/README.md) | ATIS-1000080 |
-| 4 | [n_sti_certificate_policy_critical](ISSUES/n_sti_certificate_policy_critical/README.md) | ATIS-1000080 |
+| 3 | [e_sti_subject_cn](ISSUES/e_sti_subject_cn/README.md) | ATIS-1000080 |
+| 3 | [n_sti_certificate_policy_critical](ISSUES/n_sti_certificate_policy_critical/README.md) | ATIS-1000080 |
 | 1 | [w_pki_subject_rdn_unknown](ISSUES/w_pki_subject_rdn_unknown/README.md) | SHAKEN PKI Best Practice |
 
 #### CA Certificates
 
-3 certificates were included in the corpus being tested\
-0 certificates in the corpus were skipped because they were expired\
-0 repositories in the corpus were skipped because they were duplicated\
-0 certificates in the corpus were skipped because they are not currently trusted\
-66.67% of certificates contain one or more Error level issue\
-100.00% of certificates contain one or more Warning level issue\
-0.00% of certificates contain one or more Notice level issue\
-100.00% of certificates are too old to be assessed against currently enforced expectations\
-7383 days is the average remaining validity for the certificates in the corpus\
-6935 days is the average initial validity for the certificates in the corpus\
-0 certificates expire in the next 30 days
+- 3 certificates were included in the corpus being tested
+- 0 repositories in the corpus were skipped because they are duplicates
+- 0 certificates in the corpus were skipped because they are expired
+- 0 certificates in the corpus were skipped because they are not currently trusted
+- 3 certificates being tested against the remaining rules
+- 66.67% of certificates contain one or more Error level issue
+- 100.00% of certificates contain one or more Warning level issue
+- 0.00% of certificates contain one or more Notice level issue
+- 100.00% of certificates are too old to be assessed against currently enforced expectations
+- 7383 days is the average remaining validity for the certificates in the corpus
+- 6935 days is the average initial validity for the certificates in the corpus
+- 0 certificates expire in the next 30 days
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -67,7 +69,6 @@
 | Created at | Subject | Problems | Link |
 |------------|---------|----------|------|
 | 10 Jun 22 00:00 UTC | Plivo Inc | true | [view](CERTS/7dc750fb7aa68d2b67b8dbc89f65217f92db54504685058be016638011adf8bf/README.md) |
-| 02 Oct 22 01:01 UTC | Google SHAKEN cert 969H | true | [view](CERTS/857d06cf3d0d97ef0146c5c90bd1138b91f9a400a0c04a7c0f3c6851805afcb9/README.md) |
 | 25 Oct 22 01:08 UTC | Google SHAKEN cert 969H | true | [view](CERTS/ea9be023aa06e4b6606c9048a6ccace9a16100695fe5b5747654a521d7acfc56/README.md) |
 | 26 Oct 22 15:00 UTC | Baltimore-Washington Telephone Company SHAKEN cert 8697 | true | [view](CERTS/0541bcf0e982d7e6cb1c0bbbcce11b835523895f5816aab422fd0fbd9d8f2ffb/README.md) |
 
@@ -80,4 +81,4 @@
 | 29 Sep 21 13:22 UTC | NetNumber SHAKEN Root Intermediate CA 1 | true | [view](CERTS/e449803766edf02ab50b034dd7e89e54efd332cce87688a032f89b340d039878/README.md) |
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

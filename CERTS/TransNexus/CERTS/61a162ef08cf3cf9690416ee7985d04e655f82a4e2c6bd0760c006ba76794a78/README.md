@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 983J
 
-Tested At: 31 Oct 22 20:39 UTC\
+Tested At: 01 Nov 22 07:31 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: 3 day(s)\
 Subject: CN=SHAKEN 983J, OU=SHAKEN, O=ESI, C=US\
@@ -14,8 +14,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC5TCCAougAwIBAgIQ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [w_pki_subject_rdn_unknown](../../ISSUES/w_pki_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | [e_cp1_3_subject_sn](../../ISSUES/e_cp1_3_subject_sn/README.md) | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [w_pki_subject_rdn_unknown](../../ISSUES/w_pki_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

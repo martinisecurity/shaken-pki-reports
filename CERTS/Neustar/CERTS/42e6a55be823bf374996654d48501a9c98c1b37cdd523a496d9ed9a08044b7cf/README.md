@@ -2,7 +2,7 @@
 
 ## Certificate Granite
 
-Tested At: 31 Oct 22 20:40 UTC\
+Tested At: 01 Nov 22 07:31 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 565 day(s)\
 Subject: C=US, ST=MA, L=Quincy, O=Granite Telecom, OU=Granite, CN=Granite\
@@ -14,8 +14,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIID9DCCAtygAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [w_pki_subject_rdn_unknown](../../ISSUES/w_pki_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | [e_sti_certificate_policies](../../ISSUES/e_sti_certificate_policies/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
+| [w_pki_subject_rdn_unknown](../../ISSUES/w_pki_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
 ### Not Effective
@@ -31,4 +31,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIID9DCCAtygAwIBAgIU
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

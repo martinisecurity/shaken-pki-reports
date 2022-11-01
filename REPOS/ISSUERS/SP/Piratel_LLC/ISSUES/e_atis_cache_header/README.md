@@ -12,4 +12,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://certificates.piratel.com/piratel_20201008_49b10950e1.crt` | true | [view](../../REPOS/063b1acd5e7de4ad7872b8008d2de67c67a7aec0/README.md) |
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

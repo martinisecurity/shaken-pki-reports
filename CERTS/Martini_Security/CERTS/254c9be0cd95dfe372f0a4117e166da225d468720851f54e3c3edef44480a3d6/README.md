@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 709J
 
-Tested At: 31 Oct 22 20:40 UTC\
+Tested At: 01 Nov 22 07:32 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: 80 day(s)\
+Remaining Validity Period: 79 day(s)\
 Subject: O=LOW LATENCY COMMUNICATIONS LLC, C=US, serialNumber=AA4537753DEF4DCFF1CF17CB8A2A715D, CN=SHAKEN 709J\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/U1zkSXg2qmMj.pem
@@ -16,4 +16,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDKTCCAs6gAwIBAgIU
 150 tests were ran and no warning or error level issues were found
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

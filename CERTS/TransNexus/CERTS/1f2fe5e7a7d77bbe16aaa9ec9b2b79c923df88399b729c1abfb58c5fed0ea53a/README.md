@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 738J
 
-Tested At: 31 Oct 22 20:39 UTC\
+Tested At: 01 Nov 22 07:31 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: 5 day(s)\
 Subject: CN=SHAKEN 738J, OU=SHAKEN, O=SIP.US LLC, C=US\
@@ -18,4 +18,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC7DCCApKgAwIBAgIQ
 | [e_cp1_3_subject_sn](../../ISSUES/e_cp1_3_subject_sn/README.md) | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

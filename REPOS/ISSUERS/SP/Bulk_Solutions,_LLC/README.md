@@ -2,12 +2,13 @@
 
 ## Bulk Solutions, LLC
 
-1 repositories were included in the corpus being tested\
-1 repositories in the corpus were skipped because they were duplicated\
-100.00% of repositories contain one or more Error level issue\
-100.00% of repositories contain one or more Warning level issue\
-0.00% of repositories contain one or more Notice level issue\
-311ms average time it took to download each certificate
+- 2 repositories were included in the corpus being tested
+- 1 repositories in the corpus were skipped because they were duplicated
+- 1 repositories being tested against the remaining rules
+- 100.00% of repositories contain one or more Error level issue
+- 100.00% of repositories contain one or more Warning level issue
+- 0.00% of repositories contain one or more Notice level issue
+- 224ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -19,4 +20,4 @@
 | `https://bulkvs-cr.s3.amazonaws.com/644J_20210615001.crt` | true | [view](REPOS/b89028a0c1c358663641f2c88d60cf1ad7fcfd54/README.md) |
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

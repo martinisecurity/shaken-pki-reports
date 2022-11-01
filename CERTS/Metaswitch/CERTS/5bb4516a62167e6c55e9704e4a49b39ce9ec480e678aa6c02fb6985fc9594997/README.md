@@ -2,7 +2,7 @@
 
 ## Certificate Call48 SHAKEN Cert 505J
 
-Tested At: 31 Oct 22 20:42 UTC\
+Tested At: 01 Nov 22 07:32 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 433 day(s)\
 Subject: CN=Call48 SHAKEN Cert 505J, O=Call48, C=US\
@@ -14,8 +14,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICRzCCAe2gAwIBAgIQ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_sti_issuer_dn](../../ISSUES/e_sti_issuer_dn/README.md) | error | ATIS&#x2011;1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 | [e_sti_key_usage](../../ISSUES/e_sti_key_usage/README.md) | error | ATIS&#x2011;1000080 | The Key Usage extension shall contain a single key usage value of digitalSignature |
+| [e_sti_issuer_dn](../../ISSUES/e_sti_issuer_dn/README.md) | error | ATIS&#x2011;1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 
 
 ### Not Effective
@@ -31,4 +31,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICRzCCAe2gAwIBAgIQ
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

@@ -2,9 +2,9 @@
 
 ## Certificate Neustar Certified Caller ID SHAKEN CA-1
 
-Tested At: 31 Oct 22 20:47 UTC\
+Tested At: 01 Nov 22 07:33 UTC\
 Initial Validity Period: 3653 day(s)\
-Remaining Validity Period: 3215 day(s)\
+Remaining Validity Period: 3214 day(s)\
 Subject: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN Root CA, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US
 
@@ -14,8 +14,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDOjCCAt%2BgAwIBAg
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [n_pki_ca_key_usage](../../ISSUES/n_pki_ca_key_usage/README.md) | notice | SHAKEN PKI Best Practice | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
-| [e_cp1_3_ca_key_usage_crl_sign](../../ISSUES/e_cp1_3_ca_key_usage_crl_sign/README.md) | error | United States SHAKEN CP | The model for managing and communicating the status of revoked certificates is in the form of a distributed Certificate Revocation List (CRL) that is maintained by the STI-PA as described in ATIS-1000080 |
 | [w_pki_ca_subject_rdn_unknown](../../ISSUES/w_pki_ca_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| [e_cp1_3_ca_key_usage_crl_sign](../../ISSUES/e_cp1_3_ca_key_usage_crl_sign/README.md) | error | United States SHAKEN CP | The model for managing and communicating the status of revoked certificates is in the form of a distributed Certificate Revocation List (CRL) that is maintained by the STI-PA as described in ATIS-1000080 |
 
 
 ### Not Effective
@@ -30,4 +30,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDOjCCAt%2BgAwIBAg
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

@@ -2,9 +2,9 @@
 
 ## Certificate NetNumber SHAKEN Root CA
 
-Tested At: 31 Oct 22 20:47 UTC\
+Tested At: 01 Nov 22 07:33 UTC\
 Initial Validity Period: 7300 day(s)\
-Remaining Validity Period: 6825 day(s)\
+Remaining Validity Period: 6824 day(s)\
 Subject: L=Lowell, ST=Massachusettes, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN Root CA\
 Issuer: L=Lowell, ST=Massachusettes, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN Root CA
 
@@ -27,4 +27,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICqzCCAlGgAwIBAgII
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

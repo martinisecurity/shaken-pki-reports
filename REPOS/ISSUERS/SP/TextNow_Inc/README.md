@@ -2,12 +2,13 @@
 
 ## TextNow Inc
 
-1 repositories were included in the corpus being tested\
-0 repositories in the corpus were skipped because they were duplicated\
-100.00% of repositories contain one or more Error level issue\
-100.00% of repositories contain one or more Warning level issue\
-0.00% of repositories contain one or more Notice level issue\
-63ms average time it took to download each certificate
+- 1 repositories were included in the corpus being tested
+- 0 repositories in the corpus were skipped because they were duplicated
+- 1 repositories being tested against the remaining rules
+- 100.00% of repositories contain one or more Error level issue
+- 100.00% of repositories contain one or more Warning level issue
+- 0.00% of repositories contain one or more Notice level issue
+- 135ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -19,4 +20,4 @@
 | `https://pki.tncp.textnow.com/prod/stir-shaken-textnow-cert.pem` | true | [view](REPOS/6e88fcb04e42a6fa1baa49c91a4729df6aaac2c0/README.md) |
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

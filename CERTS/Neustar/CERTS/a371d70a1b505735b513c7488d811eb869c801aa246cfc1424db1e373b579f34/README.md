@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 709J
 
-Tested At: 31 Oct 22 20:40 UTC\
+Tested At: 01 Nov 22 07:31 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 250 day(s)\
 Subject: CN=SHAKEN 709J, O=Low Latency Communications LLC, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDDzCCArWgAwIBAgIU
 | [e_cp1_3_subject_sn](../../ISSUES/e_cp1_3_subject_sn/README.md) | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

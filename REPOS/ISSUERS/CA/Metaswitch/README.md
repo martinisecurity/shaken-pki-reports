@@ -2,12 +2,13 @@
 
 ## Metaswitch
 
-14 repositories were included in the corpus being tested\
-0 repositories in the corpus were skipped because they were duplicated\
-100.00% of repositories contain one or more Error level issue\
-100.00% of repositories contain one or more Warning level issue\
-0.00% of repositories contain one or more Notice level issue\
-14309ms average time it took to download each certificate
+- 14 repositories were included in the corpus being tested
+- 0 repositories in the corpus were skipped because they were duplicated
+- 14 repositories being tested against the remaining rules
+- 100.00% of repositories contain one or more Error level issue
+- 100.00% of repositories contain one or more Warning level issue
+- 0.00% of repositories contain one or more Notice level issue
+- 1112ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -32,4 +33,4 @@
 | `https://sti-cr.cgah.tnsi.com/certs/de39b976c7549358da256530d81cfb1f446a2583` | true | [view](REPOS/5b6aeeae4a284e7607c4cb9d696247d8dce1a428/README.md) |
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

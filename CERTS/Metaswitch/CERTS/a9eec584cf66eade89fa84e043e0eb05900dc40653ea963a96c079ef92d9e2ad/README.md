@@ -2,7 +2,7 @@
 
 ## Certificate Allstream SHAKEN cert 4130
 
-Tested At: 31 Oct 22 20:39 UTC\
+Tested At: 01 Nov 22 07:30 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 495 day(s)\
 Subject: CN=Allstream SHAKEN cert 4130, O=Allstream Business US\\, LLC, L=Vancouver, ST=WA, C=US\
@@ -32,4 +32,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICgDCCAiWgAwIBAgIQ
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

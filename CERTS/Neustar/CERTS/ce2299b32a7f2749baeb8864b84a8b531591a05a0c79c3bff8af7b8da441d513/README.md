@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 074K
 
-Tested At: 31 Oct 22 20:39 UTC\
+Tested At: 01 Nov 22 07:30 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 271 day(s)\
+Remaining Validity Period: 270 day(s)\
 Subject: CN=SHAKEN 074K, O=Coztel Carrier, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: http://5.161.95.22/191c4c42dd7fa6115e84100637e42c99.cer
@@ -14,9 +14,9 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2FzCCAqWgAwIBAg
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| [e_cp1_3_subject_sn](../../ISSUES/e_cp1_3_subject_sn/README.md) | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_sti_extension_unknown](../../ISSUES/e_sti_extension_unknown/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall not include extensions that are not specified |
 | [e_sti_certificate_policies](../../ISSUES/e_sti_certificate_policies/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| [e_cp1_3_subject_sn](../../ISSUES/e_cp1_3_subject_sn/README.md) | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

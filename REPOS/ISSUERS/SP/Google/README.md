@@ -2,12 +2,13 @@
 
 ## Google
 
-3 repositories were included in the corpus being tested\
-0 repositories in the corpus were skipped because they were duplicated\
-0.00% of repositories contain one or more Error level issue\
-0.00% of repositories contain one or more Warning level issue\
-0.00% of repositories contain one or more Notice level issue\
-10ms average time it took to download each certificate
+- 3 repositories were included in the corpus being tested
+- 0 repositories in the corpus were skipped because they were duplicated
+- 3 repositories being tested against the remaining rules
+- 0.00% of repositories contain one or more Error level issue
+- 0.00% of repositories contain one or more Warning level issue
+- 0.00% of repositories contain one or more Notice level issue
+- 104ms average time it took to download each certificate
 
 No issues found
 
@@ -18,4 +19,4 @@ No issues found
 | `https://www.gstatic.com/gtp/stir/yWm5JCvzCtTKhZihGKFIFA.pem` | false | [view](REPOS/6b2e4421bedd60b52d10758facb47f4b6901ed03/README.md) |
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

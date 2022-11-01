@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 459J
 
-Tested At: 31 Oct 22 20:39 UTC\
+Tested At: 01 Nov 22 07:31 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: 5 day(s)\
 Subject: CN=SHAKEN 459J, OU=SHAKEN, O=Altaworx, C=US\
@@ -18,4 +18,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC6jCCApCgAwIBAgIQ
 | [w_pki_subject_rdn_unknown](../../ISSUES/w_pki_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

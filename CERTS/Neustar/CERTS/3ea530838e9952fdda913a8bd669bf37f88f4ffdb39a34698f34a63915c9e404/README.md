@@ -2,9 +2,9 @@
 
 ## Certificate Neustar Certified Caller ID SHAKEN CA-2
 
-Tested At: 31 Oct 22 20:47 UTC\
+Tested At: 01 Nov 22 07:33 UTC\
 Initial Validity Period: 3653 day(s)\
-Remaining Validity Period: 3591 day(s)\
+Remaining Validity Period: 3590 day(s)\
 Subject: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Inc a TransUnion company, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN Root CA, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US
 
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDSzCCAvGgAwIBAgIU
 | [w_pki_ca_subject_rdn_unknown](../../ISSUES/w_pki_ca_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

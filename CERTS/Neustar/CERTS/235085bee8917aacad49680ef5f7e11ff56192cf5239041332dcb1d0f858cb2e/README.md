@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 573J
 
-Tested At: 31 Oct 22 20:40 UTC\
+Tested At: 01 Nov 22 07:31 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 230 day(s)\
+Remaining Validity Period: 229 day(s)\
 Subject: CN=SHAKEN 573J, O=Voyant Communications LLC, L=Chicago\\,ST=IL, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/49.162
@@ -14,9 +14,9 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDITCCAsigAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_sti_certificate_policies](../../ISSUES/e_sti_certificate_policies/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_sti_extension_unknown](../../ISSUES/e_sti_extension_unknown/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall not include extensions that are not specified |
+| [e_sti_certificate_policies](../../ISSUES/e_sti_certificate_policies/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_cp1_3_subject_sn](../../ISSUES/e_cp1_3_subject_sn/README.md) | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

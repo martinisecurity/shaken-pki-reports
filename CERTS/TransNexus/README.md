@@ -9,44 +9,46 @@
 
 #### Leaf Certificates
 
-65 certificates were included in the corpus being tested\
-265 certificates in the corpus were skipped because they were expired\
-0 repositories in the corpus were skipped because they were duplicated\
-1 certificates in the corpus were skipped because they are not currently trusted\
-100.00% of certificates contain one or more Error level issue\
-100.00% of certificates contain one or more Warning level issue\
-0.00% of certificates contain one or more Notice level issue\
-3.08% of certificates are too old to be assessed against currently enforced expectations\
-78 days is the average remaining validity for the certificates in the corpus\
-79 days is the average initial validity for the certificates in the corpus\
-49 certificates expire in the next 30 days
+- 330 certificates were included in the corpus being tested
+- 0 repositories in the corpus were skipped because they are duplicates
+- 267 certificates in the corpus were skipped because they are expired
+- 1 certificates in the corpus were skipped because they are not currently trusted
+- 62 certificates being tested against the remaining rules
+- 100.00% of certificates contain one or more Error level issue
+- 100.00% of certificates contain one or more Warning level issue
+- 0.00% of certificates contain one or more Notice level issue
+- 3.23% of certificates are too old to be assessed against currently enforced expectations
+- 81 days is the average remaining validity for the certificates in the corpus
+- 83 days is the average initial validity for the certificates in the corpus
+- 46 certificates expire in the next 30 days
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
 | 4 | [e_cp1_3_ambiguous_identifier](ISSUES/e_cp1_3_ambiguous_identifier/README.md) | United States SHAKEN CP |
-| 65 | [e_cp1_3_subject_sn](ISSUES/e_cp1_3_subject_sn/README.md) | United States SHAKEN CP |
-| 49 | [e_incorrect_ku_encoding](ISSUES/e_incorrect_ku_encoding/README.md) | RFC5280 |
+| 62 | [e_cp1_3_subject_sn](ISSUES/e_cp1_3_subject_sn/README.md) | United States SHAKEN CP |
+| 46 | [e_incorrect_ku_encoding](ISSUES/e_incorrect_ku_encoding/README.md) | RFC5280 |
 | 3 | [e_sti_certificate_policies](ISSUES/e_sti_certificate_policies/README.md) | ATIS-1000080 |
 | 2 | [e_sti_extension_unknown](ISSUES/e_sti_extension_unknown/README.md) | ATIS-1000080 |
 | 2 | [e_sti_serial_number](ISSUES/e_sti_serial_number/README.md) | ATIS-1000080 |
 | 2 | [e_sti_signature_algorithm](ISSUES/e_sti_signature_algorithm/README.md) | ATIS-1000080 |
 | 2 | [e_sti_subject_cn](ISSUES/e_sti_subject_cn/README.md) | ATIS-1000080 |
 | 1 | [w_cp_1_3_subject_email](ISSUES/w_cp_1_3_subject_email/README.md) | United States SHAKEN CP |
-| 65 | [w_pki_subject_rdn_unknown](ISSUES/w_pki_subject_rdn_unknown/README.md) | SHAKEN PKI Best Practice |
+| 62 | [w_pki_subject_rdn_unknown](ISSUES/w_pki_subject_rdn_unknown/README.md) | SHAKEN PKI Best Practice |
 
 #### CA Certificates
 
-3 certificates were included in the corpus being tested\
-0 certificates in the corpus were skipped because they were expired\
-0 repositories in the corpus were skipped because they were duplicated\
-1 certificates in the corpus were skipped because they are not currently trusted\
-100.00% of certificates contain one or more Error level issue\
-100.00% of certificates contain one or more Warning level issue\
-100.00% of certificates contain one or more Notice level issue\
-100.00% of certificates are too old to be assessed against currently enforced expectations\
-5369 days is the average remaining validity for the certificates in the corpus\
-4870 days is the average initial validity for the certificates in the corpus\
-0 certificates expire in the next 30 days
+- 4 certificates were included in the corpus being tested
+- 0 repositories in the corpus were skipped because they are duplicates
+- 0 certificates in the corpus were skipped because they are expired
+- 1 certificates in the corpus were skipped because they are not currently trusted
+- 3 certificates being tested against the remaining rules
+- 100.00% of certificates contain one or more Error level issue
+- 100.00% of certificates contain one or more Warning level issue
+- 100.00% of certificates contain one or more Notice level issue
+- 100.00% of certificates are too old to be assessed against currently enforced expectations
+- 5369 days is the average remaining validity for the certificates in the corpus
+- 4870 days is the average initial validity for the certificates in the corpus
+- 0 certificates expire in the next 30 days
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -93,9 +95,6 @@
 | 22 Oct 22 04:04 UTC | SHAKEN 345J | true | [view](CERTS/27c018db560aefbff83f32326db2cbf3f1260051386569d7775cf98fae145bae/README.md) |
 | 22 Oct 22 04:44 UTC | SHAKEN 345J | true | [view](CERTS/109a4ac394ec4e6eb6ba42d2ad6bc799f2548629a8bbfb9420b9ec1ca5df6ff9/README.md) |
 | 24 Oct 22 20:22 UTC | SHAKEN 738J | true | [view](CERTS/1f99a81d0b090f467a47da69b1549fbabc7d8277f67a1f31d05c53e92cceb54c/README.md) |
-| 24 Oct 22 20:51 UTC | SHAKEN 157C | true | [view](CERTS/be04d1f3ac988f74ec890dff28073678aed38da0c6971bcb2ef64479cb01c5b3/README.md) |
-| 24 Oct 22 21:41 UTC | SHAKEN 606F | true | [view](CERTS/688235ecbd4d2a93153e566a38033fc10a9a3518b238b12462c794e671cef0ef/README.md) |
-| 25 Oct 22 01:41 UTC | SHAKEN 278K | true | [view](CERTS/14d17618059d6271f3f150cb33546796bca31eb548ad5bf659230ae1bd638585/README.md) |
 | 25 Oct 22 14:33 UTC | SHAKEN 2550 | true | [view](CERTS/6970b8cb5229451110fe03840a2927e3d4d4dc548b6d5b4658097a6d996e1ea0/README.md) |
 | 25 Oct 22 15:33 UTC | SHAKEN 722J | true | [view](CERTS/50eb0c6a670f4122f8fbdb75582aa257fe3979f441fb396ff738372627104f9c/README.md) |
 | 26 Oct 22 08:39 UTC | SHAKEN 012K | true | [view](CERTS/a4a8fa499de2764fbb7db0b76e98d31078179de61e21e96df01f8132a44c1fd4/README.md) |
@@ -115,8 +114,8 @@
 | 26 Oct 22 20:23 UTC | SHAKEN 738J | true | [view](CERTS/24b935c4e2f91a82ff346147d216ffcfbbb408b7d41886788c3e7158c4573825/README.md) |
 | 26 Oct 22 20:23 UTC | SHAKEN 459J | true | [view](CERTS/b8c1d7beff3357f2ba432ff63529da29fd4871b1e11ae59e0f3d30eb6f7b4b51/README.md) |
 | 26 Oct 22 20:25 UTC | SHAKEN 366G | true | [view](CERTS/e3f28ec5803737280fee53e08b1097a304fc1b27cee05c9edb7836ce26691681/README.md) |
-| 26 Oct 22 20:25 UTC | SHAKEN 738J | true | [view](CERTS/e227f5d1d545dc5289555dfb281c3b6e3642834bad66c25d997dedeee729f046/README.md) |
 | 26 Oct 22 20:25 UTC | SHAKEN 0226 | true | [view](CERTS/fd4e9f41bea50e0e2615d2a9686e0dc7d4363c67912c4d355df0e4ec9b3faa14/README.md) |
+| 26 Oct 22 20:25 UTC | SHAKEN 738J | true | [view](CERTS/e227f5d1d545dc5289555dfb281c3b6e3642834bad66c25d997dedeee729f046/README.md) |
 | 26 Oct 22 22:00 UTC | SHAKEN 551G | true | [view](CERTS/6052628e9622c0b9247ee1139aec68db77c73a3857882d712de67adf4cce6083/README.md) |
 | 27 Oct 22 16:32 UTC | SHAKEN 291K | true | [view](CERTS/deefe1aa4ab2ec077f2a86adefc2664087be0c4392d579fc0ed49b04fe7345f6/README.md) |
 | 27 Oct 22 19:07 UTC | SHAKEN 749J | true | [view](CERTS/1fc9e8d8a8e19300e114d8b68b9eed28cad0ceb35dc90bb4ca4d07c39116248d/README.md) |
@@ -144,4 +143,4 @@
 | 20 Aug 21 00:00 UTC | TransNexus, Inc. SHAKEN Root CA1 | true | [view](CERTS/59ab943f4e8c3c17755cc8e4abb5ac65736ce74ec587c62cb744ab0babbbe2fe/README.md) |
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

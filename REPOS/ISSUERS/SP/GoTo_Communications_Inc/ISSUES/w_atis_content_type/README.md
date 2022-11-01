@@ -12,4 +12,4 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | `https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/goto-2022-09` | true | [view](../../REPOS/28a6eaf4d52af268d2354802a3c6a6e7f8f568a4/README.md) |
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

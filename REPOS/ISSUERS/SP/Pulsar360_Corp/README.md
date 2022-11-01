@@ -2,12 +2,13 @@
 
 ## Pulsar360 Corp
 
-1 repositories were included in the corpus being tested\
-0 repositories in the corpus were skipped because they were duplicated\
-100.00% of repositories contain one or more Error level issue\
-100.00% of repositories contain one or more Warning level issue\
-0.00% of repositories contain one or more Notice level issue\
-437ms average time it took to download each certificate
+- 1 repositories were included in the corpus being tested
+- 0 repositories in the corpus were skipped because they were duplicated
+- 1 repositories being tested against the remaining rules
+- 100.00% of repositories contain one or more Error level issue
+- 100.00% of repositories contain one or more Warning level issue
+- 0.00% of repositories contain one or more Notice level issue
+- 359ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -19,4 +20,4 @@
 | `https://ecms.securetransit.net/certs/410bad9e05a57353f0d8739a421be619.cer` | true | [view](REPOS/6034f9862b22502cb879614b1690e2d94043ecb9/README.md) |
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

@@ -9,17 +9,18 @@
 
 #### Leaf Certificates
 
-7 certificates were included in the corpus being tested\
-0 certificates in the corpus were skipped because they were expired\
-0 repositories in the corpus were skipped because they were duplicated\
-0 certificates in the corpus were skipped because they are not currently trusted\
-0.00% of certificates contain one or more Error level issue\
-0.00% of certificates contain one or more Warning level issue\
-57.14% of certificates contain one or more Notice level issue\
-0.00% of certificates are too old to be assessed against currently enforced expectations\
-155 days is the average remaining validity for the certificates in the corpus\
-129 days is the average initial validity for the certificates in the corpus\
-0 certificates expire in the next 30 days
+- 7 certificates were included in the corpus being tested
+- 0 repositories in the corpus were skipped because they are duplicates
+- 0 certificates in the corpus were skipped because they are expired
+- 0 certificates in the corpus were skipped because they are not currently trusted
+- 7 certificates being tested against the remaining rules
+- 0.00% of certificates contain one or more Error level issue
+- 0.00% of certificates contain one or more Warning level issue
+- 57.14% of certificates contain one or more Notice level issue
+- 0.00% of certificates are too old to be assessed against currently enforced expectations
+- 155 days is the average remaining validity for the certificates in the corpus
+- 129 days is the average initial validity for the certificates in the corpus
+- 0 certificates expire in the next 30 days
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -27,17 +28,18 @@
 
 #### CA Certificates
 
-3 certificates were included in the corpus being tested\
-0 certificates in the corpus were skipped because they were expired\
-0 repositories in the corpus were skipped because they were duplicated\
-0 certificates in the corpus were skipped because they are not currently trusted\
-0.00% of certificates contain one or more Error level issue\
-100.00% of certificates contain one or more Warning level issue\
-33.33% of certificates contain one or more Notice level issue\
-0.00% of certificates are too old to be assessed against currently enforced expectations\
-5433 days is the average remaining validity for the certificates in the corpus\
-4261 days is the average initial validity for the certificates in the corpus\
-0 certificates expire in the next 30 days
+- 3 certificates were included in the corpus being tested
+- 0 repositories in the corpus were skipped because they are duplicates
+- 0 certificates in the corpus were skipped because they are expired
+- 0 certificates in the corpus were skipped because they are not currently trusted
+- 3 certificates being tested against the remaining rules
+- 0.00% of certificates contain one or more Error level issue
+- 100.00% of certificates contain one or more Warning level issue
+- 33.33% of certificates contain one or more Notice level issue
+- 0.00% of certificates are too old to be assessed against currently enforced expectations
+- 5433 days is the average remaining validity for the certificates in the corpus
+- 4261 days is the average initial validity for the certificates in the corpus
+- 0 certificates expire in the next 30 days
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -67,4 +69,4 @@
 | 02 Oct 22 10:40 UTC | Martini Security SHAKEN G2 | true | [view](CERTS/bf818ddbd3ae492e4a85331b85b52f4d2cdef8287bf910b59e247b6c132fa7fd/README.md) |
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

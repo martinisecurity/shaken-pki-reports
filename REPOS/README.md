@@ -4,30 +4,33 @@
 
 ### All Repositories
 
-643 repositories were included in the corpus being tested\
-108 repositories in the corpus were skipped because they were duplicated\
-30.79% of repositories contain one or more Error level issue\
-47.59% of repositories contain one or more Warning level issue\
-0.00% of repositories contain one or more Notice level issue\
-383ms average time it took to download each certificate
+- 751 repositories were included in the corpus being tested
+- 108 repositories in the corpus were skipped because they were duplicated
+- 643 repositories being tested against the remaining rules
+- 30.79% of repositories contain one or more Error level issue
+- 47.43% of repositories contain one or more Warning level issue
+- 0.00% of repositories contain one or more Notice level issue
+- 69ms average time it took to download each certificate
 
 ### CA Operated Repositories
 
-572 repositories were included in the corpus being tested\
-100 repositories in the corpus were skipped because they were duplicated\
-22.90% of repositories contain one or more Error level issue\
-41.61% of repositories contain one or more Warning level issue\
-0.00% of repositories contain one or more Notice level issue\
-372ms average time it took to download each certificate
+- 672 repositories were included in the corpus being tested
+- 100 repositories in the corpus were skipped because they were duplicated
+- 572 repositories being tested against the remaining rules
+- 22.90% of repositories contain one or more Error level issue
+- 41.61% of repositories contain one or more Warning level issue
+- 0.00% of repositories contain one or more Notice level issue
+- 53ms average time it took to download each certificate
 
 ### Service Provider Operated Repositories
 
-71 repositories were included in the corpus being tested\
-8 repositories in the corpus were skipped because they were duplicated\
-94.37% of repositories contain one or more Error level issue\
-95.77% of repositories contain one or more Warning level issue\
-0.00% of repositories contain one or more Notice level issue\
-476ms average time it took to download each certificate
+- 79 repositories were included in the corpus being tested
+- 8 repositories in the corpus were skipped because they were duplicated
+- 71 repositories being tested against the remaining rules
+- 94.37% of repositories contain one or more Error level issue
+- 94.37% of repositories contain one or more Warning level issue
+- 0.00% of repositories contain one or more Notice level issue
+- 197ms average time it took to download each certificate
 
 ## Details
 
@@ -53,13 +56,13 @@
 | [AM Communications Labs Inc](ISSUERS/SP/AM_Communications_Labs_Inc/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [ATT SHAKEN E-E](ISSUERS/SP/ATT_SHAKEN_E-E/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [Accessline Communications Corp.](ISSUERS/SP/Accessline_Communications_Corp./README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
+| [Alianza](ISSUERS/SP/Alianza/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [Allstream Business US, LLC](ISSUERS/SP/Allstream_Business_US,_LLC/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [Apex Telecom](ISSUERS/SP/Apex_Telecom/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [Avid Telecom](ISSUERS/SP/Avid_Telecom/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [Baltimore-Washington Telephone Company](ISSUERS/SP/Baltimore-Washington_Telephone_Company/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [Bandwidth.com CLEC LLC](ISSUERS/SP/Bandwidth.com_CLEC_LLC/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [Bulk Solutions, LLC](ISSUERS/SP/Bulk_Solutions,_LLC/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
-| [Charter Communications Inc SHAKEN 5606](ISSUERS/SP/Charter_Communications_Inc_SHAKEN_5606/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [Clearly IP](ISSUERS/SP/Clearly_IP/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [Commio](ISSUERS/SP/Commio/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [Company Name](ISSUERS/SP/Company_Name/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
@@ -68,7 +71,6 @@
 | [Coztel Carrier](ISSUERS/SP/Coztel_Carrier/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [Dialect, LLC](ISSUERS/SP/Dialect,_LLC/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [Dialpad Inc.](ISSUERS/SP/Dialpad_Inc./README.md) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Digital IP Voice](ISSUERS/SP/Digital_IP_Voice/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [Drop Inc](ISSUERS/SP/Drop_Inc/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [Falcon Endeavors](ISSUERS/SP/Falcon_Endeavors/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [FaxLogic LLC](ISSUERS/SP/FaxLogic_LLC/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
@@ -104,7 +106,7 @@
 | [TextNow Inc.](ISSUERS/SP/TextNow_Inc./README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [TransNexus](ISSUERS/SP/TransNexus/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [U. S. Telepacific Corp](ISSUERS/SP/U._S._Telepacific_Corp/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
-| [Unknown](ISSUERS/SP/Unknown/README.md) | 2 (2.82%) | 2 (2.82%) | 2 (2.82%) | 0 (0.00%) |
+| [Unknown](ISSUERS/SP/Unknown/README.md) | 3 (4.23%) | 3 (4.23%) | 2 (2.82%) | 0 (0.00%) |
 | [VOIP ESSENTIAL INC](ISSUERS/SP/VOIP_ESSENTIAL_INC/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [Verizon Data Services LLC](ISSUERS/SP/Verizon_Data_Services_LLC/README.md) | 1 (1.41%) | 0 (0.00%) | 1 (1.41%) | 0 (0.00%) |
 | [Vibratel](ISSUERS/SP/Vibratel/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
@@ -117,7 +119,7 @@
 | [Ytel Inc.](ISSUERS/SP/Ytel_Inc./README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [Zultys Inc](ISSUERS/SP/Zultys_Inc/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [alticeusa](ISSUERS/SP/alticeusa/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
-| **Total** | 71 (100.00%) | 67 (94.37%) | 68 (95.77%) | 0 (0.00%) |
+| **Total** | 71 (100.00%) | 67 (94.37%) | 67 (94.37%) | 0 (0.00%) |
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

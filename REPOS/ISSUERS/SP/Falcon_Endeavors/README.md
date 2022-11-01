@@ -2,12 +2,13 @@
 
 ## Falcon Endeavors
 
-1 repositories were included in the corpus being tested\
-0 repositories in the corpus were skipped because they were duplicated\
-100.00% of repositories contain one or more Error level issue\
-100.00% of repositories contain one or more Warning level issue\
-0.00% of repositories contain one or more Notice level issue\
-72ms average time it took to download each certificate
+- 1 repositories were included in the corpus being tested
+- 0 repositories in the corpus were skipped because they were duplicated
+- 1 repositories being tested against the remaining rules
+- 100.00% of repositories contain one or more Error level issue
+- 100.00% of repositories contain one or more Warning level issue
+- 0.00% of repositories contain one or more Notice level issue
+- 162ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -19,4 +20,4 @@
 | `https://ssc.getsipnav.com/certs/0ca730172b48ae249d823ea924275602b5f36450` | true | [view](REPOS/87067bdc8520c6c96b3c3007ebe418cc9742bfaf/README.md) |
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04

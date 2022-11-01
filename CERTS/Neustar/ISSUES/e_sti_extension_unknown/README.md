@@ -18,7 +18,6 @@ Description: STI certificate shall not include extensions that are not specified
 | error | SHAKEN 771J | [view](../../CERTS/0d7b51533df7b19ce84f11cf53ff9c2260e112501402635565d154d9e9741d63/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 845J | [view](../../CERTS/5779b9ac57abada079f96ac7625dfe923e44f6993378e4291a5ed16b1ba65a64/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 750J | [view](../../CERTS/52cb96a36b3dac1475b04a10b545d0f9399e4dc1b3227aaccb7dc4a01278e7c3/README.md) | STI certificate shall not include extensions that are not specified |
-| not effective | digitalipvoice.com | [view](../../CERTS/b95967027d535f36fc40bb91a16bc17d7fe58af8fa14d922a1c9daed9933443a/README.md) |  |
 | not effective | SHAKEN | [view](../../CERTS/a76f137e6ae23b3f27db8b6c2c339571ff7b5a106f61709d6d36b49852d0a070/README.md) |  |
 | error | SHAKEN 139K | [view](../../CERTS/eacdef99ac79c2ae3e713ec4c5972e785548050a35db9747f21eb2d4bc06c31b/README.md) | STI certificate shall not include extensions that are not specified |
 | error | ATT SHAKEN 4036 | [view](../../CERTS/3a8d4d5fe47e784f925bca30b21d44f3492ad0813fd074ef2d438cca1d4acc68/README.md) | STI certificate shall not include extensions that are not specified |
@@ -110,4 +109,4 @@ Description: STI certificate shall not include extensions that are not specified
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 31/10/2022 at 20:47:45
+Generated: 01/11/2022 at 07:33:04
