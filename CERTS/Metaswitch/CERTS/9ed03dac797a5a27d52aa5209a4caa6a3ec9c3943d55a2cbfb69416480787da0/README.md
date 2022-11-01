@@ -2,9 +2,9 @@
 
 ## Certificate U. S. Telepacific Corp SHAKEN 7453
 
-Tested At: 01 Nov 22 16:29 UTC\
+Tested At: 01 Nov 22 16:53 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 523 day(s)\
+Remaining Validity Period: 522 day(s)\
 Subject: CN=U. S. Telepacific Corp SHAKEN 7453, O=U. S. Telepacific Corp, L=Los Angeles, ST=California, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://qcall.meta.tpx.net/certs/shaken_cacert.crt
@@ -14,11 +14,11 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICjjCCAjSgAwIBAgIQ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | United States SHAKEN CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| [e_atis_key_usage](../../ISSUES/e_atis_key_usage/README.md) | error | ATIS&#x2011;1000080 | The Key Usage extension shall contain a single key usage value of digitalSignature |
-| [e_atis_issuer_dn](../../ISSUES/e_atis_issuer_dn/README.md) | error | ATIS&#x2011;1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
-| [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| [e_atis_key_usage](../../ISSUES/e_atis_key_usage/README.md) | error | ATIS1000080 | The Key Usage extension shall contain a single key usage value of digitalSignature |
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [e_atis_issuer_dn](../../ISSUES/e_atis_issuer_dn/README.md) | error | ATIS1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 
 
 ### Not Effective
@@ -31,4 +31,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICjjCCAjSgAwIBAgIQ
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

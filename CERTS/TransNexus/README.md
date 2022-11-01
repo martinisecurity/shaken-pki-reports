@@ -24,15 +24,15 @@
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
-| 3 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS-1000080 |
-| 2 | [e_atis_extension_unknown](ISSUES/e_atis_extension_unknown/README.md) | ATIS-1000080 |
-| 2 | [e_atis_serial_number](ISSUES/e_atis_serial_number/README.md) | ATIS-1000080 |
-| 2 | [e_atis_signature_algorithm](ISSUES/e_atis_signature_algorithm/README.md) | ATIS-1000080 |
-| 2 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS-1000080 |
+| 3 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
+| 2 | [e_atis_extension_unknown](ISSUES/e_atis_extension_unknown/README.md) | ATIS1000080 |
+| 2 | [e_atis_serial_number](ISSUES/e_atis_serial_number/README.md) | ATIS1000080 |
+| 2 | [e_atis_signature_algorithm](ISSUES/e_atis_signature_algorithm/README.md) | ATIS1000080 |
+| 2 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
 | 45 | [e_incorrect_ku_encoding](ISSUES/e_incorrect_ku_encoding/README.md) | RFC5280 |
-| 4 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | United States SHAKEN CP |
-| 61 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | United States SHAKEN CP |
-| 61 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN PKI Best Practice |
+| 4 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
+| 61 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 61 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
 
@@ -51,17 +51,17 @@
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
-| 2 | [e_atis_ca_certificate_policies](ISSUES/e_atis_ca_certificate_policies/README.md) | ATIS-1000080 |
-| 2 | [e_atis_ca_crl_distribution](ISSUES/e_atis_ca_crl_distribution/README.md) | ATIS-1000080 |
-| 2 | [e_atis_ca_extension_unknown](ISSUES/e_atis_ca_extension_unknown/README.md) | ATIS-1000080 |
-| 3 | [e_atis_ca_serial_number](ISSUES/e_atis_ca_serial_number/README.md) | ATIS-1000080 |
-| 3 | [e_atis_ca_subject_cn](ISSUES/e_atis_ca_subject_cn/README.md) | ATIS-1000080 |
-| 1 | [e_atis_root_certificate_policies](ISSUES/e_atis_root_certificate_policies/README.md) | ATIS-1000080 |
-| 1 | [e_atis_root_extension_unknown](ISSUES/e_atis_root_extension_unknown/README.md) | ATIS-1000080 |
+| 2 | [e_atis_ca_certificate_policies](ISSUES/e_atis_ca_certificate_policies/README.md) | ATIS1000080 |
+| 2 | [e_atis_ca_crl_distribution](ISSUES/e_atis_ca_crl_distribution/README.md) | ATIS1000080 |
+| 2 | [e_atis_ca_extension_unknown](ISSUES/e_atis_ca_extension_unknown/README.md) | ATIS1000080 |
+| 3 | [e_atis_ca_serial_number](ISSUES/e_atis_ca_serial_number/README.md) | ATIS1000080 |
+| 3 | [e_atis_ca_subject_cn](ISSUES/e_atis_ca_subject_cn/README.md) | ATIS1000080 |
+| 1 | [e_atis_root_certificate_policies](ISSUES/e_atis_root_certificate_policies/README.md) | ATIS1000080 |
+| 1 | [e_atis_root_extension_unknown](ISSUES/e_atis_root_extension_unknown/README.md) | ATIS1000080 |
 | 3 | [e_incorrect_ku_encoding](ISSUES/e_incorrect_ku_encoding/README.md) | RFC5280 |
-| 3 | [e_us_cp_ca_key_usage_crl_sign](ISSUES/e_us_cp_ca_key_usage_crl_sign/README.md) | United States SHAKEN CP |
-| 2 | [n_atis_ca_certificate_policy_critical](ISSUES/n_atis_ca_certificate_policy_critical/README.md) | ATIS-1000080 |
-| 3 | [w_shaken_ca_subject_rdn_unknown](ISSUES/w_shaken_ca_subject_rdn_unknown/README.md) | SHAKEN PKI Best Practice |
+| 3 | [e_us_cp_ca_key_usage_crl_sign](ISSUES/e_us_cp_ca_key_usage_crl_sign/README.md) | US_SHAKEN_CP |
+| 2 | [n_atis_ca_certificate_policy_critical](ISSUES/n_atis_ca_certificate_policy_critical/README.md) | ATIS1000080 |
+| 3 | [w_shaken_ca_subject_rdn_unknown](ISSUES/w_shaken_ca_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 ### Details
 
@@ -140,4 +140,4 @@
 | 20 Aug 21 00:00 UTC | TransNexus, Inc. SHAKEN Root CA1 | true | [view](CERTS/59ab943f4e8c3c17755cc8e4abb5ac65736ce74ec587c62cb744ab0babbbe2fe/README.md) |
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

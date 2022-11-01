@@ -3,8 +3,8 @@
 ## Sansay
 
 Name: w_cp_1_3_subject_email\
-Source: United States SHAKEN CP\
-Citation: United States SHAKEN Certificate Policy / 3.2 Initial Identity Validation\
+Source: US_SHAKEN_CP\
+Citation: United States SHAKEN Certificate Policy v1.1 / 3.2 Initial Identity Validation\
 Effective Date: 06 Jul 20 00:00 UTC\
 Description: Information that is not verified shall not be included in certificates
 
@@ -64,4 +64,4 @@ Description: Information that is not verified shall not be included in certifica
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

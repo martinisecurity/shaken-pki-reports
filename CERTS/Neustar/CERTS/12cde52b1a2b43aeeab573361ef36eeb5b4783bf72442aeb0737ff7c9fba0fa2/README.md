@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 473G
 
-Tested At: 01 Nov 22 16:29 UTC\
+Tested At: 01 Nov 22 16:52 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 193 day(s)\
 Subject: CN=SHAKEN 473G, O=Telengy LLC, C=US\
@@ -14,9 +14,9 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2BzCCAqKgAwIBAg
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall not include extensions that are not specified |
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

@@ -3,7 +3,7 @@
 ## Comcast
 
 Name: e_atis_root_authority_key_identifier\
-Source: ATIS-1000080\
+Source: ATIS1000080\
 Citation: ATIS-1000080.v003 / 6.4.1 SHAKEN Certificate Requirements\
 Effective Date: 04 Sep 20 00:00 UTC\
 Description: For root certificates that contain an Authority Key Identifier extension, the Authority Key Identifier shall contain a keyIdentifier field with a value that matches the Subject Key Identifier value of the same root certificate
@@ -19,4 +19,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | Comcast SHAKEN Root CA | [view](../../CERTS/b1132c5f12c3ca4d2ff119f2df99544336eb1703512ac99cc42d596e25125bbd/README.md) |  |
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

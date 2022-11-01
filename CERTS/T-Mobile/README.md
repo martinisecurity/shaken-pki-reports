@@ -24,13 +24,13 @@
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
-| 1 | [e_atis_basic_constraints](ISSUES/e_atis_basic_constraints/README.md) | ATIS-1000080 |
-| 1 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS-1000080 |
-| 1 | [e_atis_extension_unknown](ISSUES/e_atis_extension_unknown/README.md) | ATIS-1000080 |
-| 1 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS-1000080 |
-| 1 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | United States SHAKEN CP |
-| 1 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | United States SHAKEN CP |
-| 1 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN PKI Best Practice |
+| 1 | [e_atis_basic_constraints](ISSUES/e_atis_basic_constraints/README.md) | ATIS1000080 |
+| 1 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
+| 1 | [e_atis_extension_unknown](ISSUES/e_atis_extension_unknown/README.md) | ATIS1000080 |
+| 1 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
+| 1 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
+| 1 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 1 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
 
@@ -49,25 +49,25 @@
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
-| 2 | [e_atis_basic_constraints](ISSUES/e_atis_basic_constraints/README.md) | ATIS-1000080 |
-| 1 | [e_atis_ca_authority_key_identifier](ISSUES/e_atis_ca_authority_key_identifier/README.md) | ATIS-1000080 |
-| 1 | [e_atis_ca_certificate_policies](ISSUES/e_atis_ca_certificate_policies/README.md) | ATIS-1000080 |
-| 1 | [e_atis_ca_crl_distribution](ISSUES/e_atis_ca_crl_distribution/README.md) | ATIS-1000080 |
-| 1 | [e_atis_ca_extension_unknown](ISSUES/e_atis_ca_extension_unknown/README.md) | ATIS-1000080 |
-| 2 | [e_atis_ca_issuer_dn](ISSUES/e_atis_ca_issuer_dn/README.md) | ATIS-1000080 |
-| 2 | [e_atis_ca_key_usage](ISSUES/e_atis_ca_key_usage/README.md) | ATIS-1000080 |
-| 2 | [e_atis_ca_serial_number](ISSUES/e_atis_ca_serial_number/README.md) | ATIS-1000080 |
-| 2 | [e_atis_ca_signature_algorithm](ISSUES/e_atis_ca_signature_algorithm/README.md) | ATIS-1000080 |
-| 2 | [e_atis_ca_subject](ISSUES/e_atis_ca_subject/README.md) | ATIS-1000080 |
-| 2 | [e_atis_ca_subject_cn](ISSUES/e_atis_ca_subject_cn/README.md) | ATIS-1000080 |
-| 2 | [e_atis_ca_subject_key_identifier](ISSUES/e_atis_ca_subject_key_identifier/README.md) | ATIS-1000080 |
-| 2 | [e_atis_ca_subject_public_key](ISSUES/e_atis_ca_subject_public_key/README.md) | ATIS-1000080 |
-| 2 | [e_atis_ca_version](ISSUES/e_atis_ca_version/README.md) | ATIS-1000080 |
-| 1 | [e_atis_root_authority_key_identifier](ISSUES/e_atis_root_authority_key_identifier/README.md) | ATIS-1000080 |
-| 1 | [e_atis_root_certificate_policies](ISSUES/e_atis_root_certificate_policies/README.md) | ATIS-1000080 |
-| 1 | [e_atis_root_extension_unknown](ISSUES/e_atis_root_extension_unknown/README.md) | ATIS-1000080 |
-| 2 | [e_us_cp_ca_key_usage_crl_sign](ISSUES/e_us_cp_ca_key_usage_crl_sign/README.md) | United States SHAKEN CP |
-| 1 | [n_atis_ca_certificate_policy_critical](ISSUES/n_atis_ca_certificate_policy_critical/README.md) | ATIS-1000080 |
+| 2 | [e_atis_basic_constraints](ISSUES/e_atis_basic_constraints/README.md) | ATIS1000080 |
+| 1 | [e_atis_ca_authority_key_identifier](ISSUES/e_atis_ca_authority_key_identifier/README.md) | ATIS1000080 |
+| 1 | [e_atis_ca_certificate_policies](ISSUES/e_atis_ca_certificate_policies/README.md) | ATIS1000080 |
+| 1 | [e_atis_ca_crl_distribution](ISSUES/e_atis_ca_crl_distribution/README.md) | ATIS1000080 |
+| 1 | [e_atis_ca_extension_unknown](ISSUES/e_atis_ca_extension_unknown/README.md) | ATIS1000080 |
+| 2 | [e_atis_ca_issuer_dn](ISSUES/e_atis_ca_issuer_dn/README.md) | ATIS1000080 |
+| 2 | [e_atis_ca_key_usage](ISSUES/e_atis_ca_key_usage/README.md) | ATIS1000080 |
+| 2 | [e_atis_ca_serial_number](ISSUES/e_atis_ca_serial_number/README.md) | ATIS1000080 |
+| 2 | [e_atis_ca_signature_algorithm](ISSUES/e_atis_ca_signature_algorithm/README.md) | ATIS1000080 |
+| 2 | [e_atis_ca_subject](ISSUES/e_atis_ca_subject/README.md) | ATIS1000080 |
+| 2 | [e_atis_ca_subject_cn](ISSUES/e_atis_ca_subject_cn/README.md) | ATIS1000080 |
+| 2 | [e_atis_ca_subject_key_identifier](ISSUES/e_atis_ca_subject_key_identifier/README.md) | ATIS1000080 |
+| 2 | [e_atis_ca_subject_public_key](ISSUES/e_atis_ca_subject_public_key/README.md) | ATIS1000080 |
+| 2 | [e_atis_ca_version](ISSUES/e_atis_ca_version/README.md) | ATIS1000080 |
+| 1 | [e_atis_root_authority_key_identifier](ISSUES/e_atis_root_authority_key_identifier/README.md) | ATIS1000080 |
+| 1 | [e_atis_root_certificate_policies](ISSUES/e_atis_root_certificate_policies/README.md) | ATIS1000080 |
+| 1 | [e_atis_root_extension_unknown](ISSUES/e_atis_root_extension_unknown/README.md) | ATIS1000080 |
+| 2 | [e_us_cp_ca_key_usage_crl_sign](ISSUES/e_us_cp_ca_key_usage_crl_sign/README.md) | US_SHAKEN_CP |
+| 1 | [n_atis_ca_certificate_policy_critical](ISSUES/n_atis_ca_certificate_policy_critical/README.md) | ATIS1000080 |
 
 ### Details
 
@@ -85,4 +85,4 @@
 | 27 Sep 19 17:12 UTC | TMOBILE-PROD-SUB-STIRSHAKEN-EC | true | [view](CERTS/4378a3f136510465232246b4d6a72d600db7e11117ac0e3d59c65528f47c9c4f/README.md) |
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

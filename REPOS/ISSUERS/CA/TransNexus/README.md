@@ -8,7 +8,7 @@
 - 0.00% of repositories contain one or more Error level issue
 - 0.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 11ms average time it took to download each certificate
+- 14ms average time it took to download each certificate
 
 No issues found
 
@@ -343,4 +343,4 @@ No issues found
 | `https://certificates.transnexus.com/952J/b81c5f3e-5577-44d2-a22e-5bcfb144b13e.pem` | false | [view](REPOS/93cf6db42066e90ae8fe18a6f8bddee4303a09e3/README.md) |
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

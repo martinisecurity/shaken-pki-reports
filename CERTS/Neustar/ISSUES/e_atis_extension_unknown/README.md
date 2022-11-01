@@ -3,7 +3,7 @@
 ## Neustar
 
 Name: e_atis_extension_unknown\
-Source: ATIS-1000080\
+Source: ATIS1000080\
 Citation: Citation\
 Effective Date: 16 Jan 22 00:00 UTC\
 Description: STI certificate shall not include extensions that are not specified
@@ -80,7 +80,6 @@ Description: STI certificate shall not include extensions that are not specified
 | error | SHAKEN 219K | [view](../../CERTS/fc1a6306ba8c8e009e014efbcf859e5740cae4ebfac67e9628ef65e16209c9b1/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 804J | [view](../../CERTS/b6ee8f5ec7b9c2d085d1e950408477af3a3647a513dbfe0cbfcc7585fb7e1763/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 023K | [view](../../CERTS/930eea9676ea20bbbf31176053b4990fd6e912ab6c7bfe0fa2619b6f5c0ce864/README.md) | STI certificate shall not include extensions that are not specified |
-| not effective | SHAKEN 707J | [view](../../CERTS/c7147aa6470ad570fbfad019dfbd93dab8c0a0a1e727797519a70d97b8ce5253/README.md) |  |
 | not effective | 846B | [view](../../CERTS/91646ad947e19e7b3501103e2d65a5e66ab7bc806c8bb7d4e87cce23ef668183/README.md) |  |
 | not effective | SHAKEN-6744 | [view](../../CERTS/414671d6f2e7beffdd958279b4cb2e705c5ee59f107aa1fb7b2a06008ae117b6/README.md) |  |
 | error | SHAKEN 500J | [view](../../CERTS/25393ddb6f4b6a42df56e2cafbff0fa710e60bbdf94d37561290cdb6e66f28d1/README.md) | STI certificate shall not include extensions that are not specified |
@@ -110,4 +109,4 @@ Description: STI certificate shall not include extensions that are not specified
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

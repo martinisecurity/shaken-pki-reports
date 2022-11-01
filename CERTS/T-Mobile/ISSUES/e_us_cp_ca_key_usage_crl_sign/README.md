@@ -3,8 +3,8 @@
 ## T-Mobile
 
 Name: e_us_cp_ca_key_usage_crl_sign\
-Source: United States SHAKEN CP\
-Citation: United States SHAKEN Certificate Policy / 4.9 Certificate Revocation and Suspension\
+Source: US_SHAKEN_CP\
+Citation: United States SHAKEN Certificate Policy v1.1 / 4.9 Certificate Revocation and Suspension\
 Effective Date: 07 Apr 20 00:00 UTC\
 Description: The model for managing and communicating the status of revoked certificates is in the form of a distributed Certificate Revocation List (CRL) that is maintained by the STI-PA as described in ATIS-1000080
 
@@ -20,4 +20,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | TMOBILE-PROD-ROOT-STIRSHAKEN-EC | [view](../../CERTS/d54b8c44268da3eaee9c5483c289652d1bd7f82420891114475470adebf8bf1e/README.md) |  |
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

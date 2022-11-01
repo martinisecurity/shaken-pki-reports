@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 073K
 
-Tested At: 01 Nov 22 16:29 UTC\
+Tested At: 01 Nov 22 16:53 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: 57 day(s)\
 Subject: O=ACS Business Systems\\, Inc., C=US, serialNumber=26B223248528C08FD107CA236F21268A, CN=SHAKEN 073K\
@@ -14,7 +14,7 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDJjCCAs2gAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [n_atis_certificate_policy_critical](../../ISSUES/n_atis_certificate_policy_critical/README.md) | notice | ATIS&#x2011;1000080 | STI certificates should contain a CertificatePolicies extension marked uncritical |
+| [n_atis_certificate_policy_critical](../../ISSUES/n_atis_certificate_policy_critical/README.md) | notice | ATIS1000080 | STI certificates should contain a CertificatePolicies extension marked uncritical |
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

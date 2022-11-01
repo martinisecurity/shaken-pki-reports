@@ -3,8 +3,8 @@
 ## Ribbon Communications
 
 Name: e_us_cp_ambiguous_identifier\
-Source: United States SHAKEN CP\
-Citation: United States SHAKEN Certificate Policy / 3.1 Naming\
+Source: US_SHAKEN_CP\
+Citation: United States SHAKEN Certificate Policy v1.1 / 3.1 Naming\
 Effective Date: 07 Apr 20 00:00 UTC\
 Description: Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject
 
@@ -21,4 +21,4 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

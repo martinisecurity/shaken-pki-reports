@@ -10,7 +10,7 @@
 - 30.79% of repositories contain one or more Error level issue
 - 47.59% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 85ms average time it took to download each certificate
+- 374ms average time it took to download each certificate
 
 ### CA Operated Repositories
 
@@ -20,7 +20,7 @@
 - 22.90% of repositories contain one or more Error level issue
 - 41.61% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 45ms average time it took to download each certificate
+- 365ms average time it took to download each certificate
 
 ### Service Provider Operated Repositories
 
@@ -30,7 +30,7 @@
 - 94.37% of repositories contain one or more Error level issue
 - 95.77% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 411ms average time it took to download each certificate
+- 444ms average time it took to download each certificate
 
 ## Details
 
@@ -63,7 +63,6 @@
 | [Baltimore-Washington Telephone Company](ISSUERS/SP/Baltimore-Washington_Telephone_Company/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [Bandwidth.com CLEC LLC](ISSUERS/SP/Bandwidth.com_CLEC_LLC/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [Bulk Solutions, LLC](ISSUERS/SP/Bulk_Solutions,_LLC/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
-| [Charter Communications Inc SHAKEN 5606](ISSUERS/SP/Charter_Communications_Inc_SHAKEN_5606/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [Clearly IP](ISSUERS/SP/Clearly_IP/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [Commio](ISSUERS/SP/Commio/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [Company Name](ISSUERS/SP/Company_Name/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
@@ -108,7 +107,7 @@
 | [TextNow Inc.](ISSUERS/SP/TextNow_Inc./README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [TransNexus](ISSUERS/SP/TransNexus/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [U. S. Telepacific Corp](ISSUERS/SP/U._S._Telepacific_Corp/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
-| [Unknown](ISSUERS/SP/Unknown/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
+| [Unknown](ISSUERS/SP/Unknown/README.md) | 2 (2.82%) | 2 (2.82%) | 2 (2.82%) | 0 (0.00%) |
 | [VOIP ESSENTIAL INC](ISSUERS/SP/VOIP_ESSENTIAL_INC/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
 | [Verizon Data Services LLC](ISSUERS/SP/Verizon_Data_Services_LLC/README.md) | 1 (1.41%) | 0 (0.00%) | 1 (1.41%) | 0 (0.00%) |
 | [Vibratel](ISSUERS/SP/Vibratel/README.md) | 1 (1.41%) | 1 (1.41%) | 1 (1.41%) | 0 (0.00%) |
@@ -132,4 +131,4 @@
 | Notices | Tests in which industry best practices are not followed. |
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

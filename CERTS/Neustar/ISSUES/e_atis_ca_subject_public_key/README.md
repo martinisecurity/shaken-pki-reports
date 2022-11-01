@@ -3,7 +3,7 @@
 ## Neustar
 
 Name: e_atis_ca_subject_public_key\
-Source: ATIS-1000080\
+Source: ATIS1000080\
 Citation: ATIS-1000080.v003 / 6.4.1 SHAKEN Certificate Requirements\
 Effective Date: 04 Sep 20 00:00 UTC\
 Description: STI certificates shall contain a Subject Public Key Info field specifying a Public Key Algorithm of "id-ecPublicKey" and containing a 256-bit public key
@@ -20,4 +20,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | Neustar Certified Caller ID Root CA | [view](../../CERTS/4a77c17cd411cb0ff2984b97687f75ab1db451ac7b717ab81c931351c2d547a1/README.md) |  |
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

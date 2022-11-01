@@ -3,8 +3,8 @@
 ## Comcast
 
 Name: e_us_cp_ca_key_usage_crl_sign\
-Source: United States SHAKEN CP\
-Citation: United States SHAKEN Certificate Policy / 4.9 Certificate Revocation and Suspension\
+Source: US_SHAKEN_CP\
+Citation: United States SHAKEN Certificate Policy v1.1 / 4.9 Certificate Revocation and Suspension\
 Effective Date: 07 Apr 20 00:00 UTC\
 Description: The model for managing and communicating the status of revoked certificates is in the form of a distributed Certificate Revocation List (CRL) that is maintained by the STI-PA as described in ATIS-1000080
 
@@ -20,4 +20,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | Comcast SHAKEN Root CA | [view](../../CERTS/b1132c5f12c3ca4d2ff119f2df99544336eb1703512ac99cc42d596e25125bbd/README.md) |  |
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

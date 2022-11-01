@@ -3,7 +3,7 @@
 ## Comcast
 
 Name: e_atis_ca_crl_distribution\
-Source: ATIS-1000080\
+Source: ATIS1000080\
 Citation: ATIS-1000080.v004 / 6.4.1 STI Certificate Requirements\
 Effective Date: 18 Oct 21 00:00 UTC\
 Description: STI intermediate certificates shall contain a CRL Distribution Points extension containing a single DistributionPoint entry
@@ -19,4 +19,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | Comcast SHAKEN Intermediate CA | [view](../../CERTS/2f3abdfe711377f4d59f31d941962797c61f021c3924af31de99031f9ac54f77/README.md) |  |
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

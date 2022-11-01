@@ -2,7 +2,7 @@
 
 ## Certificate frontier.com
 
-Tested At: 01 Nov 22 16:28 UTC\
+Tested At: 01 Nov 22 16:52 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 89 day(s)\
 Subject: C=US, ST=NY, L=Rochester, O=Support, OU=Communications, CN=frontier.com\
@@ -14,7 +14,7 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIID%2BzCCAuOgAwIBAg
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN PKI Best Practice | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
 ### Not Effective
@@ -41,4 +41,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIID%2BzCCAuOgAwIBAg
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

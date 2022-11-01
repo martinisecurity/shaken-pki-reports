@@ -3,7 +3,7 @@
 ## TransNexus
 
 Name: e_atis_extension_unknown\
-Source: ATIS-1000080\
+Source: ATIS1000080\
 Citation: Citation\
 Effective Date: 16 Jan 22 00:00 UTC\
 Description: STI certificate shall not include extensions that are not specified
@@ -20,4 +20,4 @@ Description: STI certificate shall not include extensions that are not specified
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

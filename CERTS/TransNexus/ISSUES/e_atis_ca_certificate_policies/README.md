@@ -3,7 +3,7 @@
 ## TransNexus
 
 Name: e_atis_ca_certificate_policies\
-Source: ATIS-1000080\
+Source: ATIS1000080\
 Citation: ATIS-1000080.v004 / 6.4.1 STI Certificate Requirements\
 Effective Date: 18 Oct 21 00:00 UTC\
 Description: STI Intermediate certificates shall include a Certificate Policies extension containing a single OID value that identifies the SHAKEN Certificate Policy established by the STI-PA
@@ -20,4 +20,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | TransNexus, Inc. SHAKEN Issuing CA1 | [view](../../CERTS/037a7c6621814bd5f01fa2080a77a245458694d9d566e0050e068fc853317857/README.md) |  |
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

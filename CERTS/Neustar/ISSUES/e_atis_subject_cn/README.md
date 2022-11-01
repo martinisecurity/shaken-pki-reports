@@ -3,7 +3,7 @@
 ## Neustar
 
 Name: e_atis_subject_cn\
-Source: ATIS-1000080\
+Source: ATIS1000080\
 Citation: ATIS-1000080.v004 / 6.4.1 STI Certificate Requirements\
 Effective Date: 16 Jan 22 00:00 UTC\
 Description: The Common Name attribute of an End-Entity certificate shall contain the text string “SHAKEN”, followed by a single space, followed by the SPC value identified in the TNAuthList of the End-Entity certificate
@@ -40,7 +40,6 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 | not effective | ReInvent | [view](../../CERTS/ffb808b6e361219b3f20bc740eae385eee965cd38ad8b7b4e425a0ed25c611ee/README.md) |  |
 | not effective | Shaken | [view](../../CERTS/58f3d6011c5d96eac83256a4c25ea4a085137b7bd6d4ba1acc246e4098c25ff9/README.md) |  |
 | not effective | Flowroute | [view](../../CERTS/ff098de1abec5c5569a38f6ad950c3e478009ddef15d3e456b0884ffaceb0cec/README.md) |  |
-| not effective | SHAKEN 707J | [view](../../CERTS/c7147aa6470ad570fbfad019dfbd93dab8c0a0a1e727797519a70d97b8ce5253/README.md) |  |
 | not effective | 846B | [view](../../CERTS/91646ad947e19e7b3501103e2d65a5e66ab7bc806c8bb7d4e87cce23ef668183/README.md) |  |
 | not effective | SHAKEN-6744 | [view](../../CERTS/414671d6f2e7beffdd958279b4cb2e705c5ee59f107aa1fb7b2a06008ae117b6/README.md) |  |
 | not effective | SHAKEN 775J | [view](../../CERTS/aaea251bd6d9305ec47058014214117750c0b0059a1d221f4e584e9b680aa560/README.md) |  |
@@ -51,4 +50,4 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

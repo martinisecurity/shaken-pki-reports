@@ -3,7 +3,7 @@
 ## Sansay
 
 Name: w_shaken_ca_subject_rdn_unknown\
-Source: SHAKEN PKI Best Practice\
+Source: SHAKEN_PKI_BEST_PRACTICES\
 Citation: SHAKEN PKI Best Practice\
 Effective Date: 01 Jan 00 00:00 UTC\
 Description: Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject. However, the names should be meaningful meaningful enough to represent the SP to whom the certificate is being issued, in a manner similar to that used to identify SP’s equipment in the network.
@@ -20,4 +20,4 @@ no warning, or error, or not effective date level issues were found
 | warn | SHAKEN Sansay Root CA US | [view](../../CERTS/8356d251b255f4ac3fd108bb79be4c02dcea2d3b13d138892bdb3a70cbe6a343/README.md) | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

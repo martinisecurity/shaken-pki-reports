@@ -3,7 +3,7 @@
 ## Metaswitch
 
 Name: e_atis_issuer_dn\
-Source: ATIS-1000080\
+Source: ATIS1000080\
 Citation: ATIS-1000080.v003 / 6.4.1 SHAKEN Certificate Requirements\
 Effective Date: 03 Dec 20 00:00 UTC\
 Description: The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute. Other DN attributes are optional
@@ -39,4 +39,4 @@ Description: The DN shall contain a Country (C=) attribute, a Common Name (CN=) 
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

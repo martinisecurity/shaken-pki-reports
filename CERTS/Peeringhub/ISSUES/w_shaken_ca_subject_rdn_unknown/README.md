@@ -3,7 +3,7 @@
 ## Peeringhub
 
 Name: w_shaken_ca_subject_rdn_unknown\
-Source: SHAKEN PKI Best Practice\
+Source: SHAKEN_PKI_BEST_PRACTICES\
 Citation: SHAKEN PKI Best Practice\
 Effective Date: 01 Jan 00 00:00 UTC\
 Description: Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject. However, the names should be meaningful meaningful enough to represent the SP to whom the certificate is being issued, in a manner similar to that used to identify SP’s equipment in the network.
@@ -20,4 +20,4 @@ no warning, or error, or not effective date level issues were found
 | warn | Peeringhub Inc Root CA | [view](../../CERTS/0ad4adc0b4d93fdb0e628c577020c73b8a5caff750e7e499f80ee2ab362a3f6a/README.md) | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

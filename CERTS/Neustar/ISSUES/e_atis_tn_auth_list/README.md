@@ -3,7 +3,7 @@
 ## Neustar
 
 Name: e_atis_tn_auth_list\
-Source: ATIS-1000080\
+Source: ATIS1000080\
 Citation: ATIS-1000080.v003 / 6.4.1 SHAKEN Certificate Requirements\
 Effective Date: 03 Dec 20 00:00 UTC\
 Description: STI End-Entity certificates shall contain a TNAuthList extension as specified in RFC 8226. The TNAuthList shall contain a single SPC value
@@ -30,4 +30,4 @@ Description: STI End-Entity certificates shall contain a TNAuthList extension as
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

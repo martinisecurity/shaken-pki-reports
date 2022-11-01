@@ -3,7 +3,7 @@
 ## Comcast
 
 Name: w_shaken_ca_subject_rdn_unknown\
-Source: SHAKEN PKI Best Practice\
+Source: SHAKEN_PKI_BEST_PRACTICES\
 Citation: SHAKEN PKI Best Practice\
 Effective Date: 01 Jan 00 00:00 UTC\
 Description: Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject. However, the names should be meaningful meaningful enough to represent the SP to whom the certificate is being issued, in a manner similar to that used to identify SP’s equipment in the network.
@@ -20,4 +20,4 @@ no warning, or error, or not effective date level issues were found
 | warn | Comcast SHAKEN Root CA | [view](../../CERTS/b1132c5f12c3ca4d2ff119f2df99544336eb1703512ac99cc42d596e25125bbd/README.md) | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

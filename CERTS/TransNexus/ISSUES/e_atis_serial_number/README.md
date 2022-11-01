@@ -3,7 +3,7 @@
 ## TransNexus
 
 Name: e_atis_serial_number\
-Source: ATIS-1000080\
+Source: ATIS1000080\
 Citation: ATIS-1000080.v004 / 6.4.1 STI Certificate Requirements\
 Effective Date: 16 Jan 22 00:00 UTC\
 Description: STI certificates shall include a Serial Number field containing an integer greater than zero. The serial number shall contain at least 64 bits of output from a Cryptographically Secure PseudoRandom Number Generator (CSPRNG)
@@ -20,4 +20,4 @@ Description: STI certificates shall include a Serial Number field containing an 
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

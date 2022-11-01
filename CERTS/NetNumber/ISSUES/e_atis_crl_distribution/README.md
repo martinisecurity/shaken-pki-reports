@@ -3,7 +3,7 @@
 ## NetNumber
 
 Name: e_atis_crl_distribution\
-Source: ATIS-1000080\
+Source: ATIS1000080\
 Citation: ATIS-1000080.v003 / 6.4.1 SHAKEN Certificate Requirements\
 Effective Date: 03 Dec 20 00:00 UTC\
 Description: STI End-Entity certificates shall contain a CRL Distribution Points extension containing a single DistributionPoint entry
@@ -19,4 +19,4 @@ Description: STI End-Entity certificates shall contain a CRL Distribution Points
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23

@@ -3,7 +3,7 @@
 ## T-Mobile
 
 Name: e_atis_basic_constraints\
-Source: ATIS-1000080\
+Source: ATIS1000080\
 Citation: ATIS-1000080.v003 / 6.4.1 SHAKEN Certificate Requirements\
 Effective Date: 04 Sep 20 00:00 UTC\
 Description: STI certificates shall contain a Basic Constraints extension marked critical
@@ -22,4 +22,4 @@ Description: STI certificates shall contain a Basic Constraints extension marked
 | not effective | TMOBILE-PROD-ROOT-STIRSHAKEN-EC | [view](../../CERTS/d54b8c44268da3eaee9c5483c289652d1bd7f82420891114475470adebf8bf1e/README.md) |  |
 
 
-Generated: 01/11/2022 at 16:30:07
+Generated: 01/11/2022 at 17:00:23
