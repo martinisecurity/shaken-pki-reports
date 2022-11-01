@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 115K
 
-Tested At: 01 Nov 22 16:52 UTC\
+Tested At: 01 Nov 22 19:08 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: 9 day(s)\
+Remaining Validity Period: 8 day(s)\
 Subject: CN=SHAKEN 115K, OU=SHAKEN, O=RenterNET, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/115K/fc9eb1ec-7be6-4ebc-b2ac-d1727482970c.pem
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC6zCCApGgAwIBAgIQ
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 01/11/2022 at 17:00:23
+Generated: 01/11/2022 at 19:16:04

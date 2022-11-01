@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 770J
 
-Tested At: 01 Nov 22 16:52 UTC\
+Tested At: 01 Nov 22 19:08 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 359 day(s)\
 Subject: CN=SHAKEN 770J, O=Fuze Inc, C=US\
@@ -17,4 +17,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2FTCCAqKgAwIBAg
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 01/11/2022 at 17:00:23
+Generated: 01/11/2022 at 19:16:04

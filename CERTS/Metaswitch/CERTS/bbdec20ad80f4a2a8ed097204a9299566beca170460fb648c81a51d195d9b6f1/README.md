@@ -2,9 +2,9 @@
 
 ## Certificate RCN SHAKEN Cert 7615
 
-Tested At: 01 Nov 22 16:53 UTC\
+Tested At: 01 Nov 22 19:09 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 502 day(s)\
+Remaining Validity Period: 501 day(s)\
 Subject: CN=RCN SHAKEN Cert 7615, O=RCN, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://sti-cr.cgah.tnsi.com/certs/11d9e0e06eeaaf56fb9be54eec6aae5a8b3461fe
@@ -14,9 +14,9 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICQTCCAeegAwIBAgIQ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_atis_key_usage](../../ISSUES/e_atis_key_usage/README.md) | error | ATIS1000080 | The Key Usage extension shall contain a single key usage value of digitalSignature |
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_atis_issuer_dn](../../ISSUES/e_atis_issuer_dn/README.md) | error | ATIS1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 
 
@@ -30,4 +30,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICQTCCAeegAwIBAgIQ
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 01/11/2022 at 17:00:23
+Generated: 01/11/2022 at 19:16:04

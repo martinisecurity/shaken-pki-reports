@@ -20,4 +20,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | Metaswitch STI-CA SHAKEN Root | [view](../../CERTS/c27184f75f81fc119b85d51d416477bf635040e5d66ce6051799b37b9aa17485/README.md) |  |
 
 
-Generated: 01/11/2022 at 17:00:23
+Generated: 01/11/2022 at 19:16:04

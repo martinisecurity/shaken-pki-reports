@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 790J
 
-Tested At: 01 Nov 22 16:52 UTC\
+Tested At: 01 Nov 22 19:08 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: 5 day(s)\
 Subject: CN=SHAKEN 790J, OU=SHAKEN, O=Viirtue, C=US\
@@ -18,4 +18,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC6DCCAo%2BgAwIBAg
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 01/11/2022 at 17:00:23
+Generated: 01/11/2022 at 19:16:04

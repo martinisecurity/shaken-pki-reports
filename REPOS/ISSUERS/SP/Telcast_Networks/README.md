@@ -8,7 +8,7 @@
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 23ms average time it took to download each certificate
+- 17ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -20,4 +20,4 @@
 | `https://ssc.getsipnav.com/certs/9861b7e493ab608182e57524671889bf94cd2fc8` | true | [view](REPOS/848a32e386f70fb06fcecfdbeeccbc163b9e9427/README.md) |
 
 
-Generated: 01/11/2022 at 17:00:23
+Generated: 01/11/2022 at 19:16:04

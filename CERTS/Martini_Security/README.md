@@ -18,7 +18,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 57.14% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 155 days is the average remaining validity for the certificates in the corpus
+- 154 days is the average remaining validity for the certificates in the corpus
 - 129 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -69,4 +69,4 @@
 | 02 Oct 22 10:40 UTC | Martini Security SHAKEN G2 | true | [view](CERTS/bf818ddbd3ae492e4a85331b85b52f4d2cdef8287bf910b59e247b6c132fa7fd/README.md) |
 
 
-Generated: 01/11/2022 at 17:00:23
+Generated: 01/11/2022 at 19:16:04

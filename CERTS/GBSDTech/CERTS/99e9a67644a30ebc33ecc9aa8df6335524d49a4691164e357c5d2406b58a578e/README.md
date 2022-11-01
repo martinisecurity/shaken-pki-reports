@@ -2,7 +2,7 @@
 
 ## Certificate 1RouteGroup SHAKEN Intermediate CA
 
-Tested At: 01 Nov 22 17:00 UTC\
+Tested At: 01 Nov 22 19:16 UTC\
 Initial Validity Period: 7299 day(s)\
 Remaining Validity Period: 6755 day(s)\
 Subject: CN=1RouteGroup SHAKEN Intermediate CA, O=1RouteGroup, ST=Texas, C=US\
@@ -13,10 +13,10 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIB9zCCAZ2gAwIBAgIC
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_ca_authority_key_identifier](../../ISSUES/e_atis_ca_authority_key_identifier/README.md) | error | ATIS1000080 | STI certificates shall contain an Authority Key Identifier extension |
 | [e_ext_authority_key_identifier_missing](../../ISSUES/e_ext_authority_key_identifier_missing/README.md) | error | RFC5280 |  |
 | [e_ext_authority_key_identifier_no_key_identifier](../../ISSUES/e_ext_authority_key_identifier_no_key_identifier/README.md) | error | RFC5280 |  |
 | [w_shaken_ca_subject_rdn_unknown](../../ISSUES/w_shaken_ca_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| [e_atis_ca_authority_key_identifier](../../ISSUES/e_atis_ca_authority_key_identifier/README.md) | error | ATIS1000080 | STI certificates shall contain an Authority Key Identifier extension |
 
 
 ### Not Effective
@@ -30,4 +30,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIB9zCCAZ2gAwIBAgIC
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 01/11/2022 at 17:00:23
+Generated: 01/11/2022 at 19:16:04

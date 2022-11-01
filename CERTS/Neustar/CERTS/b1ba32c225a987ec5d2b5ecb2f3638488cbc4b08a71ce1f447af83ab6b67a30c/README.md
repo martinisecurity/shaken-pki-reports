@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 951J
 
-Tested At: 01 Nov 22 17:00 UTC\
+Tested At: 01 Nov 22 19:16 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 162 day(s)\
+Remaining Validity Period: 161 day(s)\
 Subject: CN=SHAKEN 951J, O=Zultys Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://zultys-pem-cert-2022.s3.amazonaws.com/89179fa533bbaf0aea20a9f31aa06f20.pem
@@ -15,8 +15,8 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2BzCCAqGgAwIBAg
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
+| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 01/11/2022 at 17:00:23
+Generated: 01/11/2022 at 19:16:04
