@@ -54,7 +54,7 @@ func PrintCertificateSummaryReport(w io.Writer, r *CertificateSummaryReport) {
 	fmt.Fprintln(w, "## Details")
 	fmt.Fprintln(w)
 	fmt.Fprintln(w, "\\* The percent of certificates per issuer is calculated against total certificates from all issuers.\\")
-	fmt.Fprintln(w, "\\*\\* The percent of errors, warnings and notices is calculated against total observed certificates.\\")
+	fmt.Fprintln(w, "\\*\\* The percent of errors, warnings and notices is calculated against total observed certificates from the specified issuer.\\")
 	fmt.Fprintln(w, "\\*\\*\\* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.")
 	fmt.Fprintln(w)
 	fmt.Fprintln(w, "### Leaf Certificates")
@@ -98,8 +98,8 @@ func PrintCertificateFindings(w io.Writer, r *CertificateGroupReport) {
 func PrintCertificateSummaryIssuers(w io.Writer, r *CertificateIssuersReport, anchor string) {
 	fmt.Fprintln(w, "| Issuers | Certificates | Errors | Warnings | Notices | Not Effective |")
 	fmt.Fprintln(w, "|---------|--------------|--------|----------|---------|---------------|")
-	print := func(amount int) string {
-		return fmt.Sprintf("%d (%0.2f%%)", amount, percent(amount, r.TestedAmount))
+	print := func(amount int, base int) string {
+		return fmt.Sprintf("%d (%0.2f%%)", amount, percent(amount, base))
 	}
 
 	// sort issuer names
@@ -116,19 +116,19 @@ func PrintCertificateSummaryIssuers(w io.Writer, r *CertificateIssuersReport, an
 		}
 		fmt.Fprintf(w, "| %s | %s | %s | %s | %s | %s |\n",
 			fmt.Sprintf("[%s](%s/%s/README.md#%s)", issuer.Name, DIR_CERTS, escapeMdLink(issuer.Name), anchor),
-			print(issuer.TestedAmount),
-			print(issuer.ErrorAmount),
-			print(issuer.WarnAmount),
-			print(issuer.NoticeAmount),
-			print(issuer.NotEffectiveAmount),
+			print(issuer.TestedAmount, r.TestedAmount),
+			print(issuer.ErrorAmount, issuer.TestedAmount),
+			print(issuer.WarnAmount, issuer.TestedAmount),
+			print(issuer.NoticeAmount, issuer.TestedAmount),
+			print(issuer.NotEffectiveAmount, issuer.TestedAmount),
 		)
 	}
 	fmt.Fprintf(w, "| **Total** | %s | %s | %s | %s | %s |\n",
-		print(r.TestedAmount),
-		print(r.ErrorAmount),
-		print(r.WarnAmount),
-		print(r.NoticeAmount),
-		print(r.NotEffectiveAmount),
+		print(r.TestedAmount, r.TestedAmount),
+		print(r.ErrorAmount, r.TestedAmount),
+		print(r.WarnAmount, r.TestedAmount),
+		print(r.NoticeAmount, r.TestedAmount),
+		print(r.NotEffectiveAmount, r.TestedAmount),
 	)
 }
 
@@ -536,8 +536,8 @@ func PrintSummaryDetails(w io.Writer, r *RepositoryIssuersReport) {
 	fmt.Fprintf(w, "| %s | Certificates | Errors | Warnings | Notices |\n", name)
 	fmt.Fprintln(w, "|----|--------------|--------|----------|---------|")
 
-	print := func(amount int) string {
-		return fmt.Sprintf("%d (%0.2f%%)", amount, percent(amount, r.TestedAmount))
+	print := func(amount int, base int) string {
+		return fmt.Sprintf("%d (%0.2f%%)", amount, percent(amount, base))
 	}
 
 	keys := []string{}
@@ -549,17 +549,17 @@ func PrintSummaryDetails(w io.Writer, r *RepositoryIssuersReport) {
 		issuer := r.Issuers[key]
 		fmt.Fprintf(w, "| %s | %s | %s | %s | %s |\n",
 			fmt.Sprintf("[%s](%s)", issuer.Name, path.Join(DIR_ISSUERS, dir, escapeMdLink(issuer.Name), "README.md")),
-			print(issuer.TestedAmount),
-			print(issuer.ErrorAmount),
-			print(issuer.WarnAmount),
-			print(issuer.NoticeAmount),
+			print(issuer.TestedAmount, r.TestedAmount),
+			print(issuer.ErrorAmount, issuer.TestedAmount),
+			print(issuer.WarnAmount, issuer.TestedAmount),
+			print(issuer.NoticeAmount, issuer.TestedAmount),
 		)
 	}
 	fmt.Fprintf(w, "| **Total** | %s | %s | %s | %s |\n",
-		print(r.TestedAmount),
-		print(r.ErrorAmount),
-		print(r.WarnAmount),
-		print(r.NoticeAmount),
+		print(r.TestedAmount, r.TestedAmount),
+		print(r.ErrorAmount, r.TestedAmount),
+		print(r.WarnAmount, r.TestedAmount),
+		print(r.NoticeAmount, r.TestedAmount),
 	)
 }
 
