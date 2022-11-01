@@ -54,7 +54,7 @@ func PrintCertificateSummaryReport(w io.Writer, r *CertificateSummaryReport) {
 	fmt.Fprintln(w, "## Details")
 	fmt.Fprintln(w)
 	fmt.Fprintln(w, "\\* The percent of certificates per issuer is calculated against total certificates from all issuers.\\")
-	fmt.Fprintln(w, "\\*\\* The percent of errors, warnings and notices is calculated against total observed certificates from the specified issuer.\\")
+	fmt.Fprintln(w, "\\*\\* The percent of errors, warnings and notices is calculated against total observed certificates.\\")
 	fmt.Fprintln(w, "\\*\\*\\* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.")
 	fmt.Fprintln(w)
 	fmt.Fprintln(w, "### Leaf Certificates")
