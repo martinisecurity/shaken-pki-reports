@@ -8,7 +8,7 @@
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 333ms average time it took to download each certificate
+- 200ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -20,4 +20,4 @@
 | `https://s3.amazonaws.com/certificates.peeringhub.io/288K/288K.crt` | true | [view](REPOS/54cf69374d263da8b04f59604c0a0c4b8e71ed64/README.md) |
 
 
-Generated: 01/11/2022 at 20:34:21
+Generated: 01/11/2022 at 22:19:34

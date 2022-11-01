@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 473G
 
-Tested At: 01 Nov 22 20:26 UTC\
+Tested At: 01 Nov 22 22:11 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 193 day(s)\
 Subject: CN=SHAKEN 473G, O=Telengy LLC, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2BzCCAqKgAwIBAg
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 01/11/2022 at 20:34:21
+Generated: 01/11/2022 at 22:19:34

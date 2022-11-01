@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Star2Star Communications, LLC 590J
 
-Tested At: 01 Nov 22 20:26 UTC\
+Tested At: 01 Nov 22 22:12 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 9 day(s)\
 Subject: CN=SHAKEN Star2Star Communications\\, LLC 590J, OU=BVPROD, O=Star2Star Communications\\, LLC, ST=Florida, C=US\
@@ -21,4 +21,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC8DCCApegAwIBAgIU
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 01/11/2022 at 20:34:21
+Generated: 01/11/2022 at 22:19:34

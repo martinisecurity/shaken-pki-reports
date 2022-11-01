@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 505J
 
-Tested At: 01 Nov 22 20:26 UTC\
+Tested At: 01 Nov 22 22:10 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: 54 day(s)\
 Subject: CN=SHAKEN 505J, OU=SHAKEN, O=HFA Services LLC dba Call48, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2FDCCAqOgAwIBAg
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 01/11/2022 at 20:34:21
+Generated: 01/11/2022 at 22:19:34

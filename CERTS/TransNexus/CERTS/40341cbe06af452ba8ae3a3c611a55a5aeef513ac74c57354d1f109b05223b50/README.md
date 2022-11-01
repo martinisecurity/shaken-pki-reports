@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 606F
 
-Tested At: 01 Nov 22 20:26 UTC\
+Tested At: 01 Nov 22 22:10 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: 6 day(s)\
+Remaining Validity Period: 5 day(s)\
 Subject: CN=SHAKEN 606F, OU=SHAKEN, O=Global Data Systems Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/756cb700-f9d2-4a05-850e-c9dfe3e22de4/dccffbc5c2aa54f5f8526ca234e29830.pem
@@ -18,4 +18,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2BjCCAqCgAwIBAg
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 01/11/2022 at 20:34:21
+Generated: 01/11/2022 at 22:19:34

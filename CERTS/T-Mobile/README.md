@@ -18,7 +18,7 @@
 - 100.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 311 days is the average remaining validity for the certificates in the corpus
+- 310 days is the average remaining validity for the certificates in the corpus
 - 366 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -85,4 +85,4 @@
 | 27 Sep 19 17:12 UTC | TMOBILE-PROD-SUB-STIRSHAKEN-EC | true | [view](CERTS/4378a3f136510465232246b4d6a72d600db7e11117ac0e3d59c65528f47c9c4f/README.md) |
 
 
-Generated: 01/11/2022 at 20:34:21
+Generated: 01/11/2022 at 22:19:34

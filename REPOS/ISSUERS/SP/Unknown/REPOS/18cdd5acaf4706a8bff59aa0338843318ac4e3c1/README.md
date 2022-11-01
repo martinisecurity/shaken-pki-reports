@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://shaken.spectrum.com/4d65efdb8a1ca366e9576c8fda747fa4.pem`\
-Tested At: 01 Nov 22 20:27 UTC\
-Time: 577ms
+Tested At: 01 Nov 22 22:12 UTC\
+Time: 307ms
 
 ### Issues
 
@@ -14,4 +14,4 @@ Time: 577ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 01/11/2022 at 20:34:21
+Generated: 01/11/2022 at 22:19:34

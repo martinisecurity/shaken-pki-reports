@@ -9,17 +9,17 @@
 
 #### Leaf Certificates
 
-- 7 certificates were included in the corpus being tested
+- 8 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 7 certificates being tested against the remaining rules
+- 8 certificates being tested against the remaining rules
 - 0.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
-- 57.14% of certificates contain one or more Notice level issue
+- 50.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 154 days is the average remaining validity for the certificates in the corpus
-- 129 days is the average initial validity for the certificates in the corpus
+- 147 days is the average remaining validity for the certificates in the corpus
+- 124 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
 | Instances | Test Status | Source |
@@ -59,6 +59,7 @@
 | 21 Oct 22 17:38 UTC | SHAKEN 709J | false | [view](CERTS/09e45414349c71ce7b7b92101e2de0607ebb989e096ccd861b4e8d37e4e72c2f/README.md) |
 | 21 Oct 22 19:21 UTC | SHAKEN 709J | false | [view](CERTS/254c9be0cd95dfe372f0a4117e166da225d468720851f54e3c3edef44480a3d6/README.md) |
 | 25 Oct 22 20:57 UTC | SHAKEN 073K | false | [view](CERTS/cf4ee8b8d56521071e2935ac9cb358738902b531589b8e19afcc43cd73c0f01f/README.md) |
+| 01 Nov 22 22:01 UTC | SHAKEN 223K | false | [view](CERTS/643004ffd41ca62fdd29de3af56544e8d9aa1fc6194c9160617a050136e69858/README.md) |
 
 #### CA Certificates
 
@@ -69,4 +70,4 @@
 | 02 Oct 22 10:40 UTC | Martini Security SHAKEN G2 | true | [view](CERTS/bf818ddbd3ae492e4a85331b85b52f4d2cdef8287bf910b59e247b6c132fa7fd/README.md) |
 
 
-Generated: 01/11/2022 at 20:34:21
+Generated: 01/11/2022 at 22:19:34

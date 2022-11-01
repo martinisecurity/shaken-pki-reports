@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://app.connexcs.com/api/stir-shaken/cert/41.crt`\
-Tested At: 01 Nov 22 20:25 UTC\
-Time: 827ms
+Tested At: 01 Nov 22 22:10 UTC\
+Time: 481ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 827ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 01/11/2022 at 20:34:21
+Generated: 01/11/2022 at 22:19:34

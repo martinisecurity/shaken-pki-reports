@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 785J
 
-Tested At: 01 Nov 22 20:27 UTC\
+Tested At: 01 Nov 22 22:12 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 94 day(s)\
+Remaining Validity Period: 93 day(s)\
 Subject: CN=SHAKEN 785J, O=Range Telecom, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/907a99e8008aa590695697cee73d401d4ef33451
@@ -14,9 +14,9 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2FjCCAqSgAwIBAg
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 01/11/2022 at 20:34:21
+Generated: 01/11/2022 at 22:19:34
