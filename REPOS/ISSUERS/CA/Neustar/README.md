@@ -2,18 +2,18 @@
 
 ## Neustar
 
-- 153 repositories were included in the corpus being tested
-- 99 repositories in the corpus were skipped because they were duplicated
-- 54 repositories being tested against the remaining rules
+- 155 repositories were included in the corpus being tested
+- 100 repositories in the corpus were skipped because they were duplicated
+- 55 repositories being tested against the remaining rules
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 81ms average time it took to download each certificate
+- 61ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
-| 54 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
-| 54 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 55 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
+| 55 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
 | Repository | Problems | Link |
 |------------|----------|------|
@@ -68,9 +68,10 @@
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11528.10146` | true | [view](REPOS/e62000202d91785dc783dcc0d707b56bf49e6084/README.md) |
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11535.10153` | true | [view](REPOS/faefbe487c50bf41ad3f5ab83a2e1b0dd5383677/README.md) |
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11538.10154` | true | [view](REPOS/dd87eb9657b835415b8c41cad14052a08f63e65a/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11540.10157` | true | [view](REPOS/f1c44a449e3453734578c0bf5bf0588956a0b193/README.md) |
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11541.10167` | true | [view](REPOS/f3ba97df1ae7c3015acf114793157e625ff48c92/README.md) |
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11544.10197` | true | [view](REPOS/9482604cd24f065a97901d6354388613070eeeef/README.md) |
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11553.10201` | true | [view](REPOS/62e3afacb90645592e3d4e7185b43407a653913e/README.md) |
 
 
-Generated: 01/11/2022 at 19:16:04
+Generated: 01/11/2022 at 20:31:14

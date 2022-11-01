@@ -2,10 +2,10 @@
 
 ## Sansay
 
-- 109 repositories were included in the corpus being tested
+- 113 repositories were included in the corpus being tested
 - 1 repositories in the corpus were skipped because they were duplicated
-- 108 repositories being tested against the remaining rules
-- 0.93% of repositories contain one or more Error level issue
+- 112 repositories being tested against the remaining rules
+- 0.89% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
 - 3ms average time it took to download each certificate
@@ -14,13 +14,15 @@
 |-----------|-------------|--------|
 | 1 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
 | 1 | [e_http_status_200](ISSUES/e_http_status_200/README.md) | HTTP |
-| 108 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 112 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 | 1 | [w_atis_pem_certificate_chain](ISSUES/w_atis_pem_certificate_chain/README.md) | ATIS-1000080 |
 
 | Repository | Problems | Link |
 |------------|----------|------|
 | `https://cr.sansay.com/016K/order/63_016K_115` | true | [view](REPOS/f1ae391c3972838829f272530e08ddbf1969be14/README.md) |
 | `https://cr.sansay.com/016K/order/76_016K_115` | true | [view](REPOS/90448036c30c18e935158f5cc354c600338f93b6/README.md) |
+| `https://cr.sansay.com/016K/order/79_016K_115` | true | [view](REPOS/e74fa707598cbf4d136a5feeb88e904ac3fdc854/README.md) |
+| `https://cr.sansay.com/086K/order/136_086K_91` | true | [view](REPOS/a876102d119b51661f21c704eca4c40de392e793/README.md) |
 | `https://cr.sansay.com/210J/order/162_210J_63` | true | [view](REPOS/4d4ea1dad41c473a080962fd0f4e311779ccf015/README.md) |
 | `https://cr.sansay.com/210J/order/163_210J_63` | true | [view](REPOS/fff5f85a72a27d08bd574d22d86c49322d052e4c/README.md) |
 | `https://cr.sansay.com/210J/order/164_210J_63` | true | [view](REPOS/2374d27b1c4695876605b70e4e9d3d99a24f87d4/README.md) |
@@ -79,6 +81,7 @@
 | `https://cr.sansay.com/862J/order/259_862J_58` | true | [view](REPOS/7e5f4a17e17bc6b2c0d4b9286230c371e5dd70f6/README.md) |
 | `https://cr.sansay.com/862J/order/261_862J_58` | true | [view](REPOS/ba12da89ebfed957781a20c9f8f2e7e74307d135/README.md) |
 | `https://cr.sansay.com/862J/order/270_862J_58` | true | [view](REPOS/1506ac003d4383881335aecc7f4fc22e324fdedc/README.md) |
+| `https://cr.sansay.com/862J/order/275_862J_58` | true | [view](REPOS/4d4f0b046f5f6b434f6b1243a10e19fa64488bb0/README.md) |
 | `https://cr.sansay.com/902J/order/39_902J_68` | true | [view](REPOS/8ad26b7ca9b80e816f1315d6fcd487d4c1bcfb18/README.md) |
 | `https://cr.sansay.com/902J/order/41_902J_68` | true | [view](REPOS/53a7fac0aa227d60862117c727283ceed9dd328a/README.md) |
 | `https://cr.sansay.com/902J/order/42_902J_68` | true | [view](REPOS/80ede8ff1258f074bf33da2b7aac2af633b56fac/README.md) |
@@ -99,6 +102,7 @@
 | `https://cr.sansay.com/Consolidated_5113.crt` | true | [view](REPOS/12b4609282ab4117f481fe6f9c064f3a775ffe9b/README.md) |
 | `https://cr.sansay.com/Current_Calls_LLC_746J` | true | [view](REPOS/15f81740e6546136bca839ee788160b36f9f1a77/README.md) |
 | `https://cr.sansay.com/Fonative_684J` | true | [view](REPOS/95f23c7869f56529a61d8e5af87f67cd36c9dd7f/README.md) |
+| `https://cr.sansay.com/Global_Net_Holdings_Inc_306K` | true | [view](REPOS/d4b267de3c41f70806e99311c2b106a642328e65/README.md) |
 | `https://cr.sansay.com/IDT_363A` | true | [view](REPOS/d2a41dcc224f4de6b9f87b145d64451804a77428/README.md) |
 | `https://cr.sansay.com/IPitomy_652J` | true | [view](REPOS/85d780a5fd535014612af2edb1734c9e6c063783/README.md) |
 | `https://cr.sansay.com/Inventive_Labs_Corp_649J` | true | [view](REPOS/f6251f27bd93a0b1201c4b846582875b3fb695d3/README.md) |
@@ -129,4 +133,4 @@
 | `https://cr.sansay.com/star2star_stirshaken_20220922` | true | [view](REPOS/9f19fc9d73b83395796f7e4f0d8a277010ab2fd7/README.md) |
 
 
-Generated: 01/11/2022 at 19:16:04
+Generated: 01/11/2022 at 20:31:14

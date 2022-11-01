@@ -9,27 +9,27 @@
 
 #### Leaf Certificates
 
-- 119 certificates were included in the corpus being tested
+- 123 certificates were included in the corpus being tested
 - 3 certificates in the corpus were skipped because they are duplicates
 - 25 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 91 certificates being tested against the remaining rules
+- 95 certificates being tested against the remaining rules
 - 100.00% of certificates contain one or more Error level issue
 - 100.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
 - 95 days is the average remaining validity for the certificates in the corpus
 - 96 days is the average initial validity for the certificates in the corpus
-- 71 certificates expire in the next 30 days
+- 74 certificates expire in the next 30 days
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
-| 91 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
-| 91 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
-| 91 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 91 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
-| 46 | [w_cp_1_3_subject_email](ISSUES/w_cp_1_3_subject_email/README.md) | US_SHAKEN_CP |
-| 91 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
+| 95 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
+| 95 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
+| 95 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
+| 95 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 49 | [w_cp_1_3_subject_email](ISSUES/w_cp_1_3_subject_email/README.md) | US_SHAKEN_CP |
+| 95 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
 
@@ -85,6 +85,7 @@
 | 11 Oct 22 17:08 UTC | SHAKEN ALD Telecom 780J | true | [view](CERTS/53a14081c994555770bb8c5f3d160f89cf427258c9598d569c388a74bde6ea8f/README.md) |
 | 11 Oct 22 17:14 UTC | SHAKEN Technology Innovation Lab 599J | true | [view](CERTS/07d98b6eeb180548fa10e06aedbd69ce0816a1040344c91d25b8dcf29f68e7e6/README.md) |
 | 11 Oct 22 17:17 UTC | SHAKEN Current Calls, LLC 746J | true | [view](CERTS/52d6a93a1b72d2f2980699e759068dd9dbc8314c953e03613f18d9da1dcf156d/README.md) |
+| 11 Oct 22 17:18 UTC | SHAKEN Global Net Holdings Inc 306K | true | [view](CERTS/7a67400c89c424c8f378f841d333cdd9d94ecc2e681339608615d0aee51a959c/README.md) |
 | 11 Oct 22 17:19 UTC | SHAKEN Connexum LLC 203K | true | [view](CERTS/1f823041acaec58b2c428be26eb8240228b6fd2b4d4d85436959aeda41bfe6a7/README.md) |
 | 11 Oct 22 17:19 UTC | SHAKEN Inventive Labs Corp 649J | true | [view](CERTS/a2f02cfef1eba726cf7dbd0f018a1119d40600aba568619f16b4c08b8d3a7c12/README.md) |
 | 11 Oct 22 17:20 UTC | SHAKEN Carrier One Inc. 705J | true | [view](CERTS/a7447339990a198aac3d84ed38d80706e16b7aac171e6d6bd1b28275fe7c337e/README.md) |
@@ -155,10 +156,13 @@
 | 27 Oct 22 19:32 UTC | SHAKEN Zray Technologies Corporation 862J | true | [view](CERTS/67f53328009e04f0f6e9412d26d0c77eeeac1e3106e5598dd5a5a21493b4f999/README.md) |
 | 27 Oct 22 20:11 UTC | SHAKEN Mitel Cloud Services, Inc. 670J | true | [view](CERTS/e45c92abcfe2fe6d0863200900b66e835aa98712f974efe3837e34d787f2ad5e/README.md) |
 | 28 Oct 22 01:32 UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | true | [view](CERTS/9ab18008bc722a7eefa9a015f462aa24ccedac3b667a5425ba9ec3b124ce5909/README.md) |
+| 28 Oct 22 06:07 UTC | SHAKEN NTC International, INC 016K | true | [view](CERTS/fd05b359b2354a6ee27eef74636343f0d0e5ea19f1f64fc8e082a1a190cb34d9/README.md) |
 | 28 Oct 22 16:05 UTC | SHAKEN Quality Voice & Data Inc. 548J | true | [view](CERTS/fc9997a29b7cfedf5a4d3c899d7ab2ef73e316e8c83ad2efa997d33e34e7d6f5/README.md) |
 | 28 Oct 22 16:39 UTC | SHAKEN InteractiveTel, LLC 920J | true | [view](CERTS/65d9f8a0ca34ff759de8d65a7db8f81b4d66880b0c05969c777496942e309f12/README.md) |
 | 30 Oct 22 15:55 UTC | SHAKEN Quality Voice & Data Inc. 548J | true | [view](CERTS/c171a9efe723a6e1c3e773cba35e79b6eec435d305017ff54e088ba63c3d0828/README.md) |
 | 31 Oct 22 15:50 UTC | SHAKEN Quality Voice & Data Inc. 548J | true | [view](CERTS/a079e0fcf48c3f26620d8674a59ed2320f58dafee72d4984ef6548e7be9b000c/README.md) |
+| 31 Oct 22 20:18 UTC | SHAKEN Cyberlynk Network, LLC 086K | true | [view](CERTS/081c6b3caf13a694f3dc2feaaa56193480879b726acc425e65d8fb37a3e28cbc/README.md) |
+| 01 Nov 22 19:07 UTC | SHAKEN Zray Technologies Corporation 862J | true | [view](CERTS/3a227acdee5e639036b62df263e132c42bb684a9d6273fe6611464dbe434b2db/README.md) |
 
 #### CA Certificates
 
@@ -168,4 +172,4 @@
 | 02 Sep 22 20:53 UTC | SHAKEN Sansay Intermediate CA US WEST 1 | true | [view](CERTS/4b1dfdba2b1e4bbffbf900a20f1f6f7befbef0008b963e4922a64469cb97d24b/README.md) |
 
 
-Generated: 01/11/2022 at 19:16:04
+Generated: 01/11/2022 at 20:31:14

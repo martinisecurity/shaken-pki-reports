@@ -41,6 +41,7 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 | error | SHAKEN | [view](../../CERTS/2750a59b74cbb4082d06dc5c8a297b7a211f318bef6a3f79a5cb194e8f5547fe/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 | error | SHAKEN | [view](../../CERTS/8b259dd4c8adee7126f6d77d613a73d8e123a155ea3455a9531f86ef8572aa0e/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 | error | SHAKEN | [view](../../CERTS/b0c45f73954a4e38e300e41c38ce976628c64c2388298b5fdd227bc3d1e0e32e/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
+| error | SHAKEN | [view](../../CERTS/672077a75a58fb6c5d6bb8f067812b721dbad767c682832c2fa646e43ffd36b6/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 | error | SHAKEN | [view](../../CERTS/af6785002cd605e314824b90e6e06e3e39bb849078865200001a86382c0dd370/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 | error | SHAKEN | [view](../../CERTS/753a9492590251d2621c7d0ca1debbbb708d93027dca45ea69f3dfa251819eda/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 | error | SHAKEN | [view](../../CERTS/5eaa41cb4d2988f9518bc9d580a9c548dd41a6d7e12ba89c919fc302ca3ebaa4/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
@@ -51,6 +52,7 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 | error | SHAKEN | [view](../../CERTS/107165d254b42351095a42289be894289212c27f44c959eed5bfb209c91de6d0/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 | error | SHAKEN | [view](../../CERTS/748774b40fe43fdc9b29363b0bdf107884b3447e2110f8429cc6b893993c1bd2/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 | error | SHAKEN | [view](../../CERTS/e7aad6234dba0ba07582d87288a9444c111ae6ad4451ea85dc26c966d307c02e/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
+| error | SHAKEN | [view](../../CERTS/a47b02b168a680b892b4ce263af30b19632ac8b8d62b1ef29c055c6f20f4ed01/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 | error | SHAKEN | [view](../../CERTS/b08ca401227d50e851c405102296f6f2476c3583f0e622e94536011f74d5f23d/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 | error | SHAKEN | [view](../../CERTS/6073c26c2c63fa39c8e02de6010827d8bd5509e6f110a6218841a19e813e86d5/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 | error | SHAKEN | [view](../../CERTS/0d091abfa7776698a16efd051c855907fae95fea780154634f1b988fce868b56/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
@@ -61,4 +63,4 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 01/11/2022 at 19:16:04
+Generated: 01/11/2022 at 20:31:14

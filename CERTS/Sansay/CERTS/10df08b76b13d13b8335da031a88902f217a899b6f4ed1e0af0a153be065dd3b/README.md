@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J
 
-Tested At: 01 Nov 22 19:08 UTC\
+Tested At: 01 Nov 22 20:30 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 4 day(s)\
 Subject: emailAddress=voiceops@clearfly.net, CN=SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J, OU=NOC, O=Greenfly Networks Inc dba Clearfly Communications, ST=Montana, C=US, emailAddress=voiceops@clearfly.net\
@@ -22,4 +22,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIID6zCCA5CgAwIBAgIU
 | [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 210J' |
 
 
-Generated: 01/11/2022 at 19:16:04
+Generated: 01/11/2022 at 20:31:14

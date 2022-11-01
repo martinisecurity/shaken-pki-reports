@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 611J
 
-Tested At: 01 Nov 22 19:08 UTC\
+Tested At: 01 Nov 22 20:30 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 233 day(s)\
 Subject: CN=SHAKEN 611J, O=Telcast Networks, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDAjCCAqegAwIBAgIU
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 01/11/2022 at 19:16:04
+Generated: 01/11/2022 at 20:31:14

@@ -2,7 +2,7 @@
 
 ## Certificate Appalachian Wireless SHAKEN Cert 6940
 
-Tested At: 01 Nov 22 19:11 UTC\
+Tested At: 01 Nov 22 20:31 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 566 day(s)\
 Subject: CN=Appalachian Wireless SHAKEN Cert 6940, O=Appalachian Wireless, C=US\
@@ -14,9 +14,9 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICZDCCAgmgAwIBAgIQ
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | [e_atis_key_usage](../../ISSUES/e_atis_key_usage/README.md) | error | ATIS1000080 | The Key Usage extension shall contain a single key usage value of digitalSignature |
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | [e_atis_issuer_dn](../../ISSUES/e_atis_issuer_dn/README.md) | error | ATIS1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 
 
@@ -30,4 +30,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICZDCCAgmgAwIBAgIQ
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 01/11/2022 at 19:16:04
+Generated: 01/11/2022 at 20:31:14

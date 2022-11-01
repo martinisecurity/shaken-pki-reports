@@ -9,29 +9,29 @@
 
 #### Leaf Certificates
 
-- 51 certificates were included in the corpus being tested
+- 53 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
 - 8 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 43 certificates being tested against the remaining rules
+- 45 certificates being tested against the remaining rules
 - 100.00% of certificates contain one or more Error level issue
 - 100.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
 - 29 days is the average remaining validity for the certificates in the corpus
 - 30 days is the average initial validity for the certificates in the corpus
-- 43 certificates expire in the next 30 days
+- 45 certificates expire in the next 30 days
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
-| 43 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
+| 45 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
 | 1 | [e_atis_serial_number](ISSUES/e_atis_serial_number/README.md) | ATIS1000080 |
-| 43 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
-| 43 | [e_atis_subject_key_identifier](ISSUES/e_atis_subject_key_identifier/README.md) | ATIS1000080 |
-| 43 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 43 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
-| 43 | [w_ext_subject_key_identifier_missing_sub_cert](ISSUES/w_ext_subject_key_identifier_missing_sub_cert/README.md) | RFC5280 |
-| 43 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
+| 45 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
+| 45 | [e_atis_subject_key_identifier](ISSUES/e_atis_subject_key_identifier/README.md) | ATIS1000080 |
+| 45 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
+| 45 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 45 | [w_ext_subject_key_identifier_missing_sub_cert](ISSUES/w_ext_subject_key_identifier_missing_sub_cert/README.md) | RFC5280 |
+| 45 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
 
@@ -119,6 +119,8 @@
 | 29 Oct 22 13:29 UTC | SHAKEN | true | [view](CERTS/af6785002cd605e314824b90e6e06e3e39bb849078865200001a86382c0dd370/README.md) |
 | 31 Oct 22 11:12 UTC | SHAKEN | true | [view](CERTS/cf1f5b80441df2551cfa967ecd684687eb9ea9dd5ce30a4035c8646cdb966c59/README.md) |
 | 31 Oct 22 13:30 UTC | SHAKEN | true | [view](CERTS/3d44d0a8d9179445f0ac646cceb3f6a3566f63e2bed4ec08b58a017b063fa36d/README.md) |
+| 01 Nov 22 11:12 UTC | SHAKEN | true | [view](CERTS/672077a75a58fb6c5d6bb8f067812b721dbad767c682832c2fa646e43ffd36b6/README.md) |
+| 01 Nov 22 13:29 UTC | SHAKEN | true | [view](CERTS/a47b02b168a680b892b4ce263af30b19632ac8b8d62b1ef29c055c6f20f4ed01/README.md) |
 
 #### CA Certificates
 
@@ -128,4 +130,4 @@
 | 06 Apr 20 13:48 UTC | Comcast SHAKEN Intermediate CA | true | [view](CERTS/2f3abdfe711377f4d59f31d941962797c61f021c3924af31de99031f9ac54f77/README.md) |
 
 
-Generated: 01/11/2022 at 19:16:04
+Generated: 01/11/2022 at 20:31:14

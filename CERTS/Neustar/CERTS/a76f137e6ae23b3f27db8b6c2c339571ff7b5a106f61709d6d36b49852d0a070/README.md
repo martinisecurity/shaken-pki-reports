@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN
 
-Tested At: 01 Nov 22 19:07 UTC\
+Tested At: 01 Nov 22 20:29 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 257 day(s)\
 Subject: C=US, ST=NC, L=Raleigh, O=Bandwidth.com CLEC LLC, OU=Prod, CN=SHAKEN\
@@ -40,4 +40,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIID%2BDCCAuCgAwIBAg
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 01/11/2022 at 19:16:04
+Generated: 01/11/2022 at 20:31:14

@@ -75,6 +75,7 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 | error | SHAKEN 5447 | [view](../../CERTS/2e3df7cab0124f9c13fa56485daf2d8f8d6bc98cd9b07c15ca02ffceccbc1072/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN 821J | [view](../../CERTS/3e6046796b5cc7710e323960eff671ce5e0e2aef1b21e8657e0c3564e09877e1/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN 473G | [view](../../CERTS/12cde52b1a2b43aeeab573361ef36eeb5b4783bf72442aeb0737ff7c9fba0fa2/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | SHAKEN 772J | [view](../../CERTS/644bdc695198227f9a5bedb1c70aab96c11416e2ca996c0cbeb03a906cbc54d6/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN 854J | [view](../../CERTS/4535b112c5d3933f3d71bc6e4cc98a71479c9618690d778c85c170cf41422e76/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN 235K | [view](../../CERTS/cad17de4a8e16887b31ad2c62a00554e87f43ee1a45f477fa4193b3cfb1fe281/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN 219K | [view](../../CERTS/fc1a6306ba8c8e009e014efbcf859e5740cae4ebfac67e9628ef65e16209c9b1/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
@@ -100,7 +101,6 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 | error | PRD | [view](../../CERTS/d81e85538a8dc39d06fa99ded608ea70df6631e79431ec10fc7b4173cee3b991/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 | error | SHAKEN 704J | [view](../../CERTS/7d6ad3d1bfc3820ad65514ccd15606e93f9df5c8732fe3e374b3e3522c40cf57/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN 939H | [view](../../CERTS/a9ff363f03fba28c1972002e99200ecd750e4aaf59fa7302e39b8777be615e08/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| error | SHAKEN 772J | [view](../../CERTS/644bdc695198227f9a5bedb1c70aab96c11416e2ca996c0cbeb03a906cbc54d6/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN 951J | [view](../../CERTS/b1ba32c225a987ec5d2b5ecb2f3638488cbc4b08a71ce1f447af83ab6b67a30c/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 ### CA Certificates
@@ -108,4 +108,4 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 01/11/2022 at 19:16:04
+Generated: 01/11/2022 at 20:31:14

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 963J
 
-Tested At: 01 Nov 22 19:07 UTC\
+Tested At: 01 Nov 22 20:29 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 156 day(s)\
 Subject: CN=SHAKEN 963J, O=Freevoice, C=US\
@@ -14,9 +14,9 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2BzCCAqCgAwIBAg
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 01/11/2022 at 19:16:04
+Generated: 01/11/2022 at 20:31:14

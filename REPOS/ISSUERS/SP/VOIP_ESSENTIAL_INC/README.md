@@ -2,22 +2,18 @@
 
 ## VOIP ESSENTIAL INC
 
-- 1 repositories were included in the corpus being tested
-- 0 repositories in the corpus were skipped because they were duplicated
-- 1 repositories being tested against the remaining rules
-- 100.00% of repositories contain one or more Error level issue
-- 100.00% of repositories contain one or more Warning level issue
-- 0.00% of repositories contain one or more Notice level issue
-- 89ms average time it took to download each certificate
+- 2 repositories were included in the corpus being tested
+- 2 repositories in the corpus were skipped because they were duplicated
+- 0 repositories being tested against the remaining rules
+- NaN% of repositories contain one or more Error level issue
+- NaN% of repositories contain one or more Warning level issue
+- NaN% of repositories contain one or more Notice level issue
+- NaNms average time it took to download each certificate
 
-| Instances | Test Status | Source |
-|-----------|-------------|--------|
-| 1 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
-| 1 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+No issues found
 
 | Repository | Problems | Link |
 |------------|----------|------|
-| `https://www.voipessential.com/shaken/DFE323WW43Q656QWLMD` | true | [view](REPOS/89dcb49688a6eb12e01582bbe7639fb54faa2802/README.md) |
 
 
-Generated: 01/11/2022 at 19:16:04
+Generated: 01/11/2022 at 20:31:14

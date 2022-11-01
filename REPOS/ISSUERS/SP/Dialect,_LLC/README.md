@@ -8,7 +8,7 @@
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 200ms average time it took to download each certificate
+- 184ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -20,4 +20,4 @@
 | `https://app.batchdialer.com/shakenv2.crt` | true | [view](REPOS/6fd781e3603162b54ef0b670c971d3c86db18721/README.md) |
 
 
-Generated: 01/11/2022 at 19:16:04
+Generated: 01/11/2022 at 20:31:14

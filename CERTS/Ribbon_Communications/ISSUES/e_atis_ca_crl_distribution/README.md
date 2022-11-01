@@ -19,4 +19,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | SHAKEN Ribbon Issuing CA | [view](../../CERTS/05a71a04eaedbdf4b0534f40768616d7c19c8deb5a3aefd1f4a04b3aab55a48f/README.md) |  |
 
 
-Generated: 01/11/2022 at 19:16:04
+Generated: 01/11/2022 at 20:31:14

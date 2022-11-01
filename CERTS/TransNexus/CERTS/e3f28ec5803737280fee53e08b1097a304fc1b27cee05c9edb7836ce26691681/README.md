@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 366G
 
-Tested At: 01 Nov 22 19:08 UTC\
+Tested At: 01 Nov 22 20:29 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: 2 day(s)\
+Remaining Validity Period: 1 day(s)\
 Subject: CN=SHAKEN 366G, OU=SHAKEN, O=USA Digital, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/e9497931-96b3-4ff8-8306-1b1273847a4d/664da3349fd259a9a51e89e03db614e0.pem
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC7TCCApOgAwIBAgIQ
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 01/11/2022 at 19:16:04
+Generated: 01/11/2022 at 20:31:14
