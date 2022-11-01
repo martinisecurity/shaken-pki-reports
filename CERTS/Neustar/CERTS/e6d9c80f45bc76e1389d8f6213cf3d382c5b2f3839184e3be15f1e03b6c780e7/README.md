@@ -2,7 +2,7 @@
 
 ## Certificate vonage
 
-Tested At: 01 Nov 22 07:31 UTC\
+Tested At: 01 Nov 22 09:57 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 48 day(s)\
 Subject: C=US, ST=NJ, L=Holmdel, O=Vonage Eng, OU=Vonage Eng, CN=vonage\
@@ -41,4 +41,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIID8jCCAtqgAwIBAgIU
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 01/11/2022 at 07:33:04
+Generated: 01/11/2022 at 10:05:32

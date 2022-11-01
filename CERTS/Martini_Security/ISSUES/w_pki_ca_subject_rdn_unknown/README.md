@@ -21,4 +21,4 @@ no warning, or error, or not effective date level issues were found
 | warn | Martini Security SHAKEN R1 | [view](../../CERTS/6077e368b0a0e4b6076eaa07ce67d6652ef310c4757776b76af84a6a9e003cdf/README.md) | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 01/11/2022 at 07:33:04
+Generated: 01/11/2022 at 10:05:32

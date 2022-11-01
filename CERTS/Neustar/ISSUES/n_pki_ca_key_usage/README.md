@@ -24,4 +24,4 @@ no warning, or error, or not effective date level issues were found
 | notice | Neustar Certified Caller ID SHAKEN Root CA | [view](../../CERTS/4c728d18b628cc67dda5490e0b4aa8ef4ba679f96d033f34f1680e219e0806c3/README.md) | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 
 
-Generated: 01/11/2022 at 07:33:04
+Generated: 01/11/2022 at 10:05:32

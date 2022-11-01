@@ -12,6 +12,7 @@ Description: STI certificates shall contain an Authority Key Identifier extensio
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
+| not effective | digitalipvoice.com | [view](../../CERTS/b95967027d535f36fc40bb91a16bc17d7fe58af8fa14d922a1c9daed9933443a/README.md) |  |
 | not effective | SHAKEN | [view](../../CERTS/a76f137e6ae23b3f27db8b6c2c339571ff7b5a106f61709d6d36b49852d0a070/README.md) |  |
 | not effective | SHAKEN | [view](../../CERTS/158c61d4da5ed8d0aaef7582d9a821a358a22ec2f241d449ecdab2e35ccf2fad/README.md) |  |
 | not effective | Inteliquent.com | [view](../../CERTS/f1c1fe53212d9bd9b211b83c698572a9019078dd441e9e78638e55714dcafaab/README.md) |  |
@@ -29,4 +30,4 @@ Description: STI certificates shall contain an Authority Key Identifier extensio
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 01/11/2022 at 07:33:04
+Generated: 01/11/2022 at 10:05:32

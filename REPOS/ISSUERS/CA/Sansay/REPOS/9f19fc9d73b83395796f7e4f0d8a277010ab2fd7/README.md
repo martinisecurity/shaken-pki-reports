@@ -3,8 +3,8 @@
 ## Sansay
 
 Name: `https://cr.sansay.com/star2star_stirshaken_20220922`\
-Tested At: 01 Nov 22 07:32 UTC\
-Time: 35ms
+Tested At: 01 Nov 22 09:58 UTC\
+Time: 64ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 35ms
 |------|------|--------|---------|
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 01/11/2022 at 07:33:04
+Generated: 01/11/2022 at 10:05:32

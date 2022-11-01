@@ -2,7 +2,7 @@
 
 ## Certificate Segra SHAKEN Cert 1784
 
-Tested At: 01 Nov 22 07:32 UTC\
+Tested At: 01 Nov 22 10:03 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 564 day(s)\
 Subject: CN=Segra SHAKEN Cert 1784, O=Segra, C=US\
@@ -31,4 +31,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICRDCCAeugAwIBAgIQ
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 01/11/2022 at 07:33:04
+Generated: 01/11/2022 at 10:05:32

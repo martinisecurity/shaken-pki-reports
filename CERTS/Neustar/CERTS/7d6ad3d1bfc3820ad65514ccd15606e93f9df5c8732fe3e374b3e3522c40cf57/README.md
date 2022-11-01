@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 704J
 
-Tested At: 01 Nov 22 07:33 UTC\
+Tested At: 01 Nov 22 10:05 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 212 day(s)\
 Subject: CN=SHAKEN 704J, O=Clearly IP, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2BjCCAqGgAwIBAg
 | [e_cp1_3_subject_sn](../../ISSUES/e_cp1_3_subject_sn/README.md) | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 01/11/2022 at 07:33:04
+Generated: 01/11/2022 at 10:05:32

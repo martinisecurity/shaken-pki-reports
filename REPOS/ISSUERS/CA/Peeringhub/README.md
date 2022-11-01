@@ -8,7 +8,7 @@
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 112ms average time it took to download each certificate
+- 49ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -22,4 +22,4 @@
 | `https://certificates.peeringhub.io/744J/744J.crt` | true | [view](REPOS/3af0a5123d6850e5aa936da2adc555ea47a5274c/README.md) |
 
 
-Generated: 01/11/2022 at 07:33:04
+Generated: 01/11/2022 at 10:05:32

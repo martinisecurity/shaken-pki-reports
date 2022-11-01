@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 785J
 
-Tested At: 01 Nov 22 07:32 UTC\
+Tested At: 01 Nov 22 09:58 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 94 day(s)\
 Subject: CN=SHAKEN 785J, O=Range Telecom, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2FjCCAqSgAwIBAg
 | [e_sti_certificate_policies](../../ISSUES/e_sti_certificate_policies/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 01/11/2022 at 07:33:04
+Generated: 01/11/2022 at 10:05:32

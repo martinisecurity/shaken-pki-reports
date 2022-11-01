@@ -20,4 +20,4 @@ no warning, or error, or not effective date level issues were found
 | notice | SHAKEN Ribbon Root CA | [view](../../CERTS/7c2799d3642d04f04fe667c3ab251c18689af323acdc43b2fa5f3dc89e3a0f14/README.md) | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 
 
-Generated: 01/11/2022 at 07:33:04
+Generated: 01/11/2022 at 10:05:32

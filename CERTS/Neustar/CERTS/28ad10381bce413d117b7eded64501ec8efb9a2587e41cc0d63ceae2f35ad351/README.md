@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 402E
 
-Tested At: 01 Nov 22 07:31 UTC\
+Tested At: 01 Nov 22 09:57 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 191 day(s)\
 Subject: CN=SHAKEN 402E, O=IP Networked Services Inc, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDCTCCArCgAwIBAgIU
 | [e_cp1_3_subject_sn](../../ISSUES/e_cp1_3_subject_sn/README.md) | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 01/11/2022 at 07:33:04
+Generated: 01/11/2022 at 10:05:32

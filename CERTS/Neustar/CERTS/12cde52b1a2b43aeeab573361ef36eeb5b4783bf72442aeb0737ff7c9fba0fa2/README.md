@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 473G
 
-Tested At: 01 Nov 22 07:31 UTC\
+Tested At: 01 Nov 22 09:57 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 194 day(s)\
 Subject: CN=SHAKEN 473G, O=Telengy LLC, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2BzCCAqKgAwIBAg
 | [e_sti_extension_unknown](../../ISSUES/e_sti_extension_unknown/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 01/11/2022 at 07:33:04
+Generated: 01/11/2022 at 10:05:32

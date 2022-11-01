@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 821J
 
-Tested At: 01 Nov 22 07:31 UTC\
+Tested At: 01 Nov 22 09:57 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 190 day(s)\
 Subject: CN=SHAKEN 821J, O=Bluerock Communications, C=US\
@@ -14,9 +14,9 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDBzCCAq6gAwIBAgIU
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_sti_certificate_policies](../../ISSUES/e_sti_certificate_policies/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_sti_extension_unknown](../../ISSUES/e_sti_extension_unknown/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall not include extensions that are not specified |
+| [e_sti_certificate_policies](../../ISSUES/e_sti_certificate_policies/README.md) | error | ATIS&#x2011;1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_cp1_3_subject_sn](../../ISSUES/e_cp1_3_subject_sn/README.md) | error | United States SHAKEN CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 01/11/2022 at 07:33:04
+Generated: 01/11/2022 at 10:05:32

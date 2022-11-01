@@ -20,4 +20,4 @@ no warning, or error, or not effective date level issues were found
 | notice | TMOBILE-PROD-ROOT-STIRSHAKEN-EC | [view](../../CERTS/d54b8c44268da3eaee9c5483c289652d1bd7f82420891114475470adebf8bf1e/README.md) | For CA certificates, the Key Usage extension should contain a single key usage value of keyCertSign |
 
 
-Generated: 01/11/2022 at 07:33:04
+Generated: 01/11/2022 at 10:05:32

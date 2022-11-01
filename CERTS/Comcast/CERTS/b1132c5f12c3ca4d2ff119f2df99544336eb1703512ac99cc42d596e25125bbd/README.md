@@ -2,7 +2,7 @@
 
 ## Certificate Comcast SHAKEN Root CA
 
-Tested At: 01 Nov 22 07:33 UTC\
+Tested At: 01 Nov 22 10:05 UTC\
 Initial Validity Period: 7300 day(s)\
 Remaining Validity Period: 6342 day(s)\
 Subject: CN=Comcast SHAKEN Root CA, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US\
@@ -37,4 +37,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICNzCCAdygAwIBAgIJ
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 01/11/2022 at 07:33:04
+Generated: 01/11/2022 at 10:05:32

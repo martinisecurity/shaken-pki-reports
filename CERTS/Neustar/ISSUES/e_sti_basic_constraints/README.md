@@ -12,6 +12,7 @@ Description: STI certificates shall contain a Basic Constraints extension marked
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
+| not effective | digitalipvoice.com | [view](../../CERTS/b95967027d535f36fc40bb91a16bc17d7fe58af8fa14d922a1c9daed9933443a/README.md) |  |
 | not effective | SHAKEN | [view](../../CERTS/a76f137e6ae23b3f27db8b6c2c339571ff7b5a106f61709d6d36b49852d0a070/README.md) |  |
 | not effective | Inteliquent.com | [view](../../CERTS/f1c1fe53212d9bd9b211b83c698572a9019078dd441e9e78638e55714dcafaab/README.md) |  |
 | not effective | alticeusa.com | [view](../../CERTS/5254d4ab17f12340d76d15e07e4b3f881b4c6ffd1fd1c2147b26ede27098ad9d/README.md) |  |
@@ -30,4 +31,4 @@ Description: STI certificates shall contain a Basic Constraints extension marked
 | not effective | Neustar Certified Caller ID Root CA | [view](../../CERTS/4a77c17cd411cb0ff2984b97687f75ab1db451ac7b717ab81c931351c2d547a1/README.md) |  |
 
 
-Generated: 01/11/2022 at 07:33:04
+Generated: 01/11/2022 at 10:05:32
