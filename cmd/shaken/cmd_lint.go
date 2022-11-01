@@ -470,8 +470,10 @@ func LintCertificate(c *x509.Certificate) (*zlint.ResultSet, error) {
 				lint.ShakenPKI,
 			},
 			ExcludeNames: []string{
-				"e_sti_crl_distribution_not_reachable",
-				"e_sti_ca_crl_distribution_not_reachable",
+				// disable CRL tests for speed increasing
+				"e_atis_crl_distribution_not_reachable",
+				"e_atis_ca_crl_distribution_not_reachable",
+
 				"w_distribution_point_missing_ldap_or_uri",
 			},
 		})
