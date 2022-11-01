@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 0226
 
-Tested At: 01 Nov 22 20:29 UTC\
+Tested At: 01 Nov 22 20:26 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: 1 day(s)\
 Subject: CN=SHAKEN 0226, OU=SHAKEN, O=Lumos Networks, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC8TCCApagAwIBAgIQ
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 01/11/2022 at 20:31:14
+Generated: 01/11/2022 at 20:34:21

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 402E
 
-Tested At: 01 Nov 22 20:30 UTC\
+Tested At: 01 Nov 22 20:26 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 190 day(s)\
 Subject: CN=SHAKEN 402E, O=IP Networked Services Inc, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDCTCCArCgAwIBAgIU
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 01/11/2022 at 20:31:14
+Generated: 01/11/2022 at 20:34:21

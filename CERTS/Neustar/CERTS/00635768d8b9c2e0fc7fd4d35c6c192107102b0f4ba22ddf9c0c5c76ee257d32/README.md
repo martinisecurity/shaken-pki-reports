@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 506J
 
-Tested At: 01 Nov 22 20:30 UTC\
+Tested At: 01 Nov 22 20:26 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 72 day(s)\
 Subject: CN=SHAKEN 506J, O=Twilio International, C=US\
@@ -28,4 +28,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDBTCCAqugAwIBAgIU
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 01/11/2022 at 20:31:14
+Generated: 01/11/2022 at 20:34:21

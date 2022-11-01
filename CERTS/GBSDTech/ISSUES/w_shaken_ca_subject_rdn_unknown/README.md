@@ -20,4 +20,4 @@ no warning, or error, or not effective date level issues were found
 | warn | GBSDTech SHAKEN Root CA | [view](../../CERTS/6d2bee73a01c1c9fe92273ff8ba56e0c870b7b901cbebcc9e12226fc109e1af9/README.md) | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 01/11/2022 at 20:31:14
+Generated: 01/11/2022 at 20:34:21

@@ -2,7 +2,7 @@
 
 ## Certificate digitalipvoice.com
 
-Tested At: 01 Nov 22 20:29 UTC\
+Tested At: 01 Nov 22 20:25 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 251 day(s)\
 Subject: C=US, ST=FL, L=Tampa, O=Digital IP Voice, OU=Service Division, CN=digitalipvoice.com\
@@ -40,4 +40,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIECDCCAvCgAwIBAgIU
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 01/11/2022 at 20:31:14
+Generated: 01/11/2022 at 20:34:21

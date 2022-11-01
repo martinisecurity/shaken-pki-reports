@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN-6744
 
-Tested At: 01 Nov 22 20:30 UTC\
+Tested At: 01 Nov 22 20:27 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 496 day(s)\
 Subject: C=US, ST=GA, L=Atlanta, O=Southern Linc, OU=Voice and Signaling, CN=SHAKEN-6744\
@@ -30,4 +30,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIEAzCCAuugAwIBAgIU
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 01/11/2022 at 20:31:14
+Generated: 01/11/2022 at 20:34:21

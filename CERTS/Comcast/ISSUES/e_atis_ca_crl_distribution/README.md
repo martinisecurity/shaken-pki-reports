@@ -19,4 +19,4 @@ no warning, or error, or not effective date level issues were found
 | not effective | Comcast SHAKEN Intermediate CA | [view](../../CERTS/2f3abdfe711377f4d59f31d941962797c61f021c3924af31de99031f9ac54f77/README.md) |  |
 
 
-Generated: 01/11/2022 at 20:31:14
+Generated: 01/11/2022 at 20:34:21

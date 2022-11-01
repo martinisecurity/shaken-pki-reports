@@ -2,7 +2,7 @@
 
 ## Certificate TMOBILE-PROD-ROOT-STIRSHAKEN-EC
 
-Tested At: 01 Nov 22 20:31 UTC\
+Tested At: 01 Nov 22 20:34 UTC\
 Initial Validity Period: 9131 day(s)\
 Remaining Validity Period: 7992 day(s)\
 Subject: CN=TMOBILE-PROD-ROOT-STIRSHAKEN-EC, O=TMOBILE-USA, C=US\
@@ -35,4 +35,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIICBjCCAaugAwIBAgIC
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 01/11/2022 at 20:31:14
+Generated: 01/11/2022 at 20:34:21

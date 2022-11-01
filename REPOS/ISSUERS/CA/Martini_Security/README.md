@@ -8,7 +8,7 @@
 - 0.00% of repositories contain one or more Error level issue
 - 0.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 76ms average time it took to download each certificate
+- 114ms average time it took to download each certificate
 
 No issues found
 
@@ -23,4 +23,4 @@ No issues found
 | `https://p.mtsec.me/2dd5/U-o0Vt0ZT1yl.pem` | false | [view](REPOS/de15a9a3bef6c1d3ef2f6423f1ad3b83bdf02bc1/README.md) |
 
 
-Generated: 01/11/2022 at 20:31:14
+Generated: 01/11/2022 at 20:34:21

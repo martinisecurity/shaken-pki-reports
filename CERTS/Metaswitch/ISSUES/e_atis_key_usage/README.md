@@ -39,4 +39,4 @@ Description: STI certificates shall contain a Key Usage extension marked as crit
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 01/11/2022 at 20:31:14
+Generated: 01/11/2022 at 20:34:21

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 701J
 
-Tested At: 01 Nov 22 20:30 UTC\
+Tested At: 01 Nov 22 20:27 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 141 day(s)\
 Subject: CN=SHAKEN 701J, O=MASH Telecom Inc, C=CA\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDATCCAqegAwIBAgIU
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 01/11/2022 at 20:31:14
+Generated: 01/11/2022 at 20:34:21

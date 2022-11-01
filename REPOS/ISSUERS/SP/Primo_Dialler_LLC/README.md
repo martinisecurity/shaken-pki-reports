@@ -8,7 +8,7 @@
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 159ms average time it took to download each certificate
+- 155ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -20,4 +20,4 @@
 | `https://app.connexcs.com/api/stir-shaken/cert/45.crt` | true | [view](REPOS/2260b336dfad8a7a8197566bbca1f4ce46bb7dea/README.md) |
 
 
-Generated: 01/11/2022 at 20:31:14
+Generated: 01/11/2022 at 20:34:21

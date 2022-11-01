@@ -8,7 +8,7 @@
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 60ms average time it took to download each certificate
+- 76ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -22,4 +22,4 @@
 | `https://cr.xcastlabs.net/1668234600/xclsshaken.pem` | true | [view](REPOS/5039332f8883f8c1e5d71a6bc53ffcedbd71cf74/README.md) |
 
 
-Generated: 01/11/2022 at 20:31:14
+Generated: 01/11/2022 at 20:34:21
