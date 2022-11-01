@@ -426,30 +426,36 @@ func PrintRepositoryIssuerUrlReport(w io.Writer, issuer *RepositoryIssuerReport,
 	fmt.Fprintln(w, "### Issues")
 	fmt.Fprintln(w)
 	r := item.UrlResult.Results
-	if len(r) > 0 {
-		fmt.Fprintln(w, "| Code | Type | Source | Details |")
-		fmt.Fprintln(w, "|------|------|--------|---------|")
-		keys := []string{}
-		for key := range r {
-			keys = append(keys, key)
-		}
-		sort.Strings(keys)
 
-		for _, key := range keys {
-			issue := r[key]
-			if issue.Status == uLint.Error ||
-				issue.Status == uLint.Warn ||
-				issue.Status == uLint.Notice {
-				l := uLint.FindRuleByName(key)
-				fmt.Fprintf(w, "| %s | %s | %s | %s |\n",
-					fmt.Sprintf("[%s](%s)", key, path.Join("..", "..", DIR_ISSUES, key, "README.md")),
-					issue.Status,
-					l.Source,
-					issue.Details,
-				)
+	keys := []string{}
+	for key := range r {
+		keys = append(keys, key)
+	}
+	sort.Strings(keys)
+
+	first := true
+	for _, key := range keys {
+		issue := r[key]
+		if issue.Status == uLint.Error ||
+			issue.Status == uLint.Warn ||
+			issue.Status == uLint.Notice {
+			if first {
+				fmt.Fprintln(w, "| Code | Type | Source | Details |")
+				fmt.Fprintln(w, "|------|------|--------|---------|")
+				first = false
 			}
+
+			l := uLint.FindRuleByName(key)
+			fmt.Fprintf(w, "| %s | %s | %s | %s |\n",
+				fmt.Sprintf("[%s](%s)", key, path.Join("..", "..", DIR_ISSUES, key, "README.md")),
+				issue.Status,
+				l.Source,
+				issue.Details,
+			)
 		}
-	} else {
+	}
+
+	if first {
 		fmt.Fprintln(w, "no warning, or error, or notice date level issues were found")
 	}
 
