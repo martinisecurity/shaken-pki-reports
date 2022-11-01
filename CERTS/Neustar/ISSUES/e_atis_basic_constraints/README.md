@@ -31,4 +31,4 @@ Description: STI certificates shall contain a Basic Constraints extension marked
 | not effective | Neustar Certified Caller ID Root CA | [view](../../CERTS/4a77c17cd411cb0ff2984b97687f75ab1db451ac7b717ab81c931351c2d547a1/README.md) |  |
 
 
-Generated: 01/11/2022 at 22:19:34
+Generated: 01/11/2022 at 22:50:57

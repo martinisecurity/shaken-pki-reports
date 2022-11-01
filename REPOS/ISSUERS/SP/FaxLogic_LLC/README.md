@@ -5,10 +5,11 @@
 - 1 repositories were included in the corpus being tested
 - 0 repositories in the corpus were skipped because they were duplicated
 - 1 repositories being tested against the remaining rules
+- 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 97ms average time it took to download each certificate
+- 107ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -20,4 +21,4 @@
 | `https://cdn.pgxn.net/sti/20230701.cer` | true | [view](REPOS/a53e33fcfe25c28abe6cc6b3f1286bfb5879edaa/README.md) |
 
 
-Generated: 01/11/2022 at 22:19:34
+Generated: 01/11/2022 at 22:50:57

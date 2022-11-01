@@ -5,10 +5,11 @@
 - 1 repositories were included in the corpus being tested
 - 0 repositories in the corpus were skipped because they were duplicated
 - 1 repositories being tested against the remaining rules
+- 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 225ms average time it took to download each certificate
+- 228ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -20,4 +21,4 @@
 | `https://zultys-pem-cert-2022.s3.amazonaws.com/89179fa533bbaf0aea20a9f31aa06f20.pem` | true | [view](REPOS/4ed8d495a221bcbbdf144e87de3a5d2564330c33/README.md) |
 
 
-Generated: 01/11/2022 at 22:19:34
+Generated: 01/11/2022 at 22:50:57

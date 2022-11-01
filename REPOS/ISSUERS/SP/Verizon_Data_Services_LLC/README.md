@@ -5,10 +5,11 @@
 - 1 repositories were included in the corpus being tested
 - 0 repositories in the corpus were skipped because they were duplicated
 - 1 repositories being tested against the remaining rules
+- 1.00 issues on average found in non-compliant certificate repository URLs
 - 0.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 266ms average time it took to download each certificate
+- 92ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -19,4 +20,4 @@
 | `https://sti.verizon.com/vzwcert/vzshaken-02-2024.crt` | true | [view](REPOS/3c993e5ab26bb9e246ceac061b199e01aa2501c1/README.md) |
 
 
-Generated: 01/11/2022 at 22:19:34
+Generated: 01/11/2022 at 22:50:57

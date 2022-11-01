@@ -14,6 +14,7 @@
 - 2 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
 - 3 certificates being tested against the remaining rules
+- 5.67 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 33.33% of certificates contain one or more Warning level issue
 - 100.00% of certificates contain one or more Notice level issue
@@ -39,6 +40,7 @@
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
 - 3 certificates being tested against the remaining rules
+- 7.00 issues on average found in unexpired, trusted, and non-compliant certificates
 - 66.67% of certificates contain one or more Error level issue
 - 100.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
@@ -80,4 +82,4 @@
 | 29 Sep 21 13:22 UTC | NetNumber SHAKEN Root Intermediate CA 1 | true | [view](CERTS/e449803766edf02ab50b034dd7e89e54efd332cce87688a032f89b340d039878/README.md) |
 
 
-Generated: 01/11/2022 at 22:19:34
+Generated: 01/11/2022 at 22:50:57

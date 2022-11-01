@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 707J
 
-Tested At: 01 Nov 22 22:12 UTC\
+Tested At: 01 Nov 22 22:50 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 315 day(s)\
 Subject: CN=SHAKEN 707J, O=TextNow Inc, C=CA\
@@ -17,4 +17,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2FzCCAqWgAwIBAg
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 01/11/2022 at 22:19:34
+Generated: 01/11/2022 at 22:50:57

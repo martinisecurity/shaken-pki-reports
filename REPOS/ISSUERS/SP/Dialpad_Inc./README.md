@@ -5,6 +5,7 @@
 - 1 repositories were included in the corpus being tested
 - 1 repositories in the corpus were skipped because they were duplicated
 - 0 repositories being tested against the remaining rules
+- NaN issues on average found in non-compliant certificate repository URLs
 - NaN% of repositories contain one or more Error level issue
 - NaN% of repositories contain one or more Warning level issue
 - NaN% of repositories contain one or more Notice level issue
@@ -16,4 +17,4 @@ No issues found
 |------------|----------|------|
 
 
-Generated: 01/11/2022 at 22:19:34
+Generated: 01/11/2022 at 22:50:57

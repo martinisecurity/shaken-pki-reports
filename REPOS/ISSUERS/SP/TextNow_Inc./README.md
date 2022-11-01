@@ -5,10 +5,11 @@
 - 1 repositories were included in the corpus being tested
 - 0 repositories in the corpus were skipped because they were duplicated
 - 1 repositories being tested against the remaining rules
+- 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 22ms average time it took to download each certificate
+- 15ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -20,4 +21,4 @@
 | `https://pki.tncp.textnow.com/stir-shaken-textnow-cert.pem` | true | [view](REPOS/3958a3a042e51efa3bf53241511f9ea26a628622/README.md) |
 
 
-Generated: 01/11/2022 at 22:19:34
+Generated: 01/11/2022 at 22:50:57

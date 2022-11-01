@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 962J
 
-Tested At: 01 Nov 22 22:11 UTC\
+Tested At: 01 Nov 22 22:48 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 254 day(s)\
 Subject: CN=SHAKEN 962J, O=Versatel LLC, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2FjCCAqOgAwIBAg
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 01/11/2022 at 22:19:34
+Generated: 01/11/2022 at 22:50:57

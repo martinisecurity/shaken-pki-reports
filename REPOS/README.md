@@ -7,30 +7,33 @@
 - 775 repositories were included in the corpus being tested
 - 111 repositories in the corpus were skipped because they were duplicated
 - 664 repositories being tested against the remaining rules
+- 1.67 issues on average found in non-compliant certificate repository URLs
 - 30.12% of repositories contain one or more Error level issue
 - 46.99% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 355ms average time it took to download each certificate
+- 93ms average time it took to download each certificate
 
 ### CA Operated Repositories
 
 - 692 repositories were included in the corpus being tested
 - 101 repositories in the corpus were skipped because they were duplicated
 - 591 repositories being tested against the remaining rules
+- 1.56 issues on average found in non-compliant certificate repository URLs
 - 22.67% of repositories contain one or more Error level issue
 - 41.46% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 360ms average time it took to download each certificate
+- 54ms average time it took to download each certificate
 
 ### Service Provider Operated Repositories
 
 - 83 repositories were included in the corpus being tested
 - 10 repositories in the corpus were skipped because they were duplicated
 - 73 repositories being tested against the remaining rules
+- 2.09 issues on average found in non-compliant certificate repository URLs
 - 90.41% of repositories contain one or more Error level issue
 - 91.78% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 311ms average time it took to download each certificate
+- 407ms average time it took to download each certificate
 
 ## Details
 
@@ -63,6 +66,7 @@
 | [Baltimore-Washington Telephone Company](ISSUERS/SP/Baltimore-Washington_Telephone_Company/README.md) | 1 (1.37%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Bandwidth.com CLEC LLC](ISSUERS/SP/Bandwidth.com_CLEC_LLC/README.md) | 1 (1.37%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Bulk Solutions, LLC](ISSUERS/SP/Bulk_Solutions,_LLC/README.md) | 1 (1.37%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
+| [Charter Communications Inc SHAKEN 5606](ISSUERS/SP/Charter_Communications_Inc_SHAKEN_5606/README.md) | 1 (1.37%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Clearly IP](ISSUERS/SP/Clearly_IP/README.md) | 1 (1.37%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Commio](ISSUERS/SP/Commio/README.md) | 1 (1.37%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Company Name](ISSUERS/SP/Company_Name/README.md) | 1 (1.37%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -110,7 +114,7 @@
 | [TextNow Inc.](ISSUERS/SP/TextNow_Inc./README.md) | 1 (1.37%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [TransNexus](ISSUERS/SP/TransNexus/README.md) | 1 (1.37%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [U. S. Telepacific Corp](ISSUERS/SP/U._S._Telepacific_Corp/README.md) | 1 (1.37%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [Unknown](ISSUERS/SP/Unknown/README.md) | 2 (2.74%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
+| [Unknown](ISSUERS/SP/Unknown/README.md) | 1 (1.37%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [VOIP ESSENTIAL INC](ISSUERS/SP/VOIP_ESSENTIAL_INC/README.md) | 0 (0.00%) | 0 (NaN%) | 0 (NaN%) | 0 (NaN%) |
 | [Verizon Data Services LLC](ISSUERS/SP/Verizon_Data_Services_LLC/README.md) | 1 (1.37%) | 0 (0.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Vibratel](ISSUERS/SP/Vibratel/README.md) | 1 (1.37%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -134,4 +138,4 @@
 | Notices | Tests in which industry best practices are not followed. |
 
 
-Generated: 01/11/2022 at 22:19:34
+Generated: 01/11/2022 at 22:50:57

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 775J
 
-Tested At: 01 Nov 22 22:12 UTC\
+Tested At: 01 Nov 22 22:50 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 44 day(s)\
 Subject: CN=SHAKEN 775J, O=Voip Stir PR LLC, C=US\
@@ -27,4 +27,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDATCCAqegAwIBAgIU
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 01/11/2022 at 22:19:34
+Generated: 01/11/2022 at 22:50:57

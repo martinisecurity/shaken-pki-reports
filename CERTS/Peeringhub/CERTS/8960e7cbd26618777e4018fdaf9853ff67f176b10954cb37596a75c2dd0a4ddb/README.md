@@ -2,7 +2,7 @@
 
 ## Certificate Definitely SHAKEN 709J but not SHAKEN 0007
 
-Tested At: 01 Nov 22 22:12 UTC\
+Tested At: 01 Nov 22 22:50 UTC\
 Initial Validity Period: 1 day(s)\
 Remaining Validity Period: 1 day(s)\
 Subject: CN=Definitely SHAKEN 709J but not SHAKEN 0007, OU=Trolling division, O=Low Latency Communications LLC, L=Birmingham, ST=Alabama, C=US\
@@ -20,4 +20,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDZzCCAw2gAwIBAgIQ
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 01/11/2022 at 22:19:34
+Generated: 01/11/2022 at 22:50:57
