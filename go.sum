@@ -9,8 +9,8 @@ github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORN
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
 github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
 github.com/kr/text v0.2.0 h1:5Nx0Ya0ZqY2ygV366QzturHI13Jq95ApcVaJBhpS+AY=
-github.com/martinisecurity/zlint/v3 v3.0.0-20221101162341-50f89e002411 h1:Vcx2cIf9EeHSolKf3HQ9IieG8FRaFTvVx84TzhzsDtA=
-github.com/martinisecurity/zlint/v3 v3.0.0-20221101162341-50f89e002411/go.mod h1:NWwPC+ZxcwB46M9uUByU0FAlpR8TmjFvr3ZgE7Wi7XE=
+github.com/martinisecurity/zlint/v3 v3.0.0-20221101164947-ee0f0a7b6737 h1:0RjVy6/n4gQXgi93hJd1hm2/jTNndLI7rgo4qt4/Qy8=
+github.com/martinisecurity/zlint/v3 v3.0.0-20221101164947-ee0f0a7b6737/go.mod h1:NWwPC+ZxcwB46M9uUByU0FAlpR8TmjFvr3ZgE7Wi7XE=
 github.com/mreiferson/go-httpclient v0.0.0-20160630210159-31f0106b4474/go.mod h1:OQA4XLvDbMgS8P0CevmM4m9Q3Jq4phKUzcocxuGJ5m8=
 github.com/op/go-logging v0.0.0-20160315200505-970db520ece7/go.mod h1:HzydrMdWErDVzsI23lYNej1Htcns9BCg93Dk0bBINWk=
 github.com/pelletier/go-toml v1.9.3 h1:zeC5b1GviRUyKYd6OJPvBU/mcVDVoL1OhT17FCt5dSQ=
