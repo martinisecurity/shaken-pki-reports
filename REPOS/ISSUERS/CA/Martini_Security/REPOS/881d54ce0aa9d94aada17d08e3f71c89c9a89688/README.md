@@ -3,13 +3,11 @@
 ## Martini Security
 
 Name: `https://p.mtsec.me/2dd5/O5Ul22ujxF_m.pem`\
-Tested At: 01 Nov 22 16:04 UTC\
-Time: 31ms
+Tested At: 01 Nov 22 16:29 UTC\
+Time: 217ms
 
 ### Issues
 
-| Code | Type | Source | Details |
-|------|------|--------|---------|
-| [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+no warning, or error, or notice date level issues were found
 
-Generated: 01/11/2022 at 16:11:23
+Generated: 01/11/2022 at 16:30:07

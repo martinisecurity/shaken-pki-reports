@@ -3,8 +3,8 @@
 ## Vibratel
 
 Name: `https://ssc.getsipnav.com/certs/ae9ce419128be68bc5667048aae938cad247e5f3`\
-Tested At: 01 Nov 22 16:04 UTC\
-Time: 79ms
+Tested At: 01 Nov 22 16:29 UTC\
+Time: 18ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 79ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 01/11/2022 at 16:11:23
+Generated: 01/11/2022 at 16:30:07

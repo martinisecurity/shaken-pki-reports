@@ -8,7 +8,7 @@
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 119ms average time it took to download each certificate
+- 242ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -20,4 +20,4 @@
 | `https://sscerts.accessline.com/sscerts/Cert-US-04-2022.crt` | true | [view](REPOS/3192dd44076a69435da2acb987726efbcab30c5f/README.md) |
 
 
-Generated: 01/11/2022 at 16:11:23
+Generated: 01/11/2022 at 16:30:07

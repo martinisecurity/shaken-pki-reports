@@ -3,8 +3,8 @@
 ## LATAM Telecommunications LLC
 
 Name: `https://187.174.67.118:8080/7075515eb2d150fc98c43e794c07bbca.cer`\
-Tested At: 01 Nov 22 16:02 UTC\
-Time: 111ms
+Tested At: 01 Nov 22 16:27 UTC\
+Time: 353ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 111ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_protocol](../../ISSUES/w_atis_protocol/README.md) | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 
-Generated: 01/11/2022 at 16:11:23
+Generated: 01/11/2022 at 16:30:07
