@@ -34,10 +34,6 @@ func PrintCertificateSummaryReport(w io.Writer, r *CertificateSummaryReport) {
 
 	fmt.Fprintln(w, "## Summary")
 	fmt.Fprintln(w)
-	fmt.Fprintln(w, "\\* The percent of certificates per issuer is calculated against total certificates from all issuers.\\")
-	fmt.Fprintln(w, "\\*\\* The percent of errors, warnings and notices is calculated against total observed certificates from the specified issuer.\\")
-	fmt.Fprintln(w, "\\*\\*\\* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.")
-	fmt.Fprintln(w)
 
 	fmt.Fprintln(w, "### Leaf Certificates")
 	fmt.Fprintln(w)
@@ -50,12 +46,16 @@ func PrintCertificateSummaryReport(w io.Writer, r *CertificateSummaryReport) {
 
 	fmt.Fprintln(w, "## Certificate Repository")
 	fmt.Fprintln(w)
-	fmt.Fprintf(w, "%0.2f%% of certificate repositories contain one or more Error level issue\\\n", r.Leaf.AverageRepositoryErrors())
-	fmt.Fprintf(w, "%0.2f%% of certificates repositories contain one or more Warning level issue\\\n", r.Leaf.AverageRepositoryWarns())
-	fmt.Fprintf(w, "%0.2f%% of certificates repositories contain one or more Notice level issue\n", r.Leaf.AverageRepositoryNotices())
+	fmt.Fprintf(w, "- %0.2f%% of certificate repositories contain one or more Error level issue\n", r.Leaf.AverageRepositoryErrors())
+	fmt.Fprintf(w, "- %0.2f%% of certificates repositories contain one or more Warning level issue\n", r.Leaf.AverageRepositoryWarns())
+	fmt.Fprintf(w, "- %0.2f%% of certificates repositories contain one or more Notice level issue\n", r.Leaf.AverageRepositoryNotices())
 	fmt.Fprintln(w)
 
 	fmt.Fprintln(w, "## Details")
+	fmt.Fprintln(w)
+	fmt.Fprintln(w, "\\* The percent of certificates per issuer is calculated against total certificates from all issuers.\\")
+	fmt.Fprintln(w, "\\*\\* The percent of errors, warnings and notices is calculated against total observed certificates from the specified issuer.\\")
+	fmt.Fprintln(w, "\\*\\*\\* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.")
 	fmt.Fprintln(w)
 	fmt.Fprintln(w, "## Leaf Certificates")
 	fmt.Fprintln(w)
@@ -71,17 +71,18 @@ func PrintCertificateSummaryReport(w io.Writer, r *CertificateSummaryReport) {
 }
 
 func PrintCertificateFindings(w io.Writer, r *CertificateGroupReport) {
-	fmt.Fprintf(w, "%d certificates were included in the corpus being tested\\\n", r.TestedAmount)
-	fmt.Fprintf(w, "%d certificates in the corpus were skipped because they were expired\\\n", r.SkippedExpiredAmount)
-	fmt.Fprintf(w, "%d repositories in the corpus were skipped because they were duplicated\\\n", r.SkippedRepositoriesAmount)
-	fmt.Fprintf(w, "%d certificates in the corpus were skipped because they are not currently trusted\\\n", r.SkippedUntrustedAmount)
-	fmt.Fprintf(w, "%0.2f%% of certificates contain one or more Error level issue\\\n", r.AverageErrors())
-	fmt.Fprintf(w, "%0.2f%% of certificates contain one or more Warning level issue\\\n", r.AverageWarns())
-	fmt.Fprintf(w, "%0.2f%% of certificates contain one or more Notice level issue\\\n", r.AverageNotices())
-	fmt.Fprintf(w, "%0.2f%% of certificates are too old to be assessed against currently enforced expectations\\\n", r.AverageNotEffective())
-	fmt.Fprintf(w, "%0.0f days is the average remaining validity for the certificates in the corpus\\\n", r.AverageRemainingValidity())
-	fmt.Fprintf(w, "%0.0f days is the average initial validity for the certificates in the corpus\\\n", r.AverageInitialValidity())
-	fmt.Fprintf(w, "%d certificates expire in the next 30 days\n", r.ExpiresSoon)
+	fmt.Fprintf(w, "- %d certificates were included in the corpus being tested\n", r.Amount)
+	fmt.Fprintf(w, "- %d repositories in the corpus were skipped because they are duplicates\n", r.SkippedRepositoriesAmount)
+	fmt.Fprintf(w, "- %d certificates in the corpus were skipped because they are expired\n", r.SkippedExpiredAmount)
+	fmt.Fprintf(w, "- %d certificates in the corpus were skipped because they are not currently trusted\n", r.SkippedUntrustedAmount)
+	fmt.Fprintf(w, "- %d certificates being tested against the remaining rules\n", r.TestedAmount)
+	fmt.Fprintf(w, "- %0.2f%% of certificates contain one or more Error level issue\n", r.AverageErrors())
+	fmt.Fprintf(w, "- %0.2f%% of certificates contain one or more Warning level issue\n", r.AverageWarns())
+	fmt.Fprintf(w, "- %0.2f%% of certificates contain one or more Notice level issue\n", r.AverageNotices())
+	fmt.Fprintf(w, "- %0.2f%% of certificates are too old to be assessed against currently enforced expectations\n", r.AverageNotEffective())
+	fmt.Fprintf(w, "- %0.0f days is the average remaining validity for the certificates in the corpus\n", r.AverageRemainingValidity())
+	fmt.Fprintf(w, "- %0.0f days is the average initial validity for the certificates in the corpus\n", r.AverageInitialValidity())
+	fmt.Fprintf(w, "- %d certificates expire in the next 30 days\n", r.ExpiresSoon)
 }
 
 func PrintCertificateSummaryIssuers(w io.Writer, r *CertificateIssuersReport, anchor string) {
@@ -491,12 +492,13 @@ func PrintRepositories(w io.Writer, r []*LintCommandItem, basePath string) {
 }
 
 func PrintRepositoryFindings(w io.Writer, r *RepositoryGroupReport) {
-	fmt.Fprintf(w, "%d repositories were included in the corpus being tested\\\n", r.TestedAmount)
-	fmt.Fprintf(w, "%d repositories in the corpus were skipped because they were duplicated\\\n", r.SkippedAmount)
-	fmt.Fprintf(w, "%0.2f%% of repositories contain one or more Error level issue\\\n", r.AverageErrors())
-	fmt.Fprintf(w, "%0.2f%% of repositories contain one or more Warning level issue\\\n", r.AverageWarns())
-	fmt.Fprintf(w, "%0.2f%% of repositories contain one or more Notice level issue\\\n", r.AverageNotices())
-	fmt.Fprintf(w, "%0.0fms average time it took to download each certificate\n", r.AverageTime())
+	fmt.Fprintf(w, "- %d repositories were included in the corpus being tested\n", r.Amount)
+	fmt.Fprintf(w, "- %d repositories in the corpus were skipped because they were duplicated\n", r.SkippedAmount)
+	fmt.Fprintf(w, "- %d repositories being tested against the remaining rules\n", r.TestedAmount)
+	fmt.Fprintf(w, "- %0.2f%% of repositories contain one or more Error level issue\n", r.AverageErrors())
+	fmt.Fprintf(w, "- %0.2f%% of repositories contain one or more Warning level issue\n", r.AverageWarns())
+	fmt.Fprintf(w, "- %0.2f%% of repositories contain one or more Notice level issue\n", r.AverageNotices())
+	fmt.Fprintf(w, "- %0.0fms average time it took to download each certificate\n", r.AverageTime())
 }
 
 func PrintSummaryDetails(w io.Writer, r *RepositoryIssuersReport) {

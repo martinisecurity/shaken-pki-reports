@@ -10,6 +10,7 @@ import (
 )
 
 type CertificateGroupReport struct {
+	Amount                    int
 	Items                     []*LintCommandItem
 	RepositoryErrorAmount     int
 	RepositoryWarnAmount      int
@@ -37,6 +38,7 @@ func averagePercent(sum int, amount int) float64 {
 
 func (t *CertificateGroupReport) Join(c *CertificateGroupReport) {
 	t.Items = append(t.Items, c.Items...)
+	t.Amount += c.Amount
 	t.RepositoryErrorAmount += c.RepositoryErrorAmount
 	t.RepositoryWarnAmount += c.RepositoryWarnAmount
 	t.RepositoryNoticeAmount += c.RepositoryNoticeAmount
@@ -104,93 +106,90 @@ func (t *CertificateGroupReport) Append(i *LintCommandItem) bool {
 		return false
 	}
 
+	t.Amount += 1
+
 	i.UpdateStatuses()
 
-	skip := false
 	if i.IsDuplicateRepository {
 		t.SkippedRepositoriesAmount += 1
-		skip = true
-	}
-	if i.IsUntrusted {
+		return true
+	} else if i.IsUntrusted {
 		t.SkippedUntrustedAmount += 1
-		skip = true
-	}
-	if i.IsExpired {
+		return true
+	} else if i.IsExpired {
 		t.SkippedExpiredAmount += 1
-		skip = true
+		return true
 	}
 
-	if !skip {
-		t.Items = append(t.Items, i)
-		t.TestedAmount += 1
+	t.Items = append(t.Items, i)
+	t.TestedAmount += 1
 
-		// update dates
-		//   initial
-		initialValidity := internal.GetValidityDays(i.Certificate)
-		t.averageInitialValidity = append(t.averageInitialValidity, initialValidity)
-		//   remaining
-		remainingValidity := internal.GetRemainingDays(i.Certificate, time.Now())
-		t.averageRemainingValidity = append(t.averageInitialValidity, remainingValidity)
+	// update dates
+	//   initial
+	initialValidity := internal.GetValidityDays(i.Certificate)
+	t.averageInitialValidity = append(t.averageInitialValidity, initialValidity)
+	//   remaining
+	remainingValidity := internal.GetRemainingDays(i.Certificate, time.Now())
+	t.averageRemainingValidity = append(t.averageInitialValidity, remainingValidity)
 
-		if time.Now().AddDate(0, 0, 30).After(i.Certificate.NotAfter) {
-			t.ExpiresSoon += 1
+	if time.Now().AddDate(0, 0, 30).After(i.Certificate.NotAfter) {
+		t.ExpiresSoon += 1
+	}
+
+	// refresh status counters
+	cr := i.CertificateResult
+
+	if ur := i.UrlResult; ur != nil {
+		if ur.HasErrors {
+			t.RepositoryErrorAmount += 1
 		}
-
-		// refresh status counters
-		cr := i.CertificateResult
-
-		if ur := i.UrlResult; ur != nil {
-			if ur.HasErrors {
-				t.RepositoryErrorAmount += 1
-			}
-			if ur.HasWarnings {
-				t.RepositoryWarnAmount += 1
-			}
-			if ur.HasNotices {
-				t.RepositoryNoticeAmount += 1
-			}
+		if ur.HasWarnings {
+			t.RepositoryWarnAmount += 1
 		}
+		if ur.HasNotices {
+			t.RepositoryNoticeAmount += 1
+		}
+	}
 
-		hasError := false
-		hasWarn := false
-		hasNotice := false
-		hasNE := false
-		for _, v := range cr.Results {
-			switch v.Status {
-			case lint.Error:
-				{
-					hasError = true
-					break
-				}
-			case lint.Warn:
-				{
-					hasWarn = true
-					break
-				}
-			case lint.Notice:
-				{
-					hasNotice = true
-					break
-				}
-			case lint.NE:
-				{
-					hasNE = true
-					break
-				}
+	hasError := false
+	hasWarn := false
+	hasNotice := false
+	hasNE := false
+	for _, v := range cr.Results {
+		switch v.Status {
+		case lint.Error:
+			{
+				hasError = true
+				break
+			}
+		case lint.Warn:
+			{
+				hasWarn = true
+				break
+			}
+		case lint.Notice:
+			{
+				hasNotice = true
+				break
+			}
+		case lint.NE:
+			{
+				hasNE = true
+				break
 			}
 		}
-		if hasError {
-			t.ErrorAmount += 1
-		}
-		if hasWarn {
-			t.WarnAmount += 1
-		}
-		if hasNotice {
-			t.NoticeAmount += 1
-		}
-		if hasNE {
-			t.NotEffectiveAmount += 1
-		}
+	}
+	if hasError {
+		t.ErrorAmount += 1
+	}
+	if hasWarn {
+		t.WarnAmount += 1
+	}
+	if hasNotice {
+		t.NoticeAmount += 1
+	}
+	if hasNE {
+		t.NotEffectiveAmount += 1
 	}
 
 	return true
@@ -378,6 +377,7 @@ func (t *CertificateIssuerJoin) Join(r *CertificateIssuerReport) {
 
 type RepositoryGroupReport struct {
 	Items         []*LintCommandItem
+	Amount        int
 	TestedAmount  int
 	SkippedAmount int
 	ErrorAmount   int
@@ -390,6 +390,8 @@ func (t *RepositoryGroupReport) Append(v *LintCommandItem) bool {
 	if v.Url == nil || v.UrlResult == nil {
 		return false
 	}
+
+	t.Amount += 1
 
 	if v.IsDuplicateRepository {
 		t.SkippedAmount += 1
