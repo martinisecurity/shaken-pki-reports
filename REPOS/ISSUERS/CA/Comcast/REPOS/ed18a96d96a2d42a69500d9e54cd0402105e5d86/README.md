@@ -3,7 +3,7 @@
 ## Comcast
 
 Name: `https://sticr.stir.comcast.com/346670f0-c463-4c91-b0f3-8008a3f0102c.cer`\
-Tested At: 01 Nov 22 22:50 UTC\
+Tested At: 02 Nov 22 07:51 UTC\
 Time: 29ms
 
 ### Issues
@@ -13,4 +13,4 @@ Time: 29ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 01/11/2022 at 22:50:57
+Generated: 02 Nov 22 07:52 UTC

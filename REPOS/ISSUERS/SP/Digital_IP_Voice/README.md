@@ -9,7 +9,7 @@
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 415ms average time it took to download each certificate
+- 372ms average time it took to download each certificate
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
@@ -21,4 +21,4 @@
 | `https://az.tax/1` | true | [view](REPOS/fd8b5a9adb15d0a05df94173aeb4e2327619d1cf/README.md) |
 
 
-Generated: 01/11/2022 at 22:50:57
+Generated: 02 Nov 22 07:52 UTC

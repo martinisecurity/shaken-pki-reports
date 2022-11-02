@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 023K
 
-Tested At: 01 Nov 22 22:50 UTC\
+Tested At: 02 Nov 22 07:51 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 260 day(s)\
 Subject: CN=SHAKEN 023K, O=Pulsar360 Corp, C=US\
@@ -19,4 +19,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIC%2FjCCAqWgAwIBAg
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 01/11/2022 at 22:50:57
+Generated: 02 Nov 22 07:52 UTC

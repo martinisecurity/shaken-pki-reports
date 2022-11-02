@@ -38,4 +38,4 @@ Description: STI certificates shall include a Serial Number field containing an 
 no warning, or error, or not effective date level issues were found
 
 
-Generated: 01/11/2022 at 22:50:57
+Generated: 02 Nov 22 07:52 UTC

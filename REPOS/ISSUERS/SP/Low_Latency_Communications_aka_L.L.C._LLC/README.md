@@ -9,7 +9,7 @@
 - 0.00% of repositories contain one or more Error level issue
 - 0.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 10ms average time it took to download each certificate
+- 35ms average time it took to download each certificate
 
 No issues found
 
@@ -18,4 +18,4 @@ No issues found
 | `https://sketchy.gay/shaken/llc-cert-2.pem` | false | [view](REPOS/9fe424f27f540a6a521868426a64d3afed49a0bb/README.md) |
 
 
-Generated: 01/11/2022 at 22:50:57
+Generated: 02 Nov 22 07:52 UTC

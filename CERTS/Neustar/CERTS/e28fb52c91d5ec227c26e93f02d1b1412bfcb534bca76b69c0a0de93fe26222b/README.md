@@ -2,7 +2,7 @@
 
 ## Certificate intrado.com
 
-Tested At: 01 Nov 22 22:49 UTC\
+Tested At: 02 Nov 22 07:50 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 319 day(s)\
 Subject: C=US, ST=NE, L=Omaha, O=Intrado Corporation, OU=Intrado Communications, CN=intrado.com\
@@ -39,4 +39,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIECjCCAvKgAwIBAgIU
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 01/11/2022 at 22:50:57
+Generated: 02 Nov 22 07:52 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Consolidated Communications 5113
 
-Tested At: 01 Nov 22 22:49 UTC\
+Tested At: 02 Nov 22 07:51 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 24 day(s)\
 Subject: CN=SHAKEN Consolidated Communications 5113, OU=Operations, O=Consolidated Communications, ST=New Hampshire, C=US\
@@ -21,4 +21,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIDpDCCA0ugAwIBAgIU
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 01/11/2022 at 22:50:57
+Generated: 02 Nov 22 07:52 UTC
