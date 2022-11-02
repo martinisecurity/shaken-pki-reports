@@ -34,6 +34,82 @@ const (
 	Varies  CaCrAvailableType = 3
 )
 
+type CertificateResultSet map[string]*lint.LintResult
+type LintCertificateResult struct {
+	Timestamp    time.Time
+	All          CertificateResultSet
+	Problems     CertificateResultSet
+	Error        CertificateResultSet
+	Warn         CertificateResultSet
+	Notice       CertificateResultSet
+	NotEffective CertificateResultSet
+	Pass         CertificateResultSet
+	Others       CertificateResultSet
+}
+
+func NewLintCertificateResult() *LintCertificateResult {
+	return &LintCertificateResult{
+		All:          CertificateResultSet{},
+		Problems:     CertificateResultSet{},
+		Error:        CertificateResultSet{},
+		Warn:         CertificateResultSet{},
+		Notice:       CertificateResultSet{},
+		NotEffective: CertificateResultSet{},
+		Pass:         CertificateResultSet{},
+		Others:       CertificateResultSet{},
+	}
+}
+
+func (t *LintCertificateResult) HasProblems() bool {
+	return len(t.Problems) > 0
+}
+
+func (t *LintCertificateResult) Append(c string, p *lint.LintResult) {
+	t.All[c] = p
+
+	switch p.Status {
+	case lint.Error:
+		{
+			t.Problems[c] = p
+			t.Error[c] = p
+
+			break
+		}
+	case lint.Warn:
+		{
+			t.Problems[c] = p
+			t.Warn[c] = p
+
+			break
+		}
+	case lint.Notice:
+		{
+			t.Problems[c] = p
+			t.Notice[c] = p
+
+			break
+		}
+	case lint.NE:
+		{
+			t.NotEffective[c] = p
+
+			break
+		}
+	case lint.Pass:
+		{
+			t.Pass[c] = p
+
+			break
+		}
+	default:
+		{
+			t.Others[c] = p
+
+			break
+		}
+	}
+}
+
 type LintCommandItem struct {
 	Roots                 *x509.CertPool
 	Intermediates         *x509.CertPool
@@ -41,8 +117,7 @@ type LintCommandItem struct {
 	UrlProblems           map[string]*uLint.LintResult
 	UrlResult             *uLint.LintResultSet
 	Certificate           *x509.Certificate
-	CertificateResult     *zlint.ResultSet
-	CertificateProblems   map[string]*lint.LintResult
+	CertificateResult     *LintCertificateResult
 	IsExpired             bool
 	IsUntrusted           bool
 	IsDuplicateRepository bool
@@ -55,17 +130,11 @@ type LintCommandItem struct {
 type LintCommandItems map[string]*LintCommandItem
 
 func (t *LintCommandItem) SetCertificateResult(cr *zlint.ResultSet) {
-	t.CertificateResult = cr
-	if t.CertificateProblems == nil {
-		t.CertificateProblems = map[string]*lint.LintResult{}
-	}
+	t.CertificateResult = NewLintCertificateResult()
+	t.CertificateResult.Timestamp = time.Unix(cr.Timestamp, 0)
+
 	for c, p := range cr.Results {
-		if p.Status == lint.Error ||
-			p.Status == lint.Warn ||
-			p.Status == lint.Notice ||
-			p.Status == lint.NE {
-			t.CertificateProblems[c] = p
-		}
+		t.CertificateResult.Append(c, p)
 	}
 }
 
@@ -102,10 +171,6 @@ func (t *LintCommandItem) Id() string {
 
 func (t *LintCommandItem) IsSkipped() bool {
 	return t.IsExpired || t.IsUntrusted || t.IsDuplicateRepository
-}
-
-func (t *LintCommandItem) HasCertificateProblems() bool {
-	return len(t.CertificateProblems) > 0
 }
 
 func (t *LintCommandItem) HasUrlProblems() bool {

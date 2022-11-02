@@ -29,6 +29,9 @@ type CertificateGroupReport struct {
 }
 
 func average(sum int, amount int) float64 {
+	if amount == 0 {
+		return 0
+	}
 	return float64(sum) / float64(amount)
 }
 
@@ -59,9 +62,9 @@ func (t *CertificateGroupReport) AverageCertificatesWithProblems() float64 {
 	sum := 0
 	count := 0
 	for _, v := range t.Items {
-		if v.HasCertificateProblems() {
+		if v.CertificateResult.HasProblems() {
 			count += 1
-			sum += len(v.CertificateProblems)
+			sum += len(v.CertificateResult.Problems)
 		}
 	}
 
@@ -164,44 +167,16 @@ func (t *CertificateGroupReport) Append(i *LintCommandItem) bool {
 		}
 	}
 
-	hasError := false
-	hasWarn := false
-	hasNotice := false
-	hasNE := false
-	for _, v := range cr.Results {
-		switch v.Status {
-		case lint.Error:
-			{
-				hasError = true
-				break
-			}
-		case lint.Warn:
-			{
-				hasWarn = true
-				break
-			}
-		case lint.Notice:
-			{
-				hasNotice = true
-				break
-			}
-		case lint.NE:
-			{
-				hasNE = true
-				break
-			}
-		}
-	}
-	if hasError {
+	if len(cr.Error) > 0 {
 		t.ErrorAmount += 1
 	}
-	if hasWarn {
+	if len(cr.Warn) > 0 {
 		t.WarnAmount += 1
 	}
-	if hasNotice {
+	if len(cr.NotEffective) > 0 {
 		t.NoticeAmount += 1
 	}
-	if hasNE {
+	if len(cr.NotEffective) > 0 {
 		t.NotEffectiveAmount += 1
 	}
 
@@ -239,24 +214,18 @@ func (t *CertificateIssuerReport) Append(i *LintCommandItem) bool {
 
 	// append problems
 	problemsCounter := 0
-	for code, test := range i.CertificateResult.Results {
-		if test.Status == lint.Error ||
-			test.Status == lint.Warn ||
-			test.Status == lint.Notice ||
-			test.Status == lint.NE {
-
-			problem := t.Problems[code]
-			if problem == nil {
-				l := lint.GlobalRegistry().ByName(code)
-				problem = &Problem{
-					Name:   code,
-					Source: string(l.Source),
-				}
-				t.Problems[code] = problem
+	for code := range i.CertificateResult.Problems {
+		problem := t.Problems[code]
+		if problem == nil {
+			l := lint.GlobalRegistry().ByName(code)
+			problem = &Problem{
+				Name:   code,
+				Source: string(l.Source),
 			}
-			problem.Items = append(problem.Items, i)
-			problemsCounter += 1
+			t.Problems[code] = problem
 		}
+		problem.Items = append(problem.Items, i)
+		problemsCounter += 1
 	}
 
 	return true

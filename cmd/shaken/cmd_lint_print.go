@@ -188,7 +188,7 @@ func PrintCertificateReport(w io.Writer, r *LintCommandItem) {
 
 	fmt.Fprintf(w, "## Certificate %s\n", r.Certificate.Subject.CommonName)
 	fmt.Fprintln(w)
-	fmt.Fprintf(w, "Tested At: %s\\\n", time.Unix(r.CertificateResult.Timestamp, 0).Format(time.RFC822))
+	fmt.Fprintf(w, "Tested At: %s\\\n", r.CertificateResult.Timestamp.Format(time.RFC822))
 	fmt.Fprintf(w, "Initial Validity Period: %d day(s)\\\n", internal.GetValidityDays(r.Certificate))
 	fmt.Fprintf(w, "Remaining Validity Period: %d day(s)\\\n", internal.GetRemainingDays(r.Certificate, time.Now()))
 	fmt.Fprintf(w, "Subject: %s\\\n", strings.ReplaceAll(r.Certificate.Subject.String(), "\\", "\\\\"))
@@ -200,18 +200,13 @@ func PrintCertificateReport(w io.Writer, r *LintCommandItem) {
 		fmt.Fprintln(w)
 	}
 	fmt.Fprintln(w)
-	fmt.Fprintf(w, "View: [Click to view](https://understandingwebpki.com/?cert=%s)\n\n", url.QueryEscape(base64.StdEncoding.EncodeToString(r.Certificate.Raw)))
+	fmt.Fprintf(w, "View: [Click to view](https://understandingwebpki.com/?cert=%s)\n", url.QueryEscape(base64.StdEncoding.EncodeToString(r.Certificate.Raw)))
 	fmt.Fprintln(w)
-	first := true
-	for code, result := range r.CertificateResult.Results {
-		if result.Status == lint.Error ||
-			result.Status == lint.Warn ||
-			result.Status == lint.Notice {
-			if first {
-				fmt.Fprintf(w, "| Code | Type | Source | Details |\n")
-				fmt.Fprintf(w, "|------|------|--------|---------|\n")
-				first = false
-			}
+
+	if r.CertificateResult.HasProblems() {
+		fmt.Fprintf(w, "| Code | Type | Source | Details |\n")
+		fmt.Fprintf(w, "|------|------|--------|---------|\n")
+		for code, result := range r.CertificateResult.Problems {
 			rule := lint.GlobalRegistry().ByName(code)
 			fmt.Fprintf(w, "| %s | %s | %s | %s |\n",
 				fmt.Sprintf("[%s](%s)", code, path.Join("..", "..", DIR_ISSUES, code, "README.md")),
@@ -220,37 +215,27 @@ func PrintCertificateReport(w io.Writer, r *LintCommandItem) {
 				result.Details,
 			)
 		}
-	}
-
-	if first {
-		fmt.Fprintln(w)
-		fmt.Fprintf(w, "%d tests were ran and no warning or error level issues were found\n", len(r.CertificateResult.Results))
+	} else {
+		fmt.Fprintf(w, "%d tests were ran and no error, warning, or notice level issues were found\n", len(r.CertificateResult.All))
 	}
 	fmt.Fprintln(w)
 
-	neHeader := false
-	codeKeys := []string{}
-	for key := range r.CertificateResult.Results {
-		codeKeys = append(codeKeys, key)
-	}
-	sort.Strings(codeKeys)
-	for _, key := range codeKeys {
-		result := r.CertificateResult.Results[key]
-		if result.Status == lint.NE {
-			if !neHeader {
-				// Print header only once
-				fmt.Fprintln(w)
-				fmt.Fprintln(w, "### Not Effective")
-				fmt.Fprintln(w)
-				neHeader = true
-			}
+	if len(r.CertificateResult.NotEffective) > 0 {
+		fmt.Fprintln(w, "### Not Effective")
+		fmt.Fprintln(w)
 
-			fmt.Fprintf(w, "- %s\n", key)
+		codeKeys := []string{}
+		for key := range r.CertificateResult.NotEffective {
+			codeKeys = append(codeKeys, key)
 		}
-	}
+		sort.Strings(codeKeys)
+		for _, key := range codeKeys {
+			result := r.CertificateResult.All[key]
+			if result.Status == lint.NE {
+				fmt.Fprintf(w, "- %s\n", key)
+			}
+		}
 
-	if neHeader {
-		// Issue footer
 		fmt.Fprintln(w)
 		fmt.Fprintln(w, "\\* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.")
 		fmt.Fprintln(w)
@@ -297,21 +282,16 @@ func PrintIssueCertificates(w io.Writer, c string, r *Problem, b string) {
 		fmt.Fprintln(w, "| Status | Subject | Link | Details |")
 		fmt.Fprintln(w, "|--------|---------|------|---------|")
 		for _, v := range r.Items {
-			issue := v.CertificateResult.Results[c]
-			if issue.Status == lint.Error ||
-				issue.Status == lint.Warn ||
-				issue.Status == lint.Notice ||
-				issue.Status == lint.NE {
-				fmt.Fprintf(w, "| %s | %s | %s | %s |\n",
-					statusToString(issue.Status),
-					v.Certificate.Subject.CommonName,
-					fmt.Sprintf("[view](%s)", path.Join(b, path.Join(getCertificateId(v.Certificate), "README.md"))),
-					issue.Details,
-				)
-			}
+			issue := v.CertificateResult.Problems[c]
+			fmt.Fprintf(w, "| %s | %s | %s | %s |\n",
+				statusToString(issue.Status),
+				v.Certificate.Subject.CommonName,
+				fmt.Sprintf("[view](%s)", path.Join(b, path.Join(getCertificateId(v.Certificate), "README.md"))),
+				issue.Details,
+			)
 		}
 	} else {
-		fmt.Fprintln(w, "no warning, or error, or not effective date level issues were found")
+		fmt.Fprintln(w, "No error, warning, or notice level issues were found")
 	}
 }
 
@@ -326,30 +306,34 @@ func PrintCertificates(w io.Writer, r []*LintCommandItem, basePath string) {
 		fmt.Fprintf(w, "| %s | %s | %t | %s |\n",
 			v.Certificate.NotBefore.Format(time.RFC822),
 			v.Certificate.Subject.CommonName,
-			v.HasCertificateProblems(),
+			v.CertificateResult.HasProblems(),
 			fmt.Sprintf("[view](%s)", path.Join(basePath, getCertificateId(v.Certificate), "README.md")),
 		)
 	}
 }
 
 func PrintProblems(w io.Writer, r map[string]*Problem) {
-	fmt.Fprintln(w, "| Instances | Test Status | Source |")
-	fmt.Fprintln(w, "|-----------|-------------|--------|")
+	if len(r) > 0 {
+		fmt.Fprintln(w, "| Instances | Test Status | Source |")
+		fmt.Fprintln(w, "|-----------|-------------|--------|")
 
-	// sort problems by code names
-	keys := make([]string, 0, len(r))
-	for k := range r {
-		keys = append(keys, k)
-	}
-	sort.Strings(keys)
+		// sort problems by code names
+		keys := make([]string, 0, len(r))
+		for k := range r {
+			keys = append(keys, k)
+		}
+		sort.Strings(keys)
 
-	for _, key := range keys {
-		p := r[key]
-		fmt.Fprintf(w, "| %d | %s | %s |\n",
-			len(p.Items),
-			fmt.Sprintf("[%s](%s)", key, path.Join(DIR_ISSUES, key, "README.md")),
-			p.Source,
-		)
+		for _, key := range keys {
+			p := r[key]
+			fmt.Fprintf(w, "| %d | %s | %s |\n",
+				len(p.Items),
+				fmt.Sprintf("[%s](%s)", key, path.Join(DIR_ISSUES, key, "README.md")),
+				p.Source,
+			)
+		}
+	} else {
+		fmt.Fprintln(w, "No error, warning, or notice level issues were found")
 	}
 }
 
@@ -419,11 +403,7 @@ func PrintRepositoryIssuerReport(w io.Writer, r *RepositoryIssuerReport) {
 
 	PrintRepositoryFindings(w, &r.RepositoryGroupReport)
 	fmt.Fprintln(w)
-	if len(r.Problems) > 0 {
-		PrintProblems(w, r.Problems)
-	} else {
-		fmt.Fprintln(w, "No issues found")
-	}
+	PrintProblems(w, r.Problems)
 	fmt.Fprintln(w)
 	PrintRepositories(w, r.Items, DIR_REPOS)
 	fmt.Fprintln(w)
