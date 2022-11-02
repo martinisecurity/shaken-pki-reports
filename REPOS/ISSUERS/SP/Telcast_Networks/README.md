@@ -9,10 +9,10 @@
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 35ms average time it took to download each certificate
+- 121ms average time it took to download each certificate
 
-| Instances | Test Status | Source |
-|-----------|-------------|--------|
+| Instances | Test | Source |
+|-----------|------|--------|
 | 1 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
 | 1 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
@@ -21,4 +21,4 @@
 | `https://ssc.getsipnav.com/certs/9861b7e493ab608182e57524671889bf94cd2fc8` | true | [view](REPOS/848a32e386f70fb06fcecfdbeeccbc163b9e9427/README.md) |
 
 
-Generated: 02 Nov 22 15:15 UTC
+Generated: 02 Nov 22 15:41 UTC

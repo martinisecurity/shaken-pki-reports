@@ -9,10 +9,10 @@
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 243ms average time it took to download each certificate
+- 269ms average time it took to download each certificate
 
-| Instances | Test Status | Source |
-|-----------|-------------|--------|
+| Instances | Test | Source |
+|-----------|------|--------|
 | 1 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
 | 1 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
@@ -21,4 +21,4 @@
 | `https://cdn-cr.cgah.tnsi.com/certs/1a7ab760b70a56725786e626f157ba4512f909ec` | true | [view](REPOS/c0cc22e2a370659ed009f0201da4a32f66f1153d/README.md) |
 
 
-Generated: 02 Nov 22 15:15 UTC
+Generated: 02 Nov 22 15:41 UTC

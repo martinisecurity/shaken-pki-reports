@@ -23,8 +23,8 @@
 - 366 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
-| Instances | Test Status | Source |
-|-----------|-------------|--------|
+| Instances | Test | Source |
+|-----------|------|--------|
 | 1 | [e_atis_basic_constraints](ISSUES/e_atis_basic_constraints/README.md) | ATIS1000080 |
 | 1 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
 | 1 | [e_atis_extension_unknown](ISSUES/e_atis_extension_unknown/README.md) | ATIS1000080 |
@@ -67,4 +67,4 @@ No error, warning, or notice level issues were found
 | 27 Sep 19 17:12 UTC | TMOBILE-PROD-SUB-STIRSHAKEN-EC | false | [view](CERTS/4378a3f136510465232246b4d6a72d600db7e11117ac0e3d59c65528f47c9c4f/README.md) |
 
 
-Generated: 02 Nov 22 15:15 UTC
+Generated: 02 Nov 22 15:41 UTC

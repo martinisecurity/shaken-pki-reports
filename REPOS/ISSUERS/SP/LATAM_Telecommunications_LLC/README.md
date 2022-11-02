@@ -9,10 +9,10 @@
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 290ms average time it took to download each certificate
+- 138ms average time it took to download each certificate
 
-| Instances | Test Status | Source |
-|-----------|-------------|--------|
+| Instances | Test | Source |
+|-----------|------|--------|
 | 1 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
 | 1 | [e_tls_transport](ISSUES/e_tls_transport/README.md) | System |
 | 1 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
@@ -23,4 +23,4 @@
 | `https://187.174.67.118:8080/7075515eb2d150fc98c43e794c07bbca.cer` | true | [view](REPOS/d8faee293b08466701e0b503002bc7343687408c/README.md) |
 
 
-Generated: 02 Nov 22 15:15 UTC
+Generated: 02 Nov 22 15:41 UTC

@@ -9,10 +9,10 @@
 - 0.89% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 3ms average time it took to download each certificate
+- 37ms average time it took to download each certificate
 
-| Instances | Test Status | Source |
-|-----------|-------------|--------|
+| Instances | Test | Source |
+|-----------|------|--------|
 | 1 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
 | 1 | [e_http_status_200](ISSUES/e_http_status_200/README.md) | HTTP |
 | 112 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
@@ -134,4 +134,4 @@
 | `https://cr.sansay.com/star2star_stirshaken_20220922` | true | [view](REPOS/9f19fc9d73b83395796f7e4f0d8a277010ab2fd7/README.md) |
 
 
-Generated: 02 Nov 22 15:15 UTC
+Generated: 02 Nov 22 15:41 UTC

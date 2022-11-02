@@ -9,10 +9,10 @@
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 226ms average time it took to download each certificate
+- 135ms average time it took to download each certificate
 
-| Instances | Test Status | Source |
-|-----------|-------------|--------|
+| Instances | Test | Source |
+|-----------|------|--------|
 | 1 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
 | 1 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 | 1 | [w_atis_protocol](ISSUES/w_atis_protocol/README.md) | ATIS-1000080 |
@@ -22,4 +22,4 @@
 | `http://sip.phx.dlr.freevoicepbx.com/Freevoice_963J` | true | [view](REPOS/142af8e9a7a3c09b3d81de07699fa3a77721664a/README.md) |
 
 
-Generated: 02 Nov 22 15:15 UTC
+Generated: 02 Nov 22 15:41 UTC

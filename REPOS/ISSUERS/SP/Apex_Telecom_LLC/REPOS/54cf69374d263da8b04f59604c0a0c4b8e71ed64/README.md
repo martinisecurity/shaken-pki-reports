@@ -3,8 +3,8 @@
 ## Apex Telecom LLC
 
 Name: `https://s3.amazonaws.com/certificates.peeringhub.io/288K/288K.crt`\
-Tested At: 02 Nov 22 15:14 UTC\
-Time: 335ms
+Tested At: 02 Nov 22 15:33 UTC\
+Time: 181ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 335ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 02 Nov 22 15:15 UTC
+Generated: 02 Nov 22 15:41 UTC
