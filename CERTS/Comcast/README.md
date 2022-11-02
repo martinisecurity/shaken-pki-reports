@@ -11,9 +11,9 @@
 
 - 53 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
-- 8 certificates in the corpus were skipped because they are expired
+- 10 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 45 certificates being tested against the remaining rules
+- 43 certificates being tested against the remaining rules
 - 6.02 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 100.00% of certificates contain one or more Warning level issue
@@ -21,17 +21,17 @@
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
 - 29 days is the average remaining validity for the certificates in the corpus
 - 30 days is the average initial validity for the certificates in the corpus
-- 45 certificates expire in the next 30 days
+- 43 certificates expire in the next 30 days
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
-| 45 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
+| 43 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
 | 1 | [e_atis_serial_number](ISSUES/e_atis_serial_number/README.md) | ATIS1000080 |
-| 45 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
-| 45 | [e_atis_subject_key_identifier](ISSUES/e_atis_subject_key_identifier/README.md) | ATIS1000080 |
-| 45 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 45 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
-| 45 | [w_ext_subject_key_identifier_missing_sub_cert](ISSUES/w_ext_subject_key_identifier_missing_sub_cert/README.md) | RFC5280 |
+| 43 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
+| 43 | [e_atis_subject_key_identifier](ISSUES/e_atis_subject_key_identifier/README.md) | ATIS1000080 |
+| 43 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
+| 43 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 43 | [w_ext_subject_key_identifier_missing_sub_cert](ISSUES/w_ext_subject_key_identifier_missing_sub_cert/README.md) | RFC5280 |
 
 #### CA Certificates
 
@@ -40,35 +40,16 @@
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
 - 2 certificates being tested against the remaining rules
-- 14.50 issues on average found in unexpired, trusted, and non-compliant certificates
+- 0.00 issues on average found in unexpired, trusted, and non-compliant certificates
 - 0.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
-- 0.00% of certificates contain one or more Notice level issue
+- 100.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
 - 6880 days is the average remaining validity for the certificates in the corpus
 - 7150 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
-| Instances | Test Status | Source |
-|-----------|-------------|--------|
-| 2 | [e_atis_basic_constraints](ISSUES/e_atis_basic_constraints/README.md) | ATIS1000080 |
-| 1 | [e_atis_ca_authority_key_identifier](ISSUES/e_atis_ca_authority_key_identifier/README.md) | ATIS1000080 |
-| 1 | [e_atis_ca_certificate_policies](ISSUES/e_atis_ca_certificate_policies/README.md) | ATIS1000080 |
-| 1 | [e_atis_ca_crl_distribution](ISSUES/e_atis_ca_crl_distribution/README.md) | ATIS1000080 |
-| 1 | [e_atis_ca_extension_unknown](ISSUES/e_atis_ca_extension_unknown/README.md) | ATIS1000080 |
-| 2 | [e_atis_ca_issuer_dn](ISSUES/e_atis_ca_issuer_dn/README.md) | ATIS1000080 |
-| 2 | [e_atis_ca_key_usage](ISSUES/e_atis_ca_key_usage/README.md) | ATIS1000080 |
-| 2 | [e_atis_ca_serial_number](ISSUES/e_atis_ca_serial_number/README.md) | ATIS1000080 |
-| 2 | [e_atis_ca_signature_algorithm](ISSUES/e_atis_ca_signature_algorithm/README.md) | ATIS1000080 |
-| 2 | [e_atis_ca_subject](ISSUES/e_atis_ca_subject/README.md) | ATIS1000080 |
-| 2 | [e_atis_ca_subject_cn](ISSUES/e_atis_ca_subject_cn/README.md) | ATIS1000080 |
-| 2 | [e_atis_ca_subject_key_identifier](ISSUES/e_atis_ca_subject_key_identifier/README.md) | ATIS1000080 |
-| 2 | [e_atis_ca_subject_public_key](ISSUES/e_atis_ca_subject_public_key/README.md) | ATIS1000080 |
-| 2 | [e_atis_ca_version](ISSUES/e_atis_ca_version/README.md) | ATIS1000080 |
-| 1 | [e_atis_root_authority_key_identifier](ISSUES/e_atis_root_authority_key_identifier/README.md) | ATIS1000080 |
-| 1 | [e_atis_root_certificate_policies](ISSUES/e_atis_root_certificate_policies/README.md) | ATIS1000080 |
-| 1 | [e_atis_root_extension_unknown](ISSUES/e_atis_root_extension_unknown/README.md) | ATIS1000080 |
-| 2 | [e_us_cp_ca_key_usage_crl_sign](ISSUES/e_us_cp_ca_key_usage_crl_sign/README.md) | US_SHAKEN_CP |
+No error, warning, or notice level issues were found
 
 ### Details
 
@@ -76,8 +57,6 @@
 
 | Created at | Subject | Problems | Link |
 |------------|---------|----------|------|
-| 03 Oct 22 12:46 UTC | SHAKEN | true | [view](CERTS/9b84ff01654b1cf058183bb4b6e59c4386ccdcf42a76f30b928d03e56885c60e/README.md) |
-| 03 Oct 22 13:30 UTC | SHAKEN | true | [view](CERTS/b32610a8f4d82dd129804a085606ff475223a3f40cbf36d3e4620a8882befdb8/README.md) |
 | 04 Oct 22 12:46 UTC | SHAKEN | true | [view](CERTS/baf4d6d5e2605e4bd43f049b12d1dc66a533ce0d58a07001734d835f633e3602/README.md) |
 | 04 Oct 22 13:29 UTC | SHAKEN | true | [view](CERTS/e12cde948a53eda9a8c6820b3777c71e1b99c3712d80d36bd7f3fd312f76b341/README.md) |
 | 05 Oct 22 13:29 UTC | SHAKEN | true | [view](CERTS/7fda3ccce7ec708448edc8f96c95b90bc375152feea1c026234beefc37e81999/README.md) |
@@ -126,8 +105,8 @@
 
 | Created at | Subject | Problems | Link |
 |------------|---------|----------|------|
-| 17 Mar 20 14:45 UTC | Comcast SHAKEN Root CA | true | [view](CERTS/b1132c5f12c3ca4d2ff119f2df99544336eb1703512ac99cc42d596e25125bbd/README.md) |
-| 06 Apr 20 13:48 UTC | Comcast SHAKEN Intermediate CA | true | [view](CERTS/2f3abdfe711377f4d59f31d941962797c61f021c3924af31de99031f9ac54f77/README.md) |
+| 17 Mar 20 14:45 UTC | Comcast SHAKEN Root CA | false | [view](CERTS/b1132c5f12c3ca4d2ff119f2df99544336eb1703512ac99cc42d596e25125bbd/README.md) |
+| 06 Apr 20 13:48 UTC | Comcast SHAKEN Intermediate CA | false | [view](CERTS/2f3abdfe711377f4d59f31d941962797c61f021c3924af31de99031f9ac54f77/README.md) |
 
 
-Generated: 02 Nov 22 07:52 UTC
+Generated: 02 Nov 22 15:15 UTC

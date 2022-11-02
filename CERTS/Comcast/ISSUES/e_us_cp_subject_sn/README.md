@@ -17,9 +17,7 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 | error | SHAKEN | [view](../../CERTS/7fda3ccce7ec708448edc8f96c95b90bc375152feea1c026234beefc37e81999/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN | [view](../../CERTS/566e9572a4ea7da8554e2e98ef13e3ec5e4cf13d4d58fe14de464e57e470b352/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN | [view](../../CERTS/c90c48389bbe12c02325baedc377a16cad73a248cb694897540a40e02b878bc0/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| error | SHAKEN | [view](../../CERTS/b32610a8f4d82dd129804a085606ff475223a3f40cbf36d3e4620a8882befdb8/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN | [view](../../CERTS/b96dae77063316253cbb42805030185deff677108a05e39b2405255316978fd8/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| error | SHAKEN | [view](../../CERTS/9b84ff01654b1cf058183bb4b6e59c4386ccdcf42a76f30b928d03e56885c60e/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN | [view](../../CERTS/735539bc495f743e25fea39ecef9566c17bedaf976cf0057d2bb3569ab448d02/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN | [view](../../CERTS/baf4d6d5e2605e4bd43f049b12d1dc66a533ce0d58a07001734d835f633e3602/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN | [view](../../CERTS/229186c59640158d1f281af3617371c072f0663799dabb05a8e4d577b11fb83e/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
@@ -60,7 +58,7 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 
 ### CA Certificates
 
-no warning, or error, or not effective date level issues were found
+No error, warning, or notice level issues were found
 
 
-Generated: 02 Nov 22 07:52 UTC
+Generated: 02 Nov 22 15:15 UTC

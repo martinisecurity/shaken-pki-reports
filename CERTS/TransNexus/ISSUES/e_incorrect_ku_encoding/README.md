@@ -12,12 +12,10 @@ Description: RFC 5280 Section 4.2.1.3 describes the value of a KeyUsage to be a 
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | SHAKEN 012K | [view](../../CERTS/a4a8fa499de2764fbb7db0b76e98d31078179de61e21e96df01f8132a44c1fd4/README.md) | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 | error | SHAKEN 674J | [view](../../CERTS/6fd005ce139c83958c022da431a4a721569905d4b6b43de0375a1f7d4b98d275/README.md) | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 | error | SHAKEN 060K | [view](../../CERTS/8fc41fc2e5615fc87a1a9c1fa8cb6ea1c9200d551f5e988047221c335be31d39/README.md) | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 | error | SHAKEN 735J | [view](../../CERTS/9316e334abe6c964bac27767052062b6c0de27827a606d1cd746e95f97472411/README.md) | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 | error | SHAKEN 738J | [view](../../CERTS/3a7079d02db69f8133c4892893d6d94a5b893aca3578938a74ed360392488012/README.md) | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
-| error | SHAKEN 056J | [view](../../CERTS/860b047bd23110db2919afd52c5e095799e564dfe075a3d67e77c5883a4885bf/README.md) | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 | error | SHAKEN 107K | [view](../../CERTS/ab2574c5a2c3ecdc234e72fdc62635cc97f596dc21a512a916d39aa17349719c/README.md) | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 | error | SHAKEN 9714 | [view](../../CERTS/3c8ced9819143833a95bace3c72bebb882cef867f17509dc4628e18dd74341b2/README.md) | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 | error | SHAKEN 089K | [view](../../CERTS/3e4203b5c20a0a59801040c172eed8f39d2a609fd2429e4a111f40bd0d51c7c0/README.md) | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
@@ -67,4 +65,4 @@ Description: RFC 5280 Section 4.2.1.3 describes the value of a KeyUsage to be a 
 | error | TransNexus, Inc. SHAKEN Root CA1 | [view](../../CERTS/59ab943f4e8c3c17755cc8e4abb5ac65736ce74ec587c62cb744ab0babbbe2fe/README.md) | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 1. Raw Bytes: [3 2 0 6], Raw Binary: [00000011 00000010 00000000 00000110] |
 
 
-Generated: 02 Nov 22 07:52 UTC
+Generated: 02 Nov 22 15:15 UTC

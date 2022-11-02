@@ -2,19 +2,17 @@
 
 ## Certificate Metaswitch STI-CA SHAKEN Issuing 1
 
-Tested At: 02 Nov 22 07:52 UTC\
+Tested At: 02 Nov 22 15:15 UTC\
 Initial Validity Period: 4380 day(s)\
-Remaining Validity Period: 3674 day(s)\
+Remaining Validity Period: 3673 day(s)\
 Subject: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Issuer: CN=Metaswitch STI-CA SHAKEN Root
 
 View: [Click to view](https://understandingwebpki.com/?cert=MIIBtjCCAVygAwIBAgIQaQRv6d8JnAo38%2Ffj5Kf%2F9zAKBggqhkjOPQQDAjAoMSYwJAYDVQQDDB1NZXRhc3dpdGNoIFNUSS1DQSBTSEFLRU4gUm9vdDAeFw0yMDExMjUxMTU3MzhaFw0zMjExMjIxMTU3MzhaMC0xKzApBgNVBAMMIk1ldGFzd2l0Y2ggU1RJLUNBIFNIQUtFTiBJc3N1aW5nIDEwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAT8rXFLu6%2B6yRdl8bcBkaYj8zn05JVmeRYW1wPXttNOhQWK%2BbYC0lE5tR3IpgMou0xcLoubgVxr4kIsVo1UmMNZo2MwYTAdBgNVHQ4EFgQUzR6nABAQ2jIdaRo51dJGCyw8h9YwHwYDVR0jBBgwFoAUOVRpugxs9p9X0ZsBMUWKoPv%2FeGowDwYDVR0TAQH%2FBAUwAwEB%2FzAOBgNVHQ8BAf8EBAMCAgQwCgYIKoZIzj0EAwIDSAAwRQIgfEI4047AI8guEw0olNkV5AFj4%2B1vUg5MbvMcQmwhu5ICIQCkBy07hzIG%2BnXxe6lxQdEKlvAEOupeV%2BGBta%2BvvtKgHw%3D%3D)
 
-
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_atis_ca_subject](../../ISSUES/e_atis_ca_subject/README.md) | error | ATIS1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
-
 
 ### Not Effective
 
@@ -28,4 +26,4 @@ View: [Click to view](https://understandingwebpki.com/?cert=MIIBtjCCAVygAwIBAgIQ
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 02 Nov 22 07:52 UTC
+Generated: 02 Nov 22 15:15 UTC

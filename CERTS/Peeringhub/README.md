@@ -11,23 +11,23 @@
 
 - 10 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
-- 2 certificates in the corpus were skipped because they are expired
+- 1 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 8 certificates being tested against the remaining rules
-- 3.50 issues on average found in unexpired, trusted, and non-compliant certificates
+- 9 certificates being tested against the remaining rules
+- 3.44 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
-- 50.00% of certificates contain one or more Warning level issue
+- 44.44% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 144 days is the average remaining validity for the certificates in the corpus
-- 160 days is the average initial validity for the certificates in the corpus
+- 166 days is the average remaining validity for the certificates in the corpus
+- 183 days is the average initial validity for the certificates in the corpus
 - 4 certificates expire in the next 30 days
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
-| 8 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
-| 8 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 8 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 9 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
+| 9 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
+| 9 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
 | 4 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
@@ -37,10 +37,10 @@
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
 - 2 certificates being tested against the remaining rules
-- 4.50 issues on average found in unexpired, trusted, and non-compliant certificates
+- 2.50 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 100.00% of certificates contain one or more Warning level issue
-- 0.00% of certificates contain one or more Notice level issue
+- 50.00% of certificates contain one or more Notice level issue
 - 50.00% of certificates are too old to be assessed against currently enforced expectations
 - 5855 days is the average remaining validity for the certificates in the corpus
 - 5475 days is the average initial validity for the certificates in the corpus
@@ -49,10 +49,6 @@
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
 | 1 | [e_atis_ca_certificate_policies](ISSUES/e_atis_ca_certificate_policies/README.md) | ATIS1000080 |
-| 1 | [e_atis_ca_serial_number](ISSUES/e_atis_ca_serial_number/README.md) | ATIS1000080 |
-| 1 | [e_atis_ca_subject_cn](ISSUES/e_atis_ca_subject_cn/README.md) | ATIS1000080 |
-| 1 | [e_atis_root_certificate_policies](ISSUES/e_atis_root_certificate_policies/README.md) | ATIS1000080 |
-| 1 | [e_atis_root_extension_unknown](ISSUES/e_atis_root_extension_unknown/README.md) | ATIS1000080 |
 | 2 | [e_us_cp_ca_key_usage_crl_sign](ISSUES/e_us_cp_ca_key_usage_crl_sign/README.md) | US_SHAKEN_CP |
 | 2 | [w_shaken_ca_subject_rdn_unknown](ISSUES/w_shaken_ca_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
@@ -70,6 +66,7 @@
 | 01 Nov 22 19:16 UTC | Definitely SHAKEN 709J but not SHAKEN 0007 | true | [view](CERTS/8960e7cbd26618777e4018fdaf9853ff67f176b10954cb37596a75c2dd0a4ddb/README.md) |
 | 01 Nov 22 19:26 UTC | Definitely SHAKEN 709J but not SHAKEN 0007 | true | [view](CERTS/148fa003df4d2ae06a49e002c44e3dd1a78feedd963cfb762b7a07829c496be8/README.md) |
 | 01 Nov 22 19:59 UTC | Definitely SHAKEN 709J but not SHAKEN 0007 | true | [view](CERTS/d35cdea11102a752f34309c8ecae597b4b7c1caf7f41dea46415471eb5317cce/README.md) |
+| 02 Nov 22 07:51 UTC | Apex Telecom LLC SHAKEN 288K | true | [view](CERTS/e64593f4d9a81236af33c40c227d728e49418be50e05be2a8b65ec549a3b9275/README.md) |
 
 #### CA Certificates
 
@@ -79,4 +76,4 @@
 | 22 Jun 22 22:45 UTC | Peeringhub Inc SHAKEN Intermediate CA 2 | true | [view](CERTS/f00871963a40b04269c4b019968e42f9f40964cbfb512ff5342307e9942874ce/README.md) |
 
 
-Generated: 02 Nov 22 07:52 UTC
+Generated: 02 Nov 22 15:15 UTC

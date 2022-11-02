@@ -10,7 +10,7 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 
 ### Leaf Certificates
 
-no warning, or error, or not effective date level issues were found
+No error, warning, or notice level issues were found
 
 ### CA Certificates
 
@@ -20,4 +20,4 @@ no warning, or error, or not effective date level issues were found
 | warn | SHAKEN Ribbon Root CA | [view](../../CERTS/7c2799d3642d04f04fe667c3ab251c18689af323acdc43b2fa5f3dc89e3a0f14/README.md) | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 02 Nov 22 07:52 UTC
+Generated: 02 Nov 22 15:15 UTC

@@ -39,10 +39,10 @@
 - 2 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
 - 2 certificates being tested against the remaining rules
-- 7.00 issues on average found in unexpired, trusted, and non-compliant certificates
+- 1.00 issues on average found in unexpired, trusted, and non-compliant certificates
 - 0.00% of certificates contain one or more Error level issue
 - 100.00% of certificates contain one or more Warning level issue
-- 0.00% of certificates contain one or more Notice level issue
+- 50.00% of certificates contain one or more Notice level issue
 - 50.00% of certificates are too old to be assessed against currently enforced expectations
 - 5451 days is the average remaining validity for the certificates in the corpus
 - 4928 days is the average initial validity for the certificates in the corpus
@@ -50,18 +50,6 @@
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
-| 1 | [e_atis_basic_constraints](ISSUES/e_atis_basic_constraints/README.md) | ATIS1000080 |
-| 1 | [e_atis_ca_issuer_dn](ISSUES/e_atis_ca_issuer_dn/README.md) | ATIS1000080 |
-| 1 | [e_atis_ca_key_usage](ISSUES/e_atis_ca_key_usage/README.md) | ATIS1000080 |
-| 1 | [e_atis_ca_serial_number](ISSUES/e_atis_ca_serial_number/README.md) | ATIS1000080 |
-| 1 | [e_atis_ca_signature_algorithm](ISSUES/e_atis_ca_signature_algorithm/README.md) | ATIS1000080 |
-| 1 | [e_atis_ca_subject](ISSUES/e_atis_ca_subject/README.md) | ATIS1000080 |
-| 1 | [e_atis_ca_subject_cn](ISSUES/e_atis_ca_subject_cn/README.md) | ATIS1000080 |
-| 1 | [e_atis_ca_subject_key_identifier](ISSUES/e_atis_ca_subject_key_identifier/README.md) | ATIS1000080 |
-| 1 | [e_atis_ca_subject_public_key](ISSUES/e_atis_ca_subject_public_key/README.md) | ATIS1000080 |
-| 1 | [e_atis_ca_version](ISSUES/e_atis_ca_version/README.md) | ATIS1000080 |
-| 1 | [e_atis_root_certificate_policies](ISSUES/e_atis_root_certificate_policies/README.md) | ATIS1000080 |
-| 1 | [e_atis_root_extension_unknown](ISSUES/e_atis_root_extension_unknown/README.md) | ATIS1000080 |
 | 2 | [w_shaken_ca_subject_rdn_unknown](ISSUES/w_shaken_ca_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 ### Details
@@ -173,4 +161,4 @@
 | 02 Sep 22 20:53 UTC | SHAKEN Sansay Intermediate CA US WEST 1 | true | [view](CERTS/4b1dfdba2b1e4bbffbf900a20f1f6f7befbef0008b963e4922a64469cb97d24b/README.md) |
 
 
-Generated: 02 Nov 22 07:52 UTC
+Generated: 02 Nov 22 15:15 UTC

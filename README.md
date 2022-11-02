@@ -10,19 +10,19 @@ This report is broken int two parts:
 
 ### Leaf Certificates
 
-- 772 certificates were included in the corpus being tested
+- 773 certificates were included in the corpus being tested
 - 111 certificates in the corpus were skipped because they are duplicates
-- 308 certificates in the corpus were skipped because they are expired
+- 311 certificates in the corpus were skipped because they are expired
 - 2 certificates in the corpus were skipped because they are not currently trusted
-- 351 certificates being tested against the remaining rules
-- 5.18 issues on average found in unexpired, trusted, and non-compliant certificates
-- 96.01% of certificates contain one or more Error level issue
-- 71.79% of certificates contain one or more Warning level issue
-- 1.99% of certificates contain one or more Notice level issue
-- 15.38% of certificates are too old to be assessed against currently enforced expectations
-- 284 days is the average remaining validity for the certificates in the corpus
-- 284 days is the average initial validity for the certificates in the corpus
-- 180 certificates expire in the next 30 days
+- 349 certificates being tested against the remaining rules
+- 4.11 issues on average found in unexpired, trusted, and non-compliant certificates
+- 95.99% of certificates contain one or more Error level issue
+- 71.06% of certificates contain one or more Warning level issue
+- 15.47% of certificates contain one or more Notice level issue
+- 15.47% of certificates are too old to be assessed against currently enforced expectations
+- 287 days is the average remaining validity for the certificates in the corpus
+- 288 days is the average initial validity for the certificates in the corpus
+- 176 certificates expire in the next 30 days
 
 ### CA Certificates
 
@@ -31,10 +31,10 @@ This report is broken int two parts:
 - 2 certificates in the corpus were skipped because they are expired
 - 2 certificates in the corpus were skipped because they are not currently trusted
 - 29 certificates being tested against the remaining rules
-- 8.04 issues on average found in unexpired, trusted, and non-compliant certificates
+- 2.05 issues on average found in unexpired, trusted, and non-compliant certificates
 - 55.17% of certificates contain one or more Error level issue
 - 58.62% of certificates contain one or more Warning level issue
-- 3.45% of certificates contain one or more Notice level issue
+- 75.86% of certificates contain one or more Notice level issue
 - 75.86% of certificates are too old to be assessed against currently enforced expectations
 - 5741 days is the average remaining validity for the certificates in the corpus
 - 5630 days is the average initial validity for the certificates in the corpus
@@ -42,8 +42,8 @@ This report is broken int two parts:
 
 ## Certificate Repository
 
-- 51.57% of certificate repositories contain one or more Error level issue
-- 76.92% of certificates repositories contain one or more Warning level issue
+- 51.86% of certificate repositories contain one or more Error level issue
+- 77.36% of certificates repositories contain one or more Warning level issue
 - 0.00% of certificates repositories contain one or more Notice level issue
 
 ## Details
@@ -56,35 +56,35 @@ This report is broken int two parts:
 
 | Issuers | Certificates | Errors | Warnings | Notices | Not Effective |
 |---------|--------------|--------|----------|---------|---------------|
-| [Comcast](CERTS/Comcast/README.md#leaf-certificates) | 45 (12.82%) | 45 (100.00%) | 45 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [GBSDTech](CERTS/GBSDTech/README.md#leaf-certificates) | 1 (0.28%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Martini Security](CERTS/Martini_Security/README.md#leaf-certificates) | 8 (2.28%) | 0 (0.00%) | 0 (0.00%) | 4 (50.00%) | 0 (0.00%) |
-| [Metaswitch](CERTS/Metaswitch/README.md#leaf-certificates) | 21 (5.98%) | 21 (100.00%) | 1 (4.76%) | 0 (0.00%) | 20 (95.24%) |
-| [NetNumber](CERTS/NetNumber/README.md#leaf-certificates) | 3 (0.85%) | 3 (100.00%) | 0 (0.00%) | 3 (100.00%) | 0 (0.00%) |
-| [Neustar](CERTS/Neustar/README.md#leaf-certificates) | 95 (27.07%) | 89 (93.68%) | 32 (33.68%) | 0 (0.00%) | 32 (33.68%) |
-| [Peeringhub](CERTS/Peeringhub/README.md#leaf-certificates) | 8 (2.28%) | 8 (100.00%) | 4 (50.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Ribbon Communications](CERTS/Ribbon_Communications/README.md#leaf-certificates) | 3 (0.85%) | 3 (100.00%) | 3 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Sansay](CERTS/Sansay/README.md#leaf-certificates) | 94 (26.78%) | 94 (100.00%) | 94 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [T-Mobile](CERTS/T-Mobile/README.md#leaf-certificates) | 1 (0.28%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [TransNexus](CERTS/TransNexus/README.md#leaf-certificates) | 72 (20.51%) | 72 (100.00%) | 72 (100.00%) | 0 (0.00%) | 2 (2.78%) |
-| **Total** | 351 (100.00%) | 337 (96.01%) | 252 (71.79%) | 7 (1.99%) | 54 (15.38%) |
+| [Comcast](CERTS/Comcast/README.md#leaf-certificates) | 43 (12.32%) | 43 (100.00%) | 43 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [GBSDTech](CERTS/GBSDTech/README.md#leaf-certificates) | 1 (0.29%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Martini Security](CERTS/Martini_Security/README.md#leaf-certificates) | 8 (2.29%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Metaswitch](CERTS/Metaswitch/README.md#leaf-certificates) | 21 (6.02%) | 21 (100.00%) | 1 (4.76%) | 20 (95.24%) | 20 (95.24%) |
+| [NetNumber](CERTS/NetNumber/README.md#leaf-certificates) | 3 (0.86%) | 3 (100.00%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Neustar](CERTS/Neustar/README.md#leaf-certificates) | 96 (27.51%) | 90 (93.75%) | 32 (33.33%) | 32 (33.33%) | 32 (33.33%) |
+| [Peeringhub](CERTS/Peeringhub/README.md#leaf-certificates) | 9 (2.58%) | 9 (100.00%) | 4 (44.44%) | 0 (0.00%) | 0 (0.00%) |
+| [Ribbon Communications](CERTS/Ribbon_Communications/README.md#leaf-certificates) | 3 (0.86%) | 3 (100.00%) | 3 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Sansay](CERTS/Sansay/README.md#leaf-certificates) | 94 (26.93%) | 94 (100.00%) | 94 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [T-Mobile](CERTS/T-Mobile/README.md#leaf-certificates) | 1 (0.29%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [TransNexus](CERTS/TransNexus/README.md#leaf-certificates) | 70 (20.06%) | 70 (100.00%) | 70 (100.00%) | 2 (2.86%) | 2 (2.86%) |
+| **Total** | 349 (100.00%) | 335 (95.99%) | 248 (71.06%) | 54 (15.47%) | 54 (15.47%) |
 
 ### CA Certificates
 
 | Issuers | Certificates | Errors | Warnings | Notices | Not Effective |
 |---------|--------------|--------|----------|---------|---------------|
-| [Comcast](CERTS/Comcast/README.md#ca-certificates) | 2 (6.90%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 2 (100.00%) |
-| [GBSDTech](CERTS/GBSDTech/README.md#ca-certificates) | 2 (6.90%) | 1 (50.00%) | 0 (0.00%) | 0 (0.00%) | 2 (100.00%) |
-| [Martini Security](CERTS/Martini_Security/README.md#ca-certificates) | 3 (10.34%) | 0 (0.00%) | 0 (0.00%) | 1 (33.33%) | 0 (0.00%) |
-| [Metaswitch](CERTS/Metaswitch/README.md#ca-certificates) | 2 (6.90%) | 2 (100.00%) | 0 (0.00%) | 0 (0.00%) | 2 (100.00%) |
-| [NetNumber](CERTS/NetNumber/README.md#ca-certificates) | 3 (10.34%) | 2 (66.67%) | 2 (66.67%) | 0 (0.00%) | 3 (100.00%) |
-| [Neustar](CERTS/Neustar/README.md#ca-certificates) | 6 (20.69%) | 4 (66.67%) | 6 (100.00%) | 0 (0.00%) | 4 (66.67%) |
-| [Peeringhub](CERTS/Peeringhub/README.md#ca-certificates) | 2 (6.90%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) | 1 (50.00%) |
-| [Ribbon Communications](CERTS/Ribbon_Communications/README.md#ca-certificates) | 2 (6.90%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) | 2 (100.00%) |
-| [Sansay](CERTS/Sansay/README.md#ca-certificates) | 2 (6.90%) | 0 (0.00%) | 2 (100.00%) | 0 (0.00%) | 1 (50.00%) |
-| [T-Mobile](CERTS/T-Mobile/README.md#ca-certificates) | 2 (6.90%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 2 (100.00%) |
-| [TransNexus](CERTS/TransNexus/README.md#ca-certificates) | 3 (10.34%) | 3 (100.00%) | 3 (100.00%) | 0 (0.00%) | 3 (100.00%) |
-| **Total** | 29 (100.00%) | 16 (55.17%) | 17 (58.62%) | 1 (3.45%) | 22 (75.86%) |
+| [Comcast](CERTS/Comcast/README.md#ca-certificates) | 2 (6.90%) | 0 (0.00%) | 0 (0.00%) | 2 (100.00%) | 2 (100.00%) |
+| [GBSDTech](CERTS/GBSDTech/README.md#ca-certificates) | 2 (6.90%) | 1 (50.00%) | 0 (0.00%) | 2 (100.00%) | 2 (100.00%) |
+| [Martini Security](CERTS/Martini_Security/README.md#ca-certificates) | 3 (10.34%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Metaswitch](CERTS/Metaswitch/README.md#ca-certificates) | 2 (6.90%) | 2 (100.00%) | 0 (0.00%) | 2 (100.00%) | 2 (100.00%) |
+| [NetNumber](CERTS/NetNumber/README.md#ca-certificates) | 3 (10.34%) | 2 (66.67%) | 2 (66.67%) | 3 (100.00%) | 3 (100.00%) |
+| [Neustar](CERTS/Neustar/README.md#ca-certificates) | 6 (20.69%) | 4 (66.67%) | 6 (100.00%) | 4 (66.67%) | 4 (66.67%) |
+| [Peeringhub](CERTS/Peeringhub/README.md#ca-certificates) | 2 (6.90%) | 2 (100.00%) | 2 (100.00%) | 1 (50.00%) | 1 (50.00%) |
+| [Ribbon Communications](CERTS/Ribbon_Communications/README.md#ca-certificates) | 2 (6.90%) | 2 (100.00%) | 2 (100.00%) | 2 (100.00%) | 2 (100.00%) |
+| [Sansay](CERTS/Sansay/README.md#ca-certificates) | 2 (6.90%) | 0 (0.00%) | 2 (100.00%) | 1 (50.00%) | 1 (50.00%) |
+| [T-Mobile](CERTS/T-Mobile/README.md#ca-certificates) | 2 (6.90%) | 0 (0.00%) | 0 (0.00%) | 2 (100.00%) | 2 (100.00%) |
+| [TransNexus](CERTS/TransNexus/README.md#ca-certificates) | 3 (10.34%) | 3 (100.00%) | 3 (100.00%) | 3 (100.00%) | 3 (100.00%) |
+| **Total** | 29 (100.00%) | 16 (55.17%) | 17 (58.62%) | 22 (75.86%) | 22 (75.86%) |
 
 ### Key
 
@@ -96,4 +96,4 @@ This report is broken int two parts:
 | Not Effective | Tests that exist in the current specifications but were not in effect at the time of issuance. |
 
 
-Generated: 02 Nov 22 07:52 UTC
+Generated: 02 Nov 22 15:15 UTC

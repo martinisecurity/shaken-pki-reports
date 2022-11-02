@@ -10,7 +10,7 @@ Description: STI certificates should contain a CertificatePolicies extension mar
 
 ### Leaf Certificates
 
-no warning, or error, or not effective date level issues were found
+No error, warning, or notice level issues were found
 
 ### CA Certificates
 
@@ -19,4 +19,4 @@ no warning, or error, or not effective date level issues were found
 | notice | Martini Security SHAKEN G1 | [view](../../CERTS/46e98b1599688c83928b66bcdd49e723ee4207128b5ba4488046edf2879970ef/README.md) | STI certificates should contain a CertificatePolicies extension marked uncritical |
 
 
-Generated: 02 Nov 22 07:52 UTC
+Generated: 02 Nov 22 15:15 UTC

@@ -20,14 +20,8 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 | error | SHAKEN | [view](../../CERTS/158c61d4da5ed8d0aaef7582d9a821a358a22ec2f241d449ecdab2e35ccf2fad/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Inteliquent.com | [view](../../CERTS/f1c1fe53212d9bd9b211b83c698572a9019078dd441e9e78638e55714dcafaab/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Warmego | [view](../../CERTS/65bfa3f8b6aa342704363e4e0db5198f3f3583a9663f17901a7bb96fe2bfddf1/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| not effective | alticeusa.com | [view](../../CERTS/5254d4ab17f12340d76d15e07e4b3f881b4c6ffd1fd1c2147b26ede27098ad9d/README.md) |  |
-| not effective | CenturyLink.com | [view](../../CERTS/266e4919267dfd279237a8e32923b1484c606dd8eb3f5a07b5c676d7cf78c053/README.md) |  |
-| not effective | frontier.com | [view](../../CERTS/bd545bbe3cb81d574b5b7d358bbd704139506cde8a612b24c24bdf6d0eeacd8e/README.md) |  |
-| not effective | peerlessnetwork.com | [view](../../CERTS/58950c854b20b1343a688944b90a65f56f820a98192d396695f4525521085f84/README.md) |  |
-| not effective | vonage | [view](../../CERTS/e6d9c80f45bc76e1389d8f6213cf3d382c5b2f3839184e3be15f1e03b6c780e7/README.md) |  |
 | error | AGOC | [view](../../CERTS/601d6d6df50a7b1431e92d7955fbacf9254cd20f171ba02b8918b475504ecec1/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | intrado.com | [view](../../CERTS/e28fb52c91d5ec227c26e93f02d1b1412bfcb534bca76b69c0a0de93fe26222b/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| not effective | cox.com | [view](../../CERTS/21a9862f2a9b3b61084354f282f285d9a7b563d755d7e1a8ceb9669b6e6e71e3/README.md) |  |
 | error | BigRiverTelephoneCompany | [view](../../CERTS/9efdf79a4d93cef188ca8bc8dd4ce626a21813ed665bf108d74ff1f0158caf24/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Ringcentral-ProdKeystore | [view](../../CERTS/043a925e40a83e722da0360f49488513cd8d8cfadbea2469800e80a673541fc4/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Logix-Keystore | [view](../../CERTS/c53c156a26a6dc23f61a04e882c7643e9285b94374d9e82df16623f9519bdd65/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
@@ -47,7 +41,7 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 
 ### CA Certificates
 
-no warning, or error, or not effective date level issues were found
+No error, warning, or notice level issues were found
 
 
-Generated: 02 Nov 22 07:52 UTC
+Generated: 02 Nov 22 15:15 UTC

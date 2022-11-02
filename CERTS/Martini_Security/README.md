@@ -17,7 +17,7 @@
 - 1.00 issues on average found in unexpired, trusted, and non-compliant certificates
 - 0.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
-- 50.00% of certificates contain one or more Notice level issue
+- 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
 - 147 days is the average remaining validity for the certificates in the corpus
 - 124 days is the average initial validity for the certificates in the corpus
@@ -37,7 +37,7 @@
 - 1.00 issues on average found in unexpired, trusted, and non-compliant certificates
 - 0.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
-- 33.33% of certificates contain one or more Notice level issue
+- 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
 - 5433 days is the average remaining validity for the certificates in the corpus
 - 4261 days is the average initial validity for the certificates in the corpus
@@ -71,4 +71,4 @@
 | 02 Oct 22 10:40 UTC | Martini Security SHAKEN G2 | false | [view](CERTS/bf818ddbd3ae492e4a85331b85b52f4d2cdef8287bf910b59e247b6c132fa7fd/README.md) |
 
 
-Generated: 02 Nov 22 07:52 UTC
+Generated: 02 Nov 22 15:15 UTC

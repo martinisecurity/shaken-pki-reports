@@ -43,15 +43,8 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 | error | SHAKEN 709J | [view](../../CERTS/a371d70a1b505735b513c7488d811eb869c801aa246cfc1424db1e373b579f34/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN 712J | [view](../../CERTS/869b4bd6e2405b41153c7a848f5585a914e488fab44fb7ebb556f91c2ab07df4/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN 554J | [view](../../CERTS/48e98eb1d0597ad80afaba38213dc9da04352e1ca69b6e98b56d4d556c35b354/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| not effective | alticeusa.com | [view](../../CERTS/5254d4ab17f12340d76d15e07e4b3f881b4c6ffd1fd1c2147b26ede27098ad9d/README.md) |  |
-| not effective | CenturyLink.com | [view](../../CERTS/266e4919267dfd279237a8e32923b1484c606dd8eb3f5a07b5c676d7cf78c053/README.md) |  |
-| not effective | frontier.com | [view](../../CERTS/bd545bbe3cb81d574b5b7d358bbd704139506cde8a612b24c24bdf6d0eeacd8e/README.md) |  |
-| not effective | peerlessnetwork.com | [view](../../CERTS/58950c854b20b1343a688944b90a65f56f820a98192d396695f4525521085f84/README.md) |  |
-| not effective | vonage | [view](../../CERTS/e6d9c80f45bc76e1389d8f6213cf3d382c5b2f3839184e3be15f1e03b6c780e7/README.md) |  |
 | error | SHAKEN 506J | [view](../../CERTS/00635768d8b9c2e0fc7fd4d35c6c192107102b0f4ba22ddf9c0c5c76ee257d32/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| not effective | AGOC | [view](../../CERTS/601d6d6df50a7b1431e92d7955fbacf9254cd20f171ba02b8918b475504ecec1/README.md) |  |
 | error | intrado.com | [view](../../CERTS/e28fb52c91d5ec227c26e93f02d1b1412bfcb534bca76b69c0a0de93fe26222b/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| not effective | cox.com | [view](../../CERTS/21a9862f2a9b3b61084354f282f285d9a7b563d755d7e1a8ceb9669b6e6e71e3/README.md) |  |
 | error | BigRiverTelephoneCompany | [view](../../CERTS/9efdf79a4d93cef188ca8bc8dd4ce626a21813ed665bf108d74ff1f0158caf24/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Ringcentral-ProdKeystore | [view](../../CERTS/043a925e40a83e722da0360f49488513cd8d8cfadbea2469800e80a673541fc4/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Logix-Keystore | [view](../../CERTS/c53c156a26a6dc23f61a04e882c7643e9285b94374d9e82df16623f9519bdd65/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
@@ -88,6 +81,7 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 | error | SHAKEN-6744 | [view](../../CERTS/414671d6f2e7beffdd958279b4cb2e705c5ee59f107aa1fb7b2a06008ae117b6/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN 500J | [view](../../CERTS/25393ddb6f4b6a42df56e2cafbff0fa710e60bbdf94d37561290cdb6e66f28d1/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN 005K | [view](../../CERTS/639ec0e02a1c7bd0b564efb570da5cdd6e681facf141a9f696be31bc2103bb8e/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| error | SHAKEN 5606 | [view](../../CERTS/8fc7d03e6cd7ab01c7c8b9051bfef91cd5bceecefd08f74b6fc948b65b15eca4/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN 292K | [view](../../CERTS/e449581f068a3e747acc8dfd7c0707c9aed3deca9f572afa13bbb0ffbebffd27/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN 863J | [view](../../CERTS/a823137b09d7d9bc4b78bcef8048a37ceeb899121f4d227e0fc5e784faef7038/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN 743J | [view](../../CERTS/afecedf9de456e4170f9f52742f42bdca9437dcabb6867c7c71372f8ba4feddf/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
@@ -110,7 +104,7 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 
 ### CA Certificates
 
-no warning, or error, or not effective date level issues were found
+No error, warning, or notice level issues were found
 
 
-Generated: 02 Nov 22 07:52 UTC
+Generated: 02 Nov 22 15:15 UTC

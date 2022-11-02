@@ -18,7 +18,7 @@ Description: STI certificates should contain a CertificatePolicies extension mar
 
 ### CA Certificates
 
-no warning, or error, or not effective date level issues were found
+No error, warning, or notice level issues were found
 
 
-Generated: 02 Nov 22 07:52 UTC
+Generated: 02 Nov 22 15:15 UTC

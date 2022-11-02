@@ -11,29 +11,25 @@
 
 - 341 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
-- 268 certificates in the corpus were skipped because they are expired
+- 270 certificates in the corpus were skipped because they are expired
 - 1 certificates in the corpus were skipped because they are not currently trusted
-- 72 certificates being tested against the remaining rules
-- 2.83 issues on average found in unexpired, trusted, and non-compliant certificates
+- 70 certificates being tested against the remaining rules
+- 2.71 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 100.00% of certificates contain one or more Warning level issue
-- 0.00% of certificates contain one or more Notice level issue
-- 2.78% of certificates are too old to be assessed against currently enforced expectations
-- 71 days is the average remaining validity for the certificates in the corpus
-- 72 days is the average initial validity for the certificates in the corpus
-- 56 certificates expire in the next 30 days
+- 2.86% of certificates contain one or more Notice level issue
+- 2.86% of certificates are too old to be assessed against currently enforced expectations
+- 73 days is the average remaining validity for the certificates in the corpus
+- 74 days is the average initial validity for the certificates in the corpus
+- 54 certificates expire in the next 30 days
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
 | 3 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
-| 2 | [e_atis_extension_unknown](ISSUES/e_atis_extension_unknown/README.md) | ATIS1000080 |
-| 2 | [e_atis_serial_number](ISSUES/e_atis_serial_number/README.md) | ATIS1000080 |
-| 2 | [e_atis_signature_algorithm](ISSUES/e_atis_signature_algorithm/README.md) | ATIS1000080 |
-| 2 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
-| 45 | [e_incorrect_ku_encoding](ISSUES/e_incorrect_ku_encoding/README.md) | RFC5280 |
+| 43 | [e_incorrect_ku_encoding](ISSUES/e_incorrect_ku_encoding/README.md) | RFC5280 |
 | 4 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 72 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
-| 72 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
+| 70 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 70 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
 
@@ -42,10 +38,10 @@
 - 0 certificates in the corpus were skipped because they are expired
 - 1 certificates in the corpus were skipped because they are not currently trusted
 - 3 certificates being tested against the remaining rules
-- 8.33 issues on average found in unexpired, trusted, and non-compliant certificates
+- 3.00 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 100.00% of certificates contain one or more Warning level issue
-- 0.00% of certificates contain one or more Notice level issue
+- 100.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
 - 5369 days is the average remaining validity for the certificates in the corpus
 - 4870 days is the average initial validity for the certificates in the corpus
@@ -53,16 +49,8 @@
 
 | Instances | Test Status | Source |
 |-----------|-------------|--------|
-| 2 | [e_atis_ca_certificate_policies](ISSUES/e_atis_ca_certificate_policies/README.md) | ATIS1000080 |
-| 2 | [e_atis_ca_crl_distribution](ISSUES/e_atis_ca_crl_distribution/README.md) | ATIS1000080 |
-| 2 | [e_atis_ca_extension_unknown](ISSUES/e_atis_ca_extension_unknown/README.md) | ATIS1000080 |
-| 3 | [e_atis_ca_serial_number](ISSUES/e_atis_ca_serial_number/README.md) | ATIS1000080 |
-| 3 | [e_atis_ca_subject_cn](ISSUES/e_atis_ca_subject_cn/README.md) | ATIS1000080 |
-| 1 | [e_atis_root_certificate_policies](ISSUES/e_atis_root_certificate_policies/README.md) | ATIS1000080 |
-| 1 | [e_atis_root_extension_unknown](ISSUES/e_atis_root_extension_unknown/README.md) | ATIS1000080 |
 | 3 | [e_incorrect_ku_encoding](ISSUES/e_incorrect_ku_encoding/README.md) | RFC5280 |
 | 3 | [e_us_cp_ca_key_usage_crl_sign](ISSUES/e_us_cp_ca_key_usage_crl_sign/README.md) | US_SHAKEN_CP |
-| 2 | [n_atis_ca_certificate_policy_critical](ISSUES/n_atis_ca_certificate_policy_critical/README.md) | ATIS1000080 |
 | 3 | [w_shaken_ca_subject_rdn_unknown](ISSUES/w_shaken_ca_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 ### Details
@@ -96,9 +84,7 @@
 | 22 Oct 22 04:44 UTC | SHAKEN 345J | true | [view](CERTS/109a4ac394ec4e6eb6ba42d2ad6bc799f2548629a8bbfb9420b9ec1ca5df6ff9/README.md) |
 | 24 Oct 22 20:22 UTC | SHAKEN 738J | true | [view](CERTS/1f99a81d0b090f467a47da69b1549fbabc7d8277f67a1f31d05c53e92cceb54c/README.md) |
 | 25 Oct 22 15:33 UTC | SHAKEN 722J | true | [view](CERTS/50eb0c6a670f4122f8fbdb75582aa257fe3979f441fb396ff738372627104f9c/README.md) |
-| 26 Oct 22 08:39 UTC | SHAKEN 012K | true | [view](CERTS/a4a8fa499de2764fbb7db0b76e98d31078179de61e21e96df01f8132a44c1fd4/README.md) |
 | 26 Oct 22 10:43 UTC | SHAKEN 8526 | true | [view](CERTS/b68dadcfa6267b8e9dd012e42154b55cab6d3694f4543e46af44bab1e4ba971e/README.md) |
-| 26 Oct 22 13:45 UTC | SHAKEN 056J | true | [view](CERTS/860b047bd23110db2919afd52c5e095799e564dfe075a3d67e77c5883a4885bf/README.md) |
 | 26 Oct 22 17:24 UTC | SHAKEN 107K | true | [view](CERTS/ab2574c5a2c3ecdc234e72fdc62635cc97f596dc21a512a916d39aa17349719c/README.md) |
 | 26 Oct 22 18:13 UTC | SHAKEN 060K | true | [view](CERTS/8fc41fc2e5615fc87a1a9c1fa8cb6ea1c9200d551f5e988047221c335be31d39/README.md) |
 | 26 Oct 22 18:36 UTC | SHAKEN 089K | true | [view](CERTS/3e4203b5c20a0a59801040c172eed8f39d2a609fd2429e4a111f40bd0d51c7c0/README.md) |
@@ -107,8 +93,8 @@
 | 26 Oct 22 20:18 UTC | SHAKEN 735J | true | [view](CERTS/9316e334abe6c964bac27767052062b6c0de27827a606d1cd746e95f97472411/README.md) |
 | 26 Oct 22 20:19 UTC | SHAKEN 738J | true | [view](CERTS/3a7079d02db69f8133c4892893d6d94a5b893aca3578938a74ed360392488012/README.md) |
 | 26 Oct 22 20:22 UTC | SHAKEN 469A | true | [view](CERTS/8d2fef64712c082b249ae7805b66ad21f2aef4fee890f786747f3bcf77051ed7/README.md) |
-| 26 Oct 22 20:22 UTC | SHAKEN 790J | true | [view](CERTS/854b6402cb0b321c3d810426dbf87b6b7b98210f836a6162f00759a448e96d9a/README.md) |
 | 26 Oct 22 20:22 UTC | SHAKEN 721J | true | [view](CERTS/b245669c56c66223f8e5f946e40a3e4a2fd17a126e19bc5149a3e310f5448fb2/README.md) |
+| 26 Oct 22 20:22 UTC | SHAKEN 790J | true | [view](CERTS/854b6402cb0b321c3d810426dbf87b6b7b98210f836a6162f00759a448e96d9a/README.md) |
 | 26 Oct 22 20:23 UTC | SHAKEN 625J | true | [view](CERTS/436afa7fd59130c2cfb61515f1881bdb6b26df00104fc20a34813ec2837ae5bc/README.md) |
 | 26 Oct 22 20:23 UTC | SHAKEN 738J | true | [view](CERTS/24b935c4e2f91a82ff346147d216ffcfbbb408b7d41886788c3e7158c4573825/README.md) |
 | 26 Oct 22 20:23 UTC | SHAKEN 459J | true | [view](CERTS/b8c1d7beff3357f2ba432ff63529da29fd4871b1e11ae59e0f3d30eb6f7b4b51/README.md) |
@@ -153,4 +139,4 @@
 | 20 Aug 21 00:00 UTC | TransNexus, Inc. SHAKEN Root CA1 | true | [view](CERTS/59ab943f4e8c3c17755cc8e4abb5ac65736ce74ec587c62cb744ab0babbbe2fe/README.md) |
 
 
-Generated: 02 Nov 22 07:52 UTC
+Generated: 02 Nov 22 15:15 UTC

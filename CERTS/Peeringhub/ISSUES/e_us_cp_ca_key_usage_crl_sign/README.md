@@ -10,7 +10,7 @@ Description: The model for managing and communicating the status of revoked cert
 
 ### Leaf Certificates
 
-no warning, or error, or not effective date level issues were found
+No error, warning, or notice level issues were found
 
 ### CA Certificates
 
@@ -20,4 +20,4 @@ no warning, or error, or not effective date level issues were found
 | error | Peeringhub Inc Root CA | [view](../../CERTS/0ad4adc0b4d93fdb0e628c577020c73b8a5caff750e7e499f80ee2ab362a3f6a/README.md) | The model for managing and communicating the status of revoked certificates is in the form of a distributed Certificate Revocation List (CRL) that is maintained by the STI-PA as described in ATIS-1000080 |
 
 
-Generated: 02 Nov 22 07:52 UTC
+Generated: 02 Nov 22 15:15 UTC
