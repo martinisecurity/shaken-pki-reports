@@ -9,7 +9,7 @@
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 54ms average time it took to download each certificate
+- 59ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://cr.ccid.alticeusa.com/ccid/authn/v2/certs/11011.10003` | true | [view](REPOS/7c63763489db5a31328fcb1d5566d2a3d1ac741f/README.md) |
 
 
-Generated: 02 Nov 22 17:25 UTC
+Generated: 02 Nov 22 20:09 UTC

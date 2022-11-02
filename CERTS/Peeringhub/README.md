@@ -9,26 +9,26 @@
 
 #### Leaf Certificates
 
-- 10 certificates were included in the corpus being tested
-- 0 certificates in the corpus were skipped because they are duplicates
-- 1 certificates in the corpus were skipped because they are expired
+- 11 certificates were included in the corpus being tested
+- 1 certificates in the corpus were skipped because they are duplicates
+- 4 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 9 certificates being tested against the remaining rules
-- 3.44 issues on average found in unexpired, trusted, and non-compliant certificates
+- 6 certificates being tested against the remaining rules
+- 3.17 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
-- 44.44% of certificates contain one or more Warning level issue
+- 16.67% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 166 days is the average remaining validity for the certificates in the corpus
-- 183 days is the average initial validity for the certificates in the corpus
-- 4 certificates expire in the next 30 days
+- 237 days is the average remaining validity for the certificates in the corpus
+- 274 days is the average initial validity for the certificates in the corpus
+- 1 certificates expire in the next 30 days
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 9 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
-| 9 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 9 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
-| 4 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
+| 6 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
+| 6 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
+| 6 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 1 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
 
@@ -63,9 +63,6 @@
 | 26 Aug 22 23:31 UTC | Teleinx SHAKEN 744J | true | [view](CERTS/743032377136fc18e443399c5fc57e36a5706188f141a522438a806143997925/README.md) |
 | 15 Oct 22 00:00 UTC | VOCALTRANSIT SHAKEN 783J | true | [view](CERTS/81b78fff8a772249d72d4854d97672d7ac69a83c4900beaac699d28d220d8c13/README.md) |
 | 19 Oct 22 19:24 UTC | TalkAsiaVoip LLC SHAKEN 198K | true | [view](CERTS/b49964274f962d87bf69c69b8c2efd07cd4de3d20155339e41ab2752477fd19b/README.md) |
-| 01 Nov 22 19:16 UTC | Definitely SHAKEN 709J but not SHAKEN 0007 | true | [view](CERTS/8960e7cbd26618777e4018fdaf9853ff67f176b10954cb37596a75c2dd0a4ddb/README.md) |
-| 01 Nov 22 19:26 UTC | Definitely SHAKEN 709J but not SHAKEN 0007 | true | [view](CERTS/148fa003df4d2ae06a49e002c44e3dd1a78feedd963cfb762b7a07829c496be8/README.md) |
-| 01 Nov 22 19:59 UTC | Definitely SHAKEN 709J but not SHAKEN 0007 | true | [view](CERTS/d35cdea11102a752f34309c8ecae597b4b7c1caf7f41dea46415471eb5317cce/README.md) |
 | 02 Nov 22 07:51 UTC | Apex Telecom LLC SHAKEN 288K | true | [view](CERTS/e64593f4d9a81236af33c40c227d728e49418be50e05be2a8b65ec549a3b9275/README.md) |
 
 #### CA Certificates
@@ -76,4 +73,4 @@
 | 22 Jun 22 22:45 UTC | Peeringhub Inc SHAKEN Intermediate CA 2 | true | [view](CERTS/f00871963a40b04269c4b019968e42f9f40964cbfb512ff5342307e9942874ce/README.md) |
 
 
-Generated: 02 Nov 22 17:25 UTC
+Generated: 02 Nov 22 20:09 UTC

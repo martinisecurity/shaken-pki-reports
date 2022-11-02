@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 254H
 
-Tested At: 02 Nov 22 17:24 UTC\
+Tested At: 02 Nov 22 20:00 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 232 day(s)\
+Remaining Validity Period: 231 day(s)\
 Subject: CN=SHAKEN 254H, O=GTT Americas LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11404.10165
@@ -18,4 +18,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11404.10165
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 02 Nov 22 17:25 UTC
+Generated: 02 Nov 22 20:09 UTC

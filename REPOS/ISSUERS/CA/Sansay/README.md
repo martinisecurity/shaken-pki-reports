@@ -2,20 +2,20 @@
 
 ## Sansay
 
-- 113 repositories were included in the corpus being tested
+- 116 repositories were included in the corpus being tested
 - 1 repositories in the corpus were skipped because they were duplicated
-- 112 repositories being tested against the remaining rules
+- 115 repositories being tested against the remaining rules
 - 1.03 issues on average found in non-compliant certificate repository URLs
-- 0.89% of repositories contain one or more Error level issue
+- 0.87% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 76ms average time it took to download each certificate
+- 74ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
 | 1 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
 | 1 | [e_http_status_200](ISSUES/e_http_status_200/README.md) | HTTP |
-| 112 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 115 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 | 1 | [w_atis_pem_certificate_chain](ISSUES/w_atis_pem_certificate_chain/README.md) | ATIS-1000080 |
 
 | Repository | Problems | Link |
@@ -69,6 +69,7 @@
 | `https://cr.sansay.com/548J/order/169_548J_67` | true | [view](REPOS/4c5607710dc91e24b7d35c8241111829a69650ce/README.md) |
 | `https://cr.sansay.com/548J/order/171_548J_67` | true | [view](REPOS/d53c9a2dd5860f7685913a56391a7276caf8b4bf/README.md) |
 | `https://cr.sansay.com/548J/order/172_548J_67` | true | [view](REPOS/968b850d8648516bd2790515efe4158772a777c3/README.md) |
+| `https://cr.sansay.com/548J/order/173_548J_67` | true | [view](REPOS/0e55240852c8a52f2a660401501cfa82de9d6355/README.md) |
 | `https://cr.sansay.com/557F/order/63_557F_83` | true | [view](REPOS/a0abcc9b8fd7e89a66d9c1a41ab3a9366b1898fc/README.md) |
 | `https://cr.sansay.com/563J_THRESHOLD_COMMUNICATIONS_STIR_SHAKEN.crt` | true | [view](REPOS/f85fee560154bc6178b7fedac47bceef56453bb8/README.md) |
 | `https://cr.sansay.com/583j_BROADBAND_DYNAMICS_STIR_SHAKEN.crt` | true | [view](REPOS/9fcf0f080d2c0623f2ba9d4b16b53c45beff4223/README.md) |
@@ -91,6 +92,7 @@
 | `https://cr.sansay.com/920J/order/123_920J_66` | true | [view](REPOS/20717739dfe31fbabeabbdbe1f0f12347c527693/README.md) |
 | `https://cr.sansay.com/920J/order/130_920J_66` | true | [view](REPOS/e2ebb1303cf9316c9434715cece2a7e1e9cc7ab7/README.md) |
 | `https://cr.sansay.com/920J/order/132_920J_66` | true | [view](REPOS/8cc65bd9979ca42f61c9b574d1b4998907707d53/README.md) |
+| `https://cr.sansay.com/920J/order/137_920J_66` | true | [view](REPOS/5e1abff1440dbc591a4aa9cdc075346957ec707a/README.md) |
 | `https://cr.sansay.com/920J/order/89_920J_66` | true | [view](REPOS/5abc3f1a2ff934b111d57decc9eb60d4918287a6/README.md) |
 | `https://cr.sansay.com/ALD_Telecom_780J` | true | [view](REPOS/d7ca4fda261fe3e94dbb75583e54a38821563cfb/README.md) |
 | `https://cr.sansay.com/Airespring_996H` | true | [view](REPOS/4ddd806de0e836a7bea4f177e1a8c6d6135f0819/README.md) |
@@ -125,6 +127,7 @@
 | `https://cr.sansay.com/Sangoma_777G` | true | [view](REPOS/d966edf780b5f11c51023cd848337658741f7001/README.md) |
 | `https://cr.sansay.com/Technology_Innovation_Lab_599J` | true | [view](REPOS/ba268d6ae99ef17d8941b298c0d6769b9bfb5fd0/README.md) |
 | `https://cr.sansay.com/TeleVoIPs_138K` | true | [view](REPOS/97b714542358d2590f783ea60a92827d238269c5/README.md) |
+| `https://cr.sansay.com/Threshold_Communications_Inc_563J` | true | [view](REPOS/5e73d4398cf7ad85294ad8d944b3171e204ab837/README.md) |
 | `https://cr.sansay.com/Touchtone_683A` | true | [view](REPOS/519b6535a072527dcf7fbd5e2ad00bc7ee756b91/README.md) |
 | `https://cr.sansay.com/VoIP_Innovations_597F` | true | [view](REPOS/079477935053ae5bf3a8318a3ff591f0afeffdda/README.md) |
 | `https://cr.sansay.com/Voxox_696J` | true | [view](REPOS/a52e7b77dde6d8aed326733d9c76772aa1e1b742/README.md) |
@@ -134,4 +137,4 @@
 | `https://cr.sansay.com/star2star_stirshaken_20220922` | true | [view](REPOS/9f19fc9d73b83395796f7e4f0d8a277010ab2fd7/README.md) |
 
 
-Generated: 02 Nov 22 17:25 UTC
+Generated: 02 Nov 22 20:09 UTC

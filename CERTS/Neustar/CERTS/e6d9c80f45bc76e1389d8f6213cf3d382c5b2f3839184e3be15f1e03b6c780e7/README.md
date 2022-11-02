@@ -2,9 +2,9 @@
 
 ## Certificate vonage
 
-Tested At: 02 Nov 22 17:23 UTC\
+Tested At: 02 Nov 22 19:59 UTC\
 Initial Validity Period: 1096 day(s)\
-Remaining Validity Period: 47 day(s)\
+Remaining Validity Period: 46 day(s)\
 Subject: C=US, ST=NJ, L=Holmdel, O=Vonage Eng, OU=Vonage Eng, CN=vonage\
 Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11053.10194
@@ -39,4 +39,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11053.10194
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 02 Nov 22 17:25 UTC
+Generated: 02 Nov 22 20:09 UTC

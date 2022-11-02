@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 5447
 
-Tested At: 02 Nov 22 17:24 UTC\
+Tested At: 02 Nov 22 20:00 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 148 day(s)\
 Subject: CN=SHAKEN 5447, O=Access One Inc, C=US\
@@ -18,4 +18,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11528.10146
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 02 Nov 22 17:25 UTC
+Generated: 02 Nov 22 20:09 UTC

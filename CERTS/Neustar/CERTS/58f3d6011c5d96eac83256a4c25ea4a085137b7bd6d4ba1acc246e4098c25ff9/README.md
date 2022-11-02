@@ -2,7 +2,7 @@
 
 ## Certificate Shaken
 
-Tested At: 02 Nov 22 17:24 UTC\
+Tested At: 02 Nov 22 20:00 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 477 day(s)\
 Subject: C=US, ST=CO, L=Denver, O=Teliax Inc., OU=Teliax Inc., CN=Shaken\
@@ -28,4 +28,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11316.10181
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 02 Nov 22 17:25 UTC
+Generated: 02 Nov 22 20:09 UTC

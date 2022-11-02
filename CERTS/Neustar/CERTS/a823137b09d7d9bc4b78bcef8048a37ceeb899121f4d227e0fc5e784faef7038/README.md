@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 863J
 
-Tested At: 02 Nov 22 17:24 UTC\
+Tested At: 02 Nov 22 20:01 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 123 day(s)\
 Subject: CN=SHAKEN 863J, O=Contact Center Specialists LLC, C=US\
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/16de0926d65be10547c26ed3417d6ffd26e3a7f3
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 02 Nov 22 17:25 UTC
+Generated: 02 Nov 22 20:09 UTC

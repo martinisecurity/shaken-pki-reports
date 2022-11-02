@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 502E
 
-Tested At: 02 Nov 22 17:25 UTC\
+Tested At: 02 Nov 22 20:01 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 172 day(s)\
 Subject: CN=SHAKEN 502E, O=Accessline Communications Corp., C=US\
@@ -18,4 +18,4 @@ Link: https://sscerts.accessline.com/sscerts/Cert-US-04-2022.crt
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 02 Nov 22 17:25 UTC
+Generated: 02 Nov 22 20:09 UTC

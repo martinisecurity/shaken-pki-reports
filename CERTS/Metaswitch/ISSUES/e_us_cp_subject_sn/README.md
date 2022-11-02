@@ -26,6 +26,7 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 | error | Everstream SHAKEN Cert 472C  | [view](../../CERTS/8710bb38debebd39698fb1c273409b173951cca1fab53a6d4c4aca91e61e06df/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Cspire SHAKEN Cert 6581 | [view](../../CERTS/09ed5b3292b5bfc7ac80b1027a827138b9503aa8053a61431a8dc851ecad04f2/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | WOW Internet Cable and Phone SHAKEN Cert 665E | [view](../../CERTS/9f86e038b4f6c3bf7fabfe8d4008b071f81bd33a80c55ea66a1aadd79eb9b989/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| error | Viaero Wireless SHAKEN Cert 6874 | [view](../../CERTS/fe826427006707276b684368c81c7b2039d4ce72b25c5cf0a0c039993b026573/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | New Horizon SHAKEN Cert 127E | [view](../../CERTS/5b2842e49ecc543187018171fa660e32bdba390a7977c0de97a00aef35b8ae01/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Segra SHAKEN Cert 1784 | [view](../../CERTS/f802b8b879d063b87665d8b2a67f6d3ba78a94aa35782f664a6a40afc7586f56/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | South Central Rural Telecommunications Coop SHAKEN Cert 0418 | [view](../../CERTS/6e988e3a74dbb6c1862118841d78e438f345c1ef7e79a96c2087328b5de146c1/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
@@ -39,4 +40,4 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 No error, warning, or notice level issues were found
 
 
-Generated: 02 Nov 22 17:25 UTC
+Generated: 02 Nov 22 20:09 UTC
