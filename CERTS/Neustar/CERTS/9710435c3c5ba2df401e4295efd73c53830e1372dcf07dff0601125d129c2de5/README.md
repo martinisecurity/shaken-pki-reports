@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 3130
 
-Tested At: 02 Nov 22 20:00 UTC\
+Tested At: 02 Nov 22 21:16 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 202 day(s)\
 Subject: CN=SHAKEN 3130, O=Bullseye Telecom, C=US\
@@ -18,4 +18,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11416.10156.pem
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 02 Nov 22 20:09 UTC
+Generated: 02 Nov 22 21:24 UTC

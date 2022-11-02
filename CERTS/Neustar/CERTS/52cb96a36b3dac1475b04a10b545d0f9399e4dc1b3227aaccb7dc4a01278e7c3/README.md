@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 750J
 
-Tested At: 02 Nov 22 19:59 UTC\
+Tested At: 02 Nov 22 21:15 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 79 day(s)\
 Subject: CN=SHAKEN 750J, O=Microtalk USA\\, Inc., C=US\
@@ -18,4 +18,4 @@ Link: https://appreg.telcoportal.com/mobileapps/neustar/Microtalk-Shaken.pem
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 02 Nov 22 20:09 UTC
+Generated: 02 Nov 22 21:24 UTC

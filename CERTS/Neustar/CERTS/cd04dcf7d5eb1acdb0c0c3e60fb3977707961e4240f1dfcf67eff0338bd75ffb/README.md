@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 962J
 
-Tested At: 02 Nov 22 19:59 UTC\
+Tested At: 02 Nov 22 21:15 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 253 day(s)\
 Subject: CN=SHAKEN 962J, O=Versatel LLC, C=US\
@@ -18,4 +18,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/176.230
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 02 Nov 22 20:09 UTC
+Generated: 02 Nov 22 21:24 UTC

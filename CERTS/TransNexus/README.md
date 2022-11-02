@@ -11,25 +11,25 @@
 
 - 356 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
-- 275 certificates in the corpus were skipped because they are expired
+- 288 certificates in the corpus were skipped because they are expired
 - 1 certificates in the corpus were skipped because they are not currently trusted
-- 80 certificates being tested against the remaining rules
-- 2.56 issues on average found in unexpired, trusted, and non-compliant certificates
+- 67 certificates being tested against the remaining rules
+- 2.48 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 100.00% of certificates contain one or more Warning level issue
-- 1.25% of certificates contain one or more Notice level issue
-- 1.25% of certificates are too old to be assessed against currently enforced expectations
-- 63 days is the average remaining validity for the certificates in the corpus
-- 62 days is the average initial validity for the certificates in the corpus
-- 64 certificates expire in the next 30 days
+- 0.00% of certificates contain one or more Notice level issue
+- 1.49% of certificates are too old to be assessed against currently enforced expectations
+- 73 days is the average remaining validity for the certificates in the corpus
+- 72 days is the average initial validity for the certificates in the corpus
+- 51 certificates expire in the next 30 days
 
 | Instances | Test | Source |
 |-----------|------|--------|
 | 3 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
-| 39 | [e_incorrect_ku_encoding](ISSUES/e_incorrect_ku_encoding/README.md) | RFC5280 |
+| 26 | [e_incorrect_ku_encoding](ISSUES/e_incorrect_ku_encoding/README.md) | RFC5280 |
 | 3 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 80 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
-| 80 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
+| 67 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 67 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
 
@@ -41,7 +41,7 @@
 - 3.00 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 100.00% of certificates contain one or more Warning level issue
-- 100.00% of certificates contain one or more Notice level issue
+- 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
 - 5369 days is the average remaining validity for the certificates in the corpus
 - 4870 days is the average initial validity for the certificates in the corpus
@@ -82,21 +82,8 @@
 | 20 Oct 22 15:48 UTC | SHAKEN 622J | true | [view](CERTS/2e34c765f110b197f2ec1052b1960bc25ce320dfce7d7035cc532cd1eb6dbd57/README.md) |
 | 22 Oct 22 04:04 UTC | SHAKEN 345J | true | [view](CERTS/27c018db560aefbff83f32326db2cbf3f1260051386569d7775cf98fae145bae/README.md) |
 | 22 Oct 22 04:44 UTC | SHAKEN 345J | true | [view](CERTS/109a4ac394ec4e6eb6ba42d2ad6bc799f2548629a8bbfb9420b9ec1ca5df6ff9/README.md) |
-| 24 Oct 22 20:22 UTC | SHAKEN 738J | true | [view](CERTS/1f99a81d0b090f467a47da69b1549fbabc7d8277f67a1f31d05c53e92cceb54c/README.md) |
 | 25 Oct 22 15:33 UTC | SHAKEN 722J | true | [view](CERTS/50eb0c6a670f4122f8fbdb75582aa257fe3979f441fb396ff738372627104f9c/README.md) |
 | 26 Oct 22 10:43 UTC | SHAKEN 8526 | true | [view](CERTS/b68dadcfa6267b8e9dd012e42154b55cab6d3694f4543e46af44bab1e4ba971e/README.md) |
-| 26 Oct 22 20:17 UTC | SHAKEN 674J | true | [view](CERTS/6fd005ce139c83958c022da431a4a721569905d4b6b43de0375a1f7d4b98d275/README.md) |
-| 26 Oct 22 20:18 UTC | SHAKEN 735J | true | [view](CERTS/9316e334abe6c964bac27767052062b6c0de27827a606d1cd746e95f97472411/README.md) |
-| 26 Oct 22 20:19 UTC | SHAKEN 738J | true | [view](CERTS/3a7079d02db69f8133c4892893d6d94a5b893aca3578938a74ed360392488012/README.md) |
-| 26 Oct 22 20:22 UTC | SHAKEN 469A | true | [view](CERTS/8d2fef64712c082b249ae7805b66ad21f2aef4fee890f786747f3bcf77051ed7/README.md) |
-| 26 Oct 22 20:22 UTC | SHAKEN 790J | true | [view](CERTS/854b6402cb0b321c3d810426dbf87b6b7b98210f836a6162f00759a448e96d9a/README.md) |
-| 26 Oct 22 20:22 UTC | SHAKEN 721J | true | [view](CERTS/b245669c56c66223f8e5f946e40a3e4a2fd17a126e19bc5149a3e310f5448fb2/README.md) |
-| 26 Oct 22 20:23 UTC | SHAKEN 625J | true | [view](CERTS/436afa7fd59130c2cfb61515f1881bdb6b26df00104fc20a34813ec2837ae5bc/README.md) |
-| 26 Oct 22 20:23 UTC | SHAKEN 738J | true | [view](CERTS/24b935c4e2f91a82ff346147d216ffcfbbb408b7d41886788c3e7158c4573825/README.md) |
-| 26 Oct 22 20:23 UTC | SHAKEN 459J | true | [view](CERTS/b8c1d7beff3357f2ba432ff63529da29fd4871b1e11ae59e0f3d30eb6f7b4b51/README.md) |
-| 26 Oct 22 20:25 UTC | SHAKEN 366G | true | [view](CERTS/e3f28ec5803737280fee53e08b1097a304fc1b27cee05c9edb7836ce26691681/README.md) |
-| 26 Oct 22 20:25 UTC | SHAKEN 738J | true | [view](CERTS/e227f5d1d545dc5289555dfb281c3b6e3642834bad66c25d997dedeee729f046/README.md) |
-| 26 Oct 22 20:25 UTC | SHAKEN 0226 | true | [view](CERTS/fd4e9f41bea50e0e2615d2a9686e0dc7d4363c67912c4d355df0e4ec9b3faa14/README.md) |
 | 26 Oct 22 22:00 UTC | SHAKEN 551G | true | [view](CERTS/6052628e9622c0b9247ee1139aec68db77c73a3857882d712de67adf4cce6083/README.md) |
 | 27 Oct 22 16:32 UTC | SHAKEN 291K | true | [view](CERTS/deefe1aa4ab2ec077f2a86adefc2664087be0c4392d579fc0ed49b04fe7345f6/README.md) |
 | 27 Oct 22 19:07 UTC | SHAKEN 749J | true | [view](CERTS/1fc9e8d8a8e19300e114d8b68b9eed28cad0ceb35dc90bb4ca4d07c39116248d/README.md) |
@@ -149,4 +136,4 @@
 | 20 Aug 21 00:00 UTC | TransNexus, Inc. SHAKEN Root CA1 | true | [view](CERTS/59ab943f4e8c3c17755cc8e4abb5ac65736ce74ec587c62cb744ab0babbbe2fe/README.md) |
 
 
-Generated: 02 Nov 22 20:09 UTC
+Generated: 02 Nov 22 21:24 UTC

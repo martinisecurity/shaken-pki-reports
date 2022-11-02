@@ -2,7 +2,7 @@
 
 ## Certificate Martini Security SHAKEN R1
 
-Tested At: 02 Nov 22 20:09 UTC\
+Tested At: 02 Nov 22 21:24 UTC\
 Initial Validity Period: 9132 day(s)\
 Remaining Validity Period: 8949 day(s)\
 Subject: CN=Martini Security SHAKEN R1, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
@@ -13,4 +13,4 @@ Issuer: CN=Martini Security SHAKEN R1, O=Martini Security\\, LLC, L=Seattle, ST=
 149 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Nov 22 20:09 UTC
+Generated: 02 Nov 22 21:24 UTC

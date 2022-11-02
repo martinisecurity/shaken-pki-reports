@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 023K
 
-Tested At: 02 Nov 22 20:01 UTC\
+Tested At: 02 Nov 22 21:16 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 259 day(s)\
 Subject: CN=SHAKEN 023K, O=Pulsar360 Corp, C=US\
@@ -18,4 +18,4 @@ Link: https://ecms.securetransit.net/certs/410bad9e05a57353f0d8739a421be619.cer
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 02 Nov 22 20:09 UTC
+Generated: 02 Nov 22 21:24 UTC

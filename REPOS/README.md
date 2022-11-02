@@ -7,33 +7,33 @@
 - 800 repositories were included in the corpus being tested
 - 112 repositories in the corpus were skipped because they were duplicated
 - 688 repositories being tested against the remaining rules
-- 1.66 issues on average found in non-compliant certificate repository URLs
+- 1.67 issues on average found in non-compliant certificate repository URLs
 - 29.22% of repositories contain one or more Error level issue
-- 46.22% of repositories contain one or more Warning level issue
+- 45.93% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 350ms average time it took to download each certificate
+- 379ms average time it took to download each certificate
 
 ### CA Operated Repositories
 
 - 717 repositories were included in the corpus being tested
 - 101 repositories in the corpus were skipped because they were duplicated
 - 616 repositories being tested against the remaining rules
-- 1.55 issues on average found in non-compliant certificate repository URLs
+- 1.56 issues on average found in non-compliant certificate repository URLs
 - 22.08% of repositories contain one or more Error level issue
-- 40.91% of repositories contain one or more Warning level issue
+- 40.58% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 368ms average time it took to download each certificate
+- 365ms average time it took to download each certificate
 
 ### Service Provider Operated Repositories
 
 - 83 repositories were included in the corpus being tested
 - 11 repositories in the corpus were skipped because they were duplicated
 - 72 repositories being tested against the remaining rules
-- 2.09 issues on average found in non-compliant certificate repository URLs
+- 2.11 issues on average found in non-compliant certificate repository URLs
 - 90.28% of repositories contain one or more Error level issue
 - 91.67% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 189ms average time it took to download each certificate
+- 497ms average time it took to download each certificate
 
 ## Details
 
@@ -42,7 +42,7 @@
 | Issuers | Certificates | Errors | Warnings | Notices |
 |----|--------------|--------|----------|---------|
 | [Comcast](ISSUERS/CA/Comcast/README.md) | 53 (8.60%) | 53 (100.00%) | 53 (100.00%) | 0 (0.00%) |
-| [Martini Security](ISSUERS/CA/Martini_Security/README.md) | 13 (2.11%) | 0 (0.00%) | 2 (15.38%) | 0 (0.00%) |
+| [Martini Security](ISSUERS/CA/Martini_Security/README.md) | 13 (2.11%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
 | [Metaswitch](ISSUERS/CA/Metaswitch/README.md) | 15 (2.44%) | 15 (100.00%) | 15 (100.00%) | 0 (0.00%) |
 | [Neustar](ISSUERS/CA/Neustar/README.md) | 55 (8.93%) | 55 (100.00%) | 55 (100.00%) | 0 (0.00%) |
 | [Peeringhub](ISSUERS/CA/Peeringhub/README.md) | 4 (0.65%) | 4 (100.00%) | 4 (100.00%) | 0 (0.00%) |
@@ -50,7 +50,7 @@
 | [Sansay](ISSUERS/CA/Sansay/README.md) | 115 (18.67%) | 1 (0.87%) | 115 (100.00%) | 0 (0.00%) |
 | [T-Mobile](ISSUERS/CA/T-Mobile/README.md) | 1 (0.16%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [TransNexus](ISSUERS/CA/TransNexus/README.md) | 353 (57.31%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
-| **Total** | 616 (100.00%) | 136 (22.08%) | 252 (40.91%) | 0 (0.00%) |
+| **Total** | 616 (100.00%) | 136 (22.08%) | 250 (40.58%) | 0 (0.00%) |
 
 ### Service Provider Operated Repositories
 
@@ -66,7 +66,6 @@
 | [Baltimore-Washington Telephone Company](ISSUERS/SP/Baltimore-Washington_Telephone_Company/README.md) | 1 (1.39%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Bandwidth.com CLEC LLC](ISSUERS/SP/Bandwidth.com_CLEC_LLC/README.md) | 1 (1.39%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Bulk Solutions, LLC](ISSUERS/SP/Bulk_Solutions,_LLC/README.md) | 1 (1.39%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [Charter Communications Inc SHAKEN 5606](ISSUERS/SP/Charter_Communications_Inc_SHAKEN_5606/README.md) | 1 (1.39%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Clearly IP](ISSUERS/SP/Clearly_IP/README.md) | 1 (1.39%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Commio](ISSUERS/SP/Commio/README.md) | 1 (1.39%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Company Name](ISSUERS/SP/Company_Name/README.md) | 1 (1.39%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -114,7 +113,7 @@
 | [TextNow Inc.](ISSUERS/SP/TextNow_Inc./README.md) | 1 (1.39%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [TransNexus](ISSUERS/SP/TransNexus/README.md) | 1 (1.39%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [U. S. Telepacific Corp](ISSUERS/SP/U._S._Telepacific_Corp/README.md) | 1 (1.39%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [Unknown](ISSUERS/SP/Unknown/README.md) | 1 (1.39%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
+| [Unknown](ISSUERS/SP/Unknown/README.md) | 2 (2.78%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
 | [VOIP ESSENTIAL INC](ISSUERS/SP/VOIP_ESSENTIAL_INC/README.md) | 0 (0.00%) | 0 (NaN%) | 0 (NaN%) | 0 (NaN%) |
 | [Verizon Data Services LLC](ISSUERS/SP/Verizon_Data_Services_LLC/README.md) | 1 (1.39%) | 0 (0.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Vibratel](ISSUERS/SP/Vibratel/README.md) | 1 (1.39%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -138,4 +137,4 @@
 | Notices | Tests in which industry best practices are not followed. |
 
 
-Generated: 02 Nov 22 20:09 UTC
+Generated: 02 Nov 22 21:24 UTC
