@@ -200,7 +200,7 @@ func PrintCertificateReport(w io.Writer, r *LintCommandItem) {
 		fmt.Fprintln(w)
 	}
 	fmt.Fprintln(w)
-	fmt.Fprintf(w, "View: [Click to view](https://understandingwebpki.com/?cert=%s)\n", url.QueryEscape(base64.StdEncoding.EncodeToString(r.Certificate.Raw)))
+	fmt.Fprintf(w, "View: [View certificate details](https://understandingwebpki.com/?cert=%s)\n", url.QueryEscape(base64.StdEncoding.EncodeToString(r.Certificate.Raw)))
 	fmt.Fprintln(w)
 
 	if r.CertificateResult.HasProblems() {
@@ -314,8 +314,8 @@ func PrintCertificates(w io.Writer, r []*LintCommandItem, basePath string) {
 
 func PrintProblems(w io.Writer, r map[string]*Problem) {
 	if len(r) > 0 {
-		fmt.Fprintln(w, "| Instances | Test Status | Source |")
-		fmt.Fprintln(w, "|-----------|-------------|--------|")
+		fmt.Fprintln(w, "| Instances | Test | Source |")
+		fmt.Fprintln(w, "|-----------|------|--------|")
 
 		// sort problems by code names
 		keys := make([]string, 0, len(r))
