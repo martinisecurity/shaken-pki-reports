@@ -173,7 +173,7 @@ func (t *CertificateGroupReport) Append(i *LintCommandItem) bool {
 	if len(cr.Warn) > 0 {
 		t.WarnAmount += 1
 	}
-	if len(cr.NotEffective) > 0 {
+	if len(cr.Notice) > 0 {
 		t.NoticeAmount += 1
 	}
 	if len(cr.NotEffective) > 0 {
