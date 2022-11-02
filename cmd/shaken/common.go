@@ -65,7 +65,7 @@ func CreateReport(name string) (*os.File, error) {
 func PrintFooter(w io.Writer) {
 	now := time.Now()
 	fmt.Fprintln(w, "")
-	fmt.Fprintf(w, "Generated: %s at %s", now.Format("02/01/2006"), now.Format("15:04:05"))
+	fmt.Fprintf(w, "Generated: %s", now.Format(time.RFC822))
 }
 
 // ReadRootCertificates reads root certificates from the specified file and returns CertPool.
