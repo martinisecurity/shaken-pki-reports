@@ -9,7 +9,7 @@
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 188ms average time it took to download each certificate
+- 306ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://stir-shaken.jnctn.net/onsip-stir-shaken.pem` | true | [view](REPOS/0dcdc70177862a9d56e8223d801094e7df66e553/README.md) |
 
 
-Generated: 02 Nov 22 21:24 UTC
+Generated: 04 Nov 22 01:11 UTC

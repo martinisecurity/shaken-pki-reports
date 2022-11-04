@@ -9,7 +9,7 @@
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 120ms average time it took to download each certificate
+- 194ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://certificate.zt.plivo.com/cert09062023.crt` | true | [view](REPOS/baa1251ebc3270e2f29ebe74c432d508093954f3/README.md) |
 
 
-Generated: 02 Nov 22 21:24 UTC
+Generated: 04 Nov 22 01:11 UTC

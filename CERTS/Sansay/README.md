@@ -9,9 +9,9 @@
 
 #### Leaf Certificates
 
-- 126 certificates were included in the corpus being tested
+- 127 certificates were included in the corpus being tested
 - 3 certificates in the corpus were skipped because they are duplicates
-- 27 certificates in the corpus were skipped because they are expired
+- 28 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
 - 96 certificates being tested against the remaining rules
 - 5.51 issues on average found in unexpired, trusted, and non-compliant certificates
@@ -44,7 +44,7 @@
 - 100.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 50.00% of certificates are too old to be assessed against currently enforced expectations
-- 5451 days is the average remaining validity for the certificates in the corpus
+- 5450 days is the average remaining validity for the certificates in the corpus
 - 4928 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -61,7 +61,6 @@
 | 12 Sep 22 19:37 UTC | SHAKEN Bulk Solutions, LLC 644J | true | [view](CERTS/2b980444a4603ddf16248bee9dbdce112f593d4d5324443e641624a827af0cb2/README.md) |
 | 23 Sep 22 01:10 UTC | SHAKEN Star2Star Communications, LLC 590J | true | [view](CERTS/b6c27ce63b22687fcd2f9f64ee9067dd3c19a4eb223f1aef3934f7ba95c54ba6/README.md) |
 | 01 Oct 22 00:00 UTC | SHAKEN IP Link Telecom Inc. 902J | true | [view](CERTS/53d491627ef52772ffd75835f745e895f025bfc853523028b42c0bc1681e5f67/README.md) |
-| 04 Oct 22 03:32 UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | true | [view](CERTS/d4d182512d7a0a08d36bdc57a093093c9d76c4ba70e6d05976634507efbbf16d/README.md) |
 | 05 Oct 22 03:27 UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | true | [view](CERTS/900378b0848e406f48795d3e65e4c6147eb5877ae8d8d28b778ac42a428f58df/README.md) |
 | 05 Oct 22 19:08 UTC | SHAKEN IP Link Telecom Inc. 902J | true | [view](CERTS/fa453a929f14e705532a1974b216dedb71ba1f10d6af0df07f1084bfbb2038db/README.md) |
 | 06 Oct 22 03:22 UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | true | [view](CERTS/10df08b76b13d13b8335da031a88902f217a899b6f4ed1e0af0a153be065dd3b/README.md) |
@@ -154,6 +153,7 @@
 | 01 Nov 22 15:45 UTC | SHAKEN Quality Voice & Data Inc. 548J | true | [view](CERTS/8660f3e745ab090b45cf80648e48b2cc83449bb33a650bee29b9c4c498d268d4/README.md) |
 | 01 Nov 22 19:07 UTC | SHAKEN Zray Technologies Corporation 862J | true | [view](CERTS/3a227acdee5e639036b62df263e132c42bb684a9d6273fe6611464dbe434b2db/README.md) |
 | 02 Nov 22 16:14 UTC | SHAKEN InteractiveTel, LLC 920J | true | [view](CERTS/0ced8150d7cbed20775669aafeecd05726f233c901d024bb4fa64e9ce75b9f7a/README.md) |
+| 03 Nov 22 15:35 UTC | SHAKEN Quality Voice & Data Inc. 548J | true | [view](CERTS/e05e81f7e34f2088102df66b64b44c5549708f9182a79e6e7d1157333260d98b/README.md) |
 
 #### CA Certificates
 
@@ -163,4 +163,4 @@
 | 02 Sep 22 20:53 UTC | SHAKEN Sansay Intermediate CA US WEST 1 | true | [view](CERTS/4b1dfdba2b1e4bbffbf900a20f1f6f7befbef0008b963e4922a64469cb97d24b/README.md) |
 
 
-Generated: 02 Nov 22 21:24 UTC
+Generated: 04 Nov 22 01:11 UTC

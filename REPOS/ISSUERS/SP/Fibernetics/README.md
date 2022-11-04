@@ -9,7 +9,7 @@
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 360ms average time it took to download each certificate
+- 295ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://stir.fibernetics.ca/prod-cert2022.pem` | true | [view](REPOS/f05a2bc5b325df9f44c5910b4c2c52ac3b17200d/README.md) |
 
 
-Generated: 02 Nov 22 21:24 UTC
+Generated: 04 Nov 22 01:11 UTC

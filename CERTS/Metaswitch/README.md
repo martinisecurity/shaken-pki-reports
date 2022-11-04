@@ -90,4 +90,4 @@
 | 25 Nov 20 11:57 UTC | Metaswitch STI-CA SHAKEN Issuing 1 | true | [view](CERTS/b91a9874fbefc3feda9d5f9bd336e8b999c9b15b25aae7fe3c61d87373a5d1a1/README.md) |
 
 
-Generated: 02 Nov 22 21:24 UTC
+Generated: 04 Nov 22 01:11 UTC

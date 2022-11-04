@@ -3,8 +3,8 @@
 ## Sansay
 
 Name: `https://cr.sansay.com/Matrix-7379`\
-Tested At: 02 Nov 22 21:16 UTC\
-Time: 9ms
+Tested At: 04 Nov 22 01:10 UTC\
+Time: 2ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 9ms
 |------|------|--------|---------|
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 02 Nov 22 21:24 UTC
+Generated: 04 Nov 22 01:11 UTC

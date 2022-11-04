@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 115K
 
-Tested At: 02 Nov 22 21:15 UTC\
+Tested At: 04 Nov 22 01:09 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: 7 day(s)\
+Remaining Validity Period: 6 day(s)\
 Subject: CN=SHAKEN 115K, OU=SHAKEN, O=RenterNET, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/115K/fc9eb1ec-7be6-4ebc-b2ac-d1727482970c.pem
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/115K/fc9eb1ec-7be6-4ebc-b2ac-d17274829
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 02 Nov 22 21:24 UTC
+Generated: 04 Nov 22 01:11 UTC

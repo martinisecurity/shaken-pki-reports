@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 506J
 
-Tested At: 02 Nov 22 21:15 UTC\
+Tested At: 04 Nov 22 01:10 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 71 day(s)\
+Remaining Validity Period: 69 day(s)\
 Subject: CN=SHAKEN 506J, O=Twilio International, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11078.10126
@@ -26,4 +26,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11078.10126
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 02 Nov 22 21:24 UTC
+Generated: 04 Nov 22 01:11 UTC

@@ -1,10 +1,10 @@
 # STIR/SHAKEN Certificate Repository Compliance
 
-## Unknown
+## Rscom LTD
 
-Name: `https://shaken.spectrum.com/4d65efdb8a1ca366e9576c8fda747fa4.pem`\
-Tested At: 02 Nov 22 21:16 UTC\
-Time: 5409ms
+Name: `https://ssc.getsipnav.com/certs/2e7995d25837c174efaf63e3ff1b1d69456e6412`\
+Tested At: 04 Nov 22 01:11 UTC\
+Time: 22ms
 
 ### Issues
 
@@ -12,6 +12,5 @@ Time: 5409ms
 |------|------|--------|---------|
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
-| [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 02 Nov 22 21:24 UTC
+Generated: 04 Nov 22 01:11 UTC

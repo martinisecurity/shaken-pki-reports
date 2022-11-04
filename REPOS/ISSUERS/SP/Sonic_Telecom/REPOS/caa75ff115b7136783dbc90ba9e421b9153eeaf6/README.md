@@ -3,8 +3,8 @@
 ## Sonic Telecom
 
 Name: `https://crs.qcall.sonic.net/certs/soniccertchain.crt`\
-Tested At: 02 Nov 22 21:16 UTC\
-Time: 260ms
+Tested At: 04 Nov 22 01:10 UTC\
+Time: 118ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 260ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 02 Nov 22 21:24 UTC
+Generated: 04 Nov 22 01:11 UTC

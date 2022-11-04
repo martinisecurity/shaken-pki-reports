@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 963J
 
-Tested At: 02 Nov 22 21:15 UTC\
+Tested At: 04 Nov 22 01:08 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 155 day(s)\
+Remaining Validity Period: 154 day(s)\
 Subject: CN=SHAKEN 963J, O=Freevoice, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: http://sip.phx.dlr.freevoicepbx.com/Freevoice_963J
@@ -13,9 +13,9 @@ Link: http://sip.phx.dlr.freevoicepbx.com/Freevoice_963J
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 02 Nov 22 21:24 UTC
+Generated: 04 Nov 22 01:11 UTC

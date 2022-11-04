@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 854D
 
-Tested At: 02 Nov 22 21:15 UTC\
+Tested At: 04 Nov 22 01:09 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: 6 day(s)\
+Remaining Validity Period: 5 day(s)\
 Subject: CN=SHAKEN 854D, OU=SHAKEN, O=Xtel, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/627e4253-759f-447e-b1a0-c9cda9a6d597/b0066404e0aac0b7ab4cd171159c982d.pem
@@ -17,4 +17,4 @@ Link: https://certificates.clearip.com/627e4253-759f-447e-b1a0-c9cda9a6d597/b006
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 02 Nov 22 21:24 UTC
+Generated: 04 Nov 22 01:11 UTC

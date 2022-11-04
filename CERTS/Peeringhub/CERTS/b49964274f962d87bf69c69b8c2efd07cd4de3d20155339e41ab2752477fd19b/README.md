@@ -2,9 +2,9 @@
 
 ## Certificate TalkAsiaVoip LLC SHAKEN 198K
 
-Tested At: 02 Nov 22 21:24 UTC\
+Tested At: 04 Nov 22 01:11 UTC\
 Initial Validity Period: 31 day(s)\
-Remaining Validity Period: 17 day(s)\
+Remaining Validity Period: 16 day(s)\
 Subject: CN=TalkAsiaVoip LLC SHAKEN 198K, O=TalkAsiaVoip LLC, ST=DE, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://www.talkasiavoip.com/198K.pem
@@ -18,4 +18,4 @@ Link: https://www.talkasiavoip.com/198K.pem
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 02 Nov 22 21:24 UTC
+Generated: 04 Nov 22 01:11 UTC
