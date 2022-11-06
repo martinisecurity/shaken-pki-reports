@@ -11,6 +11,7 @@ import (
 	"time"
 
 	"github.com/martinisecurity/shaken-pki-reports/cmd/internal"
+	"github.com/martinisecurity/shaken-pki-reports/repository"
 	"github.com/zmap/zcrypto/x509"
 	"github.com/zmap/zlint/v3"
 	"github.com/zmap/zlint/v3/lint"
@@ -213,6 +214,17 @@ func RunLintCommand(args *LintCommandArgs) error {
 	urls, err := ReadURLs(args.Url)
 	if err != nil {
 		return err
+	}
+
+	providers := repository.Providers{
+		&repository.MartiniSecurityProvider{},
+	}
+	for _, provider := range providers {
+		repoUrls, err := provider.GetURLs()
+		if err != nil {
+			fmt.Printf("failed to URLs from the repository provider, %s\n", err.Error())
+		}
+		urls = append(urls, repoUrls...)
 	}
 
 	// get root certs
