@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 743J
 
-Tested At: 04 Nov 22 01:11 UTC\
+Tested At: 06 Nov 22 17:27 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 237 day(s)\
+Remaining Validity Period: 235 day(s)\
 Subject: CN=SHAKEN 743J, O=Whisl Telecom LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/8edc7b58944d44dd597d88ceae74ae41fa544d2e
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/8edc7b58944d44dd597d88ceae74ae41fa544d2e
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 04 Nov 22 01:11 UTC
+Generated: 06 Nov 22 17:28 UTC

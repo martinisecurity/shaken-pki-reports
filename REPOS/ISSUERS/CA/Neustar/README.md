@@ -9,7 +9,7 @@
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 43ms average time it took to download each certificate
+- 58ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -75,4 +75,4 @@
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11553.10201` | true | [view](REPOS/62e3afacb90645592e3d4e7185b43407a653913e/README.md) |
 
 
-Generated: 04 Nov 22 01:11 UTC
+Generated: 06 Nov 22 17:28 UTC

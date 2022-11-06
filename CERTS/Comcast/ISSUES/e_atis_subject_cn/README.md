@@ -14,10 +14,7 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 |--------|---------|------|---------|
 | error | SHAKEN | [view](../../CERTS/f43c128e22aaa4c560e4ecc67309f7e6c0aef21f62c76faa9d648109f572378c/README.md) | Common name shall contain the text string 'SHAKEN 7610' |
 | error | SHAKEN | [view](../../CERTS/56ac7c9635383e869ee9b816df361d00c4f17afe60188f234cc1e2906a913781/README.md) | Common name shall contain the text string 'SHAKEN 7610' |
-| error | SHAKEN | [view](../../CERTS/7fda3ccce7ec708448edc8f96c95b90bc375152feea1c026234beefc37e81999/README.md) | Common name shall contain the text string 'SHAKEN 7610' |
 | error | SHAKEN | [view](../../CERTS/566e9572a4ea7da8554e2e98ef13e3ec5e4cf13d4d58fe14de464e57e470b352/README.md) | Common name shall contain the text string 'SHAKEN 7610' |
-| error | SHAKEN | [view](../../CERTS/c90c48389bbe12c02325baedc377a16cad73a248cb694897540a40e02b878bc0/README.md) | Common name shall contain the text string 'SHAKEN 7610' |
-| error | SHAKEN | [view](../../CERTS/b96dae77063316253cbb42805030185deff677108a05e39b2405255316978fd8/README.md) | Common name shall contain the text string 'SHAKEN 7610' |
 | error | SHAKEN | [view](../../CERTS/735539bc495f743e25fea39ecef9566c17bedaf976cf0057d2bb3569ab448d02/README.md) | Common name shall contain the text string 'SHAKEN 7610' |
 | error | SHAKEN | [view](../../CERTS/229186c59640158d1f281af3617371c072f0663799dabb05a8e4d577b11fb83e/README.md) | Common name shall contain the text string 'SHAKEN 7610' |
 | error | SHAKEN | [view](../../CERTS/4359cd2f3d758f495356d11669974761f5671c7512a2278340d0927a0a390fb4/README.md) | Common name shall contain the text string 'SHAKEN 318J' |
@@ -47,16 +44,13 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 | error | SHAKEN | [view](../../CERTS/67a979476b3e4fb995be4075053f9a805b3df4b18dc09f532c2c239b3dadc13d/README.md) | Common name shall contain the text string 'SHAKEN 318J' |
 | error | SHAKEN | [view](../../CERTS/107165d254b42351095a42289be894289212c27f44c959eed5bfb209c91de6d0/README.md) | Common name shall contain the text string 'SHAKEN 7610' |
 | error | SHAKEN | [view](../../CERTS/748774b40fe43fdc9b29363b0bdf107884b3447e2110f8429cc6b893993c1bd2/README.md) | Common name shall contain the text string 'SHAKEN 7610' |
-| error | SHAKEN | [view](../../CERTS/e7aad6234dba0ba07582d87288a9444c111ae6ad4451ea85dc26c966d307c02e/README.md) | Common name shall contain the text string 'SHAKEN 7610' |
 | error | SHAKEN | [view](../../CERTS/a47b02b168a680b892b4ce263af30b19632ac8b8d62b1ef29c055c6f20f4ed01/README.md) | Common name shall contain the text string 'SHAKEN 7610' |
 | error | SHAKEN | [view](../../CERTS/b08ca401227d50e851c405102296f6f2476c3583f0e622e94536011f74d5f23d/README.md) | Common name shall contain the text string 'SHAKEN 7610' |
-| error | SHAKEN | [view](../../CERTS/6073c26c2c63fa39c8e02de6010827d8bd5509e6f110a6218841a19e813e86d5/README.md) | Common name shall contain the text string 'SHAKEN 7610' |
 | error | SHAKEN | [view](../../CERTS/0d091abfa7776698a16efd051c855907fae95fea780154634f1b988fce868b56/README.md) | Common name shall contain the text string 'SHAKEN 7610' |
-| error | SHAKEN | [view](../../CERTS/5c9719585c750cd739181b59450db89581791c376bbfc680ef2ae8fa293d75b6/README.md) | Common name shall contain the text string 'SHAKEN 7610' |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 04 Nov 22 01:11 UTC
+Generated: 06 Nov 22 17:28 UTC

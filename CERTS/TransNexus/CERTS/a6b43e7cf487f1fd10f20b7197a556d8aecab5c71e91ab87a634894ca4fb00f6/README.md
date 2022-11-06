@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 031K
 
-Tested At: 04 Nov 22 01:09 UTC\
+Tested At: 06 Nov 22 17:26 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: 6 day(s)\
+Remaining Validity Period: 4 day(s)\
 Subject: CN=SHAKEN 031K, OU=SHAKEN, O=TISD, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/031K/ba0288df-daa5-44b5-a1a3-3270140129ed.pem
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/031K/ba0288df-daa5-44b5-a1a3-327014012
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 04 Nov 22 01:11 UTC
+Generated: 06 Nov 22 17:28 UTC

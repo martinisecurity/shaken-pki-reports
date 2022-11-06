@@ -9,23 +9,24 @@
 
 #### Leaf Certificates
 
-- 13 certificates were included in the corpus being tested
-- 0 certificates in the corpus were skipped because they are duplicates
+- 35 certificates were included in the corpus being tested
+- 13 certificates in the corpus were skipped because they are duplicates
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 13 certificates being tested against the remaining rules
-- 1.00 issues on average found in unexpired, trusted, and non-compliant certificates
-- 0.00% of certificates contain one or more Error level issue
+- 22 certificates being tested against the remaining rules
+- 1.58 issues on average found in unexpired, trusted, and non-compliant certificates
+- 31.82% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
-- 30.77% of certificates contain one or more Notice level issue
+- 54.55% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 127 days is the average remaining validity for the certificates in the corpus
-- 111 days is the average initial validity for the certificates in the corpus
-- 0 certificates expire in the next 30 days
+- 98 days is the average remaining validity for the certificates in the corpus
+- 100 days is the average initial validity for the certificates in the corpus
+- 1 certificates expire in the next 30 days
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 4 | [n_atis_certificate_policy_critical](ISSUES/n_atis_certificate_policy_critical/README.md) | ATIS1000080 |
+| 7 | [e_atis_basic_constraints](ISSUES/e_atis_basic_constraints/README.md) | ATIS1000080 |
+| 12 | [n_atis_certificate_policy_critical](ISSUES/n_atis_certificate_policy_critical/README.md) | ATIS1000080 |
 
 #### CA Certificates
 
@@ -53,6 +54,14 @@
 
 | Created at | Subject | Problems | Link |
 |------------|---------|----------|------|
+| 24 Sep 22 18:07 UTC | SHAKEN 709J | true | [view](CERTS/e02ae804a6b748f34863feaa629098fcd00f008cb2da83b62dda62b9f36cb187/README.md) |
+| 26 Sep 22 15:01 UTC | SHAKEN 709J | true | [view](CERTS/f1b30e5f3fd0574711b8028454f28d6a3d37f04cbcf7cc4c2b534572a5b58219/README.md) |
+| 27 Sep 22 14:49 UTC | SHAKEN 709J | true | [view](CERTS/5a711a75779e3082c7df3316303f8620bb2df41b9bc73e15b8e07479b9b72f0b/README.md) |
+| 27 Sep 22 15:00 UTC | SHAKEN 709J | true | [view](CERTS/88204573600611010cf72f4a8a04b35f74697dd6caaacc86558c26cd734b3365/README.md) |
+| 27 Sep 22 15:12 UTC | SHAKEN 709J | true | [view](CERTS/70b2490db48f5e48567ecb67d774fd6c119e4bc91338f7c9e7bf8c8633473943/README.md) |
+| 27 Sep 22 17:49 UTC | SHAKEN 709J | true | [view](CERTS/e7d60ff7d6c82346efc07fd34860c73fa1e18d3eb2193201442dec7ec73b7d35/README.md) |
+| 27 Sep 22 20:00 UTC | SHAKEN 709J | true | [view](CERTS/3c564016f7b76937dec18f3b15296ebdc8724fd64a4d57bf88cffd27d81e9098/README.md) |
+| 27 Sep 22 20:36 UTC | SHAKEN 709J | true | [view](CERTS/7f2f18c940b627651629abb54ca0da9fb3500228f9a95c9292840b764f3ef491/README.md) |
 | 28 Sep 22 17:54 UTC | SHAKEN 709J | true | [view](CERTS/7a6b614242beb541f6ce04ce89734a5b601571cd298075c157ef9adc3efcc49c/README.md) |
 | 28 Sep 22 18:19 UTC | SHAKEN 709J | true | [view](CERTS/8862209bef596987c13ab19a89a9fc62018dc2a4e8c9cb927827aadf1c458eee/README.md) |
 | 28 Sep 22 21:31 UTC | SHAKEN 709J | true | [view](CERTS/200d370a7a5109b711f29fcfe86b70288592ee0d634045c034faba784acb6e23/README.md) |
@@ -60,6 +69,7 @@
 | 21 Oct 22 17:38 UTC | SHAKEN 709J | false | [view](CERTS/09e45414349c71ce7b7b92101e2de0607ebb989e096ccd861b4e8d37e4e72c2f/README.md) |
 | 21 Oct 22 19:21 UTC | SHAKEN 709J | false | [view](CERTS/254c9be0cd95dfe372f0a4117e166da225d468720851f54e3c3edef44480a3d6/README.md) |
 | 25 Oct 22 20:57 UTC | SHAKEN 073K | false | [view](CERTS/cf4ee8b8d56521071e2935ac9cb358738902b531589b8e19afcc43cd73c0f01f/README.md) |
+| 31 Oct 22 20:37 UTC | SHAKEN 709J | false | [view](CERTS/13e067c23d545b549f88c12775f0c0283a70e8405146ac61972dcfd32787a731/README.md) |
 | 01 Nov 22 22:01 UTC | SHAKEN 223K | false | [view](CERTS/643004ffd41ca62fdd29de3af56544e8d9aa1fc6194c9160617a050136e69858/README.md) |
 | 02 Nov 22 19:01 UTC | SHAKEN 039K | false | [view](CERTS/6ffaa261e05bf2c924bb7e0e7f98cc4059d45d0df695ee04d1b686053b124c09/README.md) |
 | 02 Nov 22 19:10 UTC | SHAKEN 148K | false | [view](CERTS/954cbc64af18f8489faf382126bf131364409bf8590445893e23f62a4227fd6a/README.md) |
@@ -76,4 +86,4 @@
 | 02 Oct 22 10:40 UTC | Martini Security SHAKEN G2 | false | [view](CERTS/bf818ddbd3ae492e4a85331b85b52f4d2cdef8287bf910b59e247b6c132fa7fd/README.md) |
 
 
-Generated: 04 Nov 22 01:11 UTC
+Generated: 06 Nov 22 17:28 UTC
