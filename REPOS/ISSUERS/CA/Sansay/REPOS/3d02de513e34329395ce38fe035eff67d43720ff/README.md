@@ -3,8 +3,8 @@
 ## Sansay
 
 Name: `https://cr.sansay.com/Mitel_Cloud_Services_Inc._670J`\
-Tested At: 10 Nov 22 06:41 UTC\
-Time: 2ms
+Tested At: 10 Nov 22 23:20 UTC\
+Time: 35ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 2ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 10 Nov 22 06:43 UTC
+Generated: 10 Nov 22 23:30 UTC

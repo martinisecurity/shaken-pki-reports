@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 261H
 
-Tested At: 10 Nov 22 06:42 UTC\
+Tested At: 10 Nov 22 23:22 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 215 day(s)\
+Remaining Validity Period: 214 day(s)\
 Subject: CN=SHAKEN 261H, O=Voyce, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/b00badc474bbf0d965554e422647a4fcc426eb0c
@@ -13,9 +13,9 @@ Link: https://ssc.getsipnav.com/certs/b00badc474bbf0d965554e422647a4fcc426eb0c
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 10 Nov 22 06:43 UTC
+Generated: 10 Nov 22 23:30 UTC

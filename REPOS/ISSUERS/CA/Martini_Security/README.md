@@ -2,14 +2,14 @@
 
 ## Martini Security
 
-- 45 repositories were included in the corpus being tested
+- 38 repositories were included in the corpus being tested
 - 14 repositories in the corpus were skipped because they were duplicated
-- 31 repositories being tested against the remaining rules
+- 24 repositories being tested against the remaining rules
 - 0.00 issues on average found in non-compliant certificate repository URLs
 - 0.00% of repositories contain one or more Error level issue
 - 0.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 109ms average time it took to download each certificate
+- 72ms average time it took to download each certificate
 
 No error, warning, or notice level issues were found
 
@@ -34,18 +34,11 @@ No error, warning, or notice level issues were found
 | `https://p.mtsec.me/2884/d8IIBwwVQPAo.pem` | false | [view](REPOS/a94f67a3d5823e85dc4c85ab828254301572dece/README.md) |
 | `https://p.mtsec.me/2884/e0AWRoNFEYXz.pem` | false | [view](REPOS/b3f54908aee455b1aef0d1924b11b28f01b9e2e1/README.md) |
 | `https://p.mtsec.me/2884/eKFPoFs5gfUW.pem` | false | [view](REPOS/fea6bd375b5297c99391285e7c5ee6a3a33ddb81/README.md) |
-| `https://p.mtsec.me/2dd5/GXlr3rQOgmIa.pem` | false | [view](REPOS/8aac24c225fe18bef522c1fc01ab80b8b811cdb6/README.md) |
 | `https://p.mtsec.me/2dd5/HANi-8RbpIVe.pem` | false | [view](REPOS/02a7c199b5f93d10ac32f4dbfa1d4cd6ab1775eb/README.md) |
 | `https://p.mtsec.me/2dd5/HF1-vg9nBorA.pem` | false | [view](REPOS/f96f339c11d06d385de9de0a236a59965ae216d3/README.md) |
-| `https://p.mtsec.me/2dd5/I9N4TzvwlIEM.pem` | false | [view](REPOS/eab6218744fc7b77b1a1499f25217244056c955e/README.md) |
-| `https://p.mtsec.me/2dd5/ICkaFaSY7g_5.pem` | false | [view](REPOS/22c354910df5e0b37cc5de4b3d88899562a0153a/README.md) |
-| `https://p.mtsec.me/2dd5/IkyCMV8MomUv.pem` | false | [view](REPOS/d42db9f3c772cb00bb37a790d54fd93fff6f1f51/README.md) |
 | `https://p.mtsec.me/2dd5/KGooOP8qrCkY.pem` | false | [view](REPOS/2c5735d29cba0cd49eec99ca56f66a619ac7c343/README.md) |
-| `https://p.mtsec.me/2dd5/LxEH8k7rYILK.pem` | false | [view](REPOS/c277d46966a408e031fcd478082ad1e4205a5e4c/README.md) |
 | `https://p.mtsec.me/2dd5/O5Ul22ujxF_m.pem` | false | [view](REPOS/881d54ce0aa9d94aada17d08e3f71c89c9a89688/README.md) |
-| `https://p.mtsec.me/2dd5/PKvhCYGOuOxF.pem` | false | [view](REPOS/9dfc65931ef8c579b85ce109f23b461afc4a6419/README.md) |
 | `https://p.mtsec.me/2dd5/U-o0Vt0ZT1yl.pem` | false | [view](REPOS/de15a9a3bef6c1d3ef2f6423f1ad3b83bdf02bc1/README.md) |
-| `https://p.mtsec.me/2dd5/fFdsuaeHfhPw.pem` | false | [view](REPOS/e98e9a49ac5bd99020bc38d5aa21ac0334579e9c/README.md) |
 
 
-Generated: 10 Nov 22 06:43 UTC
+Generated: 10 Nov 22 23:30 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 120K
 
-Tested At: 10 Nov 22 06:40 UTC\
+Tested At: 10 Nov 22 23:19 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: 3 day(s)\
+Remaining Validity Period: 2 day(s)\
 Subject: CN=SHAKEN 120K, OU=SHAKEN, O=VC3, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/bcb89748-38e2-45ae-8b54-7efd23525de2/3701279a130218d9cf05b967e8e024e3.pem
@@ -17,4 +17,4 @@ Link: https://certificates.clearip.com/bcb89748-38e2-45ae-8b54-7efd23525de2/3701
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 10 Nov 22 06:43 UTC
+Generated: 10 Nov 22 23:30 UTC

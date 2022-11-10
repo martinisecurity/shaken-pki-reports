@@ -9,7 +9,7 @@
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 92ms average time it took to download each certificate
+- 86ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://certificates.piratel.com/piratel_20201008_49b10950e1.crt` | true | [view](REPOS/063b1acd5e7de4ad7872b8008d2de67c67a7aec0/README.md) |
 
 
-Generated: 10 Nov 22 06:43 UTC
+Generated: 10 Nov 22 23:30 UTC

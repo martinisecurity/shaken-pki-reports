@@ -9,9 +9,9 @@
 
 #### Leaf Certificates
 
-- 59 certificates were included in the corpus being tested
+- 60 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
-- 22 certificates in the corpus were skipped because they are expired
+- 23 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
 - 37 certificates being tested against the remaining rules
 - 6.00 issues on average found in unexpired, trusted, and non-compliant certificates
@@ -44,7 +44,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 6878 days is the average remaining validity for the certificates in the corpus
+- 6877 days is the average remaining validity for the certificates in the corpus
 - 7150 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -56,7 +56,6 @@ No error, warning, or notice level issues were found
 
 | Created at | Subject | Problems | Link |
 |------------|---------|----------|------|
-| 11 Oct 22 13:30 UTC | SHAKEN | true | [view](CERTS/b0c45f73954a4e38e300e41c38ce976628c64c2388298b5fdd227bc3d1e0e32e/README.md) |
 | 12 Oct 22 12:46 UTC | SHAKEN | true | [view](CERTS/566e9572a4ea7da8554e2e98ef13e3ec5e4cf13d4d58fe14de464e57e470b352/README.md) |
 | 12 Oct 22 13:29 UTC | SHAKEN | true | [view](CERTS/953e14280d248a2cfd95a650e81ed9094d23f05f5b410e01f66eb7377cdafded/README.md) |
 | 13 Oct 22 12:46 UTC | SHAKEN | true | [view](CERTS/d355843a5156aa30667defed29052b11c79b3acc85123c6938d0475f3827826d/README.md) |
@@ -93,6 +92,7 @@ No error, warning, or notice level issues were found
 | 07 Nov 22 11:12 UTC | SHAKEN | true | [view](CERTS/cdb68bffe8949ee6681bfe003d1674b4f3b3b41733fd460cadfa147063691083/README.md) |
 | 08 Nov 22 11:12 UTC | SHAKEN | true | [view](CERTS/3e9171d58db76444586aeb4cc519fe853c088f7b473cb9aeb5daa24ba63dcbbd/README.md) |
 | 09 Nov 22 11:12 UTC | SHAKEN | true | [view](CERTS/9d1362a16150ed27893d2fee57985d5e1a26cd49d88afa28467cdba9f2a630e6/README.md) |
+| 10 Nov 22 11:12 UTC | SHAKEN | true | [view](CERTS/ca52606f16d25ae30baaf64ad5fe45985f479ccc9edaf41447212c1ae7f10798/README.md) |
 
 #### CA Certificates
 
@@ -102,4 +102,4 @@ No error, warning, or notice level issues were found
 | 06 Apr 20 13:48 UTC | Comcast SHAKEN Intermediate CA | false | [view](CERTS/2f3abdfe711377f4d59f31d941962797c61f021c3924af31de99031f9ac54f77/README.md) |
 
 
-Generated: 10 Nov 22 06:43 UTC
+Generated: 10 Nov 22 23:30 UTC

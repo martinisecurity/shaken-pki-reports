@@ -9,7 +9,7 @@
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 660ms average time it took to download each certificate
+- 616ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://appreg.telcoportal.com/mobileapps/neustar/Microtalk-Shaken.pem` | true | [view](REPOS/ea154869e1c083d521781a64572b9e032c9a45e6/README.md) |
 
 
-Generated: 10 Nov 22 06:43 UTC
+Generated: 10 Nov 22 23:30 UTC

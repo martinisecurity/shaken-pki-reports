@@ -9,24 +9,23 @@
 
 #### Leaf Certificates
 
-- 45 certificates were included in the corpus being tested
+- 38 certificates were included in the corpus being tested
 - 14 certificates in the corpus were skipped because they are duplicates
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 31 certificates being tested against the remaining rules
-- 1.58 issues on average found in unexpired, trusted, and non-compliant certificates
-- 22.58% of certificates contain one or more Error level issue
+- 24 certificates being tested against the remaining rules
+- 1.00 issues on average found in unexpired, trusted, and non-compliant certificates
+- 0.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
-- 38.71% of certificates contain one or more Notice level issue
+- 20.83% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 95 days is the average remaining validity for the certificates in the corpus
-- 97 days is the average initial validity for the certificates in the corpus
+- 97 days is the average remaining validity for the certificates in the corpus
+- 99 days is the average initial validity for the certificates in the corpus
 - 1 certificates expire in the next 30 days
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 7 | [e_atis_basic_constraints](ISSUES/e_atis_basic_constraints/README.md) | ATIS1000080 |
-| 12 | [n_atis_certificate_policy_critical](ISSUES/n_atis_certificate_policy_critical/README.md) | ATIS1000080 |
+| 5 | [n_atis_certificate_policy_critical](ISSUES/n_atis_certificate_policy_critical/README.md) | ATIS1000080 |
 
 #### CA Certificates
 
@@ -40,7 +39,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 33.33% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 5431 days is the average remaining validity for the certificates in the corpus
+- 5430 days is the average remaining validity for the certificates in the corpus
 - 4261 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -54,13 +53,6 @@
 
 | Created at | Subject | Problems | Link |
 |------------|---------|----------|------|
-| 24 Sep 22 18:07 UTC | SHAKEN 709J | true | [view](CERTS/e02ae804a6b748f34863feaa629098fcd00f008cb2da83b62dda62b9f36cb187/README.md) |
-| 26 Sep 22 15:01 UTC | SHAKEN 709J | true | [view](CERTS/f1b30e5f3fd0574711b8028454f28d6a3d37f04cbcf7cc4c2b534572a5b58219/README.md) |
-| 27 Sep 22 14:49 UTC | SHAKEN 709J | true | [view](CERTS/5a711a75779e3082c7df3316303f8620bb2df41b9bc73e15b8e07479b9b72f0b/README.md) |
-| 27 Sep 22 15:00 UTC | SHAKEN 709J | true | [view](CERTS/88204573600611010cf72f4a8a04b35f74697dd6caaacc86558c26cd734b3365/README.md) |
-| 27 Sep 22 15:12 UTC | SHAKEN 709J | true | [view](CERTS/70b2490db48f5e48567ecb67d774fd6c119e4bc91338f7c9e7bf8c8633473943/README.md) |
-| 27 Sep 22 17:49 UTC | SHAKEN 709J | true | [view](CERTS/e7d60ff7d6c82346efc07fd34860c73fa1e18d3eb2193201442dec7ec73b7d35/README.md) |
-| 27 Sep 22 20:00 UTC | SHAKEN 709J | true | [view](CERTS/3c564016f7b76937dec18f3b15296ebdc8724fd64a4d57bf88cffd27d81e9098/README.md) |
 | 27 Sep 22 20:36 UTC | SHAKEN 709J | true | [view](CERTS/7f2f18c940b627651629abb54ca0da9fb3500228f9a95c9292840b764f3ef491/README.md) |
 | 28 Sep 22 17:54 UTC | SHAKEN 709J | true | [view](CERTS/7a6b614242beb541f6ce04ce89734a5b601571cd298075c157ef9adc3efcc49c/README.md) |
 | 28 Sep 22 18:19 UTC | SHAKEN 709J | true | [view](CERTS/8862209bef596987c13ab19a89a9fc62018dc2a4e8c9cb927827aadf1c458eee/README.md) |
@@ -95,4 +87,4 @@
 | 02 Oct 22 10:40 UTC | Martini Security SHAKEN G2 | false | [view](CERTS/bf818ddbd3ae492e4a85331b85b52f4d2cdef8287bf910b59e247b6c132fa7fd/README.md) |
 
 
-Generated: 10 Nov 22 06:43 UTC
+Generated: 10 Nov 22 23:30 UTC

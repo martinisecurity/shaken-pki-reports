@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 819H
 
-Tested At: 10 Nov 22 06:40 UTC\
+Tested At: 10 Nov 22 23:19 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: 5 day(s)\
+Remaining Validity Period: 4 day(s)\
 Subject: CN=SHAKEN 819H, OU=SHAKEN, O=BluIP Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/3c4ce448-386b-4d47-a276-7fe32e380a83/4b4864132e0ee2eed5e9ad420537cfb6.pem
@@ -17,4 +17,4 @@ Link: https://certificates.clearip.com/3c4ce448-386b-4d47-a276-7fe32e380a83/4b48
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 10 Nov 22 06:43 UTC
+Generated: 10 Nov 22 23:30 UTC

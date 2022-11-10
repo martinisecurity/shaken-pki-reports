@@ -54,6 +54,7 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11416.10156.pem` | true | [view](../../REPOS/6057a9b3d80c9c07cbf01eeb077820f6bb03979c/README.md) |
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11430.10198` | true | [view](../../REPOS/58c9afbd7bdeb800a0f74165fc7195558f588bc8/README.md) |
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11438.10200.pem` | true | [view](../../REPOS/cf8151857e05b09f06ef88830cd401e4dd12997e/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11452.10159.pem` | true | [view](../../REPOS/6b9116b98da6cbccd20ba1d888e5613f96cf9020/README.md) |
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11478.10162.pem` | true | [view](../../REPOS/785ff67dbe91787bb7a0eafab937eb9ba6a6ac9a/README.md) |
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11484.10112` | true | [view](../../REPOS/c6c3c12122496eac46f344619bc96a2bfbfd3f46/README.md) |
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11508.10138` | true | [view](../../REPOS/8a0147e1fe8cc8c729b699b7f489125ceb15f75f/README.md) |
@@ -66,4 +67,4 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11553.10201` | true | [view](../../REPOS/62e3afacb90645592e3d4e7185b43407a653913e/README.md) |
 
 
-Generated: 10 Nov 22 06:43 UTC
+Generated: 10 Nov 22 23:30 UTC

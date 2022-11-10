@@ -15,7 +15,8 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://prod001-cr.rbbnidhub.com/OaPccQ6Mgz/sign-cert2` | true | [view](../../REPOS/5a69211b12707a2e111ba37b2e29287a90e6bf6a/README.md) |
 | `https://prod001-cr.rbbnidhub.com/VaMEsVjGRz/May20222023-7f9cc6dca255376339d3370091b2fdde` | true | [view](../../REPOS/f391a9ba1d1fdde4788c79b7633fe7d43b9a1b48/README.md) |
 | `https://prod001-cr.rbbnidhub.com/frvFJbsMgz/sign-cert3` | true | [view](../../REPOS/27dccddee750acd18879b60bdd7d6a8803719490/README.md) |
+| `https://prod001-prod011-cr.rbbnidhub.com/Pl0wdQeMRz/STI20220348` | true | [view](../../REPOS/3136c2c052a150347feb0d8667f04f94c9057339/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/t0CiOIjnRz/NFJune102022-26092b2abd3c6bbfc676d98623fc1b25` | true | [view](../../REPOS/33017846ac0354f869e6a30ef5fdf72910ca73ea/README.md) |
 
 
-Generated: 10 Nov 22 06:43 UTC
+Generated: 10 Nov 22 23:30 UTC

@@ -27,6 +27,7 @@ Description: Sub certificates SHOULD include Subject Key Identifier in end entit
 | warn | SHAKEN | [view](../../CERTS/b28bbfa48eeb7401282c0af83ad52bf3214c96f77e791ee9d3c02a53ea25cc02/README.md) |  |
 | warn | SHAKEN | [view](../../CERTS/8fb4a8e814f1c87cf2456b1ecf1e5ce491a5eb399b2d37de0d1a34b4ddb637db/README.md) |  |
 | warn | SHAKEN | [view](../../CERTS/b017ee25cc6232cd9591bc6df0cedbe2b95465b8123f651f7b23e71bba10d6f8/README.md) |  |
+| warn | SHAKEN | [view](../../CERTS/ca52606f16d25ae30baaf64ad5fe45985f479ccc9edaf41447212c1ae7f10798/README.md) |  |
 | warn | SHAKEN | [view](../../CERTS/3d44d0a8d9179445f0ac646cceb3f6a3566f63e2bed4ec08b58a017b063fa36d/README.md) |  |
 | warn | SHAKEN | [view](../../CERTS/fc76258aa402845efe5fc520c3423ae08c34da4b35581008f74b69944989e863/README.md) |  |
 | warn | SHAKEN | [view](../../CERTS/953e14280d248a2cfd95a650e81ed9094d23f05f5b410e01f66eb7377cdafded/README.md) |  |
@@ -36,7 +37,6 @@ Description: Sub certificates SHOULD include Subject Key Identifier in end entit
 | warn | SHAKEN | [view](../../CERTS/cf1f5b80441df2551cfa967ecd684687eb9ea9dd5ce30a4035c8646cdb966c59/README.md) |  |
 | warn | SHAKEN | [view](../../CERTS/8b259dd4c8adee7126f6d77d613a73d8e123a155ea3455a9531f86ef8572aa0e/README.md) |  |
 | warn | SHAKEN | [view](../../CERTS/3e9171d58db76444586aeb4cc519fe853c088f7b473cb9aeb5daa24ba63dcbbd/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/b0c45f73954a4e38e300e41c38ce976628c64c2388298b5fdd227bc3d1e0e32e/README.md) |  |
 | warn | SHAKEN | [view](../../CERTS/672077a75a58fb6c5d6bb8f067812b721dbad767c682832c2fa646e43ffd36b6/README.md) |  |
 | warn | SHAKEN | [view](../../CERTS/af6785002cd605e314824b90e6e06e3e39bb849078865200001a86382c0dd370/README.md) |  |
 | warn | SHAKEN | [view](../../CERTS/753a9492590251d2621c7d0ca1debbbb708d93027dca45ea69f3dfa251819eda/README.md) |  |
@@ -55,4 +55,4 @@ Description: Sub certificates SHOULD include Subject Key Identifier in end entit
 No error, warning, or notice level issues were found
 
 
-Generated: 10 Nov 22 06:43 UTC
+Generated: 10 Nov 22 23:30 UTC

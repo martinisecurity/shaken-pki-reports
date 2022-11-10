@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 150K
 
-Tested At: 10 Nov 22 06:40 UTC\
+Tested At: 10 Nov 22 23:19 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 272 day(s)\
+Remaining Validity Period: 271 day(s)\
 Subject: CN=SHAKEN 150K, O=White Label Communications, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/179.233
@@ -18,4 +18,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/179.233
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 10 Nov 22 06:43 UTC
+Generated: 10 Nov 22 23:30 UTC
