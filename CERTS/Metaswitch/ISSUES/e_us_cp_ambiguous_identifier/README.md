@@ -32,6 +32,7 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 | error | South Central Rural Telecommunications Coop SHAKEN Cert 0418 | [view](../../CERTS/6e988e3a74dbb6c1862118841d78e438f345c1ef7e79a96c2087328b5de146c1/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | TDS Telecom SHAKEN Cert 7804 | [view](../../CERTS/a04a669738b79ff55c2b2197f72a12a112b731906e2e6a925d37ccee2fa00a11/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | GCI SHAKEN Cert 7785 | [view](../../CERTS/312e58dffa682b464f9867a7c373f9881d092b834767dcabe5baf8c7245e937c/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| error | Carolina West Wireless SHAKEN Cert 5932 | [view](../../CERTS/e85dec068c9fa23af68b345257d58269303c925d10fc9101b226d1e0e7d62a9d/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | CBTS Technology Solutions SHAKEN Cert 600F | [view](../../CERTS/3d02021a2da14f1ebfe588256a419be9ebc03c0d1fccc51cc29fa9d4a625c6bf/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Verizon SHAKEN cert 5807 | [view](../../CERTS/d7b413267be2d050d516af4f4a864ffdc2feacc774a1a6264b9cfe68c796f43f/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
@@ -40,4 +41,4 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 No error, warning, or notice level issues were found
 
 
-Generated: 06 Nov 22 17:28 UTC
+Generated: 10 Nov 22 06:43 UTC

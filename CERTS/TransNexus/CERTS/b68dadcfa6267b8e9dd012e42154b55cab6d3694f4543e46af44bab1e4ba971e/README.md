@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 8526
 
-Tested At: 06 Nov 22 17:26 UTC\
+Tested At: 10 Nov 22 06:40 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: 19 day(s)\
+Remaining Validity Period: 16 day(s)\
 Subject: CN=SHAKEN 8526, OU=SHAKEN, O=MetTel, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/8526/f6978975-50bc-40df-b4a2-a1d7794b321f.pem
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/8526/f6978975-50bc-40df-b4a2-a1d7794b3
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 06 Nov 22 17:28 UTC
+Generated: 10 Nov 22 06:43 UTC

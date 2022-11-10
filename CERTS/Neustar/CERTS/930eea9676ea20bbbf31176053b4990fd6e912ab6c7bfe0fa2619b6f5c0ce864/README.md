@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 023K
 
-Tested At: 06 Nov 22 17:27 UTC\
+Tested At: 10 Nov 22 06:41 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 255 day(s)\
+Remaining Validity Period: 252 day(s)\
 Subject: CN=SHAKEN 023K, O=Pulsar360 Corp, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ecms.securetransit.net/certs/410bad9e05a57353f0d8739a421be619.cer
@@ -13,9 +13,9 @@ Link: https://ecms.securetransit.net/certs/410bad9e05a57353f0d8739a421be619.cer
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 06 Nov 22 17:28 UTC
+Generated: 10 Nov 22 06:43 UTC

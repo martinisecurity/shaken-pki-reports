@@ -9,18 +9,18 @@
 
 #### Leaf Certificates
 
-- 35 certificates were included in the corpus being tested
-- 13 certificates in the corpus were skipped because they are duplicates
+- 45 certificates were included in the corpus being tested
+- 14 certificates in the corpus were skipped because they are duplicates
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 22 certificates being tested against the remaining rules
+- 31 certificates being tested against the remaining rules
 - 1.58 issues on average found in unexpired, trusted, and non-compliant certificates
-- 31.82% of certificates contain one or more Error level issue
+- 22.58% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
-- 54.55% of certificates contain one or more Notice level issue
+- 38.71% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 98 days is the average remaining validity for the certificates in the corpus
-- 100 days is the average initial validity for the certificates in the corpus
+- 95 days is the average remaining validity for the certificates in the corpus
+- 97 days is the average initial validity for the certificates in the corpus
 - 1 certificates expire in the next 30 days
 
 | Instances | Test | Source |
@@ -40,7 +40,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 33.33% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 5432 days is the average remaining validity for the certificates in the corpus
+- 5431 days is the average remaining validity for the certificates in the corpus
 - 4261 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -76,6 +76,15 @@
 | 02 Nov 22 19:19 UTC | SHAKEN 076K | false | [view](CERTS/b863f7e1b6fa414b2bc3d6eb3781467c6550a95855ead4407d758a0dbbc5eb23/README.md) |
 | 02 Nov 22 19:37 UTC | SHAKEN 031K | false | [view](CERTS/f6631a3e9a2dd3a2482faf48c34167789d1da4618f67dd13979e3332177f4ec2/README.md) |
 | 02 Nov 22 19:42 UTC | SHAKEN 148K | false | [view](CERTS/493046b32c772c2b13b64ef2d3c24e846c5f0958991e5c7231bf570ea347d54f/README.md) |
+| 07 Nov 22 22:48 UTC | SHAKEN 042K | false | [view](CERTS/b19d4331d0bc3102e5998c08af429d4f26e9e1885e3bdc7149dd1ce84520d778/README.md) |
+| 09 Nov 22 20:20 UTC | SHAKEN 066K | false | [view](CERTS/18b89a5058feb112abe94515607c30f7b8f678b48b3fd23ea95326b388d9eb4d/README.md) |
+| 09 Nov 22 21:40 UTC | SHAKEN 709J | false | [view](CERTS/7a47c5bb90d19cfe67def3c4ad34299c0147253316172894a6fe8b69a3ca7318/README.md) |
+| 09 Nov 22 22:16 UTC | SHAKEN 709J | false | [view](CERTS/4c55c830a412e53a29e5d57497ccadb00362c84ae1a4ae7af23c5b10ddd662fc/README.md) |
+| 09 Nov 22 22:18 UTC | SHAKEN 709J | false | [view](CERTS/fe6221f8c6e387bed8d817ee0229bdd379457544e316e2dc11b494dfda4002a7/README.md) |
+| 09 Nov 22 22:30 UTC | SHAKEN 709J | false | [view](CERTS/eb45b48a2734d4e92468b1e0049e8a38b27471293701129c3f6ec4ce53751693/README.md) |
+| 09 Nov 22 22:34 UTC | SHAKEN 709J | false | [view](CERTS/8affdf2bce5e7de61e762d9e6599f4318813c44f6a28432e36a7a68aa692b8f5/README.md) |
+| 09 Nov 22 22:40 UTC | SHAKEN 709J | false | [view](CERTS/a906441173496d0d84b6a5bad4378cd55c34937cfa15acd5325d9839c4f08c87/README.md) |
+| 09 Nov 22 22:42 UTC | SHAKEN 709J | false | [view](CERTS/ebb954e4df5cce02a29f17cad6692c826b5b32522339424d689625b1ae679d91/README.md) |
 
 #### CA Certificates
 
@@ -86,4 +95,4 @@
 | 02 Oct 22 10:40 UTC | Martini Security SHAKEN G2 | false | [view](CERTS/bf818ddbd3ae492e4a85331b85b52f4d2cdef8287bf910b59e247b6c132fa7fd/README.md) |
 
 
-Generated: 06 Nov 22 17:28 UTC
+Generated: 10 Nov 22 06:43 UTC

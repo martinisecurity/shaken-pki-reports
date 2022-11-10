@@ -2,19 +2,19 @@
 
 ## Metaswitch
 
-- 15 repositories were included in the corpus being tested
+- 16 repositories were included in the corpus being tested
 - 0 repositories in the corpus were skipped because they were duplicated
-- 15 repositories being tested against the remaining rules
+- 16 repositories being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 1061ms average time it took to download each certificate
+- 991ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 15 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
-| 15 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 16 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
+| 16 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
 | Repository | Problems | Link |
 |------------|----------|------|
@@ -32,7 +32,8 @@
 | `https://sti-cr.cgah.tnsi.com/certs/99b4dd6734c3c1840bfdc0a2014214200e402920` | true | [view](REPOS/50e2446501cee41c98ebfdebfbbcdc7462915c7d/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/9b2b8bbbd5a5a28082425a21229434097aafd9b2` | true | [view](REPOS/eb6d0328d53c4ee40529598f2164e77af66e3386/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/cd1856717574765eb6b4bddb7a5bc8814e1e2103` | true | [view](REPOS/8a93062c89a419a83af68fafaa8bc49b3e23ad38/README.md) |
+| `https://sti-cr.cgah.tnsi.com/certs/d9dd9bf73998fe328ba9447674492e8217d56dcf` | true | [view](REPOS/a7cc45b1f28b042be997c304d7d4aaa58f5538e4/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/de39b976c7549358da256530d81cfb1f446a2583` | true | [view](REPOS/5b6aeeae4a284e7607c4cb9d696247d8dce1a428/README.md) |
 
 
-Generated: 06 Nov 22 17:28 UTC
+Generated: 10 Nov 22 06:43 UTC

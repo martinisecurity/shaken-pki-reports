@@ -3,7 +3,7 @@
 ## Voyce
 
 Name: `https://ssc.getsipnav.com/certs/b00badc474bbf0d965554e422647a4fcc426eb0c`\
-Tested At: 06 Nov 22 17:27 UTC\
+Tested At: 10 Nov 22 06:42 UTC\
 Time: 23ms
 
 ### Issues
@@ -13,4 +13,4 @@ Time: 23ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 06 Nov 22 17:28 UTC
+Generated: 10 Nov 22 06:43 UTC

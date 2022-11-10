@@ -9,7 +9,7 @@
 - 100.00% of repositories contain one or more Error level issue
 - 100.00% of repositories contain one or more Warning level issue
 - 0.00% of repositories contain one or more Notice level issue
-- 307ms average time it took to download each certificate
+- 265ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -23,4 +23,4 @@
 | `https://187.174.67.118:8080/7075515eb2d150fc98c43e794c07bbca.cer` | true | [view](REPOS/d8faee293b08466701e0b503002bc7343687408c/README.md) |
 
 
-Generated: 06 Nov 22 17:28 UTC
+Generated: 10 Nov 22 06:43 UTC

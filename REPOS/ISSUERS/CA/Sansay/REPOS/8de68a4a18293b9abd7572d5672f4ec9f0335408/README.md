@@ -3,7 +3,7 @@
 ## Sansay
 
 Name: `https://cr.sansay.com/PowerNetGlobal_3395`\
-Tested At: 06 Nov 22 17:27 UTC\
+Tested At: 10 Nov 22 06:41 UTC\
 Time: 2ms
 
 ### Issues
@@ -12,4 +12,4 @@ Time: 2ms
 |------|------|--------|---------|
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 06 Nov 22 17:28 UTC
+Generated: 10 Nov 22 06:43 UTC
