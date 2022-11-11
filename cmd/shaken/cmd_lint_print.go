@@ -44,11 +44,11 @@ func PrintCertificateSummaryReport(w io.Writer, r *CertificateSummaryReport) {
 	PrintCertificateFindings(w, &r.CA.CertificateGroupReport)
 	fmt.Fprintln(w)
 
-	fmt.Fprintln(w, "## Certificate Repository")
+	fmt.Fprintln(w, "## Certificate Repository URL")
 	fmt.Fprintln(w)
-	fmt.Fprintf(w, "- %0.2f%% of certificate repositories contain one or more Error level issue\n", r.Leaf.AverageRepositoryErrors())
-	fmt.Fprintf(w, "- %0.2f%% of certificates repositories contain one or more Warning level issue\n", r.Leaf.AverageRepositoryWarns())
-	fmt.Fprintf(w, "- %0.2f%% of certificates repositories contain one or more Notice level issue\n", r.Leaf.AverageRepositoryNotices())
+	fmt.Fprintf(w, "- %0.2f%% of certificate repository URLs contain one or more Error level issue\n", r.Leaf.AverageRepositoryErrors())
+	fmt.Fprintf(w, "- %0.2f%% of certificates repository URLs contain one or more Warning level issue\n", r.Leaf.AverageRepositoryWarns())
+	fmt.Fprintf(w, "- %0.2f%% of certificates repository URLs contain one or more Notice level issue\n", r.Leaf.AverageRepositoryNotices())
 	fmt.Fprintln(w)
 
 	fmt.Fprintln(w, "## Details")
@@ -345,21 +345,21 @@ func PrintRepositorySummaryReport(w io.Writer, r *RepositorySummaryReport) {
 	fmt.Fprintln(w)
 
 	if r.CA.TestedAmount > 0 && r.SP.TestedAmount > 0 {
-		fmt.Fprintln(w, "### All Repositories")
+		fmt.Fprintln(w, "### All Repository URLs")
 		fmt.Fprintln(w)
 		PrintRepositoryFindings(w, &r.RepositoryGroupReport)
 		fmt.Fprintln(w)
 	}
 
 	if r.CA.TestedAmount > 0 {
-		fmt.Fprintln(w, "### CA Operated Repositories")
+		fmt.Fprintln(w, "### CA Operated Repository URLs")
 		fmt.Fprintln(w)
 		PrintRepositoryFindings(w, &r.CA.RepositoryGroupReport)
 		fmt.Fprintln(w)
 	}
 
 	if r.SP.TestedAmount > 0 {
-		fmt.Fprintln(w, "### Service Provider Operated Repositories")
+		fmt.Fprintln(w, "### Service Provider Operated Repository URLs")
 		fmt.Fprintln(w)
 		PrintRepositoryFindings(w, &r.SP.RepositoryGroupReport)
 		fmt.Fprintln(w)
@@ -369,14 +369,14 @@ func PrintRepositorySummaryReport(w io.Writer, r *RepositorySummaryReport) {
 	fmt.Fprintln(w)
 
 	if r.CA.TestedAmount > 0 {
-		fmt.Fprintln(w, "### CA Operated Repositories")
+		fmt.Fprintln(w, "### CA Operated Repository URLs")
 		fmt.Fprintln(w)
 		PrintSummaryDetails(w, r.CA)
 		fmt.Fprintln(w)
 	}
 
 	if r.SP.TestedAmount > 0 {
-		fmt.Fprintln(w, "### Service Provider Operated Repositories")
+		fmt.Fprintln(w, "### Service Provider Operated Repository URLs")
 		fmt.Fprintln(w)
 		PrintSummaryDetails(w, r.SP)
 		fmt.Fprintln(w)
@@ -474,7 +474,7 @@ func PrintRepositoryIssuerProblemReport(w io.Writer, issuer *RepositoryIssuerRep
 	fmt.Fprintf(w, "Description: %s\n", l.Description)
 
 	// list repositories
-	fmt.Fprintln(w, "### Repositories")
+	fmt.Fprintln(w, "### Repository URLs")
 	fmt.Fprintln(w)
 	PrintRepositories(w, problem.Items, path.Join("..", "..", DIR_REPOS))
 	fmt.Fprintln(w)
@@ -483,8 +483,8 @@ func PrintRepositoryIssuerProblemReport(w io.Writer, issuer *RepositoryIssuerRep
 }
 
 func PrintRepositories(w io.Writer, r []*LintCommandItem, basePath string) {
-	fmt.Fprintln(w, "| Repository | Problems | Link |")
-	fmt.Fprintln(w, "|------------|----------|------|")
+	fmt.Fprintln(w, "| Repository URLs | Problems | Link |")
+	fmt.Fprintln(w, "|-----------------|----------|------|")
 	sort.Slice(r[:], func(i, j int) bool {
 		return r[i].Url.String() < r[j].Url.String()
 	})
@@ -498,13 +498,13 @@ func PrintRepositories(w io.Writer, r []*LintCommandItem, basePath string) {
 }
 
 func PrintRepositoryFindings(w io.Writer, r *RepositoryGroupReport) {
-	fmt.Fprintf(w, "- %d repositories were included in the corpus being tested\n", r.Amount)
-	fmt.Fprintf(w, "- %d repositories in the corpus were skipped because they were duplicated\n", r.SkippedAmount)
-	fmt.Fprintf(w, "- %d repositories being tested against the remaining rules\n", r.TestedAmount)
+	fmt.Fprintf(w, "- %d repository URLs were included in the corpus being tested\n", r.Amount)
+	fmt.Fprintf(w, "- %d repository URLs in the corpus were skipped because they were duplicated\n", r.SkippedAmount)
+	fmt.Fprintf(w, "- %d repository URLs being tested against the remaining rules\n", r.TestedAmount)
 	fmt.Fprintf(w, "- %0.2f issues on average found in non-compliant certificate repository URLs\n", r.AverageUrlsWithProblems())
-	fmt.Fprintf(w, "- %0.2f%% of repositories contain one or more Error level issue\n", r.AverageErrors())
-	fmt.Fprintf(w, "- %0.2f%% of repositories contain one or more Warning level issue\n", r.AverageWarns())
-	fmt.Fprintf(w, "- %0.2f%% of repositories contain one or more Notice level issue\n", r.AverageNotices())
+	fmt.Fprintf(w, "- %0.2f%% of repository URLs contain one or more Error level issue\n", r.AverageErrors())
+	fmt.Fprintf(w, "- %0.2f%% of repository URLs contain one or more Warning level issue\n", r.AverageWarns())
+	fmt.Fprintf(w, "- %0.2f%% of repository URLs contain one or more Notice level issue\n", r.AverageNotices())
 	fmt.Fprintf(w, "- %0.0fms average time it took to download each certificate\n", r.AverageTime())
 }
 
