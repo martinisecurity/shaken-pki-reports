@@ -2,22 +2,22 @@
 
 ## Comcast
 
-- 60 repositories were included in the corpus being tested
-- 0 repositories in the corpus were skipped because they were duplicated
-- 60 repositories being tested against the remaining rules
+- 60 repository URLs were included in the corpus being tested
+- 0 repository URLs in the corpus were skipped because they were duplicated
+- 60 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
-- 100.00% of repositories contain one or more Error level issue
-- 100.00% of repositories contain one or more Warning level issue
-- 0.00% of repositories contain one or more Notice level issue
-- 65ms average time it took to download each certificate
+- 100.00% of repository URLs contain one or more Error level issue
+- 100.00% of repository URLs contain one or more Warning level issue
+- 0.00% of repository URLs contain one or more Notice level issue
+- 129ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
 | 60 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
 | 60 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
-| Repository | Problems | Link |
-|------------|----------|------|
+| Repository URLs | Problems | Link |
+|-----------------|----------|------|
 | `https://sticr.stir.comcast.com/00aec434-5013-4136-9d51-04f563275d0d.cer` | true | [view](REPOS/73658ffc1f55ae879a04f6928577f8b95f8d1302/README.md) |
 | `https://sticr.stir.comcast.com/03ce07b4-5ab7-476a-a360-e0fdc8bf7ef0.cer` | true | [view](REPOS/9132d57f973bc7d4aa3808a6d32dd9cf8f6317f4/README.md) |
 | `https://sticr.stir.comcast.com/045bff20-7369-413e-a5d1-fd103a7f0648.cer` | true | [view](REPOS/b6e73890949b4b6e69a611aa59f0b658bcedf278/README.md) |
@@ -80,4 +80,4 @@
 | `https://sticr.stir.comcast.com/ff4f3455-b2b0-4f18-9435-ef5fa9a58b9f.cer` | true | [view](REPOS/abb5d20577a6b6bfd7727965fd4a8466601d4de0/README.md) |
 
 
-Generated: 10 Nov 22 23:30 UTC
+Generated: 17 Nov 22 19:20 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 261H
 
-Tested At: 10 Nov 22 23:22 UTC\
+Tested At: 17 Nov 22 19:12 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 214 day(s)\
+Remaining Validity Period: 207 day(s)\
 Subject: CN=SHAKEN 261H, O=Voyce, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/b00badc474bbf0d965554e422647a4fcc426eb0c
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/b00badc474bbf0d965554e422647a4fcc426eb0c
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 10 Nov 22 23:30 UTC
+Generated: 17 Nov 22 19:20 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 033H
 
-Tested At: 10 Nov 22 23:20 UTC\
+Tested At: 17 Nov 22 19:11 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 214 day(s)\
+Remaining Validity Period: 207 day(s)\
 Subject: CN=SHAKEN 033H, O=GetGo Communications LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11478.10162.pem
@@ -14,8 +14,8 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11478.10162.pem
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
-| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 10 Nov 22 23:30 UTC
+Generated: 17 Nov 22 19:20 UTC

@@ -19,7 +19,7 @@
 - 100.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 327 days is the average remaining validity for the certificates in the corpus
+- 325 days is the average remaining validity for the certificates in the corpus
 - 365 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -43,7 +43,7 @@
 - 100.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 7366 days is the average remaining validity for the certificates in the corpus
+- 7364 days is the average remaining validity for the certificates in the corpus
 - 6757 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -70,4 +70,4 @@
 | 13 May 21 00:00 UTC | SHAKEN Ribbon Root CA | true | [view](CERTS/7c2799d3642d04f04fe667c3ab251c18689af323acdc43b2fa5f3dc89e3a0f14/README.md) |
 
 
-Generated: 10 Nov 22 23:30 UTC
+Generated: 17 Nov 22 19:20 UTC

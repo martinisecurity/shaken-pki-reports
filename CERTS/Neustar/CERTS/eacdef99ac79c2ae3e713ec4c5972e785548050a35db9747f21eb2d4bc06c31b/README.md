@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 139K
 
-Tested At: 10 Nov 22 23:19 UTC\
+Tested At: 17 Nov 22 19:10 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 233 day(s)\
+Remaining Validity Period: 226 day(s)\
 Subject: CN=SHAKEN 139K, O=FaxLogic LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cdn.pgxn.net/sti/20230701.cer
@@ -18,4 +18,4 @@ Link: https://cdn.pgxn.net/sti/20230701.cer
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 10 Nov 22 23:30 UTC
+Generated: 17 Nov 22 19:20 UTC

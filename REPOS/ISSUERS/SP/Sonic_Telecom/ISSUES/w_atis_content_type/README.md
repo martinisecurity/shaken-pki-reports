@@ -5,11 +5,11 @@
 Name: w_atis_content_type\
 Source: ATIS-1000080\
 Description: ATIS-1000080 separately indicates that the mime type should be application/pem-certificate-chain
-### Repositories
+### Repository URLs
 
-| Repository | Problems | Link |
-|------------|----------|------|
+| Repository URLs | Problems | Link |
+|-----------------|----------|------|
 | `https://crs.qcall.sonic.net/certs/soniccertchain.crt` | true | [view](../../REPOS/caa75ff115b7136783dbc90ba9e421b9153eeaf6/README.md) |
 
 
-Generated: 10 Nov 22 23:30 UTC
+Generated: 17 Nov 22 19:20 UTC

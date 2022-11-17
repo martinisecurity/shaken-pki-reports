@@ -2,9 +2,9 @@
 
 ## Certificate Teleinx SHAKEN 744J
 
-Tested At: 10 Nov 22 23:19 UTC\
+Tested At: 17 Nov 22 19:10 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 290 day(s)\
+Remaining Validity Period: 283 day(s)\
 Subject: CN=Teleinx SHAKEN 744J, O=Teleinx LLC, L=Chicago, ST=IL, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://certificates.peeringhub.io/744J/744J.crt
@@ -18,4 +18,4 @@ Link: https://certificates.peeringhub.io/744J/744J.crt
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 10 Nov 22 23:30 UTC
+Generated: 17 Nov 22 19:20 UTC

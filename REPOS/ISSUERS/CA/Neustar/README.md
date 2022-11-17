@@ -2,22 +2,22 @@
 
 ## Neustar
 
-- 162 repositories were included in the corpus being tested
-- 106 repositories in the corpus were skipped because they were duplicated
-- 56 repositories being tested against the remaining rules
+- 162 repository URLs were included in the corpus being tested
+- 106 repository URLs in the corpus were skipped because they were duplicated
+- 56 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
-- 100.00% of repositories contain one or more Error level issue
-- 100.00% of repositories contain one or more Warning level issue
-- 0.00% of repositories contain one or more Notice level issue
-- 47ms average time it took to download each certificate
+- 100.00% of repository URLs contain one or more Error level issue
+- 100.00% of repository URLs contain one or more Warning level issue
+- 0.00% of repository URLs contain one or more Notice level issue
+- 50ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
 | 56 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
 | 56 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
-| Repository | Problems | Link |
-|------------|----------|------|
+| Repository URLs | Problems | Link |
+|-----------------|----------|------|
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/1.1` | true | [view](REPOS/6b6f6478b3872d6b2aa2000a590486031c62e4c3/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/120.121` | true | [view](REPOS/e566fe7eecf1e618e39afa04d3f232beeef09ae9/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/131.132` | true | [view](REPOS/6d8d2aa64295ce8c6ec3feb2f7181217374ed01a/README.md) |
@@ -76,4 +76,4 @@
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11553.10201` | true | [view](REPOS/62e3afacb90645592e3d4e7185b43407a653913e/README.md) |
 
 
-Generated: 10 Nov 22 23:30 UTC
+Generated: 17 Nov 22 19:20 UTC

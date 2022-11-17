@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 049K
 
-Tested At: 10 Nov 22 23:19 UTC\
+Tested At: 17 Nov 22 19:10 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 231 day(s)\
+Remaining Validity Period: 225 day(s)\
 Subject: CN=SHAKEN 049K, O=Dialpad Inc., C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/168.185
@@ -18,4 +18,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/168.185
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 10 Nov 22 23:30 UTC
+Generated: 17 Nov 22 19:20 UTC

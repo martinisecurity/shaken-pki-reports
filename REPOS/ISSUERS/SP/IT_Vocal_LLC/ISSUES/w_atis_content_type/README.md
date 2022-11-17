@@ -5,11 +5,11 @@
 Name: w_atis_content_type\
 Source: ATIS-1000080\
 Description: ATIS-1000080 separately indicates that the mime type should be application/pem-certificate-chain
-### Repositories
+### Repository URLs
 
-| Repository | Problems | Link |
-|------------|----------|------|
+| Repository URLs | Problems | Link |
+|-----------------|----------|------|
 | `https://shaken.vocaltransit.com/783J/vocaltransit-STIRSHAKEN.crt` | true | [view](../../REPOS/86e19698fc1d5b85bbffe8673c702f458fe26593/README.md) |
 
 
-Generated: 10 Nov 22 23:30 UTC
+Generated: 17 Nov 22 19:20 UTC

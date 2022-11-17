@@ -2,9 +2,9 @@
 
 ## Certificate Voiceterm SHAKEN 240K
 
-Tested At: 10 Nov 22 23:19 UTC\
+Tested At: 17 Nov 22 19:10 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 263 day(s)\
+Remaining Validity Period: 256 day(s)\
 Subject: CN=Voiceterm SHAKEN 240K, O=Voiceterm, L=Phoenix, ST=AZ, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://certificates.peeringhub.io/240K/240K.crt
@@ -18,4 +18,4 @@ Link: https://certificates.peeringhub.io/240K/240K.crt
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 10 Nov 22 23:30 UTC
+Generated: 17 Nov 22 19:20 UTC

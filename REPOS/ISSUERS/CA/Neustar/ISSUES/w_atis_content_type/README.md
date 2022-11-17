@@ -5,10 +5,10 @@
 Name: w_atis_content_type\
 Source: ATIS-1000080\
 Description: ATIS-1000080 separately indicates that the mime type should be application/pem-certificate-chain
-### Repositories
+### Repository URLs
 
-| Repository | Problems | Link |
-|------------|----------|------|
+| Repository URLs | Problems | Link |
+|-----------------|----------|------|
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/1.1` | true | [view](../../REPOS/6b6f6478b3872d6b2aa2000a590486031c62e4c3/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/120.121` | true | [view](../../REPOS/e566fe7eecf1e618e39afa04d3f232beeef09ae9/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/131.132` | true | [view](../../REPOS/6d8d2aa64295ce8c6ec3feb2f7181217374ed01a/README.md) |
@@ -67,4 +67,4 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11553.10201` | true | [view](../../REPOS/62e3afacb90645592e3d4e7185b43407a653913e/README.md) |
 
 
-Generated: 10 Nov 22 23:30 UTC
+Generated: 17 Nov 22 19:20 UTC

@@ -2,19 +2,19 @@
 
 ## TransNexus
 
-- 407 repositories were included in the corpus being tested
-- 0 repositories in the corpus were skipped because they were duplicated
-- 407 repositories being tested against the remaining rules
+- 407 repository URLs were included in the corpus being tested
+- 0 repository URLs in the corpus were skipped because they were duplicated
+- 407 repository URLs being tested against the remaining rules
 - 0.00 issues on average found in non-compliant certificate repository URLs
-- 0.00% of repositories contain one or more Error level issue
-- 0.00% of repositories contain one or more Warning level issue
-- 0.00% of repositories contain one or more Notice level issue
-- 22ms average time it took to download each certificate
+- 0.00% of repository URLs contain one or more Error level issue
+- 0.00% of repository URLs contain one or more Warning level issue
+- 0.00% of repository URLs contain one or more Notice level issue
+- 28ms average time it took to download each certificate
 
 No error, warning, or notice level issues were found
 
-| Repository | Problems | Link |
-|------------|----------|------|
+| Repository URLs | Problems | Link |
+|-----------------|----------|------|
 | `https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/08d04d1bfffa8ddf52073599e552f0bc.pem` | false | [view](REPOS/e6923cd1c01dde10aa1a70b0571215c691ba901f/README.md) |
 | `https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/1113803cceb280f3ccac101750f2ef94.pem` | false | [view](REPOS/ddbc73f218691196ade3b0762f3e9260b7261f80/README.md) |
 | `https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/157efbd6e90975181fbc78fcd1eeb24b.pem` | false | [view](REPOS/9ae94f61247042f15e37c182040080ff107dad5f/README.md) |
@@ -424,4 +424,4 @@ No error, warning, or notice level issues were found
 | `https://certificates.transnexus.com/952J/b81c5f3e-5577-44d2-a22e-5bcfb144b13e.pem` | false | [view](REPOS/93cf6db42066e90ae8fe18a6f8bddee4303a09e3/README.md) |
 
 
-Generated: 10 Nov 22 23:30 UTC
+Generated: 17 Nov 22 19:20 UTC

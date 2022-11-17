@@ -12,6 +12,7 @@ Description: STI End-Entity certificates shall contain a TNAuthList extension as
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
+| error | FracTEL LLC SHAKEN | [view](../../CERTS/81188428a77465a01dbc3a49509aa0486510c109472f8af6e5cb1887a682040e/README.md) | bad TNAuthorizationList, bad TNAuthorizationList ASN.1 raw, asn1: syntax error: data truncated |
 | error | MYPBXManager SHAKEN | [view](../../CERTS/0c7bf2cc1741b8036003876afadd109dfd5a6b0fb7af3662ae4d02e3340ad9ce/README.md) | bad TNAuthorizationList, bad TNAuthorizationList ASN.1 raw, asn1: syntax error: data truncated |
 
 ### CA Certificates
@@ -19,4 +20,4 @@ Description: STI End-Entity certificates shall contain a TNAuthList extension as
 No error, warning, or notice level issues were found
 
 
-Generated: 10 Nov 22 23:30 UTC
+Generated: 17 Nov 22 19:20 UTC

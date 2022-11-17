@@ -2,24 +2,24 @@
 
 ## Sansay
 
-- 128 repositories were included in the corpus being tested
-- 0 repositories in the corpus were skipped because they were duplicated
-- 128 repositories being tested against the remaining rules
-- 1.02 issues on average found in non-compliant certificate repository URLs
-- 0.78% of repositories contain one or more Error level issue
-- 100.00% of repositories contain one or more Warning level issue
-- 0.00% of repositories contain one or more Notice level issue
-- 37ms average time it took to download each certificate
+- 128 repository URLs were included in the corpus being tested
+- 1 repository URLs in the corpus were skipped because they were duplicated
+- 127 repository URLs being tested against the remaining rules
+- 1.05 issues on average found in non-compliant certificate repository URLs
+- 1.57% of repository URLs contain one or more Error level issue
+- 100.00% of repository URLs contain one or more Warning level issue
+- 0.00% of repository URLs contain one or more Notice level issue
+- 35ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 1 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
-| 1 | [e_http_status_200](ISSUES/e_http_status_200/README.md) | HTTP |
-| 128 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
-| 1 | [w_atis_pem_certificate_chain](ISSUES/w_atis_pem_certificate_chain/README.md) | ATIS-1000080 |
+| 2 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
+| 2 | [e_http_status_200](ISSUES/e_http_status_200/README.md) | HTTP |
+| 127 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 2 | [w_atis_pem_certificate_chain](ISSUES/w_atis_pem_certificate_chain/README.md) | ATIS-1000080 |
 
-| Repository | Problems | Link |
-|------------|----------|------|
+| Repository URLs | Problems | Link |
+|-----------------|----------|------|
 | `https://cr.sansay.com/016K/order/63_016K_115` | true | [view](REPOS/f1ae391c3972838829f272530e08ddbf1969be14/README.md) |
 | `https://cr.sansay.com/016K/order/76_016K_115` | true | [view](REPOS/90448036c30c18e935158f5cc354c600338f93b6/README.md) |
 | `https://cr.sansay.com/016K/order/79_016K_115` | true | [view](REPOS/e74fa707598cbf4d136a5feeb88e904ac3fdc854/README.md) |
@@ -48,7 +48,6 @@
 | `https://cr.sansay.com/210J/order/205_210J_63` | true | [view](REPOS/5a7834f4441abc878e6ae5e1471de4577626e677/README.md) |
 | `https://cr.sansay.com/210J/order/206_210J_63` | true | [view](REPOS/3ea4aa61530aa7bbd8798f024577c6c16f63ebb2/README.md) |
 | `https://cr.sansay.com/210J/order/216_210J_63` | true | [view](REPOS/253fccf6b2bcbf5ad9b6bd248efe0f157072c9a8/README.md) |
-| `https://cr.sansay.com/258K_CERT` | true | [view](REPOS/48d6df33f100ce6dbd46b9271a310bc388d83c8b/README.md) |
 | `https://cr.sansay.com/325B_20211101.pem` | true | [view](REPOS/71c5948b5aac5e7b508043a2515d8cf6f4a58e31/README.md) |
 | `https://cr.sansay.com/382G_TERRANOVA_STIR_SHAKEN.crt` | true | [view](REPOS/6e6c71e4a8fff99711d1595ab30809db18105b93/README.md) |
 | `https://cr.sansay.com/463G/order/448_463G_53` | true | [view](REPOS/767a4753d7c178a7826ea0c4a73afd8d09ecc341/README.md) |
@@ -150,4 +149,4 @@
 | `https://cr.sansay.com/star2star_stirshaken_20220922` | true | [view](REPOS/9f19fc9d73b83395796f7e4f0d8a277010ab2fd7/README.md) |
 
 
-Generated: 10 Nov 22 23:30 UTC
+Generated: 17 Nov 22 19:20 UTC

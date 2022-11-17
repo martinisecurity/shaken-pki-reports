@@ -2,19 +2,19 @@
 
 ## Martini Security
 
-- 38 repositories were included in the corpus being tested
-- 14 repositories in the corpus were skipped because they were duplicated
-- 24 repositories being tested against the remaining rules
+- 39 repository URLs were included in the corpus being tested
+- 14 repository URLs in the corpus were skipped because they were duplicated
+- 25 repository URLs being tested against the remaining rules
 - 0.00 issues on average found in non-compliant certificate repository URLs
-- 0.00% of repositories contain one or more Error level issue
-- 0.00% of repositories contain one or more Warning level issue
-- 0.00% of repositories contain one or more Notice level issue
-- 72ms average time it took to download each certificate
+- 0.00% of repository URLs contain one or more Error level issue
+- 0.00% of repository URLs contain one or more Warning level issue
+- 0.00% of repository URLs contain one or more Notice level issue
+- 83ms average time it took to download each certificate
 
 No error, warning, or notice level issues were found
 
-| Repository | Problems | Link |
-|------------|----------|------|
+| Repository URLs | Problems | Link |
+|-----------------|----------|------|
 | `https://p.mtsec.me/2884/BiAXt2iK2Pw-.pem` | false | [view](REPOS/3e7911fa1cfd96c7139bc6292a3df943639dfec5/README.md) |
 | `https://p.mtsec.me/2884/CR0M-J_8cVtU.pem` | false | [view](REPOS/88d0714bc738e798914fb595c373ca47faa3fde1/README.md) |
 | `https://p.mtsec.me/2884/D56stZnBY62q.pem` | false | [view](REPOS/7c8e3ca2d5b5a67661c8b5cc2f6610db09119bbd/README.md) |
@@ -25,6 +25,7 @@ No error, warning, or notice level issues were found
 | `https://p.mtsec.me/2884/Ki6UJR0ZGyYZ.pem` | false | [view](REPOS/80efa853b0ac5af2c82d1c5fc492cfe046c87765/README.md) |
 | `https://p.mtsec.me/2884/OCdFGr4LOc4V.pem` | false | [view](REPOS/3edcc2407932f8397aa3486650ae04269b6dc84e/README.md) |
 | `https://p.mtsec.me/2884/OqnGuVS1EJ_R.pem` | false | [view](REPOS/de5a8f992ddede43f8a68f48a8a855f83d8e3a37/README.md) |
+| `https://p.mtsec.me/2884/SyNSWX3rxz2w.pem` | false | [view](REPOS/4cd360191c102206ff3c022cd75a389c0a8b9c72/README.md) |
 | `https://p.mtsec.me/2884/U1zkSXg2qmMj.pem` | false | [view](REPOS/b154d226db0a05bce89da05dedc886a51fa9abf7/README.md) |
 | `https://p.mtsec.me/2884/UgFVJbrdMXYF.pem` | false | [view](REPOS/8049a2ac07642ac767b0210c31010ea47132d56c/README.md) |
 | `https://p.mtsec.me/2884/XRr_J7CCF-zW.pem` | false | [view](REPOS/33d335c6904b44b280d9d76da4f00209f1e0aac8/README.md) |
@@ -41,4 +42,4 @@ No error, warning, or notice level issues were found
 | `https://p.mtsec.me/2dd5/U-o0Vt0ZT1yl.pem` | false | [view](REPOS/de15a9a3bef6c1d3ef2f6423f1ad3b83bdf02bc1/README.md) |
 
 
-Generated: 10 Nov 22 23:30 UTC
+Generated: 17 Nov 22 19:20 UTC

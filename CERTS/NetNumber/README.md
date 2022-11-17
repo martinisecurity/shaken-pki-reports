@@ -19,7 +19,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 100.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 94 days is the average remaining validity for the certificates in the corpus
+- 92 days is the average remaining validity for the certificates in the corpus
 - 114 days is the average initial validity for the certificates in the corpus
 - 3 certificates expire in the next 30 days
 
@@ -44,7 +44,7 @@
 - 66.67% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 7380 days is the average remaining validity for the certificates in the corpus
+- 7379 days is the average remaining validity for the certificates in the corpus
 - 6935 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -74,4 +74,4 @@
 | 29 Sep 21 13:22 UTC | NetNumber SHAKEN Root Intermediate CA 1 | true | [view](CERTS/e449803766edf02ab50b034dd7e89e54efd332cce87688a032f89b340d039878/README.md) |
 
 
-Generated: 10 Nov 22 23:30 UTC
+Generated: 17 Nov 22 19:20 UTC

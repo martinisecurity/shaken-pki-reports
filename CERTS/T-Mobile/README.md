@@ -19,7 +19,7 @@
 - 100.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 306 days is the average remaining validity for the certificates in the corpus
+- 303 days is the average remaining validity for the certificates in the corpus
 - 366 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -35,18 +35,18 @@
 
 #### CA Certificates
 
-- 2 certificates were included in the corpus being tested
+- 3 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 2 certificates being tested against the remaining rules
+- 3 certificates being tested against the remaining rules
 - 0.00 issues on average found in unexpired, trusted, and non-compliant certificates
 - 0.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 6313 days is the average remaining validity for the certificates in the corpus
-- 5478 days is the average initial validity for the certificates in the corpus
+- 7016 days is the average remaining validity for the certificates in the corpus
+- 6696 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
 No error, warning, or notice level issues were found
@@ -64,7 +64,8 @@ No error, warning, or notice level issues were found
 | Created at | Subject | Problems | Link |
 |------------|---------|----------|------|
 | 19 Sep 19 20:12 UTC | TMOBILE-PROD-ROOT-STIRSHAKEN-EC | false | [view](CERTS/d54b8c44268da3eaee9c5483c289652d1bd7f82420891114475470adebf8bf1e/README.md) |
+| 19 Sep 19 20:12 UTC | TMOBILE-PROD-ROOT-STIRSHAKEN-EC | false | [view](CERTS/c12a1d22654cc7c8bdcd4d502979b061750e11291d529a13a0b71bb7e96fcaff/README.md) |
 | 27 Sep 19 17:12 UTC | TMOBILE-PROD-SUB-STIRSHAKEN-EC | false | [view](CERTS/4378a3f136510465232246b4d6a72d600db7e11117ac0e3d59c65528f47c9c4f/README.md) |
 
 
-Generated: 10 Nov 22 23:30 UTC
+Generated: 17 Nov 22 19:20 UTC
