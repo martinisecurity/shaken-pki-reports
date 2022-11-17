@@ -19,6 +19,8 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/1827d9ff-facd-4d30-9ccb-16cd9bc20fc6.cer` | true | [view](../../REPOS/8ecadb386867d4d04c94c46c1eac37118b67ccb6/README.md) |
 | `https://sticr.stir.comcast.com/1a35ef12-21c3-42a8-bb04-7a995edcb7a6.cer` | true | [view](../../REPOS/51afa8bf895fa5e5e8ffe785f353a6372abd7b29/README.md) |
 | `https://sticr.stir.comcast.com/1a8d52ac-b951-4a58-8587-ebcc5eab35b2.cer` | true | [view](../../REPOS/a6b8b7e9a30b85c4e24fcdec899c1347a64bc5bf/README.md) |
+| `https://sticr.stir.comcast.com/221b13b1-f788-4a9f-8b94-8a98171333b9.cer` | true | [view](../../REPOS/7cefedd3e4b0d67075274bb76d096a50fab77cf4/README.md) |
+| `https://sticr.stir.comcast.com/24052a02-8aee-4d2a-9756-33ccced9851d.cer` | true | [view](../../REPOS/bfd0fb2543026e822f6307404649642a3b5c3b32/README.md) |
 | `https://sticr.stir.comcast.com/252a0914-c4e8-4c20-be16-dc3475c2f152.cer` | true | [view](../../REPOS/29995ef81e35a618fac0f74dda7bcc272ecfa39b/README.md) |
 | `https://sticr.stir.comcast.com/27482ff4-ba02-4419-8562-6af6276550cd.cer` | true | [view](../../REPOS/11a5ca609588889a979b494ca8fb0297fd65eb28/README.md) |
 | `https://sticr.stir.comcast.com/28ad7b45-d26e-44f9-9e94-956be1447094.cer` | true | [view](../../REPOS/349609e72ffae1b28e5b5ee54018087598170faf/README.md) |
@@ -36,6 +38,7 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/585a2efa-9cb6-4b4c-9c2e-0864259a611a.cer` | true | [view](../../REPOS/bb137fe7e58a24d8b7ef208735532cb221ad11bc/README.md) |
 | `https://sticr.stir.comcast.com/6923f39a-d006-406c-97de-96d86be10e82.cer` | true | [view](../../REPOS/0363b7e2dcc98294e0c1ab1b5ed49d4e7d29e883/README.md) |
 | `https://sticr.stir.comcast.com/6b5b4beb-a922-4a38-b864-6c4f29afdc96.cer` | true | [view](../../REPOS/4d556f978b373cc59d7fe839d7fc8b552226981f/README.md) |
+| `https://sticr.stir.comcast.com/6e165a5a-5b86-4858-8c59-6679f81ecd53.cer` | true | [view](../../REPOS/aad28fe75e0e554d128b43e6b1d2b1076d9fc925/README.md) |
 | `https://sticr.stir.comcast.com/6e5c0981-392f-46ee-a846-3d6f4110daac.cer` | true | [view](../../REPOS/d7e02b10e27cb0541c288370905ac04143339e23/README.md) |
 | `https://sticr.stir.comcast.com/6fbf5eef-8c40-4451-ae21-c85decacc5d8.cer` | true | [view](../../REPOS/8b45b2239bdbab50e4a61ff468cbe570124adece/README.md) |
 | `https://sticr.stir.comcast.com/70ac811c-8cf3-470c-90a4-96a58ac6d862.cer` | true | [view](../../REPOS/158d755dbdb1cb29cbf8c5065fe0fafbbf543ba0/README.md) |
@@ -43,7 +46,9 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/7fa7ab43-191d-4a8d-ac17-ebed13b7b30d.cer` | true | [view](../../REPOS/989e00267d774417ae39d7c583f4f25ee03b5deb/README.md) |
 | `https://sticr.stir.comcast.com/8850a181-dd51-4267-a217-93e5a6f3ac43.cer` | true | [view](../../REPOS/7656d7a38bb97f076553faed747216b58859bf34/README.md) |
 | `https://sticr.stir.comcast.com/8ed54c39-124f-491b-a004-06ff92b5202a.cer` | true | [view](../../REPOS/c4fe5a10dbe44ad151dcae03ccc636c6696376ac/README.md) |
+| `https://sticr.stir.comcast.com/90264a05-f132-45dc-9e93-26718774e9c4.cer` | true | [view](../../REPOS/baf6014cc3af4c280cde2a830ff2d39883a005e7/README.md) |
 | `https://sticr.stir.comcast.com/93b74f38-b0d3-4785-8c90-18101ac2cb8a.cer` | true | [view](../../REPOS/d604438f82134b8be0204ec92e77cca2e431fd54/README.md) |
+| `https://sticr.stir.comcast.com/9612b365-49c4-4724-9af8-bc40a4ebbdfd.cer` | true | [view](../../REPOS/8b64b1d2c57370445d541474ea6aa84cd8e79fed/README.md) |
 | `https://sticr.stir.comcast.com/a08aaa95-a740-4271-9688-966b04d17b57.cer` | true | [view](../../REPOS/9c4d63614ae54ba000ec6058bf03a9d8c968617f/README.md) |
 | `https://sticr.stir.comcast.com/a178dd35-f3ff-4671-98b7-11d95cff2bbd.cer` | true | [view](../../REPOS/e0e83470571dfeadc96d82e2d55e13ff38fe55b9/README.md) |
 | `https://sticr.stir.comcast.com/a8412a41-71c1-4744-9047-dd3c11f3b67e.cer` | true | [view](../../REPOS/0a50cb331d79d8850bc2219cbd328feac4b9e66a/README.md) |
@@ -65,10 +70,11 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/d3f29d47-19de-4a66-9bc6-c4de17e27d2a.cer` | true | [view](../../REPOS/cd9524670dab74b628487e458d1d590d0382f86e/README.md) |
 | `https://sticr.stir.comcast.com/dbc5ffd2-998d-4701-8be4-a10ff69ce097.cer` | true | [view](../../REPOS/ba5b2e4490c3140371fc3269130ed3174e40c8e8/README.md) |
 | `https://sticr.stir.comcast.com/de3c7224-4d92-42aa-ad87-29cf07b3e19c.cer` | true | [view](../../REPOS/9ae9247cd3fb4c187df5681fb92e6f314837e6a7/README.md) |
+| `https://sticr.stir.comcast.com/e302e3d1-8de4-4c0c-abcb-52813f3b7f2c.cer` | true | [view](../../REPOS/d333dc15eb0c7fa12799c38cbaedaa42a8b90452/README.md) |
 | `https://sticr.stir.comcast.com/f173e057-ce18-4715-8498-d47365ecb823.cer` | true | [view](../../REPOS/94bd7091b4e3196e921559512784f754c3901061/README.md) |
 | `https://sticr.stir.comcast.com/f203a64e-0c1b-4159-a974-d2c9d0acb36a.cer` | true | [view](../../REPOS/7d7c0e56066cc890f99d89775e83f41d7e403368/README.md) |
 | `https://sticr.stir.comcast.com/fd36683c-6292-4ab0-879d-e59fe379bfbf.cer` | true | [view](../../REPOS/e7bdb7695e33ee0a3c2b1816f9daf2933de929e5/README.md) |
 | `https://sticr.stir.comcast.com/ff4f3455-b2b0-4f18-9435-ef5fa9a58b9f.cer` | true | [view](../../REPOS/abb5d20577a6b6bfd7727965fd4a8466601d4de0/README.md) |
 
 
-Generated: 17 Nov 22 19:20 UTC
+Generated: 17 Nov 22 19:21 UTC

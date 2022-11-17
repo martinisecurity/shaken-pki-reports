@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 270ms average time it took to download each certificate
+- 220ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://crs.sti.uscellular.com/certs/uscc_shaken_CA.crt` | true | [view](REPOS/b2a4177b5a547e2a4c30c52aa4ff68a0b2d2899c/README.md) |
 
 
-Generated: 17 Nov 22 19:20 UTC
+Generated: 17 Nov 22 19:21 UTC

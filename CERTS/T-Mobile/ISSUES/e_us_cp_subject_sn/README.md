@@ -13,10 +13,11 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
 | error | cert.stir.t-mobile.com | [view](../../CERTS/7f653e15453416082531011acd1d7dad4f664ddf5124f73e27d841138f4a89f8/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| error | SHAKEN 6529 | [view](../../CERTS/a3bffabdf710ee8fd719f4bf09ec27341e7e9705b4ac4687b98e4d137222cf38/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 17 Nov 22 19:20 UTC
+Generated: 17 Nov 22 19:21 UTC

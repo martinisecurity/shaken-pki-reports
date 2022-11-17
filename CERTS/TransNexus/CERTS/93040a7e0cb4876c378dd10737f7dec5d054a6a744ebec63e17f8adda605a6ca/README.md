@@ -17,4 +17,4 @@ Link: https://certificates.transnexus.com/952J/933ae4bb-a38f-410b-9c14-38fd2f4c7
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 17 Nov 22 19:20 UTC
+Generated: 17 Nov 22 19:21 UTC

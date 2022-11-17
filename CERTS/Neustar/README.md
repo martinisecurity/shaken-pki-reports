@@ -9,26 +9,26 @@
 
 #### Leaf Certificates
 
-- 217 certificates were included in the corpus being tested
-- 114 certificates in the corpus were skipped because they are duplicates
+- 221 certificates were included in the corpus being tested
+- 117 certificates in the corpus were skipped because they are duplicates
 - 2 certificates in the corpus were skipped because they are expired
 - 1 certificates in the corpus were skipped because they are not currently trusted
-- 100 certificates being tested against the remaining rules
-- 2.94 issues on average found in unexpired, trusted, and non-compliant certificates
-- 96.00% of certificates contain one or more Error level issue
-- 30.00% of certificates contain one or more Warning level issue
+- 101 certificates being tested against the remaining rules
+- 2.96 issues on average found in unexpired, trusted, and non-compliant certificates
+- 96.04% of certificates contain one or more Error level issue
+- 29.70% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
-- 30.00% of certificates are too old to be assessed against currently enforced expectations
-- 565 days is the average remaining validity for the certificates in the corpus
-- 570 days is the average initial validity for the certificates in the corpus
+- 29.70% of certificates are too old to be assessed against currently enforced expectations
+- 564 days is the average remaining validity for the certificates in the corpus
+- 568 days is the average initial validity for the certificates in the corpus
 - 1 certificates expire in the next 30 days
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 81 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
-| 62 | [e_atis_extension_unknown](ISSUES/e_atis_extension_unknown/README.md) | ATIS1000080 |
+| 83 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
+| 64 | [e_atis_extension_unknown](ISSUES/e_atis_extension_unknown/README.md) | ATIS1000080 |
 | 26 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 95 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 96 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
 | 30 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
@@ -91,6 +91,7 @@
 | 11 Jan 22 21:31 UTC | SHAKEN 506J | true | [view](CERTS/00635768d8b9c2e0fc7fd4d35c6c192107102b0f4ba22ddf9c0c5c76ee257d32/README.md) |
 | 18 Jan 22 18:06 UTC | SHAKEN 899J | true | [view](CERTS/df5ff82d270dec47f3255a7415d68ae4348953383baedd15c367a34752e1c7ec/README.md) |
 | 20 Jan 22 17:34 UTC | SHAKEN 750J | true | [view](CERTS/52cb96a36b3dac1475b04a10b545d0f9399e4dc1b3227aaccb7dc4a01278e7c3/README.md) |
+| 24 Jan 22 20:03 UTC | SHAKEN 7076 | true | [view](CERTS/b5d337b8c8cefb9cc1e58810950d114f115a61f3ada1acd8c3634397e884ec7c/README.md) |
 | 02 Feb 22 20:45 UTC | SHAKEN 785J | true | [view](CERTS/433a795031c3e471766ce6bdfcff8da439d089a2209b44167af945b481151a18/README.md) |
 | 04 Mar 22 20:34 UTC | SHAKEN 863J | true | [view](CERTS/a823137b09d7d9bc4b78bcef8048a37ceeb899121f4d227e0fc5e784faef7038/README.md) |
 | 16 Mar 22 13:10 UTC | SHAKEN 393J | true | [view](CERTS/1f41d26a18d6dbb6f9a0710eea2b870dd939d4ac06b530761b055d215a12f14f/README.md) |
@@ -120,6 +121,7 @@
 | 24 May 22 18:47 UTC | SHAKEN 732J | true | [view](CERTS/3614b73ce2926d939d99f67d12f1b63ca1ba7f8f9ae6885e108384e7a725713e/README.md) |
 | 25 May 22 16:41 UTC | SHAKEN 672J | true | [view](CERTS/30bbe0bdbf6c302c8da0f6e23fb56df86d12bd6a784383dc6e475d2b6a172925/README.md) |
 | 31 May 22 15:42 UTC | SHAKEN 704J | true | [view](CERTS/7d6ad3d1bfc3820ad65514ccd15606e93f9df5c8732fe3e374b3e3522c40cf57/README.md) |
+| 06 Jun 22 19:29 UTC | SHAKEN 700H | true | [view](CERTS/922aa13276e7a56917d5500c4817f66badaddd5a0c30ec9773b63f49733d1432/README.md) |
 | 08 Jun 22 15:19 UTC | SHAKEN 534J | true | [view](CERTS/eec71348d87837eafbc112c892fe6c362c79adb14ae697cf60522e03f19230c3/README.md) |
 | 08 Jun 22 16:50 UTC | SHAKEN 819J | true | [view](CERTS/127f660276cb1085f74a7f9955b94ced3bd3452a57c26a8240c31fd6d29ee512/README.md) |
 | 12 Jun 22 15:12 UTC | SHAKEN 261H | true | [view](CERTS/6815b252b41b1d162968ea43df4ae48355a8b786816ec2434d65c703e2a5a8fc/README.md) |
@@ -152,7 +154,6 @@
 | 29 Aug 22 19:07 UTC | ATT SHAKEN 4036 | true | [view](CERTS/3a8d4d5fe47e784f925bca30b21d44f3492ad0813fd074ef2d438cca1d4acc68/README.md) |
 | 31 Aug 22 14:47 UTC | SHAKEN 500J | true | [view](CERTS/25393ddb6f4b6a42df56e2cafbff0fa710e60bbdf94d37561290cdb6e66f28d1/README.md) |
 | 01 Sep 22 20:43 UTC | SHAKEN 813J | true | [view](CERTS/5ec454f90ed7dffae1782a1028542871a5273b075f6855a9a7d0171dbdb78750/README.md) |
-| 09 Sep 22 14:44 UTC | SHAKEN 5606 | true | [view](CERTS/8fc7d03e6cd7ab01c7c8b9051bfef91cd5bceecefd08f74b6fc948b65b15eca4/README.md) |
 | 12 Sep 22 19:52 UTC | SHAKEN 707J | true | [view](CERTS/132d0f59c15814fc3f80760fdf109ee36d0ac19eaf03a74457523f2cf4dcf982/README.md) |
 | 15 Sep 22 16:20 UTC | SHAKEN 292K | true | [view](CERTS/e449581f068a3e747acc8dfd7c0707c9aed3deca9f572afa13bbb0ffbebffd27/README.md) |
 | 26 Oct 22 16:36 UTC | SHAKEN 770J | true | [view](CERTS/c0d94a93ff7d9519ab97a0e8a44ecae02198e5df6ca89a8783163d00a80583ea/README.md) |
@@ -172,4 +173,4 @@
 | 05 Oct 22 17:26 UTC | Neustar Certified Caller ID SHAKEN CA-2 | true | [view](CERTS/0bd95ecbb97c09de0df079ca41e10c360c4b5928ac56c496879a2c90c6bbffe4/README.md) |
 
 
-Generated: 17 Nov 22 19:20 UTC
+Generated: 17 Nov 22 19:21 UTC

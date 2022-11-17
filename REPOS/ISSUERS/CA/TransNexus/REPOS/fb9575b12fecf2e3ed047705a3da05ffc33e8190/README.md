@@ -4,10 +4,10 @@
 
 Name: `https://certificates.transnexus.com/841J/4dd0cc8d-8dd9-49b0-965c-82179fcfaeaa.pem`\
 Tested At: 17 Nov 22 19:10 UTC\
-Time: 9ms
+Time: 12ms
 
 ### Issues
 
 no warning, or error, or notice date level issues were found
 
-Generated: 17 Nov 22 19:20 UTC
+Generated: 17 Nov 22 19:21 UTC

@@ -4,10 +4,10 @@
 
 Name: `https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/e054aab41422166cb18f62755c06360b.pem`\
 Tested At: 17 Nov 22 19:10 UTC\
-Time: 10ms
+Time: 11ms
 
 ### Issues
 
 no warning, or error, or notice date level issues were found
 
-Generated: 17 Nov 22 19:20 UTC
+Generated: 17 Nov 22 19:21 UTC

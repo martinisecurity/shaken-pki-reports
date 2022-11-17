@@ -4,10 +4,10 @@
 
 Name: `https://certificates.transnexus.com/0172/4fac8936-ad2c-475a-8dca-dcdb2cd50914.pem`\
 Tested At: 17 Nov 22 19:10 UTC\
-Time: 9ms
+Time: 11ms
 
 ### Issues
 
 no warning, or error, or notice date level issues were found
 
-Generated: 17 Nov 22 19:20 UTC
+Generated: 17 Nov 22 19:21 UTC

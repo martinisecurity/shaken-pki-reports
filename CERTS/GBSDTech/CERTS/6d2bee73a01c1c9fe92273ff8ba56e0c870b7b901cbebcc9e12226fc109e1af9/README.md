@@ -2,7 +2,7 @@
 
 ## Certificate GBSDTech SHAKEN Root CA
 
-Tested At: 17 Nov 22 19:20 UTC\
+Tested At: 17 Nov 22 19:21 UTC\
 Initial Validity Period: 7300 day(s)\
 Remaining Validity Period: 6739 day(s)\
 Subject: CN=GBSDTech SHAKEN Root CA, O=GBSDTech, L=Ft Worth, ST=Texas, C=US\
@@ -22,4 +22,4 @@ Issuer: CN=GBSDTech SHAKEN Root CA, O=GBSDTech, L=Ft Worth, ST=Texas, C=US
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 17 Nov 22 19:20 UTC
+Generated: 17 Nov 22 19:21 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate New Horizon SHAKEN Cert 127E
 
-Tested At: 17 Nov 22 19:16 UTC\
+Tested At: 17 Nov 22 19:17 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 611 day(s)\
 Subject: CN=New Horizon SHAKEN Cert 127E, O=New Horizon Communications, C=US\
@@ -28,4 +28,4 @@ Link: https://sti-cr.cgah.tnsi.com/certs/934dd1fd3cc80f18d4322f0336a0dab2e9d7998
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 17 Nov 22 19:20 UTC
+Generated: 17 Nov 22 19:21 UTC

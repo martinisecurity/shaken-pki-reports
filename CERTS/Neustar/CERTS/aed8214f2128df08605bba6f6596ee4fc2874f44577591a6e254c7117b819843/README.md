@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 067K
 
-Tested At: 17 Nov 22 19:20 UTC\
+Tested At: 17 Nov 22 19:21 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 220 day(s)\
 Subject: CN=SHAKEN 067K, O=Junction Networks Inc, C=US\
@@ -18,4 +18,4 @@ Link: https://stir-shaken.jnctn.net/onsip-stir-shaken.pem
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 17 Nov 22 19:20 UTC
+Generated: 17 Nov 22 19:21 UTC
