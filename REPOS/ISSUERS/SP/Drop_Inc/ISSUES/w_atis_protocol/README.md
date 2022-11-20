@@ -12,4 +12,4 @@ Description: The verifier should not dereference any protocol other than https o
 | `http://sti.comsapi.com/258k/ca.crt` | true | [view](../../REPOS/5abcce6c85d131563d034be7f0285e9728e40793/README.md) |
 
 
-Generated: 17 Nov 22 19:21 UTC
+Generated: 20 Nov 22 22:57 UTC

@@ -33,6 +33,7 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 | error | South Central Rural Telecommunications Coop SHAKEN Cert 0418 | [view](../../CERTS/6e988e3a74dbb6c1862118841d78e438f345c1ef7e79a96c2087328b5de146c1/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | TDS Telecom SHAKEN Cert 7804 | [view](../../CERTS/a04a669738b79ff55c2b2197f72a12a112b731906e2e6a925d37ccee2fa00a11/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Utility SHAKEN Cert 9262 | [view](../../CERTS/97acbe1f0c7b2ceb99bec93a9da9ff2c1fd55e9a4cd78a32160237751f720236/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| error | Buckeye SHAKEN Cert 7608 | [view](../../CERTS/61a18f942b4df978a21d6e9cf1df2f0cea0dbd9609b1fcfec8c5f97d5c6dcd7e/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | GCI SHAKEN Cert 7785 | [view](../../CERTS/312e58dffa682b464f9867a7c373f9881d092b834767dcabe5baf8c7245e937c/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Carolina West Wireless SHAKEN Cert 5932 | [view](../../CERTS/e85dec068c9fa23af68b345257d58269303c925d10fc9101b226d1e0e7d62a9d/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | CBTS Technology Solutions SHAKEN Cert 600F | [view](../../CERTS/3d02021a2da14f1ebfe588256a419be9ebc03c0d1fccc51cc29fa9d4a625c6bf/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
@@ -43,4 +44,4 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 No error, warning, or notice level issues were found
 
 
-Generated: 17 Nov 22 19:21 UTC
+Generated: 20 Nov 22 22:57 UTC

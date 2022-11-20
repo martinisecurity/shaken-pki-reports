@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 597F
 
-Tested At: 17 Nov 22 19:11 UTC\
+Tested At: 20 Nov 22 22:56 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 125 day(s)\
+Remaining Validity Period: 122 day(s)\
 Subject: CN=SHAKEN 597F, O=VoIP Innovations, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/df5936cc4f0da18288b02b726643bd9c728f6c51
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/df5936cc4f0da18288b02b726643bd9c728f6c51
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 17 Nov 22 19:21 UTC
+Generated: 20 Nov 22 22:57 UTC

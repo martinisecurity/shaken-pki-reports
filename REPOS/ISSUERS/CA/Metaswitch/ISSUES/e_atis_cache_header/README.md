@@ -24,9 +24,10 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sti-cr.cgah.tnsi.com/certs/99b4dd6734c3c1840bfdc0a2014214200e402920` | true | [view](../../REPOS/50e2446501cee41c98ebfdebfbbcdc7462915c7d/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/9b2b8bbbd5a5a28082425a21229434097aafd9b2` | true | [view](../../REPOS/eb6d0328d53c4ee40529598f2164e77af66e3386/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/9da57471f2181f41af029f868fb29eb79e8af233` | true | [view](../../REPOS/d5a7d023becb52588f262e827135035c0bc6f0f9/README.md) |
+| `https://sti-cr.cgah.tnsi.com/certs/ccf242c7f37d7d7d0af1091ba5d7894e312ccedd` | true | [view](../../REPOS/f4b52f5509266f668a23f345f1ae34296e40bf1b/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/cd1856717574765eb6b4bddb7a5bc8814e1e2103` | true | [view](../../REPOS/8a93062c89a419a83af68fafaa8bc49b3e23ad38/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/d9dd9bf73998fe328ba9447674492e8217d56dcf` | true | [view](../../REPOS/a7cc45b1f28b042be997c304d7d4aaa58f5538e4/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/de39b976c7549358da256530d81cfb1f446a2583` | true | [view](../../REPOS/5b6aeeae4a284e7607c4cb9d696247d8dce1a428/README.md) |
 
 
-Generated: 17 Nov 22 19:21 UTC
+Generated: 20 Nov 22 22:57 UTC

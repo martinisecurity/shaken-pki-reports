@@ -9,18 +9,18 @@
 
 #### Leaf Certificates
 
-- 40 certificates were included in the corpus being tested
-- 15 certificates in the corpus were skipped because they are duplicates
+- 45 certificates were included in the corpus being tested
+- 18 certificates in the corpus were skipped because they are duplicates
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 25 certificates being tested against the remaining rules
+- 27 certificates being tested against the remaining rules
 - 1.00 issues on average found in unexpired, trusted, and non-compliant certificates
 - 0.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
-- 20.00% of certificates contain one or more Notice level issue
+- 18.52% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
 - 96 days is the average remaining validity for the certificates in the corpus
-- 99 days is the average initial validity for the certificates in the corpus
+- 98 days is the average initial validity for the certificates in the corpus
 - 1 certificates expire in the next 30 days
 
 | Instances | Test | Source |
@@ -39,7 +39,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 33.33% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 5429 days is the average remaining validity for the certificates in the corpus
+- 5428 days is the average remaining validity for the certificates in the corpus
 - 4261 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -78,6 +78,8 @@
 | 09 Nov 22 22:40 UTC | SHAKEN 709J | false | [view](CERTS/a906441173496d0d84b6a5bad4378cd55c34937cfa15acd5325d9839c4f08c87/README.md) |
 | 09 Nov 22 22:42 UTC | SHAKEN 709J | false | [view](CERTS/ebb954e4df5cce02a29f17cad6692c826b5b32522339424d689625b1ae679d91/README.md) |
 | 16 Nov 22 17:26 UTC | SHAKEN 048K | false | [view](CERTS/2e29a51cd9c7a6d1939de8a4524c509163a3a4125d86636e2b8178157bbeb6f1/README.md) |
+| 18 Nov 22 16:55 UTC | SHAKEN 148K | false | [view](CERTS/5d69437cbe50c04f6704e2757d505efb74a203c1e4eed608374f4bcd0670e6ac/README.md) |
+| 18 Nov 22 18:56 UTC | SHAKEN 115K | false | [view](CERTS/874c25749b8deaeb272ce246241e9b3405c050b32adbf79ed922ff23a675de93/README.md) |
 
 #### CA Certificates
 
@@ -88,4 +90,4 @@
 | 02 Oct 22 10:40 UTC | Martini Security SHAKEN G2 | false | [view](CERTS/bf818ddbd3ae492e4a85331b85b52f4d2cdef8287bf910b59e247b6c132fa7fd/README.md) |
 
 
-Generated: 17 Nov 22 19:21 UTC
+Generated: 20 Nov 22 22:57 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate Viaero Wireless SHAKEN Cert 6874
 
-Tested At: 17 Nov 22 19:16 UTC\
+Tested At: 20 Nov 22 22:57 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 547 day(s)\
+Remaining Validity Period: 544 day(s)\
 Subject: CN=Viaero Wireless SHAKEN Cert 6874, O=Viaero Wireless, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://sti-cr.cgah.tnsi.com/certs/836dbe7b4ab9ad475219697d1553bed65e3d3463
@@ -28,4 +28,4 @@ Link: https://sti-cr.cgah.tnsi.com/certs/836dbe7b4ab9ad475219697d1553bed65e3d346
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 17 Nov 22 19:21 UTC
+Generated: 20 Nov 22 22:57 UTC
