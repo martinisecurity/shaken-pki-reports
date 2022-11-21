@@ -61,6 +61,15 @@ func CreateReport(name string) (*os.File, error) {
 	return file, nil
 }
 
+func CreateCSV(name string) (*os.File, error) {
+	file, err := os.Create(fmt.Sprintf("%s.csv", name))
+	if err != nil {
+		return nil, fmt.Errorf("cannot create the CSV file, %w", err)
+	}
+
+	return file, nil
+}
+
 // PrintFooter prints common footer
 func PrintFooter(w io.Writer) {
 	now := time.Now()

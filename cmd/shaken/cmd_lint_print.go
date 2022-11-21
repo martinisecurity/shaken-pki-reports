@@ -589,3 +589,33 @@ func PrintMapList[T interface{}](w io.Writer, m map[string]T) {
 		fmt.Fprintf(w, "- %s\n", key)
 	}
 }
+
+func PrintSummaryOCN(w io.Writer, r *CertificateSummaryReport) {
+	fmt.Fprintln(w, "OCN;Org Name;CN;Cert")
+	keys := []string{}
+	for k := range r.Leaf.UniqueOCNs {
+		keys = append(keys, k)
+	}
+	sort.Strings(keys)
+	for _, k := range keys {
+		uniqueOCN := r.Leaf.UniqueOCNs[k]
+		for _, i := range uniqueOCN.Items {
+			fmt.Fprintf(w, "%s;%s;%s;%s\n", k, i.Certificate.Subject.Organization[0], i.Certificate.Subject.CommonName, i.Url)
+		}
+	}
+}
+
+func PrintIssuerOCN(w io.Writer, r *CertificateIssuerReport) {
+	fmt.Fprintln(w, "OCN;Org Name;CN;Cert")
+	keys := []string{}
+	for k := range r.UniqueOCNs {
+		keys = append(keys, k)
+	}
+	sort.Strings(keys)
+	for _, k := range keys {
+		uniqueOCN := r.UniqueOCNs[k]
+		for _, i := range uniqueOCN {
+			fmt.Fprintf(w, "%s;%s;%s;%s\n", k, i.Certificate.Subject.Organization[0], i.Certificate.Subject.CommonName, i.Url)
+		}
+	}
+}
