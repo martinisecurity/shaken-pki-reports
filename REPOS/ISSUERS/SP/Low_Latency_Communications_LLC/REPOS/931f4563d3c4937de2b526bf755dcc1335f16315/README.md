@@ -3,11 +3,11 @@
 ## Low Latency Communications LLC
 
 Name: `https://sketchy.gay/shaken/llc-cert-1.pem`\
-Tested At: 02 Nov 22 15:09 UTC\
-Time: 229ms
+Tested At: 21 Nov 22 20:23 UTC\
+Time: 424ms
 
 ### Issues
 
 no warning, or error, or notice date level issues were found
 
-Generated: 02 Nov 22 15:10 UTC
+Generated: 21 Nov 22 20:33 UTC

@@ -14,6 +14,7 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 |--------|---------|------|---------|
 | error | Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../../CERTS/0541bcf0e982d7e6cb1c0bbbcce11b835523895f5816aab422fd0fbd9d8f2ffb/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | Plivo Inc | [view](../../CERTS/7dc750fb7aa68d2b67b8dbc89f65217f92db54504685058be016638011adf8bf/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | Google SHAKEN cert 969H | [view](../../CERTS/ac89ca8ee8dd2dad340232968a8cdcc5a613a485c108f8f14f14bd8cbbc1433e/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | Google SHAKEN cert 969H | [view](../../CERTS/ea9be023aa06e4b6606c9048a6ccace9a16100695fe5b5747654a521d7acfc56/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 ### CA Certificates
@@ -21,4 +22,4 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 No error, warning, or notice level issues were found
 
 
-Generated: 02 Nov 22 15:10 UTC
+Generated: 21 Nov 22 20:33 UTC

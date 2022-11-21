@@ -5,10 +5,10 @@
 Name: e_atis_cache_header\
 Source: ATIS-1000074\
 Description: The STI-VS shall implement the cache behavior described in RFC7234. If the HTTP response does not include any recognized caching directives or indicates caching for less than 24 hours, then the STI-VS should cache the HTTP response for 24 hours
-### Repositories
+### Repository URLs
 
-| Repository | Problems | Link |
-|------------|----------|------|
+| Repository URLs | Problems | Link |
+|-----------------|----------|------|
 | `https://sti-cr.cgah.tnsi.com/certs/11d9e0e06eeaaf56fb9be54eec6aae5a8b3461fe` | true | [view](../../REPOS/3b3a2bead0211bccb53952e15923351e2f2a8538/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/1b0b321bad320b960a4f0fc8f2408d0daa110730` | true | [view](../../REPOS/34e7882e06dace1a791ef9c61d8fd0dd95ed09df/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/1cb5524539bfa481384ff17da116fd8eed39952f` | true | [view](../../REPOS/d32b7cbb15b61c3e1fcea715a64bf660c8404339/README.md) |
@@ -17,12 +17,17 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sti-cr.cgah.tnsi.com/certs/5dc472732f3dd53854a5183f1dadceeb6127fac7` | true | [view](../../REPOS/587f724b722f0a26fd7082d483d15a8be3a41e7e/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/6c54d88f5669c28848983d4572f11c0b896342ac` | true | [view](../../REPOS/a18cebfe06f6420c76cddb1cd0225cafc82a7438/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/786c2c44c5fcfd1ed973607e3ac560ee3425d030` | true | [view](../../REPOS/3e19ca6e50306322518c86d37a1091b2952c2aae/README.md) |
+| `https://sti-cr.cgah.tnsi.com/certs/7fba9a7fc8b3131f6fcea50e668939fd26bbd4a3` | true | [view](../../REPOS/3c6cdb7edf314677ac2ab6c7ad3a9c87f15a9d5f/README.md) |
+| `https://sti-cr.cgah.tnsi.com/certs/836dbe7b4ab9ad475219697d1553bed65e3d3463` | true | [view](../../REPOS/69dad94c6356a72e2c627c4bb15b308b18311b01/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/934dd1fd3cc80f18d4322f0336a0dab2e9d7998d` | true | [view](../../REPOS/e3189ef10774b87493f0ca513d99bdcd433699b0/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/97ebbd6324f0d938d5e150ecb217c5ead6156cfa` | true | [view](../../REPOS/fb53e5248ef82f10af0bff5814dbc753150d11b4/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/99b4dd6734c3c1840bfdc0a2014214200e402920` | true | [view](../../REPOS/50e2446501cee41c98ebfdebfbbcdc7462915c7d/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/9b2b8bbbd5a5a28082425a21229434097aafd9b2` | true | [view](../../REPOS/eb6d0328d53c4ee40529598f2164e77af66e3386/README.md) |
+| `https://sti-cr.cgah.tnsi.com/certs/9da57471f2181f41af029f868fb29eb79e8af233` | true | [view](../../REPOS/d5a7d023becb52588f262e827135035c0bc6f0f9/README.md) |
+| `https://sti-cr.cgah.tnsi.com/certs/ccf242c7f37d7d7d0af1091ba5d7894e312ccedd` | true | [view](../../REPOS/f4b52f5509266f668a23f345f1ae34296e40bf1b/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/cd1856717574765eb6b4bddb7a5bc8814e1e2103` | true | [view](../../REPOS/8a93062c89a419a83af68fafaa8bc49b3e23ad38/README.md) |
+| `https://sti-cr.cgah.tnsi.com/certs/d9dd9bf73998fe328ba9447674492e8217d56dcf` | true | [view](../../REPOS/a7cc45b1f28b042be997c304d7d4aaa58f5538e4/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/de39b976c7549358da256530d81cfb1f446a2583` | true | [view](../../REPOS/5b6aeeae4a284e7607c4cb9d696247d8dce1a428/README.md) |
 
 
-Generated: 02 Nov 22 15:10 UTC
+Generated: 21 Nov 22 20:33 UTC

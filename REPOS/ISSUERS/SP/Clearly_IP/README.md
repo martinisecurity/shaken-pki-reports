@@ -2,23 +2,22 @@
 
 ## Clearly IP
 
-- 1 repositories were included in the corpus being tested
-- 0 repositories in the corpus were skipped because they were duplicated
-- 1 repositories being tested against the remaining rules
-- 2.00 issues on average found in non-compliant certificate repository URLs
-- 100.00% of repositories contain one or more Error level issue
-- 100.00% of repositories contain one or more Warning level issue
-- 0.00% of repositories contain one or more Notice level issue
-- 718ms average time it took to download each certificate
+- 2 repository URLs were included in the corpus being tested
+- 1 repository URLs in the corpus were skipped because they were duplicated
+- 1 repository URLs being tested against the remaining rules
+- 1.00 issues on average found in non-compliant certificate repository URLs
+- 100.00% of repository URLs contain one or more Error level issue
+- 0.00% of repository URLs contain one or more Warning level issue
+- 0.00% of repository URLs contain one or more Notice level issue
+- 357ms average time it took to download each certificate
 
-| Instances | Test Status | Source |
-|-----------|-------------|--------|
+| Instances | Test | Source |
+|-----------|------|--------|
 | 1 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
-| 1 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
-| Repository | Problems | Link |
-|------------|----------|------|
-| `https://stir.tel/c/704J_alt` | true | [view](REPOS/651239007efec3ecc82c845c3666dcff06dc0612/README.md) |
+| Repository URLs | Problems | Link |
+|-----------------|----------|------|
+| `https://r.stir.tel/704J/230531154218Z/cert.pem` | true | [view](REPOS/99863f9d2855ccd1e77c4a126a052550b66644f2/README.md) |
 
 
-Generated: 02 Nov 22 15:10 UTC
+Generated: 21 Nov 22 20:33 UTC

@@ -14,6 +14,7 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 |--------|---------|------|---------|
 | error | Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../../CERTS/0541bcf0e982d7e6cb1c0bbbcce11b835523895f5816aab422fd0fbd9d8f2ffb/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Plivo Inc | [view](../../CERTS/7dc750fb7aa68d2b67b8dbc89f65217f92db54504685058be016638011adf8bf/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| error | Google SHAKEN cert 969H | [view](../../CERTS/ac89ca8ee8dd2dad340232968a8cdcc5a613a485c108f8f14f14bd8cbbc1433e/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Google SHAKEN cert 969H | [view](../../CERTS/ea9be023aa06e4b6606c9048a6ccace9a16100695fe5b5747654a521d7acfc56/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
 ### CA Certificates
@@ -21,4 +22,4 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 No error, warning, or notice level issues were found
 
 
-Generated: 02 Nov 22 15:10 UTC
+Generated: 21 Nov 22 20:33 UTC

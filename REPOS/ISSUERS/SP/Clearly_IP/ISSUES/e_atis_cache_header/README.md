@@ -5,11 +5,11 @@
 Name: e_atis_cache_header\
 Source: ATIS-1000074\
 Description: The STI-VS shall implement the cache behavior described in RFC7234. If the HTTP response does not include any recognized caching directives or indicates caching for less than 24 hours, then the STI-VS should cache the HTTP response for 24 hours
-### Repositories
+### Repository URLs
 
-| Repository | Problems | Link |
-|------------|----------|------|
-| `https://stir.tel/c/704J_alt` | true | [view](../../REPOS/651239007efec3ecc82c845c3666dcff06dc0612/README.md) |
+| Repository URLs | Problems | Link |
+|-----------------|----------|------|
+| `https://r.stir.tel/704J/230531154218Z/cert.pem` | true | [view](../../REPOS/99863f9d2855ccd1e77c4a126a052550b66644f2/README.md) |
 
 
-Generated: 02 Nov 22 15:10 UTC
+Generated: 21 Nov 22 20:33 UTC

@@ -2,24 +2,24 @@
 
 ## Sansay
 
-- 113 repositories were included in the corpus being tested
-- 1 repositories in the corpus were skipped because they were duplicated
-- 112 repositories being tested against the remaining rules
-- 1.03 issues on average found in non-compliant certificate repository URLs
-- 0.89% of repositories contain one or more Error level issue
-- 100.00% of repositories contain one or more Warning level issue
-- 0.00% of repositories contain one or more Notice level issue
-- 37ms average time it took to download each certificate
+- 138 repository URLs were included in the corpus being tested
+- 1 repository URLs in the corpus were skipped because they were duplicated
+- 137 repository URLs being tested against the remaining rules
+- 1.04 issues on average found in non-compliant certificate repository URLs
+- 1.46% of repository URLs contain one or more Error level issue
+- 100.00% of repository URLs contain one or more Warning level issue
+- 0.00% of repository URLs contain one or more Notice level issue
+- 76ms average time it took to download each certificate
 
-| Instances | Test Status | Source |
-|-----------|-------------|--------|
-| 1 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
-| 1 | [e_http_status_200](ISSUES/e_http_status_200/README.md) | HTTP |
-| 112 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
-| 1 | [w_atis_pem_certificate_chain](ISSUES/w_atis_pem_certificate_chain/README.md) | ATIS-1000080 |
+| Instances | Test | Source |
+|-----------|------|--------|
+| 2 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
+| 2 | [e_http_status_200](ISSUES/e_http_status_200/README.md) | HTTP |
+| 137 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 2 | [w_atis_pem_certificate_chain](ISSUES/w_atis_pem_certificate_chain/README.md) | ATIS-1000080 |
 
-| Repository | Problems | Link |
-|------------|----------|------|
+| Repository URLs | Problems | Link |
+|-----------------|----------|------|
 | `https://cr.sansay.com/016K/order/63_016K_115` | true | [view](REPOS/f1ae391c3972838829f272530e08ddbf1969be14/README.md) |
 | `https://cr.sansay.com/016K/order/76_016K_115` | true | [view](REPOS/90448036c30c18e935158f5cc354c600338f93b6/README.md) |
 | `https://cr.sansay.com/016K/order/79_016K_115` | true | [view](REPOS/e74fa707598cbf4d136a5feeb88e904ac3fdc854/README.md) |
@@ -47,9 +47,15 @@
 | `https://cr.sansay.com/210J/order/203_210J_63` | true | [view](REPOS/59a686b30e95364faba92bbcdf1a94c5144c6b7f/README.md) |
 | `https://cr.sansay.com/210J/order/205_210J_63` | true | [view](REPOS/5a7834f4441abc878e6ae5e1471de4577626e677/README.md) |
 | `https://cr.sansay.com/210J/order/206_210J_63` | true | [view](REPOS/3ea4aa61530aa7bbd8798f024577c6c16f63ebb2/README.md) |
+| `https://cr.sansay.com/210J/order/216_210J_63` | true | [view](REPOS/253fccf6b2bcbf5ad9b6bd248efe0f157072c9a8/README.md) |
+| `https://cr.sansay.com/210J/order/223_210J_63` | true | [view](REPOS/27000817098ac7a4555cd53a28575bbba7510538/README.md) |
+| `https://cr.sansay.com/210J/order/224_210J_63` | true | [view](REPOS/b6f436e5800d284bbbafb32f11012ca205aba48d/README.md) |
+| `https://cr.sansay.com/210J/order/227_210J_63` | true | [view](REPOS/dfc3b5b0e53e2d02114d8d5bc77e3fee2fa7ab93/README.md) |
 | `https://cr.sansay.com/325B_20211101.pem` | true | [view](REPOS/71c5948b5aac5e7b508043a2515d8cf6f4a58e31/README.md) |
 | `https://cr.sansay.com/382G_TERRANOVA_STIR_SHAKEN.crt` | true | [view](REPOS/6e6c71e4a8fff99711d1595ab30809db18105b93/README.md) |
 | `https://cr.sansay.com/463G/order/448_463G_53` | true | [view](REPOS/767a4753d7c178a7826ea0c4a73afd8d09ecc341/README.md) |
+| `https://cr.sansay.com/463G/order/468_463G_53` | true | [view](REPOS/15323e4a42b4e179a2a87e4e97b290729cc122d6/README.md) |
+| `https://cr.sansay.com/463G/order/469_463G_53` | true | [view](REPOS/513b104b472cc29b48d6aecf6cc5c5131abb99af/README.md) |
 | `https://cr.sansay.com/548J/order/137_548J_67` | true | [view](REPOS/6ffb8090044f3a07254583293920ef08a7f7fff6/README.md) |
 | `https://cr.sansay.com/548J/order/140_548J_67` | true | [view](REPOS/5ce45d8ada45c0d183b1a68e5a37be521b34f08d/README.md) |
 | `https://cr.sansay.com/548J/order/144_548J_67` | true | [view](REPOS/ab379b692c3563dad7d3fadf7430a9cddf61e95d/README.md) |
@@ -69,10 +75,22 @@
 | `https://cr.sansay.com/548J/order/169_548J_67` | true | [view](REPOS/4c5607710dc91e24b7d35c8241111829a69650ce/README.md) |
 | `https://cr.sansay.com/548J/order/171_548J_67` | true | [view](REPOS/d53c9a2dd5860f7685913a56391a7276caf8b4bf/README.md) |
 | `https://cr.sansay.com/548J/order/172_548J_67` | true | [view](REPOS/968b850d8648516bd2790515efe4158772a777c3/README.md) |
+| `https://cr.sansay.com/548J/order/173_548J_67` | true | [view](REPOS/0e55240852c8a52f2a660401501cfa82de9d6355/README.md) |
+| `https://cr.sansay.com/548J/order/175_548J_67` | true | [view](REPOS/13b16e534e49b1861b3817136cc07382b2e2276d/README.md) |
+| `https://cr.sansay.com/548J/order/176_548J_67` | true | [view](REPOS/3fb0ce98152f261ea288091d905847dd80c34298/README.md) |
+| `https://cr.sansay.com/548J/order/179_548J_67` | true | [view](REPOS/932cfa53b73671248ea78c3e1b115edf89c0fbdf/README.md) |
+| `https://cr.sansay.com/548J/order/180_548J_67` | true | [view](REPOS/d32a5351a15f2f92a73216173aa77c22a3ad6988/README.md) |
+| `https://cr.sansay.com/548J/order/181_548J_67` | true | [view](REPOS/944866a4b91ea240b5c2e6849e57a938a401004f/README.md) |
+| `https://cr.sansay.com/548J/order/182_548J_67` | true | [view](REPOS/4584f8effa2d9d73d4f43cdec57a5a1157a51cf7/README.md) |
+| `https://cr.sansay.com/548J/order/183_548J_67` | true | [view](REPOS/62f58ef7199b203903245a2bcaf1654c8d30567e/README.md) |
+| `https://cr.sansay.com/548J/order/186_548J_67` | true | [view](REPOS/a79eea986650f947a2d1ceb828b94174573f5be2/README.md) |
+| `https://cr.sansay.com/548J/order/188_548J_67` | true | [view](REPOS/7e5a7f45c5cbf8b29d28cab3f1d8d27fde973ad1/README.md) |
+| `https://cr.sansay.com/548J/order/191_548J_67` | true | [view](REPOS/e863fd104f2d9999171f0724b3dece6ea9c0315d/README.md) |
 | `https://cr.sansay.com/557F/order/63_557F_83` | true | [view](REPOS/a0abcc9b8fd7e89a66d9c1a41ab3a9366b1898fc/README.md) |
 | `https://cr.sansay.com/563J_THRESHOLD_COMMUNICATIONS_STIR_SHAKEN.crt` | true | [view](REPOS/f85fee560154bc6178b7fedac47bceef56453bb8/README.md) |
 | `https://cr.sansay.com/583j_BROADBAND_DYNAMICS_STIR_SHAKEN.crt` | true | [view](REPOS/9fcf0f080d2c0623f2ba9d4b16b53c45beff4223/README.md) |
 | `https://cr.sansay.com/828J/order/103_828J_86` | true | [view](REPOS/7f681e6bfc0e3c62b6613261328c1b6267952065/README.md) |
+| `https://cr.sansay.com/828J/order/114_828J_86` | true | [view](REPOS/ad99062576d08bc6d4f170525de98f5d5512eb21/README.md) |
 | `https://cr.sansay.com/828J/order/85_828J_86` | true | [view](REPOS/e330f9986e7900b1689531272df6dea8ec1124a7/README.md) |
 | `https://cr.sansay.com/828J/order/86_828J_86` | true | [view](REPOS/4613a342e72bbf5c18a1a48c2d156c22a114dc24/README.md) |
 | `https://cr.sansay.com/862J/order/252_862J_58` | true | [view](REPOS/8dc058a6592e53b276ec79c71609ffa6baebc0d3/README.md) |
@@ -91,6 +109,9 @@
 | `https://cr.sansay.com/920J/order/123_920J_66` | true | [view](REPOS/20717739dfe31fbabeabbdbe1f0f12347c527693/README.md) |
 | `https://cr.sansay.com/920J/order/130_920J_66` | true | [view](REPOS/e2ebb1303cf9316c9434715cece2a7e1e9cc7ab7/README.md) |
 | `https://cr.sansay.com/920J/order/132_920J_66` | true | [view](REPOS/8cc65bd9979ca42f61c9b574d1b4998907707d53/README.md) |
+| `https://cr.sansay.com/920J/order/137_920J_66` | true | [view](REPOS/5e1abff1440dbc591a4aa9cdc075346957ec707a/README.md) |
+| `https://cr.sansay.com/920J/order/144_920J_66` | true | [view](REPOS/72b0f8cf805f9cdeafcd64767d94a4c9304fcffe/README.md) |
+| `https://cr.sansay.com/920J/order/145_920J_66` | true | [view](REPOS/76b5bab0125774e9739e83db5d20388a867ee38f/README.md) |
 | `https://cr.sansay.com/920J/order/89_920J_66` | true | [view](REPOS/5abc3f1a2ff934b111d57decc9eb60d4918287a6/README.md) |
 | `https://cr.sansay.com/ALD_Telecom_780J` | true | [view](REPOS/d7ca4fda261fe3e94dbb75583e54a38821563cfb/README.md) |
 | `https://cr.sansay.com/Airespring_996H` | true | [view](REPOS/4ddd806de0e836a7bea4f177e1a8c6d6135f0819/README.md) |
@@ -111,10 +132,12 @@
 | `https://cr.sansay.com/Lingo-9451` | true | [view](REPOS/6b89d1cc18b11204a83ad9b815587a4769920418/README.md) |
 | `https://cr.sansay.com/MagicJack_324E.crt` | true | [view](REPOS/6f7568fe59342e3e5c19cbcc7a945f9e0a2f9e36/README.md) |
 | `https://cr.sansay.com/Magna5_3849.crt` | true | [view](REPOS/97b89a8a4fa4fcc60053165b7efdc508fdcfd9be/README.md) |
+| `https://cr.sansay.com/Magna5_8249.crt` | true | [view](REPOS/a7b996e9a3dd288da2aea8a491488071014fc47d/README.md) |
 | `https://cr.sansay.com/Matrix-7379` | true | [view](REPOS/8fee9103a8d85b4663fea80a6a7747180d65258f/README.md) |
 | `https://cr.sansay.com/Mitel_Cloud_Services_Inc._670J` | true | [view](REPOS/3d02de513e34329395ce38fe035eff67d43720ff/README.md) |
 | `https://cr.sansay.com/Mitel_Cloud_Services_Inc_670J` | true | [view](REPOS/6bf3c54fe1a583bdc9058dc85345ad4921ff5f16/README.md) |
 | `https://cr.sansay.com/MomentumTelecom_1417` | true | [view](REPOS/58f86d140f43acafdb109fec2b40df7ee7f0ac05/README.md) |
+| `https://cr.sansay.com/MomentumTelecom_9157` | true | [view](REPOS/c36bce6b7b6a429d3c0dd9cef90cf3b2da383086/README.md) |
 | `https://cr.sansay.com/NETRIO_LLC_020K` | true | [view](REPOS/f89ddc4201c403da295f47ed54958a34c7c2676e/README.md) |
 | `https://cr.sansay.com/NobelBiz_596J` | true | [view](REPOS/0d753fd29761672e644b67a4b2f9c83ddaacb3f1/README.md) |
 | `https://cr.sansay.com/NobleSys_187J` | true | [view](REPOS/8a1bfd59c9acef0f6bf9d1f10eee0d0fae3202f7/README.md) |
@@ -122,9 +145,11 @@
 | `https://cr.sansay.com/Phonedotcom_633J` | true | [view](REPOS/4335b10ad0cb6b2fbeaed912bb0f3d4760eea092/README.md) |
 | `https://cr.sansay.com/PowerNetGlobal_3395` | true | [view](REPOS/8de68a4a18293b9abd7572d5672f4ec9f0335408/README.md) |
 | `https://cr.sansay.com/Primo_0809` | true | [view](REPOS/1dba244e4616f25e838de64add59744a3bf94174/README.md) |
+| `https://cr.sansay.com/RingFree_Communications_317K` | true | [view](REPOS/88733412dbb4a58cfbcddabbd1961400b8a4037d/README.md) |
 | `https://cr.sansay.com/Sangoma_777G` | true | [view](REPOS/d966edf780b5f11c51023cd848337658741f7001/README.md) |
 | `https://cr.sansay.com/Technology_Innovation_Lab_599J` | true | [view](REPOS/ba268d6ae99ef17d8941b298c0d6769b9bfb5fd0/README.md) |
 | `https://cr.sansay.com/TeleVoIPs_138K` | true | [view](REPOS/97b714542358d2590f783ea60a92827d238269c5/README.md) |
+| `https://cr.sansay.com/Threshold_Communications_Inc_563J` | true | [view](REPOS/5e73d4398cf7ad85294ad8d944b3171e204ab837/README.md) |
 | `https://cr.sansay.com/Touchtone_683A` | true | [view](REPOS/519b6535a072527dcf7fbd5e2ad00bc7ee756b91/README.md) |
 | `https://cr.sansay.com/VoIP_Innovations_597F` | true | [view](REPOS/079477935053ae5bf3a8318a3ff591f0afeffdda/README.md) |
 | `https://cr.sansay.com/Voxox_696J` | true | [view](REPOS/a52e7b77dde6d8aed326733d9c76772aa1e1b742/README.md) |
@@ -134,4 +159,4 @@
 | `https://cr.sansay.com/star2star_stirshaken_20220922` | true | [view](REPOS/9f19fc9d73b83395796f7e4f0d8a277010ab2fd7/README.md) |
 
 
-Generated: 02 Nov 22 15:10 UTC
+Generated: 21 Nov 22 20:33 UTC
