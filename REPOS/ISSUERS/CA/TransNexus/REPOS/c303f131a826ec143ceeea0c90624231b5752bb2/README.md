@@ -4,10 +4,10 @@
 
 Name: `https://certificates.clearip.com/0c4e235f-3e3e-4dd3-bbfc-2f15badab180/9719c0e4dbfe850baf03f6c3b5cb85b6.pem`\
 Tested At: 21 Nov 22 23:24 UTC\
-Time: 79ms
+Time: 10ms
 
 ### Issues
 
 no warning, or error, or notice date level issues were found
 
-Generated: 21 Nov 22 23:27 UTC
+Generated: 21 Nov 22 23:36 UTC

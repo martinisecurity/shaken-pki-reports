@@ -2,19 +2,19 @@
 
 ## Metaswitch
 
-- 22 repository URLs were included in the corpus being tested
+- 19 repository URLs were included in the corpus being tested
 - 0 repository URLs in the corpus were skipped because they were duplicated
-- 22 repository URLs being tested against the remaining rules
+- 19 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 713ms average time it took to download each certificate
+- 14362ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 22 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
-| 22 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 19 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
+| 19 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
 | Repository URLs | Problems | Link |
 |-----------------|----------|------|
@@ -25,8 +25,6 @@
 | `https://sti-cr.cgah.tnsi.com/certs/590f3a17396e9e874d158eb60337f24c3ac4812b` | true | [view](REPOS/a2098d65fd06b7cb2f03c4e8f06f3b0095aa15a1/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/5dc472732f3dd53854a5183f1dadceeb6127fac7` | true | [view](REPOS/587f724b722f0a26fd7082d483d15a8be3a41e7e/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/6c54d88f5669c28848983d4572f11c0b896342ac` | true | [view](REPOS/a18cebfe06f6420c76cddb1cd0225cafc82a7438/README.md) |
-| `https://sti-cr.cgah.tnsi.com/certs/6db90427e977d872d1d8aa0a64c3760b043f7edb` | true | [view](REPOS/6efea438324996aad7a08697efd6193f716ea8e9/README.md) |
-| `https://sti-cr.cgah.tnsi.com/certs/702fb83e8268b5175b591d8448a512646339bc40` | true | [view](REPOS/2241ecbc7b834640c0880ceeafc028b98d67afc4/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/786c2c44c5fcfd1ed973607e3ac560ee3425d030` | true | [view](REPOS/3e19ca6e50306322518c86d37a1091b2952c2aae/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/7fba9a7fc8b3131f6fcea50e668939fd26bbd4a3` | true | [view](REPOS/3c6cdb7edf314677ac2ab6c7ad3a9c87f15a9d5f/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/836dbe7b4ab9ad475219697d1553bed65e3d3463` | true | [view](REPOS/69dad94c6356a72e2c627c4bb15b308b18311b01/README.md) |
@@ -39,7 +37,6 @@
 | `https://sti-cr.cgah.tnsi.com/certs/cd1856717574765eb6b4bddb7a5bc8814e1e2103` | true | [view](REPOS/8a93062c89a419a83af68fafaa8bc49b3e23ad38/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/d9dd9bf73998fe328ba9447674492e8217d56dcf` | true | [view](REPOS/a7cc45b1f28b042be997c304d7d4aaa58f5538e4/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/de39b976c7549358da256530d81cfb1f446a2583` | true | [view](REPOS/5b6aeeae4a284e7607c4cb9d696247d8dce1a428/README.md) |
-| `https://sti-cr.cgah.tnsi.com/certs/f63503c138e2b55933317f09cc5a1cc4e8a3de1d` | true | [view](REPOS/676b9edaf7d6bc97061ccc8ec6b080062fecef3d/README.md) |
 
 
-Generated: 21 Nov 22 23:27 UTC
+Generated: 21 Nov 22 23:36 UTC

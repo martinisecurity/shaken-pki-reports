@@ -25,7 +25,6 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 | error | SHAKEN | [view](../../CERTS/d7f89ec7a89359811ba51ea7e5f485468bf5cfa9d4f2d1dbec91acc8eba913f9/README.md) | Common name shall contain the text string 'SHAKEN 318J' |
 | error | SHAKEN | [view](../../CERTS/fc76258aa402845efe5fc520c3423ae08c34da4b35581008f74b69944989e863/README.md) | Common name shall contain the text string 'SHAKEN 318J' |
 | error | SHAKEN | [view](../../CERTS/65428888f38cc12f0b7f665b53fedbfe1d34e6514267677e776403f7e1a19723/README.md) | Common name shall contain the text string 'SHAKEN 318J' |
-| error | SHAKEN | [view](../../CERTS/0d7c61872461c62b6488c0986012e3fbe60af386df382246bb9643a9f88c03b6/README.md) | Common name shall contain the text string 'SHAKEN 318J' |
 | error | SHAKEN | [view](../../CERTS/222bd4b1b8e20bc0713597bc3a2f615a03799176423a62b5484202404d2f1c5f/README.md) | Common name shall contain the text string 'SHAKEN 318J' |
 | error | SHAKEN | [view](../../CERTS/672738adfd2648702ffb5f1a5e024ceeabc6468a2c7978be7e14f3d39652d289/README.md) | Common name shall contain the text string 'SHAKEN 318J' |
 | error | SHAKEN | [view](../../CERTS/cf1f5b80441df2551cfa967ecd684687eb9ea9dd5ce30a4035c8646cdb966c59/README.md) | Common name shall contain the text string 'SHAKEN 318J' |
@@ -48,4 +47,4 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 No error, warning, or notice level issues were found
 
 
-Generated: 21 Nov 22 23:27 UTC
+Generated: 21 Nov 22 23:36 UTC

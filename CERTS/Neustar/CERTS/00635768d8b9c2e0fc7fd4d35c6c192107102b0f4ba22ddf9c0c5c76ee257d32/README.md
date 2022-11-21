@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 506J
 
-Tested At: 21 Nov 22 23:24 UTC\
+Tested At: 21 Nov 22 23:25 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 51 day(s)\
 Subject: CN=SHAKEN 506J, O=Twilio International, C=US\
@@ -26,4 +26,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11076.10126.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 22 23:27 UTC
+Generated: 21 Nov 22 23:36 UTC

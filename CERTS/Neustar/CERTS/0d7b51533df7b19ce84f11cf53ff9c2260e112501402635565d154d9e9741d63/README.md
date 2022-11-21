@@ -18,4 +18,4 @@ Link: https://187.174.67.118:8080/7075515eb2d150fc98c43e794c07bbca.cer
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 21 Nov 22 23:27 UTC
+Generated: 21 Nov 22 23:36 UTC

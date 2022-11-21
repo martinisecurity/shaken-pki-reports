@@ -25,8 +25,6 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 | error | Appalachian Wireless SHAKEN Cert 6940 | [view](../../CERTS/e14170c681e75c37d0ca45e304c09cc0d148246bd7d72e96f91f7a8fe27339fa/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Everstream SHAKEN Cert 472C  | [view](../../CERTS/8710bb38debebd39698fb1c273409b173951cca1fab53a6d4c4aca91e61e06df/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Cspire SHAKEN Cert 6581 | [view](../../CERTS/09ed5b3292b5bfc7ac80b1027a827138b9503aa8053a61431a8dc851ecad04f2/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| error | CTS Telecom, Inc SHAKEN Cert 8331 | [view](../../CERTS/5c9f6132a96a05a58d02d845ee70e914659682623fb98acbbecd9f8e383dcbec/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| error | ENA SHAKEN cert 521F | [view](../../CERTS/a5293c77ed92fdeef1aeff04f6bed7932a6083abc55d03d74a3ec5b817fdba2b/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | WOW Internet Cable and Phone SHAKEN Cert 665E | [view](../../CERTS/9f86e038b4f6c3bf7fabfe8d4008b071f81bd33a80c55ea66a1aadd79eb9b989/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Hunter Communications Shaken Cert 660C | [view](../../CERTS/0d2022504ffa5407f662990a785786cb0da72ce014838e2cffdcd95cb70c6f64/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Viaero Wireless SHAKEN Cert 6874 | [view](../../CERTS/fe826427006707276b684368c81c7b2039d4ce72b25c5cf0a0c039993b026573/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
@@ -39,7 +37,6 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 | error | GCI SHAKEN Cert 7785 | [view](../../CERTS/312e58dffa682b464f9867a7c373f9881d092b834767dcabe5baf8c7245e937c/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Carolina West Wireless SHAKEN Cert 5932 | [view](../../CERTS/e85dec068c9fa23af68b345257d58269303c925d10fc9101b226d1e0e7d62a9d/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | CBTS Technology Solutions SHAKEN Cert 600F | [view](../../CERTS/3d02021a2da14f1ebfe588256a419be9ebc03c0d1fccc51cc29fa9d4a625c6bf/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| error | Clearwave SHAKEN Cert 9915 | [view](../../CERTS/de0c13b76c24e2ef34c5de58e88fbfeef9c8adb44175b42f3c69771db6586491/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Verizon SHAKEN cert 5807 | [view](../../CERTS/d7b413267be2d050d516af4f4a864ffdc2feacc774a1a6264b9cfe68c796f43f/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 ### CA Certificates
@@ -47,4 +44,4 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 No error, warning, or notice level issues were found
 
 
-Generated: 21 Nov 22 23:27 UTC
+Generated: 21 Nov 22 23:36 UTC

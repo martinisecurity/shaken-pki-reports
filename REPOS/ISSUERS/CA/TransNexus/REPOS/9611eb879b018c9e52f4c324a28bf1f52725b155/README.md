@@ -4,10 +4,10 @@
 
 Name: `https://certificates.transnexus.com/551G/f221d48c-a740-448f-b89c-ad81a6f2c256.pem`\
 Tested At: 21 Nov 22 23:24 UTC\
-Time: 42ms
+Time: 10ms
 
 ### Issues
 
 no warning, or error, or notice date level issues were found
 
-Generated: 21 Nov 22 23:27 UTC
+Generated: 21 Nov 22 23:36 UTC

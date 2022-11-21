@@ -2,7 +2,7 @@
 
 ## Certificate Orange
 
-Tested At: 21 Nov 22 23:24 UTC\
+Tested At: 21 Nov 22 23:25 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 504 day(s)\
 Subject: C=US, ST=VA, L=Courbevoie, O=Orange, OU=Orange Business Services, CN=Orange\
@@ -28,4 +28,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11180.10184.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 22 23:27 UTC
+Generated: 21 Nov 22 23:36 UTC
