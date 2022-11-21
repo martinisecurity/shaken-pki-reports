@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN NETRIO LLC 020K
 
-Tested At: 20 Nov 22 22:56 UTC\
+Tested At: 21 Nov 22 23:25 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: 25 day(s)\
+Remaining Validity Period: 24 day(s)\
 Subject: CN=SHAKEN NETRIO LLC 020K, OU=NOC, O=NETRIO LLC, ST=Texas, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/NETRIO_LLC_020K
@@ -20,4 +20,4 @@ Link: https://cr.sansay.com/NETRIO_LLC_020K
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
 
-Generated: 20 Nov 22 22:57 UTC
+Generated: 21 Nov 22 23:27 UTC

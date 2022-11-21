@@ -19,10 +19,11 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 | error | MAQS SOLUTIONS SHAKEN 255K | [view](../../CERTS/16fc38d2880a8ca7af4af77acb24813e4dc96f34c4507b8237bb7bc4ee82b4c3/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | VOCALTRANSIT SHAKEN 783J | [view](../../CERTS/81b78fff8a772249d72d4854d97672d7ac69a83c4900beaac699d28d220d8c13/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Televoip SHAKEN 438K | [view](../../CERTS/2e22094a03b8d7e2d2f37cb2ea5d5778d122fdbc3d0c83e3f8f984c8cf03a2e3/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| error | TalkAsiaVoip LLC SHAKEN 198K | [view](../../CERTS/c536d0303e263c53488d7c4816637161a32d55e610a5669cf55263774a9b2b09/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 20 Nov 22 22:57 UTC
+Generated: 21 Nov 22 23:27 UTC

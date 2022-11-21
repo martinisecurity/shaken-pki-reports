@@ -22,6 +22,8 @@
 - 92 days is the average remaining validity for the certificates in the corpus
 - 114 days is the average initial validity for the certificates in the corpus
 - 3 certificates expire in the next 30 days
+- 1.33 average number of unexpired certificates per OCN observed
+- 3 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -74,4 +76,4 @@
 | 29 Sep 21 13:22 UTC | NetNumber SHAKEN Root Intermediate CA 1 | true | [view](CERTS/e449803766edf02ab50b034dd7e89e54efd332cce87688a032f89b340d039878/README.md) |
 
 
-Generated: 20 Nov 22 22:57 UTC
+Generated: 21 Nov 22 23:27 UTC

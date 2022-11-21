@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 023K
 
-Tested At: 20 Nov 22 22:56 UTC\
+Tested At: 21 Nov 22 23:26 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 241 day(s)\
+Remaining Validity Period: 240 day(s)\
 Subject: CN=SHAKEN 023K, O=Pulsar360 Corp, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ecms.securetransit.net/certs/410bad9e05a57353f0d8739a421be619.cer
@@ -18,4 +18,4 @@ Link: https://ecms.securetransit.net/certs/410bad9e05a57353f0d8739a421be619.cer
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 20 Nov 22 22:57 UTC
+Generated: 21 Nov 22 23:27 UTC

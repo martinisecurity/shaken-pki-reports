@@ -4,36 +4,36 @@
 
 ### All Repository URLs
 
-- 1009 repository URLs were included in the corpus being tested
-- 142 repository URLs in the corpus were skipped because they were duplicated
-- 867 repository URLs being tested against the remaining rules
-- 1.67 issues on average found in non-compliant certificate repository URLs
-- 27.34% of repository URLs contain one or more Error level issue
-- 42.79% of repository URLs contain one or more Warning level issue
+- 1070 repository URLs were included in the corpus being tested
+- 144 repository URLs in the corpus were skipped because they were duplicated
+- 926 repository URLs being tested against the remaining rules
+- 1.65 issues on average found in non-compliant certificate repository URLs
+- 26.46% of repository URLs contain one or more Error level issue
+- 42.33% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 61ms average time it took to download each certificate
+- 69ms average time it took to download each certificate
 
 ### CA Operated Repository URLs
 
-- 912 repository URLs were included in the corpus being tested
-- 127 repository URLs in the corpus were skipped because they were duplicated
-- 785 repository URLs being tested against the remaining rules
-- 1.56 issues on average found in non-compliant certificate repository URLs
-- 20.76% of repository URLs contain one or more Error level issue
-- 37.96% of repository URLs contain one or more Warning level issue
+- 972 repository URLs were included in the corpus being tested
+- 128 repository URLs in the corpus were skipped because they were duplicated
+- 844 repository URLs being tested against the remaining rules
+- 1.55 issues on average found in non-compliant certificate repository URLs
+- 20.26% of repository URLs contain one or more Error level issue
+- 37.80% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 46ms average time it took to download each certificate
+- 52ms average time it took to download each certificate
 
 ### Service Provider Operated Repository URLs
 
-- 97 repository URLs were included in the corpus being tested
-- 15 repository URLs in the corpus were skipped because they were duplicated
+- 98 repository URLs were included in the corpus being tested
+- 16 repository URLs in the corpus were skipped because they were duplicated
 - 82 repository URLs being tested against the remaining rules
-- 2.08 issues on average found in non-compliant certificate repository URLs
+- 2.09 issues on average found in non-compliant certificate repository URLs
 - 90.24% of repository URLs contain one or more Error level issue
 - 89.02% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 196ms average time it took to download each certificate
+- 242ms average time it took to download each certificate
 
 ## Details
 
@@ -41,16 +41,16 @@
 
 | Issuers | Certificates | Errors | Warnings | Notices |
 |----|--------------|--------|----------|---------|
-| [Comcast](ISSUERS/CA/Comcast/README.md) | 70 (8.92%) | 70 (100.00%) | 70 (100.00%) | 0 (0.00%) |
-| [Martini Security](ISSUERS/CA/Martini_Security/README.md) | 27 (3.44%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Metaswitch](ISSUERS/CA/Metaswitch/README.md) | 19 (2.42%) | 19 (100.00%) | 19 (100.00%) | 0 (0.00%) |
-| [Neustar](ISSUERS/CA/Neustar/README.md) | 58 (7.39%) | 58 (100.00%) | 58 (100.00%) | 0 (0.00%) |
-| [Peeringhub](ISSUERS/CA/Peeringhub/README.md) | 4 (0.51%) | 4 (100.00%) | 4 (100.00%) | 0 (0.00%) |
-| [Ribbon Communications](ISSUERS/CA/Ribbon_Communications/README.md) | 8 (1.02%) | 8 (100.00%) | 8 (100.00%) | 0 (0.00%) |
-| [Sansay](ISSUERS/CA/Sansay/README.md) | 137 (17.45%) | 2 (1.46%) | 137 (100.00%) | 0 (0.00%) |
-| [T-Mobile](ISSUERS/CA/T-Mobile/README.md) | 2 (0.25%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
-| [TransNexus](ISSUERS/CA/TransNexus/README.md) | 460 (58.60%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
-| **Total** | 785 (100.00%) | 163 (20.76%) | 298 (37.96%) | 0 (0.00%) |
+| [Comcast](ISSUERS/CA/Comcast/README.md) | 71 (8.41%) | 71 (100.00%) | 71 (100.00%) | 0 (0.00%) |
+| [Martini Security](ISSUERS/CA/Martini_Security/README.md) | 28 (3.32%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Metaswitch](ISSUERS/CA/Metaswitch/README.md) | 22 (2.61%) | 22 (100.00%) | 22 (100.00%) | 0 (0.00%) |
+| [Neustar](ISSUERS/CA/Neustar/README.md) | 62 (7.35%) | 62 (100.00%) | 62 (100.00%) | 0 (0.00%) |
+| [Peeringhub](ISSUERS/CA/Peeringhub/README.md) | 4 (0.47%) | 4 (100.00%) | 4 (100.00%) | 0 (0.00%) |
+| [Ribbon Communications](ISSUERS/CA/Ribbon_Communications/README.md) | 8 (0.95%) | 8 (100.00%) | 8 (100.00%) | 0 (0.00%) |
+| [Sansay](ISSUERS/CA/Sansay/README.md) | 150 (17.77%) | 2 (1.33%) | 150 (100.00%) | 0 (0.00%) |
+| [T-Mobile](ISSUERS/CA/T-Mobile/README.md) | 2 (0.24%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
+| [TransNexus](ISSUERS/CA/TransNexus/README.md) | 497 (58.89%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
+| **Total** | 844 (100.00%) | 171 (20.26%) | 319 (37.80%) | 0 (0.00%) |
 
 ### Service Provider Operated Repository URLs
 
@@ -62,13 +62,13 @@
 | [Accessline Communications Corp.](ISSUERS/SP/Accessline_Communications_Corp./README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Alianza](ISSUERS/SP/Alianza/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Allstream Business US, LLC](ISSUERS/SP/Allstream_Business_US,_LLC/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
+| [Aovatalk Communications Limited](ISSUERS/SP/Aovatalk_Communications_Limited/README.md) | 0 (0.00%) | 0 (NaN%) | 0 (NaN%) | 0 (NaN%) |
 | [Apex Telecom LLC](ISSUERS/SP/Apex_Telecom_LLC/README.md) | 0 (0.00%) | 0 (NaN%) | 0 (NaN%) | 0 (NaN%) |
 | [Avid Telecom](ISSUERS/SP/Avid_Telecom/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Baltimore-Washington Telephone Company](ISSUERS/SP/Baltimore-Washington_Telephone_Company/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Bandwidth.com CLEC LLC](ISSUERS/SP/Bandwidth.com_CLEC_LLC/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Bulk Solutions, LLC](ISSUERS/SP/Bulk_Solutions,_LLC/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [CaptionCall](ISSUERS/SP/CaptionCall/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [Charter Communications Inc SHAKEN 5606](ISSUERS/SP/Charter_Communications_Inc_SHAKEN_5606/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Clearly IP](ISSUERS/SP/Clearly_IP/README.md) | 1 (1.22%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) |
 | [Commio](ISSUERS/SP/Commio/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Contact Center Specialists LLC](ISSUERS/SP/Contact_Center_Specialists_LLC/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -119,7 +119,7 @@
 | [TextNow Inc.](ISSUERS/SP/TextNow_Inc./README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [TransNexus](ISSUERS/SP/TransNexus/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [U. S. Telepacific Corp](ISSUERS/SP/U._S._Telepacific_Corp/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [Unknown](ISSUERS/SP/Unknown/README.md) | 3 (3.66%) | 3 (100.00%) | 2 (66.67%) | 0 (0.00%) |
+| [Unknown](ISSUERS/SP/Unknown/README.md) | 4 (4.88%) | 4 (100.00%) | 3 (75.00%) | 0 (0.00%) |
 | [VOIP ESSENTIAL INC](ISSUERS/SP/VOIP_ESSENTIAL_INC/README.md) | 0 (0.00%) | 0 (NaN%) | 0 (NaN%) | 0 (NaN%) |
 | [Verizon Data Services LLC](ISSUERS/SP/Verizon_Data_Services_LLC/README.md) | 1 (1.22%) | 0 (0.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Vibratel](ISSUERS/SP/Vibratel/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -143,4 +143,4 @@
 | Notices | Tests in which industry best practices are not followed. |
 
 
-Generated: 20 Nov 22 22:57 UTC
+Generated: 21 Nov 22 23:27 UTC

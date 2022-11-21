@@ -3,8 +3,8 @@
 ## Sansay
 
 Name: `https://cr.sansay.com/TeleVoIPs_138K`\
-Tested At: 20 Nov 22 22:56 UTC\
-Time: 74ms
+Tested At: 21 Nov 22 23:25 UTC\
+Time: 50ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 74ms
 |------|------|--------|---------|
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 20 Nov 22 22:57 UTC
+Generated: 21 Nov 22 23:27 UTC

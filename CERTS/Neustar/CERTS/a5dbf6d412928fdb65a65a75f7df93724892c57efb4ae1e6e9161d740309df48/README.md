@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 973J
 
-Tested At: 20 Nov 22 22:56 UTC\
+Tested At: 21 Nov 22 23:26 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 139 day(s)\
+Remaining Validity Period: 138 day(s)\
 Subject: CN=SHAKEN 973J, O=Vibratel, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/ae9ce419128be68bc5667048aae938cad247e5f3
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/ae9ce419128be68bc5667048aae938cad247e5f3
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 20 Nov 22 22:57 UTC
+Generated: 21 Nov 22 23:27 UTC
