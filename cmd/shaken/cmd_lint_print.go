@@ -600,7 +600,11 @@ func PrintSummaryOCN(w io.Writer, r *CertificateSummaryReport) {
 	for _, k := range keys {
 		uniqueOCN := r.Leaf.UniqueOCNs[k]
 		for _, i := range uniqueOCN.Items {
-			fmt.Fprintf(w, "%s;%s;%s;%s\n", k, i.Certificate.Subject.Organization[0], i.Certificate.Subject.CommonName, i.Url)
+			name := i.Certificate.Issuer.CommonName
+			if len(i.Certificate.Subject.Organization) > 0 {
+				name = i.Certificate.Subject.Organization[0]
+			}
+			fmt.Fprintf(w, "%s;%s;%s;%s\n", k, name, i.Certificate.Subject.CommonName, i.Url)
 		}
 	}
 }
