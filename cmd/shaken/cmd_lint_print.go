@@ -38,8 +38,8 @@ func PrintCertificateSummaryReport(w io.Writer, r *CertificateSummaryReport) {
 	fmt.Fprintln(w, "### Leaf Certificates")
 	fmt.Fprintln(w)
 	PrintCertificateFindings(w, &r.Leaf.CertificateGroupReport)
-	fmt.Fprintf(w, "- %d unique OCNs\n", len(r.Leaf.UniqueOCNs))
-	fmt.Fprintf(w, "- %0.2f average number of valid certificates per OCN\n", r.Leaf.GetAverageUniqueOCN())
+	fmt.Fprintf(w, "- %0.2f average number of unexpired certificates per OCN observed\n", r.Leaf.GetAverageUniqueOCN())
+	fmt.Fprintf(w, "- %d unique OCNs observed in unexpired and valid certificate corpus\n", len(r.Leaf.UniqueOCNs))
 	fmt.Fprintln(w)
 
 	fmt.Fprintln(w, "### CA Certificates")
@@ -153,16 +153,8 @@ func PrintCertificateIssuerReport(w io.Writer, r *CertificateIssuerJoin) {
 		fmt.Fprintln(w, "#### Leaf Certificates")
 		fmt.Fprintln(w)
 		PrintCertificateFindings(w, &r.Leaf.CertificateGroupReport)
-		fmt.Fprintf(w, "- %d unique OCNs\n", len(r.Leaf.UniqueOCNs))
-		uniqueSum := 0
-		uniqueAmount := 0
-		for _, v := range r.Leaf.UniqueOCNs {
-			uniqueSum += len(v)
-			uniqueAmount += 1
-		}
-		if uniqueAmount > 0 {
-			fmt.Fprintf(w, "- %0.2f average number of valid certificates per OCN\n", float64(uniqueSum)/float64(uniqueAmount))
-		}
+		fmt.Fprintf(w, "- %0.2f average number of unexpired certificates per OCN observed\n", r.Leaf.GetAverageUniqueOCN())
+		fmt.Fprintf(w, "- %d unique OCNs observed in unexpired and valid certificate corpus\n", len(r.Leaf.UniqueOCNs))
 		fmt.Fprintln(w)
 		PrintProblems(w, r.Leaf.Problems)
 		fmt.Fprintln(w)
