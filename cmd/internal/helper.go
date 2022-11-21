@@ -2,9 +2,11 @@ package internal
 
 import (
 	"encoding/asn1"
+	"encoding/hex"
 	"encoding/pem"
 	"fmt"
 	"math"
+	"strings"
 	"time"
 
 	"github.com/zmap/zcrypto/x509"
@@ -57,6 +59,23 @@ func GetOrganizationName(c *x509.Certificate) string {
 		org = c.Subject.Organization[0]
 	} else if len(c.Subject.CommonName) > 0 {
 		org = c.Subject.CommonName
+	}
+
+	return org
+}
+
+func GetUniqueOCN(c *x509.Certificate) string {
+	org := "Unknown"
+	if ext := util.GetExtFromCert(c, util.TNAuthListOID); ext != nil {
+		if spc, err := GetTNEntrySPC(c); err == nil {
+			org = spc
+		} else {
+			// BGSDTech certificate have wrong ASN.1 encoding
+			hexValue := hex.EncodeToString(ext.Value)
+			if len(hexValue) == 18 && strings.HasPrefix(hexValue, "3008a00616") {
+				org = string(ext.Value[5:])
+			}
+		}
 	}
 
 	return org

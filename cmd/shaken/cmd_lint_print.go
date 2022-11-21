@@ -38,7 +38,10 @@ func PrintCertificateSummaryReport(w io.Writer, r *CertificateSummaryReport) {
 	fmt.Fprintln(w, "### Leaf Certificates")
 	fmt.Fprintln(w)
 	PrintCertificateFindings(w, &r.Leaf.CertificateGroupReport)
+	fmt.Fprintf(w, "- %d unique OCNs\n", len(r.Leaf.UniqueOCNs))
+	fmt.Fprintf(w, "- %0.2f average number of valid certificates per OCN\n", r.Leaf.GetAverageUniqueOCN())
 	fmt.Fprintln(w)
+
 	fmt.Fprintln(w, "### CA Certificates")
 	fmt.Fprintln(w)
 	PrintCertificateFindings(w, &r.CA.CertificateGroupReport)
@@ -150,6 +153,16 @@ func PrintCertificateIssuerReport(w io.Writer, r *CertificateIssuerJoin) {
 		fmt.Fprintln(w, "#### Leaf Certificates")
 		fmt.Fprintln(w)
 		PrintCertificateFindings(w, &r.Leaf.CertificateGroupReport)
+		fmt.Fprintf(w, "- %d unique OCNs\n", len(r.Leaf.UniqueOCNs))
+		uniqueSum := 0
+		uniqueAmount := 0
+		for _, v := range r.Leaf.UniqueOCNs {
+			uniqueSum += len(v)
+			uniqueAmount += 1
+		}
+		if uniqueAmount > 0 {
+			fmt.Fprintf(w, "- %0.2f average number of valid certificates per OCN\n", float64(uniqueSum)/float64(uniqueAmount))
+		}
 		fmt.Fprintln(w)
 		PrintProblems(w, r.Leaf.Problems)
 		fmt.Fprintln(w)
@@ -564,4 +577,15 @@ func statusToString(s lint.LintStatus) string {
 
 func percent(a int, b int) float64 {
 	return float64(a) / float64(b) * 100
+}
+
+func PrintMapList[T interface{}](w io.Writer, m map[string]T) {
+	keys := []string{}
+	for key := range m {
+		keys = append(keys, key)
+	}
+	sort.Strings(keys)
+	for _, key := range keys {
+		fmt.Fprintf(w, "- %s\n", key)
+	}
 }
