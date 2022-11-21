@@ -335,6 +335,7 @@ const (
 	DIR_REPOS   = "REPOS"
 	DIR_CA      = "CA"
 	DIR_SP      = "SP"
+	DIR_OCN     = "OCN"
 )
 
 func (t *Report) Save(outDir string) error {
@@ -362,6 +363,15 @@ func (t *Report) saveCertificates(outDir string) error {
 
 	PrintCertificateSummaryReport(summary, t.Certificates)
 
+	// Unique OCN CSV
+	ocnFile, err := CreateCSV(path.Join(outDir, DIR_OCN))
+	if err != nil {
+		return err
+	}
+	defer ocnFile.Close()
+
+	PrintSummaryOCN(ocnFile, t.Certificates)
+
 	// save issuers
 	certsDir := path.Join(outDir, DIR_CERTS)
 	if err := Mkdir(certsDir); err != nil {
@@ -378,6 +388,17 @@ func (t *Report) saveCertificates(outDir string) error {
 		defer issuerFile.Close()
 
 		PrintCertificateIssuerReport(issuerFile, issuer)
+
+		// Unique OCN CSV
+		ocnFile, err := CreateCSV(path.Join(issuerDir, DIR_OCN))
+		if err != nil {
+			return err
+		}
+		defer ocnFile.Close()
+
+		if issuer.Leaf != nil {
+			PrintIssuerOCN(ocnFile, issuer.Leaf)
+		}
 
 		if issuer.TestedAmount > 0 {
 			// certificate reports

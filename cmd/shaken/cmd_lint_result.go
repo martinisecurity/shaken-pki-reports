@@ -190,17 +190,32 @@ type Problem struct {
 }
 
 type CertificateIssuerReport struct {
-	Name     string
-	CA       *CertificateGroupReport
-	Leaf     *CertificateGroupReport
-	Problems map[string]*Problem
+	Name       string
+	Problems   map[string]*Problem
+	UniqueOCNs map[string][]*LintCommandItem
 	CertificateGroupReport
 }
 
 func NewCertificateIssuerReport() *CertificateIssuerReport {
 	return &CertificateIssuerReport{
-		Problems: map[string]*Problem{},
+		Problems:   map[string]*Problem{},
+		UniqueOCNs: map[string][]*LintCommandItem{},
 	}
+}
+
+func (t *CertificateIssuerReport) GetAverageUniqueOCN() float64 {
+	uniqueSum := 0
+	uniqueAmount := 0
+	for _, v := range t.UniqueOCNs {
+		uniqueSum += len(v)
+		uniqueAmount += 1
+	}
+
+	if uniqueAmount == 0 {
+		return 0
+	}
+
+	return float64(uniqueSum) / float64(uniqueAmount)
 }
 
 func (t *CertificateIssuerReport) Append(i *LintCommandItem) bool {
@@ -228,18 +243,39 @@ func (t *CertificateIssuerReport) Append(i *LintCommandItem) bool {
 		problemsCounter += 1
 	}
 
+	// Update Unique OCNs
+	uniqueName := internal.GetUniqueOCN(i.Certificate)
+	t.UniqueOCNs[uniqueName] = append(t.UniqueOCNs[uniqueName], i)
+
 	return true
 }
 
 type CertificateIssuersReport struct {
-	Issuers map[string]*CertificateIssuerReport
+	Issuers    map[string]*CertificateIssuerReport
+	UniqueOCNs map[string]*CertificateIssuerReport
 	CertificateGroupReport
 }
 
 func NewCertificateIssuersReport() *CertificateIssuersReport {
 	return &CertificateIssuersReport{
-		Issuers: map[string]*CertificateIssuerReport{},
+		Issuers:    map[string]*CertificateIssuerReport{},
+		UniqueOCNs: map[string]*CertificateIssuerReport{},
 	}
+}
+
+func (t *CertificateIssuersReport) GetAverageUniqueOCN() float64 {
+	uniqueSum := 0
+	uniqueAmount := 0
+	for _, v := range t.UniqueOCNs {
+		uniqueSum += v.Amount
+		uniqueAmount += 1
+	}
+
+	if uniqueAmount == 0 {
+		return 0
+	}
+
+	return float64(uniqueSum) / float64(uniqueAmount)
 }
 
 func (t *CertificateIssuersReport) Append(i *LintCommandItem) bool {
@@ -263,6 +299,16 @@ func (t *CertificateIssuersReport) Append(i *LintCommandItem) bool {
 		t.Issuers[issuerName] = name
 	}
 	name.Append(i)
+
+	// Update Unique OCNs
+	uniqueName := internal.GetUniqueOCN(i.Certificate)
+	uniqueOCN := t.UniqueOCNs[uniqueName]
+	if uniqueOCN == nil {
+		uniqueOCN = NewCertificateIssuerReport()
+		uniqueOCN.Name = uniqueName
+		t.UniqueOCNs[uniqueName] = uniqueOCN
+	}
+	uniqueOCN.Append(i)
 
 	return true
 }
