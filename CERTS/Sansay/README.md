@@ -22,8 +22,8 @@
 - 98 days is the average remaining validity for the certificates in the corpus
 - 99 days is the average initial validity for the certificates in the corpus
 - 70 certificates expire in the next 30 days
-- 58 unique OCNs
-- 1.57 average number of valid certificates per OCN
+- 1.57 average number of unexpired certificates per OCN observed
+- 58 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -160,4 +160,4 @@
 | 02 Sep 22 20:53 UTC | SHAKEN Sansay Intermediate CA US WEST 1 | true | [view](CERTS/4b1dfdba2b1e4bbffbf900a20f1f6f7befbef0008b963e4922a64469cb97d24b/README.md) |
 
 
-Generated: 21 Nov 22 20:33 UTC
+Generated: 21 Nov 22 20:55 UTC

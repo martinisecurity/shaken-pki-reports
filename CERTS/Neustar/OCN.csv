@@ -42,6 +42,7 @@ OCN;Org Name;CN;Cert
 5447;Access One Inc;SHAKEN 5447;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11528.10146
 553J;Whitesky Communications LLC;SHAKEN 553J;https://certs.sip.wtsky.net/prod/shaken-6-2023.cer
 554J;Jivetel Inc;SHAKEN 554J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/91.155
+5606;Charter Communications Inc SHAKEN 5606;SHAKEN 5606;https://shaken.spectrum.com/4d65efdb8a1ca366e9576c8fda747fa4.pem
 567G;Teliax Inc.;Shaken;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11316.10181
 573J;Voyant Communications LLC;SHAKEN 573J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/49.162
 5917;Firstcomm;Firstcomm5917;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11166.10183.pem

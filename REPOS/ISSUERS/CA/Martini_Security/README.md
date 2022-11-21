@@ -9,7 +9,7 @@
 - 0.00% of repository URLs contain one or more Error level issue
 - 0.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 21ms average time it took to download each certificate
+- 81ms average time it took to download each certificate
 
 No error, warning, or notice level issues were found
 
@@ -44,4 +44,4 @@ No error, warning, or notice level issues were found
 | `https://p.mtsec.me/2dd5/U-o0Vt0ZT1yl.pem` | false | [view](REPOS/de15a9a3bef6c1d3ef2f6423f1ad3b83bdf02bc1/README.md) |
 
 
-Generated: 21 Nov 22 20:33 UTC
+Generated: 21 Nov 22 20:55 UTC

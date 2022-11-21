@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 611J
 
-Tested At: 21 Nov 22 20:24 UTC\
+Tested At: 21 Nov 22 20:45 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 213 day(s)\
 Subject: CN=SHAKEN 611J, O=Telcast Networks, C=US\
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/9861b7e493ab608182e57524671889bf94cd2fc8
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 21 Nov 22 20:33 UTC
+Generated: 21 Nov 22 20:55 UTC

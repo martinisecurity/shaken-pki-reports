@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 597F
 
-Tested At: 21 Nov 22 20:24 UTC\
+Tested At: 21 Nov 22 20:45 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 121 day(s)\
 Subject: CN=SHAKEN 597F, O=VoIP Innovations, C=US\
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/df5936cc4f0da18288b02b726643bd9c728f6c51
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Nov 22 20:33 UTC
+Generated: 21 Nov 22 20:55 UTC

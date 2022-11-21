@@ -22,8 +22,8 @@
 - 122 days is the average remaining validity for the certificates in the corpus
 - 122 days is the average initial validity for the certificates in the corpus
 - 21 certificates expire in the next 30 days
-- 28 unique OCNs
-- 1.36 average number of valid certificates per OCN
+- 1.36 average number of unexpired certificates per OCN observed
+- 28 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -111,4 +111,4 @@
 | 24 Oct 22 00:00 UTC | TransNexus, Inc. SHAKEN Root CA2 | false | [view](CERTS/a26e04fc786ab70b8085236b2c53f8cfbf5d0c6a5c2c9c3e9f91669fbb8ea4d5/README.md) |
 
 
-Generated: 21 Nov 22 20:33 UTC
+Generated: 21 Nov 22 20:55 UTC

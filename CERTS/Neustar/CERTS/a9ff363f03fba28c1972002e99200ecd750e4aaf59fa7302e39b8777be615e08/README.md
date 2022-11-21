@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 939H
 
-Tested At: 21 Nov 22 20:33 UTC\
+Tested At: 21 Nov 22 20:55 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 207 day(s)\
 Subject: CN=SHAKEN 939H, O=Commio, C=US\
@@ -18,4 +18,4 @@ Link: https://storage.googleapis.com/stirshaken/ShakeNBakeCert.pem
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 21 Nov 22 20:33 UTC
+Generated: 21 Nov 22 20:55 UTC

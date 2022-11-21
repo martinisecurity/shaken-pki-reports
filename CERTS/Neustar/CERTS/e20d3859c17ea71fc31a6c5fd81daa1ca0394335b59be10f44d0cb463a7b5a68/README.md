@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 917J
 
-Tested At: 21 Nov 22 20:24 UTC\
+Tested At: 21 Nov 22 20:45 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 123 day(s)\
 Subject: CN=SHAKEN 917J, O=Avid Telecom, C=US\
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/d29187037eabb3b60e24baba5c0b3dc424e004b9
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 21 Nov 22 20:33 UTC
+Generated: 21 Nov 22 20:55 UTC

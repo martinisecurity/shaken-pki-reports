@@ -9,9 +9,9 @@
 - 867 repository URLs being tested against the remaining rules
 - 1.67 issues on average found in non-compliant certificate repository URLs
 - 27.34% of repository URLs contain one or more Error level issue
-- 42.68% of repository URLs contain one or more Warning level issue
+- 42.79% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 434ms average time it took to download each certificate
+- 374ms average time it took to download each certificate
 
 ### CA Operated Repository URLs
 
@@ -22,7 +22,7 @@
 - 20.76% of repository URLs contain one or more Error level issue
 - 37.96% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 375ms average time it took to download each certificate
+- 390ms average time it took to download each certificate
 
 ### Service Provider Operated Repository URLs
 
@@ -31,9 +31,9 @@
 - 82 repository URLs being tested against the remaining rules
 - 2.08 issues on average found in non-compliant certificate repository URLs
 - 90.24% of repository URLs contain one or more Error level issue
-- 87.80% of repository URLs contain one or more Warning level issue
+- 89.02% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 999ms average time it took to download each certificate
+- 217ms average time it took to download each certificate
 
 ## Details
 
@@ -68,6 +68,7 @@
 | [Bandwidth.com CLEC LLC](ISSUERS/SP/Bandwidth.com_CLEC_LLC/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Bulk Solutions, LLC](ISSUERS/SP/Bulk_Solutions,_LLC/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [CaptionCall](ISSUERS/SP/CaptionCall/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
+| [Charter Communications Inc SHAKEN 5606](ISSUERS/SP/Charter_Communications_Inc_SHAKEN_5606/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Clearly IP](ISSUERS/SP/Clearly_IP/README.md) | 1 (1.22%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) |
 | [Commio](ISSUERS/SP/Commio/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Contact Center Specialists LLC](ISSUERS/SP/Contact_Center_Specialists_LLC/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -80,6 +81,7 @@
 | [Falcon Endeavors](ISSUERS/SP/Falcon_Endeavors/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [FaxLogic LLC](ISSUERS/SP/FaxLogic_LLC/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Fibernetics](ISSUERS/SP/Fibernetics/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
+| [FracTEL LLC](ISSUERS/SP/FracTEL_LLC/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Freevoice](ISSUERS/SP/Freevoice/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [GoTo Communications Inc](ISSUERS/SP/GoTo_Communications_Inc/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Google](ISSUERS/SP/Google/README.md) | 4 (4.88%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
@@ -117,7 +119,7 @@
 | [TextNow Inc.](ISSUERS/SP/TextNow_Inc./README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [TransNexus](ISSUERS/SP/TransNexus/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [U. S. Telepacific Corp](ISSUERS/SP/U._S._Telepacific_Corp/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [Unknown](ISSUERS/SP/Unknown/README.md) | 5 (6.10%) | 5 (100.00%) | 3 (60.00%) | 0 (0.00%) |
+| [Unknown](ISSUERS/SP/Unknown/README.md) | 3 (3.66%) | 3 (100.00%) | 2 (66.67%) | 0 (0.00%) |
 | [VOIP ESSENTIAL INC](ISSUERS/SP/VOIP_ESSENTIAL_INC/README.md) | 0 (0.00%) | 0 (NaN%) | 0 (NaN%) | 0 (NaN%) |
 | [Verizon Data Services LLC](ISSUERS/SP/Verizon_Data_Services_LLC/README.md) | 1 (1.22%) | 0 (0.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Vibratel](ISSUERS/SP/Vibratel/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -130,7 +132,7 @@
 | [Ytel Inc.](ISSUERS/SP/Ytel_Inc./README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Zultys Inc](ISSUERS/SP/Zultys_Inc/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [alticeusa](ISSUERS/SP/alticeusa/README.md) | 1 (1.22%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| **Total** | 82 (100.00%) | 74 (90.24%) | 72 (87.80%) | 0 (0.00%) |
+| **Total** | 82 (100.00%) | 74 (90.24%) | 73 (89.02%) | 0 (0.00%) |
 
 ### Key
 
@@ -141,4 +143,4 @@
 | Notices | Tests in which industry best practices are not followed. |
 
 
-Generated: 21 Nov 22 20:33 UTC
+Generated: 21 Nov 22 20:55 UTC

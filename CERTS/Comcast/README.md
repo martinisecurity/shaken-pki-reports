@@ -22,8 +22,8 @@
 - 30 days is the average remaining validity for the certificates in the corpus
 - 30 days is the average initial validity for the certificates in the corpus
 - 29 certificates expire in the next 30 days
-- 2 unique OCNs
-- 14.50 average number of valid certificates per OCN
+- 14.50 average number of unexpired certificates per OCN observed
+- 2 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -96,4 +96,4 @@ No error, warning, or notice level issues were found
 | 06 Apr 20 13:48 UTC | Comcast SHAKEN Intermediate CA | false | [view](CERTS/2f3abdfe711377f4d59f31d941962797c61f021c3924af31de99031f9ac54f77/README.md) |
 
 
-Generated: 21 Nov 22 20:33 UTC
+Generated: 21 Nov 22 20:55 UTC

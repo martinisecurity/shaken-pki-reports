@@ -2,7 +2,7 @@
 
 ## Certificate frontier.com
 
-Tested At: 21 Nov 22 20:21 UTC\
+Tested At: 21 Nov 22 20:44 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 69 day(s)\
 Subject: C=US, ST=NY, L=Rochester, O=Support, OU=Communications, CN=frontier.com\
@@ -39,4 +39,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11022.10175
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 22 20:33 UTC
+Generated: 21 Nov 22 20:55 UTC

@@ -154,6 +154,7 @@ OCN;Org Name;CN;Cert
 554J;Jivetel Inc;SHAKEN 554J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/91.155
 557F;Lightspeed Voice;SHAKEN Lightspeed Voice 557F;https://cr.sansay.com/lightspeedvoice
 558J;MYPBXManager LLC;MYPBXManager SHAKEN;https://www.mypbxmanager.net/local/PubShakenCert.crt
+5606;Charter Communications Inc SHAKEN 5606;SHAKEN 5606;https://shaken.spectrum.com/4d65efdb8a1ca366e9576c8fda747fa4.pem
 563J;Threshold Communications Inc;SHAKEN Threshold Communications Inc 563J;https://cr.sansay.com/Threshold_Communications_Inc_563J
 567G;Teliax Inc.;Shaken;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11316.10181
 573J;Voyant Communications LLC;SHAKEN 573J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/49.162
@@ -323,6 +324,7 @@ OCN;Org Name;CN;Cert
 9555;Intrado Corporation;intrado.com;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11125.10033
 962J;Versatel LLC;SHAKEN 962J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/176.230
 963J;Freevoice;SHAKEN 963J;http://sip.phx.dlr.freevoicepbx.com/Freevoice_963J
+965H;FracTEL LLC;FracTEL LLC SHAKEN;https://ssc.fractel.net/ssc/fractelssc.pem
 966J;J2 Web Services Inc;SHAKEN 966J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/120.121
 969H;Google;Google SHAKEN cert 969H;https://www.gstatic.com/gtp/stir/0KNv42j7T4F2xjpsMbNWRA.pem
 969H;Google;Google SHAKEN cert 969H;https://www.gstatic.com/gtp/stir/sFCvi_7snpTdPyz7VUUx8g.pem

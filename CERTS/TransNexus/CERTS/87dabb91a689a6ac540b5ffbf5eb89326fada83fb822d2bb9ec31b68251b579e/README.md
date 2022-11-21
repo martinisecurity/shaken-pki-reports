@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 073H
 
-Tested At: 21 Nov 22 20:21 UTC\
+Tested At: 21 Nov 22 20:43 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 262 day(s)\
 Subject: CN=SHAKEN 073H, OU=SHAKEN, O=Telnyx LCC, C=US\
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/073H/d89fe29a-1d12-4fe3-b002-f0dc1c099
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 21 Nov 22 20:33 UTC
+Generated: 21 Nov 22 20:55 UTC

@@ -22,8 +22,8 @@
 - 96 days is the average remaining validity for the certificates in the corpus
 - 98 days is the average initial validity for the certificates in the corpus
 - 1 certificates expire in the next 30 days
-- 11 unique OCNs
-- 2.45 average number of valid certificates per OCN
+- 2.45 average number of unexpired certificates per OCN observed
+- 11 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -92,4 +92,4 @@
 | 02 Oct 22 10:40 UTC | Martini Security SHAKEN G2 | false | [view](CERTS/bf818ddbd3ae492e4a85331b85b52f4d2cdef8287bf910b59e247b6c132fa7fd/README.md) |
 
 
-Generated: 21 Nov 22 20:33 UTC
+Generated: 21 Nov 22 20:55 UTC

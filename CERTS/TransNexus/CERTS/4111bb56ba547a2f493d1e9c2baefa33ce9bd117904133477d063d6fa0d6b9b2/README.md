@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 722J
 
-Tested At: 21 Nov 22 20:21 UTC\
+Tested At: 21 Nov 22 20:44 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 27 day(s)\
 Subject: CN=SHAKEN 722J, O=EvolveIP LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/722J/2879cd22-91fc-4dc5-87be-3f7ed8d27
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Nov 22 20:33 UTC
+Generated: 21 Nov 22 20:55 UTC
