@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 962J
 
-Tested At: 21 Nov 22 23:24 UTC\
+Tested At: 23 Nov 22 18:06 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 234 day(s)\
+Remaining Validity Period: 232 day(s)\
 Subject: CN=SHAKEN 962J, O=Versatel LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/176.230
@@ -14,8 +14,8 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/176.230
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Nov 22 23:36 UTC
+Generated: 23 Nov 22 18:09 UTC

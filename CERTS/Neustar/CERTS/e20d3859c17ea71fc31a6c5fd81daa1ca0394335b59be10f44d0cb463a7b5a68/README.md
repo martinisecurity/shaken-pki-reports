@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 917J
 
-Tested At: 21 Nov 22 23:26 UTC\
+Tested At: 23 Nov 22 18:08 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 123 day(s)\
+Remaining Validity Period: 122 day(s)\
 Subject: CN=SHAKEN 917J, O=Avid Telecom, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/d29187037eabb3b60e24baba5c0b3dc424e004b9
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/d29187037eabb3b60e24baba5c0b3dc424e004b9
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Nov 22 23:36 UTC
+Generated: 23 Nov 22 18:09 UTC

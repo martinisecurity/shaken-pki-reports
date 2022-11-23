@@ -2,9 +2,9 @@
 
 ## Certificate 1RouteGroup SHAKEN Intermediate CA
 
-Tested At: 21 Nov 22 23:36 UTC\
+Tested At: 23 Nov 22 18:09 UTC\
 Initial Validity Period: 7299 day(s)\
-Remaining Validity Period: 6734 day(s)\
+Remaining Validity Period: 6733 day(s)\
 Subject: CN=1RouteGroup SHAKEN Intermediate CA, O=1RouteGroup, ST=Texas, C=US\
 Issuer: CN=GBSDTech SHAKEN Root CA, O=GBSDTech, L=Ft Worth, ST=Texas, C=US
 
@@ -12,9 +12,9 @@ Issuer: CN=GBSDTech SHAKEN Root CA, O=GBSDTech, L=Ft Worth, ST=Texas, C=US
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_ca_authority_key_identifier](../../ISSUES/e_atis_ca_authority_key_identifier/README.md) | error | ATIS1000080 | STI certificates shall contain an Authority Key Identifier extension |
 | [e_ext_authority_key_identifier_missing](../../ISSUES/e_ext_authority_key_identifier_missing/README.md) | error | RFC5280 |  |
 | [e_ext_authority_key_identifier_no_key_identifier](../../ISSUES/e_ext_authority_key_identifier_no_key_identifier/README.md) | error | RFC5280 |  |
+| [e_atis_ca_authority_key_identifier](../../ISSUES/e_atis_ca_authority_key_identifier/README.md) | error | ATIS1000080 | STI certificates shall contain an Authority Key Identifier extension |
 
 ### Not Effective
 
@@ -27,4 +27,4 @@ Issuer: CN=GBSDTech SHAKEN Root CA, O=GBSDTech, L=Ft Worth, ST=Texas, C=US
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 22 23:36 UTC
+Generated: 23 Nov 22 18:09 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 857J
 
-Tested At: 21 Nov 22 23:25 UTC\
+Tested At: 23 Nov 22 18:08 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 211 day(s)\
+Remaining Validity Period: 210 day(s)\
 Subject: CN=SHAKEN 857J, OU=SHAKEN, O=IEvolve, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://icomm.i-evolve.net/certs/icomm-shaken-sbc01.crt
@@ -18,4 +18,4 @@ Link: https://icomm.i-evolve.net/certs/icomm-shaken-sbc01.crt
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 21 Nov 22 23:36 UTC
+Generated: 23 Nov 22 18:09 UTC

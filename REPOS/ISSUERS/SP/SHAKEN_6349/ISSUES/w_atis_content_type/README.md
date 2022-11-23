@@ -12,4 +12,4 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | `https://crs.sti.uscellular.com/certs/uscc_shaken_CA.crt` | true | [view](../../REPOS/b2a4177b5a547e2a4c30c52aa4ff68a0b2d2899c/README.md) |
 
 
-Generated: 21 Nov 22 23:36 UTC
+Generated: 23 Nov 22 18:09 UTC

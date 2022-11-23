@@ -2,9 +2,9 @@
 
 ## Certificate cox.com
 
-Tested At: 21 Nov 22 23:25 UTC\
+Tested At: 23 Nov 22 18:06 UTC\
 Initial Validity Period: 1096 day(s)\
-Remaining Validity Period: 125 day(s)\
+Remaining Validity Period: 123 day(s)\
 Subject: C=US, ST=GA, L=Atlanta, O=Communications, OU=Cox Communications, CN=cox.com\
 Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11126.10191
@@ -39,4 +39,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11126.10191
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 22 23:36 UTC
+Generated: 23 Nov 22 18:09 UTC

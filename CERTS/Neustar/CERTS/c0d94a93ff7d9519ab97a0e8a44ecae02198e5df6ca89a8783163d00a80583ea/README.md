@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 770J
 
-Tested At: 21 Nov 22 23:25 UTC\
+Tested At: 23 Nov 22 18:07 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 339 day(s)\
+Remaining Validity Period: 337 day(s)\
 Subject: CN=SHAKEN 770J, O=Fuze Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11484.10112
@@ -16,4 +16,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11484.10112
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Nov 22 23:36 UTC
+Generated: 23 Nov 22 18:09 UTC

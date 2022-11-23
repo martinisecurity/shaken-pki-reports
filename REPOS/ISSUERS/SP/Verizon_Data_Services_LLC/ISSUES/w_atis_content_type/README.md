@@ -12,4 +12,4 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | `https://sti.verizon.com/vzwcert/vzshaken-02-2024.crt` | true | [view](../../REPOS/3c993e5ab26bb9e246ceac061b199e01aa2501c1/README.md) |
 
 
-Generated: 21 Nov 22 23:36 UTC
+Generated: 23 Nov 22 18:09 UTC

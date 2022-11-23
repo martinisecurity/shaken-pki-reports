@@ -13,10 +13,11 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
 | error | Avid Communication SHAKEN Cert 742D | [view](../../CERTS/b63d54026dfcdfd16495ad6fdda8993de182c86b4aa870784177c38c53842cba/README.md) | Common name shall contain the text string 'SHAKEN 742D' |
+| error | Kaplan Telephone SHAKEN cert 0432 | [view](../../CERTS/24c1b7c4dc4aeda21b5d1c5ff7f059903693c4a8b67ecc054ef05542a2ff4c35/README.md) | Common name shall contain the text string 'SHAKEN 0432' |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 21 Nov 22 23:36 UTC
+Generated: 23 Nov 22 18:09 UTC

@@ -9,7 +9,8 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Repository URLs | Problems | Link |
 |-----------------|----------|------|
+| `https://cr-east1.sansay.com/MagicJack_324E.crt` | true | [view](../../REPOS/4f048fcfaabf07ec664f4dd877a5470bca64d6e9/README.md) |
 | `https://sns.magicjack.com/324E.chain.crt.pem` | true | [view](../../REPOS/d18a6931e976e90e2b264dfde64b6f72c2727b3f/README.md) |
 
 
-Generated: 21 Nov 22 23:36 UTC
+Generated: 23 Nov 22 18:09 UTC

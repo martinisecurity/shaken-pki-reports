@@ -3,8 +3,8 @@
 ## Sansay
 
 Name: `https://cr.sansay.com/583j_BROADBAND_DYNAMICS_STIR_SHAKEN.crt`\
-Tested At: 21 Nov 22 23:25 UTC\
-Time: 34ms
+Tested At: 23 Nov 22 18:07 UTC\
+Time: 69ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 34ms
 |------|------|--------|---------|
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 21 Nov 22 23:36 UTC
+Generated: 23 Nov 22 18:09 UTC

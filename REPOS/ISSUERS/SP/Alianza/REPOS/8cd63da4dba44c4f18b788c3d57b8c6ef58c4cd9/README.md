@@ -3,8 +3,8 @@
 ## Alianza
 
 Name: `https://api.alianza.com/v2/stir-shaken/certs/b45a4083-1554-4412-b5fc-bbd2c027091e/key.crt`\
-Tested At: 21 Nov 22 23:23 UTC\
-Time: 142ms
+Tested At: 23 Nov 22 18:06 UTC\
+Time: 151ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 142ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 21 Nov 22 23:36 UTC
+Generated: 23 Nov 22 18:09 UTC
