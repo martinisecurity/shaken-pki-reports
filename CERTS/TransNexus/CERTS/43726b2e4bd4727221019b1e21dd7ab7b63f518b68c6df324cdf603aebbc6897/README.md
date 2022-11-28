@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 738J
 
-Tested At: 23 Nov 22 18:06 UTC\
+Tested At: 28 Nov 22 20:37 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: 7 day(s)\
+Remaining Validity Period: 1 day(s)\
 Subject: CN=SHAKEN 738J, O=SIP.US LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/690275d12b70ee7b033eb8de3e54e555.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/6902
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 23 Nov 22 18:09 UTC
+Generated: 28 Nov 22 20:41 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 807J
 
-Tested At: 23 Nov 22 18:06 UTC\
+Tested At: 28 Nov 22 20:38 UTC\
 Initial Validity Period: 60 day(s)\
-Remaining Validity Period: 38 day(s)\
+Remaining Validity Period: 33 day(s)\
 Subject: CN=SHAKEN 807J, OU=SHAKEN, O=SipPhony LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/807J/a97ca418-f914-4add-ad4b-7caf93cf0f2b.pem
@@ -13,8 +13,8 @@ Link: https://certificates.transnexus.com/807J/a97ca418-f914-4add-ad4b-7caf93cf0
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 23 Nov 22 18:09 UTC
+Generated: 28 Nov 22 20:41 UTC

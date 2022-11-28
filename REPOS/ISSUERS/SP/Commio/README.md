@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 56ms average time it took to download each certificate
+- 154ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://storage.googleapis.com/stirshaken/ShakeNBakeCert.pem` | true | [view](REPOS/73d4ff8ea77f3fed275f57ed476e547be77e4677/README.md) |
 
 
-Generated: 23 Nov 22 18:09 UTC
+Generated: 28 Nov 22 20:41 UTC

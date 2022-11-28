@@ -12,4 +12,4 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | `https://ssc.fractel.net/ssc/fractelssc.pem` | true | [view](../../REPOS/43cef8ecc75c42a157f4a770680c7bc638e02617/README.md) |
 
 
-Generated: 23 Nov 22 18:09 UTC
+Generated: 28 Nov 22 20:41 UTC

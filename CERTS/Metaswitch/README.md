@@ -9,30 +9,30 @@
 
 #### Leaf Certificates
 
-- 30 certificates were included in the corpus being tested
+- 31 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 30 certificates being tested against the remaining rules
-- 4.13 issues on average found in unexpired, trusted, and non-compliant certificates
+- 31 certificates being tested against the remaining rules
+- 4.16 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
-- 3.33% of certificates contain one or more Warning level issue
+- 3.23% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
-- 93.33% of certificates are too old to be assessed against currently enforced expectations
-- 1074 days is the average remaining validity for the certificates in the corpus
+- 90.32% of certificates are too old to be assessed against currently enforced expectations
+- 1075 days is the average remaining validity for the certificates in the corpus
 - 1095 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 - 1.00 average number of unexpired certificates per OCN observed
-- 30 unique OCNs observed in unexpired and valid certificate corpus
+- 31 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 30 | [e_atis_issuer_dn](ISSUES/e_atis_issuer_dn/README.md) | ATIS1000080 |
-| 30 | [e_atis_key_usage](ISSUES/e_atis_key_usage/README.md) | ATIS1000080 |
+| 31 | [e_atis_issuer_dn](ISSUES/e_atis_issuer_dn/README.md) | ATIS1000080 |
+| 31 | [e_atis_key_usage](ISSUES/e_atis_key_usage/README.md) | ATIS1000080 |
 | 1 | [e_atis_subject](ISSUES/e_atis_subject/README.md) | ATIS1000080 |
-| 2 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
-| 30 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 30 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 3 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
+| 31 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
+| 31 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
 | 1 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
@@ -47,7 +47,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 6084 days is the average remaining validity for the certificates in the corpus
+- 6082 days is the average remaining validity for the certificates in the corpus
 - 5840 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -91,6 +91,7 @@
 | 16 Sep 21 13:09 UTC | CTS Telecom, Inc SHAKEN Cert 8331 | true | [view](CERTS/5c9f6132a96a05a58d02d845ee70e914659682623fb98acbbecd9f8e383dcbec/README.md) |
 | 05 May 22 14:14 UTC | Kaplan Telephone SHAKEN cert 0432 | true | [view](CERTS/24c1b7c4dc4aeda21b5d1c5ff7f059903693c4a8b67ecc054ef05542a2ff4c35/README.md) |
 | 07 Jun 22 12:24 UTC | Avid Communication SHAKEN Cert 742D | true | [view](CERTS/b63d54026dfcdfd16495ad6fdda8993de182c86b4aa870784177c38c53842cba/README.md) |
+| 12 Oct 22 17:52 UTC | Northeast Oklahoma Electric Cooperative SHAKEN Cert 945H | true | [view](CERTS/b399b86f53e35dfa37c4cd7b28ee0132d934ef73354f564636d8edee42d58ccd/README.md) |
 
 #### CA Certificates
 
@@ -100,4 +101,4 @@
 | 25 Nov 20 11:57 UTC | Metaswitch STI-CA SHAKEN Issuing 1 | true | [view](CERTS/b91a9874fbefc3feda9d5f9bd336e8b999c9b15b25aae7fe3c61d87373a5d1a1/README.md) |
 
 
-Generated: 23 Nov 22 18:09 UTC
+Generated: 28 Nov 22 20:41 UTC

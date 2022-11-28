@@ -2,19 +2,20 @@
 
 ## Martini Security
 
-- 46 repository URLs were included in the corpus being tested
+- 47 repository URLs were included in the corpus being tested
 - 18 repository URLs in the corpus were skipped because they were duplicated
-- 28 repository URLs being tested against the remaining rules
+- 29 repository URLs being tested against the remaining rules
 - 0.00 issues on average found in non-compliant certificate repository URLs
 - 0.00% of repository URLs contain one or more Error level issue
 - 0.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 44ms average time it took to download each certificate
+- 74ms average time it took to download each certificate
 
 No error, warning, or notice level issues were found
 
 | Repository URLs | Problems | Link |
 |-----------------|----------|------|
+| `https://p.mtsec.me/2884/Ac-_gj5i9wZv.pem` | false | [view](REPOS/45908f5b06ff3344a911f0a281cebd360e762947/README.md) |
 | `https://p.mtsec.me/2884/BOp9q79i5g3i.pem` | false | [view](REPOS/dd30ab2f3d34f83c01e3cb11e86b466fe071893f/README.md) |
 | `https://p.mtsec.me/2884/BiAXt2iK2Pw-.pem` | false | [view](REPOS/3e7911fa1cfd96c7139bc6292a3df943639dfec5/README.md) |
 | `https://p.mtsec.me/2884/CR0M-J_8cVtU.pem` | false | [view](REPOS/88d0714bc738e798914fb595c373ca47faa3fde1/README.md) |
@@ -45,4 +46,4 @@ No error, warning, or notice level issues were found
 | `https://p.mtsec.me/2dd5/U-o0Vt0ZT1yl.pem` | false | [view](REPOS/de15a9a3bef6c1d3ef2f6423f1ad3b83bdf02bc1/README.md) |
 
 
-Generated: 23 Nov 22 18:09 UTC
+Generated: 28 Nov 22 20:41 UTC

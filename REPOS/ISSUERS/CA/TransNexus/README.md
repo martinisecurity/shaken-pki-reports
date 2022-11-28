@@ -2,14 +2,14 @@
 
 ## TransNexus
 
-- 522 repository URLs were included in the corpus being tested
+- 548 repository URLs were included in the corpus being tested
 - 0 repository URLs in the corpus were skipped because they were duplicated
-- 522 repository URLs being tested against the remaining rules
+- 548 repository URLs being tested against the remaining rules
 - 0.00 issues on average found in non-compliant certificate repository URLs
 - 0.00% of repository URLs contain one or more Error level issue
 - 0.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 14ms average time it took to download each certificate
+- 20ms average time it took to download each certificate
 
 No error, warning, or notice level issues were found
 
@@ -26,12 +26,14 @@ No error, warning, or notice level issues were found
 | `https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/26df75cb7d2e038e81030c5256f57e50.pem` | false | [view](REPOS/f6c1527ca6f7ea072054d0a269e23b88621b2d80/README.md) |
 | `https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/2d9c4131825627aaf47bd2c9471d43ae.pem` | false | [view](REPOS/4b5ce704efa9ab9ec8fb635b08f2f898c1975b38/README.md) |
 | `https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/3c25289bcc5828aea47638974bae5fc1.pem` | false | [view](REPOS/bb89f0e41febf23e6374fdebb767b59622e9adbe/README.md) |
+| `https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/7d226b9b443d4b84739555c1f75f9650.pem` | false | [view](REPOS/83aa9b37612131a38bb1e96fff067daef6b084b3/README.md) |
 | `https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/7e8d155e861ba3f54a4a668bb1f922bd.pem` | false | [view](REPOS/6418adf1d5540aeedc2a0599e31e154a78fd6ca5/README.md) |
 | `https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/ade3cb8b64d1f4be0937804e24edc5ef.pem` | false | [view](REPOS/b444644695392fd27b5b8474fb98a92a60096f8b/README.md) |
 | `https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/b8b074c91e0ff60930ea3d455a6ebfe9.pem` | false | [view](REPOS/f335562ef5d7088be68ff85214c28f0575e0fb4c/README.md) |
 | `https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/c3a0ed681ceac85c43c313ee38480028.pem` | false | [view](REPOS/511629e4a971a8d341cd11640290b1ab0f1193ba/README.md) |
 | `https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/e9c841d36c0884971c0f59b51bf8e12f.pem` | false | [view](REPOS/7b03ec10c24c0716f9fa2a4982480d0cc4a56a28/README.md) |
 | `https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/f9b29cef06e6ff71d53840ee3895c3b7.pem` | false | [view](REPOS/0b3700115e291692d8d5568cf40b3b09c3e73746/README.md) |
+| `https://certificates.clearip.com/0b98ecf4-0a43-4b89-8fc0-8e029d8258fa/2426450e12882fefa1a9a2623c6417ad.pem` | false | [view](REPOS/c5cf5b05c78b7c0196838385e948aad5cbdbe205/README.md) |
 | `https://certificates.clearip.com/0b98ecf4-0a43-4b89-8fc0-8e029d8258fa/25e86073acc22df29d897d0ba648734f.pem` | false | [view](REPOS/7040813401bb4a67b2a795347a683a688620680f/README.md) |
 | `https://certificates.clearip.com/0b98ecf4-0a43-4b89-8fc0-8e029d8258fa/26d24c020cc876459392965bdb4d9118.pem` | false | [view](REPOS/46512ef5f988564afdc7fc2edc81945d3e2f82d6/README.md) |
 | `https://certificates.clearip.com/0b98ecf4-0a43-4b89-8fc0-8e029d8258fa/3e325d475b55650db218201479f9e444.pem` | false | [view](REPOS/5b3a4b9138cbdaac60b56ffbd538a09c69d6e9dc/README.md) |
@@ -58,6 +60,7 @@ No error, warning, or notice level issues were found
 | `https://certificates.clearip.com/0c4e235f-3e3e-4dd3-bbfc-2f15badab180/e97f2e3caeaa3c3daafecb38f2c2ead3.pem` | false | [view](REPOS/8a4fb95f43c3cad43bae035821c1b929c4008686/README.md) |
 | `https://certificates.clearip.com/0ed28b24-35cd-4fbe-82b2-ae7b4e44f3d3/becf02556a3fe0add34e22f52442d2cf.pem` | false | [view](REPOS/f6cb54a2e8cee8024f89ca4e59250fabf751c7f7/README.md) |
 | `https://certificates.clearip.com/0ed28b24-35cd-4fbe-82b2-ae7b4e44f3d3/e096c22db9c707afa3ea6bcd8354432f.pem` | false | [view](REPOS/df7e238b757f9ad019378a63f1630649ae283c9e/README.md) |
+| `https://certificates.clearip.com/11124177-79f3-48b2-867a-386d4dc61c99/40d0276d32447bc8de14f1cc6c883bef.pem` | false | [view](REPOS/4e670f406be9d9d30a192febd8d5233777f90919/README.md) |
 | `https://certificates.clearip.com/11124177-79f3-48b2-867a-386d4dc61c99/467ce6407e421d4db6b024d99ba3d4ea.pem` | false | [view](REPOS/88214941e34c495ec82b99384b813e8870cdf30f/README.md) |
 | `https://certificates.clearip.com/11124177-79f3-48b2-867a-386d4dc61c99/60797bd734fa6f7e6aa28e23adf7e4d0.pem` | false | [view](REPOS/82dcebd26a4aa55ca81824c5a690c14dfd193377/README.md) |
 | `https://certificates.clearip.com/11124177-79f3-48b2-867a-386d4dc61c99/a094dbb369b0daa6b826aec6227eef7d.pem` | false | [view](REPOS/335f2bee80b2ac94e16d455bcd25361e06274bd9/README.md) |
@@ -65,6 +68,8 @@ No error, warning, or notice level issues were found
 | `https://certificates.clearip.com/14652271-f2ba-4197-87c0-704f8c618e4b/b300b62578044f83350c02da994e07c6.pem` | false | [view](REPOS/a33d5964f371914b34c97c1813de08600f51d5ba/README.md) |
 | `https://certificates.clearip.com/19aed76a-a067-4715-8a05-1993cc9d939e/26060a26b4428eed5762dc72a3dec527.pem` | false | [view](REPOS/9b4984b5e56938363a6668bad9fcf3f0d2819e63/README.md) |
 | `https://certificates.clearip.com/19aed76a-a067-4715-8a05-1993cc9d939e/617f8185f2c473295280af2549b105ba.pem` | false | [view](REPOS/8f55d92d8b18656f95745127c23c217becf4b083/README.md) |
+| `https://certificates.clearip.com/19aed76a-a067-4715-8a05-1993cc9d939e/c50040adab7ff3bf0cef7d7123658954.pem` | false | [view](REPOS/89bebebf484f00e20d090c8b00a6dbe539ad975a/README.md) |
+| `https://certificates.clearip.com/2185f3c0-09fe-4171-ac47-5f28eb0ef48e/02fc8a44426244c63de71c30e790cefb.pem` | false | [view](REPOS/c396641439426eee2081f2fa1dae3dd460bdb5fd/README.md) |
 | `https://certificates.clearip.com/2185f3c0-09fe-4171-ac47-5f28eb0ef48e/0d572e476e8f300d7446944c5050f70c.pem` | false | [view](REPOS/508274ff12e84745aa8ed51d8b0482895be2f804/README.md) |
 | `https://certificates.clearip.com/2185f3c0-09fe-4171-ac47-5f28eb0ef48e/314c5a5aedcebfd7b4657f2ed4e8b110.pem` | false | [view](REPOS/c0c14e3034b66c4c7d91a52c6c1feb6ba6f82e73/README.md) |
 | `https://certificates.clearip.com/2185f3c0-09fe-4171-ac47-5f28eb0ef48e/3d78336053b7b3f662da3c1dd8e09dbc.pem` | false | [view](REPOS/e5801c603216df96d45a21acef36a91fdece6053/README.md) |
@@ -116,6 +121,8 @@ No error, warning, or notice level issues were found
 | `https://certificates.clearip.com/2e3276e5-a5c5-43c7-ae11-3a226bf1b5ed/58e3495303680bad1d5bb60ea4a777eb.pem` | false | [view](REPOS/5addab6ad52730623cc55741bf349acbb596c7b7/README.md) |
 | `https://certificates.clearip.com/2e3276e5-a5c5-43c7-ae11-3a226bf1b5ed/5cc23b30bf323860b4a4f48bccfd670f.pem` | false | [view](REPOS/3bd14c0b57cd619950e0afe9c1ce00fe71855726/README.md) |
 | `https://certificates.clearip.com/2e3276e5-a5c5-43c7-ae11-3a226bf1b5ed/615b9ce58b326d617eebeb87cee4dcdc.pem` | false | [view](REPOS/b57ba9280ceb621ed7e01e19766cb747eea08061/README.md) |
+| `https://certificates.clearip.com/2e3276e5-a5c5-43c7-ae11-3a226bf1b5ed/653dc50539916bce1a959eb528cd40f4.pem` | false | [view](REPOS/7a46a0e909a16db0e08441d923a0c6400f836f44/README.md) |
+| `https://certificates.clearip.com/2e3276e5-a5c5-43c7-ae11-3a226bf1b5ed/6b48c18c573e8b1d9d43b78e36580938.pem` | false | [view](REPOS/d89b4cb7be2dc461912892dfad445ff9eaaf8f84/README.md) |
 | `https://certificates.clearip.com/2e3276e5-a5c5-43c7-ae11-3a226bf1b5ed/8cf027bfba0180817348b19dfc538290.pem` | false | [view](REPOS/c4031c1f933c897da53e36c3112fc658d20b32f8/README.md) |
 | `https://certificates.clearip.com/2e3276e5-a5c5-43c7-ae11-3a226bf1b5ed/97da34bb46dd55bad1ebd901ba4dfe87.pem` | false | [view](REPOS/b0e2e6f5d8dec71ccffd9c2d1468fe9e83281b88/README.md) |
 | `https://certificates.clearip.com/2e3276e5-a5c5-43c7-ae11-3a226bf1b5ed/b75c9140bcbc852723a7bf652d458cf1.pem` | false | [view](REPOS/758ce2334b46d8ec46d6f70b8591898ed800fdb7/README.md) |
@@ -127,6 +134,7 @@ No error, warning, or notice level issues were found
 | `https://certificates.clearip.com/36952c34-78d8-4c32-9499-188a418f31ba/0f282f96c0be9b31b535f2c744b8ffe1.pem` | false | [view](REPOS/7867e70ba49ea87ada53c295f89708f11b959f8c/README.md) |
 | `https://certificates.clearip.com/36952c34-78d8-4c32-9499-188a418f31ba/1db4b7629e187513dd8c82fe505a86e3.pem` | false | [view](REPOS/170d4ef738023f60c8b11ed7f3a1c252c738837b/README.md) |
 | `https://certificates.clearip.com/36952c34-78d8-4c32-9499-188a418f31ba/292c05077b7b6e80288715aea31e3fa1.pem` | false | [view](REPOS/3890c370d482a8e74bea34e4492ba7ab25fb5771/README.md) |
+| `https://certificates.clearip.com/36952c34-78d8-4c32-9499-188a418f31ba/4343620d7434c6b69b97f9757f918265.pem` | false | [view](REPOS/296431f062e4727063a2da734cadc1dca5d35f75/README.md) |
 | `https://certificates.clearip.com/36952c34-78d8-4c32-9499-188a418f31ba/4de9a24de596a626dd4a02acbebbfed7.pem` | false | [view](REPOS/93189290b7906d8475229431895624fe12137954/README.md) |
 | `https://certificates.clearip.com/36952c34-78d8-4c32-9499-188a418f31ba/6d53d815b286860cd54450c72f4dc081.pem` | false | [view](REPOS/4638404fbba45fa7192882a394743b161dfbec49/README.md) |
 | `https://certificates.clearip.com/36952c34-78d8-4c32-9499-188a418f31ba/7e0a68d68a17116a410278aaa85ff9f1.pem` | false | [view](REPOS/c12f832ec16cc56264217d39a77e365955225d46/README.md) |
@@ -154,6 +162,7 @@ No error, warning, or notice level issues were found
 | `https://certificates.clearip.com/471a46b3-3de4-4aa2-964b-2ff03ddbc8fe/9b59f14ff1a0780d2c1b41b26a10a613.pem` | false | [view](REPOS/b6b94ab05ef3798232875531424becac5e335dbd/README.md) |
 | `https://certificates.clearip.com/471a46b3-3de4-4aa2-964b-2ff03ddbc8fe/d56bd1655cdcf43a507902221b01f753.pem` | false | [view](REPOS/c2ed61c209683c0f0ac59e15eaa2bb7b11490d20/README.md) |
 | `https://certificates.clearip.com/48c90e4a-a2cf-4e37-bd41-4c9bf99d32ac/f8191017203e97aa7f3bf75438273a72.pem` | false | [view](REPOS/71497c67f4fdfbd3b26aa493f122567053a92eea/README.md) |
+| `https://certificates.clearip.com/4ba6f296-2d7c-42c2-8fe4-12b74f5076df/1e41a6d56152be7d5b83aff2409e347f.pem` | false | [view](REPOS/ff970d90f51f48772903455a8fdfd381c3461e9f/README.md) |
 | `https://certificates.clearip.com/4ba6f296-2d7c-42c2-8fe4-12b74f5076df/3f3dbf1975c9ab4b33450996282f58cb.pem` | false | [view](REPOS/dfaf1791e58fa7a1f2fdbe0271de959c6328ed30/README.md) |
 | `https://certificates.clearip.com/4ba6f296-2d7c-42c2-8fe4-12b74f5076df/644d48410245511f62d07ea581d67e1b.pem` | false | [view](REPOS/58e8cc3f8d2dc7ea298bb9f7eaf30e14e338405a/README.md) |
 | `https://certificates.clearip.com/4ba6f296-2d7c-42c2-8fe4-12b74f5076df/8624c57cb5bae15eefe0c18490948d41.pem` | false | [view](REPOS/5f7ee30c7f1228ce08ea8d3fefc0b43d7153b453/README.md) |
@@ -163,6 +172,7 @@ No error, warning, or notice level issues were found
 | `https://certificates.clearip.com/4eed3a39-8f41-4acb-9b86-42a558b3455a/3985ea9b54d2309e13a5e8996d4c846a.pem` | false | [view](REPOS/08f744ec297c37d239d73a08423cb74a7dea8d07/README.md) |
 | `https://certificates.clearip.com/4eed3a39-8f41-4acb-9b86-42a558b3455a/a800a09771486ab5f1f6b2de2cffc00c.pem` | false | [view](REPOS/a9b4011a2ef1459773089c37b97c704c75877053/README.md) |
 | `https://certificates.clearip.com/4efae05c-c8cd-405b-ae97-c62a52afd074/2f9fbd9cb49279c3b553c6bd9ee383ee.pem` | false | [view](REPOS/c431880a90405e24858273127833e1255756548e/README.md) |
+| `https://certificates.clearip.com/4f32f256-5289-4c26-ad4b-2789b048087b/dae949b35858d8cdb82a9a0bc2a37f2c.pem` | false | [view](REPOS/714287376a8d6867acc8a8fe7862a68ff2e27998/README.md) |
 | `https://certificates.clearip.com/50f33dd9-032e-4c8b-8683-e4125228e2b8/e89cc3fe4d14ae3a812f40d255483127.pem` | false | [view](REPOS/747498c71c009ac5a0175fe360c0e711d3893a6c/README.md) |
 | `https://certificates.clearip.com/51a37c7a-5af2-439d-94ce-677fa750ee2f/2574096f567842a90e74c70e07de3333.pem` | false | [view](REPOS/7a60c8e3b3e2f4f3cc9176095e3b16d3968f8aca/README.md) |
 | `https://certificates.clearip.com/51a37c7a-5af2-439d-94ce-677fa750ee2f/46c406131ba5bd50525f194f3dc14485.pem` | false | [view](REPOS/6e060f90592b4974505a3f3734c7784b7712b6c7/README.md) |
@@ -177,6 +187,7 @@ No error, warning, or notice level issues were found
 | `https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/27764f042389ce93b9fec8ca0855ae4b.pem` | false | [view](REPOS/2d8f44be049cdfa5532de474f5fed38c71fa865d/README.md) |
 | `https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/2f12ebcd6610db37602647f20f4335d8.pem` | false | [view](REPOS/3a50d272c874ce460f89ce00ac29e9121d637f6e/README.md) |
 | `https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/2f609e8b52f247e91e8229339371884d.pem` | false | [view](REPOS/17ff04224d59eb08c7e97ad586fc29dc18bd3b63/README.md) |
+| `https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/335e4c7952325e3ddd3871ffcde79cde.pem` | false | [view](REPOS/d86091bee1502ac706f17505acfc70ecb5d078e5/README.md) |
 | `https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/37b8f7d06e9f6057267cbaa49b927ca7.pem` | false | [view](REPOS/c7dfe83a195ee4635d4f2c6f1546d92404776670/README.md) |
 | `https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/440f7fc8e61df3c959847a66e958be5d.pem` | false | [view](REPOS/2fbf11ca68121da63ed3214697a341a2f018ecf9/README.md) |
 | `https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/4df3da79d492afadb7d89d7d105fd338.pem` | false | [view](REPOS/a1da2ffcdde44ab7fdcbd380856fe6a995c2a4ce/README.md) |
@@ -191,6 +202,7 @@ No error, warning, or notice level issues were found
 | `https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/a275c9900315d7dc5e260ef83e08e3f4.pem` | false | [view](REPOS/b65b3f33112d13a561e56e48dc1fd3f4217247f9/README.md) |
 | `https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/ac538bf559c04fd9143ab4aa59589b1c.pem` | false | [view](REPOS/f4d164b3bf936359f8511680c5151282db981230/README.md) |
 | `https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/dafc6d95003d711a029d6a69af6b67bd.pem` | false | [view](REPOS/5ff3192f492219293dff76500538a69f6308978a/README.md) |
+| `https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/eaa936bbc3b268a82bcdb3d47c77d8fc.pem` | false | [view](REPOS/838778d48d88ed3589b3dd1e0e18c72572dbef9f/README.md) |
 | `https://certificates.clearip.com/5a565c0f-433a-4bce-b57c-868e3e7b3002/128a99f55845a19f6ec13f5c4c802b52.pem` | false | [view](REPOS/39e0131c999e480fb2a9bc442add3860de82bb60/README.md) |
 | `https://certificates.clearip.com/5a565c0f-433a-4bce-b57c-868e3e7b3002/2e77defe4a8429949b132e9654096aff.pem` | false | [view](REPOS/131899c47a8afae4dfc02545fc9255f53df4b105/README.md) |
 | `https://certificates.clearip.com/5a565c0f-433a-4bce-b57c-868e3e7b3002/6b0cb0b3d8329ac8d331f51316c8227e.pem` | false | [view](REPOS/d378508b603cdb45d12f2993b2585e27d8437b4e/README.md) |
@@ -224,12 +236,15 @@ No error, warning, or notice level issues were found
 | `https://certificates.clearip.com/82d97ecb-9b38-4926-9062-8e21b8986930/4a5ab5a3b56a2bb35ff2b29c212a2ab8.pem` | false | [view](REPOS/1925d91804f55c8d419cf095568e80bb41930028/README.md) |
 | `https://certificates.clearip.com/84c98183-b28e-415a-8dc4-ba02b9ca5418/16e66fb66eb92cc338d38ce4cca3634f.pem` | false | [view](REPOS/051019d0d38fe4a0180efd1addcd9a0429049c1f/README.md) |
 | `https://certificates.clearip.com/84c98183-b28e-415a-8dc4-ba02b9ca5418/d99780f1c4a7a1ad60a27b0d675c73f5.pem` | false | [view](REPOS/e612ccca1ed9a16e3c715bc321d6db5c10379ea4/README.md) |
+| `https://certificates.clearip.com/853eda31-5f44-42d5-81f9-871258ee4c96/5eb54bea24824b0025296535806dfc34.pem` | false | [view](REPOS/bba7f3bb6408eec6b0a83639421fe02939b1ccba/README.md) |
 | `https://certificates.clearip.com/859299ca-4c86-4dfd-9785-6c758bee1b37/34b0b778ed9b4f95b12b2a1c9fbb50de.pem` | false | [view](REPOS/f9ef949baf2a2e45348af4a145896e94dd502916/README.md) |
 | `https://certificates.clearip.com/859299ca-4c86-4dfd-9785-6c758bee1b37/6b7e2daa26347b1369c76e30cb8994a2.pem` | false | [view](REPOS/5a6ec35bcf5aec6735c12e5059a47a75844cfb68/README.md) |
 | `https://certificates.clearip.com/859299ca-4c86-4dfd-9785-6c758bee1b37/9f63e1cc817f2d061c04650e1ac8489b.pem` | false | [view](REPOS/b0b39ff4ff7c931ff78f1e9c552da4110c8951d1/README.md) |
+| `https://certificates.clearip.com/859299ca-4c86-4dfd-9785-6c758bee1b37/e0b1fae2d078f6e1b2e85274fe57894e.pem` | false | [view](REPOS/b3e67969296c797220adf8da01026b1645cab989/README.md) |
 | `https://certificates.clearip.com/859299ca-4c86-4dfd-9785-6c758bee1b37/fc801558e11d85f018c7783bb92429e8.pem` | false | [view](REPOS/7fadf22272e3677a01704eef785d9c0c82634519/README.md) |
 | `https://certificates.clearip.com/859299ca-4c86-4dfd-9785-6c758bee1b37/fe12391f1a85a76c2a5f78dc986d9e14.pem` | false | [view](REPOS/a48d78b400dd9f0c34bcc8bb32d9749cea60ce72/README.md) |
 | `https://certificates.clearip.com/86e241b8-9c8e-4431-b35f-4d92844a1da9/10794cd61fd872d194d86094c45350e6.pem` | false | [view](REPOS/1ca7d81de00eaa2d55015f614f2d50a3d4bb71c1/README.md) |
+| `https://certificates.clearip.com/86e241b8-9c8e-4431-b35f-4d92844a1da9/13af6ffd8f6dfc84be84701a31c360c5.pem` | false | [view](REPOS/85e442144dcb1afabc922f02c6922033ff25fccc/README.md) |
 | `https://certificates.clearip.com/86e241b8-9c8e-4431-b35f-4d92844a1da9/5964d027be7565d20bd77769e0ddc97b.pem` | false | [view](REPOS/a78010c948b36e3f3725a79e6e4c61cbd51f5628/README.md) |
 | `https://certificates.clearip.com/86e241b8-9c8e-4431-b35f-4d92844a1da9/5d3642ee14c8c74eed126e51171527ee.pem` | false | [view](REPOS/613fa804954a5575b2853297c93173c152f6f2f0/README.md) |
 | `https://certificates.clearip.com/86e241b8-9c8e-4431-b35f-4d92844a1da9/67a6dac37c7ee9355e89125918e7dfca.pem` | false | [view](REPOS/2a11b82743cb567d2fb43d02b33e68ecb7a90026/README.md) |
@@ -246,6 +261,7 @@ No error, warning, or notice level issues were found
 | `https://certificates.clearip.com/88814589-ad88-4c53-b3c3-47f8334afb98/293c1d0ab822f89a973e14854644e325.pem` | false | [view](REPOS/2d3dd5fc79a0893f42cccb1d5632c858a44c6ef6/README.md) |
 | `https://certificates.clearip.com/88814589-ad88-4c53-b3c3-47f8334afb98/61db9dd902bd71a164aa5c3770731009.pem` | false | [view](REPOS/9ee71ce87f9fbd3447184a549c4c7c6f81b5ec07/README.md) |
 | `https://certificates.clearip.com/88814589-ad88-4c53-b3c3-47f8334afb98/65b9c8389b135d2db8bd95e6d1e8c36e.pem` | false | [view](REPOS/d7237496f74ef9a361e63b51f02bfdbe143538c3/README.md) |
+| `https://certificates.clearip.com/88814589-ad88-4c53-b3c3-47f8334afb98/8244a0dd7934834e7b9e19c391d04daf.pem` | false | [view](REPOS/d044bfe629051c29011cdb149a0fac53fba64299/README.md) |
 | `https://certificates.clearip.com/88814589-ad88-4c53-b3c3-47f8334afb98/854141058ea80d95f5a6d8f2bf459639.pem` | false | [view](REPOS/de1075785f8c0f0eb768dc6d8658ab2f066b9567/README.md) |
 | `https://certificates.clearip.com/88814589-ad88-4c53-b3c3-47f8334afb98/854aa62142f243f9db35c64cc6e773d2.pem` | false | [view](REPOS/a5fb0a46096f6e3cca6d719588bb3076e9d1d1e7/README.md) |
 | `https://certificates.clearip.com/88814589-ad88-4c53-b3c3-47f8334afb98/a72ce147a40190cd16510eda1df57eb1.pem` | false | [view](REPOS/eebd9037790f6db09bd5bbc6f154518709c84c9c/README.md) |
@@ -295,6 +311,7 @@ No error, warning, or notice level issues were found
 | `https://certificates.clearip.com/b66a7496-cdd4-46e3-b219-cb0ecdc80d22/1925a83113629fb0818d64cdf29274e3.pem` | false | [view](REPOS/0864957c0b8cadf59ae59f8b431ac2d58a184d2a/README.md) |
 | `https://certificates.clearip.com/b66a7496-cdd4-46e3-b219-cb0ecdc80d22/23aa100ba148645352a6352cdc133a5e.pem` | false | [view](REPOS/80f92abdb1de89780d4b6307b10d1ad153cdad74/README.md) |
 | `https://certificates.clearip.com/b66a7496-cdd4-46e3-b219-cb0ecdc80d22/683b5c97b341c10e960f09e32c13d17b.pem` | false | [view](REPOS/80bab617238cccb938276a7c0eeb608d1cf97158/README.md) |
+| `https://certificates.clearip.com/b66a7496-cdd4-46e3-b219-cb0ecdc80d22/ae8b19b14797348b7b9d1f237389a600.pem` | false | [view](REPOS/f550a9545121cc0dba8158b03a46a55e2f18d030/README.md) |
 | `https://certificates.clearip.com/b66a7496-cdd4-46e3-b219-cb0ecdc80d22/dd9ef96fbf98f0935e2baf5a0813aabc.pem` | false | [view](REPOS/5e792d62975986f22a631b713d97338b70523ffc/README.md) |
 | `https://certificates.clearip.com/b66a7496-cdd4-46e3-b219-cb0ecdc80d22/f10a6e2814430717be9d18e253b564a3.pem` | false | [view](REPOS/d9e851c0d14343a776ad802c218d4bd5aae7b39f/README.md) |
 | `https://certificates.clearip.com/b7343686-5ed8-402c-89a3-8bf1a3d48975/1b6c455dcc3cd7586f99609b4a7291af.pem` | false | [view](REPOS/a846be8ea32e9dba50924144fe0ea8fa7142d74a/README.md) |
@@ -307,6 +324,7 @@ No error, warning, or notice level issues were found
 | `https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/3736b04dc42f5ada9a09a104fca6a61c.pem` | false | [view](REPOS/6c3c60b1a34113d1519ae10298617e016def6135/README.md) |
 | `https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/4bc18068b74d0d2f574c1bea82b0e453.pem` | false | [view](REPOS/04c342f8f91f20995f3d58e3a57337abf1f1cd8c/README.md) |
 | `https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/549c28c1f559ab7545480e687c43408c.pem` | false | [view](REPOS/0cb3ec04f96fd8a9f3189b80c5231d8fe1ee74db/README.md) |
+| `https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/6069f7cdd5fd3ad7d37bd989a1206f07.pem` | false | [view](REPOS/1544685a727c4e618942720b557d45bc08cd7d25/README.md) |
 | `https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/690275d12b70ee7b033eb8de3e54e555.pem` | false | [view](REPOS/c2c2d9929e0b86ad95c69b9f610ff9cd0c659c21/README.md) |
 | `https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/6d5eeee214304403134f6e741282e0ac.pem` | false | [view](REPOS/a2c18213cc63af64e03ac41b735f1349c09a7cda/README.md) |
 | `https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/7ff006ca94b186e33549b589f56c1eb3.pem` | false | [view](REPOS/ed704dd9cd09cd9a280baedf3e04c171b17ebe4a/README.md) |
@@ -341,6 +359,7 @@ No error, warning, or notice level issues were found
 | `https://certificates.clearip.com/d3d6dbfc-2914-49c7-8f47-d0aa5bd5d764/b9ac4c13c48a2c103d91a1737e93c52a.pem` | false | [view](REPOS/1513724434d08f646277ed1d48140bbfe2e3fd5c/README.md) |
 | `https://certificates.clearip.com/d3d6dbfc-2914-49c7-8f47-d0aa5bd5d764/bdae391ff1d6b514a957ad48fa3b4b62.pem` | false | [view](REPOS/8856c070b3abc8af37bcfea697ef8d6208b0a868/README.md) |
 | `https://certificates.clearip.com/d3d6dbfc-2914-49c7-8f47-d0aa5bd5d764/be6a0cd99d904f530d5ede656b9c3d7e.pem` | false | [view](REPOS/c2859e277659325a7b41e69ee8e39bb00f781b23/README.md) |
+| `https://certificates.clearip.com/d3d6dbfc-2914-49c7-8f47-d0aa5bd5d764/d53ddce85ddf77f55f2af0a000af5954.pem` | false | [view](REPOS/c1f41ed908fb0921487d2c7d343370c4ef3be65c/README.md) |
 | `https://certificates.clearip.com/d3d6dbfc-2914-49c7-8f47-d0aa5bd5d764/dc38b0fd62993a1abdc6f811e27be5ec.pem` | false | [view](REPOS/f749128a63f9b9d7931e57a25f976f8dcd2d8e4f/README.md) |
 | `https://certificates.clearip.com/d3d6dbfc-2914-49c7-8f47-d0aa5bd5d764/de647744f805e4eacf47dc53f10bbdeb.pem` | false | [view](REPOS/e7d4ca3b1e1bed2d5e963b73a1e1fd3be0c05f5f/README.md) |
 | `https://certificates.clearip.com/d3d6dbfc-2914-49c7-8f47-d0aa5bd5d764/e1e402e041580c6be1934b5db2f33984.pem` | false | [view](REPOS/2f560146fe9a2160929e755e060817aa7d9ab0ae/README.md) |
@@ -352,9 +371,11 @@ No error, warning, or notice level issues were found
 | `https://certificates.clearip.com/dcef9a97-b864-43ac-830b-2290a8d0f002/4498653f30a0807792d650aa85959a40.pem` | false | [view](REPOS/7bb9e98d21d9e82cf8b94636879b8e30b9cadf85/README.md) |
 | `https://certificates.clearip.com/dcef9a97-b864-43ac-830b-2290a8d0f002/6cbc48b81e9f047a5eabc057c2b439d8.pem` | false | [view](REPOS/996b252d3312a52c7e7298d11533d201bff2743c/README.md) |
 | `https://certificates.clearip.com/dcef9a97-b864-43ac-830b-2290a8d0f002/8bc01117af6f4610a8a145bb230bb0ad.pem` | false | [view](REPOS/f02455abcffc4ff771507236b2701f2dcc5f9f8a/README.md) |
+| `https://certificates.clearip.com/dcef9a97-b864-43ac-830b-2290a8d0f002/b90a187b03b16e914f21de97c093d8a7.pem` | false | [view](REPOS/2468b3b3c790884ebcfd59e90d7f2cce7e9d6f58/README.md) |
 | `https://certificates.clearip.com/dcef9a97-b864-43ac-830b-2290a8d0f002/e0d8a224d979aec6eae697266c6e8846.pem` | false | [view](REPOS/ad6275c279b956e3b13e64e5f1d00479b81c5303/README.md) |
 | `https://certificates.clearip.com/dcef9a97-b864-43ac-830b-2290a8d0f002/e914e86f4e1892badb7d2633f103dc41.pem` | false | [view](REPOS/e1884c10c54838f58e2f0d138bb9b209e64da6e9/README.md) |
 | `https://certificates.clearip.com/dcef9a97-b864-43ac-830b-2290a8d0f002/fd670ee0966d161a5cab78616bbb5670.pem` | false | [view](REPOS/94cbafd8c8ae80f383ac4047b2d7af6a229fd3b3/README.md) |
+| `https://certificates.clearip.com/e9497931-96b3-4ff8-8306-1b1273847a4d/01f76bf3d2bd85ef6fab416b0014162c.pem` | false | [view](REPOS/78130d90f6f54560fd1cfd92a94e48953231c03c/README.md) |
 | `https://certificates.clearip.com/e9497931-96b3-4ff8-8306-1b1273847a4d/0810de41cdb7434b7de395d8171ac181.pem` | false | [view](REPOS/435395919627dd2dfe7af3bec96b8f12eb6e88ae/README.md) |
 | `https://certificates.clearip.com/e9497931-96b3-4ff8-8306-1b1273847a4d/0876408ad67be9b55e0ff1dccdf26354.pem` | false | [view](REPOS/d7b36a4e8375e12f614f60c14ab05cdb76d2cfa2/README.md) |
 | `https://certificates.clearip.com/e9497931-96b3-4ff8-8306-1b1273847a4d/1299df638a754b6f8cb6b0830f5e9bdb.pem` | false | [view](REPOS/ef753d9bc1d27e06d69f2c3dfad6c341d91528c9/README.md) |
@@ -384,6 +405,7 @@ No error, warning, or notice level issues were found
 | `https://certificates.clearip.com/f8a68e44-8fb0-4f28-b533-c4df27ed8e1b/354c769d22cd45b0212ab4066361c36c.pem` | false | [view](REPOS/d82bd60c78b672a7827ca019ff1adc185a1fa85d/README.md) |
 | `https://certificates.clearip.com/f8a68e44-8fb0-4f28-b533-c4df27ed8e1b/476e7f530ea48cdafd20721f304908a0.pem` | false | [view](REPOS/def6370ab400d86708420793b054d0d1577e88c5/README.md) |
 | `https://certificates.clearip.com/f8a68e44-8fb0-4f28-b533-c4df27ed8e1b/66460689f3e8396462b1c10cf33ba262.pem` | false | [view](REPOS/c04d4ad8ad145f9fe16cfe2ef2b4731667508c01/README.md) |
+| `https://certificates.clearip.com/f8a68e44-8fb0-4f28-b533-c4df27ed8e1b/6ffbe25be27f39d7dd3bc794f94a31c9.pem` | false | [view](REPOS/f9eeac7248bba038cde3d93a94a77bdd9891a169/README.md) |
 | `https://certificates.clearip.com/f8a68e44-8fb0-4f28-b533-c4df27ed8e1b/7d433f8fe2c5066e7eb9f730ccfa4536.pem` | false | [view](REPOS/e87b903db43142fa1e600ae3434e0f561a78b6f3/README.md) |
 | `https://certificates.clearip.com/f8a68e44-8fb0-4f28-b533-c4df27ed8e1b/88f6786ec082e66500631a1e1424ce5f.pem` | false | [view](REPOS/791eb99e8e18fb6fdf05398c9dbfb25334863872/README.md) |
 | `https://certificates.clearip.com/f8a68e44-8fb0-4f28-b533-c4df27ed8e1b/92fd31c776ba1655cd3f0d61d72daa79.pem` | false | [view](REPOS/13d2c973defc95f2402cfe57be3d745500113cfb/README.md) |
@@ -417,9 +439,11 @@ No error, warning, or notice level issues were found
 | `https://certificates.clearip.com/fa6a5cd3-a6c2-4c98-9995-b87249365948/e6b47093e02dd20a27e84a10f0550ecb.pem` | false | [view](REPOS/6f65b0c8c867a8815227adb145b1eb166120fdaf/README.md) |
 | `https://certificates.clearip.com/fa6a5cd3-a6c2-4c98-9995-b87249365948/ee599abccf11f854c5a0e3d158066150.pem` | false | [view](REPOS/48477a3b48f2bab9c9bf468b2474093c29ad9fea/README.md) |
 | `https://certificates.clearip.com/fa6a5cd3-a6c2-4c98-9995-b87249365948/f58d1f2e2184ea623953eb150bdfb0f0.pem` | false | [view](REPOS/67d845688f12c21ac2d16f8d9b6e24be7355b8b2/README.md) |
+| `https://certificates.clearip.com/fa6a5cd3-a6c2-4c98-9995-b87249365948/f8b8f2936651f5314ef10dd49cbd3869.pem` | false | [view](REPOS/f845c417c42ef56d2b459496af0c6463bcc664eb/README.md) |
 | `https://certificates.clearip.com/transnexus/028fea0e03c28db631b53e6ebffddbe2.pem` | false | [view](REPOS/caa67c4fbe0d249d5e91d76f4aa9ad001296032e/README.md) |
 | `https://certificates.clearip.com/transnexus/068c80d28638962e7eda8a41e5215b49.pem` | false | [view](REPOS/b75ccefaf939bf412a3445232df530a7be045e1a/README.md) |
 | `https://certificates.clearip.com/transnexus/09e9e5dd4c064b12b506e6a532c4af01.pem` | false | [view](REPOS/2953ea58c3fd0adc0902eb0374371c07bc5c0746/README.md) |
+| `https://certificates.clearip.com/transnexus/19810caf2efdd60a9a70cbc853a0d39e.pem` | false | [view](REPOS/bfe96b85a961503d17f11ade67e972546e0fc6c6/README.md) |
 | `https://certificates.clearip.com/transnexus/25cdaea7fd01687e813b32406861e194.pem` | false | [view](REPOS/39be7a0f07bf639b6f3de26caeab6fc497f29b2d/README.md) |
 | `https://certificates.clearip.com/transnexus/265a58b0095a22a7943fc50a4e8872e0.pem` | false | [view](REPOS/acd95f0e46f35d50b17798f53ace12250d9b5453/README.md) |
 | `https://certificates.clearip.com/transnexus/2c27a9df6fc78d2ebfe2c2bbc3a20cf5.pem` | false | [view](REPOS/947980b8df9335c7082e45be5eb874d0a70e3f9b/README.md) |
@@ -450,6 +474,7 @@ No error, warning, or notice level issues were found
 | `https://certificates.transnexus.com/0172/cbcf3408-6748-4bd7-a9ff-8886d21b6824.pem` | false | [view](REPOS/cf515c52b66d7b0bcecd941b7ce46a3b8d94855b/README.md) |
 | `https://certificates.transnexus.com/0172/cd86ac8e-a3d6-4ea8-b839-f341f33b6ccd.pem` | false | [view](REPOS/89cef78084e8f9c3bfda892ad549b10ee57da7a0/README.md) |
 | `https://certificates.transnexus.com/0172/d1be3f78-bfc4-426b-8bd8-28bfd3a114db.pem` | false | [view](REPOS/3ba0f2befb0757e0c9127274bf091b50a1c3ef93/README.md) |
+| `https://certificates.transnexus.com/0172/fdc9ac0e-185f-4436-9108-950becfe91a9.pem` | false | [view](REPOS/9debd5c21e12ac7da061d837a43e435e48cd425d/README.md) |
 | `https://certificates.transnexus.com/031K/ba0288df-daa5-44b5-a1a3-3270140129ed.pem` | false | [view](REPOS/ccb3066282bd53200ec1246525503a3e5dc09fa2/README.md) |
 | `https://certificates.transnexus.com/066K/8d407530-1355-4576-8fa1-d7ad1efe4299.pem` | false | [view](REPOS/cb2eecee87932eb3a2ac83b86e47662454f3c907/README.md) |
 | `https://certificates.transnexus.com/073H/d89fe29a-1d12-4fe3-b002-f0dc1c09904d.pem` | false | [view](REPOS/b82e228a64f05c6e2b97433172368153ac183231/README.md) |
@@ -476,6 +501,7 @@ No error, warning, or notice level issues were found
 | `https://certificates.transnexus.com/345J/ddddd245-79a7-4779-a067-cc56739bf26b.pem` | false | [view](REPOS/d4a01cf6c7097dc08a79b4af7e980a8760825ada/README.md) |
 | `https://certificates.transnexus.com/505J/e7c8b693-b40a-4cfd-bd50-260db797f09b.pem` | false | [view](REPOS/3c2581fb30b913b013396af40abec84b91860bff/README.md) |
 | `https://certificates.transnexus.com/505J/ec7d1cb5-b714-4373-ad07-ef0e95a1e098.pem` | false | [view](REPOS/b9bfc51dcb47096ece81f3c51a73de8f15134e57/README.md) |
+| `https://certificates.transnexus.com/551G/0825639e-a50b-4b9f-a24c-3bc3d982dbc4.pem` | false | [view](REPOS/2fcd8890f5464c434a2e9e884622d16f12e38611/README.md) |
 | `https://certificates.transnexus.com/551G/1f8e3805-a178-47e6-8e1e-9b1d3d948e2b.pem` | false | [view](REPOS/596715256bbac12b07ee9174f5807bfaef2281fc/README.md) |
 | `https://certificates.transnexus.com/551G/2b7e29f8-7d04-4cac-8516-eaa9b06d8b36.pem` | false | [view](REPOS/64cefaf34555541991a6400cef6490336db3e016/README.md) |
 | `https://certificates.transnexus.com/551G/35fca9a0-d72b-46a4-8026-fc733ccc885e.pem` | false | [view](REPOS/31c414afdadd7fcbb6f3099602adb759fb5e3d7e/README.md) |
@@ -539,4 +565,4 @@ No error, warning, or notice level issues were found
 | `https://certificates.transnexus.com/952J/b81c5f3e-5577-44d2-a22e-5bcfb144b13e.pem` | false | [view](REPOS/93cf6db42066e90ae8fe18a6f8bddee4303a09e3/README.md) |
 
 
-Generated: 23 Nov 22 18:09 UTC
+Generated: 28 Nov 22 20:41 UTC

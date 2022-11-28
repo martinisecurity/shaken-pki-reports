@@ -21,6 +21,7 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 | error | RCN SHAKEN Cert 7615 | [view](../../CERTS/bbdec20ad80f4a2a8ed097204a9299566beca170460fb648c81a51d195d9b6f1/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Avid Communication SHAKEN Cert 742D | [view](../../CERTS/b63d54026dfcdfd16495ad6fdda8993de182c86b4aa870784177c38c53842cba/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Telesystem SHAKEN Cert 786E | [view](../../CERTS/2d9aca0895c94291596161363091718089a6e7c19dfa57329ae548432533860f/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| error | Northeast Oklahoma Electric Cooperative SHAKEN Cert 945H | [view](../../CERTS/b399b86f53e35dfa37c4cd7b28ee0132d934ef73354f564636d8edee42d58ccd/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Call48 SHAKEN Cert 505J | [view](../../CERTS/5bb4516a62167e6c55e9704e4a49b39ce9ec480e678aa6c02fb6985fc9594997/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Appalachian Wireless SHAKEN Cert 6940 | [view](../../CERTS/e14170c681e75c37d0ca45e304c09cc0d148246bd7d72e96f91f7a8fe27339fa/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Everstream SHAKEN Cert 472C  | [view](../../CERTS/8710bb38debebd39698fb1c273409b173951cca1fab53a6d4c4aca91e61e06df/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
@@ -48,4 +49,4 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 No error, warning, or notice level issues were found
 
 
-Generated: 23 Nov 22 18:09 UTC
+Generated: 28 Nov 22 20:41 UTC

@@ -9,21 +9,21 @@
 
 #### Leaf Certificates
 
-- 46 certificates were included in the corpus being tested
+- 47 certificates were included in the corpus being tested
 - 18 certificates in the corpus were skipped because they are duplicates
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 28 certificates being tested against the remaining rules
+- 29 certificates being tested against the remaining rules
 - 1.00 issues on average found in unexpired, trusted, and non-compliant certificates
 - 0.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
-- 17.86% of certificates contain one or more Notice level issue
+- 17.24% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
 - 95 days is the average remaining validity for the certificates in the corpus
-- 98 days is the average initial validity for the certificates in the corpus
-- 1 certificates expire in the next 30 days
-- 2.55 average number of unexpired certificates per OCN observed
-- 11 unique OCNs observed in unexpired and valid certificate corpus
+- 97 days is the average initial validity for the certificates in the corpus
+- 5 certificates expire in the next 30 days
+- 2.42 average number of unexpired certificates per OCN observed
+- 12 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -41,7 +41,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 33.33% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 5428 days is the average remaining validity for the certificates in the corpus
+- 5426 days is the average remaining validity for the certificates in the corpus
 - 4261 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -83,6 +83,7 @@
 | 18 Nov 22 16:55 UTC | SHAKEN 148K | false | [view](CERTS/5d69437cbe50c04f6704e2757d505efb74a203c1e4eed608374f4bcd0670e6ac/README.md) |
 | 18 Nov 22 18:56 UTC | SHAKEN 115K | false | [view](CERTS/874c25749b8deaeb272ce246241e9b3405c050b32adbf79ed922ff23a675de93/README.md) |
 | 21 Nov 22 22:30 UTC | SHAKEN 709J | false | [view](CERTS/4570376dae8fcd4c2df89429aac988c7c3f6f8eb8bf4de7f7ead3195fec45c29/README.md) |
+| 28 Nov 22 18:45 UTC | SHAKEN 110K | false | [view](CERTS/43e4066e1aaa9b942e351948de42e8bb478f16aa499c118b03e8793555feb806/README.md) |
 
 #### CA Certificates
 
@@ -93,4 +94,4 @@
 | 02 Oct 22 10:40 UTC | Martini Security SHAKEN G2 | false | [view](CERTS/bf818ddbd3ae492e4a85331b85b52f4d2cdef8287bf910b59e247b6c132fa7fd/README.md) |
 
 
-Generated: 23 Nov 22 18:09 UTC
+Generated: 28 Nov 22 20:41 UTC

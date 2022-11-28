@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 804J
 
-Tested At: 23 Nov 22 18:08 UTC\
+Tested At: 28 Nov 22 20:39 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 116 day(s)\
+Remaining Validity Period: 110 day(s)\
 Subject: CN=SHAKEN 804J, O=QuestBlue Systems Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://customer.questblue.com/assets/questblue_shaken.cer
@@ -18,4 +18,4 @@ Link: https://customer.questblue.com/assets/questblue_shaken.cer
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 23 Nov 22 18:09 UTC
+Generated: 28 Nov 22 20:41 UTC
