@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 747J
 
-Tested At: 30 Nov 22 15:51 UTC\
+Tested At: 30 Nov 22 17:25 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: 5 day(s)\
 Subject: CN=SHAKEN 747J, O=Magic Apple, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/9e31f6fe-cfd3-49cc-b9fc-22963012a8d7/92c6
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 30 Nov 22 16:07 UTC
+Generated: 30 Nov 22 17:39 UTC

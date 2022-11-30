@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Vinculum Communications, Inc 787J
 
-Tested At: 30 Nov 22 15:53 UTC\
+Tested At: 30 Nov 22 17:26 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 331 day(s)\
 Subject: CN=SHAKEN Vinculum Communications\\, Inc 787J, OU=Engineering, O=Vinculum Communications\\, Inc, ST=California, C=US\
@@ -13,11 +13,11 @@ Link: https://cr.sansay.com/Vinculum_Communications_Inc_787J
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 787J' |
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
-| [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 787J' |
-| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 30 Nov 22 16:07 UTC
+Generated: 30 Nov 22 17:39 UTC

@@ -9,16 +9,16 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 415ms average time it took to download each certificate
+- 380ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
 | 1 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
 | 1 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
-| Repository URLs | Problems | Link |
-|-----------------|----------|------|
-| `https://appreg.telcoportal.com/mobileapps/neustar/Microtalk-Shaken.pem` | true | [view](REPOS/ea154869e1c083d521781a64572b9e032c9a45e6/README.md) |
+| Repository URLs | Not After |  Problems | Link |
+|-----------------|-----------|-----------|------|
+| `https://appreg.telcoportal.com/mobileapps/neustar/Microtalk-Shaken.pem` | 20 Jan 23 17:34 UTC | true | [view](REPOS/ea154869e1c083d521781a64572b9e032c9a45e6/README.md) |
 
 
-Generated: 30 Nov 22 16:07 UTC
+Generated: 30 Nov 22 17:39 UTC

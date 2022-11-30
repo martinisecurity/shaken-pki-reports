@@ -9,16 +9,16 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 45ms average time it took to download each certificate
+- 29ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
 | 1 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
 | 1 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
-| Repository URLs | Problems | Link |
-|-----------------|----------|------|
-| `https://shaken.spectrum.com/cf1b3d3d-7f2b-42fd-a161-ebe61cd6565a.pem` | true | [view](REPOS/6512ce3f54c9208d018698f6aa3d26cc1eede387/README.md) |
+| Repository URLs | Not After |  Problems | Link |
+|-----------------|-----------|-----------|------|
+| `https://shaken.spectrum.com/cf1b3d3d-7f2b-42fd-a161-ebe61cd6565a.pem` | 02 Nov 22 16:40 UTC | true | [view](REPOS/6512ce3f54c9208d018698f6aa3d26cc1eede387/README.md) |
 
 
-Generated: 30 Nov 22 16:07 UTC
+Generated: 30 Nov 22 17:39 UTC

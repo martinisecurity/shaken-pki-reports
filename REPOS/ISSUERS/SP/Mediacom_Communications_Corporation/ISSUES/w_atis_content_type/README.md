@@ -7,9 +7,9 @@ Source: ATIS-1000080\
 Description: ATIS-1000080 separately indicates that the mime type should be application/pem-certificate-chain
 ### Repository URLs
 
-| Repository URLs | Problems | Link |
-|-----------------|----------|------|
-| `https://shaken.stir.mediacomcc.com/certs/mediacomcertchain.crt` | true | [view](../../REPOS/178d90525ad3207ba870f877ac6d2b9c69bb6cfa/README.md) |
+| Repository URLs | Not After |  Problems | Link |
+|-----------------|-----------|-----------|------|
+| `https://shaken.stir.mediacomcc.com/certs/mediacomcertchain.crt` | 26 May 24 13:28 UTC | true | [view](../../REPOS/178d90525ad3207ba870f877ac6d2b9c69bb6cfa/README.md) |
 
 
-Generated: 30 Nov 22 16:07 UTC
+Generated: 30 Nov 22 17:39 UTC

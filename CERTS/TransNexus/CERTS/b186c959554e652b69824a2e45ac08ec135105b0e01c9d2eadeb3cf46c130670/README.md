@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 505J
 
-Tested At: 30 Nov 22 15:51 UTC\
+Tested At: 30 Nov 22 17:25 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: 26 day(s)\
 Subject: CN=SHAKEN 505J, OU=SHAKEN, O=HFA Services LLC dba Call48, C=US\
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/505J/e7c8b693-b40a-4cfd-bd50-260db797f
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 30 Nov 22 16:07 UTC
+Generated: 30 Nov 22 17:39 UTC

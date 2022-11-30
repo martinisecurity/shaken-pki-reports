@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 235K
 
-Tested At: 30 Nov 22 15:52 UTC\
+Tested At: 30 Nov 22 17:25 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 212 day(s)\
 Subject: CN=SHAKEN 235K, O=TeligentIP Inc, C=US\
@@ -18,4 +18,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11544.10197
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 30 Nov 22 16:07 UTC
+Generated: 30 Nov 22 17:39 UTC

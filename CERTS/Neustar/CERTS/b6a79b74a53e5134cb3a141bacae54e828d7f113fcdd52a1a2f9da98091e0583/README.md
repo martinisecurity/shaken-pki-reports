@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 197D
 
-Tested At: 30 Nov 22 15:52 UTC\
+Tested At: 30 Nov 22 17:25 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 342 day(s)\
 Subject: CN=SHAKEN 197D, O=Vonage, C=US\
@@ -16,4 +16,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11053.10194
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 30 Nov 22 16:07 UTC
+Generated: 30 Nov 22 17:39 UTC

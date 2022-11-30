@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 755J
 
-Tested At: 30 Nov 22 15:51 UTC\
+Tested At: 30 Nov 22 17:25 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 205 day(s)\
 Subject: CN=SHAKEN 755J, OU=SHAKEN, O=CMS Internet, C=US\
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/755J/5e526fc6-7b0a-43a5-bb13-263d7edc7
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 30 Nov 22 16:07 UTC
+Generated: 30 Nov 22 17:39 UTC

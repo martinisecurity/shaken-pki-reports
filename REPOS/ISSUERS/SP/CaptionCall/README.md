@@ -9,16 +9,16 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 301ms average time it took to download each certificate
+- 167ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
 | 1 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
 | 1 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
-| Repository URLs | Problems | Link |
-|-----------------|----------|------|
-| `https://api.alianza.com/v2/stir-shaken/certs/2dd72c30-5e06-49a5-bbec-fff3cdf9444b/key.crt` | true | [view](REPOS/57ff54e4f94e9b182c76c6155abcae50f378c655/README.md) |
+| Repository URLs | Not After |  Problems | Link |
+|-----------------|-----------|-----------|------|
+| `https://api.alianza.com/v2/stir-shaken/certs/2dd72c30-5e06-49a5-bbec-fff3cdf9444b/key.crt` | 30 Mar 23 22:53 UTC | true | [view](REPOS/57ff54e4f94e9b182c76c6155abcae50f378c655/README.md) |
 
 
-Generated: 30 Nov 22 16:07 UTC
+Generated: 30 Nov 22 17:39 UTC

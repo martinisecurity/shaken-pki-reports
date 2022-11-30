@@ -7,11 +7,11 @@
 - 1190 repository URLs were included in the corpus being tested
 - 150 repository URLs in the corpus were skipped because they were duplicated
 - 1040 repository URLs being tested against the remaining rules
-- 1.63 issues on average found in non-compliant certificate repository URLs
+- 1.64 issues on average found in non-compliant certificate repository URLs
 - 24.81% of repository URLs contain one or more Error level issue
 - 41.06% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 409ms average time it took to download each certificate
+- 392ms average time it took to download each certificate
 
 ### CA Operated Repository URLs
 
@@ -22,18 +22,18 @@
 - 19.02% of repository URLs contain one or more Error level issue
 - 36.68% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 426ms average time it took to download each certificate
+- 411ms average time it took to download each certificate
 
 ### Service Provider Operated Repository URLs
 
 - 99 repository URLs were included in the corpus being tested
 - 16 repository URLs in the corpus were skipped because they were duplicated
 - 83 repository URLs being tested against the remaining rules
-- 2.09 issues on average found in non-compliant certificate repository URLs
+- 2.10 issues on average found in non-compliant certificate repository URLs
 - 91.57% of repository URLs contain one or more Error level issue
 - 91.57% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 214ms average time it took to download each certificate
+- 168ms average time it took to download each certificate
 
 ## Details
 
@@ -70,7 +70,6 @@
 | [Bandwidth.com CLEC LLC](ISSUERS/SP/Bandwidth.com_CLEC_LLC/README.md) | 1 (1.20%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Bulk Solutions, LLC](ISSUERS/SP/Bulk_Solutions,_LLC/README.md) | 1 (1.20%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [CaptionCall](ISSUERS/SP/CaptionCall/README.md) | 1 (1.20%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [Charter Communications Inc SHAKEN 5606](ISSUERS/SP/Charter_Communications_Inc_SHAKEN_5606/README.md) | 1 (1.20%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Clearly IP](ISSUERS/SP/Clearly_IP/README.md) | 1 (1.20%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) |
 | [Commio](ISSUERS/SP/Commio/README.md) | 1 (1.20%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Contact Center Specialists LLC](ISSUERS/SP/Contact_Center_Specialists_LLC/README.md) | 1 (1.20%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -118,7 +117,7 @@
 | [TextNow Inc.](ISSUERS/SP/TextNow_Inc./README.md) | 1 (1.20%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [TransNexus](ISSUERS/SP/TransNexus/README.md) | 1 (1.20%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [U. S. Telepacific Corp](ISSUERS/SP/U._S._Telepacific_Corp/README.md) | 1 (1.20%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [Unknown](ISSUERS/SP/Unknown/README.md) | 4 (4.82%) | 4 (100.00%) | 3 (75.00%) | 0 (0.00%) |
+| [Unknown](ISSUERS/SP/Unknown/README.md) | 5 (6.02%) | 5 (100.00%) | 4 (80.00%) | 0 (0.00%) |
 | [VOIP ESSENTIAL INC](ISSUERS/SP/VOIP_ESSENTIAL_INC/README.md) | 0 (0.00%) | 0 (NaN%) | 0 (NaN%) | 0 (NaN%) |
 | [Verizon Data Services LLC](ISSUERS/SP/Verizon_Data_Services_LLC/README.md) | 1 (1.20%) | 0 (0.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Vibratel](ISSUERS/SP/Vibratel/README.md) | 1 (1.20%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -143,4 +142,4 @@
 | Notices | Tests in which industry best practices are not followed. |
 
 
-Generated: 30 Nov 22 16:07 UTC
+Generated: 30 Nov 22 17:39 UTC

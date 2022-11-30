@@ -7,9 +7,9 @@ Source: ATIS-1000074\
 Description: The STI-VS shall implement the cache behavior described in RFC7234. If the HTTP response does not include any recognized caching directives or indicates caching for less than 24 hours, then the STI-VS should cache the HTTP response for 24 hours
 ### Repository URLs
 
-| Repository URLs | Problems | Link |
-|-----------------|----------|------|
-| `https://stir-shaken.jnctn.net/onsip-stir-shaken.pem` | true | [view](../../REPOS/0dcdc70177862a9d56e8223d801094e7df66e553/README.md) |
+| Repository URLs | Not After |  Problems | Link |
+|-----------------|-----------|-----------|------|
+| `https://stir-shaken.jnctn.net/onsip-stir-shaken.pem` | 24 Jun 23 19:58 UTC | true | [view](../../REPOS/0dcdc70177862a9d56e8223d801094e7df66e553/README.md) |
 
 
-Generated: 30 Nov 22 16:07 UTC
+Generated: 30 Nov 22 17:39 UTC

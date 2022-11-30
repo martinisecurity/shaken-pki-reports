@@ -7,9 +7,9 @@ Source: ATIS-1000080\
 Description: ATIS-1000080 separately indicates that the mime type should be application/pem-certificate-chain
 ### Repository URLs
 
-| Repository URLs | Problems | Link |
-|-----------------|----------|------|
-| `https://pki.tncp.textnow.com/prod/stir-shaken-textnow-cert.pem` | true | [view](../../REPOS/6e88fcb04e42a6fa1baa49c91a4729df6aaac2c0/README.md) |
+| Repository URLs | Not After |  Problems | Link |
+|-----------------|-----------|-----------|------|
+| `https://pki.tncp.textnow.com/prod/stir-shaken-textnow-cert.pem` | 12 Sep 23 19:52 UTC | true | [view](../../REPOS/6e88fcb04e42a6fa1baa49c91a4729df6aaac2c0/README.md) |
 
 
-Generated: 30 Nov 22 16:07 UTC
+Generated: 30 Nov 22 17:39 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN
 
-Tested At: 30 Nov 22 15:51 UTC\
+Tested At: 30 Nov 22 17:25 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 300 day(s)\
 Subject: C=US, ST=CA, L=Los Alamitos, O=Piratel LLC, OU=VOIP, CN=SHAKEN\
@@ -37,4 +37,4 @@ Link: https://certificates.piratel.com/piratel_20201008_49b10950e1.crt
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 30 Nov 22 16:07 UTC
+Generated: 30 Nov 22 17:39 UTC

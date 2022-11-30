@@ -9,16 +9,16 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 124ms average time it took to download each certificate
+- 117ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
 | 1 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
 | 1 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
-| Repository URLs | Problems | Link |
-|-----------------|----------|------|
-| `https://app.connexcs.com/api/stir-shaken/cert/45.crt` | true | [view](REPOS/2260b336dfad8a7a8197566bbca1f4ce46bb7dea/README.md) |
+| Repository URLs | Not After |  Problems | Link |
+|-----------------|-----------|-----------|------|
+| `https://app.connexcs.com/api/stir-shaken/cert/45.crt` | 09 Dec 22 18:49 UTC | true | [view](REPOS/2260b336dfad8a7a8197566bbca1f4ce46bb7dea/README.md) |
 
 
-Generated: 30 Nov 22 16:07 UTC
+Generated: 30 Nov 22 17:39 UTC

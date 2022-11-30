@@ -7,9 +7,9 @@ Source: ATIS-1000080\
 Description: The verifier should not dereference any protocol other than https or a port other than 443 or 8443
 ### Repository URLs
 
-| Repository URLs | Problems | Link |
-|-----------------|----------|------|
-| `http://prod001-cr.rbbnidhub.com/MU7B8iqMRz/sign-cert1` | true | [view](../../REPOS/522ecf70744a0db033cbdbf68392c8ec6076f6d2/README.md) |
+| Repository URLs | Not After |  Problems | Link |
+|-----------------|-----------|-----------|------|
+| `http://prod001-cr.rbbnidhub.com/MU7B8iqMRz/sign-cert1` | 07 May 24 14:09 UTC | true | [view](../../REPOS/522ecf70744a0db033cbdbf68392c8ec6076f6d2/README.md) |
 
 
-Generated: 30 Nov 22 16:07 UTC
+Generated: 30 Nov 22 17:39 UTC

@@ -9,16 +9,16 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 101ms average time it took to download each certificate
+- 53ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
 | 1 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
 | 1 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
-| Repository URLs | Problems | Link |
-|-----------------|----------|------|
-| `https://certificate.zt.plivo.com/cert09062023.crt` | true | [view](REPOS/baa1251ebc3270e2f29ebe74c432d508093954f3/README.md) |
+| Repository URLs | Not After |  Problems | Link |
+|-----------------|-----------|-----------|------|
+| `https://certificate.zt.plivo.com/cert09062023.crt` | 09 Jun 23 00:00 UTC | true | [view](REPOS/baa1251ebc3270e2f29ebe74c432d508093954f3/README.md) |
 
 
-Generated: 30 Nov 22 16:07 UTC
+Generated: 30 Nov 22 17:39 UTC

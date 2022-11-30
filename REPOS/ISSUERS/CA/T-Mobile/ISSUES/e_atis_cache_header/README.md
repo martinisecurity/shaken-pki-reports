@@ -7,10 +7,10 @@ Source: ATIS-1000074\
 Description: The STI-VS shall implement the cache behavior described in RFC7234. If the HTTP response does not include any recognized caching directives or indicates caching for less than 24 hours, then the STI-VS should cache the HTTP response for 24 hours
 ### Repository URLs
 
-| Repository URLs | Problems | Link |
-|-----------------|----------|------|
-| `https://t-mobile-sticr.fosrvt.com/88a8e33055e725475530660e5d6c40d6adbe37ab7ae0ecc64b50205629548ae9.pem` | true | [view](../../REPOS/ea99aa70f8c752e1411092cadceb10353449060b/README.md) |
-| `https://t-mobile-sticr.fosrvt.com/d1ed2fcf74511801e3df6deffbf762b764221487a8305a7da32e9efab2cbf358.pem` | true | [view](../../REPOS/c3d21a275a9c628e0633a6c0dfd0c30d6579d11c/README.md) |
+| Repository URLs | Not After |  Problems | Link |
+|-----------------|-----------|-----------|------|
+| `https://t-mobile-sticr.fosrvt.com/88a8e33055e725475530660e5d6c40d6adbe37ab7ae0ecc64b50205629548ae9.pem` | 14 Jul 23 21:35 UTC | true | [view](../../REPOS/ea99aa70f8c752e1411092cadceb10353449060b/README.md) |
+| `https://t-mobile-sticr.fosrvt.com/d1ed2fcf74511801e3df6deffbf762b764221487a8305a7da32e9efab2cbf358.pem` | 01 Nov 23 14:16 UTC | true | [view](../../REPOS/c3d21a275a9c628e0633a6c0dfd0c30d6579d11c/README.md) |
 
 
-Generated: 30 Nov 22 16:07 UTC
+Generated: 30 Nov 22 17:39 UTC
