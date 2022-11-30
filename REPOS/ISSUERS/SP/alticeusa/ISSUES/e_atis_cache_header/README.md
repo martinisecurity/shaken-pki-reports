@@ -12,4 +12,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://cr.ccid.alticeusa.com/ccid/authn/v2/certs/11011.10003` | true | [view](../../REPOS/7c63763489db5a31328fcb1d5566d2a3d1ac741f/README.md) |
 
 
-Generated: 28 Nov 22 20:41 UTC
+Generated: 30 Nov 22 16:07 UTC

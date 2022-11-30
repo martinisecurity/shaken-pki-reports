@@ -2,9 +2,9 @@
 
 ## Certificate Utility SHAKEN Cert 9262
 
-Tested At: 28 Nov 22 20:40 UTC\
+Tested At: 30 Nov 22 16:03 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 579 day(s)\
+Remaining Validity Period: 578 day(s)\
 Subject: CN=Utility SHAKEN Cert 9262, O=Utility Telecom Group\\, LLC, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://sti-cr.cgah.tnsi.com/certs/9da57471f2181f41af029f868fb29eb79e8af233
@@ -13,10 +13,10 @@ Link: https://sti-cr.cgah.tnsi.com/certs/9da57471f2181f41af029f868fb29eb79e8af23
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_issuer_dn](../../ISSUES/e_atis_issuer_dn/README.md) | error | ATIS1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 | [e_atis_key_usage](../../ISSUES/e_atis_key_usage/README.md) | error | ATIS1000080 | The Key Usage extension shall contain a single key usage value of digitalSignature |
-| [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| [e_atis_issuer_dn](../../ISSUES/e_atis_issuer_dn/README.md) | error | ATIS1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
 ### Not Effective
 
@@ -28,4 +28,4 @@ Link: https://sti-cr.cgah.tnsi.com/certs/9da57471f2181f41af029f868fb29eb79e8af23
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 22 20:41 UTC
+Generated: 30 Nov 22 16:07 UTC

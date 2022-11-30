@@ -9,9 +9,9 @@
 
 #### Leaf Certificates
 
-- 11 certificates were included in the corpus being tested
+- 8 certificates were included in the corpus being tested
 - 1 certificates in the corpus were skipped because they are duplicates
-- 3 certificates in the corpus were skipped because they are expired
+- 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
 - 7 certificates being tested against the remaining rules
 - 3.14 issues on average found in unexpired, trusted, and non-compliant certificates
@@ -19,7 +19,7 @@
 - 14.29% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 253 days is the average remaining validity for the certificates in the corpus
+- 252 days is the average remaining validity for the certificates in the corpus
 - 286 days is the average initial validity for the certificates in the corpus
 - 1 certificates expire in the next 30 days
 - 1.00 average number of unexpired certificates per OCN observed
@@ -76,4 +76,4 @@
 | 22 Jun 22 22:45 UTC | Peeringhub Inc SHAKEN Intermediate CA 2 | true | [view](CERTS/f00871963a40b04269c4b019968e42f9f40964cbfb512ff5342307e9942874ce/README.md) |
 
 
-Generated: 28 Nov 22 20:41 UTC
+Generated: 30 Nov 22 16:07 UTC

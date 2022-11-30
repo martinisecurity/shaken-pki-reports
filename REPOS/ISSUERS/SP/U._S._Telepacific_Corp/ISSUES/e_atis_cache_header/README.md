@@ -12,4 +12,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://qcall.meta.tpx.net/certs/shaken_cacert.crt` | true | [view](../../REPOS/135ba22af33ee37bfbe885e30a8b6e1084f02cca/README.md) |
 
 
-Generated: 28 Nov 22 20:41 UTC
+Generated: 30 Nov 22 16:07 UTC

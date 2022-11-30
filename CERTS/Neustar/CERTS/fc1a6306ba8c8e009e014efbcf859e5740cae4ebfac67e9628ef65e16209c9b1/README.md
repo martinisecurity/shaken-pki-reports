@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 219K
 
-Tested At: 28 Nov 22 20:39 UTC\
+Tested At: 30 Nov 22 15:52 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 263 day(s)\
+Remaining Validity Period: 262 day(s)\
 Subject: CN=SHAKEN 219K, O=Avaya Cloud Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11553.10201
@@ -14,8 +14,8 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11553.10201
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 28 Nov 22 20:41 UTC
+Generated: 30 Nov 22 16:07 UTC

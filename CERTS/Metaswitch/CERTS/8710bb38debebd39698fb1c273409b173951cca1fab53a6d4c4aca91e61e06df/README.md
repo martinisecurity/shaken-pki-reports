@@ -2,9 +2,9 @@
 
 ## Certificate Everstream SHAKEN Cert 472C 
 
-Tested At: 28 Nov 22 20:40 UTC\
+Tested At: 30 Nov 22 15:57 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 539 day(s)\
+Remaining Validity Period: 537 day(s)\
 Subject: CN=Everstream SHAKEN Cert 472C\\ , O=Everstream, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://sti-cr.cgah.tnsi.com/certs/5dc472732f3dd53854a5183f1dadceeb6127fac7
@@ -28,4 +28,4 @@ Link: https://sti-cr.cgah.tnsi.com/certs/5dc472732f3dd53854a5183f1dadceeb6127fac
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 22 20:41 UTC
+Generated: 30 Nov 22 16:07 UTC

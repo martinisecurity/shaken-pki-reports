@@ -2,19 +2,19 @@
 
 ## Comcast
 
-- 78 repository URLs were included in the corpus being tested
+- 79 repository URLs were included in the corpus being tested
 - 0 repository URLs in the corpus were skipped because they were duplicated
-- 78 repository URLs being tested against the remaining rules
+- 79 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 89ms average time it took to download each certificate
+- 10ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 78 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
-| 78 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 79 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
+| 79 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
 | Repository URLs | Problems | Link |
 |-----------------|----------|------|
@@ -67,6 +67,7 @@
 | `https://sticr.stir.comcast.com/9b94630c-c220-4f42-85d4-9cdb6d6c3302.cer` | true | [view](REPOS/374c06d0aa8a3fac8da7409bd376cdcee984950f/README.md) |
 | `https://sticr.stir.comcast.com/a08aaa95-a740-4271-9688-966b04d17b57.cer` | true | [view](REPOS/9c4d63614ae54ba000ec6058bf03a9d8c968617f/README.md) |
 | `https://sticr.stir.comcast.com/a178dd35-f3ff-4671-98b7-11d95cff2bbd.cer` | true | [view](REPOS/e0e83470571dfeadc96d82e2d55e13ff38fe55b9/README.md) |
+| `https://sticr.stir.comcast.com/a4e76cc7-ee95-44e1-804c-156afe197be6.cer` | true | [view](REPOS/53d0c93b498190c61dbb23b8bc7c2677aad062ff/README.md) |
 | `https://sticr.stir.comcast.com/a8412a41-71c1-4744-9047-dd3c11f3b67e.cer` | true | [view](REPOS/0a50cb331d79d8850bc2219cbd328feac4b9e66a/README.md) |
 | `https://sticr.stir.comcast.com/aa78138c-09eb-4cb9-8f3e-e2df9ca61c97.cer` | true | [view](REPOS/5c90dd668d778987fa67edf548820153562105e0/README.md) |
 | `https://sticr.stir.comcast.com/ab5ccc85-afe6-4966-8c97-22daf388cfbd.cer` | true | [view](REPOS/e535c71b213603b7594b35c95be077132a12990c/README.md) |
@@ -98,4 +99,4 @@
 | `https://sticr.stir.comcast.com/ff4f3455-b2b0-4f18-9435-ef5fa9a58b9f.cer` | true | [view](REPOS/abb5d20577a6b6bfd7727965fd4a8466601d4de0/README.md) |
 
 
-Generated: 28 Nov 22 20:41 UTC
+Generated: 30 Nov 22 16:07 UTC

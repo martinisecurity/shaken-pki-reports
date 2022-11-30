@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://dial.maqssolution.live/255KN22.pem`\
-Tested At: 28 Nov 22 20:39 UTC\
-Time: 117ms
+Tested At: 30 Nov 22 15:54 UTC\
+Time: 93ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 117ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 28 Nov 22 20:41 UTC
+Generated: 30 Nov 22 16:07 UTC

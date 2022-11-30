@@ -2,19 +2,19 @@
 
 ## Metaswitch
 
-- 24 repository URLs were included in the corpus being tested
+- 25 repository URLs were included in the corpus being tested
 - 0 repository URLs in the corpus were skipped because they were duplicated
-- 24 repository URLs being tested against the remaining rules
+- 25 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 657ms average time it took to download each certificate
+- 15012ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 24 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
-| 24 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 25 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
+| 25 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
 | Repository URLs | Problems | Link |
 |-----------------|----------|------|
@@ -42,6 +42,7 @@
 | `https://sti-cr.cgah.tnsi.com/certs/de39b976c7549358da256530d81cfb1f446a2583` | true | [view](REPOS/5b6aeeae4a284e7607c4cb9d696247d8dce1a428/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/ef7499777a884734baaa98de26c0caed26fe57be` | true | [view](REPOS/2848f6a1176bf7c747778b0d50732aa5d14ec914/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/f63503c138e2b55933317f09cc5a1cc4e8a3de1d` | true | [view](REPOS/676b9edaf7d6bc97061ccc8ec6b080062fecef3d/README.md) |
+| `https://sti-cr.cgah.tnsi.com/certs/f786e53509092c8a45b19b7dcd6886b5316d333b` | true | [view](REPOS/f093f80e75520d517ab1c0a6c1f4c24a9ef28580/README.md) |
 
 
-Generated: 28 Nov 22 20:41 UTC
+Generated: 30 Nov 22 16:07 UTC

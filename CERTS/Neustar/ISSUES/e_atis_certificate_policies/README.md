@@ -41,7 +41,6 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 | error | SHAKEN 709J | [view](../../CERTS/a371d70a1b505735b513c7488d811eb869c801aa246cfc1424db1e373b579f34/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN 712J | [view](../../CERTS/869b4bd6e2405b41153c7a848f5585a914e488fab44fb7ebb556f91c2ab07df4/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN 554J | [view](../../CERTS/48e98eb1d0597ad80afaba38213dc9da04352e1ca69b6e98b56d4d556c35b354/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| error | SHAKEN 506J | [view](../../CERTS/00635768d8b9c2e0fc7fd4d35c6c192107102b0f4ba22ddf9c0c5c76ee257d32/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | BigRiverTelephoneCompany | [view](../../CERTS/9efdf79a4d93cef188ca8bc8dd4ce626a21813ed665bf108d74ff1f0158caf24/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 | error | Ringcentral-ProdKeystore | [view](../../CERTS/043a925e40a83e722da0360f49488513cd8d8cfadbea2469800e80a673541fc4/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 | error | SHAKEN 7076 | [view](../../CERTS/b5d337b8c8cefb9cc1e58810950d114f115a61f3ada1acd8c3634397e884ec7c/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
@@ -105,4 +104,4 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 No error, warning, or notice level issues were found
 
 
-Generated: 28 Nov 22 20:41 UTC
+Generated: 30 Nov 22 16:07 UTC

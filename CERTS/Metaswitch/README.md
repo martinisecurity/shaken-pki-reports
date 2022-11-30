@@ -9,30 +9,30 @@
 
 #### Leaf Certificates
 
-- 31 certificates were included in the corpus being tested
+- 32 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 31 certificates being tested against the remaining rules
+- 32 certificates being tested against the remaining rules
 - 4.16 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
-- 3.23% of certificates contain one or more Warning level issue
+- 3.12% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
-- 90.32% of certificates are too old to be assessed against currently enforced expectations
+- 90.62% of certificates are too old to be assessed against currently enforced expectations
 - 1075 days is the average remaining validity for the certificates in the corpus
 - 1095 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 - 1.00 average number of unexpired certificates per OCN observed
-- 31 unique OCNs observed in unexpired and valid certificate corpus
+- 32 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 31 | [e_atis_issuer_dn](ISSUES/e_atis_issuer_dn/README.md) | ATIS1000080 |
-| 31 | [e_atis_key_usage](ISSUES/e_atis_key_usage/README.md) | ATIS1000080 |
+| 32 | [e_atis_issuer_dn](ISSUES/e_atis_issuer_dn/README.md) | ATIS1000080 |
+| 32 | [e_atis_key_usage](ISSUES/e_atis_key_usage/README.md) | ATIS1000080 |
 | 1 | [e_atis_subject](ISSUES/e_atis_subject/README.md) | ATIS1000080 |
 | 3 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
-| 31 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 31 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 32 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
+| 32 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
 | 1 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
@@ -75,6 +75,7 @@
 | 07 Apr 21 16:44 UTC | U. S. Telepacific Corp SHAKEN 7453 | true | [view](CERTS/9ed03dac797a5a27d52aa5209a4caa6a3ec9c3943d55a2cbfb69416480787da0/README.md) |
 | 16 Apr 21 15:27 UTC | CBTS Technology Solutions SHAKEN Cert 600F | true | [view](CERTS/3d02021a2da14f1ebfe588256a419be9ebc03c0d1fccc51cc29fa9d4a625c6bf/README.md) |
 | 30 Apr 21 17:05 UTC | Hunter Communications Shaken Cert 660C | true | [view](CERTS/0d2022504ffa5407f662990a785786cb0da72ce014838e2cffdcd95cb70c6f64/README.md) |
+| 05 May 21 21:02 UTC | American Broadband SHAKEN Cert 355D | true | [view](CERTS/f2fe275fba183def77918369f90d81bc080f1ef58c5422620c3dc45140b2ae75/README.md) |
 | 18 May 21 13:14 UTC | Segra SHAKEN Cert 1784 | true | [view](CERTS/f802b8b879d063b87665d8b2a67f6d3ba78a94aa35782f664a6a40afc7586f56/README.md) |
 | 18 May 21 13:22 UTC | Viaero Wireless SHAKEN Cert 6874 | true | [view](CERTS/fe826427006707276b684368c81c7b2039d4ce72b25c5cf0a0c039993b026573/README.md) |
 | 20 May 21 22:04 UTC | Appalachian Wireless SHAKEN Cert 6940 | true | [view](CERTS/e14170c681e75c37d0ca45e304c09cc0d148246bd7d72e96f91f7a8fe27339fa/README.md) |
@@ -101,4 +102,4 @@
 | 25 Nov 20 11:57 UTC | Metaswitch STI-CA SHAKEN Issuing 1 | true | [view](CERTS/b91a9874fbefc3feda9d5f9bd336e8b999c9b15b25aae7fe3c61d87373a5d1a1/README.md) |
 
 
-Generated: 28 Nov 22 20:41 UTC
+Generated: 30 Nov 22 16:07 UTC

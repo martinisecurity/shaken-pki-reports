@@ -12,4 +12,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://appreg.telcoportal.com/mobileapps/neustar/Microtalk-Shaken.pem` | true | [view](../../REPOS/ea154869e1c083d521781a64572b9e032c9a45e6/README.md) |
 
 
-Generated: 28 Nov 22 20:41 UTC
+Generated: 30 Nov 22 16:07 UTC

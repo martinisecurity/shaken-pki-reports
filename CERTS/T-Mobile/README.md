@@ -19,7 +19,7 @@
 - 100.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 357 days is the average remaining validity for the certificates in the corpus
+- 356 days is the average remaining validity for the certificates in the corpus
 - 366 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 - 2.00 average number of unexpired certificates per OCN observed
@@ -75,4 +75,4 @@
 | 27 Oct 22 21:18 UTC | TMOBILE-PROD-SUB-STIRSHAKEN-EC | true | [view](CERTS/a22dda815630c32b2fa32fb3483ded024fe4d333b6865bf47dbb00a5194472ad/README.md) |
 
 
-Generated: 28 Nov 22 20:41 UTC
+Generated: 30 Nov 22 16:07 UTC

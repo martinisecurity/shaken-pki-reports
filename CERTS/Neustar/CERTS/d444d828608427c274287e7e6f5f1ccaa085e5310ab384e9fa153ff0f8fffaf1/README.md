@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0348
 
-Tested At: 28 Nov 22 20:39 UTC\
+Tested At: 30 Nov 22 15:54 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 220 day(s)\
+Remaining Validity Period: 218 day(s)\
 Subject: CN=SHAKEN 0348, O=Bulloch County Rural Telephone Cooperative Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/Pl0wdQeMRz/STI20220348
@@ -13,9 +13,9 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/Pl0wdQeMRz/STI20220348
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 28 Nov 22 20:41 UTC
+Generated: 30 Nov 22 16:07 UTC
