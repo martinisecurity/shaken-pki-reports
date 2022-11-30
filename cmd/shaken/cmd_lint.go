@@ -246,10 +246,13 @@ func RunLintCommand(args *LintCommandArgs) error {
 		item.Url = u
 
 		// lint URL
+		timeStart := time.Now()
 		fmt.Println("Lint URL")
 		fmt.Printf("  URL: %s\n", u.String())
 		item.SetUrlResult(uLinter.LintUrl(u))
 		fmt.Printf("  Status: %d\n", item.UrlResult.StatusCode)
+		timeEnd := time.Now()
+		fmt.Printf("  Time: %dms\n", int(timeEnd.Sub(timeStart).Milliseconds()))
 		if item.UrlResult.StatusCode != 200 {
 			continue
 		}
