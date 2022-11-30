@@ -488,14 +488,19 @@ func PrintRepositoryIssuerProblemReport(w io.Writer, issuer *RepositoryIssuerRep
 }
 
 func PrintRepositories(w io.Writer, r []*LintCommandItem, basePath string) {
-	fmt.Fprintln(w, "| Repository URLs | Problems | Link |")
-	fmt.Fprintln(w, "|-----------------|----------|------|")
+	fmt.Fprintln(w, "| Repository URLs | Not After |  Problems | Link |")
+	fmt.Fprintln(w, "|-----------------|-----------|-----------|------|")
 	sort.Slice(r[:], func(i, j int) bool {
 		return r[i].Url.String() < r[j].Url.String()
 	})
 	for _, v := range r {
-		fmt.Fprintf(w, "| %s | %t | %s |\n",
+		notAfter := ""
+		if v.Certificate != nil {
+			notAfter = v.Certificate.NotAfter.Format(time.RFC822)
+		}
+		fmt.Fprintf(w, "| %s | %s | %t | %s |\n",
 			fmt.Sprintf("`%s`", v.Url),
+			notAfter,
 			v.UrlResult.HasErrors || v.UrlResult.HasWarnings || v.UrlResult.HasNotices,
 			fmt.Sprintf("[view](%s)", path.Join(basePath, getRepositoryId(v.Url), "README.md")),
 		)
