@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 845J
 
-Tested At: 30 Nov 22 17:24 UTC\
+Tested At: 30 Nov 22 18:14 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 175 day(s)\
 Subject: CN=SHAKEN 845J, O=Dialect\\, LLC, C=US\
@@ -18,4 +18,4 @@ Link: https://app.batchdialer.com/shakenv2.crt
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 30 Nov 22 17:39 UTC
+Generated: 30 Nov 22 18:29 UTC

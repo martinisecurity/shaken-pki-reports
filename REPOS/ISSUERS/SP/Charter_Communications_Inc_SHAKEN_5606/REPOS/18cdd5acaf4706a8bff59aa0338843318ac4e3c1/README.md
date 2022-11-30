@@ -1,10 +1,10 @@
 # STIR/SHAKEN Certificate Repository Compliance
 
-## Unknown
+## Charter Communications Inc SHAKEN 5606
 
 Name: `https://shaken.spectrum.com/4d65efdb8a1ca366e9576c8fda747fa4.pem`\
-Tested At: 30 Nov 22 17:27 UTC\
-Time: 375ms
+Tested At: 30 Nov 22 18:16 UTC\
+Time: 236ms
 
 ### Issues
 
@@ -12,6 +12,5 @@ Time: 375ms
 |------|------|--------|---------|
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
-| [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 30 Nov 22 17:39 UTC
+Generated: 30 Nov 22 18:29 UTC

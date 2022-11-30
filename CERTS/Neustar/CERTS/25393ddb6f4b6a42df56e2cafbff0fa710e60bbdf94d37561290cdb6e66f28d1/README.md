@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 500J
 
-Tested At: 30 Nov 22 17:27 UTC\
+Tested At: 30 Nov 22 18:16 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 274 day(s)\
 Subject: CN=SHAKEN 500J, O=GoTo Communications Inc, C=US\
@@ -18,4 +18,4 @@ Link: https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/goto-2022-09
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 30 Nov 22 17:39 UTC
+Generated: 30 Nov 22 18:29 UTC

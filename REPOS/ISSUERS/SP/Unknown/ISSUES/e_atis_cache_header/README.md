@@ -12,7 +12,6 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://app.connexcs.com/api/stir-shaken/cert/41.crt` |  | true | [view](../../REPOS/cc2f8a40c2bfec30ddc6c0b45b770990ddcae1d7/README.md) |
 | `https://dial.maqssolution.live/255K.pem` |  | true | [view](../../REPOS/adf028fff3c5bfdb49037b7d051913539200fab7/README.md) |
 | `https://dial.maqssolution.live/255KN22.pem` |  | true | [view](../../REPOS/6c2ad4e98b5e0f7170cc4a7688cdf6377eeafddc/README.md) |
-| `https://shaken.spectrum.com/4d65efdb8a1ca366e9576c8fda747fa4.pem` |  | true | [view](../../REPOS/18cdd5acaf4706a8bff59aa0338843318ac4e3c1/README.md) |
 
 
-Generated: 30 Nov 22 17:39 UTC
+Generated: 30 Nov 22 18:29 UTC

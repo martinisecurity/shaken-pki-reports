@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 4ms average time it took to download each certificate
+- 12ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -22,4 +22,4 @@
 | `http://5.161.95.22/191c4c42dd7fa6115e84100637e42c99.cer` | 28 Jul 23 20:56 UTC | true | [view](REPOS/30ae565722446f5d37f3ce9e61998d01db87404a/README.md) |
 
 
-Generated: 30 Nov 22 17:39 UTC
+Generated: 30 Nov 22 18:29 UTC

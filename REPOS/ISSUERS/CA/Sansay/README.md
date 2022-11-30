@@ -2,20 +2,20 @@
 
 ## Sansay
 
-- 173 repository URLs were included in the corpus being tested
+- 179 repository URLs were included in the corpus being tested
 - 2 repository URLs in the corpus were skipped because they were duplicated
-- 171 repository URLs being tested against the remaining rules
-- 1.04 issues on average found in non-compliant certificate repository URLs
-- 1.17% of repository URLs contain one or more Error level issue
+- 177 repository URLs being tested against the remaining rules
+- 1.03 issues on average found in non-compliant certificate repository URLs
+- 1.13% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 75ms average time it took to download each certificate
+- 72ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
 | 2 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
 | 2 | [e_http_status_200](ISSUES/e_http_status_200/README.md) | HTTP |
-| 171 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 177 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 | 2 | [w_atis_pem_certificate_chain](ISSUES/w_atis_pem_certificate_chain/README.md) | ATIS-1000080 |
 
 | Repository URLs | Not After |  Problems | Link |
@@ -25,6 +25,7 @@
 | `https://cr.sansay.com/016K/order/104_016K_115` | 23 Dec 22 03:57 UTC | true | [view](REPOS/ab224e7e245f9d4abce144ce7c1d0561d2c1c582/README.md) |
 | `https://cr.sansay.com/016K/order/107_016K_115` | 26 Dec 22 03:42 UTC | true | [view](REPOS/53a402e3ac750424adc0f75e78408e2e8418aad7/README.md) |
 | `https://cr.sansay.com/016K/order/110_016K_115` | 29 Dec 22 03:27 UTC | true | [view](REPOS/7b71a5d4981f333da88b2d67833c033686b5938d/README.md) |
+| `https://cr.sansay.com/016K/order/111_016K_115` | 30 Dec 22 03:22 UTC | true | [view](REPOS/cd00034ba47b5d5c1309e9611ead209346eb1d64/README.md) |
 | `https://cr.sansay.com/016K/order/63_016K_115` | 11 Nov 22 07:27 UTC | true | [view](REPOS/f1ae391c3972838829f272530e08ddbf1969be14/README.md) |
 | `https://cr.sansay.com/016K/order/76_016K_115` | 24 Nov 22 06:22 UTC | true | [view](REPOS/90448036c30c18e935158f5cc354c600338f93b6/README.md) |
 | `https://cr.sansay.com/016K/order/79_016K_115` | 27 Nov 22 06:07 UTC | true | [view](REPOS/e74fa707598cbf4d136a5feeb88e904ac3fdc854/README.md) |
@@ -63,6 +64,7 @@
 | `https://cr.sansay.com/210J/order/234_210J_63` | 24 Dec 22 23:12 UTC | true | [view](REPOS/94b975ad7e18595196e98cb267727a5a873aa8dd/README.md) |
 | `https://cr.sansay.com/210J/order/237_210J_63` | 27 Dec 22 22:57 UTC | true | [view](REPOS/898f1b6e009ab066d8df883077587a79daab5902/README.md) |
 | `https://cr.sansay.com/210J/order/238_210J_63` | 28 Dec 22 22:52 UTC | true | [view](REPOS/c912faa206c8286aaae045ea35d91da968dae098/README.md) |
+| `https://cr.sansay.com/210J/order/239_210J_63` | 29 Dec 22 22:47 UTC | true | [view](REPOS/d18f9add92c86c14c6eef92b16c664ee0175675a/README.md) |
 | `https://cr.sansay.com/325B_20211101.pem` | 11 Oct 23 17:24 UTC | true | [view](REPOS/71c5948b5aac5e7b508043a2515d8cf6f4a58e31/README.md) |
 | `https://cr.sansay.com/382G_TERRANOVA_STIR_SHAKEN.crt` | 15 Dec 22 21:12 UTC | true | [view](REPOS/6e6c71e4a8fff99711d1595ab30809db18105b93/README.md) |
 | `https://cr.sansay.com/463G/order/448_463G_53` | 18 Nov 22 16:35 UTC | true | [view](REPOS/767a4753d7c178a7826ea0c4a73afd8d09ecc341/README.md) |
@@ -110,9 +112,11 @@
 | `https://cr.sansay.com/548J/order/198_548J_67` | 26 Dec 22 13:40 UTC | true | [view](REPOS/a6ac40981e2d8deac2c17b1e1b9c3f825c211055/README.md) |
 | `https://cr.sansay.com/548J/order/200_548J_67` | 28 Dec 22 13:30 UTC | true | [view](REPOS/d0d7995762b54bbf9cf3719de468c5ee56144950/README.md) |
 | `https://cr.sansay.com/548J/order/201_548J_67` | 29 Dec 22 13:25 UTC | true | [view](REPOS/7863dd1f01fe2cc2c4fb1d172419264043a60b0a/README.md) |
+| `https://cr.sansay.com/548J/order/202_548J_67` | 30 Dec 22 13:20 UTC | true | [view](REPOS/cf25e3ec8c079c38063ebfc26164674f33cc7df1/README.md) |
 | `https://cr.sansay.com/557F/order/63_557F_83` | 15 Oct 22 11:43 UTC | true | [view](REPOS/a0abcc9b8fd7e89a66d9c1a41ab3a9366b1898fc/README.md) |
 | `https://cr.sansay.com/563J_THRESHOLD_COMMUNICATIONS_STIR_SHAKEN.crt` |  | true | [view](REPOS/f85fee560154bc6178b7fedac47bceef56453bb8/README.md) |
 | `https://cr.sansay.com/583j_BROADBAND_DYNAMICS_STIR_SHAKEN.crt` | 15 Dec 22 20:47 UTC | true | [view](REPOS/9fcf0f080d2c0623f2ba9d4b16b53c45beff4223/README.md) |
+| `https://cr.sansay.com/779J/order/160_779J_73` | 29 Dec 22 16:38 UTC | true | [view](REPOS/7b276570c88fc25a11fa10fa8dd110a00a47f338/README.md) |
 | `https://cr.sansay.com/828J/order/103_828J_86` | 26 Nov 22 19:21 UTC | true | [view](REPOS/7f681e6bfc0e3c62b6613261328c1b6267952065/README.md) |
 | `https://cr.sansay.com/828J/order/114_828J_86` | 07 Dec 22 18:27 UTC | true | [view](REPOS/ad99062576d08bc6d4f170525de98f5d5512eb21/README.md) |
 | `https://cr.sansay.com/828J/order/125_828J_86` | 17 Dec 22 20:14 UTC | true | [view](REPOS/6030bf61158b102e17d88da65329c8a23f44d8da/README.md) |
@@ -142,6 +146,7 @@
 | `https://cr.sansay.com/920J/order/156_920J_66` | 21 Dec 22 11:50 UTC | true | [view](REPOS/8b6bc0bc1288b71e4253841cf1f64b2f958ba032/README.md) |
 | `https://cr.sansay.com/920J/order/157_920J_66` | 22 Dec 22 11:45 UTC | true | [view](REPOS/968e1c7e43a1016d50830881161aa277379bac1d/README.md) |
 | `https://cr.sansay.com/920J/order/158_920J_66` | 23 Dec 22 11:40 UTC | true | [view](REPOS/99751ad2e9783559beee94d17b09c5c004773472/README.md) |
+| `https://cr.sansay.com/920J/order/165_920J_66` | 30 Dec 22 11:19 UTC | true | [view](REPOS/a46edf62dee6066ac3c280b476a4bc845371a7d1/README.md) |
 | `https://cr.sansay.com/920J/order/89_920J_66` | 16 Oct 22 03:00 UTC | true | [view](REPOS/5abc3f1a2ff934b111d57decc9eb60d4918287a6/README.md) |
 | `https://cr.sansay.com/ALD_Telecom_780J` | 11 Oct 23 17:08 UTC | true | [view](REPOS/d7ca4fda261fe3e94dbb75583e54a38821563cfb/README.md) |
 | `https://cr.sansay.com/Airespring_996H` | 15 Dec 22 21:10 UTC | true | [view](REPOS/4ddd806de0e836a7bea4f177e1a8c6d6135f0819/README.md) |
@@ -154,6 +159,7 @@
 | `https://cr.sansay.com/Consolidated_5113.crt` | 15 Dec 22 20:56 UTC | true | [view](REPOS/12b4609282ab4117f481fe6f9c064f3a775ffe9b/README.md) |
 | `https://cr.sansay.com/ConvergeTel_LLC_388K` | 09 Dec 22 18:56 UTC | true | [view](REPOS/60d3cca7f9372759c6f87f8ede700dc95bc66661/README.md) |
 | `https://cr.sansay.com/Current_Calls_LLC_746J` | 11 Oct 23 17:17 UTC | true | [view](REPOS/15f81740e6546136bca839ee788160b36f9f1a77/README.md) |
+| `https://cr.sansay.com/DLS_Internet_Services_815J` | 26 Oct 23 19:41 UTC | true | [view](REPOS/fa95a6491fdc45365d092f45408a64be1613e521/README.md) |
 | `https://cr.sansay.com/Fonative_684J` | 15 Dec 22 21:02 UTC | true | [view](REPOS/95f23c7869f56529a61d8e5af87f67cd36c9dd7f/README.md) |
 | `https://cr.sansay.com/Global_Net_Holdings_Inc_306K` | 21 Dec 22 22:15 UTC | true | [view](REPOS/d4b267de3c41f70806e99311c2b106a642328e65/README.md) |
 | `https://cr.sansay.com/IDT_363A` | 15 Dec 22 21:06 UTC | true | [view](REPOS/d2a41dcc224f4de6b9f87b145d64451804a77428/README.md) |
@@ -193,4 +199,4 @@
 | `https://cr.sansay.com/star2star_stirshaken_20220922` | 21 Nov 23 21:15 UTC | true | [view](REPOS/9f19fc9d73b83395796f7e4f0d8a277010ab2fd7/README.md) |
 
 
-Generated: 30 Nov 22 17:39 UTC
+Generated: 30 Nov 22 18:29 UTC

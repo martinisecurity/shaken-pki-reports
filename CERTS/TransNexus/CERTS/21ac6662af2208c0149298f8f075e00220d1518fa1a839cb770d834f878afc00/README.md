@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 841J
 
-Tested At: 30 Nov 22 17:25 UTC\
+Tested At: 30 Nov 22 18:14 UTC\
 Initial Validity Period: 14 day(s)\
 Remaining Validity Period: 7 day(s)\
 Subject: CN=SHAKEN 841J, O=Securus Technologies LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/841J/79480ec9-8f6d-485a-945f-8a4fc8365
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 30 Nov 22 17:39 UTC
+Generated: 30 Nov 22 18:29 UTC

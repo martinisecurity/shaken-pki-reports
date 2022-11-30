@@ -9,8 +9,8 @@
 
 #### Leaf Certificates
 
-- 47 certificates were included in the corpus being tested
-- 18 certificates in the corpus were skipped because they are duplicates
+- 48 certificates were included in the corpus being tested
+- 19 certificates in the corpus were skipped because they are duplicates
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
 - 29 certificates being tested against the remaining rules
@@ -94,4 +94,4 @@
 | 02 Oct 22 10:40 UTC | Martini Security SHAKEN G2 | false | [view](CERTS/bf818ddbd3ae492e4a85331b85b52f4d2cdef8287bf910b59e247b6c132fa7fd/README.md) |
 
 
-Generated: 30 Nov 22 17:39 UTC
+Generated: 30 Nov 22 18:29 UTC

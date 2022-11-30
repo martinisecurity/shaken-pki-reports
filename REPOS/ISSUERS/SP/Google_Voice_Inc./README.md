@@ -9,7 +9,7 @@
 - 0.00% of repository URLs contain one or more Error level issue
 - 0.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 1ms average time it took to download each certificate
+- 6ms average time it took to download each certificate
 
 No error, warning, or notice level issues were found
 
@@ -18,4 +18,4 @@ No error, warning, or notice level issues were found
 | `https://www.gstatic.com/gtp/stir/ci7ZmchtCrfFCxSJBSFtcA.pem` | 25 Dec 22 14:58 UTC | false | [view](REPOS/561aa1484d48eae86a8c23fc3a05f644f4329e11/README.md) |
 
 
-Generated: 30 Nov 22 17:39 UTC
+Generated: 30 Nov 22 18:29 UTC

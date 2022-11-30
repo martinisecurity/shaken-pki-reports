@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 250ms average time it took to download each certificate
+- 515ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://ecms.securetransit.net/certs/410bad9e05a57353f0d8739a421be619.cer` | 19 Jul 23 17:18 UTC | true | [view](REPOS/6034f9862b22502cb879614b1690e2d94043ecb9/README.md) |
 
 
-Generated: 30 Nov 22 17:39 UTC
+Generated: 30 Nov 22 18:29 UTC

@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 100ms average time it took to download each certificate
+- 163ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://pki.tncp.textnow.com/prod/stir-shaken-textnow-cert.pem` | 12 Sep 23 19:52 UTC | true | [view](REPOS/6e88fcb04e42a6fa1baa49c91a4729df6aaac2c0/README.md) |
 
 
-Generated: 30 Nov 22 17:39 UTC
+Generated: 30 Nov 22 18:29 UTC

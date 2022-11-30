@@ -2,7 +2,7 @@
 
 ## Certificate Voiceterm SHAKEN 240K
 
-Tested At: 30 Nov 22 17:25 UTC\
+Tested At: 30 Nov 22 18:14 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 243 day(s)\
 Subject: CN=Voiceterm SHAKEN 240K, O=Voiceterm, L=Phoenix, ST=AZ, C=US\
@@ -13,9 +13,9 @@ Link: https://certificates.peeringhub.io/240K/240K.crt
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 30 Nov 22 17:39 UTC
+Generated: 30 Nov 22 18:29 UTC

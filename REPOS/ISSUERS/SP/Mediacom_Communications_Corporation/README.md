@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 211ms average time it took to download each certificate
+- 339ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://shaken.stir.mediacomcc.com/certs/mediacomcertchain.crt` | 26 May 24 13:28 UTC | true | [view](REPOS/178d90525ad3207ba870f877ac6d2b9c69bb6cfa/README.md) |
 
 
-Generated: 30 Nov 22 17:39 UTC
+Generated: 30 Nov 22 18:29 UTC

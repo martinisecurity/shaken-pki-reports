@@ -17,6 +17,7 @@ Description: Information that is not verified shall not be included in certifica
 | warn | SHAKEN NTC International, INC 016K | [view](../../CERTS/09409ec33539419a0321c54eaad06baeccf5708bce2112dd1a8499731d7c8aee/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 | warn | SHAKEN NTC International, INC 016K | [view](../../CERTS/b7fa79f7dc6eeef8b3c02a8b1db0bcd102d85777210e7f7e14eb2f3cecf27974/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 | warn | SHAKEN NTC International, INC 016K | [view](../../CERTS/24fe23bbad3fa34c0c9f7bcd9e36a45bf0974a82c2b574780a3d582f301f049e/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
+| warn | SHAKEN NTC International, INC 016K | [view](../../CERTS/9c5bef68583aef1a5034f87aa532bc676fb1d40f81325b536dc6336f3e295020/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 | warn | SHAKEN Cyberlynk Network, LLC 086K | [view](../../CERTS/081c6b3caf13a694f3dc2feaaa56193480879b726acc425e65d8fb37a3e28cbc/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 | warn | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/d27a959a21dc295781c932032c24d6e53b61a5088ab3d2cc98ac93562c5ec6cd/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 | warn | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/4097442cf48bd256c17ba8c6216a1628dd6173fa170b20c5044148ccc4f62de7/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
@@ -29,6 +30,7 @@ Description: Information that is not verified shall not be included in certifica
 | warn | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/e6410ba9fa07944c517ccab0a073939d061571acd1a28a96232d630020797a91/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 | warn | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/dfdb808f2f94929ae6847f80fddc6fbcf54d7cbf490c28090e4fea49012bbf1d/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 | warn | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/597d2bfba3f5c1445f03792348e4cd98ab8cc8b44bd896be347489510679a137/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
+| warn | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/518f8e632dd4bb454ac599c8dfea1c3d51b289ae8623627dbef3abedca67ff8d/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 | warn | SHAKEN 1stPoint Communications, LLC 463G | [view](../../CERTS/322096d99c6f6beb803c72f64ba15430bf34292da2e7736382405346d1920c2e/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 | warn | SHAKEN 1stPoint Communications, LLC 463G | [view](../../CERTS/b4e31ab7b8fc550e75a7b00886b00d69db00cd56a13c4dd2cf8f1911749a4dcb/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 | warn | SHAKEN 1stPoint Communications, LLC 463G | [view](../../CERTS/7966daa2575a676e64515d90b5037c1473eac821e2f55c5ff8ddd3e1d2453f05/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
@@ -54,6 +56,8 @@ Description: Information that is not verified shall not be included in certifica
 | warn | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/73f0b8709ec9702c103d7bbd9d808ba041783cc35a7492fa6e47bc1672b2ba6b/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 | warn | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/e15f0ef42f7371f303897b998c174f2800d8d3ee2671ded8c0254716795ccafd/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 | warn | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/91a428d4713a6d944a1c0509925d0df05e24d9e2490457099544333a10cd9fbf/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
+| warn | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/408a130690cd123cd4bae17e157b93eb41d7355c82eef7bb36b7253ead7cf31a/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
+| warn | SHAKEN Televergence Solutions Inc 779J | [view](../../CERTS/fa5d3ad33ea9b4bd7b4e0dffe89a7147e629942573cc303d1b404f096ec4de76/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 | warn | SHAKEN IPSBS Managed Services LLC 828J | [view](../../CERTS/5c216d5eb90d5b09e51db9c9a1b3bad35f94f504a92261dc65dde90913fb410a/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 | warn | SHAKEN IPSBS Managed Services LLC 828J | [view](../../CERTS/273c6545be615c3dcce645179486c9e00ae37b1fbee1440ccd94cc28720e6fe1/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 | warn | SHAKEN IPSBS Managed Services LLC 828J | [view](../../CERTS/d8fb28426197f31ebb43aa58286b50bf249430a1f3c1145b8260f33ee5b54c43/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
@@ -67,6 +71,7 @@ Description: Information that is not verified shall not be included in certifica
 | warn | SHAKEN InteractiveTel, LLC 920J | [view](../../CERTS/2322461ea6facdf55eff9dbf53b51b42a8d3c24dc179cbcba28e05a5da0600b6/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 | warn | SHAKEN InteractiveTel, LLC 920J | [view](../../CERTS/9b65e5ddc85ff994ab983b4e2e98241ca756a0840237aedd031d34b83cc0894a/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 | warn | SHAKEN InteractiveTel, LLC 920J | [view](../../CERTS/86b6da6915cbf408b97937eca513d5494b79302b558310e3a4fdf4eacfb8df39/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
+| warn | SHAKEN InteractiveTel, LLC 920J | [view](../../CERTS/0629f9b5eba88aefc3c032e28da28ac6467ae0e7bddbe2503db61e0e3b6ea28f/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 | warn | SHAKEN Convoso 758J | [view](../../CERTS/a33008ec0c4ad56c980d02e36d07e33a42f8c2f203fea78024c5018d5cf04e8d/README.md) | Email addresses are not allowed as the CP does not specify how to validate them |
 
 ### CA Certificates
@@ -74,4 +79,4 @@ Description: Information that is not verified shall not be included in certifica
 No error, warning, or notice level issues were found
 
 
-Generated: 30 Nov 22 17:39 UTC
+Generated: 30 Nov 22 18:29 UTC

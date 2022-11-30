@@ -9,7 +9,7 @@
 - 50.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 146ms average time it took to download each certificate
+- 134ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -22,4 +22,4 @@
 | `https://sns.magicjack.com/324E.chain.crt.pem` | 18 Nov 22 16:16 UTC | true | [view](REPOS/d18a6931e976e90e2b264dfde64b6f72c2727b3f/README.md) |
 
 
-Generated: 30 Nov 22 17:39 UTC
+Generated: 30 Nov 22 18:29 UTC

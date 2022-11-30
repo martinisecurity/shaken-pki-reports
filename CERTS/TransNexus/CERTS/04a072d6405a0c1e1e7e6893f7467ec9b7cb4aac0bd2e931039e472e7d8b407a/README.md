@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 278K
 
-Tested At: 30 Nov 22 17:25 UTC\
+Tested At: 30 Nov 22 18:14 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: 4 day(s)\
 Subject: CN=SHAKEN 278K, O=OIT, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/36952c34-78d8-4c32-9499-188a418f31ba/4343
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 30 Nov 22 17:39 UTC
+Generated: 30 Nov 22 18:29 UTC

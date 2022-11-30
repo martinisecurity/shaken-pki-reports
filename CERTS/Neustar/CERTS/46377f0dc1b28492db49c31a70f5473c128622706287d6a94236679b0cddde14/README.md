@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 506J
 
-Tested At: 30 Nov 22 17:25 UTC\
+Tested At: 30 Nov 22 18:15 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 356 day(s)\
 Subject: CN=SHAKEN 506J, O=Twilio International, C=US\
@@ -16,4 +16,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11076.10126.pem
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 30 Nov 22 17:39 UTC
+Generated: 30 Nov 22 18:29 UTC

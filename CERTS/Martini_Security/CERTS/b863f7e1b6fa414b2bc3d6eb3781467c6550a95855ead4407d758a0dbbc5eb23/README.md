@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 076K
 
-Tested At: 30 Nov 22 17:26 UTC\
+Tested At: 30 Nov 22 18:16 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: 62 day(s)\
 Subject: O=REDBURN INFRASTRUCTURE\\, LLC, C=US, serialNumber=9BC766E33B0DCC8D895C9522CBAC9BFD, CN=SHAKEN 076K\
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/FMCDqO0b7R4g.pem
 149 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 30 Nov 22 17:39 UTC
+Generated: 30 Nov 22 18:29 UTC

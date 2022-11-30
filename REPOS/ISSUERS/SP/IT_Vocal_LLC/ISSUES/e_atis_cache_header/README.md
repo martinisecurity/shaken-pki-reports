@@ -12,4 +12,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://shaken.vocaltransit.com/783J/vocaltransit-STIRSHAKEN.crt` | 15 Mar 23 00:00 UTC | true | [view](../../REPOS/86e19698fc1d5b85bbffe8673c702f458fe26593/README.md) |
 
 
-Generated: 30 Nov 22 17:39 UTC
+Generated: 30 Nov 22 18:29 UTC
