@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 553J
 
-Tested At: 21 Nov 22 20:44 UTC\
+Tested At: 30 Nov 22 17:23 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 214 day(s)\
+Remaining Validity Period: 205 day(s)\
 Subject: CN=SHAKEN 553J, OU=VOIP, O=Whitesky Communications LLC, L=Northport, ST=AL, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://certs.sip.wtsky.net/prod/shaken-6-2023.cer
@@ -19,4 +19,4 @@ Link: https://certs.sip.wtsky.net/prod/shaken-6-2023.cer
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 21 Nov 22 20:55 UTC
+Generated: 30 Nov 22 17:24 UTC

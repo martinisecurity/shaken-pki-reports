@@ -9,16 +9,16 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 72ms average time it took to download each certificate
+- 22ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
 | 1 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
 | 1 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
-| Repository URLs | Problems | Link |
-|-----------------|----------|------|
-| `https://ssc.getsipnav.com/certs/b00badc474bbf0d965554e422647a4fcc426eb0c` | true | [view](REPOS/b8a64db014ecd80918bc4eade866029c5ca427e7/README.md) |
+| Repository URLs | Not After |  Problems | Link |
+|-----------------|-----------|-----------|------|
+| `https://ssc.getsipnav.com/certs/b00badc474bbf0d965554e422647a4fcc426eb0c` | 12 Jun 23 15:12 UTC | true | [view](REPOS/b8a64db014ecd80918bc4eade866029c5ca427e7/README.md) |
 
 
-Generated: 21 Nov 22 20:55 UTC
+Generated: 30 Nov 22 17:24 UTC

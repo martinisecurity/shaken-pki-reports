@@ -3,11 +3,11 @@
 ## Google
 
 Name: `https://www.gstatic.com/gtp/stir/0KNv42j7T4F2xjpsMbNWRA.pem`\
-Tested At: 21 Nov 22 20:55 UTC\
-Time: 102ms
+Tested At: 30 Nov 22 17:24 UTC\
+Time: 95ms
 
 ### Issues
 
 no warning, or error, or notice date level issues were found
 
-Generated: 21 Nov 22 20:55 UTC
+Generated: 30 Nov 22 17:24 UTC

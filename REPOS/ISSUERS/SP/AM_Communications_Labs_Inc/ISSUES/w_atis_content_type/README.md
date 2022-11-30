@@ -7,9 +7,9 @@ Source: ATIS-1000080\
 Description: ATIS-1000080 separately indicates that the mime type should be application/pem-certificate-chain
 ### Repository URLs
 
-| Repository URLs | Problems | Link |
-|-----------------|----------|------|
-| `https://ssc.getsipnav.com/certs/d68017fb427d47359b7108377a18cf105aad7709` | true | [view](../../REPOS/bfad6029f4bc653eb77e535a1db4a8793ec14036/README.md) |
+| Repository URLs | Not After |  Problems | Link |
+|-----------------|-----------|-----------|------|
+| `https://ssc.getsipnav.com/certs/d68017fb427d47359b7108377a18cf105aad7709` | 27 Apr 23 19:37 UTC | true | [view](../../REPOS/bfad6029f4bc653eb77e535a1db4a8793ec14036/README.md) |
 
 
-Generated: 21 Nov 22 20:55 UTC
+Generated: 30 Nov 22 17:24 UTC

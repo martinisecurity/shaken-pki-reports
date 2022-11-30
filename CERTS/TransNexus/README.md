@@ -9,29 +9,29 @@
 
 #### Leaf Certificates
 
-- 464 certificates were included in the corpus being tested
+- 582 certificates were included in the corpus being tested
 - 1 certificates in the corpus were skipped because they are duplicates
-- 424 certificates in the corpus were skipped because they are expired
+- 504 certificates in the corpus were skipped because they are expired
 - 1 certificates in the corpus were skipped because they are not currently trusted
-- 38 certificates being tested against the remaining rules
-- 2.26 issues on average found in unexpired, trusted, and non-compliant certificates
+- 76 certificates being tested against the remaining rules
+- 1.57 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
-- 63.16% of certificates contain one or more Warning level issue
+- 27.63% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
-- 2.63% of certificates are too old to be assessed against currently enforced expectations
-- 122 days is the average remaining validity for the certificates in the corpus
-- 122 days is the average initial validity for the certificates in the corpus
-- 21 certificates expire in the next 30 days
+- 1.32% of certificates are too old to be assessed against currently enforced expectations
+- 68 days is the average remaining validity for the certificates in the corpus
+- 67 days is the average initial validity for the certificates in the corpus
+- 60 certificates expire in the next 30 days
 - 1.36 average number of unexpired certificates per OCN observed
-- 28 unique OCNs observed in unexpired and valid certificate corpus
+- 56 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
 | 3 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
-| 18 | [e_incorrect_ku_encoding](ISSUES/e_incorrect_ku_encoding/README.md) | RFC5280 |
+| 16 | [e_incorrect_ku_encoding](ISSUES/e_incorrect_ku_encoding/README.md) | RFC5280 |
 | 3 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 38 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
-| 24 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
+| 76 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 21 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
 
@@ -45,7 +45,7 @@
 - 60.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 60.00% of certificates are too old to be assessed against currently enforced expectations
-- 5474 days is the average remaining validity for the certificates in the corpus
+- 5472 days is the average remaining validity for the certificates in the corpus
 - 5113 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -70,35 +70,73 @@
 | 29 Jun 22 20:24 UTC | SHAKEN 736J | true | [view](CERTS/71b25a480077816998e48e6a76f272e70aa91ecb19b0e773cd8777823cdead32/README.md) |
 | 25 Jul 22 18:36 UTC | SHAKEN 578J | true | [view](CERTS/f4af5a28131d680ef2682ae86181b64f0c919864d7dbaef00c0598d314b537a1/README.md) |
 | 10 Aug 22 18:11 UTC | SHAKEN 073H | true | [view](CERTS/87dabb91a689a6ac540b5ffbf5eb89326fada83fb822d2bb9ec31b68251b579e/README.md) |
+| 23 Aug 22 04:14 UTC | SHAKEN 866J | true | [view](CERTS/4c4fdb320c51c8582d595c2d307cd770d409daf533ff573bcc73afaed83f6b7d/README.md) |
 | 01 Sep 22 03:25 UTC | SHAKEN 6628 | true | [view](CERTS/37b9a67bb8e3272048330f269b5dbc285ac0278df4670ab7e291b92b6548fa2d/README.md) |
 | 13 Sep 22 17:24 UTC | SHAKEN 706J | true | [view](CERTS/1eea5e17ae8b36cb5b6d657178273af745cea015e63586e6d44d1ba2ee8f722a/README.md) |
 | 26 Sep 22 18:40 UTC | SHAKEN 505J | true | [view](CERTS/b186c959554e652b69824a2e45ac08ec135105b0e01c9d2eadeb3cf46c130670/README.md) |
 | 26 Sep 22 18:42 UTC | SHAKEN 505J | true | [view](CERTS/1c0003ac10eeaa04229e507c15f71ee018c3902c3e8c20fbe42e533b8682ba8c/README.md) |
-| 01 Oct 22 12:31 UTC | SHAKEN 193E | true | [view](CERTS/2a2a297de4aa7620b8f38d5266dd4f76fbd6b5c79a87411b589c2226518ce475/README.md) |
 | 12 Oct 22 19:39 UTC | SHAKEN 815G | true | [view](CERTS/a79f50d4fcd3e680518379f12a86a4b9a21c5e27dc5422a8439525edf350c4a7/README.md) |
 | 20 Oct 22 15:48 UTC | SHAKEN 622J | true | [view](CERTS/2e34c765f110b197f2ec1052b1960bc25ce320dfce7d7035cc532cd1eb6dbd57/README.md) |
-| 25 Oct 22 15:33 UTC | SHAKEN 722J | true | [view](CERTS/50eb0c6a670f4122f8fbdb75582aa257fe3979f441fb396ff738372627104f9c/README.md) |
-| 26 Oct 22 10:43 UTC | SHAKEN 8526 | true | [view](CERTS/b68dadcfa6267b8e9dd012e42154b55cab6d3694f4543e46af44bab1e4ba971e/README.md) |
 | 31 Oct 22 12:32 UTC | SHAKEN 193E | true | [view](CERTS/0de5e0e6787b9aa19c02c014821dd7a2e62e438f4eb9fbbb761eb86df8c69ff7/README.md) |
 | 31 Oct 22 18:04 UTC | SHAKEN 952J | true | [view](CERTS/93040a7e0cb4876c378dd10737f7dec5d054a6a744ebec63e17f8adda605a6ca/README.md) |
 | 01 Nov 22 11:14 UTC | SHAKEN 807J | true | [view](CERTS/0d97796c10ef21ba02a0f7954d82ace5e41d7ea66e4ea9eb16801c3a1a1d9f03/README.md) |
 | 12 Nov 22 04:05 UTC | SHAKEN 345J | true | [view](CERTS/ac38b9036e27ff2b753a0727e8ccdfd800d459dfdf595454c6a9dc7e9cd8ad74/README.md) |
 | 12 Nov 22 04:54 UTC | SHAKEN 345J | true | [view](CERTS/0a4891c263ce12ebb5116b43048b2b427314bd6133848201f8186b62f7efc68a/README.md) |
-| 14 Nov 22 14:10 UTC | SHAKEN 841J | true | [view](CERTS/51cf29551891eb1f1935e83cc86a50c52807f84c49b3b7c05461a2d89e4d8a75/README.md) |
-| 14 Nov 22 20:24 UTC | SHAKEN 738J | true | [view](CERTS/aa1140caf05a17dfee3e6713e4e26a30cd29442e0dc0d5ffc29a2522cef3408a/README.md) |
-| 14 Nov 22 23:52 UTC | SHAKEN 970J | true | [view](CERTS/c31c4a2bcc4fe8bef479ac03fd220b1bdbdda164c4ff7bad02bbb192917e3631/README.md) |
-| 15 Nov 22 01:42 UTC | SHAKEN 278K | true | [view](CERTS/aebcc6da84cc77550e791eec626797199a17d392930eeb129dc359a0cc90f7f3/README.md) |
-| 15 Nov 22 12:42 UTC | SHAKEN 551G | true | [view](CERTS/4069553710aac18a7170ed4bc2abc5c4f2e8fb28137b9c926da299bb097196a9/README.md) |
-| 15 Nov 22 20:08 UTC | SHAKEN 864J | true | [view](CERTS/32df47cc081f6599146db7bf8f967eb7da700d573c926706d65e69d691ae0927/README.md) |
-| 16 Nov 22 20:20 UTC | SHAKEN 738J | true | [view](CERTS/b42e7ab46fb071123047e9bc872f760710c6185e3b74d2e969f70d29bba199c4/README.md) |
-| 16 Nov 22 20:25 UTC | SHAKEN 738J | true | [view](CERTS/51c22d8787b9404a94ecb566f5c62e8506cfbc5231a97da4e60bcb2ac0da1a0a/README.md) |
-| 16 Nov 22 20:26 UTC | SHAKEN 366G | true | [view](CERTS/c633e6ebaa2ecb45d6b4d724d88a6de6d695706a83e31c05429484c3df57f0d3/README.md) |
-| 16 Nov 22 20:26 UTC | SHAKEN 738J | true | [view](CERTS/4feb69bdbe9ef2b93c4652f1a803c27c4f252d539e4e3000eb6f0d1d9760fe6e/README.md) |
-| 18 Nov 22 14:35 UTC | SHAKEN 2550 | true | [view](CERTS/9c167daffac6d99a821bdf0aa3710d1fb5fa23f8307746358286a2c0a0ffae68/README.md) |
 | 18 Nov 22 15:42 UTC | SHAKEN 722J | true | [view](CERTS/4111bb56ba547a2f493d1e9c2baefa33ce9bd117904133477d063d6fa0d6b9b2/README.md) |
 | 18 Nov 22 18:04 UTC | SHAKEN 952J | true | [view](CERTS/b05bb158c054b6e579fe20750c83ba5524896545d629b96b51d4c8d9ab38dfd3/README.md) |
-| 18 Nov 22 20:08 UTC | SHAKEN 864J | true | [view](CERTS/0f7f7697354353bd9d2ab9242343d42f4a12e66045709b0fb7e50469e313f8b3/README.md) |
-| 19 Nov 22 20:20 UTC | SHAKEN 738J | true | [view](CERTS/2372aac07c78cfbaf7c5d62d5c2ef1d700a953f26e3950ffb6f6f97f54601739/README.md) |
+| 21 Nov 22 20:25 UTC | SHAKEN 738J | true | [view](CERTS/6b8346b320b4956f1b2726c057062818646170e7ae6f65614dc498cf80947979/README.md) |
+| 22 Nov 22 23:52 UTC | SHAKEN 841J | true | [view](CERTS/21ac6662af2208c0149298f8f075e00220d1518fa1a839cb770d834f878afc00/README.md) |
+| 23 Nov 22 17:31 UTC | SHAKEN 4036 | true | [view](CERTS/e03ff4259e6b456f1bb19d011f005932e83b0a35b520730c97cd77ad8868071c/README.md) |
+| 23 Nov 22 20:16 UTC | SHAKEN 983J | true | [view](CERTS/a31233b83663326a8d5caa09924ed4e0e021cc9e59911ae20667557b2a37c745/README.md) |
+| 24 Nov 22 14:36 UTC | SHAKEN 2550 | true | [view](CERTS/bd435a93d616a1848c46e8a8364ad7ad4491537c9a2cd500e61592dfba64a106/README.md) |
+| 25 Nov 22 08:02 UTC | SHAKEN 551G | true | [view](CERTS/d7525ebf1cf60ce77f0390b661c1125dc30886f532523e25e394e7cd5b02551a/README.md) |
+| 25 Nov 22 17:26 UTC | SHAKEN 107K | true | [view](CERTS/d05e96555e640a58d48cafb95fa9bcb0f8310dd5244b31573639c41841aaa6a0/README.md) |
+| 25 Nov 22 19:57 UTC | SHAKEN 297K | true | [view](CERTS/dc29343cb4842a14b4c425cbc0c68e347e6d3e7fc5b2473fae7c18025ecf38e6/README.md) |
+| 25 Nov 22 20:20 UTC | SHAKEN 735J | true | [view](CERTS/f2b2ec0d3422c98fc85e48d519d399716b0caca1236df5fdba0c9cf496c349e5/README.md) |
+| 25 Nov 22 20:20 UTC | SHAKEN 738J | true | [view](CERTS/9bb764757d413207075209248b8f35df0d3a056609e08d1f047b8eec64b37d9e/README.md) |
+| 25 Nov 22 20:20 UTC | SHAKEN 733J | true | [view](CERTS/97694297d993ee44cc7bbd9daaf48646fa9c89e0f6369fd4ad3055fe276a3a81/README.md) |
+| 25 Nov 22 20:24 UTC | SHAKEN 849J | true | [view](CERTS/08a7f05d6988980c3b8145eec141bad858c56bc68804167f803d05382ea45acf/README.md) |
+| 25 Nov 22 20:24 UTC | SHAKEN 691A | true | [view](CERTS/317f684b3eab18c64c9a9ee018cb1ce58c9b8a7284e77d792f83fff3425d607a/README.md) |
+| 25 Nov 22 20:24 UTC | SHAKEN 469A | true | [view](CERTS/36eea868c67ac1e482d9107028c8f2aca59ddd3d19152485442fcf18eca6e1c6/README.md) |
+| 25 Nov 22 20:25 UTC | SHAKEN 738J | true | [view](CERTS/6b212d2bc8e603f90ff5337b46267a351999bea8e0a33680604d585664ba04cd/README.md) |
+| 25 Nov 22 20:25 UTC | SHAKEN 459J | true | [view](CERTS/4ec87ab18fe914eed7ff1b6ef744e02b058d4f3f65077b69811a91d64c2b099e/README.md) |
+| 25 Nov 22 20:25 UTC | SHAKEN 672B | true | [view](CERTS/0d5b5096b1cb9f4f4132c6d6ce4a98ab76d4b31a7927a635da40cd7ea4154842/README.md) |
+| 25 Nov 22 20:26 UTC | SHAKEN 366G | true | [view](CERTS/6191a25456dabca43312150a58545151c39ad6d38261c09bedd62782c1fa7e1e/README.md) |
+| 25 Nov 22 20:27 UTC | SHAKEN 0226 | true | [view](CERTS/c50f237291f814bbc29b8294ccf88c421554e661636844a8dba77d6840f5cdad/README.md) |
+| 25 Nov 22 20:27 UTC | SHAKEN 738J | true | [view](CERTS/7dd772716339dbfa1a387102aae81796a254702e0512a1052c2159bd5a2b6e74/README.md) |
+| 25 Nov 22 21:02 UTC | SHAKEN 518J | true | [view](CERTS/eae143d71eb0e9d1e2567e9ed60a74262056af67e00e222e9bcd4c4967ca1d24/README.md) |
+| 26 Nov 22 12:15 UTC | SHAKEN 130B | true | [view](CERTS/75f49c92c06174c0cd5c0be0a00e95e6231c82b73e8346ca874b1157a2ac53dc/README.md) |
+| 26 Nov 22 13:21 UTC | SHAKEN 0172 | true | [view](CERTS/ca6aa82c57dd3759d91bface6744ba1eb1f66250d9903d1569a8ce4987f1d055/README.md) |
+| 26 Nov 22 19:10 UTC | SHAKEN 749J | true | [view](CERTS/7c27a9d1b94b73f550d9ab13f422b606046d40b51aeef0928bc89783b109263b/README.md) |
+| 26 Nov 22 20:16 UTC | SHAKEN 983J | true | [view](CERTS/c0dd50071168f308c2b17fb8817b79cce8ebb550dcf2bb5aa09fea3f6b0fee4c/README.md) |
+| 26 Nov 22 21:44 UTC | SHAKEN 606F | true | [view](CERTS/24a04f3c49b09c28f1771afd8619837e3866a80ffbd7c2a7c301825440f5ffe6/README.md) |
+| 27 Nov 22 01:42 UTC | SHAKEN 278K | true | [view](CERTS/04a072d6405a0c1e1e7e6893f7467ec9b7cb4aac0bd2e931039e472e7d8b407a/README.md) |
+| 27 Nov 22 14:36 UTC | SHAKEN 2550 | true | [view](CERTS/3f37e0eb5fb459beae9c4695866e96b30b0951c8b69ce00c8dfe53c6babae06d/README.md) |
+| 27 Nov 22 18:48 UTC | SHAKEN 140K | true | [view](CERTS/66d303a259302adc9fcc8552ee79b88513c8f8fcc17727c3c2736024ba331305/README.md) |
+| 27 Nov 22 20:14 UTC | SHAKEN 177K | true | [view](CERTS/76d8c73358c5e3473bbd12634cb431ccd0e1e35eea838113c0479bedd86e0952/README.md) |
+| 28 Nov 22 14:44 UTC | SHAKEN 012K | true | [view](CERTS/1a8df3282e53e1e16e2f8fd0c010236f9eb73feecf4820a45d09689377c21a48/README.md) |
+| 28 Nov 22 14:45 UTC | SHAKEN 747J | true | [view](CERTS/51aba108c9adb06a0cbf3169f52def2494ae0e34809db5e8be805b2dd6b10fa0/README.md) |
+| 28 Nov 22 17:27 UTC | SHAKEN 107K | true | [view](CERTS/6b3fa92a1b668430d01c7d5feb4d1437309bd965d325946f52bbb9baa9799cc7/README.md) |
+| 28 Nov 22 18:39 UTC | SHAKEN 056K | true | [view](CERTS/d479d62f9ad73674b85b522676a943bdae2b98bbe84bdf2311f67be99928f9ba/README.md) |
+| 28 Nov 22 19:57 UTC | SHAKEN 297K | true | [view](CERTS/0c8d278fefe556489a1e55827741152fe5367e9789f23d68c016c7cf433f94d8/README.md) |
+| 28 Nov 22 20:03 UTC | SHAKEN 366G | true | [view](CERTS/bc2302e39f66a086aff6bc7ff6a1f6fa3179bc2594a661b3adc7f887c2ca75bd/README.md) |
+| 28 Nov 22 20:19 UTC | SHAKEN 674J | true | [view](CERTS/f4aca516210d1898cf1235c07c0ae7240fbcce66de7da84ec74d1c0678c4b439/README.md) |
+| 28 Nov 22 20:21 UTC | SHAKEN 700H | true | [view](CERTS/6c12cec9743eca93fedcde12ece8ca39102fd2f509d403537ac672c52bbd0e29/README.md) |
+| 28 Nov 22 20:22 UTC | SHAKEN 819H | true | [view](CERTS/8820b9c41789203bacd4f4d8f1e615600b90b1a04d0394119d6a1462c3e9598e/README.md) |
+| 28 Nov 22 20:23 UTC | SHAKEN 769J | true | [view](CERTS/2189c0e66d59dfe3a38d7b81bab0c002f31f828204b03983611086b5d7065c7b/README.md) |
+| 28 Nov 22 20:23 UTC | SHAKEN 589J | true | [view](CERTS/a2ae8ed2d98786e7540b2372026ca9b434330a6643ad523fce30a1ef28c3e46a/README.md) |
+| 28 Nov 22 20:24 UTC | SHAKEN 849J | true | [view](CERTS/e9a606b3c321c52a53561a49e8181ab30d9481abd89ef2cbfc34623275efac03/README.md) |
+| 28 Nov 22 20:25 UTC | SHAKEN 469A | true | [view](CERTS/d1abdb1d3c297b034dcb54efb78ec58ff7806c28ae4d0fbcf632d35729d15d10/README.md) |
+| 28 Nov 22 20:25 UTC | SHAKEN 495J | true | [view](CERTS/b595d811e8b22f27492993fcce6b1b22c327b71845bcf6607cb70f63a352dab8/README.md) |
+| 28 Nov 22 20:25 UTC | SHAKEN 790J | true | [view](CERTS/c473c8d369026351484772a5b550f938ad4d270663b27ef9ddfe28d12cb5385b/README.md) |
+| 28 Nov 22 20:26 UTC | SHAKEN 738J | true | [view](CERTS/e40280dfe9a62708996198fc786e18c7578f37d284ff1e2c9d2cf24e94b878ee/README.md) |
+| 28 Nov 22 20:26 UTC | SHAKEN 1680 | true | [view](CERTS/a0f8ded4427f795b60b93b3c7d2eb401be0e255137a7d7c1e8375d6d054e321b/README.md) |
+| 28 Nov 22 20:26 UTC | SHAKEN 738J | true | [view](CERTS/b6078f94356cbe08f80c2e43db13b38115962d906b6bf2767a06897070f338a3/README.md) |
+| 28 Nov 22 20:26 UTC | SHAKEN 459J | true | [view](CERTS/e98dfa73bf9179dc6cd12f1ac7dc2cfdb406697e3c805096ae3e07f71faac92b/README.md) |
+| 28 Nov 22 20:27 UTC | SHAKEN 366G | true | [view](CERTS/67363bbcda7164eb64222794b1c59fdce0151272522557d225fbcf0993c24f16/README.md) |
+| 28 Nov 22 20:27 UTC | SHAKEN 0226 | true | [view](CERTS/f6877a0d9a658648d53c76be801797cab0f542e5a5a39f925e4eff01ae8621e3/README.md) |
+| 28 Nov 22 20:27 UTC | SHAKEN 738J | true | [view](CERTS/50bc2517929b0699dc7d4589e12156a35e353b1cc14e942b4b2868451a8cdf7a/README.md) |
+| 28 Nov 22 21:02 UTC | SHAKEN 518J | true | [view](CERTS/26e80150c6353e2f8372c7b8649a6a7699bb72d61c8254c156791299b2bd8dac/README.md) |
 
 #### CA Certificates
 
@@ -111,4 +149,4 @@
 | 24 Oct 22 00:00 UTC | TransNexus, Inc. SHAKEN Root CA2 | false | [view](CERTS/a26e04fc786ab70b8085236b2c53f8cfbf5d0c6a5c2c9c3e9f91669fbb8ea4d5/README.md) |
 
 
-Generated: 21 Nov 22 20:55 UTC
+Generated: 30 Nov 22 17:24 UTC

@@ -3,8 +3,8 @@
 ## Northeast Communications of Wisconsin
 
 Name: `https://cdn-cr.cgah.tnsi.com/certs/1a7ab760b70a56725786e626f157ba4512f909ec`\
-Tested At: 21 Nov 22 20:43 UTC\
-Time: 351ms
+Tested At: 30 Nov 22 17:22 UTC\
+Time: 404ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 351ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 21 Nov 22 20:55 UTC
+Generated: 30 Nov 22 17:24 UTC

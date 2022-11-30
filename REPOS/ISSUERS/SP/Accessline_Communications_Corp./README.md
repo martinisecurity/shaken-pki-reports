@@ -9,16 +9,16 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 335ms average time it took to download each certificate
+- 152ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
 | 1 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
 | 1 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
-| Repository URLs | Problems | Link |
-|-----------------|----------|------|
-| `https://sscerts.accessline.com/sscerts/Cert-US-04-2022.crt` | true | [view](REPOS/3192dd44076a69435da2acb987726efbcab30c5f/README.md) |
+| Repository URLs | Not After |  Problems | Link |
+|-----------------|-----------|-----------|------|
+| `https://sscerts.accessline.com/sscerts/Cert-US-04-2022.crt` | 23 Apr 23 01:57 UTC | true | [view](REPOS/3192dd44076a69435da2acb987726efbcab30c5f/README.md) |
 
 
-Generated: 21 Nov 22 20:55 UTC
+Generated: 30 Nov 22 17:24 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Airespring 996H
 
-Tested At: 21 Nov 22 20:45 UTC\
+Tested At: 30 Nov 22 17:23 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: 25 day(s)\
+Remaining Validity Period: 16 day(s)\
 Subject: CN=SHAKEN Airespring 996H, OU=Airespring NOC, O=Airespring, ST=California, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Airespring_996H
@@ -20,4 +20,4 @@ Link: https://cr.sansay.com/Airespring_996H
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 21 Nov 22 20:55 UTC
+Generated: 30 Nov 22 17:24 UTC

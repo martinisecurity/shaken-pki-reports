@@ -2,9 +2,9 @@
 
 ## Certificate Metaswitch STI-CA SHAKEN Issuing 1
 
-Tested At: 21 Nov 22 20:55 UTC\
+Tested At: 30 Nov 22 17:24 UTC\
 Initial Validity Period: 4380 day(s)\
-Remaining Validity Period: 3654 day(s)\
+Remaining Validity Period: 3645 day(s)\
 Subject: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Issuer: CN=Metaswitch STI-CA SHAKEN Root
 
@@ -26,4 +26,4 @@ Issuer: CN=Metaswitch STI-CA SHAKEN Root
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 22 20:55 UTC
+Generated: 30 Nov 22 17:24 UTC

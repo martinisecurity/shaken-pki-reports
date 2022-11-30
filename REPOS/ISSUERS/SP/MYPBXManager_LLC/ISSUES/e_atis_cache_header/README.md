@@ -7,9 +7,9 @@ Source: ATIS-1000074\
 Description: The STI-VS shall implement the cache behavior described in RFC7234. If the HTTP response does not include any recognized caching directives or indicates caching for less than 24 hours, then the STI-VS should cache the HTTP response for 24 hours
 ### Repository URLs
 
-| Repository URLs | Problems | Link |
-|-----------------|----------|------|
-| `https://www.mypbxmanager.net/local/PubShakenCert.crt` | true | [view](../../REPOS/bcaaae3f936a74a5e91182403c18ec293f87c940/README.md) |
+| Repository URLs | Not After |  Problems | Link |
+|-----------------|-----------|-----------|------|
+| `https://www.mypbxmanager.net/local/PubShakenCert.crt` | 28 Jun 23 18:13 UTC | true | [view](../../REPOS/bcaaae3f936a74a5e91182403c18ec293f87c940/README.md) |
 
 
-Generated: 21 Nov 22 20:55 UTC
+Generated: 30 Nov 22 17:24 UTC

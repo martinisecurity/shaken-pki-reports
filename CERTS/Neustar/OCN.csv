@@ -25,6 +25,7 @@ OCN;Org Name;CN;Cert
 261H;Voyce;SHAKEN 261H;https://ssc.getsipnav.com/certs/b00badc474bbf0d965554e422647a4fcc426eb0c
 292K;Falcon Endeavors;SHAKEN 292K;https://ssc.getsipnav.com/certs/0ca730172b48ae249d823ea924275602b5f36450
 3130;Bullseye Telecom;SHAKEN 3130;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11416.10156.pem
+333K;Aovatalk Communications Limited;SHAKEN 333K;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/190.254
 393J;Cloudli Communications;SHAKEN 393J;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11508.10138
 402E;IP Networked Services Inc;SHAKEN 402E;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11304.10152
 4036;ATT SHAKEN E-E;ATT SHAKEN 4036;https://cert.sticr.att.net:8443/certs/att/abbf5398-e1e1-42af-96a7-092303b168ba
@@ -42,7 +43,6 @@ OCN;Org Name;CN;Cert
 5447;Access One Inc;SHAKEN 5447;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11528.10146
 553J;Whitesky Communications LLC;SHAKEN 553J;https://certs.sip.wtsky.net/prod/shaken-6-2023.cer
 554J;Jivetel Inc;SHAKEN 554J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/91.155
-5606;Charter Communications Inc SHAKEN 5606;SHAKEN 5606;https://shaken.spectrum.com/4d65efdb8a1ca366e9576c8fda747fa4.pem
 567G;Teliax Inc.;Shaken;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11316.10181
 573J;Voyant Communications LLC;SHAKEN 573J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/49.162
 5917;Firstcomm;Firstcomm5917;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11166.10183.pem
@@ -51,6 +51,7 @@ OCN;Org Name;CN;Cert
 611J;Telcast Networks;SHAKEN 611J;https://ssc.getsipnav.com/certs/9861b7e493ab608182e57524671889bf94cd2fc8
 618J;PBX-Change;SHAKEN 618J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/132.133
 663G;ReInvent Telecom;ReInvent;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11292.10180
+669B;BTC Broadband;SHAKEN 669B;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11408.10160.pem
 672J;Zoom Voice Communications;SHAKEN 672J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/134.135
 6744;Southern Linc;SHAKEN-6744;https://prod001-cr.rbbnidhub.com/frvFJbsMgz/sign-cert3
 683G;Intrado;Flowroute;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11338.10182
@@ -65,12 +66,13 @@ OCN;Org Name;CN;Cert
 7126;alticeusa;alticeusa.com;https://cr.ccid.alticeusa.com/ccid/authn/v2/certs/11011.10003
 712J;ANPI Business LLC;SHAKEN 712J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/87.166
 715J;Coredial LLC;SHAKEN 715J;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11430.10198
-732J;NUSO LLC;SHAKEN 732J;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11386.10159.pem
+732J;NUSO LLC;SHAKEN 732J;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11376.10159.pem
 738J;BCM One Inc;SHAKEN 738J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/165.181
 739J;Unified Global Solutions LLC;SHAKEN 739J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/158.172
 743J;Whisl Telecom LLC;SHAKEN 743J;https://ssc.getsipnav.com/certs/8edc7b58944d44dd597d88ceae74ae41fa544d2e
 750J;Microtalk USA, Inc.;SHAKEN 750J;https://appreg.telcoportal.com/mobileapps/neustar/Microtalk-Shaken.pem
 7575;Lumen;SHAKEN 7575;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11001.10012
+763H;PS Lightwave;SHAKEN 763H;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11358.10161.pem
 7661;Communications;cox.com;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11126.10191
 766C;Orange;Orange;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11180.10184.pem
 770J;Fuze Inc;SHAKEN 770J;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11484.10112

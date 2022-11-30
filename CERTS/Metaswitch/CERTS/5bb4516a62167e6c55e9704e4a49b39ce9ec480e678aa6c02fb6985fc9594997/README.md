@@ -2,9 +2,9 @@
 
 ## Certificate Call48 SHAKEN Cert 505J
 
-Tested At: 21 Nov 22 20:47 UTC\
+Tested At: 30 Nov 22 17:24 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 412 day(s)\
+Remaining Validity Period: 403 day(s)\
 Subject: CN=Call48 SHAKEN Cert 505J, O=Call48, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://sti-cr.cgah.tnsi.com/certs/27619989593575ff99cddfc6b207ba73fed5de1e
@@ -28,4 +28,4 @@ Link: https://sti-cr.cgah.tnsi.com/certs/27619989593575ff99cddfc6b207ba73fed5de1
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 22 20:55 UTC
+Generated: 30 Nov 22 17:24 UTC

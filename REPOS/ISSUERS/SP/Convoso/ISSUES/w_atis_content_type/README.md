@@ -7,9 +7,9 @@ Source: ATIS-1000080\
 Description: ATIS-1000080 separately indicates that the mime type should be application/pem-certificate-chain
 ### Repository URLs
 
-| Repository URLs | Problems | Link |
-|-----------------|----------|------|
-| `https://stirshaken.s3.us-west-1.amazonaws.com/stirshaken.pem` | true | [view](../../REPOS/6aa4ff04210277e8b82963966d5665dfb5868515/README.md) |
+| Repository URLs | Not After |  Problems | Link |
+|-----------------|-----------|-----------|------|
+| `https://stirshaken.s3.us-west-1.amazonaws.com/stirshaken.pem` | 10 Dec 22 06:00 UTC | true | [view](../../REPOS/6aa4ff04210277e8b82963966d5665dfb5868515/README.md) |
 
 
-Generated: 21 Nov 22 20:55 UTC
+Generated: 30 Nov 22 17:24 UTC

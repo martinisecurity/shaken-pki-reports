@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 81ms average time it took to download each certificate
+- 140ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -17,9 +17,9 @@
 | 1 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 | 1 | [w_atis_protocol](ISSUES/w_atis_protocol/README.md) | ATIS-1000080 |
 
-| Repository URLs | Problems | Link |
-|-----------------|----------|------|
-| `http://5.161.95.22/191c4c42dd7fa6115e84100637e42c99.cer` | true | [view](REPOS/30ae565722446f5d37f3ce9e61998d01db87404a/README.md) |
+| Repository URLs | Not After |  Problems | Link |
+|-----------------|-----------|-----------|------|
+| `http://5.161.95.22/191c4c42dd7fa6115e84100637e42c99.cer` | 28 Jul 23 20:56 UTC | true | [view](REPOS/30ae565722446f5d37f3ce9e61998d01db87404a/README.md) |
 
 
-Generated: 21 Nov 22 20:55 UTC
+Generated: 30 Nov 22 17:24 UTC

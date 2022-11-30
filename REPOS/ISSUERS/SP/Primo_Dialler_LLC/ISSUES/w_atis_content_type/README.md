@@ -7,9 +7,9 @@ Source: ATIS-1000080\
 Description: ATIS-1000080 separately indicates that the mime type should be application/pem-certificate-chain
 ### Repository URLs
 
-| Repository URLs | Problems | Link |
-|-----------------|----------|------|
-| `https://app.connexcs.com/api/stir-shaken/cert/45.crt` | true | [view](../../REPOS/2260b336dfad8a7a8197566bbca1f4ce46bb7dea/README.md) |
+| Repository URLs | Not After |  Problems | Link |
+|-----------------|-----------|-----------|------|
+| `https://app.connexcs.com/api/stir-shaken/cert/45.crt` | 09 Dec 22 18:49 UTC | true | [view](../../REPOS/2260b336dfad8a7a8197566bbca1f4ce46bb7dea/README.md) |
 
 
-Generated: 21 Nov 22 20:55 UTC
+Generated: 30 Nov 22 17:24 UTC
