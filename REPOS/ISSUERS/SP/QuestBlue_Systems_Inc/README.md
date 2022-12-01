@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 341ms average time it took to download each certificate
+- 256ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://customer.questblue.com/assets/questblue_shaken.cer` | 18 Mar 23 18:18 UTC | true | [view](REPOS/8dc4c0c1b129963e864cd310fa6b03bb952981a5/README.md) |
+| `https://customer.questblue.com/assets/questblue_shaken.cer` | 18&#160;Mar&#160;23&#160;18:18&#160;UTC | true | [view](REPOS/8dc4c0c1b129963e864cd310fa6b03bb952981a5/README.md) |
 
 
-Generated: 30 Nov 22 17:24 UTC
+Generated: 01 Dec 22 19:10 UTC

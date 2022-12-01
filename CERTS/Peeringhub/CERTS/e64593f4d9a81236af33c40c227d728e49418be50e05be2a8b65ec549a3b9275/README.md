@@ -2,9 +2,9 @@
 
 ## Certificate Apex Telecom LLC SHAKEN 288K
 
-Tested At: 30 Nov 22 17:22 UTC\
+Tested At: 01 Dec 22 19:06 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 337 day(s)\
+Remaining Validity Period: 336 day(s)\
 Subject: CN=Apex Telecom LLC SHAKEN 288K, O=Apex Telecom LLC, L=SALEM, ST=MA, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://certificates.peeringhub.io/288K/288K.crt
@@ -13,9 +13,9 @@ Link: https://certificates.peeringhub.io/288K/288K.crt
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
 
-Generated: 30 Nov 22 17:24 UTC
+Generated: 01 Dec 22 19:10 UTC

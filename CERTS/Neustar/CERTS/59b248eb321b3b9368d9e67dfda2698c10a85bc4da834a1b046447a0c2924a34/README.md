@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 869J
 
-Tested At: 30 Nov 22 17:23 UTC\
+Tested At: 01 Dec 22 19:09 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 168 day(s)\
+Remaining Validity Period: 167 day(s)\
 Subject: CN=SHAKEN 869J, O=Sipnex Telecom LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/fef3962eaffeb276be4bf92fa16a666186c83733
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/fef3962eaffeb276be4bf92fa16a666186c83733
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 30 Nov 22 17:24 UTC
+Generated: 01 Dec 22 19:10 UTC

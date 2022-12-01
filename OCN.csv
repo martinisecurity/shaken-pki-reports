@@ -1,6 +1,7 @@
 OCN;Org Name;CN;Cert
 005K;PrimeVOX Communications;SHAKEN 005K;https://pvx1.s3.us-east-2.amazonaws.com/stirshaken/8448cc7eb8424d6ad5d2e6d71bcf6629.cer
 006E;Support;frontier.com;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11022.10175
+0127;Andrew Ward Consulting LLC;SHAKEN 0127;https://certificates.clearip.com/649d9560-7197-4132-94b4-40da224ec372/f3f01a543f6e4d1c3b553723ac5c4d4a.pem
 012J;Apeiron Systems;SHAKEN Apeiron Systems 012J;https://cr.sansay.com/Apeiron_012J
 012K;CallCurrent, Inc.;SHAKEN 012K;https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/7d226b9b443d4b84739555c1f75f9650.pem
 016K;NTC International, INC;SHAKEN NTC International, INC 016K;https://cr.sansay.com/016K/order/102_016K_115
@@ -8,6 +9,7 @@ OCN;Org Name;CN;Cert
 016K;NTC International, INC;SHAKEN NTC International, INC 016K;https://cr.sansay.com/016K/order/104_016K_115
 016K;NTC International, INC;SHAKEN NTC International, INC 016K;https://cr.sansay.com/016K/order/107_016K_115
 016K;NTC International, INC;SHAKEN NTC International, INC 016K;https://cr.sansay.com/016K/order/110_016K_115
+016K;NTC International, INC;SHAKEN NTC International, INC 016K;https://cr.sansay.com/016K/order/111_016K_115
 0172;CallTower;SHAKEN 0172;https://certificates.transnexus.com/0172/fdc9ac0e-185f-4436-9108-950becfe91a9.pem
 020K;NETRIO LLC;SHAKEN NETRIO LLC 020K;https://cr.sansay.com/NETRIO_LLC_020K
 0226;Lumos Networks;SHAKEN 0226;https://certificates.clearip.com/f8a68e44-8fb0-4f28-b533-c4df27ed8e1b/6ffbe25be27f39d7dd3bc794f94a31c9.pem
@@ -35,7 +37,6 @@ OCN;Org Name;CN;Cert
 073K;ACS Business Systems, Inc.;SHAKEN 073K;https://p.mtsec.me/2dd5/KGooOP8qrCkY.pem
 074K;Coztel Carrier;SHAKEN 074K;http://5.161.95.22/191c4c42dd7fa6115e84100637e42c99.cer
 076K;REDBURN INFRASTRUCTURE, LLC;SHAKEN 076K;https://p.mtsec.me/2884/FMCDqO0b7R4g.pem
-086K;Cyberlynk Network, LLC;SHAKEN Cyberlynk Network, LLC 086K;https://cr.sansay.com/086K/order/136_086K_91
 107K;Atheral;SHAKEN 107K;https://certificates.clearip.com/4ba6f296-2d7c-42c2-8fe4-12b74f5076df/1e41a6d56152be7d5b83aff2409e347f.pem
 107K;Atheral;SHAKEN 107K;https://certificates.clearip.com/4ba6f296-2d7c-42c2-8fe4-12b74f5076df/5fa6fb3491ebd72a465e7da815239f2a.pem
 110K;Grizzly Broadband, LLC;SHAKEN 110K;https://p.mtsec.me/2884/Ac-_gj5i9wZv.pem
@@ -50,6 +51,7 @@ OCN;Org Name;CN;Cert
 148K;Orange County REMC;SHAKEN 148K;https://p.mtsec.me/2884/OqnGuVS1EJ_R.pem
 148K;Orange County REMC;SHAKEN 148K;https://p.mtsec.me/2884/dGKmqd8OQwaw.pem
 150K;White Label Communications;SHAKEN 150K;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/179.233
+159H;Edge Communications;SHAKEN 159H;https://certificates.transnexus.com/159H/9c3efc07-9381-445a-b521-4d5928397ca6.pem
 1680;SDN;SHAKEN 1680;https://certificates.clearip.com/a86393e3-972a-4710-a013-a1440e509889/87fdfff8d8db2abff94aa2ade2e971f9.pem
 171K;Voice Logic;SHAKEN 171K;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/164.180
 177K;Cytracom, LLC;SHAKEN 177K;https://certificates.clearip.com/8d118994-4994-4735-ac71-42c0bbb7848f/72467e846a5f81cd5f4f6bb67cf0a245.pem
@@ -57,6 +59,7 @@ OCN;Org Name;CN;Cert
 178H;IntelePeer CC LLC;intelepeer.com;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11238.10188
 1845;Warmego Telecom Company Inc;Warmego;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/39.203
 187J;Noble Systems Communications LLC;SHAKEN Noble Systems Communications LLC 187J;https://cr.sansay.com/NobleSys_187J
+193E;8x8 Inc;SHAKEN 193E;https://certificates.transnexus.com/193E/0d14a5e6-7a85-4036-aa55-251fc50d1c32.pem
 193E;8x8 Inc;SHAKEN 193E;https://certificates.transnexus.com/193E/236c2c22-882e-444f-a83e-67ca1a66297b.pem
 194K;Systemverse, LLC.;SHAKEN Systemverse, LLC. 194K;https://cr.sansay.com/Systemverse_LLC._194K
 197D;Vonage;SHAKEN 197D;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11053.10194
@@ -73,6 +76,7 @@ OCN;Org Name;CN;Cert
 210J;Greenfly Networks Inc dba Clearfly Communications;SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J;https://cr.sansay.com/210J/order/234_210J_63
 210J;Greenfly Networks Inc dba Clearfly Communications;SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J;https://cr.sansay.com/210J/order/237_210J_63
 210J;Greenfly Networks Inc dba Clearfly Communications;SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J;https://cr.sansay.com/210J/order/238_210J_63
+210J;Greenfly Networks Inc dba Clearfly Communications;SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J;https://cr.sansay.com/210J/order/239_210J_63
 219K;Avaya Cloud Inc;SHAKEN 219K;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11553.10201
 223K;Consolidated Smart Broadband Systems, LLC;SHAKEN 223K;https://p.mtsec.me/2884/Xupnnbi6Pcee.pem
 224C;Inteliquent;Inteliquent.com;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/1.1
@@ -82,8 +86,9 @@ OCN;Org Name;CN;Cert
 249K;Primo Dialler LLC;SHAKEN Primo Dialler LLC 249K;https://app.connexcs.com/api/stir-shaken/cert/45.crt
 249K;Primo Dialler LLC;SHAKEN Primo Dialler LLC 249K;https://cr.sansay.com/Primo_0809
 254H;GTT Americas LLC;SHAKEN 254H;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11404.10165
+2550;123.Net, Inc;SHAKEN 2550;https://certificates.clearip.com/2e3276e5-a5c5-43c7-ae11-3a226bf1b5ed/520756564707aba2ebbdcf3bf77d4fb1.pem
 2550;123.Net, Inc;SHAKEN 2550;https://certificates.clearip.com/2e3276e5-a5c5-43c7-ae11-3a226bf1b5ed/653dc50539916bce1a959eb528cd40f4.pem
-2550;123.Net, Inc;SHAKEN 2550;https://certificates.clearip.com/2e3276e5-a5c5-43c7-ae11-3a226bf1b5ed/6b48c18c573e8b1d9d43b78e36580938.pem
+255K;MAQS SOLUTIONS LLC;MAQS SOLUTIONS SHAKEN 255K;https://dial.maqssolution.live/255KD22.pem
 258K;Drop Inc;SHAKEN Drop Inc 258K;http://sti.comsapi.com/258k/ca.crt
 261H;Voyce;SHAKEN 261H;https://ssc.getsipnav.com/certs/b00badc474bbf0d965554e422647a4fcc426eb0c
 2720;TransNexus;Fusion Connect SHAKEN 2720;https://prod001-cr.rbbnidhub.com/8ZJdVFg7gz/2
@@ -106,6 +111,7 @@ OCN;Org Name;CN;Cert
 318J;Comcast;SHAKEN;https://sticr.stir.comcast.com/46330114-1c23-4d81-85c1-c74f8a443aec.cer
 318J;Comcast;SHAKEN;https://sticr.stir.comcast.com/4a71f96d-eb98-432e-b6e7-ee609be1a78d.cer
 318J;Comcast;SHAKEN;https://sticr.stir.comcast.com/6923f39a-d006-406c-97de-96d86be10e82.cer
+318J;Comcast;SHAKEN;https://sticr.stir.comcast.com/6dcc4566-0328-4400-8205-16efb6b3510d.cer
 318J;Comcast;SHAKEN;https://sticr.stir.comcast.com/6e165a5a-5b86-4858-8c59-6679f81ecd53.cer
 318J;Comcast;SHAKEN;https://sticr.stir.comcast.com/6e5c0981-392f-46ee-a846-3d6f4110daac.cer
 318J;Comcast;SHAKEN;https://sticr.stir.comcast.com/70ac811c-8cf3-470c-90a4-96a58ac6d862.cer
@@ -116,7 +122,6 @@ OCN;Org Name;CN;Cert
 318J;Comcast;SHAKEN;https://sticr.stir.comcast.com/9b94630c-c220-4f42-85d4-9cdb6d6c3302.cer
 318J;Comcast;SHAKEN;https://sticr.stir.comcast.com/a4e76cc7-ee95-44e1-804c-156afe197be6.cer
 318J;Comcast;SHAKEN;https://sticr.stir.comcast.com/aa78138c-09eb-4cb9-8f3e-e2df9ca61c97.cer
-318J;Comcast;SHAKEN;https://sticr.stir.comcast.com/acfcc810-fd84-439a-b316-2edb38fdc1fd.cer
 318J;Comcast;SHAKEN;https://sticr.stir.comcast.com/bbffbe3d-9d60-472b-bf47-1b7cf52afb69.cer
 318J;Comcast;SHAKEN;https://sticr.stir.comcast.com/bf428840-d767-43fe-9753-bc5e392ba652.cer
 318J;Comcast;SHAKEN;https://sticr.stir.comcast.com/bf720d86-b816-4ec2-bab0-37620c2a99d1.cer
@@ -175,7 +180,6 @@ OCN;Org Name;CN;Cert
 521F;ENA;ENA SHAKEN cert 521F;https://sti-cr.cgah.tnsi.com/certs/702fb83e8268b5175b591d8448a512646339bc40
 534J;UComTel;SHAKEN 534J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/145.146
 5447;Access One Inc;SHAKEN 5447;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11528.10146
-548J;Quality Voice & Data Inc.;SHAKEN Quality Voice & Data Inc. 548J;https://cr.sansay.com/548J/order/173_548J_67
 548J;Quality Voice & Data Inc.;SHAKEN Quality Voice & Data Inc. 548J;https://cr.sansay.com/548J/order/175_548J_67
 548J;Quality Voice & Data Inc.;SHAKEN Quality Voice & Data Inc. 548J;https://cr.sansay.com/548J/order/176_548J_67
 548J;Quality Voice & Data Inc.;SHAKEN Quality Voice & Data Inc. 548J;https://cr.sansay.com/548J/order/179_548J_67
@@ -195,11 +199,14 @@ OCN;Org Name;CN;Cert
 548J;Quality Voice & Data Inc.;SHAKEN Quality Voice & Data Inc. 548J;https://cr.sansay.com/548J/order/198_548J_67
 548J;Quality Voice & Data Inc.;SHAKEN Quality Voice & Data Inc. 548J;https://cr.sansay.com/548J/order/200_548J_67
 548J;Quality Voice & Data Inc.;SHAKEN Quality Voice & Data Inc. 548J;https://cr.sansay.com/548J/order/201_548J_67
+548J;Quality Voice & Data Inc.;SHAKEN Quality Voice & Data Inc. 548J;https://cr.sansay.com/548J/order/202_548J_67
 551G;Brightlink Communications LLC;SHAKEN 551G;https://certificates.transnexus.com/551G/0825639e-a50b-4b9f-a24c-3bc3d982dbc4.pem
+551G;Brightlink Communications LLC;SHAKEN 551G;https://certificates.transnexus.com/551G/b40195e4-b24b-4faa-a6a8-cf97a9563336.pem
 553J;Whitesky Communications LLC;SHAKEN 553J;https://certs.sip.wtsky.net/prod/shaken-6-2023.cer
 554J;Jivetel Inc;SHAKEN 554J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/91.155
 557F;Lightspeed Voice;SHAKEN Lightspeed Voice 557F;https://cr.sansay.com/lightspeedvoice
 558J;MYPBXManager LLC;MYPBXManager SHAKEN;https://www.mypbxmanager.net/local/PubShakenCert.crt
+5606;Charter Communications Inc SHAKEN 5606;SHAKEN 5606;https://shaken.spectrum.com/4d65efdb8a1ca366e9576c8fda747fa4.pem
 563J;Threshold Communications Inc;SHAKEN Threshold Communications Inc 563J;https://cr.sansay.com/Threshold_Communications_Inc_563J
 567G;Teliax Inc.;Shaken;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11316.10181
 573J;Voyant Communications LLC;SHAKEN 573J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/49.162
@@ -240,6 +247,7 @@ OCN;Org Name;CN;Cert
 6692;Northeast Communications of Wisconsin;Northeast Communications of Wisconsin SHAKEN Cert 6692;https://cdn-cr.cgah.tnsi.com/certs/1a7ab760b70a56725786e626f157ba4512f909ec
 669B;BTC Broadband;SHAKEN 669B;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11408.10160.pem
 670J;Mitel Cloud Services, Inc.;SHAKEN Mitel Cloud Services, Inc. 670J;https://cr.sansay.com/Mitel_Cloud_Services_Inc_670J
+672B;Clear Rate;SHAKEN 672B;https://certificates.clearip.com/dcef9a97-b864-43ac-830b-2290a8d0f002/3ca7178da315f21fe0357667bc74d8b7.pem
 672B;Clear Rate;SHAKEN 672B;https://certificates.clearip.com/dcef9a97-b864-43ac-830b-2290a8d0f002/b90a187b03b16e914f21de97c093d8a7.pem
 672J;Zoom Voice Communications;SHAKEN 672J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/134.135
 6744;Southern Linc;SHAKEN-6744;https://prod001-cr.rbbnidhub.com/frvFJbsMgz/sign-cert3
@@ -250,6 +258,7 @@ OCN;Org Name;CN;Cert
 6874;Viaero Wireless;Viaero Wireless SHAKEN Cert 6874;https://sti-cr.cgah.tnsi.com/certs/836dbe7b4ab9ad475219697d1553bed65e3d3463
 689J;XCast Labs;SHAKEN  XCast Labs 689J;https://cr.xcastlabs.net/1670740200/xclsshaken.pem
 691A;DayStarr Communications;SHAKEN 691A;https://certificates.clearip.com/853eda31-5f44-42d5-81f9-871258ee4c96/5eb54bea24824b0025296535806dfc34.pem
+691J;Toly Digital Networks Inc;SHAKEN 691J;https://certificates.clearip.com/84c98183-b28e-415a-8dc4-ba02b9ca5418/50d224d2f4a1ebf25dfdb97ece552d5d.pem
 6940;Appalachian Wireless;Appalachian Wireless SHAKEN Cert 6940;https://sti-cr.cgah.tnsi.com/certs/590f3a17396e9e874d158eb60337f24c3ac4812b
 696J;Telcentris Inc. dba Voxox;SHAKEN Telcentris Inc. dba Voxox 696J;https://cr.sansay.com/Voxox_696J
 700H;Metro Fibernet LLC;SHAKEN 700H;https://certificates.clearip.com/22b6cee0-8559-4c73-8092-6eee861c4b49/379f467517d5151e698d6a166a58a17f.pem
@@ -272,7 +281,6 @@ OCN;Org Name;CN;Cert
 709J;LOW LATENCY COMMUNICATIONS LLC;SHAKEN 709J;https://p.mtsec.me/2884/ERH2wV36e1wU.pem
 709J;LOW LATENCY COMMUNICATIONS LLC;SHAKEN 709J;https://p.mtsec.me/2884/IUYWW9O1LVyF.pem
 709J;LOW LATENCY COMMUNICATIONS LLC;SHAKEN 709J;https://p.mtsec.me/2884/OCdFGr4LOc4V.pem
-709J;LOW LATENCY COMMUNICATIONS LLC;SHAKEN 709J;https://p.mtsec.me/2884/UgFVJbrdMXYF.pem
 709J;LOW LATENCY COMMUNICATIONS LLC;SHAKEN 709J;https://p.mtsec.me/2884/Zwa3k-OsqQs_.pem
 709J;LOW LATENCY COMMUNICATIONS LLC;SHAKEN 709J;https://p.mtsec.me/2884/cJvT-tvY0IZ8.pem
 709J;LOW LATENCY COMMUNICATIONS LLC;SHAKEN 709J;https://p.mtsec.me/2884/d8IIBwwVQPAo.pem
@@ -292,27 +300,28 @@ OCN;Org Name;CN;Cert
 736J;Masergy Communications;SHAKEN 736J;https://certificates.transnexus.com/736J/27cf1c16-f0f0-41fa-a0c1-6c167396fe34.pem
 7379;Matrix;SHAKEN Matrix 7379;https://cr.sansay.com/Matrix-7379
 738J;SIP.US LLC;SHAKEN 738J;https://certificates.clearip.com/2185f3c0-09fe-4171-ac47-5f28eb0ef48e/02fc8a44426244c63de71c30e790cefb.pem
+738J;SIP.US LLC;SHAKEN 738J;https://certificates.clearip.com/2185f3c0-09fe-4171-ac47-5f28eb0ef48e/b2962a18f358c12a2a88c3a29ce0bde0.pem
 738J;SIP.US LLC;SHAKEN 738J;https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/46fad5120cbb7addd230e3bf6734359d.pem
 738J;SIP.US LLC;SHAKEN 738J;https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/6069f7cdd5fd3ad7d37bd989a1206f07.pem
 738J;SIP.US LLC;SHAKEN 738J;https://certificates.clearip.com/fa6a5cd3-a6c2-4c98-9995-b87249365948/f8b8f2936651f5314ef10dd49cbd3869.pem
 738J;SIP.US LLC;SHAKEN 738J;https://certificates.clearip.com/fa6a5cd3-a6c2-4c98-9995-b87249365948/fff3305fe327770c37668177ac397d03.pem
-738J;SkySwitch;SHAKEN 738J;https://certificates.transnexus.com/738J/3e0915d5-d7e6-4b93-87e7-ef2597ed5a43.pem
 738J;SkySwitch;SHAKEN 738J;https://certificates.transnexus.com/738J/682f8d90-524b-449f-a69b-f208b70a0420.pem
 738J;BCM One Inc;SHAKEN 738J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/165.181
 739J;Unified Global Solutions LLC;SHAKEN 739J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/158.172
 742D;Avid Communication;Avid Communication SHAKEN Cert 742D;https://sti-cr.cgah.tnsi.com/certs/1b0b321bad320b960a4f0fc8f2408d0daa110730
 743J;Whisl Telecom LLC;SHAKEN 743J;https://ssc.getsipnav.com/certs/8edc7b58944d44dd597d88ceae74ae41fa544d2e
 744J;Teleinx LLC;Teleinx SHAKEN 744J;https://certificates.peeringhub.io/744J/744J.crt
+7453;TPx;SHAKEN 7453;https://certificates.clearip.com/2a26bd25-8973-44ba-9b94-a8e4716b3888/720defd11aad5fea72df0b0d57a078d9.pem
 7453;U. S. Telepacific Corp;U. S. Telepacific Corp SHAKEN 7453;https://qcall.meta.tpx.net/certs/shaken_cacert.crt
 746J;Current Calls, LLC;SHAKEN Current Calls, LLC 746J;https://cr.sansay.com/Current_Calls_LLC_746J
 747J;Magic Apple;SHAKEN 747J;https://certificates.clearip.com/9e31f6fe-cfd3-49cc-b9fc-22963012a8d7/92c65647c2bc5e9e821da91fb63d4342.pem
 749J;iTalkGlobal;SHAKEN 749J;https://certificates.clearip.com/d7bfa171-ff4f-483d-849b-3f987c919d43/589624dced2419575d02228a2e399207.pem
 750J;Microtalk USA, Inc.;SHAKEN 750J;https://appreg.telcoportal.com/mobileapps/neustar/Microtalk-Shaken.pem
+753J;Senawave Communications, Inc.;SHAKEN 753J;https://certificates.clearip.com/ec37fdce-f409-4bc8-89e7-bd7f2679e0c8/76ebd0228d1e8a93aff7677d40cfbe4b.pem
 755J;CMS Internet;SHAKEN 755J;https://certificates.transnexus.com/755J/5e526fc6-7b0a-43a5-bb13-263d7edc74e3.pem
 7575;Lumen;SHAKEN 7575;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11001.10012
 758J;Convoso;SHAKEN Convoso 758J;https://stirshaken.s3.us-west-1.amazonaws.com/stirshaken.pem
 7608;Buckeye Telesystem Inc;Buckeye SHAKEN Cert 7608;https://sti-cr.cgah.tnsi.com/certs/ccf242c7f37d7d7d0af1091ba5d7894e312ccedd
-7610;Comcast;SHAKEN;https://sticr.stir.comcast.com/de3c7224-4d92-42aa-ad87-29cf07b3e19c.cer
 7615;RCN;RCN SHAKEN Cert 7615;https://sti-cr.cgah.tnsi.com/certs/11d9e0e06eeaaf56fb9be54eec6aae5a8b3461fe
 763H;PS Lightwave;SHAKEN 763H;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11358.10161.pem
 7661;Communications;cox.com;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11126.10191
@@ -324,6 +333,7 @@ OCN;Org Name;CN;Cert
 775J;Voip Stir PR LLC;SHAKEN 775J;https://ssc.getsipnav.com/certs/ffad5de97793861e660be844cf52d740aa256d7d
 777G;Sangoma;SHAKEN Sangoma 777G;https://cr.sansay.com/Sangoma_777G
 7785;GCI;GCI SHAKEN Cert 7785;https://sti-cr.cgah.tnsi.com/certs/cd1856717574765eb6b4bddb7a5bc8814e1e2103
+779J;Televergence Solutions Inc;SHAKEN Televergence Solutions Inc 779J;https://cr.sansay.com/779J/order/160_779J_73
 7804;TDS Telecom;TDS Telecom SHAKEN Cert 7804;https://sti-cr.cgah.tnsi.com/certs/9b2b8bbbd5a5a28082425a21229434097aafd9b2
 780J;ALD Telecom;SHAKEN ALD Telecom 780J;https://cr.sansay.com/ALD_Telecom_780J
 782J;AM Communications Labs Inc;SHAKEN 782J;https://ssc.getsipnav.com/certs/d68017fb427d47359b7108377a18cf105aad7709
@@ -340,6 +350,7 @@ OCN;Org Name;CN;Cert
 811J;Alianza;prod SHAKEN 811J;https://api.alianza.com/v2/stir-shaken/certs/b45a4083-1554-4412-b5fc-bbd2c027091e/key.crt
 813J;Rscom LTD;SHAKEN 813J;https://ssc.getsipnav.com/certs/2e7995d25837c174efaf63e3ff1b1d69456e6412
 815G;382 Communications;SHAKEN 815G;https://certificates.transnexus.com/815G/c147c307-645b-4fcd-99d0-2be9a709b265.pem
+815J;DLS Internet Services;SHAKEN DLS Internet Services 815J;https://cr.sansay.com/DLS_Internet_Services_815J
 816J;Arbeit;SHAKEN Arbeit 816J;https://cr.sansay.com/Arbeit_816J
 819H;BluIP Inc.;SHAKEN 819H;https://certificates.clearip.com/3c4ce448-386b-4d47-a276-7fe32e380a83/319a8489736049e6252b60a7cdf3d9a2.pem
 819J;Crexendo Business Solutions Inc;SHAKEN 819J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/146.147
@@ -358,8 +369,8 @@ OCN;Org Name;CN;Cert
 849J;Fuse.Cloud;SHAKEN 849J;https://certificates.clearip.com/86e241b8-9c8e-4431-b35f-4d92844a1da9/63a2bb261789077db73cf11847f8af57.pem
 854J;snetconnect;SHAKEN 854J;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11541.10167
 857J;IEvolve;SHAKEN 857J;https://icomm.i-evolve.net/certs/icomm-shaken-sbc01.crt
-862J;Zray Technologies Corporation;SHAKEN Zray Technologies Corporation 862J;https://cr.sansay.com/862J/order/275_862J_58
 863J;Contact Center Specialists LLC;SHAKEN 863J;https://ssc.getsipnav.com/certs/16de0926d65be10547c26ed3417d6ffd26e3a7f3
+864J;BareTelecom;SHAKEN 864J;https://certificates.clearip.com/068da5f9-4dcc-47ef-be68-4fde86a6b74d/a1c716cf12236a07e2db89c12508871a.pem
 866J;VocalIP;SHAKEN 866J;https://certificates.transnexus.com/866J/6442b809-7dbd-4be7-9b98-a8ec96d005ea.pem
 8697;Baltimore-Washington Telephone Company;Baltimore-Washington Telephone Company SHAKEN cert 8697;https://bwt.io/8697a2.crt
 869J;Sipnex Telecom LLC;SHAKEN 869J;https://ssc.getsipnav.com/certs/fef3962eaffeb276be4bf92fa16a666186c83733
@@ -378,22 +389,22 @@ OCN;Org Name;CN;Cert
 920J;InteractiveTel, LLC;SHAKEN InteractiveTel, LLC 920J;https://cr.sansay.com/920J/order/156_920J_66
 920J;InteractiveTel, LLC;SHAKEN InteractiveTel, LLC 920J;https://cr.sansay.com/920J/order/157_920J_66
 920J;InteractiveTel, LLC;SHAKEN InteractiveTel, LLC 920J;https://cr.sansay.com/920J/order/158_920J_66
+920J;InteractiveTel, LLC;SHAKEN InteractiveTel, LLC 920J;https://cr.sansay.com/920J/order/165_920J_66
 9262;Utility Telecom Group, LLC;Utility SHAKEN Cert 9262;https://sti-cr.cgah.tnsi.com/certs/9da57471f2181f41af029f868fb29eb79e8af233
 939H;Commio;SHAKEN 939H;https://storage.googleapis.com/stirshaken/ShakeNBakeCert.pem
 9451;Matrix;SHAKEN Matrix 9451;https://cr.sansay.com/Lingo-9451
 945H;Northeast Oklahoma Electric Cooperative, Inc;Northeast Oklahoma Electric Cooperative SHAKEN Cert 945H;https://sti-cr.cgah.tnsi.com/certs/235213bf0fd6f738e4ac1c4dfc9ccfd304428ace
 951J;Zultys Inc;SHAKEN 951J;https://zultys-pem-cert-2022.s3.amazonaws.com/89179fa533bbaf0aea20a9f31aa06f20.pem
 952J;Syndeo LLC dba Broadvoice;SHAKEN 952J;https://certificates.transnexus.com/952J/70ed906b-c916-4e8a-94f8-bd5ddbd64e72.pem
-952J;Syndeo LLC dba Broadvoice;SHAKEN 952J;https://certificates.transnexus.com/952J/933ae4bb-a38f-410b-9c14-38fd2f4c7893.pem
 9555;Intrado Corporation;intrado.com;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11125.10033
 962J;Versatel LLC;SHAKEN 962J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/176.230
 963J;Freevoice;SHAKEN 963J;http://sip.phx.dlr.freevoicepbx.com/Freevoice_963J
-965H;FracTEL LLC;FracTEL LLC SHAKEN;https://ssc.fractel.net/ssc/fractelssc.pem
 966J;J2 Web Services Inc;SHAKEN 966J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/120.121
 969H;Google;Google SHAKEN cert 969H;https://www.gstatic.com/gtp/stir/0KNv42j7T4F2xjpsMbNWRA.pem
 969H;Google Voice Inc.;Google SHAKEN cert 969H;https://www.gstatic.com/gtp/stir/ci7ZmchtCrfFCxSJBSFtcA.pem
+970J;Procomm Online Inc;SHAKEN 970J;https://certificates.clearip.com/795acb3b-a8b6-46c4-8ba6-82b33e759e7b/bf7c006d8211d5e458ecbc0cb5d728eb.pem
 973J;Vibratel;SHAKEN 973J;https://ssc.getsipnav.com/certs/ae9ce419128be68bc5667048aae938cad247e5f3
-983J;ESI;SHAKEN 983J;https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/335e4c7952325e3ddd3871ffcde79cde.pem
+983J;ESI;SHAKEN 983J;https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/71c451bb7f8f033a907cf9bfcb96ef50.pem
 983J;ESI;SHAKEN 983J;https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/eaa936bbc3b268a82bcdb3d47c77d8fc.pem
 988J;Asia Pacific Network;SHAKEN Asia Pacific Network 988J;https://cr.sansay.com/Asia_Pacific_Network_988J
 9915;Clearwave Communications;Clearwave SHAKEN Cert 9915;https://sti-cr.cgah.tnsi.com/certs/f63503c138e2b55933317f09cc5a1cc4e8a3de1d

@@ -12,7 +12,6 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | FracTEL LLC SHAKEN | [view](../../CERTS/81188428a77465a01dbc3a49509aa0486510c109472f8af6e5cb1887a682040e/README.md) | bad TNAuthorizationList, bad TNAuthorizationList ASN.1 raw, asn1: syntax error: data truncated |
 | error | MYPBXManager SHAKEN | [view](../../CERTS/0c7bf2cc1741b8036003876afadd109dfd5a6b0fb7af3662ae4d02e3340ad9ce/README.md) | bad TNAuthorizationList, bad TNAuthorizationList ASN.1 raw, asn1: syntax error: data truncated |
 
 ### CA Certificates
@@ -20,4 +19,4 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 No error, warning, or notice level issues were found
 
 
-Generated: 30 Nov 22 17:24 UTC
+Generated: 01 Dec 22 19:10 UTC

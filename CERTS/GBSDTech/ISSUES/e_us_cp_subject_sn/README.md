@@ -12,7 +12,6 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | FracTEL LLC SHAKEN | [view](../../CERTS/81188428a77465a01dbc3a49509aa0486510c109472f8af6e5cb1887a682040e/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | MYPBXManager SHAKEN | [view](../../CERTS/0c7bf2cc1741b8036003876afadd109dfd5a6b0fb7af3662ae4d02e3340ad9ce/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 ### CA Certificates
@@ -20,4 +19,4 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 No error, warning, or notice level issues were found
 
 
-Generated: 30 Nov 22 17:24 UTC
+Generated: 01 Dec 22 19:10 UTC

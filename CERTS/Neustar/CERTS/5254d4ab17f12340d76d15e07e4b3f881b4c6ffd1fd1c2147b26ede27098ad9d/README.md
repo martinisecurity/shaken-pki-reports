@@ -2,9 +2,9 @@
 
 ## Certificate alticeusa.com
 
-Tested At: 30 Nov 22 17:23 UTC\
+Tested At: 01 Dec 22 19:06 UTC\
 Initial Validity Period: 1096 day(s)\
-Remaining Validity Period: 19 day(s)\
+Remaining Validity Period: 18 day(s)\
 Subject: C=US, ST=NY, L=Hicksville, O=alticeusa, OU=alticeusa, CN=alticeusa.com\
 Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1\
 Link: https://cr.ccid.alticeusa.com/ccid/authn/v2/certs/11011.10003
@@ -39,4 +39,4 @@ Link: https://cr.ccid.alticeusa.com/ccid/authn/v2/certs/11011.10003
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 30 Nov 22 17:24 UTC
+Generated: 01 Dec 22 19:10 UTC

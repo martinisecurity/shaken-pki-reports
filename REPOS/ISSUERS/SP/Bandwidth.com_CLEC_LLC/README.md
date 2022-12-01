@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 370ms average time it took to download each certificate
+- 353ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://bw-shaken-cert-pub.s3.amazonaws.com/bandwidth-shaken-cert_20230716.pem` | 16 Jul 23 04:13 UTC | true | [view](REPOS/bd0e0fdaa8e3761326687d3ef72f82e1148be2a8/README.md) |
+| `https://bw-shaken-cert-pub.s3.amazonaws.com/bandwidth-shaken-cert_20230716.pem` | 16&#160;Jul&#160;23&#160;04:13&#160;UTC | true | [view](REPOS/bd0e0fdaa8e3761326687d3ef72f82e1148be2a8/README.md) |
 
 
-Generated: 30 Nov 22 17:24 UTC
+Generated: 01 Dec 22 19:10 UTC

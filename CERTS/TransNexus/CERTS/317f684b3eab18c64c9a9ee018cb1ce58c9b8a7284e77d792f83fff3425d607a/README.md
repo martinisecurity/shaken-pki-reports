@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 691A
 
-Tested At: 30 Nov 22 17:22 UTC\
+Tested At: 01 Dec 22 19:06 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: 3 day(s)\
+Remaining Validity Period: 2 day(s)\
 Subject: CN=SHAKEN 691A, O=DayStarr Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/853eda31-5f44-42d5-81f9-871258ee4c96/5eb54bea24824b0025296535806dfc34.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/853eda31-5f44-42d5-81f9-871258ee4c96/5eb5
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 30 Nov 22 17:24 UTC
+Generated: 01 Dec 22 19:10 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 710A
 
-Tested At: 30 Nov 22 17:23 UTC\
+Tested At: 01 Dec 22 19:07 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 251 day(s)\
+Remaining Validity Period: 250 day(s)\
 Subject: CN=SHAKEN 710A, O=Allo Communications LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11438.10200.pem
@@ -18,4 +18,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11438.10200.pem
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 30 Nov 22 17:24 UTC
+Generated: 01 Dec 22 19:10 UTC

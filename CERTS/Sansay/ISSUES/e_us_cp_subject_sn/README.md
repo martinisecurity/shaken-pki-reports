@@ -21,7 +21,7 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 | error | SHAKEN NTC International, INC 016K | [view](../../CERTS/09409ec33539419a0321c54eaad06baeccf5708bce2112dd1a8499731d7c8aee/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN NTC International, INC 016K | [view](../../CERTS/b7fa79f7dc6eeef8b3c02a8b1db0bcd102d85777210e7f7e14eb2f3cecf27974/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN NTC International, INC 016K | [view](../../CERTS/24fe23bbad3fa34c0c9f7bcd9e36a45bf0974a82c2b574780a3d582f301f049e/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| error | SHAKEN Cyberlynk Network, LLC 086K | [view](../../CERTS/081c6b3caf13a694f3dc2feaaa56193480879b726acc425e65d8fb37a3e28cbc/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| error | SHAKEN NTC International, INC 016K | [view](../../CERTS/9c5bef68583aef1a5034f87aa532bc676fb1d40f81325b536dc6336f3e295020/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/d27a959a21dc295781c932032c24d6e53b61a5088ab3d2cc98ac93562c5ec6cd/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/4097442cf48bd256c17ba8c6216a1628dd6173fa170b20c5044148ccc4f62de7/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/95eafe838e93ad32691c4a673afbedced0121bf5142d014aa9fbc4502f73df42/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
@@ -33,6 +33,7 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 | error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/e6410ba9fa07944c517ccab0a073939d061571acd1a28a96232d630020797a91/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/dfdb808f2f94929ae6847f80fddc6fbcf54d7cbf490c28090e4fea49012bbf1d/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/597d2bfba3f5c1445f03792348e4cd98ab8cc8b44bd896be347489510679a137/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/518f8e632dd4bb454ac599c8dfea1c3d51b289ae8623627dbef3abedca67ff8d/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN Xchange Telecom LLC 325B | [view](../../CERTS/6bab691174d8e7b237a7fe1b00556840e2a5c28a1839f8e345dd9ba721ba23bb/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN Terra Nova Telecom 382G | [view](../../CERTS/e3314c858960e9f66e4d11033b2ef1aeaa54794506dcd6ea8e01e9f4120bf976/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN 1stPoint Communications, LLC 463G | [view](../../CERTS/322096d99c6f6beb803c72f64ba15430bf34292da2e7736382405346d1920c2e/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
@@ -40,7 +41,6 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 | error | SHAKEN 1stPoint Communications, LLC 463G | [view](../../CERTS/7966daa2575a676e64515d90b5037c1473eac821e2f55c5ff8ddd3e1d2453f05/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN 1stPoint Communications, LLC 463G | [view](../../CERTS/fd6d73b3c2895571a436b1d5301fe14cfcf8485ed70415118ef0a2c07e9e435e/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN 1stPoint Communications, LLC 463G | [view](../../CERTS/cf147be7a87bd98ac78358181238d18bd46fe0bc992f25e5a875098cd27a0ba9/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/8660f3e745ab090b45cf80648e48b2cc83449bb33a650bee29b9c4c498d268d4/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/e05e81f7e34f2088102df66b64b44c5549708f9182a79e6e7d1157333260d98b/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/51862e962c0ec2667b8ee2862f0eee4d50fcdaf629bfaa3e7191ed7018f56db1/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/16593a1d36bc2265a80aa16a52e6936c5004486f6a84266e6b9d166c82509a8c/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
@@ -60,11 +60,12 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 | error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/73f0b8709ec9702c103d7bbd9d808ba041783cc35a7492fa6e47bc1672b2ba6b/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/e15f0ef42f7371f303897b998c174f2800d8d3ee2671ded8c0254716795ccafd/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/91a428d4713a6d944a1c0509925d0df05e24d9e2490457099544333a10cd9fbf/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/408a130690cd123cd4bae17e157b93eb41d7355c82eef7bb36b7253ead7cf31a/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN Broadband Dynamics LLC 583j | [view](../../CERTS/1314c42206284ec6487c7e86cc7e882a7b49e8d1b3bbd4be12a3e1407494a233/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| error | SHAKEN Televergence Solutions Inc 779J | [view](../../CERTS/fa5d3ad33ea9b4bd7b4e0dffe89a7147e629942573cc303d1b404f096ec4de76/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN IPSBS Managed Services LLC 828J | [view](../../CERTS/5c216d5eb90d5b09e51db9c9a1b3bad35f94f504a92261dc65dde90913fb410a/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN IPSBS Managed Services LLC 828J | [view](../../CERTS/273c6545be615c3dcce645179486c9e00ae37b1fbee1440ccd94cc28720e6fe1/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN IPSBS Managed Services LLC 828J | [view](../../CERTS/d8fb28426197f31ebb43aa58286b50bf249430a1f3c1145b8260f33ee5b54c43/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| error | SHAKEN Zray Technologies Corporation 862J | [view](../../CERTS/3a227acdee5e639036b62df263e132c42bb684a9d6273fe6611464dbe434b2db/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN IP Link Telecom Inc. 902J | [view](../../CERTS/53d491627ef52772ffd75835f745e895f025bfc853523028b42c0bc1681e5f67/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN IP Link Telecom Inc. 902J | [view](../../CERTS/fa453a929f14e705532a1974b216dedb71ba1f10d6af0df07f1084bfbb2038db/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN InteractiveTel, LLC 920J | [view](../../CERTS/0ced8150d7cbed20775669aafeecd05726f233c901d024bb4fa64e9ce75b9f7a/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
@@ -74,6 +75,7 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 | error | SHAKEN InteractiveTel, LLC 920J | [view](../../CERTS/2322461ea6facdf55eff9dbf53b51b42a8d3c24dc179cbcba28e05a5da0600b6/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN InteractiveTel, LLC 920J | [view](../../CERTS/9b65e5ddc85ff994ab983b4e2e98241ca756a0840237aedd031d34b83cc0894a/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN InteractiveTel, LLC 920J | [view](../../CERTS/86b6da6915cbf408b97937eca513d5494b79302b558310e3a4fdf4eacfb8df39/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| error | SHAKEN InteractiveTel, LLC 920J | [view](../../CERTS/0629f9b5eba88aefc3c032e28da28ac6467ae0e7bddbe2503db61e0e3b6ea28f/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN ALD Telecom 780J | [view](../../CERTS/53a14081c994555770bb8c5f3d160f89cf427258c9598d569c388a74bde6ea8f/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN Airespring 996H | [view](../../CERTS/7560a9d1569990b94ad8c978c95c9d61f745b15dce383433d34797548f57f395/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN Apeiron Systems 012J | [view](../../CERTS/89ad016561840539edaa6de902af87d7548e6a73b95ff47d4183b8fd7833c20b/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
@@ -85,6 +87,7 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 | error | SHAKEN Consolidated Communications 5113 | [view](../../CERTS/bd309b15066f2de4544ab567afe6db96b5be23ac91cef688b938ff58b8e3b091/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN ConvergeTel LLC 388K | [view](../../CERTS/c7fd0f44c8754d373dcca18b5ccaf082cdc1fe357f18b46803a105d3d2d6ec6b/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN Current Calls, LLC 746J | [view](../../CERTS/52d6a93a1b72d2f2980699e759068dd9dbc8314c953e03613f18d9da1dcf156d/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| error | SHAKEN DLS Internet Services 815J | [view](../../CERTS/7cd8319bedd12f040e8bd7b522d981aabcd24dc5aef74614a67fb6fdc9b9823b/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN Fonative, Inc. 684J | [view](../../CERTS/c24083689456c887c751f152ef9aa7751bb8b6ed304ef1353494612069fdd4a4/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN Global Net Holdings Inc 306K | [view](../../CERTS/2da401f846b27ab52c1e3165eb3a05817cceeeb85473df066979c2af2d90b9f8/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/d754834bfae4fbcfc91ca89e72cfa2ac6e8437ecbd70caae4e9971af37553f0b/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
@@ -129,4 +132,4 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 No error, warning, or notice level issues were found
 
 
-Generated: 30 Nov 22 17:24 UTC
+Generated: 01 Dec 22 19:10 UTC

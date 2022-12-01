@@ -2,9 +2,9 @@
 
 ## Certificate TalkAsiaVoip LLC SHAKEN 198K
 
-Tested At: 30 Nov 22 17:24 UTC\
+Tested At: 01 Dec 22 19:10 UTC\
 Initial Validity Period: 29 day(s)\
-Remaining Validity Period: 19 day(s)\
+Remaining Validity Period: 18 day(s)\
 Subject: CN=TalkAsiaVoip LLC SHAKEN 198K, O=TalkAsiaVoip LLC, ST=DE, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://www.talkasiavoip.com/198K.pem
@@ -13,9 +13,9 @@ Link: https://www.talkasiavoip.com/198K.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 30 Nov 22 17:24 UTC
+Generated: 01 Dec 22 19:10 UTC

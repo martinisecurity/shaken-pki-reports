@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 106ms average time it took to download each certificate
+- 405ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://crs.qcall.sonic.net/certs/soniccertchain.crt` | 29 Jun 24 16:55 UTC | true | [view](REPOS/caa75ff115b7136783dbc90ba9e421b9153eeaf6/README.md) |
+| `https://crs.qcall.sonic.net/certs/soniccertchain.crt` | 29&#160;Jun&#160;24&#160;16:55&#160;UTC | true | [view](REPOS/caa75ff115b7136783dbc90ba9e421b9153eeaf6/README.md) |
 
 
-Generated: 30 Nov 22 17:24 UTC
+Generated: 01 Dec 22 19:10 UTC

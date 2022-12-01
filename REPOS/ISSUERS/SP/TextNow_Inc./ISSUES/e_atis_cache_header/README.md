@@ -9,7 +9,7 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://pki.tncp.textnow.com/stir-shaken-textnow-cert.pem` | 01 Nov 22 16:36 UTC | true | [view](../../REPOS/3958a3a042e51efa3bf53241511f9ea26a628622/README.md) |
+| `https://pki.tncp.textnow.com/stir-shaken-textnow-cert.pem` | 01&#160;Nov&#160;22&#160;16:36&#160;UTC | true | [view](../../REPOS/3958a3a042e51efa3bf53241511f9ea26a628622/README.md) |
 
 
-Generated: 30 Nov 22 17:24 UTC
+Generated: 01 Dec 22 19:10 UTC

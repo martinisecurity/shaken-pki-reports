@@ -2,9 +2,9 @@
 
 ## Certificate BigRiverTelephoneCompany
 
-Tested At: 30 Nov 22 17:23 UTC\
+Tested At: 01 Dec 22 19:07 UTC\
 Initial Validity Period: 1096 day(s)\
-Remaining Validity Period: 419 day(s)\
+Remaining Validity Period: 417 day(s)\
 Subject: C=US, ST=MO, L=Girardeau, O=Big River Telephone Company, OU=BRCNG, CN=BigRiverTelephoneCompany\
 Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11133.10171.pem
@@ -28,4 +28,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11133.10171.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 30 Nov 22 17:24 UTC
+Generated: 01 Dec 22 19:10 UTC
