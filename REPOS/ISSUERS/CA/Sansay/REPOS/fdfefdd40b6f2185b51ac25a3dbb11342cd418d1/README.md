@@ -3,8 +3,8 @@
 ## Sansay
 
 Name: `https://cr.sansay.com/Connexum_LLC_203K`\
-Tested At: 30 Nov 22 18:16 UTC\
-Time: 68ms
+Tested At: 01 Dec 22 19:21 UTC\
+Time: 40ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 68ms
 |------|------|--------|---------|
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 30 Nov 22 18:29 UTC
+Generated: 01 Dec 22 19:22 UTC

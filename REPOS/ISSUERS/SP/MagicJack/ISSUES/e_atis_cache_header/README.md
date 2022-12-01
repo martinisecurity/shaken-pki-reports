@@ -9,7 +9,7 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://sns.magicjack.com/324E.chain.crt.pem` | 18 Nov 22 16:16 UTC | true | [view](../../REPOS/d18a6931e976e90e2b264dfde64b6f72c2727b3f/README.md) |
+| `https://sns.magicjack.com/324E.chain.crt.pem` | 18&#160;Nov&#160;22&#160;16:16&#160;UTC | true | [view](../../REPOS/d18a6931e976e90e2b264dfde64b6f72c2727b3f/README.md) |
 
 
-Generated: 30 Nov 22 18:29 UTC
+Generated: 01 Dec 22 19:22 UTC

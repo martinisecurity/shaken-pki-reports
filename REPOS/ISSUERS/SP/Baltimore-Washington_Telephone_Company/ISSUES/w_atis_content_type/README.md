@@ -9,7 +9,7 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://bwt.io/8697a2.crt` | 23 Dec 22 16:59 UTC | true | [view](../../REPOS/fc1c248e4d98fe9c08350e026c150c111b9122e6/README.md) |
+| `https://bwt.io/8697a2.crt` | 23&#160;Dec&#160;22&#160;16:59&#160;UTC | true | [view](../../REPOS/fc1c248e4d98fe9c08350e026c150c111b9122e6/README.md) |
 
 
-Generated: 30 Nov 22 18:29 UTC
+Generated: 01 Dec 22 19:22 UTC

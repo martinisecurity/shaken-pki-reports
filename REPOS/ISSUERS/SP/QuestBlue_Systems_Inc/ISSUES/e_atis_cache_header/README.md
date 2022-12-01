@@ -9,7 +9,7 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://customer.questblue.com/assets/questblue_shaken.cer` | 18 Mar 23 18:18 UTC | true | [view](../../REPOS/8dc4c0c1b129963e864cd310fa6b03bb952981a5/README.md) |
+| `https://customer.questblue.com/assets/questblue_shaken.cer` | 18&#160;Mar&#160;23&#160;18:18&#160;UTC | true | [view](../../REPOS/8dc4c0c1b129963e864cd310fa6b03bb952981a5/README.md) |
 
 
-Generated: 30 Nov 22 18:29 UTC
+Generated: 01 Dec 22 19:22 UTC

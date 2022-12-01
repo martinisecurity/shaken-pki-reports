@@ -2,9 +2,9 @@
 
 ## Certificate Veracity SHAKEN 716D
 
-Tested At: 30 Nov 22 18:16 UTC\
+Tested At: 01 Dec 22 19:21 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 171 day(s)\
+Remaining Validity Period: 170 day(s)\
 Subject: CN=Veracity SHAKEN 716D, OU=Voice, O=Veracity Networks LLC, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-cr.rbbnidhub.com/VaMEsVjGRz/May20222023-7f9cc6dca255376339d3370091b2fdde
@@ -20,4 +20,4 @@ Link: https://prod001-cr.rbbnidhub.com/VaMEsVjGRz/May20222023-7f9cc6dca255376339
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 30 Nov 22 18:29 UTC
+Generated: 01 Dec 22 19:22 UTC

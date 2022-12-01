@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 333K
 
-Tested At: 30 Nov 22 18:15 UTC\
+Tested At: 01 Dec 22 19:19 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 349 day(s)\
+Remaining Validity Period: 348 day(s)\
 Subject: CN=SHAKEN 333K, O=Aovatalk Communications Limited, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/190.254
@@ -16,4 +16,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/190.254
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 30 Nov 22 18:29 UTC
+Generated: 01 Dec 22 19:22 UTC

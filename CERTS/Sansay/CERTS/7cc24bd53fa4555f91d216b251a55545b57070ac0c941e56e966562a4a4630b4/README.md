@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Magna5, LLC 8249
 
-Tested At: 30 Nov 22 18:16 UTC\
+Tested At: 01 Dec 22 19:21 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: 16 day(s)\
+Remaining Validity Period: 15 day(s)\
 Subject: CN=SHAKEN Magna5\\, LLC 8249, OU=Operations, O=Magna5\\, LLC, ST=Texas, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Magna5_8249.crt
@@ -20,4 +20,4 @@ Link: https://cr.sansay.com/Magna5_8249.crt
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
 
-Generated: 30 Nov 22 18:29 UTC
+Generated: 01 Dec 22 19:22 UTC

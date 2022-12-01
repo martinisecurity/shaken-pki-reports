@@ -9,7 +9,7 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://certificate.zt.plivo.com/cert09062023.crt` | 09 Jun 23 00:00 UTC | true | [view](../../REPOS/baa1251ebc3270e2f29ebe74c432d508093954f3/README.md) |
+| `https://certificate.zt.plivo.com/cert09062023.crt` | 09&#160;Jun&#160;23&#160;00:00&#160;UTC | true | [view](../../REPOS/baa1251ebc3270e2f29ebe74c432d508093954f3/README.md) |
 
 
-Generated: 30 Nov 22 18:29 UTC
+Generated: 01 Dec 22 19:22 UTC

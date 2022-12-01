@@ -33,12 +33,10 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 | error | SHAKEN | [view](../../CERTS/122bd732a52eafd21e1a328ed7d94c7dabbe164a3f5c60e62fef8f9e85b5653c/README.md) | Common name shall contain the text string 'SHAKEN 318J' |
 | error | SHAKEN | [view](../../CERTS/f3459e563ad32fa87fe02780f443052ecacc98eabb64a0eeebbf262520bb2d48/README.md) | Common name shall contain the text string 'SHAKEN 318J' |
 | error | SHAKEN | [view](../../CERTS/3e9171d58db76444586aeb4cc519fe853c088f7b473cb9aeb5daa24ba63dcbbd/README.md) | Common name shall contain the text string 'SHAKEN 318J' |
-| error | SHAKEN | [view](../../CERTS/672077a75a58fb6c5d6bb8f067812b721dbad767c682832c2fa646e43ffd36b6/README.md) | Common name shall contain the text string 'SHAKEN 318J' |
 | error | SHAKEN | [view](../../CERTS/941bbea2a5f8141a04f09050a1c0970ac42aaf4dff931b73154972159d6bbdd7/README.md) | Common name shall contain the text string 'SHAKEN 318J' |
 | error | SHAKEN | [view](../../CERTS/10bd31097a4a104040283ce19cfb771db731bdcd5fa3ba614bc0633740fe49c8/README.md) | Common name shall contain the text string 'SHAKEN 318J' |
 | error | SHAKEN | [view](../../CERTS/2f6ca39ec95f8261d33d6b4b3d924f40cdfd1345433f10c2a31a83d5458770e4/README.md) | Common name shall contain the text string 'SHAKEN 318J' |
 | error | SHAKEN | [view](../../CERTS/c0715f592e3969eda8bd6311cf412a73173fa9577e2f281c8f161cbbc42ed89f/README.md) | Common name shall contain the text string 'SHAKEN 318J' |
-| error | SHAKEN | [view](../../CERTS/a47b02b168a680b892b4ce263af30b19632ac8b8d62b1ef29c055c6f20f4ed01/README.md) | Common name shall contain the text string 'SHAKEN 7610' |
 | error | SHAKEN | [view](../../CERTS/8f4edf7b390186bcef76eb1ed3fd648bf478ab8e2bed96d7fdc7a0b7bbe83524/README.md) | Common name shall contain the text string 'SHAKEN 318J' |
 | error | SHAKEN | [view](../../CERTS/786b58767652fc5f159d5cc86fc0671426ce45ae8197663c6e369ea9e725129e/README.md) | Common name shall contain the text string 'SHAKEN 318J' |
 
@@ -47,4 +45,4 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 No error, warning, or notice level issues were found
 
 
-Generated: 30 Nov 22 18:29 UTC
+Generated: 01 Dec 22 19:22 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 597J
 
-Tested At: 30 Nov 22 18:14 UTC\
+Tested At: 01 Dec 22 19:19 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 192 day(s)\
+Remaining Validity Period: 191 day(s)\
 Subject: CN=SHAKEN 597J, OU=SHAKEN, O=Voxtelesys, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/597J/6572b8e4-01de-48c3-9b11-d21cd134c569.pem
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/597J/6572b8e4-01de-48c3-9b11-d21cd134c
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 30 Nov 22 18:29 UTC
+Generated: 01 Dec 22 19:22 UTC

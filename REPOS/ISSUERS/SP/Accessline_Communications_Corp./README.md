@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 788ms average time it took to download each certificate
+- 231ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://sscerts.accessline.com/sscerts/Cert-US-04-2022.crt` | 23 Apr 23 01:57 UTC | true | [view](REPOS/3192dd44076a69435da2acb987726efbcab30c5f/README.md) |
+| `https://sscerts.accessline.com/sscerts/Cert-US-04-2022.crt` | 23&#160;Apr&#160;23&#160;01:57&#160;UTC | true | [view](REPOS/3192dd44076a69435da2acb987726efbcab30c5f/README.md) |
 
 
-Generated: 30 Nov 22 18:29 UTC
+Generated: 01 Dec 22 19:22 UTC

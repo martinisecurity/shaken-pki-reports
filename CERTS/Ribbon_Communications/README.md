@@ -45,7 +45,7 @@
 - 100.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 7360 days is the average remaining validity for the certificates in the corpus
+- 7359 days is the average remaining validity for the certificates in the corpus
 - 6757 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -58,18 +58,18 @@
 
 #### Leaf Certificates
 
-| Created at | Subject | Problems | Link |
-|------------|---------|----------|------|
-| 29 Apr 22 17:43 UTC | Nuwave Communications SHAKEN 620J | true | [view](CERTS/885b7fea5177d66a28bd5dea525144479428e27d2ed1ff7c493d767c73173fbc/README.md) |
-| 20 May 22 14:32 UTC | Veracity SHAKEN 716D | true | [view](CERTS/fccfbb719ccc9513231e9ea6f38906f0271f4640f253e1be0780da1e7b5f03ff/README.md) |
-| 10 Jun 22 19:00 UTC | Netfortris SHAKEN 8886 | true | [view](CERTS/64b7a3eed364e863b36e050a95b35799c594ea1c15c17562611907a2f0dd8bbe/README.md) |
+| Created At | Subject | Not After | Problems | Link |
+|------------|---------|-----------|----------|------|
+| 29&#160;Apr&#160;22&#160;17:43&#160;UTC | Nuwave Communications SHAKEN 620J | 29&#160;Apr&#160;23&#160;17:42&#160;UTC | true | [view](CERTS/885b7fea5177d66a28bd5dea525144479428e27d2ed1ff7c493d767c73173fbc/README.md) |
+| 20&#160;May&#160;22&#160;14:32&#160;UTC | Veracity SHAKEN 716D | 20&#160;May&#160;23&#160;14:32&#160;UTC | true | [view](CERTS/fccfbb719ccc9513231e9ea6f38906f0271f4640f253e1be0780da1e7b5f03ff/README.md) |
+| 10&#160;Jun&#160;22&#160;19:00&#160;UTC | Netfortris SHAKEN 8886 | 10&#160;Jun&#160;23&#160;19:00&#160;UTC | true | [view](CERTS/64b7a3eed364e863b36e050a95b35799c594ea1c15c17562611907a2f0dd8bbe/README.md) |
 
 #### CA Certificates
 
-| Created at | Subject | Problems | Link |
-|------------|---------|----------|------|
-| 13 May 21 00:00 UTC | SHAKEN Ribbon Issuing CA | true | [view](CERTS/05a71a04eaedbdf4b0534f40768616d7c19c8deb5a3aefd1f4a04b3aab55a48f/README.md) |
-| 13 May 21 00:00 UTC | SHAKEN Ribbon Root CA | true | [view](CERTS/7c2799d3642d04f04fe667c3ab251c18689af323acdc43b2fa5f3dc89e3a0f14/README.md) |
+| Created At | Subject | Not After | Problems | Link |
+|------------|---------|-----------|----------|------|
+| 13&#160;May&#160;21&#160;00:00&#160;UTC | SHAKEN Ribbon Issuing CA | 12&#160;May&#160;33&#160;23:59&#160;UTC | true | [view](CERTS/05a71a04eaedbdf4b0534f40768616d7c19c8deb5a3aefd1f4a04b3aab55a48f/README.md) |
+| 13&#160;May&#160;21&#160;00:00&#160;UTC | SHAKEN Ribbon Root CA | 12&#160;May&#160;46&#160;23:59&#160;UTC | true | [view](CERTS/7c2799d3642d04f04fe667c3ab251c18689af323acdc43b2fa5f3dc89e3a0f14/README.md) |
 
 
-Generated: 30 Nov 22 18:29 UTC
+Generated: 01 Dec 22 19:22 UTC

@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 2255ms average time it took to download each certificate
+- 260ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://cert.sticr.att.net:8443/certs/att/abbf5398-e1e1-42af-96a7-092303b168ba` | 29 Aug 23 19:07 UTC | true | [view](REPOS/9d33ae45de037e49b96d1cc6d2c4f29b1115c7ed/README.md) |
+| `https://cert.sticr.att.net:8443/certs/att/abbf5398-e1e1-42af-96a7-092303b168ba` | 29&#160;Aug&#160;23&#160;19:07&#160;UTC | true | [view](REPOS/9d33ae45de037e49b96d1cc6d2c4f29b1115c7ed/README.md) |
 
 
-Generated: 30 Nov 22 18:29 UTC
+Generated: 01 Dec 22 19:22 UTC

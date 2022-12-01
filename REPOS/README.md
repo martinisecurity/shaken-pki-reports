@@ -11,7 +11,7 @@
 - 24.51% of repository URLs contain one or more Error level issue
 - 41.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 388ms average time it took to download each certificate
+- 56ms average time it took to download each certificate
 
 ### CA Operated Repository URLs
 
@@ -22,7 +22,7 @@
 - 18.73% of repository URLs contain one or more Error level issue
 - 36.64% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 402ms average time it took to download each certificate
+- 40ms average time it took to download each certificate
 
 ### Service Provider Operated Repository URLs
 
@@ -33,7 +33,7 @@
 - 91.67% of repository URLs contain one or more Error level issue
 - 91.67% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 227ms average time it took to download each certificate
+- 239ms average time it took to download each certificate
 
 ## Details
 
@@ -144,4 +144,4 @@
 | Notices | Tests in which industry best practices are not followed. |
 
 
-Generated: 30 Nov 22 18:29 UTC
+Generated: 01 Dec 22 19:22 UTC

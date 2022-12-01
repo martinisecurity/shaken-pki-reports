@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 150ms average time it took to download each certificate
+- 381ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://certs.sip.wtsky.net/prod/shaken-6-2023.cer` | 23 Jun 23 16:36 UTC | true | [view](REPOS/ec06b5a107d6a364022619e192b2db1cf1febb70/README.md) |
+| `https://certs.sip.wtsky.net/prod/shaken-6-2023.cer` | 23&#160;Jun&#160;23&#160;16:36&#160;UTC | true | [view](REPOS/ec06b5a107d6a364022619e192b2db1cf1febb70/README.md) |
 
 
-Generated: 30 Nov 22 18:29 UTC
+Generated: 01 Dec 22 19:22 UTC

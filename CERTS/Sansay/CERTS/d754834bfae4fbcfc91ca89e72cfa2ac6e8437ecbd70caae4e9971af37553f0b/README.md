@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN IDT America, Corp 363A
 
-Tested At: 30 Nov 22 18:16 UTC\
+Tested At: 01 Dec 22 19:21 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: 16 day(s)\
+Remaining Validity Period: 15 day(s)\
 Subject: CN=SHAKEN IDT America\\, Corp 363A, OU=NOC, O=IDT America\\, Corp, ST=New Jersey, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/IDT_363A
@@ -20,4 +20,4 @@ Link: https://cr.sansay.com/IDT_363A
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 30 Nov 22 18:29 UTC
+Generated: 01 Dec 22 19:22 UTC

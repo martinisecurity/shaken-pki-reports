@@ -46,7 +46,7 @@
 - 66.67% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 7376 days is the average remaining validity for the certificates in the corpus
+- 7375 days is the average remaining validity for the certificates in the corpus
 - 6935 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -60,20 +60,20 @@
 
 #### Leaf Certificates
 
-| Created at | Subject | Problems | Link |
-|------------|---------|----------|------|
-| 10 Jun 22 00:00 UTC | Plivo Inc | true | [view](CERTS/7dc750fb7aa68d2b67b8dbc89f65217f92db54504685058be016638011adf8bf/README.md) |
-| 02 Nov 22 13:58 UTC | Google SHAKEN cert 969H | true | [view](CERTS/ac89ca8ee8dd2dad340232968a8cdcc5a613a485c108f8f14f14bd8cbbc1433e/README.md) |
-| 23 Nov 22 17:00 UTC | Baltimore-Washington Telephone Company SHAKEN cert 8697 | true | [view](CERTS/d343498507471d5c8b06671218d25406f4f12c11abba7530ad93548c73504e3a/README.md) |
-| 25 Nov 22 14:58 UTC | Google SHAKEN cert 969H | true | [view](CERTS/e1251a1603758cd7ddbc547003ff1957ea712ce12564b1d2d905c17482009edf/README.md) |
+| Created At | Subject | Not After | Problems | Link |
+|------------|---------|-----------|----------|------|
+| 10&#160;Jun&#160;22&#160;00:00&#160;UTC | Plivo Inc | 09&#160;Jun&#160;23&#160;00:00&#160;UTC | true | [view](CERTS/7dc750fb7aa68d2b67b8dbc89f65217f92db54504685058be016638011adf8bf/README.md) |
+| 02&#160;Nov&#160;22&#160;13:58&#160;UTC | Google SHAKEN cert 969H | 02&#160;Dec&#160;22&#160;13:58&#160;UTC | true | [view](CERTS/ac89ca8ee8dd2dad340232968a8cdcc5a613a485c108f8f14f14bd8cbbc1433e/README.md) |
+| 23&#160;Nov&#160;22&#160;17:00&#160;UTC | Baltimore-Washington Telephone Company SHAKEN cert 8697 | 23&#160;Dec&#160;22&#160;16:59&#160;UTC | true | [view](CERTS/d343498507471d5c8b06671218d25406f4f12c11abba7530ad93548c73504e3a/README.md) |
+| 25&#160;Nov&#160;22&#160;14:58&#160;UTC | Google SHAKEN cert 969H | 25&#160;Dec&#160;22&#160;14:58&#160;UTC | true | [view](CERTS/e1251a1603758cd7ddbc547003ff1957ea712ce12564b1d2d905c17482009edf/README.md) |
 
 #### CA Certificates
 
-| Created at | Subject | Problems | Link |
-|------------|---------|----------|------|
-| 12 Jul 21 23:25 UTC | NetNumber SHAKEN Root CA | false | [view](CERTS/7ac80e8481ecb019dc95484016842db78686069efbc0f703e7f39310217b6157/README.md) |
-| 27 Sep 21 19:45 UTC | NetNumber SHAKEN Root CA 1 | true | [view](CERTS/2dd1386ca717f31d550b35b9bce9daa9b02483bcdb98bdfcfca07202276136d7/README.md) |
-| 29 Sep 21 13:22 UTC | NetNumber SHAKEN Root Intermediate CA 1 | true | [view](CERTS/e449803766edf02ab50b034dd7e89e54efd332cce87688a032f89b340d039878/README.md) |
+| Created At | Subject | Not After | Problems | Link |
+|------------|---------|-----------|----------|------|
+| 12&#160;Jul&#160;21&#160;23:25&#160;UTC | NetNumber SHAKEN Root CA | 07&#160;Jul&#160;41&#160;23:25&#160;UTC | false | [view](CERTS/7ac80e8481ecb019dc95484016842db78686069efbc0f703e7f39310217b6157/README.md) |
+| 27&#160;Sep&#160;21&#160;19:45&#160;UTC | NetNumber SHAKEN Root CA 1 | 21&#160;Sep&#160;46&#160;19:45&#160;UTC | true | [view](CERTS/2dd1386ca717f31d550b35b9bce9daa9b02483bcdb98bdfcfca07202276136d7/README.md) |
+| 29&#160;Sep&#160;21&#160;13:22&#160;UTC | NetNumber SHAKEN Root Intermediate CA 1 | 26&#160;Sep&#160;33&#160;13:22&#160;UTC | true | [view](CERTS/e449803766edf02ab50b034dd7e89e54efd332cce87688a032f89b340d039878/README.md) |
 
 
-Generated: 30 Nov 22 18:29 UTC
+Generated: 01 Dec 22 19:22 UTC
