@@ -216,7 +216,7 @@ func PrintCertificateReport(w io.Writer, r *LintCommandItem) {
 			fmt.Fprintf(w, "| %s | %s | %s | %s |\n",
 				fmt.Sprintf("[%s](%s)", code, path.Join("..", "..", DIR_ISSUES, code, "README.md")),
 				statusToString(result.Status),
-				strings.ReplaceAll(string(rule.Source), "-", "&#x2011;"),
+				noWrap(string(rule.Source)),
 				result.Details,
 			)
 		}
@@ -301,16 +301,17 @@ func PrintIssueCertificates(w io.Writer, c string, r *Problem, b string) {
 }
 
 func PrintCertificates(w io.Writer, r []*LintCommandItem, basePath string) {
-	fmt.Fprintln(w, "| Created at | Subject | Problems | Link |")
-	fmt.Fprintln(w, "|------------|---------|----------|------|")
+	fmt.Fprintln(w, "| Created At | Subject | Not After | Problems | Link |")
+	fmt.Fprintln(w, "|------------|---------|-----------|----------|------|")
 	// order by notBefore
 	sort.Slice(r[:], func(i, j int) bool {
 		return r[i].Certificate.NotBefore.Before(r[j].Certificate.NotBefore)
 	})
 	for _, v := range r {
-		fmt.Fprintf(w, "| %s | %s | %t | %s |\n",
-			v.Certificate.NotBefore.Format(time.RFC822),
+		fmt.Fprintf(w, "| %s | %s | %s | %t | %s |\n",
+			noWrap(v.Certificate.NotBefore.Format(time.RFC822)),
 			v.Certificate.Subject.CommonName,
+			noWrap(v.Certificate.NotAfter.Format(time.RFC822)),
 			v.CertificateResult.HasProblems(),
 			fmt.Sprintf("[view](%s)", path.Join(basePath, getCertificateId(v.Certificate), "README.md")),
 		)
@@ -500,7 +501,7 @@ func PrintRepositories(w io.Writer, r []*LintCommandItem, basePath string) {
 		}
 		fmt.Fprintf(w, "| %s | %s | %t | %s |\n",
 			fmt.Sprintf("`%s`", v.Url),
-			notAfter,
+			noWrap(notAfter),
 			v.UrlResult.HasErrors || v.UrlResult.HasWarnings || v.UrlResult.HasNotices,
 			fmt.Sprintf("[view](%s)", path.Join(basePath, getRepositoryId(v.Url), "README.md")),
 		)
@@ -623,4 +624,13 @@ func PrintIssuerOCN(w io.Writer, r *CertificateIssuerReport) {
 			fmt.Fprintf(w, "%s;%s;%s;%s\n", k, name, i.Certificate.Subject.CommonName, i.Url)
 		}
 	}
+}
+
+func noWrap(text string) string {
+	res := text
+
+	res = strings.ReplaceAll(res, " ", "&#160;")
+	res = strings.ReplaceAll(res, " ", "&#x2011;")
+
+	return res
 }
