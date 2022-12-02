@@ -339,6 +339,7 @@ const (
 	DIR_CA      = "CA"
 	DIR_SP      = "SP"
 	DIR_OCN     = "OCN"
+	DIR_SKIPPED = "SKIPPED"
 )
 
 func (t *Report) Save(outDir string) error {
@@ -391,6 +392,32 @@ func (t *Report) saveCertificates(outDir string) error {
 		defer issuerFile.Close()
 
 		PrintCertificateIssuerReport(issuerFile, issuer)
+
+		// Skipped
+		if len(issuer.Skipped) > 0 {
+			skippedDir := path.Join(issuerDir, DIR_SKIPPED)
+			skippedFile, err := CreateReport(skippedDir)
+			if err != nil {
+				return err
+			}
+			defer skippedFile.Close()
+			PrintSkippedReport(skippedFile, issuer)
+			for _, v := range issuer.Skipped {
+				certsDir := path.Join(issuerDir, DIR_CERTS)
+				if err := Mkdir(certsDir); err != nil {
+					return err
+				}
+
+				certDir := path.Join(certsDir, getCertificateId(v.Certificate))
+				certFile, err := CreateReport(certDir)
+				if err != nil {
+					return err
+				}
+				defer certFile.Close()
+
+				PrintCertificateReport(certFile, v)
+			}
+		}
 
 		// Unique OCN CSV
 		ocnFile, err := CreateCSV(path.Join(issuerDir, DIR_OCN))

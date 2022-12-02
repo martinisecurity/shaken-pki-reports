@@ -26,6 +26,7 @@ type CertificateGroupReport struct {
 	ExpiresSoon               int
 	averageRemainingValidity  []int
 	averageInitialValidity    []int
+	Skipped                   []*LintCommandItem
 }
 
 func average(sum int, amount int) float64 {
@@ -56,6 +57,7 @@ func (t *CertificateGroupReport) Join(c *CertificateGroupReport) {
 	t.ExpiresSoon += c.ExpiresSoon
 	t.averageRemainingValidity = append(t.averageRemainingValidity, c.averageRemainingValidity...)
 	t.averageInitialValidity = append(t.averageInitialValidity, c.averageInitialValidity...)
+	t.Skipped = append(t.Skipped, c.Skipped...)
 }
 
 func (t *CertificateGroupReport) AverageCertificatesWithProblems() float64 {
@@ -126,14 +128,20 @@ func (t *CertificateGroupReport) Append(i *LintCommandItem) bool {
 
 	i.UpdateStatuses()
 
+	skipped := false
 	if i.IsDuplicateRepository {
 		t.SkippedRepositoriesAmount += 1
-		return true
+		skipped = true
 	} else if i.IsUntrusted {
 		t.SkippedUntrustedAmount += 1
-		return true
+		skipped = true
 	} else if i.IsExpired {
 		t.SkippedExpiredAmount += 1
+		skipped = true
+	}
+	if skipped {
+		// Append to skipped
+		t.Skipped = append(t.Skipped, i)
 		return true
 	}
 

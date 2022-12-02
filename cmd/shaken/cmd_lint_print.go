@@ -634,3 +634,27 @@ func noWrap(text string) string {
 
 	return res
 }
+
+func PrintSkippedReport(w io.Writer, r *CertificateIssuerJoin) {
+	certsDir := path.Join("..", DIR_CERTS)
+
+	print := func(issuer *CertificateIssuerReport, n string) {
+		if issuer != nil && len(issuer.Skipped) > 0 {
+			fmt.Fprintln(w, n)
+			fmt.Fprintln(w)
+			PrintCertificates(w, issuer.Skipped, certsDir)
+			fmt.Fprintln(w)
+		}
+	}
+
+	fmt.Fprintln(w, HEADER_CERTS)
+	fmt.Fprintln(w)
+
+	fmt.Fprintf(w, "## %s\n", r.Name)
+	fmt.Fprintln(w)
+
+	print(r.Leaf, "### Leaf Certificates")
+	print(r.CA, "### CA Certificates")
+
+	PrintFooter(w)
+}
