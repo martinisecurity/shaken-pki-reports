@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 963J
 
-Tested At: 01 Dec 22 19:05 UTC\
+Tested At: 02 Dec 22 07:25 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 126 day(s)\
 Subject: CN=SHAKEN 963J, O=Freevoice, C=US\
@@ -18,4 +18,4 @@ Link: http://sip.phx.dlr.freevoicepbx.com/Freevoice_963J
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 01 Dec 22 19:10 UTC
+Generated: 02 Dec 22 07:30 UTC

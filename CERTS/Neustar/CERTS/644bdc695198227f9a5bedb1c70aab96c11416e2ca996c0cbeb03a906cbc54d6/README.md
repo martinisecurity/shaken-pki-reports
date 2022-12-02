@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 772J
 
-Tested At: 01 Dec 22 19:07 UTC\
+Tested At: 02 Dec 22 07:27 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 172 day(s)\
 Subject: CN=SHAKEN 772J, O=VOIP ESSENTIAL INC, C=US\
@@ -18,4 +18,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11540.10157
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 01 Dec 22 19:10 UTC
+Generated: 02 Dec 22 07:30 UTC

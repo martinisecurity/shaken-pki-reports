@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 706J
 
-Tested At: 01 Dec 22 19:06 UTC\
+Tested At: 02 Dec 22 07:26 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 286 day(s)\
 Subject: CN=SHAKEN 706J, OU=SHAKEN, O=TCN, C=US\
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/706J/fdb13f3d-0f05-47c8-a047-af2f9e2f7
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 01 Dec 22 19:10 UTC
+Generated: 02 Dec 22 07:30 UTC

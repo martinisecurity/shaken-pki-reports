@@ -13,4 +13,4 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | `https://sns.magicjack.com/324E.chain.crt.pem` | 18&#160;Nov&#160;22&#160;16:16&#160;UTC | true | [view](../../REPOS/d18a6931e976e90e2b264dfde64b6f72c2727b3f/README.md) |
 
 
-Generated: 01 Dec 22 19:10 UTC
+Generated: 02 Dec 22 07:30 UTC

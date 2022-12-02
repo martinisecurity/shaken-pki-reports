@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 966J
 
-Tested At: 01 Dec 22 19:06 UTC\
+Tested At: 02 Dec 22 07:26 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 141 day(s)\
+Remaining Validity Period: 140 day(s)\
 Subject: CN=SHAKEN 966J, O=J2 Web Services Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/120.121
@@ -18,4 +18,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/120.121
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 01 Dec 22 19:10 UTC
+Generated: 02 Dec 22 07:30 UTC

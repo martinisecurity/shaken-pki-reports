@@ -2,7 +2,7 @@
 
 ## Certificate prod SHAKEN 811J
 
-Tested At: 01 Dec 22 19:06 UTC\
+Tested At: 02 Dec 22 07:25 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 331 day(s)\
 Subject: CN=prod SHAKEN 811J, O=Alianza, L=Pleasant Grove, ST=Utah, C=US\
@@ -17,4 +17,4 @@ Link: https://api.alianza.com/v2/stir-shaken/certs/b45a4083-1554-4412-b5fc-bbd2c
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
 
-Generated: 01 Dec 22 19:10 UTC
+Generated: 02 Dec 22 07:30 UTC

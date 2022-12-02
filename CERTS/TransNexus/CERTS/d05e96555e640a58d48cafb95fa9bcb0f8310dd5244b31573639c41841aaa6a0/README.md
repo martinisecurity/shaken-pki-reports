@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 107K
 
-Tested At: 01 Dec 22 19:06 UTC\
+Tested At: 02 Dec 22 07:26 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: 1 day(s)\
 Subject: CN=SHAKEN 107K, O=Atheral, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/4ba6f296-2d7c-42c2-8fe4-12b74f5076df/1e41
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 01 Dec 22 19:10 UTC
+Generated: 02 Dec 22 07:30 UTC

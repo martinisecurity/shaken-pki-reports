@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 815G
 
-Tested At: 01 Dec 22 19:06 UTC\
+Tested At: 02 Dec 22 07:26 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: 41 day(s)\
+Remaining Validity Period: 40 day(s)\
 Subject: CN=SHAKEN 815G, OU=SHAKEN, O=382 Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/815G/c147c307-645b-4fcd-99d0-2be9a709b265.pem
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/815G/c147c307-645b-4fcd-99d0-2be9a709b
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 01 Dec 22 19:10 UTC
+Generated: 02 Dec 22 07:30 UTC

@@ -11,26 +11,26 @@
 
 - 595 certificates were included in the corpus being tested
 - 1 certificates in the corpus were skipped because they are duplicates
-- 508 certificates in the corpus were skipped because they are expired
+- 509 certificates in the corpus were skipped because they are expired
 - 1 certificates in the corpus were skipped because they are not currently trusted
-- 85 certificates being tested against the remaining rules
-- 1.49 issues on average found in unexpired, trusted, and non-compliant certificates
+- 84 certificates being tested against the remaining rules
+- 1.50 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
-- 23.53% of certificates contain one or more Warning level issue
+- 23.81% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
-- 1.18% of certificates are too old to be assessed against currently enforced expectations
-- 62 days is the average remaining validity for the certificates in the corpus
-- 61 days is the average initial validity for the certificates in the corpus
-- 69 certificates expire in the next 30 days
+- 1.19% of certificates are too old to be assessed against currently enforced expectations
+- 63 days is the average remaining validity for the certificates in the corpus
+- 62 days is the average initial validity for the certificates in the corpus
+- 68 certificates expire in the next 30 days
 - 1.35 average number of unexpired certificates per OCN observed
-- 63 unique OCNs observed in unexpired and valid certificate corpus
+- 62 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
 | 3 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
 | 16 | [e_incorrect_ku_encoding](ISSUES/e_incorrect_ku_encoding/README.md) | RFC5280 |
 | 3 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 85 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 84 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
 | 20 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
@@ -85,7 +85,6 @@
 | 18&#160;Nov&#160;22&#160;18:04&#160;UTC | SHAKEN 952J | 18&#160;Dec&#160;22&#160;18:04&#160;UTC | true | [view](CERTS/b05bb158c054b6e579fe20750c83ba5524896545d629b96b51d4c8d9ab38dfd3/README.md) |
 | 22&#160;Nov&#160;22&#160;23:52&#160;UTC | SHAKEN 841J | 06&#160;Dec&#160;22&#160;23:52&#160;UTC | true | [view](CERTS/21ac6662af2208c0149298f8f075e00220d1518fa1a839cb770d834f878afc00/README.md) |
 | 23&#160;Nov&#160;22&#160;17:31&#160;UTC | SHAKEN 4036 | 10&#160;May&#160;23&#160;17:31&#160;UTC | true | [view](CERTS/e03ff4259e6b456f1bb19d011f005932e83b0a35b520730c97cd77ad8868071c/README.md) |
-| 24&#160;Nov&#160;22&#160;22:35&#160;UTC | SHAKEN 159H | 01&#160;Dec&#160;22&#160;22:35&#160;UTC | true | [view](CERTS/ad63c13d4dd9b92890bcad2d1685ba7c47aa730978a770fc39ed68d8d2c1c358/README.md) |
 | 25&#160;Nov&#160;22&#160;08:02&#160;UTC | SHAKEN 551G | 02&#160;Dec&#160;22&#160;08:02&#160;UTC | true | [view](CERTS/d7525ebf1cf60ce77f0390b661c1125dc30886f532523e25e394e7cd5b02551a/README.md) |
 | 25&#160;Nov&#160;22&#160;17:26&#160;UTC | SHAKEN 107K | 02&#160;Dec&#160;22&#160;17:26&#160;UTC | true | [view](CERTS/d05e96555e640a58d48cafb95fa9bcb0f8310dd5244b31573639c41841aaa6a0/README.md) |
 | 25&#160;Nov&#160;22&#160;19:57&#160;UTC | SHAKEN 297K | 02&#160;Dec&#160;22&#160;19:57&#160;UTC | true | [view](CERTS/dc29343cb4842a14b4c425cbc0c68e347e6d3e7fc5b2473fae7c18025ecf38e6/README.md) |
@@ -158,4 +157,4 @@
 | 24&#160;Oct&#160;22&#160;00:00&#160;UTC | TransNexus, Inc. SHAKEN Root CA2 | 23&#160;Oct&#160;42&#160;23:59&#160;UTC | false | [view](CERTS/a26e04fc786ab70b8085236b2c53f8cfbf5d0c6a5c2c9c3e9f91669fbb8ea4d5/README.md) |
 
 
-Generated: 01 Dec 22 19:10 UTC
+Generated: 02 Dec 22 07:30 UTC

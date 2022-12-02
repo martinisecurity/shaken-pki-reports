@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 473G
 
-Tested At: 01 Dec 22 19:07 UTC\
+Tested At: 02 Dec 22 07:27 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 163 day(s)\
 Subject: CN=SHAKEN 473G, O=Telengy LLC, C=US\
@@ -18,4 +18,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11538.10154
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 01 Dec 22 19:10 UTC
+Generated: 02 Dec 22 07:30 UTC

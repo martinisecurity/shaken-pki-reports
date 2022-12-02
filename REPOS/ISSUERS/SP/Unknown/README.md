@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 60.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 6406ms average time it took to download each certificate
+- 6350ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -28,4 +28,4 @@
 | `https://ssc.fractel.net/ssc/fractelssc.pem` |  | true | [view](REPOS/43cef8ecc75c42a157f4a770680c7bc638e02617/README.md) |
 
 
-Generated: 01 Dec 22 19:10 UTC
+Generated: 02 Dec 22 07:30 UTC

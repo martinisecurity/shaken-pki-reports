@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 5606
 
-Tested At: 01 Dec 22 19:08 UTC\
+Tested At: 02 Dec 22 07:28 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 282 day(s)\
 Subject: CN=SHAKEN 5606, O=Charter Communications Inc SHAKEN 5606, C=US\
@@ -16,4 +16,4 @@ Link: https://shaken.spectrum.com/4d65efdb8a1ca366e9576c8fda747fa4.pem
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 01 Dec 22 19:10 UTC
+Generated: 02 Dec 22 07:30 UTC

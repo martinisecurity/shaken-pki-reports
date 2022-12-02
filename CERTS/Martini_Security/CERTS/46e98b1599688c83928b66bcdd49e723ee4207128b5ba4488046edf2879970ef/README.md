@@ -2,7 +2,7 @@
 
 ## Certificate Martini Security SHAKEN G1
 
-Tested At: 01 Dec 22 19:10 UTC\
+Tested At: 02 Dec 22 07:30 UTC\
 Initial Validity Period: 1825 day(s)\
 Remaining Validity Period: 1613 day(s)\
 Subject: CN=Martini Security SHAKEN G1, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
@@ -15,4 +15,4 @@ Issuer: CN=Martini Security SHAKEN R1, O=Martini Security\\, LLC, L=Seattle, ST=
 | [n_atis_ca_certificate_policy_critical](../../ISSUES/n_atis_ca_certificate_policy_critical/README.md) | notice | ATIS1000080 | STI certificates should contain a CertificatePolicies extension marked uncritical |
 
 
-Generated: 01 Dec 22 19:10 UTC
+Generated: 02 Dec 22 07:30 UTC
