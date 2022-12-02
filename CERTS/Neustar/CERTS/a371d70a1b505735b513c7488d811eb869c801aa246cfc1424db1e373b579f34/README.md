@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 709J
 
-Tested At: 01 Dec 22 19:19 UTC\
+Tested At: 02 Dec 22 07:44 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 219 day(s)\
 Subject: CN=SHAKEN 709J, O=Low Latency Communications LLC, C=US\
@@ -18,4 +18,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/77.226
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 01 Dec 22 19:22 UTC
+Generated: 02 Dec 22 07:46 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 148K
 
-Tested At: 01 Dec 22 19:21 UTC\
+Tested At: 02 Dec 22 07:45 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: 77 day(s)\
+Remaining Validity Period: 76 day(s)\
 Subject: O=Orange County REMC, C=US, serialNumber=4C4D51DE64E7BFED6D63C8BEDC1EA8CC, CN=SHAKEN 148K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/dGKmqd8OQwaw.pem
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/dGKmqd8OQwaw.pem
 149 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Dec 22 19:22 UTC
+Generated: 02 Dec 22 07:46 UTC

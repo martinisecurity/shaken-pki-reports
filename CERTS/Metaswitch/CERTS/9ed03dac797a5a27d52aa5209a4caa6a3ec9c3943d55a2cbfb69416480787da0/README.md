@@ -2,7 +2,7 @@
 
 ## Certificate U. S. Telepacific Corp SHAKEN 7453
 
-Tested At: 01 Dec 22 19:21 UTC\
+Tested At: 02 Dec 22 07:45 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 492 day(s)\
 Subject: CN=U. S. Telepacific Corp SHAKEN 7453, O=U. S. Telepacific Corp, L=Los Angeles, ST=California, C=US\
@@ -28,4 +28,4 @@ Link: https://qcall.meta.tpx.net/certs/shaken_cacert.crt
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 01 Dec 22 19:22 UTC
+Generated: 02 Dec 22 07:46 UTC

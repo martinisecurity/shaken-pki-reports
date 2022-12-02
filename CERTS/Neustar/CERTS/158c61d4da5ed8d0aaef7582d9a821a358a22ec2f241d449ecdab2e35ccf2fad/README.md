@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN
 
-Tested At: 01 Dec 22 19:19 UTC\
+Tested At: 02 Dec 22 07:44 UTC\
 Initial Validity Period: 1096 day(s)\
-Remaining Validity Period: 299 day(s)\
+Remaining Validity Period: 298 day(s)\
 Subject: C=US, ST=CA, L=Los Alamitos, O=Piratel LLC, OU=VOIP, CN=SHAKEN\
 Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1\
 Link: https://certificates.piratel.com/piratel_20201008_49b10950e1.crt
@@ -37,4 +37,4 @@ Link: https://certificates.piratel.com/piratel_20201008_49b10950e1.crt
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 01 Dec 22 19:22 UTC
+Generated: 02 Dec 22 07:46 UTC

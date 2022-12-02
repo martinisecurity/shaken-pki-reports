@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 804J
 
-Tested At: 01 Dec 22 19:21 UTC\
+Tested At: 02 Dec 22 07:45 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 107 day(s)\
 Subject: CN=SHAKEN 804J, O=QuestBlue Systems Inc, C=US\
@@ -18,4 +18,4 @@ Link: https://customer.questblue.com/assets/questblue_shaken.cer
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 01 Dec 22 19:22 UTC
+Generated: 02 Dec 22 07:46 UTC

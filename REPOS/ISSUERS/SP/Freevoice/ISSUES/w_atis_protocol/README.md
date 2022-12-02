@@ -12,4 +12,4 @@ Description: The verifier should not dereference any protocol other than https o
 | `http://sip.phx.dlr.freevoicepbx.com/Freevoice_963J` | 06&#160;Apr&#160;23&#160;12:06&#160;UTC | true | [view](../../REPOS/142af8e9a7a3c09b3d81de07699fa3a77721664a/README.md) |
 
 
-Generated: 01 Dec 22 19:22 UTC
+Generated: 02 Dec 22 07:46 UTC
