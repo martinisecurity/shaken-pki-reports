@@ -2,9 +2,9 @@
 
 ## Certificate Nuwave Communications SHAKEN 620J
 
-Tested At: 02 Dec 22 07:45 UTC\
+Tested At: 07 Dec 22 18:47 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 149 day(s)\
+Remaining Validity Period: 143 day(s)\
 Subject: CN=Nuwave Communications SHAKEN 620J, OU=Nuwave Communications, O=Nuwave Communications, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-cr.rbbnidhub.com/Jx6yR-yMgz/620J202204-2c7d5c55a20834b031681dbd3e2eb9f0
@@ -20,4 +20,4 @@ Link: https://prod001-cr.rbbnidhub.com/Jx6yR-yMgz/620J202204-2c7d5c55a20834b0316
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 02 Dec 22 07:46 UTC
+Generated: 07 Dec 22 18:54 UTC

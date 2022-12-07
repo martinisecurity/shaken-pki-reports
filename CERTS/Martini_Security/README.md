@@ -9,8 +9,8 @@
 
 #### Leaf Certificates
 
-- 48 certificates were included in the corpus being tested
-- 19 certificates in the corpus were skipped because they are duplicates
+- 49 certificates were included in the corpus being tested
+- 20 certificates in the corpus were skipped because they are duplicates
 - 1 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
 - 28 certificates being tested against the remaining rules
@@ -41,7 +41,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 33.33% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 5425 days is the average remaining validity for the certificates in the corpus
+- 5424 days is the average remaining validity for the certificates in the corpus
 - 4261 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -93,4 +93,4 @@
 | 02&#160;Oct&#160;22&#160;10:40&#160;UTC | Martini Security SHAKEN G2 | 01&#160;Oct&#160;27&#160;10:40&#160;UTC | false | [view](CERTS/bf818ddbd3ae492e4a85331b85b52f4d2cdef8287bf910b59e247b6c132fa7fd/README.md) |
 
 
-Generated: 02 Dec 22 07:46 UTC
+Generated: 07 Dec 22 18:54 UTC

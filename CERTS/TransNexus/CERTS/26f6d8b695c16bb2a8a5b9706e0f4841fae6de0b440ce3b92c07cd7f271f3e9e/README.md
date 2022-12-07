@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 060K
 
-Tested At: 02 Dec 22 07:44 UTC\
+Tested At: 07 Dec 22 18:45 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -71 day(s)\
+Remaining Validity Period: -77 day(s)\
 Subject: CN=SHAKEN 060K, OU=SHAKEN, O=Telware, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/0c4e235f-3e3e-4dd3-bbfc-2f15badab180/e97f2e3caeaa3c3daafecb38f2c2ead3.pem
@@ -18,4 +18,4 @@ Link: https://certificates.clearip.com/0c4e235f-3e3e-4dd3-bbfc-2f15badab180/e97f
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 02 Dec 22 07:46 UTC
+Generated: 07 Dec 22 18:54 UTC

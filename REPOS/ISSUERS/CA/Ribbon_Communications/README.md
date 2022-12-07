@@ -2,19 +2,19 @@
 
 ## Ribbon Communications
 
-- 8 repository URLs were included in the corpus being tested
+- 9 repository URLs were included in the corpus being tested
 - 0 repository URLs in the corpus were skipped because they were duplicated
-- 8 repository URLs being tested against the remaining rules
-- 2.12 issues on average found in non-compliant certificate repository URLs
+- 9 repository URLs being tested against the remaining rules
+- 2.11 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 86ms average time it took to download each certificate
+- 46ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 8 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
-| 8 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 9 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
+| 9 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 | 1 | [w_atis_protocol](ISSUES/w_atis_protocol/README.md) | ATIS-1000080 |
 
 | Repository URLs | Not After |  Problems | Link |
@@ -25,8 +25,9 @@
 | `https://prod001-cr.rbbnidhub.com/OaPccQ6Mgz/sign-cert2` | 19&#160;May&#160;24&#160;14:02&#160;UTC | true | [view](REPOS/5a69211b12707a2e111ba37b2e29287a90e6bf6a/README.md) |
 | `https://prod001-cr.rbbnidhub.com/VaMEsVjGRz/May20222023-7f9cc6dca255376339d3370091b2fdde` | 20&#160;May&#160;23&#160;14:32&#160;UTC | true | [view](REPOS/f391a9ba1d1fdde4788c79b7633fe7d43b9a1b48/README.md) |
 | `https://prod001-cr.rbbnidhub.com/frvFJbsMgz/sign-cert3` | 11&#160;Mar&#160;24&#160;18:18&#160;UTC | true | [view](REPOS/27dccddee750acd18879b60bdd7d6a8803719490/README.md) |
+| `https://prod001-prod011-cr.rbbnidhub.com/3MCvDamnRz/Aug222023-6e684a540e092145d414fcce5decbbfd` | 22&#160;Aug&#160;23&#160;16:04&#160;UTC | true | [view](REPOS/ee2c359d1ddf94c1124760cd8b60b9ec829298bc/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/Pl0wdQeMRz/STI20220348` | 05&#160;Jul&#160;23&#160;23:04&#160;UTC | true | [view](REPOS/3136c2c052a150347feb0d8667f04f94c9057339/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/t0CiOIjnRz/NFJune102022-26092b2abd3c6bbfc676d98623fc1b25` | 10&#160;Jun&#160;23&#160;19:00&#160;UTC | true | [view](REPOS/33017846ac0354f869e6a30ef5fdf72910ca73ea/README.md) |
 
 
-Generated: 02 Dec 22 07:46 UTC
+Generated: 07 Dec 22 18:54 UTC

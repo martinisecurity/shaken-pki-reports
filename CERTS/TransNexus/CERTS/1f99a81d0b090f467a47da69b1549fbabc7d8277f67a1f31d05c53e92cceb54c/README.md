@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 738J
 
-Tested At: 02 Dec 22 07:44 UTC\
+Tested At: 07 Dec 22 18:46 UTC\
 Initial Validity Period: 9 day(s)\
-Remaining Validity Period: -29 day(s)\
+Remaining Validity Period: -34 day(s)\
 Subject: CN=SHAKEN 738J, OU=SHAKEN, O=SkySwitch, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/738J/b6c32eb7-1ca3-44c5-ad74-407e91db0d95.pem
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/738J/b6c32eb7-1ca3-44c5-ad74-407e91db0
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 02 Dec 22 07:46 UTC
+Generated: 07 Dec 22 18:54 UTC

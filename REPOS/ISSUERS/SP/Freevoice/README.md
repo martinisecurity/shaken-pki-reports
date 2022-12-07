@@ -2,14 +2,14 @@
 
 ## Freevoice
 
-- 1 repository URLs were included in the corpus being tested
-- 0 repository URLs in the corpus were skipped because they were duplicated
+- 2 repository URLs were included in the corpus being tested
+- 1 repository URLs in the corpus were skipped because they were duplicated
 - 1 repository URLs being tested against the remaining rules
 - 3.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 141ms average time it took to download each certificate
+- 146ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -19,7 +19,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `http://sip.phx.dlr.freevoicepbx.com/Freevoice_963J` | 06&#160;Apr&#160;23&#160;12:06&#160;UTC | true | [view](REPOS/142af8e9a7a3c09b3d81de07699fa3a77721664a/README.md) |
+| `http://sip.ash.dlr.freevoicepbx.com/Freevoice_963J` | 06&#160;Apr&#160;23&#160;12:06&#160;UTC | true | [view](REPOS/84bd559ff362d9979e3b7c0fe4a16b240baedab5/README.md) |
 
 
-Generated: 02 Dec 22 07:46 UTC
+Generated: 07 Dec 22 18:54 UTC

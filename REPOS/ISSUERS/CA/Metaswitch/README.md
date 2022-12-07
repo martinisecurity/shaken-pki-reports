@@ -2,19 +2,19 @@
 
 ## Metaswitch
 
-- 25 repository URLs were included in the corpus being tested
+- 26 repository URLs were included in the corpus being tested
 - 0 repository URLs in the corpus were skipped because they were duplicated
-- 25 repository URLs being tested against the remaining rules
+- 26 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 649ms average time it took to download each certificate
+- 4156ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 25 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
-| 25 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 26 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
+| 26 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
@@ -43,6 +43,7 @@
 | `https://sti-cr.cgah.tnsi.com/certs/ef7499777a884734baaa98de26c0caed26fe57be` | 04&#160;May&#160;25&#160;14:14&#160;UTC | true | [view](REPOS/2848f6a1176bf7c747778b0d50732aa5d14ec914/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/f63503c138e2b55933317f09cc5a1cc4e8a3de1d` | 10&#160;Jun&#160;24&#160;16:01&#160;UTC | true | [view](REPOS/676b9edaf7d6bc97061ccc8ec6b080062fecef3d/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/f786e53509092c8a45b19b7dcd6886b5316d333b` | 04&#160;May&#160;24&#160;21:02&#160;UTC | true | [view](REPOS/f093f80e75520d517ab1c0a6c1f4c24a9ef28580/README.md) |
+| `https://sti-cr.cgah.tnsi.com/certs/fe756139593d8af30f6d59a341bc41e4a6e21abb` | 29&#160;Jul&#160;24&#160;17:16&#160;UTC | true | [view](REPOS/abb622dcff50f956ee643ab0bea4fc127ceb1173/README.md) |
 
 
-Generated: 02 Dec 22 07:46 UTC
+Generated: 07 Dec 22 18:54 UTC

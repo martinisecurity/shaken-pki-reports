@@ -2,9 +2,9 @@
 
 ## Certificate TMOBILE-PROD-ROOT-STIRSHAKEN-EC
 
-Tested At: 02 Dec 22 07:46 UTC\
+Tested At: 07 Dec 22 18:54 UTC\
 Initial Validity Period: 9131 day(s)\
-Remaining Validity Period: 7962 day(s)\
+Remaining Validity Period: 7957 day(s)\
 Subject: CN=TMOBILE-PROD-ROOT-STIRSHAKEN-EC, O=TMOBILE-USA, C=US\
 Issuer: CN=TMOBILE-PROD-ROOT-STIRSHAKEN-EC, O=TMOBILE-USA, C=US
 
@@ -32,4 +32,4 @@ Issuer: CN=TMOBILE-PROD-ROOT-STIRSHAKEN-EC, O=TMOBILE-USA, C=US
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 02 Dec 22 07:46 UTC
+Generated: 07 Dec 22 18:54 UTC

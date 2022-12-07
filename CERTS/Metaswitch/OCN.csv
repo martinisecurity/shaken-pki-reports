@@ -10,6 +10,7 @@ OCN;Org Name;CN;Cert
 505J;Call48;Call48 SHAKEN Cert 505J;https://sti-cr.cgah.tnsi.com/certs/27619989593575ff99cddfc6b207ba73fed5de1e
 521F;ENA;ENA SHAKEN cert 521F;https://sti-cr.cgah.tnsi.com/certs/702fb83e8268b5175b591d8448a512646339bc40
 5807;Verizon Data Services LLC;Verizon SHAKEN cert 5807;https://sti.verizon.com/vzwcert/vzshaken-02-2024.crt
+5869;Syringa Networks;Syringa Networks SHAKEN Cert 5869;https://sti-cr.cgah.tnsi.com/certs/fe756139593d8af30f6d59a341bc41e4a6e21abb
 5932;Carolina West Wireless;Carolina West Wireless SHAKEN Cert 5932;https://sti-cr.cgah.tnsi.com/certs/d9dd9bf73998fe328ba9447674492e8217d56dcf
 600F;CBTS Technology Solutions LLC;CBTS Technology Solutions SHAKEN Cert 600F;https://sti-cr.cgah.tnsi.com/certs/de39b976c7549358da256530d81cfb1f446a2583
 6349;Metaswitch STI-CA SHAKEN Issuing 1;USCellular SHAKEN Cert 6349;https://crs.sti.uscellular.com/certs/uscc_shaken_CA.crt

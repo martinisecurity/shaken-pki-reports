@@ -12,4 +12,4 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | `https://app.connexcs.com/api/stir-shaken/cert/45.crt` | 09&#160;Dec&#160;22&#160;18:49&#160;UTC | true | [view](../../REPOS/2260b336dfad8a7a8197566bbca1f4ce46bb7dea/README.md) |
 
 
-Generated: 02 Dec 22 07:46 UTC
+Generated: 07 Dec 22 18:54 UTC

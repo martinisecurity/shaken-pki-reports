@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 500J
 
-Tested At: 02 Dec 22 07:45 UTC\
+Tested At: 07 Dec 22 18:47 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 273 day(s)\
+Remaining Validity Period: 267 day(s)\
 Subject: CN=SHAKEN 500J, O=GoTo Communications Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/goto-2022-09
@@ -18,4 +18,4 @@ Link: https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/goto-2022-09
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 02 Dec 22 07:46 UTC
+Generated: 07 Dec 22 18:54 UTC

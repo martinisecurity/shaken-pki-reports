@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 918J
 
-Tested At: 02 Dec 22 07:44 UTC\
+Tested At: 07 Dec 22 18:45 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -40 day(s)\
+Remaining Validity Period: -45 day(s)\
 Subject: CN=SHAKEN 918J, OU=SHAKEN, O=VoIPX International Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/3bbe1f4c-3184-44ee-84f4-2f63891aa57b/a99ebf977abf4bb8bfe108293a6160c2.pem
@@ -18,4 +18,4 @@ Link: https://certificates.clearip.com/3bbe1f4c-3184-44ee-84f4-2f63891aa57b/a99e
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 02 Dec 22 07:46 UTC
+Generated: 07 Dec 22 18:54 UTC

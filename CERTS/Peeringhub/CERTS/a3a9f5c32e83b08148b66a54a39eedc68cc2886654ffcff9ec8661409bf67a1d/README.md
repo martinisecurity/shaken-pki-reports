@@ -2,9 +2,9 @@
 
 ## Certificate MAQS SOLUTIONS SHAKEN 255K
 
-Tested At: 02 Dec 22 07:45 UTC\
+Tested At: 07 Dec 22 18:47 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: 25 day(s)\
+Remaining Validity Period: 20 day(s)\
 Subject: CN=MAQS SOLUTIONS SHAKEN 255K, O=MAQS SOLUTIONS LLC, L=Delaware, ST=DE, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://dial.maqssolution.live/255KD22.pem
@@ -18,4 +18,4 @@ Link: https://dial.maqssolution.live/255KD22.pem
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 02 Dec 22 07:46 UTC
+Generated: 07 Dec 22 18:54 UTC

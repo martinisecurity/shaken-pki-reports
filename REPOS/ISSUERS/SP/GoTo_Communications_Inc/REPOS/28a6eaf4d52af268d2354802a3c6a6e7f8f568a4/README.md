@@ -3,8 +3,8 @@
 ## GoTo Communications Inc
 
 Name: `https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/goto-2022-09`\
-Tested At: 02 Dec 22 07:45 UTC\
-Time: 358ms
+Tested At: 07 Dec 22 18:47 UTC\
+Time: 275ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 358ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 02 Dec 22 07:46 UTC
+Generated: 07 Dec 22 18:54 UTC

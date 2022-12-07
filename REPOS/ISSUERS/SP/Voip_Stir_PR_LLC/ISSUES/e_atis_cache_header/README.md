@@ -9,7 +9,8 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
+| `https://ssc.getsipnav.com/certs/6e4eb792ee6ef8c9cb9e23f1a1e4d9979896c3f2` | 08&#160;Nov&#160;23&#160;22:26&#160;UTC | true | [view](../../REPOS/da3c86a95a2a2b9bbbc80fc5d472aca6cb7e4f2d/README.md) |
 | `https://ssc.getsipnav.com/certs/ffad5de97793861e660be844cf52d740aa256d7d` | 15&#160;Dec&#160;22&#160;19:36&#160;UTC | true | [view](../../REPOS/3ec40df694633a1c8f3f906dabba539ab1dc3006/README.md) |
 
 
-Generated: 02 Dec 22 07:46 UTC
+Generated: 07 Dec 22 18:54 UTC

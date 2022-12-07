@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 918J
 
-Tested At: 02 Dec 22 07:44 UTC\
+Tested At: 07 Dec 22 18:45 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -70 day(s)\
+Remaining Validity Period: -75 day(s)\
 Subject: CN=SHAKEN 918J, OU=SHAKEN, O=VoIPX International Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/3bbe1f4c-3184-44ee-84f4-2f63891aa57b/d9b86d264d8bfdcea8367f36c90b1ee6.pem
@@ -18,4 +18,4 @@ Link: https://certificates.clearip.com/3bbe1f4c-3184-44ee-84f4-2f63891aa57b/d9b8
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 02 Dec 22 07:46 UTC
+Generated: 07 Dec 22 18:54 UTC

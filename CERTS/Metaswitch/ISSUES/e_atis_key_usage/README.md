@@ -43,6 +43,7 @@ Description: STI certificates shall contain a Key Usage extension marked as crit
 | error | Kaplan Telephone SHAKEN cert 0432 | [view](../../CERTS/24c1b7c4dc4aeda21b5d1c5ff7f059903693c4a8b67ecc054ef05542a2ff4c35/README.md) | The Key Usage extension shall contain a single key usage value of digitalSignature |
 | error | Clearwave SHAKEN Cert 9915 | [view](../../CERTS/de0c13b76c24e2ef34c5de58e88fbfeef9c8adb44175b42f3c69771db6586491/README.md) | The Key Usage extension shall contain a single key usage value of digitalSignature |
 | error | American Broadband SHAKEN Cert 355D | [view](../../CERTS/f2fe275fba183def77918369f90d81bc080f1ef58c5422620c3dc45140b2ae75/README.md) | The Key Usage extension shall contain a single key usage value of digitalSignature |
+| error | Syringa Networks SHAKEN Cert 5869 | [view](../../CERTS/5b9b091228790e797adf24925cd1f2508b8372b744611f843a8026a703993d5a/README.md) | The Key Usage extension shall contain a single key usage value of digitalSignature |
 | error | Verizon SHAKEN cert 5807 | [view](../../CERTS/d7b413267be2d050d516af4f4a864ffdc2feacc774a1a6264b9cfe68c796f43f/README.md) | The Key Usage extension shall contain a single key usage value of digitalSignature |
 
 ### CA Certificates
@@ -50,4 +51,4 @@ Description: STI certificates shall contain a Key Usage extension marked as crit
 No error, warning, or notice level issues were found
 
 
-Generated: 02 Dec 22 07:46 UTC
+Generated: 07 Dec 22 18:54 UTC

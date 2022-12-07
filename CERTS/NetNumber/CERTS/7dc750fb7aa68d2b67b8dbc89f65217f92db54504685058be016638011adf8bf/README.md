@@ -2,9 +2,9 @@
 
 ## Certificate Plivo Inc
 
-Tested At: 02 Dec 22 07:44 UTC\
+Tested At: 07 Dec 22 18:45 UTC\
 Initial Validity Period: 364 day(s)\
-Remaining Validity Period: 189 day(s)\
+Remaining Validity Period: 184 day(s)\
 Subject: L=Austin, ST=Texas, O=Plivo Inc, C=US, CN=Plivo Inc\
 Issuer: L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN Root Intermediate CA 1\
 Link: https://certificate.zt.plivo.com/cert09062023.crt
@@ -20,4 +20,4 @@ Link: https://certificate.zt.plivo.com/cert09062023.crt
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 02 Dec 22 07:46 UTC
+Generated: 07 Dec 22 18:54 UTC

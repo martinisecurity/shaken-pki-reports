@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 350ms average time it took to download each certificate
+- 67ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://bwt.io/8697a2.crt` | 23&#160;Dec&#160;22&#160;16:59&#160;UTC | true | [view](REPOS/fc1c248e4d98fe9c08350e026c150c111b9122e6/README.md) |
 
 
-Generated: 02 Dec 22 07:46 UTC
+Generated: 07 Dec 22 18:54 UTC
