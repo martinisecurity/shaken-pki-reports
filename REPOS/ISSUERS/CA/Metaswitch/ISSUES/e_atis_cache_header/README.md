@@ -9,11 +9,13 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
+| `https://sti-cr.cgah.tnsi.com/certs/02f31fd9be31f3b5cc9fa396dc9fab04f1dc93e1` | 16&#160;Mar&#160;24&#160;17:25&#160;UTC | true | [view](../../REPOS/f3b9d640782aed4d9229b83e089696f67ce4c6a5/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/11d9e0e06eeaaf56fb9be54eec6aae5a8b3461fe` | 16&#160;Mar&#160;24&#160;17:06&#160;UTC | true | [view](../../REPOS/3b3a2bead0211bccb53952e15923351e2f2a8538/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/1b0b321bad320b960a4f0fc8f2408d0daa110730` | 06&#160;Jun&#160;25&#160;12:24&#160;UTC | true | [view](../../REPOS/34e7882e06dace1a791ef9c61d8fd0dd95ed09df/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/1cb5524539bfa481384ff17da116fd8eed39952f` | 27&#160;Jan&#160;24&#160;17:16&#160;UTC | true | [view](../../REPOS/d32b7cbb15b61c3e1fcea715a64bf660c8404339/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/235213bf0fd6f738e4ac1c4dfc9ccfd304428ace` | 11&#160;Oct&#160;25&#160;17:52&#160;UTC | true | [view](../../REPOS/b6a849fd52465e8c87b07c46d6bdb52e5cb1212e/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/27619989593575ff99cddfc6b207ba73fed5de1e` | 07&#160;Jan&#160;24&#160;16:17&#160;UTC | true | [view](../../REPOS/5893b1dc1e6545c057861327356109497ac38352/README.md) |
+| `https://sti-cr.cgah.tnsi.com/certs/54ea30a0105002d9a139f34e6297f0d2fdf88fca` | 11&#160;Dec&#160;23&#160;00:14&#160;UTC | true | [view](../../REPOS/90528905a7a60fa4eeb4391655bd15f03500e0f5/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/590f3a17396e9e874d158eb60337f24c3ac4812b` | 19&#160;May&#160;24&#160;22:04&#160;UTC | true | [view](../../REPOS/a2098d65fd06b7cb2f03c4e8f06f3b0095aa15a1/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/5dc472732f3dd53854a5183f1dadceeb6127fac7` | 19&#160;May&#160;24&#160;22:20&#160;UTC | true | [view](../../REPOS/587f724b722f0a26fd7082d483d15a8be3a41e7e/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/6c54d88f5669c28848983d4572f11c0b896342ac` | 23&#160;Mar&#160;24&#160;23:52&#160;UTC | true | [view](../../REPOS/a18cebfe06f6420c76cddb1cd0225cafc82a7438/README.md) |
@@ -30,6 +32,7 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sti-cr.cgah.tnsi.com/certs/ccf242c7f37d7d7d0af1091ba5d7894e312ccedd` | 20&#160;Jun&#160;24&#160;15:05&#160;UTC | true | [view](../../REPOS/f4b52f5509266f668a23f345f1ae34296e40bf1b/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/cd1856717574765eb6b4bddb7a5bc8814e1e2103` | 16&#160;Mar&#160;24&#160;17:12&#160;UTC | true | [view](../../REPOS/8a93062c89a419a83af68fafaa8bc49b3e23ad38/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/d9dd9bf73998fe328ba9447674492e8217d56dcf` | 10&#160;Jun&#160;24&#160;16:14&#160;UTC | true | [view](../../REPOS/a7cc45b1f28b042be997c304d7d4aaa58f5538e4/README.md) |
+| `https://sti-cr.cgah.tnsi.com/certs/da7847867ee00785d849b849e374c81ecd3f2545` | 19&#160;May&#160;24&#160;22:13&#160;UTC | true | [view](../../REPOS/127324600d6ea3bd3ed144eeaf06f14b9d5b3fea/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/de39b976c7549358da256530d81cfb1f446a2583` | 15&#160;Apr&#160;24&#160;15:27&#160;UTC | true | [view](../../REPOS/5b6aeeae4a284e7607c4cb9d696247d8dce1a428/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/ef7499777a884734baaa98de26c0caed26fe57be` | 04&#160;May&#160;25&#160;14:14&#160;UTC | true | [view](../../REPOS/2848f6a1176bf7c747778b0d50732aa5d14ec914/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/f63503c138e2b55933317f09cc5a1cc4e8a3de1d` | 10&#160;Jun&#160;24&#160;16:01&#160;UTC | true | [view](../../REPOS/676b9edaf7d6bc97061ccc8ec6b080062fecef3d/README.md) |
@@ -37,4 +40,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sti-cr.cgah.tnsi.com/certs/fe756139593d8af30f6d59a341bc41e4a6e21abb` | 29&#160;Jul&#160;24&#160;17:16&#160;UTC | true | [view](../../REPOS/abb622dcff50f956ee643ab0bea4fc127ceb1173/README.md) |
 
 
-Generated: 07 Dec 22 18:54 UTC
+Generated: 12 Dec 22 23:45 UTC

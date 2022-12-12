@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Sansay Intermediate CA Canada 1
 
-Tested At: 07 Dec 22 18:54 UTC\
+Tested At: 12 Dec 22 23:45 UTC\
 Initial Validity Period: 3285 day(s)\
-Remaining Validity Period: 3034 day(s)\
+Remaining Validity Period: 3029 day(s)\
 Subject: CN=SHAKEN Sansay Intermediate CA Canada 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Issuer: CN=SHAKEN Sansay Root CA Canada, OU=Sansay CA, O=Sansay Corporation, L=San Diego, ST=California, C=US
 
@@ -17,4 +17,4 @@ Issuer: CN=SHAKEN Sansay Root CA Canada, OU=Sansay CA, O=Sansay Corporation, L=S
 | [e_atis_ca_serial_number](../../ISSUES/e_atis_ca_serial_number/README.md) | error | ATIS1000080 | STI certificates shall include a Serial Number field containing an integer greater than zero. The serial number shall contain at least 64 bits of output from a Cryptographically Secure PseudoRandom Number Generator (CSPRNG) |
 
 
-Generated: 07 Dec 22 18:54 UTC
+Generated: 12 Dec 22 23:45 UTC

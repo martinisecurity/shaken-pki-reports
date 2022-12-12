@@ -18,11 +18,13 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 | error | USCellular SHAKEN Cert 6349 | [view](../../CERTS/c75937e7c843b0054b1a51f6149f47661696b3cfcbcf6bab4dbc708c4453244f/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | U. S. Telepacific Corp SHAKEN 7453 | [view](../../CERTS/9ed03dac797a5a27d52aa5209a4caa6a3ec9c3943d55a2cbfb69416480787da0/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Mediacom 846F | [view](../../CERTS/e6c9e9fd411d8174b3ffe1af4d569c6919f4b98a5d0c6e429cd3682d82284e7e/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| error | Yelcot SHAKEN Cert 1733 | [view](../../CERTS/f7e9897313ee276a419725d0aa81886e8f3636ad1cd1e9aad623166f56e6b141/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | RCN SHAKEN Cert 7615 | [view](../../CERTS/bbdec20ad80f4a2a8ed097204a9299566beca170460fb648c81a51d195d9b6f1/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Avid Communication SHAKEN Cert 742D | [view](../../CERTS/b63d54026dfcdfd16495ad6fdda8993de182c86b4aa870784177c38c53842cba/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Telesystem SHAKEN Cert 786E | [view](../../CERTS/2d9aca0895c94291596161363091718089a6e7c19dfa57329ae548432533860f/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Northeast Oklahoma Electric Cooperative SHAKEN Cert 945H | [view](../../CERTS/b399b86f53e35dfa37c4cd7b28ee0132d934ef73354f564636d8edee42d58ccd/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Call48 SHAKEN Cert 505J | [view](../../CERTS/5bb4516a62167e6c55e9704e4a49b39ce9ec480e678aa6c02fb6985fc9594997/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| error | Fidelity Communications SHAKEN Cert 1882 | [view](../../CERTS/baaf8e58db0f02327fc5b9b614a5633c7b505ca0b291b606d32a191ee73a05e5/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Appalachian Wireless SHAKEN Cert 6940 | [view](../../CERTS/e14170c681e75c37d0ca45e304c09cc0d148246bd7d72e96f91f7a8fe27339fa/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Everstream SHAKEN Cert 472C  | [view](../../CERTS/8710bb38debebd39698fb1c273409b173951cca1fab53a6d4c4aca91e61e06df/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Cspire SHAKEN Cert 6581 | [view](../../CERTS/09ed5b3292b5bfc7ac80b1027a827138b9503aa8053a61431a8dc851ecad04f2/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
@@ -39,6 +41,7 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 | error | Buckeye SHAKEN Cert 7608 | [view](../../CERTS/61a18f942b4df978a21d6e9cf1df2f0cea0dbd9609b1fcfec8c5f97d5c6dcd7e/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | GCI SHAKEN Cert 7785 | [view](../../CERTS/312e58dffa682b464f9867a7c373f9881d092b834767dcabe5baf8c7245e937c/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Carolina West Wireless SHAKEN Cert 5932 | [view](../../CERTS/e85dec068c9fa23af68b345257d58269303c925d10fc9101b226d1e0e7d62a9d/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| error | Nemont SHAKEN Cert 2247 | [view](../../CERTS/cd4fc6aff73ae9a3e16063ce1bda6bc6e265584b0b930d24ef615174fa6bed20/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | CBTS Technology Solutions SHAKEN Cert 600F | [view](../../CERTS/3d02021a2da14f1ebfe588256a419be9ebc03c0d1fccc51cc29fa9d4a625c6bf/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Kaplan Telephone SHAKEN cert 0432 | [view](../../CERTS/24c1b7c4dc4aeda21b5d1c5ff7f059903693c4a8b67ecc054ef05542a2ff4c35/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Clearwave SHAKEN Cert 9915 | [view](../../CERTS/de0c13b76c24e2ef34c5de58e88fbfeef9c8adb44175b42f3c69771db6586491/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
@@ -51,4 +54,4 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 No error, warning, or notice level issues were found
 
 
-Generated: 07 Dec 22 18:54 UTC
+Generated: 12 Dec 22 23:45 UTC

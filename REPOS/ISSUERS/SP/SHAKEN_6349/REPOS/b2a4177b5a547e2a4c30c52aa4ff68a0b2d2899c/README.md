@@ -3,8 +3,8 @@
 ## SHAKEN 6349
 
 Name: `https://crs.sti.uscellular.com/certs/uscc_shaken_CA.crt`\
-Tested At: 07 Dec 22 18:47 UTC\
-Time: 241ms
+Tested At: 12 Dec 22 23:38 UTC\
+Time: 139ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 241ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 07 Dec 22 18:54 UTC
+Generated: 12 Dec 22 23:45 UTC

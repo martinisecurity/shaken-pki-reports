@@ -15,7 +15,6 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 | error | SHAKEN_0377 | [view](../../CERTS/a891efce3a4b35ed5111a2f8d9dbf2abef04a0e5c9ce4ea5313c0ede3e92ce26/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | prod SHAKEN 811J | [view](../../CERTS/7ef0e8708dd98388b4ad32596d53ebc2250169c5d8d9e795dd3cc1af141dd4cf/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | prod SHAKEN 811J | [view](../../CERTS/f6e3384410e423b0e0006618d97878154ef07b52fbdc31a7ae6f3bc7f102e6ed/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| error | digitalipvoice.com | [view](../../CERTS/b95967027d535f36fc40bb91a16bc17d7fe58af8fa14d922a1c9daed9933443a/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | SHAKEN | [view](../../CERTS/a76f137e6ae23b3f27db8b6c2c339571ff7b5a106f61709d6d36b49852d0a070/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | SHAKEN | [view](../../CERTS/cc1f9403c74042b640c6d9b9727431d381822937a2b623238e1ebae19e7e4561/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | ATT SHAKEN 4036 | [view](../../CERTS/3a8d4d5fe47e784f925bca30b21d44f3492ad0813fd074ef2d438cca1d4acc68/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
@@ -47,4 +46,4 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 No error, warning, or notice level issues were found
 
 
-Generated: 07 Dec 22 18:54 UTC
+Generated: 12 Dec 22 23:45 UTC
