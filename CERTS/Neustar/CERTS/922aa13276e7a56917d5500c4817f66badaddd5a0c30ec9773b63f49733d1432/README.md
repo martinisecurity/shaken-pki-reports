@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 700H
 
-Tested At: 12 Dec 22 23:36 UTC\
+Tested At: 15 Dec 22 18:12 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 176 day(s)\
+Remaining Validity Period: 174 day(s)\
 Subject: CN=SHAKEN 700H, O=Metro FiberNet LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/142.143
@@ -18,4 +18,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/142.143
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 12 Dec 22 23:45 UTC
+Generated: 15 Dec 22 18:35 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 5447
 
-Tested At: 12 Dec 22 23:37 UTC\
+Tested At: 15 Dec 22 18:29 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 108 day(s)\
+Remaining Validity Period: 105 day(s)\
 Subject: CN=SHAKEN 5447, O=Access One Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11528.10146
@@ -18,4 +18,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11528.10146
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 12 Dec 22 23:45 UTC
+Generated: 15 Dec 22 18:35 UTC

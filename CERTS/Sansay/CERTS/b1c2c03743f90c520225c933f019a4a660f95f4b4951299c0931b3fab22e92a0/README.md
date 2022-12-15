@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Nobelbiz, Inc. 596J
 
-Tested At: 12 Dec 22 23:38 UTC\
+Tested At: 15 Dec 22 18:29 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: 25 day(s)\
+Remaining Validity Period: 22 day(s)\
 Subject: CN=SHAKEN Nobelbiz\\, Inc. 596J, OU=NOC, O=Nobelbiz\\, Inc., ST=California, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/NobelBiz_596J
@@ -20,4 +20,4 @@ Link: https://cr.sansay.com/NobelBiz_596J
 | [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 596J' |
 
 
-Generated: 12 Dec 22 23:45 UTC
+Generated: 15 Dec 22 18:35 UTC

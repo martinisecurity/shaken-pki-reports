@@ -1,99 +1,102 @@
 OCN;Org Name;CN;Cert
 012K;CallCurrent, Inc.;SHAKEN 012K;https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/b515401f0ebfaccff2d43e14e8d968f5.pem
-012K;CallCurrent, Inc.;SHAKEN 012K;https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/f9d1fa66a512e95696bd8fe6a6cec3e6.pem
+0172;CallTower;SHAKEN 0172;https://certificates.transnexus.com/0172/9be266e7-9cc5-4653-a266-111cee2e7bd1.pem
 0172;CallTower;SHAKEN 0172;https://certificates.transnexus.com/0172/dee94846-4a2a-4bbe-8b66-84f84e2c06e2.pem
+0226;Lumos Networks;SHAKEN 0226;https://certificates.clearip.com/f8a68e44-8fb0-4f28-b533-c4df27ed8e1b/1d6e6b16be2f888e501b52bf225a594c.pem
 0226;Lumos Networks;SHAKEN 0226;https://certificates.clearip.com/f8a68e44-8fb0-4f28-b533-c4df27ed8e1b/4cd07e193a7d55d681064bae8d485ce5.pem
-0226;Lumos Networks;SHAKEN 0226;https://certificates.clearip.com/f8a68e44-8fb0-4f28-b533-c4df27ed8e1b/66fd78ccf585fb1f793f25b80b61015f.pem
-056K;Logista Solutions;SHAKEN 056K;https://certificates.clearip.com/d673a99f-ad2d-4256-8d65-e20ff91adba4/a2e880b83b71d2a07d6ea6a8d6695654.pem
-060K;Telware;SHAKEN 060K;https://certificates.clearip.com/0c4e235f-3e3e-4dd3-bbfc-2f15badab180/f3d6a118e9f29fa2c7258ed3df66324c.pem
-065J;One Ring Networks;SHAKEN 065J;https://certificates.clearip.com/1de2a6c6-9b1b-4894-8c0c-0cccfdf25e8d/2e7380d7a694063c2497f776dd395916.pem
+056K;Logista Solutions;SHAKEN 056K;https://certificates.clearip.com/d673a99f-ad2d-4256-8d65-e20ff91adba4/214a7bd69b672c44fff4c5c1c0b57273.pem
+060K;Telware;SHAKEN 060K;https://certificates.clearip.com/0c4e235f-3e3e-4dd3-bbfc-2f15badab180/72f178a5d7d1f6336c1aa6c85efc0276.pem
 073H;Telnyx LCC;SHAKEN 073H;https://certificates.transnexus.com/073H/d89fe29a-1d12-4fe3-b002-f0dc1c09904d.pem
 089K;Logista Solutions;SHAKEN 089K;https://certificates.clearip.com/5f7c135d-caf3-4661-abb1-d1720e7872e2/1e0fffd2dcba54ec47191a5918ec06a2.pem
-089K;Logista Solutions;SHAKEN 089K;https://certificates.clearip.com/5f7c135d-caf3-4661-abb1-d1720e7872e2/6febd8a88f19a0d75b6023de1c912cea.pem
-107K;Atheral;SHAKEN 107K;https://certificates.clearip.com/4ba6f296-2d7c-42c2-8fe4-12b74f5076df/bf7820727c65fb806adabd5a81c32199.pem
+089K;Logista Solutions;SHAKEN 089K;https://certificates.clearip.com/5f7c135d-caf3-4661-abb1-d1720e7872e2/6ee2d826705133d06dafc5849164240c.pem
 107K;Atheral;SHAKEN 107K;https://certificates.clearip.com/4ba6f296-2d7c-42c2-8fe4-12b74f5076df/d6fc3b56e6160b86dfbc41b630e62025.pem
+107K;Atheral;SHAKEN 107K;https://certificates.clearip.com/4ba6f296-2d7c-42c2-8fe4-12b74f5076df/efb4d2df71ed68421ebfa812414b7f55.pem
 120K;VC3;SHAKEN 120K;https://certificates.clearip.com/bcb89748-38e2-45ae-8b54-7efd23525de2/031ee746955e42645da0f78d89a01126.pem
-140K;IP Communications, LLC;SHAKEN 140K;https://certificates.clearip.com/ded2dd05-658d-4b95-9554-d30e2f15e26b/6eeee8248e7112ebaf38db4a60af5af6.pem
+130B;Global Telecom;SHAKEN 130B;https://certificates.clearip.com/4efae05c-c8cd-405b-ae97-c62a52afd074/c77e96e427f49afbcdd42f48d4458726.pem
 159H;Edge Communications;SHAKEN 159H;https://certificates.transnexus.com/159H/20277105-f6b5-4e60-9c01-e71e3cb85cfb.pem
+177K;Cytracom, LLC;SHAKEN 177K;https://certificates.clearip.com/8d118994-4994-4735-ac71-42c0bbb7848f/45d36f28038a6dd1e4f1d97fc832cddd.pem
 177K;Cytracom, LLC;SHAKEN 177K;https://certificates.clearip.com/8d118994-4994-4735-ac71-42c0bbb7848f/48897ddc724b3ba6a37dbdf666e3a27d.pem
-177K;Cytracom, LLC;SHAKEN 177K;https://certificates.clearip.com/8d118994-4994-4735-ac71-42c0bbb7848f/551980da6544f4c18116cf8c6d8575db.pem
+186K;Go2Uno LLC;SHAKEN 186K;https://certificates.clearip.com/92df566f-5229-4e9a-b7c7-ec203fc4196d/c436e185df203a3536d23d7c79eec8d6.pem
 193E;8x8 Inc;SHAKEN 193E;https://certificates.transnexus.com/193E/0d14a5e6-7a85-4036-aa55-251fc50d1c32.pem
 193E;8x8 Inc;SHAKEN 193E;https://certificates.transnexus.com/193E/236c2c22-882e-444f-a83e-67ca1a66297b.pem
-226K;Big Fish Voice, LLC;SHAKEN 226K;https://certificates.clearip.com/2e6d4126-e711-41e1-ab9a-1fcdf4f21aec/f14acbc9628e0e22845722247fa246cd.pem
-2550;123.Net, Inc;SHAKEN 2550;https://certificates.clearip.com/2e3276e5-a5c5-43c7-ae11-3a226bf1b5ed/e52e42bedd319df444b581d2456e8636.pem
+2550;123.Net, Inc;SHAKEN 2550;https://certificates.clearip.com/2e3276e5-a5c5-43c7-ae11-3a226bf1b5ed/4b60c8624b0379735afc88f1aa9d0074.pem
+2550;123.Net, Inc;SHAKEN 2550;https://certificates.clearip.com/2e3276e5-a5c5-43c7-ae11-3a226bf1b5ed/87aa386c23945b5526424137c80e4e04.pem
 2550;123.Net, Inc;SHAKEN 2550;https://certificates.clearip.com/2e3276e5-a5c5-43c7-ae11-3a226bf1b5ed/fd23152e2e13e3b27074886065141da1.pem
 2720;TransNexus;Fusion Connect SHAKEN 2720;https://prod001-cr.rbbnidhub.com/8ZJdVFg7gz/2
 278K;OIT;SHAKEN 278K;https://certificates.clearip.com/36952c34-78d8-4c32-9499-188a418f31ba/b9ded0ed2ee22422ca55fb7b1f4b52aa.pem
-278K;OIT;SHAKEN 278K;https://certificates.clearip.com/36952c34-78d8-4c32-9499-188a418f31ba/e1f3b6d24fe91af13fa42d2bad1b75c9.pem
-2894;Missouri Telecom Inc;SHAKEN 2894;https://certificates.transnexus.com/2894/735cf26f-07a1-4dc9-a843-4d7a2b0c7ec1.pem
 297K;Clarity Voice;SHAKEN 297K;https://certificates.clearip.com/859299ca-4c86-4dfd-9785-6c758bee1b37/1fcb61dda4bac448cd53543db48299fc.pem
-297K;Clarity Voice;SHAKEN 297K;https://certificates.clearip.com/859299ca-4c86-4dfd-9785-6c758bee1b37/a1b41303ad3f313b04460201882c3ce5.pem
-324K;Complete Computer Solutions;SHAKEN 324K;https://certificates.clearip.com/abec0c83-e51d-4f69-927f-9ac7d5f33a5e/031a204cc7c67ecf94023f09178f91d9.pem
+297K;Clarity Voice;SHAKEN 297K;https://certificates.clearip.com/859299ca-4c86-4dfd-9785-6c758bee1b37/ca0c10850a5c5fbefcc89d6e1edd3f65.pem
+314K;Proclaim Voip;SHAKEN 314K;https://certificates.clearip.com/af41d000-7fb7-42d7-83f7-9686b67ecb60/d2e58b902ef605acb1a307d9f5f026ca.pem
 345J;Ooma Inc;SHAKEN 345J;https://certificates.transnexus.com/345J/a9f5b28d-a145-47bf-9ee0-f5a1b6e78520.pem
 345J;Ooma Inc;SHAKEN 345J;https://certificates.transnexus.com/345J/bc695e71-da44-4b5c-9a07-8bad19aede0a.pem
 366G;USA Digital;SHAKEN 366G;https://certificates.clearip.com/5a565c0f-433a-4bce-b57c-868e3e7b3002/1b47b969c67b3af615d7692840537d2e.pem
-366G;USA Digital;SHAKEN 366G;https://certificates.clearip.com/5a565c0f-433a-4bce-b57c-868e3e7b3002/e5f922b7e7b6a37738068de1b7041e6c.pem
-366G;USA Digital;SHAKEN 366G;https://certificates.clearip.com/e9497931-96b3-4ff8-8306-1b1273847a4d/721453d703270b616c27376db46832c0.pem
+366G;USA Digital;SHAKEN 366G;https://certificates.clearip.com/5a565c0f-433a-4bce-b57c-868e3e7b3002/8359b28fbe54e3755d9d5c5bca179665.pem
+366G;USA Digital;SHAKEN 366G;https://certificates.clearip.com/e9497931-96b3-4ff8-8306-1b1273847a4d/49ed6d11dfc9501d39b35f0de68432df.pem
 366G;USA Digital;SHAKEN 366G;https://certificates.clearip.com/e9497931-96b3-4ff8-8306-1b1273847a4d/f190239e594c30051d7d4c81614f3573.pem
 4036;ATT;SHAKEN 4036;https://cert.sticr.att.net:8443/certs/att/e4089cf9-5fbb-4536-825a-ac516611ac45
-459J;Altaworx;SHAKEN 459J;https://certificates.clearip.com/d3d6dbfc-2914-49c7-8f47-d0aa5bd5d764/dfbeedfba4fa59e170cf3d3f966b040a.pem
+406K;CommandLink;SHAKEN 406K;https://certificates.clearip.com/c1c27f53-dd56-44ca-9bba-45ce603a05d9/327da49bb323ce56b324fb423b34b8e2.pem
+459J;Altaworx;SHAKEN 459J;https://certificates.clearip.com/d3d6dbfc-2914-49c7-8f47-d0aa5bd5d764/cba7c8c691aa9aaa58be55b09fcd47e3.pem
 459J;Altaworx;SHAKEN 459J;https://certificates.clearip.com/d3d6dbfc-2914-49c7-8f47-d0aa5bd5d764/e4275e35608cac68f512dde04d94bc40.pem
 469A;T3 Communications Inc.;SHAKEN 469A;https://certificates.clearip.com/88814589-ad88-4c53-b3c3-47f8334afb98/56fa40941c73b9ca4122f04c3786f30c.pem
-469A;T3 Communications Inc.;SHAKEN 469A;https://certificates.clearip.com/88814589-ad88-4c53-b3c3-47f8334afb98/a8e8aa4869eb04c86b17fadabd0da0f2.pem
-495J;Stratus;SHAKEN 495J;https://certificates.clearip.com/94c136bd-6438-40a6-b740-7765d5ead597/e6a4194b4148491a881e0bcc23aad61e.pem
+495J;Stratus;SHAKEN 495J;https://certificates.clearip.com/94c136bd-6438-40a6-b740-7765d5ead597/3d12d92ccd18e811f9e7e9fd5473b69b.pem
+495J;Stratus;SHAKEN 495J;https://certificates.clearip.com/94c136bd-6438-40a6-b740-7765d5ead597/c218c431844fe014d214156c0af9f986.pem
 505J;HFA Services LLC dba Call48;SHAKEN 505J;https://certificates.transnexus.com/505J/e7c8b693-b40a-4cfd-bd50-260db797f09b.pem
 505J;HFA Services LLC dba Call48;SHAKEN 505J;https://certificates.transnexus.com/505J/ec7d1cb5-b714-4373-ad07-ef0e95a1e098.pem
-518J;TransNexus, Inc.;SHAKEN 518J;https://certificates.clearip.com/transnexus/308a0ae5e511d648685cb5ca65fae4ef.pem
 518J;TransNexus, Inc.;SHAKEN 518J;https://certificates.clearip.com/transnexus/8d1bf46bf86a60f61c34664757aa08c3.pem
 551G;Brightlink Communications LLC;SHAKEN 551G;https://certificates.transnexus.com/551G/0efcd80b-9846-4b55-a8f3-e308a5abe9ba.pem
+551G;Brightlink Communications LLC;SHAKEN 551G;https://certificates.transnexus.com/551G/43710e77-bbdf-4ed7-8876-4783a758738a.pem
 578J;Call Tools Inc;SHAKEN 578J;https://certificates.transnexus.com/578J/8e374e10-eba0-45b0-b09a-b7086947dd7c.pem
 594J;Carolina Digital;SHAKEN 594J;https://certificates.clearip.com/14652271-f2ba-4197-87c0-704f8c618e4b/611ffe61dcc59d88aa5a55dcd4e94991.pem
 597J;Voxtelesys;SHAKEN 597J;https://certificates.transnexus.com/597J/6572b8e4-01de-48c3-9b11-d21cd134c569.pem
 606F;Global Data Systems Inc.;SHAKEN 606F;https://certificates.clearip.com/756cb700-f9d2-4a05-850e-c9dfe3e22de4/d095c4dda052b55f30a387a67e6648c8.pem
 622J;Skye Telecom LLC;SHAKEN 622J;https://certificates.transnexus.com/622J/e06fa5f9-05dc-4e5f-894b-372cfe982864.pem
-625J;Victory Telecom Inc.;SHAKEN 625J;https://certificates.clearip.com/b7343686-5ed8-402c-89a3-8bf1a3d48975/cc7e831e5b0a543c4009420e8f4ed944.pem
-625J;Victory Telecom Inc;SHAKEN 625J;https://certificates.transnexus.com/625J/c49347f8-02ad-4883-999b-da7b428552f7.pem
+625J;Victory Telecom Inc.;SHAKEN 625J;https://certificates.clearip.com/b7343686-5ed8-402c-89a3-8bf1a3d48975/6b84ac5ea1991352cc7678872641dd41.pem
+625J;Victory Telecom Inc;SHAKEN 625J;https://certificates.transnexus.com/625J/26b9754f-7748-425f-a268-bc16f4826bc0.pem
 6628;Merryville Investments LTD Inc dba ClarityTel;SHAKEN 6628;https://certificates.transnexus.com/6628/e0f14ccb-0cb4-4b46-a7b7-988bdfd30cce.pem
 663J;TransNexus;CCI SHAKEN 663J;https://certificates.transnexus.com/663J/0b51e9f5-0e35-4d02-acef-5c91c3a6b903.pem
-672B;Clear Rate;SHAKEN 672B;https://certificates.clearip.com/dcef9a97-b864-43ac-830b-2290a8d0f002/3d779c832da5c5eb7229aee5a150b397.pem
-674J;Panterra Networks Inc.;SHAKEN 674J;https://certificates.clearip.com/0b98ecf4-0a43-4b89-8fc0-8e029d8258fa/364094d3670615217f720732c0c2d72e.pem
+672B;Clear Rate;SHAKEN 672B;https://certificates.clearip.com/dcef9a97-b864-43ac-830b-2290a8d0f002/141a4535cef453d8171ee1b4ffc782c2.pem
+672B;Clear Rate;SHAKEN 672B;https://certificates.clearip.com/dcef9a97-b864-43ac-830b-2290a8d0f002/3937b5bf58529d1c44882b6e615ca33a.pem
+674J;Panterra Networks Inc.;SHAKEN 674J;https://certificates.clearip.com/0b98ecf4-0a43-4b89-8fc0-8e029d8258fa/5daf0450ca191e57e5af7fd0f71fce6c.pem
 674J;Panterra Networks Inc.;SHAKEN 674J;https://certificates.clearip.com/0b98ecf4-0a43-4b89-8fc0-8e029d8258fa/fd0edf887e33481dd535d4c62dbdf108.pem
+6922;MTPCS LLC dba CELLULARONE;SHAKEN 6922;https://certificates.clearip.com/24fface1-b9de-43ae-9e6d-c6d9505b7cb4/a8e3211b1ece6d1828b972fb47be9ab0.pem
 706J;TCN;SHAKEN 706J;https://certificates.transnexus.com/706J/fdb13f3d-0f05-47c8-a047-af2f9e2f7af5.pem
 722J;EvolveIP LLC;SHAKEN 722J;https://certificates.transnexus.com/722J/2879cd22-91fc-4dc5-87be-3f7ed8d275dd.pem
 722J;EvolveIP LLC;SHAKEN 722J;https://certificates.transnexus.com/722J/cfc4e8c1-ca2c-43c4-9108-670652d274b4.pem
-726J;Votacall Inc;SHAKEN 726J;https://certificates.clearip.com/88dbb645-62bf-4d40-960c-4e8e3223880f/0cbbd17401bac79d74267ed29ef0884d.pem
+726J;Votacall Inc;SHAKEN 726J;https://certificates.clearip.com/88dbb645-62bf-4d40-960c-4e8e3223880f/5a1ce06cc0115abfceca9b940eead7dd.pem
 726J;Votacall Inc;SHAKEN 726J;https://certificates.clearip.com/88dbb645-62bf-4d40-960c-4e8e3223880f/b16cbfe0964a659166f3892f666e5695.pem
+727J;SumoFiber;SHAKEN 727J;https://certificates.clearip.com/60e08b8b-2fd4-455e-9e9a-faa0470820d8/519bd6a09cd20d7cf007093b802393e1.pem
+733J;Wiretap Telecom;SHAKEN 733J;https://certificates.clearip.com/257dc117-4652-4444-9058-fceb2d81e92c/4b86d1e401ad41348e9355b1bc470044.pem
+734J;TELINTEL LTD;SHAKEN 734J;https://certificates.clearip.com/cf29335b-1257-4ff4-9882-94a76a244c20/c3976de56ebcadfbade66fdf60ddf10e.pem
 736J;Masergy Communications;SHAKEN 736J;https://certificates.transnexus.com/736J/27cf1c16-f0f0-41fa-a0c1-6c167396fe34.pem
-738J;SIP.US LLC;SHAKEN 738J;https://certificates.clearip.com/2185f3c0-09fe-4171-ac47-5f28eb0ef48e/1d45f0f22f4b5b38ce6c4b4338ec0922.pem
 738J;SIP.US LLC;SHAKEN 738J;https://certificates.clearip.com/2185f3c0-09fe-4171-ac47-5f28eb0ef48e/cafd69f81fcedd2c32168ba533b1332a.pem
+738J;SIP.US LLC;SHAKEN 738J;https://certificates.clearip.com/2185f3c0-09fe-4171-ac47-5f28eb0ef48e/ea0653550b3bdba67032c3b02a63fe84.pem
 738J;SIP.US LLC;SHAKEN 738J;https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/32a547862d1490090cf5e77a37f2e156.pem
-738J;SIP.US LLC;SHAKEN 738J;https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/55e4b0e5362812fc5837d94280ed00c1.pem
-738J;SIP.US LLC;SHAKEN 738J;https://certificates.clearip.com/fa6a5cd3-a6c2-4c98-9995-b87249365948/aed52a29349ad053cd3cbbd75853acd6.pem
+738J;SIP.US LLC;SHAKEN 738J;https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/a64af1ca07f6f82bf31aaa0792182134.pem
+738J;SIP.US LLC;SHAKEN 738J;https://certificates.clearip.com/fa6a5cd3-a6c2-4c98-9995-b87249365948/2efdd1147b4e66c3c209b97e53cb3fe4.pem
 738J;SIP.US LLC;SHAKEN 738J;https://certificates.clearip.com/fa6a5cd3-a6c2-4c98-9995-b87249365948/d2f2196a6e83030a9a749c9ecf0777a5.pem
-738J;SkySwitch;SHAKEN 738J;https://certificates.transnexus.com/738J/1c546962-272a-40ba-80d5-a32c2f02d777.pem
 738J;SkySwitch;SHAKEN 738J;https://certificates.transnexus.com/738J/f3f8d8cd-a836-4224-bf12-0ef041103330.pem
-747J;Magic Apple;SHAKEN 747J;https://certificates.clearip.com/9e31f6fe-cfd3-49cc-b9fc-22963012a8d7/a747b1c1d42824b703d8e11ee4716725.pem
-753J;Senawave Communications, Inc.;SHAKEN 753J;https://certificates.clearip.com/ec37fdce-f409-4bc8-89e7-bd7f2679e0c8/c31045ef238040fe22b9bf95541db9f5.pem
+749J;iTalkGlobal;SHAKEN 749J;https://certificates.clearip.com/d7bfa171-ff4f-483d-849b-3f987c919d43/b1ab5bc3a0f237e12076325da21134c0.pem
 755J;CMS Internet;SHAKEN 755J;https://certificates.transnexus.com/755J/5e526fc6-7b0a-43a5-bb13-263d7edc74e3.pem
-769J;Affiliated Technology Solutions LLC;SHAKEN 769J;https://certificates.clearip.com/471a46b3-3de4-4aa2-964b-2ff03ddbc8fe/4c51fb8594263263143c78e1b9cf5703.pem
-790J;Viirtue;SHAKEN 790J;https://certificates.clearip.com/a429df3a-62d2-4851-90c8-fc446859fb08/c7d85dc648270901630185bfe43a053d.pem
+763J;InfoWest Inc.;SHAKEN 763J;https://certificates.clearip.com/f12e1928-6745-4bda-b71c-42eaf0738bce/58c0e532de06f0a547de0bef43cd1785.pem
+769J;Affiliated Technology Solutions LLC;SHAKEN 769J;https://certificates.clearip.com/471a46b3-3de4-4aa2-964b-2ff03ddbc8fe/201ce5b36d22deabe9ce243d2754c744.pem
 790J;Viirtue;SHAKEN 790J;https://certificates.clearip.com/a429df3a-62d2-4851-90c8-fc446859fb08/ddd26751b8e7894c73c72e2eb6206ef4.pem
+793J;UniTel Voice;SHAKEN 793J;https://certificates.clearip.com/45c216c2-fbb9-4f33-a3cf-6a64aad19357/a2314fb357983d95dd31e979a79e00c4.pem
 807J;SipPhony LLC;SHAKEN 807J;https://certificates.transnexus.com/807J/a97ca418-f914-4add-ad4b-7caf93cf0f2b.pem
 815G;382 Communications;SHAKEN 815G;https://certificates.transnexus.com/815G/c147c307-645b-4fcd-99d0-2be9a709b265.pem
-819H;BluIP Inc.;SHAKEN 819H;https://certificates.clearip.com/3c4ce448-386b-4d47-a276-7fe32e380a83/46d354b2a0159ae17010108b2a1c6e4e.pem
-841J;Securus Technologies LLC;SHAKEN 841J;https://certificates.transnexus.com/841J/00ab54e3-2a20-4406-be12-a002b386cc00.pem
 841J;Securus Technologies LLC;SHAKEN 841J;https://certificates.transnexus.com/841J/23d5f4d0-7fc3-4802-a528-19b7ab48eb00.pem
 848J;Invision Technologies LLC;SHAKEN 848J;https://certificates.clearip.com/84d348e0-ce86-4b5b-b14c-8419e12eea57/63e7141a78bc57bf3f3b1e83f4d47d4a.pem
 848J;Invision Technologies LLC;SHAKEN 848J;https://certificates.clearip.com/84d348e0-ce86-4b5b-b14c-8419e12eea57/687964869db7f037f1cf4f96a8c070f2.pem
-849J;Fuse.Cloud;SHAKEN 849J;https://certificates.clearip.com/86e241b8-9c8e-4431-b35f-4d92844a1da9/d41e22ab89831b1d1f9b8370376f529e.pem
 8526;MetTel;SHAKEN 8526;https://certificates.transnexus.com/8526/65708bb9-ff7b-412e-a823-edf04c433747.pem
 854D;Xtel;SHAKEN 854D;https://certificates.clearip.com/627e4253-759f-447e-b1a0-c9cda9a6d597/9a433a10d4f0d6132ee0d48193853b98.pem
 857J;IEvolve;SHAKEN 857J;https://icomm.i-evolve.net/certs/icomm-shaken-sbc01.crt
-864J;BareTelecom;SHAKEN 864J;https://certificates.clearip.com/068da5f9-4dcc-47ef-be68-4fde86a6b74d/7721cb3266002e6798c27ee7b5e6e51a.pem
+864J;BareTelecom;SHAKEN 864J;https://certificates.clearip.com/068da5f9-4dcc-47ef-be68-4fde86a6b74d/731a5feb859af9eaa42c19c0d1ca41a4.pem
 864J;BareTelecom;SHAKEN 864J;https://certificates.clearip.com/068da5f9-4dcc-47ef-be68-4fde86a6b74d/e3a23480911143a3113ed826af40ba37.pem
 866J;VocalIP;SHAKEN 866J;https://certificates.transnexus.com/866J/6442b809-7dbd-4be7-9b98-a8ec96d005ea.pem
 873J;TransNexus;MobileSphere SHAKEN 873J;https://certificates.transnexus.com/873J/ac03ff61-e0df-456a-b2b1-d4a8d57afcff.pem
+916J;Fusion Networks;SHAKEN 916J;https://certificates.clearip.com/48c90e4a-a2cf-4e37-bd41-4c9bf99d32ac/f139a3f292de05c8a72f8003cf9aaf2b.pem
 952J;Syndeo LLC dba Broadvoice;SHAKEN 952J;https://certificates.transnexus.com/952J/70ed906b-c916-4e8a-94f8-bd5ddbd64e72.pem
 952J;Syndeo LLC dba Broadvoice;SHAKEN 952J;https://certificates.transnexus.com/952J/c3e3098a-bb4f-46e4-9be9-61b5fa42ba48.pem
+9714;Grid4 Communications;SHAKEN 9714;https://certificates.clearip.com/51a37c7a-5af2-439d-94ce-677fa750ee2f/ca4efe45c3b19ab44e18472c85321176.pem
 983J;ESI;SHAKEN 983J;https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/5fe49bac2d8cc9d2f47970883293a162.pem
+983J;ESI;SHAKEN 983J;https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/abe9456db939873cdd039d98206e01bc.pem
 983J;ESI;SHAKEN 983J;https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/e544d8d6c8dd81e932fb96a210c9ce87.pem

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 4036
 
-Tested At: 12 Dec 22 23:34 UTC\
+Tested At: 15 Dec 22 18:11 UTC\
 Initial Validity Period: 168 day(s)\
-Remaining Validity Period: 149 day(s)\
+Remaining Validity Period: 146 day(s)\
 Subject: CN=SHAKEN 4036, O=ATT, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://cert.sticr.att.net:8443/certs/att/e4089cf9-5fbb-4536-825a-ac516611ac45
@@ -16,4 +16,4 @@ Link: https://cert.sticr.att.net:8443/certs/att/e4089cf9-5fbb-4536-825a-ac516611
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 12 Dec 22 23:45 UTC
+Generated: 15 Dec 22 18:35 UTC

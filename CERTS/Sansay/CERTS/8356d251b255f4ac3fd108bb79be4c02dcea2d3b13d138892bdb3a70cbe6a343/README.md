@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Sansay Root CA US
 
-Tested At: 12 Dec 22 23:45 UTC\
+Tested At: 15 Dec 22 18:35 UTC\
 Initial Validity Period: 7300 day(s)\
-Remaining Validity Period: 6457 day(s)\
+Remaining Validity Period: 6454 day(s)\
 Subject: CN=SHAKEN Sansay Root CA US, OU=Sansay CA, O=Sansay Corporation, L=San Diego, ST=California, C=US\
 Issuer: CN=SHAKEN Sansay Root CA US, OU=Sansay CA, O=Sansay Corporation, L=San Diego, ST=California, C=US
 
@@ -32,4 +32,4 @@ Issuer: CN=SHAKEN Sansay Root CA US, OU=Sansay CA, O=Sansay Corporation, L=San D
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Dec 22 23:45 UTC
+Generated: 15 Dec 22 18:35 UTC

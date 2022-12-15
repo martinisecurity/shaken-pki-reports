@@ -3,8 +3,8 @@
 ## Bulk Solutions, LLC
 
 Name: `https://bulkvs-cr.s3.amazonaws.com/644J_20210615001.crt`\
-Tested At: 12 Dec 22 23:33 UTC\
-Time: 33ms
+Tested At: 15 Dec 22 18:10 UTC\
+Time: 324ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 33ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 12 Dec 22 23:45 UTC
+Generated: 15 Dec 22 18:35 UTC

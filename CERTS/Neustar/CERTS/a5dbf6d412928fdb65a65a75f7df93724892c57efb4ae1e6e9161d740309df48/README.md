@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 973J
 
-Tested At: 12 Dec 22 23:39 UTC\
+Tested At: 15 Dec 22 18:29 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 117 day(s)\
+Remaining Validity Period: 114 day(s)\
 Subject: CN=SHAKEN 973J, O=Vibratel, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/ae9ce419128be68bc5667048aae938cad247e5f3
@@ -13,9 +13,9 @@ Link: https://ssc.getsipnav.com/certs/ae9ce419128be68bc5667048aae938cad247e5f3
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
+| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 12 Dec 22 23:45 UTC
+Generated: 15 Dec 22 18:35 UTC

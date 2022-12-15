@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 986J
 
-Tested At: 12 Dec 22 23:37 UTC\
+Tested At: 15 Dec 22 18:29 UTC\
 Initial Validity Period: 398 day(s)\
-Remaining Validity Period: 365 day(s)\
+Remaining Validity Period: 363 day(s)\
 Subject: CN=SHAKEN 986J, O=RingCentral, C=CA\
 Issuer: CN=Neustar Canada Certified Caller ID SHAKEN CA-2, OU=www.ca.ccid.neustar, O=Neustar Information Services Inc, C=CA\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11565.10211.pem
@@ -17,4 +17,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11565.10211.pem
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 12 Dec 22 23:45 UTC
+Generated: 15 Dec 22 18:35 UTC

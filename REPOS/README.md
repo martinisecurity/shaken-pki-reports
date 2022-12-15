@@ -4,25 +4,25 @@
 
 ### All Repository URLs
 
-- 1442 repository URLs were included in the corpus being tested
+- 1501 repository URLs were included in the corpus being tested
 - 170 repository URLs in the corpus were skipped because they were duplicated
-- 1272 repository URLs being tested against the remaining rules
-- 1.59 issues on average found in non-compliant certificate repository URLs
-- 22.41% of repository URLs contain one or more Error level issue
-- 39.31% of repository URLs contain one or more Warning level issue
+- 1331 repository URLs being tested against the remaining rules
+- 1.58 issues on average found in non-compliant certificate repository URLs
+- 21.71% of repository URLs contain one or more Error level issue
+- 38.92% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 205ms average time it took to download each certificate
+- 126ms average time it took to download each certificate
 
 ### CA Operated Repository URLs
 
-- 1328 repository URLs were included in the corpus being tested
+- 1387 repository URLs were included in the corpus being tested
 - 146 repository URLs in the corpus were skipped because they were duplicated
-- 1182 repository URLs being tested against the remaining rules
-- 1.50 issues on average found in non-compliant certificate repository URLs
-- 17.17% of repository URLs contain one or more Error level issue
-- 35.36% of repository URLs contain one or more Warning level issue
+- 1241 repository URLs being tested against the remaining rules
+- 1.49 issues on average found in non-compliant certificate repository URLs
+- 16.68% of repository URLs contain one or more Error level issue
+- 35.13% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 194ms average time it took to download each certificate
+- 115ms average time it took to download each certificate
 
 ### Service Provider Operated Repository URLs
 
@@ -33,7 +33,7 @@
 - 91.11% of repository URLs contain one or more Error level issue
 - 91.11% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 354ms average time it took to download each certificate
+- 276ms average time it took to download each certificate
 
 ## Details
 
@@ -41,16 +41,16 @@
 
 | Issuers | Certificates | Errors | Warnings | Notices |
 |----|--------------|--------|----------|---------|
-| [Comcast](ISSUERS/CA/Comcast/README.md) | 92 (7.78%) | 92 (100.00%) | 92 (100.00%) | 0 (0.00%) |
-| [Martini Security](ISSUERS/CA/Martini_Security/README.md) | 29 (2.45%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Metaswitch](ISSUERS/CA/Metaswitch/README.md) | 29 (2.45%) | 29 (100.00%) | 29 (100.00%) | 0 (0.00%) |
-| [Neustar](ISSUERS/CA/Neustar/README.md) | 65 (5.50%) | 65 (100.00%) | 65 (100.00%) | 0 (0.00%) |
-| [Peeringhub](ISSUERS/CA/Peeringhub/README.md) | 4 (0.34%) | 4 (100.00%) | 4 (100.00%) | 0 (0.00%) |
-| [Ribbon Communications](ISSUERS/CA/Ribbon_Communications/README.md) | 9 (0.76%) | 9 (100.00%) | 9 (100.00%) | 0 (0.00%) |
-| [Sansay](ISSUERS/CA/Sansay/README.md) | 217 (18.36%) | 2 (0.92%) | 217 (100.00%) | 0 (0.00%) |
-| [T-Mobile](ISSUERS/CA/T-Mobile/README.md) | 2 (0.17%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
-| [TransNexus](ISSUERS/CA/TransNexus/README.md) | 735 (62.18%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
-| **Total** | 1182 (100.00%) | 203 (17.17%) | 418 (35.36%) | 0 (0.00%) |
+| [Comcast](ISSUERS/CA/Comcast/README.md) | 95 (7.66%) | 95 (100.00%) | 95 (100.00%) | 0 (0.00%) |
+| [Martini Security](ISSUERS/CA/Martini_Security/README.md) | 29 (2.34%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Metaswitch](ISSUERS/CA/Metaswitch/README.md) | 29 (2.34%) | 29 (100.00%) | 29 (100.00%) | 0 (0.00%) |
+| [Neustar](ISSUERS/CA/Neustar/README.md) | 65 (5.24%) | 65 (100.00%) | 65 (100.00%) | 0 (0.00%) |
+| [Peeringhub](ISSUERS/CA/Peeringhub/README.md) | 4 (0.32%) | 4 (100.00%) | 4 (100.00%) | 0 (0.00%) |
+| [Ribbon Communications](ISSUERS/CA/Ribbon_Communications/README.md) | 10 (0.81%) | 10 (100.00%) | 10 (100.00%) | 0 (0.00%) |
+| [Sansay](ISSUERS/CA/Sansay/README.md) | 231 (18.61%) | 2 (0.87%) | 231 (100.00%) | 0 (0.00%) |
+| [T-Mobile](ISSUERS/CA/T-Mobile/README.md) | 2 (0.16%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
+| [TransNexus](ISSUERS/CA/TransNexus/README.md) | 776 (62.53%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
+| **Total** | 1241 (100.00%) | 207 (16.68%) | 436 (35.13%) | 0 (0.00%) |
 
 ### Service Provider Operated Repository URLs
 
@@ -147,4 +147,4 @@
 | Notices | Tests in which industry best practices are not followed. |
 
 
-Generated: 12 Dec 22 23:45 UTC
+Generated: 15 Dec 22 18:35 UTC

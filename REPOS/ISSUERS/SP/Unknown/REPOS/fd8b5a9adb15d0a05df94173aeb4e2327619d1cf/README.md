@@ -3,13 +3,13 @@
 ## Unknown
 
 Name: `https://az.tax/1`\
-Tested At: 12 Dec 22 23:33 UTC\
-Time: 127ms
+Tested At: 15 Dec 22 18:10 UTC\
+Time: 16ms
 
 ### Issues
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "https://az.tax/1": read tcp 10.1.0.169:44752->34.98.99.30:443: read: connection reset by peer |
+| [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "https://az.tax/1": EOF |
 
-Generated: 12 Dec 22 23:45 UTC
+Generated: 15 Dec 22 18:35 UTC
