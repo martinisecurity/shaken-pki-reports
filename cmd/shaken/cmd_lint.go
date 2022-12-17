@@ -332,14 +332,15 @@ func NewReport() *Report {
 }
 
 const (
-	DIR_CERTS   = "CERTS"
-	DIR_ISSUES  = "ISSUES"
-	DIR_ISSUERS = "ISSUERS"
-	DIR_REPOS   = "REPOS"
-	DIR_CA      = "CA"
-	DIR_SP      = "SP"
-	DIR_OCN     = "OCN"
-	DIR_SKIPPED = "SKIPPED"
+	DIR_CERTS     = "CERTS"
+	DIR_ISSUES    = "ISSUES"
+	DIR_ISSUERS   = "ISSUERS"
+	DIR_REPOS     = "REPOS"
+	DIR_CA        = "CA"
+	DIR_SP        = "SP"
+	DIR_OCN       = "OCN"
+	DIR_SKIPPED   = "SKIPPED"
+	DIR_UNTRUSTED = "UNTRUSTED"
 )
 
 func (t *Report) Save(outDir string) error {
@@ -375,6 +376,14 @@ func (t *Report) saveCertificates(outDir string) error {
 	defer ocnFile.Close()
 
 	PrintSummaryOCN(ocnFile, t.Certificates)
+
+	// Untrusted CSV
+	ocnUntrustedFile, err := CreateCSV(path.Join(outDir, DIR_UNTRUSTED))
+	if err != nil {
+		return err
+	}
+	defer ocnUntrustedFile.Close()
+	PrintSummaryUntrusted(ocnUntrustedFile, t.Certificates)
 
 	// save issuers
 	certsDir := path.Join(outDir, DIR_CERTS)
@@ -428,6 +437,19 @@ func (t *Report) saveCertificates(outDir string) error {
 
 		if issuer.Leaf != nil {
 			PrintIssuerOCN(ocnFile, issuer.Leaf)
+		}
+
+		// Untrusted CSV
+		if issuer.SkippedUntrustedAmount > 0 {
+			untrustedFile, err := CreateCSV(path.Join(issuerDir, DIR_UNTRUSTED))
+			if err != nil {
+				return err
+			}
+			defer untrustedFile.Close()
+
+			if issuer.Leaf != nil {
+				PrintIssuerUntrusted(untrustedFile, issuer.Leaf)
+			}
 		}
 
 		if issuer.TestedAmount > 0 {

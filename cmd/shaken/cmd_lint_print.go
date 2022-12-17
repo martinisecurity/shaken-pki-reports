@@ -607,6 +607,42 @@ func PrintSummaryOCN(w io.Writer, r *CertificateSummaryReport) {
 	}
 }
 
+func PrintSummaryUntrusted(w io.Writer, r *CertificateSummaryReport) {
+	fmt.Fprintln(w, "Org Name;CN;Cert")
+	keys := []int{}
+	for k, i := range r.Leaf.Skipped {
+		if i.IsUntrusted {
+			keys = append(keys, k)
+		}
+	}
+	for _, k := range keys {
+		i := r.Leaf.Skipped[k]
+		name := i.Certificate.Issuer.CommonName
+		if len(i.Certificate.Subject.Organization) > 0 {
+			name = i.Certificate.Subject.Organization[0]
+		}
+		fmt.Fprintf(w, "%s;%s;%s\n", name, i.Certificate.Subject.CommonName, i.Url)
+	}
+}
+
+func PrintIssuerUntrusted(w io.Writer, r *CertificateIssuerReport) {
+	fmt.Fprintln(w, "OCN;Org Name;CN;Cert")
+	keys := []int{}
+	for k, i := range r.Skipped {
+		if i.IsUntrusted {
+			keys = append(keys, k)
+		}
+	}
+	for _, k := range keys {
+		i := r.Skipped[k]
+		name := i.Certificate.Issuer.CommonName
+		if len(i.Certificate.Subject.Organization) > 0 {
+			name = i.Certificate.Subject.Organization[0]
+		}
+		fmt.Fprintf(w, "%s;%s;%s\n", name, i.Certificate.Subject.CommonName, i.Url)
+	}
+}
+
 func PrintIssuerOCN(w io.Writer, r *CertificateIssuerReport) {
 	fmt.Fprintln(w, "OCN;Org Name;CN;Cert")
 	keys := []string{}
