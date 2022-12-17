@@ -96,6 +96,8 @@
 | 14&#160;Nov&#160;22&#160;00:07&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 14&#160;Dec&#160;22&#160;00:07&#160;UTC | true | [view](../CERTS/4097442cf48bd256c17ba8c6216a1628dd6173fa170b20c5044148ccc4f62de7/README.md) |
 | 14&#160;Nov&#160;22&#160;14:40&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 14&#160;Dec&#160;22&#160;14:40&#160;UTC | true | [view](../CERTS/a4d481efa9f4220995729cdb89ad8288cf550d625d73e2e36c02a63e5854ed25/README.md) |
 | 15&#160;Nov&#160;22&#160;00:02&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 15&#160;Dec&#160;22&#160;00:02&#160;UTC | true | [view](../CERTS/95eafe838e93ad32691c4a673afbedced0121bf5142d014aa9fbc4502f73df42/README.md) |
+| 16&#160;Nov&#160;22&#160;14:30&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 16&#160;Dec&#160;22&#160;14:30&#160;UTC | true | [view](../CERTS/0cfded3de974423502006a8ffa6de05a0576750a98a85052410ce78886149254/README.md) |
+| 16&#160;Nov&#160;22&#160;23:52&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 16&#160;Dec&#160;22&#160;23:52&#160;UTC | true | [view](../CERTS/bb44d024604a112054381618c76117b261b121ecae2dbabf308c56cc043e47dc/README.md) |
 | 22&#160;Nov&#160;22&#160;20:56&#160;UTC | SHAKEN Broadband Dynamics Canada Telecom and Software ULC 884J | 03&#160;May&#160;23&#160;20:56&#160;UTC | true | [view](../CERTS/f1addc605445a151ffd544555826262ebd2e92f167749b1c43b191086895bf96/README.md) |
 | 29&#160;Nov&#160;22&#160;22:04&#160;UTC | SHAKEN MagicJack 324E | 29&#160;Nov&#160;23&#160;22:04&#160;UTC | true | [view](../CERTS/75b4b7b400b1252e48faa1d93f6a94f7bd4a6383c88ddf6baa167b85d9ac4ee8/README.md) |
 | 29&#160;Nov&#160;22&#160;22:04&#160;UTC | SHAKEN MagicJack 324E | 29&#160;Nov&#160;23&#160;22:04&#160;UTC | true | [view](../CERTS/75b4b7b400b1252e48faa1d93f6a94f7bd4a6383c88ddf6baa167b85d9ac4ee8/README.md) |
@@ -111,4 +113,4 @@
 | 31&#160;Mar&#160;22&#160;17:11&#160;UTC | SHAKEN Sansay Intermediate CA Canada 1 | 29&#160;Mar&#160;31&#160;17:11&#160;UTC | true | [view](../CERTS/97b5027d448805030b8627b5d430c6c03473e0972f0ff4057eb60c1a3715ebb0/README.md) |
 
 
-Generated: 15 Dec 22 18:35 UTC
+Generated: 17 Dec 22 00:12 UTC

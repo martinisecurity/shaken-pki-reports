@@ -23,4 +23,4 @@ Description: STI certificates should contain a CertificatePolicies extension mar
 No error, warning, or notice level issues were found
 
 
-Generated: 15 Dec 22 18:35 UTC
+Generated: 17 Dec 22 00:12 UTC

@@ -12,4 +12,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://cert-stir-us.allstream.com/certs/allstreamcertchain.crt` | 09&#160;Mar&#160;24&#160;20:40&#160;UTC | true | [view](../../REPOS/595d8b58074c68b5ca0bbddd3db52e7e1c8a829a/README.md) |
 
 
-Generated: 15 Dec 22 18:35 UTC
+Generated: 17 Dec 22 00:12 UTC

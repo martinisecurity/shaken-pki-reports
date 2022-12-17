@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 171K
 
-Tested At: 15 Dec 22 18:12 UTC\
+Tested At: 17 Dec 22 00:03 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 190 day(s)\
+Remaining Validity Period: 189 day(s)\
 Subject: CN=SHAKEN 171K, O=Voice Logic, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/164.180
@@ -18,4 +18,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/164.180
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 15 Dec 22 18:35 UTC
+Generated: 17 Dec 22 00:12 UTC

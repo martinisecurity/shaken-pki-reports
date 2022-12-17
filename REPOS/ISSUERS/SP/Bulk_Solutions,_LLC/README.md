@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 210ms average time it took to download each certificate
+- 116ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -22,4 +22,4 @@
 | `https://bulkvs-cr.s3.amazonaws.com/644J_2022120501.pem` | 05&#160;Dec&#160;23&#160;22:28&#160;UTC | true | [view](REPOS/881987159b889141ba0cba8e679b10de5f7175c1/README.md) |
 
 
-Generated: 15 Dec 22 18:35 UTC
+Generated: 17 Dec 22 00:12 UTC

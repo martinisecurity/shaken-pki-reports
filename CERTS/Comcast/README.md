@@ -9,11 +9,11 @@
 
 #### Leaf Certificates
 
-- 95 certificates were included in the corpus being tested
+- 96 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
-- 64 certificates in the corpus were skipped because they are expired
+- 66 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 31 certificates being tested against the remaining rules
+- 30 certificates being tested against the remaining rules
 - 6.00 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 100.00% of certificates contain one or more Warning level issue
@@ -21,18 +21,18 @@
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
 - 29 days is the average remaining validity for the certificates in the corpus
 - 30 days is the average initial validity for the certificates in the corpus
-- 31 certificates expire in the next 30 days
-- 31.00 average number of unexpired certificates per OCN observed
+- 30 certificates expire in the next 30 days
+- 30.00 average number of unexpired certificates per OCN observed
 - 1 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 31 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
-| 31 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
-| 31 | [e_atis_subject_key_identifier](ISSUES/e_atis_subject_key_identifier/README.md) | ATIS1000080 |
-| 31 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 31 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
-| 31 | [w_ext_subject_key_identifier_missing_sub_cert](ISSUES/w_ext_subject_key_identifier_missing_sub_cert/README.md) | RFC5280 |
+| 30 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
+| 30 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
+| 30 | [e_atis_subject_key_identifier](ISSUES/e_atis_subject_key_identifier/README.md) | ATIS1000080 |
+| 30 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
+| 30 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 30 | [w_ext_subject_key_identifier_missing_sub_cert](ISSUES/w_ext_subject_key_identifier_missing_sub_cert/README.md) | RFC5280 |
 
 #### CA Certificates
 
@@ -46,7 +46,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 6866 days is the average remaining validity for the certificates in the corpus
+- 6865 days is the average remaining validity for the certificates in the corpus
 - 7150 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -58,8 +58,6 @@ No error, warning, or notice level issues were found
 
 | Created At | Subject | Not After | Problems | Link |
 |------------|---------|-----------|----------|------|
-| 15&#160;Nov&#160;22&#160;21:42&#160;UTC | SHAKEN | 15&#160;Dec&#160;22&#160;21:42&#160;UTC | true | [view](CERTS/2ecfec86f125af457101adfb389f06977c207b1a0ed599423962b2b56c155c32/README.md) |
-| 16&#160;Nov&#160;22&#160;11:12&#160;UTC | SHAKEN | 16&#160;Dec&#160;22&#160;11:12&#160;UTC | true | [view](CERTS/d7f89ec7a89359811ba51ea7e5f485468bf5cfa9d4f2d1dbec91acc8eba913f9/README.md) |
 | 17&#160;Nov&#160;22&#160;11:12&#160;UTC | SHAKEN | 17&#160;Dec&#160;22&#160;11:12&#160;UTC | true | [view](CERTS/3f701bbc82532d6d519e377113baf63e7f1509a0bc063d93f8a41d0c2a874819/README.md) |
 | 18&#160;Nov&#160;22&#160;11:12&#160;UTC | SHAKEN | 18&#160;Dec&#160;22&#160;11:12&#160;UTC | true | [view](CERTS/941bbea2a5f8141a04f09050a1c0970ac42aaf4dff931b73154972159d6bbdd7/README.md) |
 | 19&#160;Nov&#160;22&#160;11:12&#160;UTC | SHAKEN | 19&#160;Dec&#160;22&#160;11:12&#160;UTC | true | [view](CERTS/672738adfd2648702ffb5f1a5e024ceeabc6468a2c7978be7e14f3d39652d289/README.md) |
@@ -89,6 +87,7 @@ No error, warning, or notice level issues were found
 | 13&#160;Dec&#160;22&#160;11:12&#160;UTC | SHAKEN | 12&#160;Jan&#160;23&#160;11:12&#160;UTC | true | [view](CERTS/ec20a19dd15adcf3e2f248554be2aaa211a314666566ebff305a7ce8f2177b60/README.md) |
 | 14&#160;Dec&#160;22&#160;11:12&#160;UTC | SHAKEN | 13&#160;Jan&#160;23&#160;11:12&#160;UTC | true | [view](CERTS/9af1e9b933422d895f48e7bded49d4cb5a45627270363b404b25460949bbd80a/README.md) |
 | 15&#160;Dec&#160;22&#160;11:12&#160;UTC | SHAKEN | 14&#160;Jan&#160;23&#160;11:12&#160;UTC | true | [view](CERTS/c6b0e6e0f16748c7cb79e59d992e4a7f9a5b604db0626c29d087283fc6ea9bd7/README.md) |
+| 16&#160;Dec&#160;22&#160;11:12&#160;UTC | SHAKEN | 15&#160;Jan&#160;23&#160;11:12&#160;UTC | true | [view](CERTS/9dd978e65bb964040c395891f6566df6d0c42bce6fb0c59fdfbae4dbb9937be8/README.md) |
 
 #### CA Certificates
 
@@ -98,4 +97,4 @@ No error, warning, or notice level issues were found
 | 06&#160;Apr&#160;20&#160;13:48&#160;UTC | Comcast SHAKEN Intermediate CA | 06&#160;Jun&#160;39&#160;13:48&#160;UTC | false | [view](CERTS/2f3abdfe711377f4d59f31d941962797c61f021c3924af31de99031f9ac54f77/README.md) |
 
 
-Generated: 15 Dec 22 18:35 UTC
+Generated: 17 Dec 22 00:12 UTC
