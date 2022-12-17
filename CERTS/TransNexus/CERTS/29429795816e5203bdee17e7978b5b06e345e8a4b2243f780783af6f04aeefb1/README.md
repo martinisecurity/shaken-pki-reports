@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 2550
 
-Tested At: 02 Dec 22 07:26 UTC\
+Tested At: 17 Dec 22 12:13 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -18 day(s)\
+Remaining Validity Period: -33 day(s)\
 Subject: CN=SHAKEN 2550, OU=SHAKEN, O=123.Net\\, Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/2e3276e5-a5c5-43c7-ae11-3a226bf1b5ed/c834fe3b48bcfe7e46da134260e4dc45.pem
@@ -17,4 +17,4 @@ Link: https://certificates.clearip.com/2e3276e5-a5c5-43c7-ae11-3a226bf1b5ed/c834
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 02 Dec 22 07:30 UTC
+Generated: 17 Dec 22 12:22 UTC

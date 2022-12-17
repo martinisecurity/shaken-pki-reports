@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 197D
 
-Tested At: 02 Dec 22 07:30 UTC\
+Tested At: 17 Dec 22 12:22 UTC\
 Initial Validity Period: 398 day(s)\
-Remaining Validity Period: 54 day(s)\
+Remaining Validity Period: 39 day(s)\
 Subject: CN=SHAKEN 197D, OU=Vonage Eng, O=Vonage, L=Holmdel, ST=NJ, C=US\
 Issuer: CN=Neustar Canada Certified Caller ID SHAKEN CA-1, OU=www.ca.ccid.neustar, O=Neustar Information Services Inc, C=CA\
 Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/3f7be0c667b2f3c24546cf26629eb906.crt
@@ -13,8 +13,8 @@ Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/3f7be0c667b2f3c24546cf
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 ### Not Effective
 
@@ -26,4 +26,4 @@ Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/3f7be0c667b2f3c24546cf
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 02 Dec 22 07:30 UTC
+Generated: 17 Dec 22 12:22 UTC

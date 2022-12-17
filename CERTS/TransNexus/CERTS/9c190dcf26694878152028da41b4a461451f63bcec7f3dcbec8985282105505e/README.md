@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 952J
 
-Tested At: 02 Dec 22 07:26 UTC\
+Tested At: 17 Dec 22 12:13 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -37 day(s)\
+Remaining Validity Period: -52 day(s)\
 Subject: CN=SHAKEN 952J, OU=SHAKEN, O=Syndeo LLC dba Broadvoice, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/952J/7787f5d6-eb67-4354-b625-597d01705d8b.pem
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/952J/7787f5d6-eb67-4354-b625-597d01705
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 02 Dec 22 07:30 UTC
+Generated: 17 Dec 22 12:22 UTC

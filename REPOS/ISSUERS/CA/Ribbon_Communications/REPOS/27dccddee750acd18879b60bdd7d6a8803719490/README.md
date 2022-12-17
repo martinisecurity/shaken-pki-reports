@@ -3,8 +3,8 @@
 ## Ribbon Communications
 
 Name: `https://prod001-cr.rbbnidhub.com/frvFJbsMgz/sign-cert3`\
-Tested At: 02 Dec 22 07:28 UTC\
-Time: 26ms
+Tested At: 17 Dec 22 12:16 UTC\
+Time: 2ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 26ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 02 Dec 22 07:30 UTC
+Generated: 17 Dec 22 12:22 UTC

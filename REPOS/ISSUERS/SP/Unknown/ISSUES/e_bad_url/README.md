@@ -10,7 +10,6 @@ Description: Subscribers shall provide unrestricted access to its repositories a
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
 | `https://cert.sticr.att.net:8443/certs/att/6d021e67-e6a1-4821-bf7a-19491029a6ca` |  | true | [view](../../REPOS/7f767f2c2970329aedcdc118e431cdea5f195d14/README.md) |
-| `https://ssc.fractel.net/ssc/fractelssc.pem` |  | true | [view](../../REPOS/43cef8ecc75c42a157f4a770680c7bc638e02617/README.md) |
 
 
-Generated: 02 Dec 22 07:30 UTC
+Generated: 17 Dec 22 12:22 UTC

@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 150ms average time it took to download each certificate
+- 117ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://app.connexcs.com/api/stir-shaken/cert/45.crt` | 09&#160;Dec&#160;22&#160;18:49&#160;UTC | true | [view](REPOS/2260b336dfad8a7a8197566bbca1f4ce46bb7dea/README.md) |
+| `https://app.connexcs.com/api/stir-shaken/cert/45.crt` | 08&#160;Jan&#160;23&#160;21:02&#160;UTC | true | [view](REPOS/2260b336dfad8a7a8197566bbca1f4ce46bb7dea/README.md) |
 
 
-Generated: 02 Dec 22 07:30 UTC
+Generated: 17 Dec 22 12:22 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 899J
 
-Tested At: 02 Dec 22 07:29 UTC\
+Tested At: 17 Dec 22 12:16 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 48 day(s)\
+Remaining Validity Period: 33 day(s)\
 Subject: CN=SHAKEN 899J, O=Telco Connection, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/a80448b68598a8d87c75bf6df015f9f2a30ae551
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/a80448b68598a8d87c75bf6df015f9f2a30ae551
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 02 Dec 22 07:30 UTC
+Generated: 17 Dec 22 12:22 UTC

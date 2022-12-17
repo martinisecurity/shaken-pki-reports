@@ -14,6 +14,8 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 |--------|---------|------|---------|
 | error | Nuwave Communications SHAKEN 620J | [view](../../CERTS/885b7fea5177d66a28bd5dea525144479428e27d2ed1ff7c493d767c73173fbc/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Veracity SHAKEN 716D | [view](../../CERTS/fccfbb719ccc9513231e9ea6f38906f0271f4640f253e1be0780da1e7b5f03ff/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| error | Siskiyou SHAKEN 2339 | [view](../../CERTS/dc3afdbb361402b02a75c92bb00cca9316fcbec50ad3c3093eaff09911ed3220/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| error | Peoples SHAKEN 2130 | [view](../../CERTS/5c8b37f7c0235bb218b1f90787953048164805b88f222f7391c7b319b42c1d14/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Netfortris SHAKEN 8886 | [view](../../CERTS/64b7a3eed364e863b36e050a95b35799c594ea1c15c17562611907a2f0dd8bbe/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
 ### CA Certificates
@@ -21,4 +23,4 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 No error, warning, or notice level issues were found
 
 
-Generated: 02 Dec 22 07:30 UTC
+Generated: 17 Dec 22 12:22 UTC

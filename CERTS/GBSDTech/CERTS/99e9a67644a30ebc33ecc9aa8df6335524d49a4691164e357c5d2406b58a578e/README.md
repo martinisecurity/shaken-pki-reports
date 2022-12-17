@@ -2,9 +2,9 @@
 
 ## Certificate 1RouteGroup SHAKEN Intermediate CA
 
-Tested At: 02 Dec 22 07:30 UTC\
+Tested At: 17 Dec 22 12:22 UTC\
 Initial Validity Period: 7299 day(s)\
-Remaining Validity Period: 6724 day(s)\
+Remaining Validity Period: 6709 day(s)\
 Subject: CN=1RouteGroup SHAKEN Intermediate CA, O=1RouteGroup, ST=Texas, C=US\
 Issuer: CN=GBSDTech SHAKEN Root CA, O=GBSDTech, L=Ft Worth, ST=Texas, C=US
 
@@ -27,4 +27,4 @@ Issuer: CN=GBSDTech SHAKEN Root CA, O=GBSDTech, L=Ft Worth, ST=Texas, C=US
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 02 Dec 22 07:30 UTC
+Generated: 17 Dec 22 12:22 UTC

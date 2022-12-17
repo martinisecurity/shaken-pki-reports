@@ -3,8 +3,8 @@
 ## Televoip
 
 Name: `https://ssc.getsipnav.com/certs/525bf6e144190a8232ed2c15770df226099ff1ff`\
-Tested At: 02 Dec 22 07:29 UTC\
-Time: 61ms
+Tested At: 17 Dec 22 12:16 UTC\
+Time: 91ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 61ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 02 Dec 22 07:30 UTC
+Generated: 17 Dec 22 12:22 UTC

@@ -14,4 +14,4 @@ Description: HTTP response shall have StatusCode 200
 | `https://dial.maqssolution.live/255KN22.pem` |  | true | [view](../../REPOS/6c2ad4e98b5e0f7170cc4a7688cdf6377eeafddc/README.md) |
 
 
-Generated: 02 Dec 22 07:30 UTC
+Generated: 17 Dec 22 12:22 UTC
