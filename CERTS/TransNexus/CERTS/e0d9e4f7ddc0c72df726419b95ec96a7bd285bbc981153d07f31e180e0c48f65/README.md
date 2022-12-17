@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 983J
 
-Tested At: 17 Dec 22 00:02 UTC\
+Tested At: 17 Dec 22 16:58 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -25 day(s)\
 Subject: CN=SHAKEN 983J, O=ESI, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/4eaa
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 17 Dec 22 00:12 UTC
+Generated: 17 Dec 22 17:07 UTC

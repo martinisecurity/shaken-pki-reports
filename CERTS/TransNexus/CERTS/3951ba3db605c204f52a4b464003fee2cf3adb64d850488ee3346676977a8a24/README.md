@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 157C
 
-Tested At: 17 Dec 22 00:02 UTC\
+Tested At: 17 Dec 22 16:58 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -4 day(s)\
 Subject: CN=SHAKEN 157C, O=DigitalSpeed Communications, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/82d97ecb-9b38-4926-9062-8e21b8986930/b254
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 17 Dec 22 00:12 UTC
+Generated: 17 Dec 22 17:07 UTC

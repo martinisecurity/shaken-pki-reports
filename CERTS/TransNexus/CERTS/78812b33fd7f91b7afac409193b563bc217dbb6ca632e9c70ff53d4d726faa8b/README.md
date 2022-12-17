@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 854D
 
-Tested At: 17 Dec 22 00:02 UTC\
+Tested At: 17 Dec 22 16:58 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -38 day(s)\
 Subject: CN=SHAKEN 854D, OU=SHAKEN, O=Xtel, C=US\
@@ -17,4 +17,4 @@ Link: https://certificates.clearip.com/627e4253-759f-447e-b1a0-c9cda9a6d597/b006
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 17 Dec 22 00:12 UTC
+Generated: 17 Dec 22 17:07 UTC

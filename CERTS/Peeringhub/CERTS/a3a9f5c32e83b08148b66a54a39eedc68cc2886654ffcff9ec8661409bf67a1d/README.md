@@ -2,7 +2,7 @@
 
 ## Certificate MAQS SOLUTIONS SHAKEN 255K
 
-Tested At: 17 Dec 22 00:05 UTC\
+Tested At: 17 Dec 22 16:59 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 10 day(s)\
 Subject: CN=MAQS SOLUTIONS SHAKEN 255K, O=MAQS SOLUTIONS LLC, L=Delaware, ST=DE, C=US\
@@ -13,9 +13,9 @@ Link: https://dial.maqssolution.live/255KD22.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 17 Dec 22 00:12 UTC
+Generated: 17 Dec 22 17:07 UTC

@@ -13,7 +13,6 @@ Description: STI certificates shall contain a Subject Key Identifier extension
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
 | error | SHAKEN | [view](../../CERTS/401790e35121f99ce136ce4238200ecd4dfe857119d66df6bb456f11cae44dc1/README.md) | STI certificates shall contain a Subject Key Identifier extension |
-| error | SHAKEN | [view](../../CERTS/3f701bbc82532d6d519e377113baf63e7f1509a0bc063d93f8a41d0c2a874819/README.md) | STI certificates shall contain a Subject Key Identifier extension |
 | error | SHAKEN | [view](../../CERTS/9af1e9b933422d895f48e7bded49d4cb5a45627270363b404b25460949bbd80a/README.md) | STI certificates shall contain a Subject Key Identifier extension |
 | error | SHAKEN | [view](../../CERTS/b155c82bd48c21b60c160c029a6c909174b5df5120357d08f705c332666161fb/README.md) | STI certificates shall contain a Subject Key Identifier extension |
 | error | SHAKEN | [view](../../CERTS/e77e6751fe93bb57ee66f175493ac702d872365ac83245add394068a3fd5e56b/README.md) | STI certificates shall contain a Subject Key Identifier extension |
@@ -48,4 +47,4 @@ Description: STI certificates shall contain a Subject Key Identifier extension
 No error, warning, or notice level issues were found
 
 
-Generated: 17 Dec 22 00:12 UTC
+Generated: 17 Dec 22 17:07 UTC

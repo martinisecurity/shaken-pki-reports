@@ -2,7 +2,7 @@
 
 ## Certificate TransNexus Issuing CA G2
 
-Tested At: 17 Dec 22 00:12 UTC\
+Tested At: 17 Dec 22 17:07 UTC\
 Initial Validity Period: 4383 day(s)\
 Remaining Validity Period: 3610 day(s)\
 Subject: CN=TransNexus Issuing CA G2, OU=Certification Authorities, O=TransNexus, C=US\
@@ -12,8 +12,8 @@ Issuer: CN=TransNexus Root CA G2, OU=Certification Authorities, O=TransNexus, C=
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [w_shaken_ca_subject_rdn_unknown](../../ISSUES/w_shaken_ca_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | [e_us_cp_ca_key_usage_crl_sign](../../ISSUES/e_us_cp_ca_key_usage_crl_sign/README.md) | error | US_SHAKEN_CP | The model for managing and communicating the status of revoked certificates is in the form of a distributed Certificate Revocation List (CRL) that is maintained by the STI-PA as described in ATIS-1000080 |
+| [w_shaken_ca_subject_rdn_unknown](../../ISSUES/w_shaken_ca_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 ### Not Effective
 
@@ -28,4 +28,4 @@ Issuer: CN=TransNexus Root CA G2, OU=Certification Authorities, O=TransNexus, C=
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 17 Dec 22 00:12 UTC
+Generated: 17 Dec 22 17:07 UTC

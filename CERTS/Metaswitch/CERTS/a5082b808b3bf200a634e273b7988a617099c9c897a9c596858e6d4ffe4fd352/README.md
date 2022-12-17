@@ -2,9 +2,9 @@
 
 ## Certificate Sonic Telecom SHAKEN cert 433E
 
-Tested At: 17 Dec 22 00:04 UTC\
+Tested At: 17 Dec 22 16:59 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 561 day(s)\
+Remaining Validity Period: 560 day(s)\
 Subject: CN=Sonic Telecom SHAKEN cert 433E, O=Sonic Telecom, ST=CA, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://crs.qcall.sonic.net/certs/soniccertchain.crt
@@ -28,4 +28,4 @@ Link: https://crs.qcall.sonic.net/certs/soniccertchain.crt
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 17 Dec 22 00:12 UTC
+Generated: 17 Dec 22 17:07 UTC

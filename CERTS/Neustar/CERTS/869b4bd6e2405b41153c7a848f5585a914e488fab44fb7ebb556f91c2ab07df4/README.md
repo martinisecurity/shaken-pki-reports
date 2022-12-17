@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 712J
 
-Tested At: 17 Dec 22 00:03 UTC\
+Tested At: 17 Dec 22 16:58 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 187 day(s)\
 Subject: CN=SHAKEN 712J, O=ANPI Business LLC, C=US\
@@ -18,4 +18,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/87.166
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 17 Dec 22 00:12 UTC
+Generated: 17 Dec 22 17:07 UTC

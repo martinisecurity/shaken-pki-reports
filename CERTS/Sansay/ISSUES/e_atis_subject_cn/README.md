@@ -60,7 +60,6 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 | error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/2e841d05e26aa40a3c667b4732649a4c321ba92227836aedff8e9311076dcda6/README.md) | Common name shall contain the text string 'SHAKEN 210J' |
 | error | SHAKEN Xchange Telecom LLC 325B | [view](../../CERTS/6bab691174d8e7b237a7fe1b00556840e2a5c28a1839f8e345dd9ba721ba23bb/README.md) | Common name shall contain the text string 'SHAKEN 325B' |
 | error | SHAKEN Terra Nova Telecom 382G | [view](../../CERTS/5a0592445a0a7b781a30d2d2d9b6358dbc2ba3679888ea51b6955d7e022403b2/README.md) | Common name shall contain the text string 'SHAKEN 382G' |
-| error | SHAKEN 1stPoint Communications, LLC 463G | [view](../../CERTS/7966daa2575a676e64515d90b5037c1473eac821e2f55c5ff8ddd3e1d2453f05/README.md) | Common name shall contain the text string 'SHAKEN 463G' |
 | error | SHAKEN 1stPoint Communications, LLC 463G | [view](../../CERTS/fd6d73b3c2895571a436b1d5301fe14cfcf8485ed70415118ef0a2c07e9e435e/README.md) | Common name shall contain the text string 'SHAKEN 463G' |
 | error | SHAKEN 1stPoint Communications, LLC 463G | [view](../../CERTS/cf147be7a87bd98ac78358181238d18bd46fe0bc992f25e5a875098cd27a0ba9/README.md) | Common name shall contain the text string 'SHAKEN 463G' |
 | error | SHAKEN 1stPoint Communications, LLC 463G | [view](../../CERTS/48b98ee3889f3c8e4c4c114281b366b919082b51b38bc078609b01af2c06eded/README.md) | Common name shall contain the text string 'SHAKEN 463G' |
@@ -70,7 +69,6 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 | error | SHAKEN 1stPoint Communications, LLC 463G | [view](../../CERTS/d25a0d5ad1db30b53a6d33de975655d9b8b2507401c1571c41f5cc4107e71a24/README.md) | Common name shall contain the text string 'SHAKEN 463G' |
 | error | SHAKEN 1stPoint Communications, LLC 463G | [view](../../CERTS/d498c87e4840c160ceaebbf72e279b855921f27b2187bf74624301ed506716c4/README.md) | Common name shall contain the text string 'SHAKEN 463G' |
 | error | SHAKEN 1stPoint Communications, LLC 463G | [view](../../CERTS/ad3a026d9469d4cf7ee1db57b29e760079f8e3a118efe195588967552a99ee1f/README.md) | Common name shall contain the text string 'SHAKEN 463G' |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/9da75410fb2ab55dd04bc69fe3c917b591909fc01af838f793348cd890720efa/README.md) | Common name shall contain the text string 'SHAKEN 548J' |
 | error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/ef0e092d74d92c39305b38f4d157d4dd03149743c20fdf6ab2643b02e7f618bd/README.md) | Common name shall contain the text string 'SHAKEN 548J' |
 | error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/126f5c685a3e684b10371399918f9d37580e0a9e45eed6c795ac380aacdfab4d/README.md) | Common name shall contain the text string 'SHAKEN 548J' |
 | error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/e38231cf718dbea66eda1d6e7034371478d390926df5b627f0ce9d9e4ce028da/README.md) | Common name shall contain the text string 'SHAKEN 548J' |
@@ -171,4 +169,4 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 No error, warning, or notice level issues were found
 
 
-Generated: 17 Dec 22 00:12 UTC
+Generated: 17 Dec 22 17:07 UTC

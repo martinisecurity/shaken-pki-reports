@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 063E
 
-Tested At: 17 Dec 22 00:03 UTC\
+Tested At: 17 Dec 22 16:58 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 355 day(s)\
 Subject: CN=SHAKEN 063E, O=Peerless Network, C=US\
@@ -16,4 +16,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11034.10174
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 17 Dec 22 00:12 UTC
+Generated: 17 Dec 22 17:07 UTC

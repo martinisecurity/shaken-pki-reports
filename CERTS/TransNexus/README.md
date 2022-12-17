@@ -11,26 +11,26 @@
 
 - 794 certificates were included in the corpus being tested
 - 1 certificates in the corpus were skipped because they are duplicates
-- 684 certificates in the corpus were skipped because they are expired
+- 687 certificates in the corpus were skipped because they are expired
 - 1 certificates in the corpus were skipped because they are not currently trusted
-- 108 certificates being tested against the remaining rules
-- 1.37 issues on average found in unexpired, trusted, and non-compliant certificates
+- 105 certificates being tested against the remaining rules
+- 1.38 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
-- 16.67% of certificates contain one or more Warning level issue
+- 17.14% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
-- 0.93% of certificates are too old to be assessed against currently enforced expectations
-- 51 days is the average remaining validity for the certificates in the corpus
-- 50 days is the average initial validity for the certificates in the corpus
-- 95 certificates expire in the next 30 days
+- 0.95% of certificates are too old to be assessed against currently enforced expectations
+- 52 days is the average remaining validity for the certificates in the corpus
+- 52 days is the average initial validity for the certificates in the corpus
+- 92 certificates expire in the next 30 days
 - 1.44 average number of unexpired certificates per OCN observed
-- 75 unique OCNs observed in unexpired and valid certificate corpus
+- 73 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
 | 3 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
 | 16 | [e_incorrect_ku_encoding](ISSUES/e_incorrect_ku_encoding/README.md) | RFC5280 |
 | 3 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 108 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 105 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
 | 18 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
@@ -87,9 +87,6 @@
 | 03&#160;Dec&#160;22&#160;05:00&#160;UTC | SHAKEN 345J | 02&#160;Jan&#160;23&#160;05:00&#160;UTC | true | [view](CERTS/df273ff8f12fbf2fda88e527381fba4ac91927b0be97ec38a2d67993a5e0c074/README.md) |
 | 05&#160;Dec&#160;22&#160;15:23&#160;UTC | SHAKEN 8526 | 04&#160;Jan&#160;23&#160;15:23&#160;UTC | true | [view](CERTS/29453875467b9cbda7eccf1ee68baaa883140c03b133004d5f21864cec03a029/README.md) |
 | 09&#160;Dec&#160;22&#160;19:11&#160;UTC | SHAKEN 841J | 23&#160;Dec&#160;22&#160;19:11&#160;UTC | true | [view](CERTS/af11f73f26eda12928f6b5c61c8bcecc0467dd3924267f7fb0fb8d6bd9820cf9/README.md) |
-| 10&#160;Dec&#160;22&#160;01:03&#160;UTC | SHAKEN 551G | 17&#160;Dec&#160;22&#160;01:03&#160;UTC | true | [view](CERTS/2d46f2c08cdfe97a591b413d038ca4049809c390b642813ba2561fbe0d75d1aa/README.md) |
-| 10&#160;Dec&#160;22&#160;14:44&#160;UTC | SHAKEN 012K | 17&#160;Dec&#160;22&#160;14:44&#160;UTC | true | [view](CERTS/338c5a71fdd5e25775ab10aa90e8dd22d5691d2fe0c003169d7c5fce9e480258/README.md) |
-| 10&#160;Dec&#160;22&#160;16:52&#160;UTC | SHAKEN 159H | 17&#160;Dec&#160;22&#160;16:52&#160;UTC | true | [view](CERTS/8039bc905bee1c9c2a25684f45bb8684331786c9df430e4e8af1576fb669038b/README.md) |
 | 10&#160;Dec&#160;22&#160;17:27&#160;UTC | SHAKEN 107K | 17&#160;Dec&#160;22&#160;17:27&#160;UTC | true | [view](CERTS/126451a6a680727d9468ca324c603bff3aa2703f87c585dff68277f4025b5b66/README.md) |
 | 10&#160;Dec&#160;22&#160;18:40&#160;UTC | SHAKEN 089K | 17&#160;Dec&#160;22&#160;18:40&#160;UTC | true | [view](CERTS/354e72a4eb4a9cc96af2f1664c75a4a9cf7bac770a30a42a4d600cb630b844e3/README.md) |
 | 10&#160;Dec&#160;22&#160;19:59&#160;UTC | SHAKEN 297K | 17&#160;Dec&#160;22&#160;19:59&#160;UTC | true | [view](CERTS/74e4079abfce7562746b817a8db78a4622b49d5ba09cbc4356b25fe6c916c81f/README.md) |
@@ -181,4 +178,4 @@
 | 24&#160;Oct&#160;22&#160;00:00&#160;UTC | TransNexus, Inc. SHAKEN Root CA2 | 23&#160;Oct&#160;42&#160;23:59&#160;UTC | false | [view](CERTS/a26e04fc786ab70b8085236b2c53f8cfbf5d0c6a5c2c9c3e9f91669fbb8ea4d5/README.md) |
 
 
-Generated: 17 Dec 22 00:12 UTC
+Generated: 17 Dec 22 17:07 UTC

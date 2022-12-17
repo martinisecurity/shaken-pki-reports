@@ -1,5 +1,4 @@
 OCN;Org Name;CN;Cert
-012K;CallCurrent, Inc.;SHAKEN 012K;https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/b515401f0ebfaccff2d43e14e8d968f5.pem
 0172;CallTower;SHAKEN 0172;https://certificates.transnexus.com/0172/9be266e7-9cc5-4653-a266-111cee2e7bd1.pem
 0226;Lumos Networks;SHAKEN 0226;https://certificates.clearip.com/f8a68e44-8fb0-4f28-b533-c4df27ed8e1b/1d6e6b16be2f888e501b52bf225a594c.pem
 0226;Lumos Networks;SHAKEN 0226;https://certificates.clearip.com/f8a68e44-8fb0-4f28-b533-c4df27ed8e1b/4cd07e193a7d55d681064bae8d485ce5.pem
@@ -14,7 +13,6 @@ OCN;Org Name;CN;Cert
 130B;Global Telecom;SHAKEN 130B;https://certificates.clearip.com/4efae05c-c8cd-405b-ae97-c62a52afd074/c77e96e427f49afbcdd42f48d4458726.pem
 130B;Global Telecom;SHAKEN 130B;https://certificates.clearip.com/4efae05c-c8cd-405b-ae97-c62a52afd074/dd8f3dfd8b054801c2ddd4c98e6a2a89.pem
 140K;IP Communications, LLC;SHAKEN 140K;https://certificates.clearip.com/ded2dd05-658d-4b95-9554-d30e2f15e26b/744cf387b119579878a08f974a488570.pem
-159H;Edge Communications;SHAKEN 159H;https://certificates.transnexus.com/159H/20277105-f6b5-4e60-9c01-e71e3cb85cfb.pem
 177K;Cytracom, LLC;SHAKEN 177K;https://certificates.clearip.com/8d118994-4994-4735-ac71-42c0bbb7848f/1caf6a2656e878dcbee98accecf1dc29.pem
 177K;Cytracom, LLC;SHAKEN 177K;https://certificates.clearip.com/8d118994-4994-4735-ac71-42c0bbb7848f/45d36f28038a6dd1e4f1d97fc832cddd.pem
 186K;Go2Uno LLC;SHAKEN 186K;https://certificates.clearip.com/92df566f-5229-4e9a-b7c7-ec203fc4196d/1e252f88cee2e7cdaecb9c2b2d22acac.pem
@@ -48,7 +46,6 @@ OCN;Org Name;CN;Cert
 518J;TransNexus, Inc.;SHAKEN 518J;https://certificates.clearip.com/transnexus/370500777a540f69d5c2c19425ddacb3.pem
 518J;TransNexus, Inc.;SHAKEN 518J;https://certificates.clearip.com/transnexus/8d1bf46bf86a60f61c34664757aa08c3.pem
 5512;Andrew Ward Consulting LLC;SHAKEN 5512;https://certificates.clearip.com/19aed76a-a067-4715-8a05-1993cc9d939e/45e026f23480c775461f74fb7540c3d2.pem
-551G;Brightlink Communications LLC;SHAKEN 551G;https://certificates.transnexus.com/551G/0efcd80b-9846-4b55-a8f3-e308a5abe9ba.pem
 551G;Brightlink Communications LLC;SHAKEN 551G;https://certificates.transnexus.com/551G/43710e77-bbdf-4ed7-8876-4783a758738a.pem
 578J;Call Tools Inc;SHAKEN 578J;https://certificates.transnexus.com/578J/8e374e10-eba0-45b0-b09a-b7086947dd7c.pem
 594J;Carolina Digital;SHAKEN 594J;https://certificates.clearip.com/14652271-f2ba-4197-87c0-704f8c618e4b/611ffe61dcc59d88aa5a55dcd4e94991.pem

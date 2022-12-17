@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 727J
 
-Tested At: 17 Dec 22 00:02 UTC\
+Tested At: 17 Dec 22 16:58 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: 4 day(s)\
 Subject: CN=SHAKEN 727J, O=SumoFiber, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/60e08b8b-2fd4-455e-9e9a-faa0470820d8/519b
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 17 Dec 22 00:12 UTC
+Generated: 17 Dec 22 17:07 UTC

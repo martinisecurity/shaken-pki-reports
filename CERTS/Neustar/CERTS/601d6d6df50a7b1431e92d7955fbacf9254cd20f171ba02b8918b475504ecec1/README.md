@@ -2,7 +2,7 @@
 
 ## Certificate AGOC
 
-Tested At: 17 Dec 22 00:03 UTC\
+Tested At: 17 Dec 22 16:59 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 171 day(s)\
 Subject: C=US, ST=PA, L=BUTLER, O=AGOC, OU=AGOC, CN=AGOC\
@@ -39,4 +39,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11112.10192.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 17 Dec 22 00:12 UTC
+Generated: 17 Dec 22 17:07 UTC

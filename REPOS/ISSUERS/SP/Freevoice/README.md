@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 168ms average time it took to download each certificate
+- 152ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -22,4 +22,4 @@
 | `http://sip.ash.dlr.freevoicepbx.com/Freevoice_963J` | 06&#160;Apr&#160;23&#160;12:06&#160;UTC | true | [view](REPOS/84bd559ff362d9979e3b7c0fe4a16b240baedab5/README.md) |
 
 
-Generated: 17 Dec 22 00:12 UTC
+Generated: 17 Dec 22 17:07 UTC

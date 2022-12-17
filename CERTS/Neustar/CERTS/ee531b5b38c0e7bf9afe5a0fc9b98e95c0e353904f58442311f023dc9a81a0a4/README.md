@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 197D
 
-Tested At: 17 Dec 22 00:11 UTC\
+Tested At: 17 Dec 22 17:06 UTC\
 Initial Validity Period: 398 day(s)\
 Remaining Validity Period: 39 day(s)\
 Subject: CN=SHAKEN 197D, OU=Vonage Eng, O=Vonage, L=Holmdel, ST=NJ, C=US\
@@ -26,4 +26,4 @@ Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/3f7be0c667b2f3c24546cf
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 17 Dec 22 00:12 UTC
+Generated: 17 Dec 22 17:07 UTC

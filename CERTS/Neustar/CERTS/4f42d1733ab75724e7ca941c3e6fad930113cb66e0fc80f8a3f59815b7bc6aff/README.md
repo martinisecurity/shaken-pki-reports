@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 782J
 
-Tested At: 17 Dec 22 00:06 UTC\
+Tested At: 17 Dec 22 17:00 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 132 day(s)\
 Subject: CN=SHAKEN 782J, O=AM Communications Labs Inc, C=US\
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/d68017fb427d47359b7108377a18cf105aad7709
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 17 Dec 22 00:12 UTC
+Generated: 17 Dec 22 17:07 UTC
