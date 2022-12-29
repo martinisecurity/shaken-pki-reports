@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 597J
 
-Tested At: 17 Dec 22 16:58 UTC\
+Tested At: 29 Dec 22 07:35 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 175 day(s)\
+Remaining Validity Period: 164 day(s)\
 Subject: CN=SHAKEN 597J, OU=SHAKEN, O=Voxtelesys, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/597J/6572b8e4-01de-48c3-9b11-d21cd134c569.pem
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/597J/6572b8e4-01de-48c3-9b11-d21cd134c
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 17 Dec 22 17:07 UTC
+Generated: 29 Dec 22 07:47 UTC

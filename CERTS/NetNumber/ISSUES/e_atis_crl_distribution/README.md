@@ -12,11 +12,11 @@ Description: STI End-Entity certificates shall contain a CRL Distribution Points
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../../CERTS/d343498507471d5c8b06671218d25406f4f12c11abba7530ad93548c73504e3a/README.md) | STI End-Entity certificates shall contain a CRL Distribution Points extension |
+| error | Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../../CERTS/06404c88b7c84beeea562e1978a3763e7c0242cdd065f2577d6477c225bc061a/README.md) | STI End-Entity certificates shall contain a CRL Distribution Points extension |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 17 Dec 22 17:07 UTC
+Generated: 29 Dec 22 07:47 UTC

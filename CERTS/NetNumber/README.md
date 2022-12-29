@@ -9,9 +9,9 @@
 
 #### Leaf Certificates
 
-- 7 certificates were included in the corpus being tested
+- 8 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
-- 4 certificates in the corpus were skipped because they are expired
+- 5 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
 - 3 certificates being tested against the remaining rules
 - 5.33 issues on average found in unexpired, trusted, and non-compliant certificates
@@ -19,8 +19,8 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 100.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 108 days is the average remaining validity for the certificates in the corpus
-- 141 days is the average initial validity for the certificates in the corpus
+- 111 days is the average remaining validity for the certificates in the corpus
+- 142 days is the average initial validity for the certificates in the corpus
 - 2 certificates expire in the next 30 days
 - 1.00 average number of unexpired certificates per OCN observed
 - 3 unique OCNs observed in unexpired and valid certificate corpus
@@ -46,7 +46,7 @@
 - 66.67% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 7371 days is the average remaining validity for the certificates in the corpus
+- 7368 days is the average remaining validity for the certificates in the corpus
 - 6935 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -63,8 +63,8 @@
 | Created At | Subject | Not After | Problems | Link |
 |------------|---------|-----------|----------|------|
 | 10&#160;Jun&#160;22&#160;00:00&#160;UTC | Plivo Inc | 09&#160;Jun&#160;23&#160;00:00&#160;UTC | true | [view](CERTS/7dc750fb7aa68d2b67b8dbc89f65217f92db54504685058be016638011adf8bf/README.md) |
-| 23&#160;Nov&#160;22&#160;17:00&#160;UTC | Baltimore-Washington Telephone Company SHAKEN cert 8697 | 23&#160;Dec&#160;22&#160;16:59&#160;UTC | true | [view](CERTS/d343498507471d5c8b06671218d25406f4f12c11abba7530ad93548c73504e3a/README.md) |
-| 25&#160;Nov&#160;22&#160;14:58&#160;UTC | Google SHAKEN cert 969H | 25&#160;Dec&#160;22&#160;14:58&#160;UTC | true | [view](CERTS/e1251a1603758cd7ddbc547003ff1957ea712ce12564b1d2d905c17482009edf/README.md) |
+| 18&#160;Dec&#160;22&#160;14:59&#160;UTC | Google SHAKEN cert 969H | 17&#160;Jan&#160;23&#160;14:59&#160;UTC | true | [view](CERTS/6f97b41760bbb78a17309694eb34e5a0b896c78bfea22fae23731f3b2bc7bcea/README.md) |
+| 26&#160;Dec&#160;22&#160;15:00&#160;UTC | Baltimore-Washington Telephone Company SHAKEN cert 8697 | 26&#160;Jan&#160;23&#160;14:59&#160;UTC | true | [view](CERTS/06404c88b7c84beeea562e1978a3763e7c0242cdd065f2577d6477c225bc061a/README.md) |
 
 #### CA Certificates
 
@@ -75,4 +75,4 @@
 | 29&#160;Sep&#160;21&#160;13:22&#160;UTC | NetNumber SHAKEN Root Intermediate CA 1 | 26&#160;Sep&#160;33&#160;13:22&#160;UTC | true | [view](CERTS/e449803766edf02ab50b034dd7e89e54efd332cce87688a032f89b340d039878/README.md) |
 
 
-Generated: 17 Dec 22 17:07 UTC
+Generated: 29 Dec 22 07:47 UTC

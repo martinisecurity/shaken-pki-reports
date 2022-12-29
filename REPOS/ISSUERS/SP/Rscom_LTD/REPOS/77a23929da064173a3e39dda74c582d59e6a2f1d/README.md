@@ -3,8 +3,8 @@
 ## Rscom LTD
 
 Name: `https://ssc.getsipnav.com/certs/2e7995d25837c174efaf63e3ff1b1d69456e6412`\
-Tested At: 17 Dec 22 17:00 UTC\
-Time: 24ms
+Tested At: 29 Dec 22 07:38 UTC\
+Time: 53ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 24ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 17 Dec 22 17:07 UTC
+Generated: 29 Dec 22 07:47 UTC

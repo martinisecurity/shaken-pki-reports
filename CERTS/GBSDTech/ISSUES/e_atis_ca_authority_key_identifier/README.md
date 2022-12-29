@@ -19,4 +19,4 @@ No error, warning, or notice level issues were found
 | error | 1RouteGroup SHAKEN Intermediate CA | [view](../../CERTS/99e9a67644a30ebc33ecc9aa8df6335524d49a4691164e357c5d2406b58a578e/README.md) | STI certificates shall contain an Authority Key Identifier extension |
 
 
-Generated: 17 Dec 22 17:07 UTC
+Generated: 29 Dec 22 07:47 UTC

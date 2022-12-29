@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 8526
 
-Tested At: 17 Dec 22 16:58 UTC\
+Tested At: 29 Dec 22 07:35 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -47 day(s)\
+Remaining Validity Period: -59 day(s)\
 Subject: CN=SHAKEN 8526, OU=SHAKEN, O=MetTel, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/8526/ce6a0107-6101-4a05-9a81-ae55b304f8f0.pem
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/8526/ce6a0107-6101-4a05-9a81-ae55b304f
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 17 Dec 22 17:07 UTC
+Generated: 29 Dec 22 07:47 UTC

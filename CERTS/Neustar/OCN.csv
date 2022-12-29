@@ -1,6 +1,5 @@
 OCN;Org Name;CN;Cert
 005K;PrimeVOX Communications;SHAKEN 005K;https://pvx1.s3.us-east-2.amazonaws.com/stirshaken/8448cc7eb8424d6ad5d2e6d71bcf6629.cer
-023K;Pulsar360 Corp;SHAKEN 023K;https://ecms.securetransit.net/certs/410bad9e05a57353f0d8739a421be619.cer
 023b;Big River Telephone Company;BigRiverTelephoneCompany;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11133.10171.pem
 030J;ANI Networks;SHAKEN 030J;https://certs.iverify-aninetworks.net/aninetworks_20220405.crt
 030K;G12 COMMUNICATIONS;SHAKEN 030K;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/131.132
@@ -30,7 +29,6 @@ OCN;Org Name;CN;Cert
 333K;Aovatalk Communications Limited;SHAKEN 333K;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/190.254
 393J;Cloudli Communications;SHAKEN 393J;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11508.10138
 402E;IP Networked Services Inc;SHAKEN 402E;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11304.10152
-4036;ATT SHAKEN E-E;ATT SHAKEN 4036;https://cert.sticr.att.net:8443/certs/att/abbf5398-e1e1-42af-96a7-092303b168ba
 403K;Grasshopper Group LLC;SHAKEN 403K;https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/gh-2022-12
 4151;WindstreamServices;WindstreamCommunication;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11162.10187
 418C;AGOC;AGOC;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11112.10192.pem
@@ -47,6 +45,7 @@ OCN;Org Name;CN;Cert
 5447;Access One Inc;SHAKEN 5447;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11528.10146
 553J;Whitesky Communications LLC;SHAKEN 553J;https://certs.sip.wtsky.net/prod/shaken-6-2023.cer
 554J;Jivetel Inc;SHAKEN 554J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/91.155
+558a;D&P Communications;SHAKEN 558a;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11569.10207.pem
 5606;Charter Communications Inc SHAKEN 5606;SHAKEN 5606;https://shaken.spectrum.com/4d65efdb8a1ca366e9576c8fda747fa4.pem
 567G;Teliax Inc.;Shaken;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11316.10181
 573J;Voyant Communications LLC;SHAKEN 573J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/49.162
@@ -63,7 +62,7 @@ OCN;Org Name;CN;Cert
 700H;Metro FiberNet LLC;SHAKEN 700H;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/142.143
 701J;MASH Telecom Inc;SHAKEN 701J;https://ssc.getsipnav.com/certs/ba4c10c5aba67bf3db221cadcac7b67b45422720
 704J;Clearly IP;SHAKEN 704J;https://r.stir.tel/704J/230531154218Z/cert.pem
-7076;Midco;SHAKEN 7076;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11158.10130.pem
+7076;Midcontinent Communications;SHAKEN 7076;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11158.10130.pem
 7076;Logix;Logix-Keystore;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11159.10178
 707J;TextNow Inc;SHAKEN 707J;https://pki.tncp.textnow.com/prod/stir-shaken-textnow-cert.pem
 709J;Low Latency Communications LLC;SHAKEN 709J;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/77.226

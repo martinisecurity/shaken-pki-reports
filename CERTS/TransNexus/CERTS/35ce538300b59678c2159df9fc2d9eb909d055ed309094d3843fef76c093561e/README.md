@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 2277
 
-Tested At: 17 Dec 22 16:58 UTC\
+Tested At: 29 Dec 22 07:34 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -40 day(s)\
+Remaining Validity Period: -51 day(s)\
 Subject: CN=SHAKEN 2277, OU=SHAKEN, O=CentraCom, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/0ed28b24-35cd-4fbe-82b2-ae7b4e44f3d3/becf02556a3fe0add34e22f52442d2cf.pem
@@ -17,4 +17,4 @@ Link: https://certificates.clearip.com/0ed28b24-35cd-4fbe-82b2-ae7b4e44f3d3/becf
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 17 Dec 22 17:07 UTC
+Generated: 29 Dec 22 07:47 UTC

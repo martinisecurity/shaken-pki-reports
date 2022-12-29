@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 140K
 
-Tested At: 17 Dec 22 16:58 UTC\
+Tested At: 29 Dec 22 07:35 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: 6 day(s)\
+Remaining Validity Period: -6 day(s)\
 Subject: CN=SHAKEN 140K, O=IP Communications\\, LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/ded2dd05-658d-4b95-9554-d30e2f15e26b/744cf387b119579878a08f974a488570.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/ded2dd05-658d-4b95-9554-d30e2f15e26b/744c
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 17 Dec 22 17:07 UTC
+Generated: 29 Dec 22 07:47 UTC

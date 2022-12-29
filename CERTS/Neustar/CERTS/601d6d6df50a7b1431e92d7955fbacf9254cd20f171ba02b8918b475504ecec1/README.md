@@ -2,9 +2,9 @@
 
 ## Certificate AGOC
 
-Tested At: 17 Dec 22 16:59 UTC\
+Tested At: 29 Dec 22 07:36 UTC\
 Initial Validity Period: 1096 day(s)\
-Remaining Validity Period: 171 day(s)\
+Remaining Validity Period: 159 day(s)\
 Subject: C=US, ST=PA, L=BUTLER, O=AGOC, OU=AGOC, CN=AGOC\
 Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11112.10192.pem
@@ -13,8 +13,8 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11112.10192.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 ### Not Effective
 
@@ -39,4 +39,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11112.10192.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 17 Dec 22 17:07 UTC
+Generated: 29 Dec 22 07:47 UTC

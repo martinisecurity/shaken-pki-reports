@@ -2,9 +2,9 @@
 
 ## Certificate digitalipvoice.com
 
-Tested At: 17 Dec 22 16:58 UTC\
+Tested At: 29 Dec 22 07:32 UTC\
 Initial Validity Period: 1096 day(s)\
-Remaining Validity Period: 205 day(s)\
+Remaining Validity Period: 194 day(s)\
 Subject: C=US, ST=FL, L=Tampa, O=Digital IP Voice, OU=Service Division, CN=digitalipvoice.com\
 Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1\
 Link: https://az.tax/1
@@ -38,4 +38,4 @@ Link: https://az.tax/1
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 17 Dec 22 17:07 UTC
+Generated: 29 Dec 22 07:47 UTC

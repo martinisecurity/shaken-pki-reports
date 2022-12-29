@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 7126
 
-Tested At: 17 Dec 22 16:58 UTC\
+Tested At: 29 Dec 22 07:36 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 325 day(s)\
+Remaining Validity Period: 314 day(s)\
 Subject: CN=SHAKEN 7126, O=Altice USA, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.alticeusa.com/ccid/authn/v2/certs/11011.10003
@@ -16,4 +16,4 @@ Link: https://cr.ccid.alticeusa.com/ccid/authn/v2/certs/11011.10003
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 17 Dec 22 17:07 UTC
+Generated: 29 Dec 22 07:47 UTC

@@ -9,7 +9,7 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://www.talkasiavoip.com/198K.pem` | 19&#160;Dec&#160;22&#160;12:36&#160;UTC | true | [view](../../REPOS/bb30be37f3905720319bcf16596a6c137b7f5d2c/README.md) |
+| `https://www.talkasiavoip.com/198K.pem` | 19&#160;Jan&#160;23&#160;12:36&#160;UTC | true | [view](../../REPOS/bb30be37f3905720319bcf16596a6c137b7f5d2c/README.md) |
 
 
-Generated: 17 Dec 22 17:07 UTC
+Generated: 29 Dec 22 07:47 UTC

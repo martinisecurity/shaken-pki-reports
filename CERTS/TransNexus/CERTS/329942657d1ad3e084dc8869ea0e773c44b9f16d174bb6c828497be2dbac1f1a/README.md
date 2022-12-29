@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 763J
 
-Tested At: 17 Dec 22 16:58 UTC\
+Tested At: 29 Dec 22 07:35 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -6 day(s)\
+Remaining Validity Period: -17 day(s)\
 Subject: CN=SHAKEN 763J, O=InfoWest Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/f12e1928-6745-4bda-b71c-42eaf0738bce/a45a3d5e91da3e3a34bb09e01a6d29a8.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/f12e1928-6745-4bda-b71c-42eaf0738bce/a45a
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 17 Dec 22 17:07 UTC
+Generated: 29 Dec 22 07:47 UTC

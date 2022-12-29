@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 721J
 
-Tested At: 17 Dec 22 16:58 UTC\
+Tested At: 29 Dec 22 07:35 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -44 day(s)\
+Remaining Validity Period: -56 day(s)\
 Subject: CN=SHAKEN 721J, OU=SHAKEN, O=True IP Solutions, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/a1df4bf4-8858-47bb-9388-835c5c7cb5c4/4e583b9d11e190ea91c0687b930b92db.pem
@@ -18,4 +18,4 @@ Link: https://certificates.clearip.com/a1df4bf4-8858-47bb-9388-835c5c7cb5c4/4e58
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 17 Dec 22 17:07 UTC
+Generated: 29 Dec 22 07:47 UTC

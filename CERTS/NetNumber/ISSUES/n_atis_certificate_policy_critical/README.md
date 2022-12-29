@@ -12,13 +12,13 @@ Description: STI certificates should contain a CertificatePolicies extension mar
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| notice | Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../../CERTS/d343498507471d5c8b06671218d25406f4f12c11abba7530ad93548c73504e3a/README.md) | STI certificates should contain a CertificatePolicies extension marked uncritical |
+| notice | Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../../CERTS/06404c88b7c84beeea562e1978a3763e7c0242cdd065f2577d6477c225bc061a/README.md) | STI certificates should contain a CertificatePolicies extension marked uncritical |
 | notice | Plivo Inc | [view](../../CERTS/7dc750fb7aa68d2b67b8dbc89f65217f92db54504685058be016638011adf8bf/README.md) | STI certificates should contain a CertificatePolicies extension marked uncritical |
-| notice | Google SHAKEN cert 969H | [view](../../CERTS/e1251a1603758cd7ddbc547003ff1957ea712ce12564b1d2d905c17482009edf/README.md) | STI certificates should contain a CertificatePolicies extension marked uncritical |
+| notice | Google SHAKEN cert 969H | [view](../../CERTS/6f97b41760bbb78a17309694eb34e5a0b896c78bfea22fae23731f3b2bc7bcea/README.md) | STI certificates should contain a CertificatePolicies extension marked uncritical |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 17 Dec 22 17:07 UTC
+Generated: 29 Dec 22 07:47 UTC
