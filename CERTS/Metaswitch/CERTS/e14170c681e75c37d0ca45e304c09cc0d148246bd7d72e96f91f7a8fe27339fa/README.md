@@ -2,9 +2,9 @@
 
 ## Certificate Appalachian Wireless SHAKEN Cert 6940
 
-Tested At: 29 Dec 22 07:41 UTC\
+Tested At: 01 Jan 23 23:30 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 508 day(s)\
+Remaining Validity Period: 504 day(s)\
 Subject: CN=Appalachian Wireless SHAKEN Cert 6940, O=Appalachian Wireless, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://sti-cr.cgah.tnsi.com/certs/590f3a17396e9e874d158eb60337f24c3ac4812b
@@ -28,4 +28,4 @@ Link: https://sti-cr.cgah.tnsi.com/certs/590f3a17396e9e874d158eb60337f24c3ac4812
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 29 Dec 22 07:47 UTC
+Generated: 01 Jan 23 23:34 UTC

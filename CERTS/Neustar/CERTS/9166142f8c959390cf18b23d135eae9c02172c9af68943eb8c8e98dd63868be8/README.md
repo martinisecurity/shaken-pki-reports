@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 7575
 
-Tested At: 29 Dec 22 07:36 UTC\
+Tested At: 01 Jan 23 23:24 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 302 day(s)\
+Remaining Validity Period: 298 day(s)\
 Subject: CN=SHAKEN 7575, O=Lumen, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11001.10012
@@ -16,4 +16,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11001.10012
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 29 Dec 22 07:47 UTC
+Generated: 01 Jan 23 23:34 UTC

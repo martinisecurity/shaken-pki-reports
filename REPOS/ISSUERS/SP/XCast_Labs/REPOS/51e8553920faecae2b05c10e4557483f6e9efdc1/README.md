@@ -3,8 +3,8 @@
 ## XCast Labs
 
 Name: `https://cr.xcastlabs.net/1666420200/xclsshaken.pem`\
-Tested At: 29 Dec 22 07:37 UTC\
-Time: 114ms
+Tested At: 01 Jan 23 23:27 UTC\
+Time: 19ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 114ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 29 Dec 22 07:47 UTC
+Generated: 01 Jan 23 23:34 UTC

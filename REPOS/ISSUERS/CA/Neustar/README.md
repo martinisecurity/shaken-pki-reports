@@ -2,24 +2,25 @@
 
 ## Neustar
 
-- 200 repository URLs were included in the corpus being tested
-- 134 repository URLs in the corpus were skipped because they were duplicated
-- 66 repository URLs being tested against the remaining rules
+- 205 repository URLs were included in the corpus being tested
+- 136 repository URLs in the corpus were skipped because they were duplicated
+- 69 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 55ms average time it took to download each certificate
+- 60ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 66 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
-| 66 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 69 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
+| 69 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/1.1` | 21&#160;Aug&#160;23&#160;00:54&#160;UTC | true | [view](REPOS/6b6f6478b3872d6b2aa2000a590486031c62e4c3/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/120.121` | 20&#160;Apr&#160;23&#160;20:54&#160;UTC | true | [view](REPOS/e566fe7eecf1e618e39afa04d3f232beeef09ae9/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/127.128` | 09&#160;May&#160;23&#160;18:44&#160;UTC | true | [view](REPOS/951b19731da6797c39a3e010849995dd37e66c5e/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/128.129` | 11&#160;May&#160;23&#160;14:01&#160;UTC | true | [view](REPOS/0d20000a6b517c97ad43521b2aa1b2a5566e12e1/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/131.132` | 17&#160;May&#160;23&#160;21:17&#160;UTC | true | [view](REPOS/6d8d2aa64295ce8c6ec3feb2f7181217374ed01a/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/132.133` | 19&#160;May&#160;23&#160;17:45&#160;UTC | true | [view](REPOS/c1ad339fb5d4d2a7a04821d1ebf43e2be30cd1ad/README.md) |
@@ -27,6 +28,7 @@
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/142.143` | 06&#160;Jun&#160;23&#160;19:29&#160;UTC | true | [view](REPOS/0f124a643fd3122a6c0a2c4034bc476b1695258a/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/145.146` | 08&#160;Jun&#160;23&#160;15:19&#160;UTC | true | [view](REPOS/c70ea3803f7826403e1f6597fe5f1ca42c864c3f/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/146.147` | 08&#160;Jun&#160;23&#160;16:50&#160;UTC | true | [view](REPOS/ea1d30a69850081339ce51d9cf2abb9f7f8820bb/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/156.170` | 22&#160;Jun&#160;23&#160;20:48&#160;UTC | true | [view](REPOS/656910e6f7e83ed31e77e5d8eb27d629790a19f3/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/158.172` | 24&#160;Jun&#160;23&#160;14:05&#160;UTC | true | [view](REPOS/5a2c4764eac8894189712f73b88dcf2aa15a4fa1/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/164.180` | 23&#160;Jun&#160;23&#160;18:09&#160;UTC | true | [view](REPOS/af4549e573de1a9e1493faa3332481c39fb726ba/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/165.181` | 28&#160;Jun&#160;23&#160;20:15&#160;UTC | true | [view](REPOS/5cec563c7358362bf380f2dcc4f2b2c3fe1daeef/README.md) |
@@ -39,6 +41,7 @@
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/39.203` | 19&#160;Apr&#160;24&#160;23:44&#160;UTC | true | [view](REPOS/e1180f60557a72b14541350856939e8696257512/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/49.162` | 17&#160;Jun&#160;23&#160;21:25&#160;UTC | true | [view](REPOS/8bd510d34b1011dd87b929851c41bf5acc3c6c4e/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/77.226` | 08&#160;Jul&#160;23&#160;17:49&#160;UTC | true | [view](REPOS/4bd1e44976a991af4b32947748994ff036b900dd/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/81.164` | 17&#160;Jun&#160;23&#160;13:50&#160;UTC | true | [view](REPOS/4a926954bac19a7eafaf7ced30b8424798b992b5/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/87.166` | 21&#160;Jun&#160;23&#160;18:39&#160;UTC | true | [view](REPOS/8b6ed33acdcb571081b92f1294d6c05413aae50a/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/91.155` | 13&#160;Jun&#160;23&#160;18:51&#160;UTC | true | [view](REPOS/9c4bceb690b6f9b6a0f7100c68d20c40439bec1a/README.md) |
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11001.10012` | 26&#160;Oct&#160;23&#160;16:40&#160;UTC | true | [view](REPOS/af4d5835df1120f76adb6ea0134c3f46759db780/README.md) |
@@ -86,4 +89,4 @@
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11569.10207.pem` | 23&#160;Jun&#160;23&#160;15:04&#160;UTC | true | [view](REPOS/f58ee9e070a65678ed44aeb41120efc5685db110/README.md) |
 
 
-Generated: 29 Dec 22 07:47 UTC
+Generated: 01 Jan 23 23:34 UTC

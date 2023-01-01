@@ -21,7 +21,7 @@
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
 - 99 days is the average remaining validity for the certificates in the corpus
 - 101 days is the average initial validity for the certificates in the corpus
-- 3 certificates expire in the next 30 days
+- 9 certificates expire in the next 30 days
 - 2.00 average number of unexpired certificates per OCN observed
 - 12 unique OCNs observed in unexpired and valid certificate corpus
 
@@ -89,4 +89,4 @@
 | 02&#160;Oct&#160;22&#160;10:40&#160;UTC | Martini Security SHAKEN G2 | 01&#160;Oct&#160;27&#160;10:40&#160;UTC | false | [view](CERTS/bf818ddbd3ae492e4a85331b85b52f4d2cdef8287bf910b59e247b6c132fa7fd/README.md) |
 
 
-Generated: 29 Dec 22 07:47 UTC
+Generated: 01 Jan 23 23:34 UTC

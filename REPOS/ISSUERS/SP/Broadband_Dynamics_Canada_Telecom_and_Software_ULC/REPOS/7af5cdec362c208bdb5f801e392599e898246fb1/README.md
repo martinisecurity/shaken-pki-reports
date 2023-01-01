@@ -3,8 +3,8 @@
 ## Broadband Dynamics Canada Telecom and Software ULC
 
 Name: `https://canada-cr.sansay.com/Broadband_Dynamics_Canada_Telecom_and_Software_ULC_884J`\
-Tested At: 29 Dec 22 07:32 UTC\
-Time: 339ms
+Tested At: 01 Jan 23 23:23 UTC\
+Time: 103ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 339ms
 |------|------|--------|---------|
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 29 Dec 22 07:47 UTC
+Generated: 01 Jan 23 23:34 UTC

@@ -3,8 +3,8 @@
 ## Telco Connection
 
 Name: `https://ssc.getsipnav.com/certs/a80448b68598a8d87c75bf6df015f9f2a30ae551`\
-Tested At: 29 Dec 22 07:38 UTC\
-Time: 51ms
+Tested At: 01 Jan 23 23:28 UTC\
+Time: 79ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 51ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 29 Dec 22 07:47 UTC
+Generated: 01 Jan 23 23:34 UTC

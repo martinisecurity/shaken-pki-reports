@@ -10,21 +10,21 @@ This report is broken int two parts:
 
 ### Leaf Certificates
 
-- 1584 certificates were included in the corpus being tested
-- 181 certificates in the corpus were skipped because they are duplicates
-- 1031 certificates in the corpus were skipped because they are expired
+- 1698 certificates were included in the corpus being tested
+- 183 certificates in the corpus were skipped because they are duplicates
+- 1110 certificates in the corpus were skipped because they are expired
 - 5 certificates in the corpus were skipped because they are not currently trusted
-- 367 certificates being tested against the remaining rules
-- 4.29 issues on average found in unexpired, trusted, and non-compliant certificates
-- 93.19% of certificates contain one or more Error level issue
-- 55.86% of certificates contain one or more Warning level issue
-- 1.09% of certificates contain one or more Notice level issue
-- 16.62% of certificates are too old to be assessed against currently enforced expectations
-- 346 days is the average remaining validity for the certificates in the corpus
-- 347 days is the average initial validity for the certificates in the corpus
-- 141 certificates expire in the next 30 days
-- 4.51 average number of unexpired certificates per OCN observed
-- 351 unique OCNs observed in unexpired and valid certificate corpus
+- 400 certificates being tested against the remaining rules
+- 4.10 issues on average found in unexpired, trusted, and non-compliant certificates
+- 93.75% of certificates contain one or more Error level issue
+- 52.25% of certificates contain one or more Warning level issue
+- 1.00% of certificates contain one or more Notice level issue
+- 15.50% of certificates are too old to be assessed against currently enforced expectations
+- 325 days is the average remaining validity for the certificates in the corpus
+- 326 days is the average initial validity for the certificates in the corpus
+- 174 certificates expire in the next 30 days
+- 4.74 average number of unexpired certificates per OCN observed
+- 358 unique OCNs observed in unexpired and valid certificate corpus
 
 ### CA Certificates
 
@@ -44,8 +44,8 @@ This report is broken int two parts:
 
 ## Certificate Repository URL
 
-- 53.95% of certificate repository URLs contain one or more Error level issue
-- 87.19% of certificates repository URLs contain one or more Warning level issue
+- 52.00% of certificate repository URLs contain one or more Error level issue
+- 82.50% of certificates repository URLs contain one or more Warning level issue
 - 0.00% of certificates repository URLs contain one or more Notice level issue
 
 ## Details
@@ -58,18 +58,18 @@ This report is broken int two parts:
 
 | Issuers | Certificates | Errors | Warnings | Notices | Not Effective |
 |---------|--------------|--------|----------|---------|---------------|
-| [Comcast](CERTS/Comcast/README.md#leaf-certificates) | 23 (6.27%) | 23 (100.00%) | 23 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [GBSDTech](CERTS/GBSDTech/README.md#leaf-certificates) | 3 (0.82%) | 3 (100.00%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Martini Security](CERTS/Martini_Security/README.md#leaf-certificates) | 24 (6.54%) | 0 (0.00%) | 0 (0.00%) | 1 (4.17%) | 0 (0.00%) |
-| [Metaswitch](CERTS/Metaswitch/README.md#leaf-certificates) | 36 (9.81%) | 36 (100.00%) | 1 (2.78%) | 0 (0.00%) | 33 (91.67%) |
-| [NetNumber](CERTS/NetNumber/README.md#leaf-certificates) | 3 (0.82%) | 3 (100.00%) | 0 (0.00%) | 3 (100.00%) | 0 (0.00%) |
-| [Neustar](CERTS/Neustar/README.md#leaf-certificates) | 111 (30.25%) | 110 (99.10%) | 28 (25.23%) | 0 (0.00%) | 27 (24.32%) |
-| [Peeringhub](CERTS/Peeringhub/README.md#leaf-certificates) | 7 (1.91%) | 7 (100.00%) | 1 (14.29%) | 0 (0.00%) | 0 (0.00%) |
-| [Ribbon Communications](CERTS/Ribbon_Communications/README.md#leaf-certificates) | 5 (1.36%) | 5 (100.00%) | 5 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Sansay](CERTS/Sansay/README.md#leaf-certificates) | 129 (35.15%) | 129 (100.00%) | 129 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [T-Mobile](CERTS/T-Mobile/README.md#leaf-certificates) | 2 (0.54%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [TransNexus](CERTS/TransNexus/README.md#leaf-certificates) | 24 (6.54%) | 24 (100.00%) | 16 (66.67%) | 0 (0.00%) | 1 (4.17%) |
-| **Total** | 367 (100.00%) | 342 (93.19%) | 205 (55.86%) | 4 (1.09%) | 61 (16.62%) |
+| [Comcast](CERTS/Comcast/README.md#leaf-certificates) | 27 (6.75%) | 27 (100.00%) | 27 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [GBSDTech](CERTS/GBSDTech/README.md#leaf-certificates) | 3 (0.75%) | 3 (100.00%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Martini Security](CERTS/Martini_Security/README.md#leaf-certificates) | 24 (6.00%) | 0 (0.00%) | 0 (0.00%) | 1 (4.17%) | 0 (0.00%) |
+| [Metaswitch](CERTS/Metaswitch/README.md#leaf-certificates) | 37 (9.25%) | 37 (100.00%) | 1 (2.70%) | 0 (0.00%) | 34 (91.89%) |
+| [NetNumber](CERTS/NetNumber/README.md#leaf-certificates) | 3 (0.75%) | 3 (100.00%) | 0 (0.00%) | 3 (100.00%) | 0 (0.00%) |
+| [Neustar](CERTS/Neustar/README.md#leaf-certificates) | 115 (28.75%) | 114 (99.13%) | 29 (25.22%) | 0 (0.00%) | 27 (23.48%) |
+| [Peeringhub](CERTS/Peeringhub/README.md#leaf-certificates) | 7 (1.75%) | 7 (100.00%) | 1 (14.29%) | 0 (0.00%) | 0 (0.00%) |
+| [Ribbon Communications](CERTS/Ribbon_Communications/README.md#leaf-certificates) | 6 (1.50%) | 6 (100.00%) | 6 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Sansay](CERTS/Sansay/README.md#leaf-certificates) | 129 (32.25%) | 129 (100.00%) | 129 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [T-Mobile](CERTS/T-Mobile/README.md#leaf-certificates) | 2 (0.50%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [TransNexus](CERTS/TransNexus/README.md#leaf-certificates) | 47 (11.75%) | 47 (100.00%) | 14 (29.79%) | 0 (0.00%) | 1 (2.13%) |
+| **Total** | 400 (100.00%) | 375 (93.75%) | 209 (52.25%) | 4 (1.00%) | 62 (15.50%) |
 
 ### CA Certificates
 
@@ -98,4 +98,4 @@ This report is broken int two parts:
 | Not Effective | Tests that exist in the current specifications but were not in effect at the time of issuance. |
 
 
-Generated: 29 Dec 22 07:47 UTC
+Generated: 01 Jan 23 23:34 UTC

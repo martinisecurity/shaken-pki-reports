@@ -3,8 +3,8 @@
 ## Neustar
 
 Name: `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11126.10191`\
-Tested At: 29 Dec 22 07:36 UTC\
-Time: 55ms
+Tested At: 01 Jan 23 23:24 UTC\
+Time: 85ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 55ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 29 Dec 22 07:47 UTC
+Generated: 01 Jan 23 23:34 UTC
