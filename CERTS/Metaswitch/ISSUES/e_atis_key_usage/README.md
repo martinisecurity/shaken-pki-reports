@@ -23,6 +23,7 @@ Description: STI certificates shall contain a Key Usage extension marked as crit
 | error | Avid Communication SHAKEN Cert 742D | [view](../../CERTS/b63d54026dfcdfd16495ad6fdda8993de182c86b4aa870784177c38c53842cba/README.md) | The Key Usage extension shall contain a single key usage value of digitalSignature |
 | error | Telesystem SHAKEN Cert 786E | [view](../../CERTS/2d9aca0895c94291596161363091718089a6e7c19dfa57329ae548432533860f/README.md) | The Key Usage extension shall contain a single key usage value of digitalSignature |
 | error | Northeast Oklahoma Electric Cooperative SHAKEN Cert 945H | [view](../../CERTS/b399b86f53e35dfa37c4cd7b28ee0132d934ef73354f564636d8edee42d58ccd/README.md) | The Key Usage extension shall contain a single key usage value of digitalSignature |
+| error | Tri-County Telephone Association Inc SHAKEN Cert 2296 | [view](../../CERTS/059194bbdc7ecfd6fc3d30b071e4d73565e14360c7a9d19c60f9274ec1025d0f/README.md) | The Key Usage extension shall contain a single key usage value of digitalSignature |
 | error | Call48 SHAKEN Cert 505J | [view](../../CERTS/5bb4516a62167e6c55e9704e4a49b39ce9ec480e678aa6c02fb6985fc9594997/README.md) | The Key Usage extension shall contain a single key usage value of digitalSignature |
 | error | Fidelity Communications SHAKEN Cert 1882 | [view](../../CERTS/baaf8e58db0f02327fc5b9b614a5633c7b505ca0b291b606d32a191ee73a05e5/README.md) | The Key Usage extension shall contain a single key usage value of digitalSignature |
 | error | Appalachian Wireless SHAKEN Cert 6940 | [view](../../CERTS/e14170c681e75c37d0ca45e304c09cc0d148246bd7d72e96f91f7a8fe27339fa/README.md) | The Key Usage extension shall contain a single key usage value of digitalSignature |
@@ -54,4 +55,4 @@ Description: STI certificates shall contain a Key Usage extension marked as crit
 No error, warning, or notice level issues were found
 
 
-Generated: 17 Dec 22 12:22 UTC
+Generated: 05 Jan 23 21:05 UTC

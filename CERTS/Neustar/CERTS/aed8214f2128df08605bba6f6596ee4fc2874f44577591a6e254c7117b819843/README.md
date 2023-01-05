@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 067K
 
-Tested At: 17 Dec 22 12:22 UTC\
+Tested At: 05 Jan 23 21:05 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 190 day(s)\
+Remaining Validity Period: 170 day(s)\
 Subject: CN=SHAKEN 067K, O=Junction Networks Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://stir-shaken.jnctn.net/onsip-stir-shaken.pem
@@ -18,4 +18,4 @@ Link: https://stir-shaken.jnctn.net/onsip-stir-shaken.pem
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 17 Dec 22 12:22 UTC
+Generated: 05 Jan 23 21:05 UTC

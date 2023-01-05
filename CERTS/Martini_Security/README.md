@@ -11,23 +11,23 @@
 
 - 49 certificates were included in the corpus being tested
 - 20 certificates in the corpus were skipped because they are duplicates
-- 1 certificates in the corpus were skipped because they are expired
+- 5 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 28 certificates being tested against the remaining rules
+- 24 certificates being tested against the remaining rules
 - 1.00 issues on average found in unexpired, trusted, and non-compliant certificates
 - 0.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
-- 17.86% of certificates contain one or more Notice level issue
+- 4.17% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 97 days is the average remaining validity for the certificates in the corpus
-- 100 days is the average initial validity for the certificates in the corpus
-- 4 certificates expire in the next 30 days
-- 2.33 average number of unexpired certificates per OCN observed
+- 99 days is the average remaining validity for the certificates in the corpus
+- 101 days is the average initial validity for the certificates in the corpus
+- 9 certificates expire in the next 30 days
+- 2.00 average number of unexpired certificates per OCN observed
 - 12 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 5 | [n_atis_certificate_policy_critical](ISSUES/n_atis_certificate_policy_critical/README.md) | ATIS1000080 |
+| 1 | [n_atis_certificate_policy_critical](ISSUES/n_atis_certificate_policy_critical/README.md) | ATIS1000080 |
 
 #### CA Certificates
 
@@ -41,7 +41,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 33.33% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 5422 days is the average remaining validity for the certificates in the corpus
+- 5417 days is the average remaining validity for the certificates in the corpus
 - 4261 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -55,11 +55,7 @@
 
 | Created At | Subject | Not After | Problems | Link |
 |------------|---------|-----------|----------|------|
-| 27&#160;Sep&#160;22&#160;20:36&#160;UTC | SHAKEN 709J | 26&#160;Dec&#160;22&#160;06:00&#160;UTC | true | [view](CERTS/7f2f18c940b627651629abb54ca0da9fb3500228f9a95c9292840b764f3ef491/README.md) |
-| 28&#160;Sep&#160;22&#160;17:54&#160;UTC | SHAKEN 709J | 27&#160;Dec&#160;22&#160;06:00&#160;UTC | true | [view](CERTS/7a6b614242beb541f6ce04ce89734a5b601571cd298075c157ef9adc3efcc49c/README.md) |
 | 28&#160;Sep&#160;22&#160;18:19&#160;UTC | SHAKEN 709J | 28&#160;Sep&#160;23&#160;17:45&#160;UTC | true | [view](CERTS/8862209bef596987c13ab19a89a9fc62018dc2a4e8c9cb927827aadf1c458eee/README.md) |
-| 28&#160;Sep&#160;22&#160;21:31&#160;UTC | SHAKEN 709J | 27&#160;Dec&#160;22&#160;06:00&#160;UTC | true | [view](CERTS/200d370a7a5109b711f29fcfe86b70288592ee0d634045c034faba784acb6e23/README.md) |
-| 29&#160;Sep&#160;22&#160;18:20&#160;UTC | SHAKEN 073K | 28&#160;Dec&#160;22&#160;07:00&#160;UTC | true | [view](CERTS/72976965ef94346f0f682ba480111061fac2910dacab06407d65a26db8dd6f06/README.md) |
 | 21&#160;Oct&#160;22&#160;17:38&#160;UTC | SHAKEN 709J | 19&#160;Jan&#160;23&#160;06:00&#160;UTC | false | [view](CERTS/09e45414349c71ce7b7b92101e2de0607ebb989e096ccd861b4e8d37e4e72c2f/README.md) |
 | 21&#160;Oct&#160;22&#160;19:21&#160;UTC | SHAKEN 709J | 19&#160;Jan&#160;23&#160;06:00&#160;UTC | false | [view](CERTS/254c9be0cd95dfe372f0a4117e166da225d468720851f54e3c3edef44480a3d6/README.md) |
 | 25&#160;Oct&#160;22&#160;20:57&#160;UTC | SHAKEN 073K | 23&#160;Jan&#160;23&#160;07:00&#160;UTC | false | [view](CERTS/cf4ee8b8d56521071e2935ac9cb358738902b531589b8e19afcc43cd73c0f01f/README.md) |
@@ -93,4 +89,4 @@
 | 02&#160;Oct&#160;22&#160;10:40&#160;UTC | Martini Security SHAKEN G2 | 01&#160;Oct&#160;27&#160;10:40&#160;UTC | false | [view](CERTS/bf818ddbd3ae492e4a85331b85b52f4d2cdef8287bf910b59e247b6c132fa7fd/README.md) |
 
 
-Generated: 17 Dec 22 12:22 UTC
+Generated: 05 Jan 23 21:05 UTC

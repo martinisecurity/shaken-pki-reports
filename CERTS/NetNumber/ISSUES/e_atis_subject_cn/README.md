@@ -12,13 +12,13 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../../CERTS/d343498507471d5c8b06671218d25406f4f12c11abba7530ad93548c73504e3a/README.md) | Common name shall contain the text string 'SHAKEN 8697' |
+| error | Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../../CERTS/06404c88b7c84beeea562e1978a3763e7c0242cdd065f2577d6477c225bc061a/README.md) | Common name shall contain the text string 'SHAKEN 8697' |
 | error | Plivo Inc | [view](../../CERTS/7dc750fb7aa68d2b67b8dbc89f65217f92db54504685058be016638011adf8bf/README.md) | Common name shall contain the text string 'SHAKEN 800J' |
-| error | Google SHAKEN cert 969H | [view](../../CERTS/e1251a1603758cd7ddbc547003ff1957ea712ce12564b1d2d905c17482009edf/README.md) | Common name shall contain the text string 'SHAKEN 969H' |
+| error | Google SHAKEN cert 969H | [view](../../CERTS/6f97b41760bbb78a17309694eb34e5a0b896c78bfea22fae23731f3b2bc7bcea/README.md) | Common name shall contain the text string 'SHAKEN 969H' |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 17 Dec 22 12:22 UTC
+Generated: 05 Jan 23 21:05 UTC
