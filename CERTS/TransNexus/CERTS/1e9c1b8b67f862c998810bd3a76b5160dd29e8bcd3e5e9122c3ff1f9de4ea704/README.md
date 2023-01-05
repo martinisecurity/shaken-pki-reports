@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 9714
 
-Tested At: 01 Jan 23 23:24 UTC\
+Tested At: 05 Jan 23 18:06 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -45 day(s)\
+Remaining Validity Period: -48 day(s)\
 Subject: CN=SHAKEN 9714, OU=SHAKEN, O=Grid4 Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/51a37c7a-5af2-439d-94ce-677fa750ee2f/e7c413b1f4ba16046abca964d1f74da4.pem
@@ -17,4 +17,4 @@ Link: https://certificates.clearip.com/51a37c7a-5af2-439d-94ce-677fa750ee2f/e7c4
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 01 Jan 23 23:34 UTC
+Generated: 05 Jan 23 18:35 UTC

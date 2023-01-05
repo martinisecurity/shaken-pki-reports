@@ -3,8 +3,8 @@
 ## Voip Stir PR LLC
 
 Name: `https://ssc.getsipnav.com/certs/6e4eb792ee6ef8c9cb9e23f1a1e4d9979896c3f2`\
-Tested At: 01 Jan 23 23:28 UTC\
-Time: 79ms
+Tested At: 05 Jan 23 18:26 UTC\
+Time: 58ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 79ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 01 Jan 23 23:34 UTC
+Generated: 05 Jan 23 18:35 UTC

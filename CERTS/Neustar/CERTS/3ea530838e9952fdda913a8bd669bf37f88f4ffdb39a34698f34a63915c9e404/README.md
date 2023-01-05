@@ -2,9 +2,9 @@
 
 ## Certificate Neustar Certified Caller ID SHAKEN CA-2
 
-Tested At: 01 Jan 23 23:34 UTC\
+Tested At: 05 Jan 23 18:35 UTC\
 Initial Validity Period: 3653 day(s)\
-Remaining Validity Period: 3529 day(s)\
+Remaining Validity Period: 3525 day(s)\
 Subject: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Inc a TransUnion company, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN Root CA, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US
 
@@ -17,4 +17,4 @@ Issuer: CN=Neustar Certified Caller ID SHAKEN Root CA, OU=www.ccid.neustar, O=Ne
 | [e_atis_ca_extension_unknown](../../ISSUES/e_atis_ca_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 01 Jan 23 23:34 UTC
+Generated: 05 Jan 23 18:35 UTC

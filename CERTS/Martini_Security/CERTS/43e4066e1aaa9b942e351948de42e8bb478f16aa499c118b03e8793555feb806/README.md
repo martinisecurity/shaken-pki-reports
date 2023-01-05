@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 110K
 
-Tested At: 01 Jan 23 23:28 UTC\
+Tested At: 05 Jan 23 18:26 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: 56 day(s)\
+Remaining Validity Period: 52 day(s)\
 Subject: O=Grizzly Broadband\\, LLC, C=US, serialNumber=02449B43C5D722DDCB3832E4E8421E55, CN=SHAKEN 110K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/Ac-_gj5i9wZv.pem
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/Ac-_gj5i9wZv.pem
 149 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jan 23 23:34 UTC
+Generated: 05 Jan 23 18:35 UTC

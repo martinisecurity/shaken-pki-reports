@@ -3,8 +3,8 @@
 ## T-Mobile
 
 Name: `https://t-mobile-sticr.fosrvt.com/d1ed2fcf74511801e3df6deffbf762b764221487a8305a7da32e9efab2cbf358.pem`\
-Tested At: 01 Jan 23 23:34 UTC\
-Time: 2ms
+Tested At: 05 Jan 23 18:34 UTC\
+Time: 15ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 2ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 01 Jan 23 23:34 UTC
+Generated: 05 Jan 23 18:35 UTC

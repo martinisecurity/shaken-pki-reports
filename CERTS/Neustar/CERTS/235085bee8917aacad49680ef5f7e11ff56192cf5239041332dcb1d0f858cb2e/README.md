@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 573J
 
-Tested At: 01 Jan 23 23:24 UTC\
+Tested At: 05 Jan 23 18:07 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 167 day(s)\
+Remaining Validity Period: 164 day(s)\
 Subject: CN=SHAKEN 573J, O=Voyant Communications LLC, L=Chicago\\,ST=IL, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/49.162
@@ -18,4 +18,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/49.162
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 01 Jan 23 23:34 UTC
+Generated: 05 Jan 23 18:35 UTC

@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 6922
+
+Tested At: 05 Jan 23 18:06 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: 0 day(s)\
+Subject: CN=SHAKEN 6922, O=MTPCS LLC dba CELLULARONE, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/24fface1-b9de-43ae-9e6d-c6d9505b7cb4/f510b45dd5e6698a4e6cc3b352845b8f.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC2DCCAn%2BgAwIBAgIQRJBxHYNyy6%2BYTSXZByc8mDAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjIxMjI5MTUxNDIwWhcNMjMwMTA1MTUxNDE5WjBHMQswCQYDVQQGEwJVUzEiMCAGA1UEChMZTVRQQ1MgTExDIGRiYSBDRUxMVUxBUk9ORTEUMBIGA1UEAxMLU0hBS0VOIDY5MjIwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATVe%2FEbH41Kko%2B7yBCn8zbOstO84zIfovqZUjknnRklLBEV5xNnLmXCzwKxCDHkq8m%2FmpM7mOdUyl3nXkX%2FtGsOo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFEaU%2FN8%2BTRWUCSgSnWmA4CpqRGEVMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDY5MjIwCgYIKoZIzj0EAwIDRwAwRAIgNBozV5ztr4kWA6lMpormKF6k9aNqKaJAgBwHmBri%2FwQCIDKHPNddYs%2BMFYRgHWHNYqAKoQvgF%2BQJ3fYxjWyIVwKC)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+
+Generated: 05 Jan 23 18:35 UTC

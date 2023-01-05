@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 4132ms average time it took to download each certificate
+- 6591ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -50,4 +50,4 @@
 | `https://sti-cr.cgah.tnsi.com/certs/fe756139593d8af30f6d59a341bc41e4a6e21abb` | 29&#160;Jul&#160;24&#160;17:16&#160;UTC | true | [view](REPOS/abb622dcff50f956ee643ab0bea4fc127ceb1173/README.md) |
 
 
-Generated: 01 Jan 23 23:34 UTC
+Generated: 05 Jan 23 18:35 UTC

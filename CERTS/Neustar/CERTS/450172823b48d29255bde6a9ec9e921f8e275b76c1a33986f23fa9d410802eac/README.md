@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 715J
 
-Tested At: 01 Jan 23 23:25 UTC\
+Tested At: 05 Jan 23 18:24 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 198 day(s)\
+Remaining Validity Period: 194 day(s)\
 Subject: CN=SHAKEN 715J, O=Coredial LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11430.10198
@@ -18,4 +18,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11430.10198
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 01 Jan 23 23:34 UTC
+Generated: 05 Jan 23 18:35 UTC

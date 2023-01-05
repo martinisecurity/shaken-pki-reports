@@ -3,8 +3,8 @@
 ## Sansay
 
 Name: `https://cr.sansay.com/Rayfield_Communications_Inc._006K`\
-Tested At: 01 Jan 23 23:26 UTC\
-Time: 73ms
+Tested At: 05 Jan 23 18:25 UTC\
+Time: 48ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 73ms
 |------|------|--------|---------|
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 01 Jan 23 23:34 UTC
+Generated: 05 Jan 23 18:35 UTC

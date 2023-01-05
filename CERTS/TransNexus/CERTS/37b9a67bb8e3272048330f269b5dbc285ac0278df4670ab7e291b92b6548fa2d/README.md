@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 6628
 
-Tested At: 01 Jan 23 23:24 UTC\
+Tested At: 05 Jan 23 18:07 UTC\
 Initial Validity Period: 124 day(s)\
-Remaining Validity Period: 2 day(s)\
+Remaining Validity Period: -2 day(s)\
 Subject: CN=SHAKEN 6628, OU=SHAKEN, O=Merryville Investments LTD Inc dba ClarityTel, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/6628/e0f14ccb-0cb4-4b46-a7b7-988bdfd30cce.pem
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/6628/e0f14ccb-0cb4-4b46-a7b7-988bdfd30
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 01 Jan 23 23:34 UTC
+Generated: 05 Jan 23 18:35 UTC

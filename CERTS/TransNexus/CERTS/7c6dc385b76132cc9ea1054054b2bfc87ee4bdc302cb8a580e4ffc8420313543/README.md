@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 625J
 
-Tested At: 01 Jan 23 23:24 UTC\
+Tested At: 05 Jan 23 18:06 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -69 day(s)\
+Remaining Validity Period: -72 day(s)\
 Subject: CN=SHAKEN 625J, OU=SHAKEN, O=Victory Telecom Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/b7343686-5ed8-402c-89a3-8bf1a3d48975/1c896d70e07d655d9b044626a079c628.pem
@@ -18,4 +18,4 @@ Link: https://certificates.clearip.com/b7343686-5ed8-402c-89a3-8bf1a3d48975/1c89
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 01 Jan 23 23:34 UTC
+Generated: 05 Jan 23 18:35 UTC

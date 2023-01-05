@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 114ms average time it took to download each certificate
+- 177ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -23,4 +23,4 @@
 | `https://187.174.67.118:8080/7075515eb2d150fc98c43e794c07bbca.cer` | 13&#160;Jul&#160;23&#160;19:10&#160;UTC | true | [view](REPOS/d8faee293b08466701e0b503002bc7343687408c/README.md) |
 
 
-Generated: 01 Jan 23 23:34 UTC
+Generated: 05 Jan 23 18:35 UTC

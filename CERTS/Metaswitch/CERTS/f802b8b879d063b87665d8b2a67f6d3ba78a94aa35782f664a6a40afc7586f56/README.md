@@ -2,9 +2,9 @@
 
 ## Certificate Segra SHAKEN Cert 1784
 
-Tested At: 01 Jan 23 23:33 UTC\
+Tested At: 05 Jan 23 18:31 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 502 day(s)\
+Remaining Validity Period: 498 day(s)\
 Subject: CN=Segra SHAKEN Cert 1784, O=Segra, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://sti-cr.cgah.tnsi.com/certs/97ebbd6324f0d938d5e150ecb217c5ead6156cfa
@@ -28,4 +28,4 @@ Link: https://sti-cr.cgah.tnsi.com/certs/97ebbd6324f0d938d5e150ecb217c5ead6156cf
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 01 Jan 23 23:34 UTC
+Generated: 05 Jan 23 18:35 UTC

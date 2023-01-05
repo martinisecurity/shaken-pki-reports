@@ -3,8 +3,8 @@
 ## Freevoice
 
 Name: `http://sip.ash.dlr.freevoicepbx.com/Freevoice_963J`\
-Tested At: 01 Jan 23 23:23 UTC\
-Time: 50ms
+Tested At: 05 Jan 23 18:04 UTC\
+Time: 143ms
 
 ### Issues
 
@@ -14,4 +14,4 @@ Time: 50ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_protocol](../../ISSUES/w_atis_protocol/README.md) | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 
-Generated: 01 Jan 23 23:34 UTC
+Generated: 05 Jan 23 18:35 UTC

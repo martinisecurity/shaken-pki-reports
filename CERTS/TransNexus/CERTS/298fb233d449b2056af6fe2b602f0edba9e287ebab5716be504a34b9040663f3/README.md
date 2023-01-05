@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 672B
 
-Tested At: 01 Jan 23 23:24 UTC\
+Tested At: 05 Jan 23 18:06 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -15 day(s)\
+Remaining Validity Period: -18 day(s)\
 Subject: CN=SHAKEN 672B, O=Clear Rate, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/dcef9a97-b864-43ac-830b-2290a8d0f002/141a4535cef453d8171ee1b4ffc782c2.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/dcef9a97-b864-43ac-830b-2290a8d0f002/141a
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 01 Jan 23 23:34 UTC
+Generated: 05 Jan 23 18:35 UTC

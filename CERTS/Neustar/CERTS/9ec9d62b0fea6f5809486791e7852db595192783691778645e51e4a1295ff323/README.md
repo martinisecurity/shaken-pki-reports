@@ -2,9 +2,9 @@
 
 ## Certificate Neustar Canada Certified Caller ID SHAKEN CA-2
 
-Tested At: 01 Jan 23 23:34 UTC\
+Tested At: 05 Jan 23 18:35 UTC\
 Initial Validity Period: 3653 day(s)\
-Remaining Validity Period: 3444 day(s)\
+Remaining Validity Period: 3440 day(s)\
 Subject: CN=Neustar Canada Certified Caller ID SHAKEN CA-2, OU=www.ca.ccid.neustar, O=Neustar Information Services Inc, C=CA\
 Issuer: CN=Neustar Canada Certified Caller ID SHAKEN Root CA, OU=cms-ca.ccid.neustar, O=Neustar Information Services Inc, C=CA
 
@@ -17,4 +17,4 @@ Issuer: CN=Neustar Canada Certified Caller ID SHAKEN Root CA, OU=cms-ca.ccid.neu
 | [e_us_cp_ca_key_usage_crl_sign](../../ISSUES/e_us_cp_ca_key_usage_crl_sign/README.md) | error | US_SHAKEN_CP | The model for managing and communicating the status of revoked certificates is in the form of a distributed Certificate Revocation List (CRL) that is maintained by the STI-PA as described in ATIS-1000080 |
 
 
-Generated: 01 Jan 23 23:34 UTC
+Generated: 05 Jan 23 18:35 UTC

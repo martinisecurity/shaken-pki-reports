@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 700H
 
-Tested At: 01 Jan 23 23:23 UTC\
+Tested At: 05 Jan 23 18:06 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -72 day(s)\
+Remaining Validity Period: -75 day(s)\
 Subject: CN=SHAKEN 700H, OU=SHAKEN, O=Metro Fibernet LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/22b6cee0-8559-4c73-8092-6eee861c4b49/7744a0084b327adfeb92a083ee14fb3e.pem
@@ -18,4 +18,4 @@ Link: https://certificates.clearip.com/22b6cee0-8559-4c73-8092-6eee861c4b49/7744
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 01 Jan 23 23:34 UTC
+Generated: 05 Jan 23 18:35 UTC

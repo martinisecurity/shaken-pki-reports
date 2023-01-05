@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 297K
 
-Tested At: 01 Jan 23 23:24 UTC\
+Tested At: 05 Jan 23 18:06 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -63 day(s)\
+Remaining Validity Period: -66 day(s)\
 Subject: CN=SHAKEN 297K, OU=SHAKEN, O=Clarity Voice, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/859299ca-4c86-4dfd-9785-6c758bee1b37/34b0b778ed9b4f95b12b2a1c9fbb50de.pem
@@ -18,4 +18,4 @@ Link: https://certificates.clearip.com/859299ca-4c86-4dfd-9785-6c758bee1b37/34b0
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 01 Jan 23 23:34 UTC
+Generated: 05 Jan 23 18:35 UTC

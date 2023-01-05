@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 863J
 
-Tested At: 01 Jan 23 23:28 UTC\
+Tested At: 05 Jan 23 18:26 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 62 day(s)\
+Remaining Validity Period: 59 day(s)\
 Subject: CN=SHAKEN 863J, O=Contact Center Specialists LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/16de0926d65be10547c26ed3417d6ffd26e3a7f3
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/16de0926d65be10547c26ed3417d6ffd26e3a7f3
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 01 Jan 23 23:34 UTC
+Generated: 05 Jan 23 18:35 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 747J
 
-Tested At: 01 Jan 23 23:24 UTC\
+Tested At: 05 Jan 23 18:06 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -18 day(s)\
+Remaining Validity Period: -22 day(s)\
 Subject: CN=SHAKEN 747J, O=Magic Apple, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/9e31f6fe-cfd3-49cc-b9fc-22963012a8d7/a747b1c1d42824b703d8e11ee4716725.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/9e31f6fe-cfd3-49cc-b9fc-22963012a8d7/a747
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 01 Jan 23 23:34 UTC
+Generated: 05 Jan 23 18:35 UTC

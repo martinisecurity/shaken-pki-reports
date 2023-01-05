@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 734J
 
-Tested At: 01 Jan 23 23:24 UTC\
+Tested At: 05 Jan 23 18:06 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -25 day(s)\
+Remaining Validity Period: -29 day(s)\
 Subject: CN=SHAKEN 734J, O=TELINTEL LTD, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/cf29335b-1257-4ff4-9882-94a76a244c20/54d56ece45f52b6d0f474b7d296cb798.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/cf29335b-1257-4ff4-9882-94a76a244c20/54d5
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 01 Jan 23 23:34 UTC
+Generated: 05 Jan 23 18:35 UTC
