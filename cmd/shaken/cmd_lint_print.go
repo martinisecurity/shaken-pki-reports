@@ -643,6 +643,15 @@ func PrintIssuerUntrusted(w io.Writer, r *CertificateIssuerReport) {
 	}
 }
 
+func PrintExpireSoon(w io.Writer, r []*LintCommandItem) {
+	fmt.Fprintln(w, "Not After;OCN;Org Name;Cert")
+	for _, i := range r {
+		if i.Url != nil && i.IsExpireSoon {
+			fmt.Fprintf(w, "%s;%s;%s;%s\n", i.Certificate.NotAfter.Format(time.RFC822), internal.GetUniqueOCN(i.Certificate), internal.GetOrganizationName(i.Certificate), i.Url)
+		}
+	}
+}
+
 func PrintIssuerOCN(w io.Writer, r *CertificateIssuerReport) {
 	fmt.Fprintln(w, "OCN;Org Name;CN;Cert")
 	keys := []string{}
