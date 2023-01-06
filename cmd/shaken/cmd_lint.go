@@ -125,6 +125,7 @@ type LintCommandItem struct {
 	Chain                 []*x509.Certificate
 	certStatusUpdated     bool
 	CaCrAvailable         CaCrAvailableType
+	IsExpireSoon          bool
 	id                    string
 }
 
@@ -367,6 +368,10 @@ func (t *Report) saveCertificates(outDir string) error {
 	defer summary.Close()
 
 	PrintCertificateSummaryReport(summary, t.Certificates)
+
+	if err := SaveExpireSoonCSV(outDir, t.Certificates); err != nil {
+		return err
+	}
 
 	// Unique OCN CSV
 	ocnFile, err := CreateCSV(path.Join(outDir, DIR_OCN))
@@ -656,4 +661,16 @@ func LintCertificate(c *x509.Certificate) (*zlint.ResultSet, error) {
 	fmt.Printf("  Time: %dms\n", int(timeEnd.Sub(timeStart).Milliseconds()))
 
 	return res, nil
+}
+
+func SaveExpireSoonCSV(outDir string, r *CertificateSummaryReport) error {
+	file, err := CreateCSV(path.Join(outDir, "EXPIRE_SOON"))
+	if err != nil {
+		return err
+	}
+	defer file.Close()
+
+	PrintExpireSoon(file, r.Items)
+
+	return nil
 }

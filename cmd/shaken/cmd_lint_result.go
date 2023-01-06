@@ -157,6 +157,7 @@ func (t *CertificateGroupReport) Append(i *LintCommandItem) bool {
 	t.averageRemainingValidity = append(t.averageInitialValidity, remainingValidity)
 
 	if time.Now().AddDate(0, 0, 30).After(i.Certificate.NotAfter) {
+		i.IsExpireSoon = true
 		t.ExpiresSoon += 1
 	}
 
