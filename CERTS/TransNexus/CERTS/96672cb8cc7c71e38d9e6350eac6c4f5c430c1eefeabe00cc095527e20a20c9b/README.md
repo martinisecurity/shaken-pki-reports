@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 8526
 
-Tested At: 05 Jan 23 18:07 UTC\
+Tested At: 06 Jan 23 02:53 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 360 day(s)\
 Subject: CN=SHAKEN 8526, O=MetTel, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/8526/be6281a4-be9c-47d8-98fb-4371d09dd
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 05 Jan 23 18:35 UTC
+Generated: 06 Jan 23 03:03 UTC

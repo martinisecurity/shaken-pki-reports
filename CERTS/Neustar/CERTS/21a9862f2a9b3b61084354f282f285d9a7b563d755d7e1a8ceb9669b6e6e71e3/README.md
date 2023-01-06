@@ -2,7 +2,7 @@
 
 ## Certificate cox.com
 
-Tested At: 05 Jan 23 18:24 UTC\
+Tested At: 06 Jan 23 02:54 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 80 day(s)\
 Subject: C=US, ST=GA, L=Atlanta, O=Communications, OU=Cox Communications, CN=cox.com\
@@ -39,4 +39,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11126.10191
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 05 Jan 23 18:35 UTC
+Generated: 06 Jan 23 03:03 UTC

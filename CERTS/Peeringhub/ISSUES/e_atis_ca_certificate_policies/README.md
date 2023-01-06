@@ -19,4 +19,4 @@ No error, warning, or notice level issues were found
 | error | Peeringhub Inc SHAKEN Intermediate CA 2 | [view](../../CERTS/f00871963a40b04269c4b019968e42f9f40964cbfb512ff5342307e9942874ce/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 05 Jan 23 18:35 UTC
+Generated: 06 Jan 23 03:03 UTC

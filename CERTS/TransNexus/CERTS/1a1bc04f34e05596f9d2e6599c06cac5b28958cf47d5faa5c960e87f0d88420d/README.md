@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 551G
 
-Tested At: 05 Jan 23 18:07 UTC\
+Tested At: 06 Jan 23 02:53 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -49 day(s)\
 Subject: CN=SHAKEN 551G, OU=SHAKEN, O=Brightlink Communications LLC, C=US\
@@ -17,4 +17,4 @@ Link: https://certificates.transnexus.com/551G/35fca9a0-d72b-46a4-8026-fc733ccc8
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 05 Jan 23 18:35 UTC
+Generated: 06 Jan 23 03:03 UTC

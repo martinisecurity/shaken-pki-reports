@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 869J
 
-Tested At: 05 Jan 23 18:27 UTC\
+Tested At: 06 Jan 23 02:56 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 132 day(s)\
 Subject: CN=SHAKEN 869J, O=Sipnex Telecom LLC, C=US\
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/fef3962eaffeb276be4bf92fa16a666186c83733
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 05 Jan 23 18:35 UTC
+Generated: 06 Jan 23 03:03 UTC

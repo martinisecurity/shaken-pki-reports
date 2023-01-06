@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 261H
 
-Tested At: 05 Jan 23 18:27 UTC\
+Tested At: 06 Jan 23 02:56 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 158 day(s)\
 Subject: CN=SHAKEN 261H, O=Voyce, C=US\
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/b00badc474bbf0d965554e422647a4fcc426eb0c
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 05 Jan 23 18:35 UTC
+Generated: 06 Jan 23 03:03 UTC

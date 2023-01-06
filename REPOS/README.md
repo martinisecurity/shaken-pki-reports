@@ -7,11 +7,11 @@
 - 1756 repository URLs were included in the corpus being tested
 - 184 repository URLs in the corpus were skipped because they were duplicated
 - 1572 repository URLs being tested against the remaining rules
-- 1.57 issues on average found in non-compliant certificate repository URLs
+- 1.58 issues on average found in non-compliant certificate repository URLs
 - 20.10% of repository URLs contain one or more Error level issue
-- 36.70% of repository URLs contain one or more Warning level issue
+- 36.77% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 216ms average time it took to download each certificate
+- 147ms average time it took to download each certificate
 
 ### CA Operated Repository URLs
 
@@ -22,18 +22,18 @@
 - 15.74% of repository URLs contain one or more Error level issue
 - 33.38% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 178ms average time it took to download each certificate
+- 133ms average time it took to download each certificate
 
 ### Service Provider Operated Repository URLs
 
 - 117 repository URLs were included in the corpus being tested
 - 25 repository URLs in the corpus were skipped because they were duplicated
 - 92 repository URLs being tested against the remaining rules
-- 2.08 issues on average found in non-compliant certificate repository URLs
+- 2.12 issues on average found in non-compliant certificate repository URLs
 - 90.22% of repository URLs contain one or more Error level issue
-- 90.22% of repository URLs contain one or more Warning level issue
+- 91.30% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 830ms average time it took to download each certificate
+- 373ms average time it took to download each certificate
 
 ## Details
 
@@ -108,6 +108,7 @@
 | [Plivo Inc](ISSUERS/SP/Plivo_Inc/README.md) | 1 (1.09%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [PrimeVOX Communications](ISSUERS/SP/PrimeVOX_Communications/README.md) | 1 (1.09%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Primo Dialler LLC](ISSUERS/SP/Primo_Dialler_LLC/README.md) | 1 (1.09%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
+| [Pulsar360 Corp](ISSUERS/SP/Pulsar360_Corp/README.md) | 1 (1.09%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [QuestBlue Systems Inc](ISSUERS/SP/QuestBlue_Systems_Inc/README.md) | 1 (1.09%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Range Telecom](ISSUERS/SP/Range_Telecom/README.md) | 1 (1.09%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [RingCentral](ISSUERS/SP/RingCentral/README.md) | 0 (0.00%) | 0 (NaN%) | 0 (NaN%) | 0 (NaN%) |
@@ -124,7 +125,7 @@
 | [TextNow Inc.](ISSUERS/SP/TextNow_Inc./README.md) | 1 (1.09%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [TransNexus](ISSUERS/SP/TransNexus/README.md) | 1 (1.09%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [U. S. Telepacific Corp](ISSUERS/SP/U._S._Telepacific_Corp/README.md) | 1 (1.09%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [Unknown](ISSUERS/SP/Unknown/README.md) | 6 (6.52%) | 6 (100.00%) | 4 (66.67%) | 0 (0.00%) |
+| [Unknown](ISSUERS/SP/Unknown/README.md) | 5 (5.43%) | 5 (100.00%) | 4 (80.00%) | 0 (0.00%) |
 | [VOIP ESSENTIAL INC](ISSUERS/SP/VOIP_ESSENTIAL_INC/README.md) | 0 (0.00%) | 0 (NaN%) | 0 (NaN%) | 0 (NaN%) |
 | [Verizon Data Services LLC](ISSUERS/SP/Verizon_Data_Services_LLC/README.md) | 1 (1.09%) | 0 (0.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Vibratel](ISSUERS/SP/Vibratel/README.md) | 1 (1.09%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -137,7 +138,7 @@
 | [XCast Labs](ISSUERS/SP/XCast_Labs/README.md) | 5 (5.43%) | 5 (100.00%) | 5 (100.00%) | 0 (0.00%) |
 | [Ytel Inc.](ISSUERS/SP/Ytel_Inc./README.md) | 1 (1.09%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Zultys Inc](ISSUERS/SP/Zultys_Inc/README.md) | 1 (1.09%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| **Total** | 92 (100.00%) | 83 (90.22%) | 83 (90.22%) | 0 (0.00%) |
+| **Total** | 92 (100.00%) | 83 (90.22%) | 84 (91.30%) | 0 (0.00%) |
 
 ### Key
 
@@ -148,4 +149,4 @@
 | Notices | Tests in which industry best practices are not followed. |
 
 
-Generated: 05 Jan 23 18:35 UTC
+Generated: 06 Jan 23 03:03 UTC

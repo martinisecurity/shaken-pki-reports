@@ -928,4 +928,4 @@
 | 04&#160;Nov&#160;20&#160;00:00&#160;UTC | TransNexus Issuing CA G2 | 03&#160;Nov&#160;32&#160;23:59&#160;UTC | true | [view](../CERTS/56ee2c4c4f58e02b74b75eb3476c2f16a3d0c94a0dcfa1f28c214cdd90b8a466/README.md) |
 
 
-Generated: 05 Jan 23 18:35 UTC
+Generated: 06 Jan 23 03:03 UTC

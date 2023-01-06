@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 500J
 
-Tested At: 05 Jan 23 18:26 UTC\
+Tested At: 06 Jan 23 02:56 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 238 day(s)\
 Subject: CN=SHAKEN 500J, O=GoTo Communications Inc, C=US\
@@ -18,4 +18,4 @@ Link: https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/goto-2022-09
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 05 Jan 23 18:35 UTC
+Generated: 06 Jan 23 03:03 UTC

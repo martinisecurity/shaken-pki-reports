@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 707J
 
-Tested At: 05 Jan 23 18:26 UTC\
+Tested At: 06 Jan 23 02:56 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -65 day(s)\
 Subject: CN=SHAKEN 707J, O=TextNow Inc., C=CA\
@@ -25,4 +25,4 @@ Link: https://pki.tncp.textnow.com/stir-shaken-textnow-cert.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 05 Jan 23 18:35 UTC
+Generated: 06 Jan 23 03:03 UTC

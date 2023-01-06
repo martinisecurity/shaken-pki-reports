@@ -2,19 +2,19 @@
 
 ## Unknown
 
-- 6 repository URLs were included in the corpus being tested
+- 5 repository URLs were included in the corpus being tested
 - 0 repository URLs in the corpus were skipped because they were duplicated
-- 6 repository URLs being tested against the remaining rules
-- 3.00 issues on average found in non-compliant certificate repository URLs
+- 5 repository URLs being tested against the remaining rules
+- 3.40 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
-- 66.67% of repository URLs contain one or more Warning level issue
+- 80.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 7738ms average time it took to download each certificate
+- 1514ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
 | 4 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
-| 2 | [e_bad_url](ISSUES/e_bad_url/README.md) | System |
+| 1 | [e_bad_url](ISSUES/e_bad_url/README.md) | System |
 | 4 | [e_http_status_200](ISSUES/e_http_status_200/README.md) | HTTP |
 | 4 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 | 4 | [w_atis_pem_certificate_chain](ISSUES/w_atis_pem_certificate_chain/README.md) | ATIS-1000080 |
@@ -26,7 +26,6 @@
 | `https://dial.maqssolution.live/255K.pem` |  | true | [view](REPOS/adf028fff3c5bfdb49037b7d051913539200fab7/README.md) |
 | `https://dial.maqssolution.live/255KD22.pem` |  | true | [view](REPOS/cf98acc9ba51f2c5a919069993ad3fe8d5f58722/README.md) |
 | `https://dial.maqssolution.live/255KN22.pem` |  | true | [view](REPOS/6c2ad4e98b5e0f7170cc4a7688cdf6377eeafddc/README.md) |
-| `https://ecms.securetransit.net/certs/410bad9e05a57353f0d8739a421be619.cer` |  | true | [view](REPOS/6034f9862b22502cb879614b1690e2d94043ecb9/README.md) |
 
 
-Generated: 05 Jan 23 18:35 UTC
+Generated: 06 Jan 23 03:03 UTC
