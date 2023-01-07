@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 738J
 
-Tested At: 06 Jan 23 02:53 UTC\
+Tested At: 07 Jan 23 19:08 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -73 day(s)\
+Remaining Validity Period: -74 day(s)\
 Subject: CN=SHAKEN 738J, OU=SHAKEN, O=SIP.US LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/e50490d5def5f9ec5651a0b5693c0a1c.pem
@@ -18,4 +18,4 @@ Link: https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/e504
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 06 Jan 23 03:03 UTC
+Generated: 07 Jan 23 19:18 UTC

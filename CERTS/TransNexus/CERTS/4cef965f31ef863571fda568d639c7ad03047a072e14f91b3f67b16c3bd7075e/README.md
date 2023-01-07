@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 970J
 
-Tested At: 06 Jan 23 02:53 UTC\
+Tested At: 07 Jan 23 19:08 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -60 day(s)\
+Remaining Validity Period: -61 day(s)\
 Subject: CN=SHAKEN 970J, OU=SHAKEN, O=Procomm Online Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/795acb3b-a8b6-46c4-8ba6-82b33e759e7b/0472866da4fbd975377364ba11030eb9.pem
@@ -17,4 +17,4 @@ Link: https://certificates.clearip.com/795acb3b-a8b6-46c4-8ba6-82b33e759e7b/0472
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 06 Jan 23 03:03 UTC
+Generated: 07 Jan 23 19:18 UTC

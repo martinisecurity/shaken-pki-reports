@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Touchtone 683A
 
-Tested At: 06 Jan 23 02:56 UTC\
+Tested At: 07 Jan 23 19:10 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: 28 day(s)\
+Remaining Validity Period: 27 day(s)\
 Subject: CN=SHAKEN Touchtone 683A, OU=NOC, O=Touchtone, ST=New Jersey, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Touchtone_683A
@@ -20,4 +20,4 @@ Link: https://cr.sansay.com/Touchtone_683A
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 06 Jan 23 03:03 UTC
+Generated: 07 Jan 23 19:18 UTC

@@ -3,15 +3,14 @@
 ## Microtalk USA, Inc.
 
 Name: `https://appreg.telcoportal.com/mobileapps/neustar/Microtalk-Shaken.pem`\
-Tested At: 06 Jan 23 02:51 UTC\
-Time: 8282ms
+Tested At: 07 Jan 23 19:07 UTC\
+Time: 489ms
 
 ### Issues
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
-| [e_tls_transport](../../ISSUES/e_tls_transport/README.md) | error | System | Get "https://appreg.telcoportal.com/mobileapps/neustar/Microtalk-Shaken.pem": dial tcp: lookup appreg.telcoportal.com: Temporary failure in name resolution |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 06 Jan 23 03:03 UTC
+Generated: 07 Jan 23 19:18 UTC

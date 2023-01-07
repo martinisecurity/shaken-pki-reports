@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Technology Innovation Lab 599J
 
-Tested At: 06 Jan 23 02:56 UTC\
+Tested At: 07 Jan 23 19:10 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 279 day(s)\
+Remaining Validity Period: 277 day(s)\
 Subject: CN=SHAKEN Technology Innovation Lab 599J, OU=Research and Development, O=Technology Innovation Lab, ST=New York, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Technology_Innovation_Lab_599J
@@ -20,4 +20,4 @@ Link: https://cr.sansay.com/Technology_Innovation_Lab_599J
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 06 Jan 23 03:03 UTC
+Generated: 07 Jan 23 19:18 UTC

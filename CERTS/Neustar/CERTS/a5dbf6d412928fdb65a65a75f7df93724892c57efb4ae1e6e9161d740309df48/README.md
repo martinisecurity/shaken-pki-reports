@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 973J
 
-Tested At: 06 Jan 23 02:56 UTC\
+Tested At: 07 Jan 23 19:12 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 93 day(s)\
+Remaining Validity Period: 91 day(s)\
 Subject: CN=SHAKEN 973J, O=Vibratel, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/ae9ce419128be68bc5667048aae938cad247e5f3
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/ae9ce419128be68bc5667048aae938cad247e5f3
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 06 Jan 23 03:03 UTC
+Generated: 07 Jan 23 19:18 UTC

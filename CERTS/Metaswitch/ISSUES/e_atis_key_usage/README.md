@@ -55,4 +55,4 @@ Description: STI certificates shall contain a Key Usage extension marked as crit
 No error, warning, or notice level issues were found
 
 
-Generated: 06 Jan 23 03:03 UTC
+Generated: 07 Jan 23 19:18 UTC

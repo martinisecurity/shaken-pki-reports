@@ -21,4 +21,4 @@
 | `https://shaken.stir.mediacomcc.com/certs/mediacomcertchain.crt` | 26&#160;May&#160;24&#160;13:28&#160;UTC | true | [view](REPOS/178d90525ad3207ba870f877ac6d2b9c69bb6cfa/README.md) |
 
 
-Generated: 06 Jan 23 03:03 UTC
+Generated: 07 Jan 23 19:18 UTC

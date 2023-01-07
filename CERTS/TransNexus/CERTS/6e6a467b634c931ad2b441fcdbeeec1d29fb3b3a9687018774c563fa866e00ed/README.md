@@ -2,9 +2,9 @@
 
 ## Certificate Charter Communications Inc SHAKEN 5606
 
-Tested At: 06 Jan 23 02:56 UTC\
+Tested At: 07 Jan 23 19:12 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -64 day(s)\
+Remaining Validity Period: -66 day(s)\
 Subject: CN=Charter Communications Inc SHAKEN 5606, OU=Charter Communications Inc, O=TransNexus, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA1, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://shaken.spectrum.com/cf1b3d3d-7f2b-42fd-a161-ebe61cd6565a.pem
@@ -28,4 +28,4 @@ Link: https://shaken.spectrum.com/cf1b3d3d-7f2b-42fd-a161-ebe61cd6565a.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 06 Jan 23 03:03 UTC
+Generated: 07 Jan 23 19:18 UTC

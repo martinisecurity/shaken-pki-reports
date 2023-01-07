@@ -1,6 +1,5 @@
 OCN;Org Name;CN;Cert
 005K;PrimeVOX Communications;SHAKEN 005K;https://pvx1.s3.us-east-2.amazonaws.com/stirshaken/8448cc7eb8424d6ad5d2e6d71bcf6629.cer
-023K;Pulsar360 Corp;SHAKEN 023K;https://ecms.securetransit.net/certs/410bad9e05a57353f0d8739a421be619.cer
 023b;Big River Telephone Company;BigRiverTelephoneCompany;https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11133.10171.pem
 030J;ANI Networks;SHAKEN 030J;https://certs.iverify-aninetworks.net/aninetworks_20220405.crt
 030K;G12 COMMUNICATIONS;SHAKEN 030K;https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/131.132
