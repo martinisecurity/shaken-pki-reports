@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 404ms average time it took to download each certificate
+- 57ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://az.tax/1` | 10&#160;Jul&#160;23&#160;15:29&#160;UTC | true | [view](REPOS/fd8b5a9adb15d0a05df94173aeb4e2327619d1cf/README.md) |
 
 
-Generated: 07 Jan 23 19:18 UTC
+Generated: 11 Jan 23 23:18 UTC

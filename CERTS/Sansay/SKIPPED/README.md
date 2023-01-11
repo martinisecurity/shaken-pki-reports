@@ -172,7 +172,19 @@
 | 08&#160;Dec&#160;22&#160;10:40&#160;UTC | SHAKEN InteractiveTel, LLC 920J | 07&#160;Jan&#160;23&#160;10:40&#160;UTC | true | [view](../CERTS/7a444e306ece73f178cc176196b14c32f64dc3759a09774c66cd00262405cac0/README.md) |
 | 08&#160;Dec&#160;22&#160;12:25&#160;UTC | SHAKEN 1stPoint Communications, LLC 463G | 07&#160;Jan&#160;23&#160;12:25&#160;UTC | true | [view](../CERTS/d25a0d5ad1db30b53a6d33de975655d9b8b2507401c1571c41f5cc4107e71a24/README.md) |
 | 08&#160;Dec&#160;22&#160;12:40&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 07&#160;Jan&#160;23&#160;12:40&#160;UTC | true | [view](../CERTS/7898310169108e245eb9406ffd2125eb0bf7a15772d70de651bd480ba07f2ea0/README.md) |
+| 08&#160;Dec&#160;22&#160;23:06&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 07&#160;Jan&#160;23&#160;23:06&#160;UTC | true | [view](../CERTS/d944dd27782504db666d3ca7d3a6774bcfce9390478a1c64ded9cd5d7ab5ded1/README.md) |
+| 09&#160;Dec&#160;22&#160;02:37&#160;UTC | SHAKEN NTC International, INC 016K | 08&#160;Jan&#160;23&#160;02:37&#160;UTC | true | [view](../CERTS/b527c9d0685bbeaf74cdd98f1344e4f6d890a5c6fc10cc8190899d8b87275ddd/README.md) |
+| 09&#160;Dec&#160;22&#160;06:30&#160;UTC | SHAKEN  XCast Labs 689J | 09&#160;Jan&#160;23&#160;06:30&#160;UTC | true | [view](../CERTS/5abc6e4997d766792f3809dc868f308392b1e338341ab18b72ffba7dd8d4ec5a/README.md) |
+| 09&#160;Dec&#160;22&#160;12:35&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 08&#160;Jan&#160;23&#160;12:35&#160;UTC | true | [view](../CERTS/3ddcdb62a9f2e7ec21c1dac733a1df38bf8a70cf55ca7e4a367428d63568ee77/README.md) |
 | 10&#160;Dec&#160;22&#160;02:11&#160;UTC | SHAKEN Drop Inc 258K | 10&#160;Dec&#160;23&#160;02:11&#160;UTC | true | [view](../CERTS/fc457741017b89b9126882710d8fb44883d7603f79cec0a1989eaa2b08034ee5/README.md) |
+| 11&#160;Dec&#160;22&#160;02:27&#160;UTC | SHAKEN NTC International, INC 016K | 10&#160;Jan&#160;23&#160;02:27&#160;UTC | true | [view](../CERTS/a02719504c53126f8c169e516160f2802fbd402e966cf2f382f4e772023240ed/README.md) |
+| 11&#160;Dec&#160;22&#160;22:51&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 10&#160;Jan&#160;23&#160;22:51&#160;UTC | true | [view](../CERTS/58657e0f4cfaa1ea955b1186890bef2bb855aab4a123d83e2a1d6458fcab3a3e/README.md) |
+| 12&#160;Dec&#160;22&#160;02:22&#160;UTC | SHAKEN NTC International, INC 016K | 11&#160;Jan&#160;23&#160;02:22&#160;UTC | true | [view](../CERTS/304a8efb19acd3e64449987a2897bcd227da9d20321567b4aabb1ea4e43523e3/README.md) |
+| 12&#160;Dec&#160;22&#160;10:19&#160;UTC | SHAKEN InteractiveTel, LLC 920J | 11&#160;Jan&#160;23&#160;10:19&#160;UTC | true | [view](../CERTS/efdada9132eda0bbf96fed945eaea0cc73ef940549c1adfcf2378fe99f4af9bf/README.md) |
+| 12&#160;Dec&#160;22&#160;12:05&#160;UTC | SHAKEN 1stPoint Communications, LLC 463G | 11&#160;Jan&#160;23&#160;12:05&#160;UTC | true | [view](../CERTS/d498c87e4840c160ceaebbf72e279b855921f27b2187bf74624301ed506716c4/README.md) |
+| 12&#160;Dec&#160;22&#160;12:20&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 11&#160;Jan&#160;23&#160;12:20&#160;UTC | true | [view](../CERTS/fd183756ccba5d162fa7398f0ba8b57757aa606b0477231a741722f1959f22b8/README.md) |
+| 12&#160;Dec&#160;22&#160;18:09&#160;UTC | SHAKEN IPSBS Managed Services LLC 828J | 11&#160;Jan&#160;23&#160;18:09&#160;UTC | true | [view](../CERTS/ca8ccf4bdd084d83eaea04f52a28c6fe2dc932ed4cca933e42bd22dd26d89567/README.md) |
+| 12&#160;Dec&#160;22&#160;22:46&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 11&#160;Jan&#160;23&#160;22:46&#160;UTC | true | [view](../CERTS/050db0bdfc54e966b6d6f0f4ee116ce80edb08bbb0055a3f69718a1354a900f6/README.md) |
 | 05&#160;Jan&#160;23&#160;13:09&#160;UTC | SHAKEN Primo Dialler LLC 249K | 09&#160;Feb&#160;23&#160;13:09&#160;UTC | true | [view](../CERTS/a9ac5a87a408fda204e6fae41d1665972954365e287f4a507918192bb9ab16d3/README.md) |
 
 ### CA Certificates
@@ -183,4 +195,4 @@
 | 31&#160;Mar&#160;22&#160;17:11&#160;UTC | SHAKEN Sansay Intermediate CA Canada 1 | 29&#160;Mar&#160;31&#160;17:11&#160;UTC | true | [view](../CERTS/97b5027d448805030b8627b5d430c6c03473e0972f0ff4057eb60c1a3715ebb0/README.md) |
 
 
-Generated: 07 Jan 23 19:18 UTC
+Generated: 11 Jan 23 23:18 UTC

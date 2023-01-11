@@ -17,9 +17,6 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 | error | SHAKEN Bulk Solutions, LLC 644J | [view](../../CERTS/2b980444a4603ddf16248bee9dbdce112f593d4d5324443e641624a827af0cb2/README.md) | Common name shall contain the text string 'SHAKEN 644J' |
 | error | SHAKEN Bulk Solutions, LLC 644J | [view](../../CERTS/3cf0aa2a24845e3fe6b27605e223e8e0c73d6bd4f73279b8a1e5e16fd2feeb80/README.md) | Common name shall contain the text string 'SHAKEN 644J' |
 | error | SHAKEN MagicJack 324E | [view](../../CERTS/75b4b7b400b1252e48faa1d93f6a94f7bd4a6383c88ddf6baa167b85d9ac4ee8/README.md) | Common name shall contain the text string 'SHAKEN 324E' |
-| error | SHAKEN NTC International, INC 016K | [view](../../CERTS/b527c9d0685bbeaf74cdd98f1344e4f6d890a5c6fc10cc8190899d8b87275ddd/README.md) | Common name shall contain the text string 'SHAKEN 016K' |
-| error | SHAKEN NTC International, INC 016K | [view](../../CERTS/a02719504c53126f8c169e516160f2802fbd402e966cf2f382f4e772023240ed/README.md) | Common name shall contain the text string 'SHAKEN 016K' |
-| error | SHAKEN NTC International, INC 016K | [view](../../CERTS/304a8efb19acd3e64449987a2897bcd227da9d20321567b4aabb1ea4e43523e3/README.md) | Common name shall contain the text string 'SHAKEN 016K' |
 | error | SHAKEN NTC International, INC 016K | [view](../../CERTS/2b422e3cc0de6a2e49eb785d9d6fb925117a8a9c41d6235f1b625f86244ff227/README.md) | Common name shall contain the text string 'SHAKEN 016K' |
 | error | SHAKEN NTC International, INC 016K | [view](../../CERTS/9b0309682ea39951b1a040ae0c4676fbd3b2a16602a6fe3602ba959fb898d32a/README.md) | Common name shall contain the text string 'SHAKEN 016K' |
 | error | SHAKEN NTC International, INC 016K | [view](../../CERTS/32b46fcbf043a37727256b5226c54156987a902024cf2986a094f8106b7c12bc/README.md) | Common name shall contain the text string 'SHAKEN 016K' |
@@ -30,9 +27,6 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 | error | SHAKEN NTC International, INC 016K | [view](../../CERTS/1f46c68713b38387e621eaf1a3acbe604da82d1c85e4b4716e6ad8eb3f3d8ab6/README.md) | Common name shall contain the text string 'SHAKEN 016K' |
 | error | SHAKEN NTC International, INC 016K | [view](../../CERTS/e486057ab4dec50e88d5ddd8c82d024be9ddcac65209fd2f06a145e786be91da/README.md) | Common name shall contain the text string 'SHAKEN 016K' |
 | error | SHAKEN Ace Innovative Networks, Inc. 040K | [view](../../CERTS/c97d843d48fc3c9ba10c80bc3ccfc4ca9807d38a00384abaaaec57c1b539af5a/README.md) | Common name shall contain the text string 'SHAKEN 040K' |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/d944dd27782504db666d3ca7d3a6774bcfce9390478a1c64ded9cd5d7ab5ded1/README.md) | Common name shall contain the text string 'SHAKEN 210J' |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/58657e0f4cfaa1ea955b1186890bef2bb855aab4a123d83e2a1d6458fcab3a3e/README.md) | Common name shall contain the text string 'SHAKEN 210J' |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/050db0bdfc54e966b6d6f0f4ee116ce80edb08bbb0055a3f69718a1354a900f6/README.md) | Common name shall contain the text string 'SHAKEN 210J' |
 | error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/d6ab94aca97e6b8e273417da18c3203c50da5e29de6813a81c20799fb157ba3b/README.md) | Common name shall contain the text string 'SHAKEN 210J' |
 | error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/b89b123301269457589812eae19eafd6e455c239e03291368d4f26de068e6568/README.md) | Common name shall contain the text string 'SHAKEN 210J' |
 | error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/2e841d05e26aa40a3c667b4732649a4c321ba92227836aedff8e9311076dcda6/README.md) | Common name shall contain the text string 'SHAKEN 210J' |
@@ -47,11 +41,8 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 | error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/0d2d628ffbacd9bf7f920ff396ee09b7047699c5ca3064fea3d7ae85d409005b/README.md) | Common name shall contain the text string 'SHAKEN 210J' |
 | error | SHAKEN Xchange Telecom LLC 325B | [view](../../CERTS/6bab691174d8e7b237a7fe1b00556840e2a5c28a1839f8e345dd9ba721ba23bb/README.md) | Common name shall contain the text string 'SHAKEN 325B' |
 | error | SHAKEN Terra Nova Telecom 382G | [view](../../CERTS/50e59895e184789307de039653cf28f0e6dce9c9fda0b70c9a96db32155bcf66/README.md) | Common name shall contain the text string 'SHAKEN 382G' |
-| error | SHAKEN 1stPoint Communications, LLC 463G | [view](../../CERTS/d498c87e4840c160ceaebbf72e279b855921f27b2187bf74624301ed506716c4/README.md) | Common name shall contain the text string 'SHAKEN 463G' |
 | error | SHAKEN 1stPoint Communications, LLC 463G | [view](../../CERTS/ad3a026d9469d4cf7ee1db57b29e760079f8e3a118efe195588967552a99ee1f/README.md) | Common name shall contain the text string 'SHAKEN 463G' |
 | error | SHAKEN 1stPoint Communications, LLC 463G | [view](../../CERTS/8464cd0fdd4f9a87fb8742a4ed7249bb5d6f6e84daefba6f2313cdfd3dcb3e20/README.md) | Common name shall contain the text string 'SHAKEN 463G' |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/3ddcdb62a9f2e7ec21c1dac733a1df38bf8a70cf55ca7e4a367428d63568ee77/README.md) | Common name shall contain the text string 'SHAKEN 548J' |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/fd183756ccba5d162fa7398f0ba8b57757aa606b0477231a741722f1959f22b8/README.md) | Common name shall contain the text string 'SHAKEN 548J' |
 | error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/5778e05160c778f148c31a58676b3a86da2c9f7ecc749cbe29f61705690bdc5e/README.md) | Common name shall contain the text string 'SHAKEN 548J' |
 | error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/7e5f80893ef45ea2801cbb5e0002dbd6c928de1ae5faca7415b78ff8ece3e590/README.md) | Common name shall contain the text string 'SHAKEN 548J' |
 | error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/09914e74c5ad04841f48ce52169cdc4a6e3221a7dc7b38bcecc8f7394d745df0/README.md) | Common name shall contain the text string 'SHAKEN 548J' |
@@ -70,10 +61,8 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 | error | SHAKEN Broadband Dynamics LLC 583j | [view](../../CERTS/08c007c2b1c62cfe5fd4f74f47791b31e854c94202cecad703d30dacd543b4ac/README.md) | Common name shall contain the text string 'SHAKEN 583j' |
 | error | SHAKEN Televergence Solutions Inc 779J | [view](../../CERTS/7e2e47dfa7d154dceaabca2aba05a3c7e818d7a70c62a458d664ba95fade83c7/README.md) | Common name shall contain the text string 'SHAKEN 779J' |
 | error | SHAKEN Televergence Solutions Inc 779J | [view](../../CERTS/e8cd22ad675fcb689610f0bde10e5ee1eacdb384d93eadc2de37f118a0b20670/README.md) | Common name shall contain the text string 'SHAKEN 779J' |
-| error | SHAKEN IPSBS Managed Services LLC 828J | [view](../../CERTS/ca8ccf4bdd084d83eaea04f52a28c6fe2dc932ed4cca933e42bd22dd26d89567/README.md) | Common name shall contain the text string 'SHAKEN 828J' |
 | error | SHAKEN IPSBS Managed Services LLC 828J | [view](../../CERTS/e942b1926bb4c94fbd45c4c218cc5aa09a909b511da8c725ae5b9c46edcf8c5c/README.md) | Common name shall contain the text string 'SHAKEN 828J' |
 | error | SHAKEN IPSBS Managed Services LLC 828J | [view](../../CERTS/7df100baafa93bf508dd1f321609ddf32bd6b06d88fca514d33bb72c55094542/README.md) | Common name shall contain the text string 'SHAKEN 828J' |
-| error | SHAKEN InteractiveTel, LLC 920J | [view](../../CERTS/efdada9132eda0bbf96fed945eaea0cc73ef940549c1adfcf2378fe99f4af9bf/README.md) | Common name shall contain the text string 'SHAKEN 920J' |
 | error | SHAKEN InteractiveTel, LLC 920J | [view](../../CERTS/b5652ed675a53137c9f7a6322b2b463da5f126d15bc39dfcf41fcafef3156fa2/README.md) | Common name shall contain the text string 'SHAKEN 920J' |
 | error | SHAKEN InteractiveTel, LLC 920J | [view](../../CERTS/23c170ade1a604c621de0e066cd05a2e2ad4ee263070185d07f21a6dc1a9bf05/README.md) | Common name shall contain the text string 'SHAKEN 920J' |
 | error | SHAKEN InteractiveTel, LLC 920J | [view](../../CERTS/40f9bf01d0c26777216d7ba43012f8137f458ebaa968ac2de5b47d32631000d9/README.md) | Common name shall contain the text string 'SHAKEN 920J' |
@@ -125,7 +114,6 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 | error | SHAKEN Lightspeed Voice 557F | [view](../../CERTS/ab19df868054cb3392aa295bff737bf919f8dc55c64a91247621375bad7fb7c0/README.md) | Common name shall contain the text string 'SHAKEN 557F' |
 | error | SHAKEN Star2Star Communications, LLC 590J | [view](../../CERTS/b6c27ce63b22687fcd2f9f64ee9067dd3c19a4eb223f1aef3934f7ba95c54ba6/README.md) | Common name shall contain the text string 'SHAKEN 590J' |
 | error | SHAKEN Star2Star Communications, LLC 590J | [view](../../CERTS/9bc9dde8921387803d93036c7d2f8085af32b028fca8f17336d2e22ab51fd278/README.md) | Common name shall contain the text string 'SHAKEN 590J' |
-| error | SHAKEN  XCast Labs 689J | [view](../../CERTS/5abc6e4997d766792f3809dc868f308392b1e338341ab18b72ffba7dd8d4ec5a/README.md) | Common name shall contain the text string 'SHAKEN 689J' |
 | error | SHAKEN Ytel Inc. 703J | [view](../../CERTS/e0c7a355b91ad947dd48fc5a84523293447c45eac28d955f230fb212a73e34c3/README.md) | Common name shall contain the text string 'SHAKEN 703J' |
 | error | SHAKEN Convoso 758J | [view](../../CERTS/7dbe075e08216745a506c6874d295474143fe07e582a32081fab641ab41277e4/README.md) | Common name shall contain the text string 'SHAKEN 758J' |
 
@@ -134,4 +122,4 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 No error, warning, or notice level issues were found
 
 
-Generated: 07 Jan 23 19:18 UTC
+Generated: 11 Jan 23 23:18 UTC

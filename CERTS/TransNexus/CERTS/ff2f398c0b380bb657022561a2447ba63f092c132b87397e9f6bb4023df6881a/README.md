@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 841J
 
-Tested At: 07 Jan 23 19:08 UTC\
+Tested At: 11 Jan 23 23:08 UTC\
 Initial Validity Period: 14 day(s)\
-Remaining Validity Period: -90 day(s)\
+Remaining Validity Period: -94 day(s)\
 Subject: CN=SHAKEN 841J, OU=SHAKEN, O=Securus Technologies LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/841J/9d7f66f7-57ce-45d7-8287-9e09ae7b3383.pem
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/841J/9d7f66f7-57ce-45d7-8287-9e09ae7b3
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 07 Jan 23 19:18 UTC
+Generated: 11 Jan 23 23:18 UTC

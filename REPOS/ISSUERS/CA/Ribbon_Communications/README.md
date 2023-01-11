@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 48ms average time it took to download each certificate
+- 30ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -32,4 +32,4 @@
 | `https://prod001-prod011-cr.rbbnidhub.com/t0CiOIjnRz/NFJune102022-26092b2abd3c6bbfc676d98623fc1b25` | 10&#160;Jun&#160;23&#160;19:00&#160;UTC | true | [view](REPOS/33017846ac0354f869e6a30ef5fdf72910ca73ea/README.md) |
 
 
-Generated: 07 Jan 23 19:18 UTC
+Generated: 11 Jan 23 23:18 UTC

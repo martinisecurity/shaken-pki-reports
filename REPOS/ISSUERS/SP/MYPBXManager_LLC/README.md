@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 172ms average time it took to download each certificate
+- 90ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://www.mypbxmanager.net/local/PubShakenCert.crt` | 28&#160;Jun&#160;23&#160;18:13&#160;UTC | true | [view](REPOS/bcaaae3f936a74a5e91182403c18ec293f87c940/README.md) |
 
 
-Generated: 07 Jan 23 19:18 UTC
+Generated: 11 Jan 23 23:18 UTC

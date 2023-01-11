@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 291K
 
-Tested At: 07 Jan 23 19:08 UTC\
+Tested At: 11 Jan 23 23:07 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -65 day(s)\
+Remaining Validity Period: -69 day(s)\
 Subject: CN=SHAKEN 291K, OU=SHAKEN, O=Hypercore Networks\\, Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/b66a7496-cdd4-46e3-b219-cb0ecdc80d22/dd9ef96fbf98f0935e2baf5a0813aabc.pem
@@ -17,4 +17,4 @@ Link: https://certificates.clearip.com/b66a7496-cdd4-46e3-b219-cb0ecdc80d22/dd9e
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 07 Jan 23 19:18 UTC
+Generated: 11 Jan 23 23:18 UTC

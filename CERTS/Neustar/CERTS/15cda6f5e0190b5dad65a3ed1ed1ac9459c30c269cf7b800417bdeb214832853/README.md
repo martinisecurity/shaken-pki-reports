@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 618J
 
-Tested At: 07 Jan 23 19:09 UTC\
+Tested At: 11 Jan 23 23:08 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 132 day(s)\
+Remaining Validity Period: 128 day(s)\
 Subject: CN=SHAKEN 618J, O=PBX-Change, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/132.133
@@ -18,4 +18,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/132.133
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 07 Jan 23 19:18 UTC
+Generated: 11 Jan 23 23:18 UTC

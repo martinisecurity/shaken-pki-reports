@@ -1,3 +1,3 @@
-OCN;Org Name;CN;Cert
-6529;T-Mobile USA, Inc.;cert.stir.t-mobile.com;https://t-mobile-sticr.fosrvt.com/88a8e33055e725475530660e5d6c40d6adbe37ab7ae0ecc64b50205629548ae9.pem
-6529;T-Mobile USA, Inc.;SHAKEN 6529;https://t-mobile-sticr.fosrvt.com/d1ed2fcf74511801e3df6deffbf762b764221487a8305a7da32e9efab2cbf358.pem
+OCN,Org Name,CN,Cert
+"6529","T-Mobile USA, Inc.","cert.stir.t-mobile.com","https://t-mobile-sticr.fosrvt.com/88a8e33055e725475530660e5d6c40d6adbe37ab7ae0ecc64b50205629548ae9.pem"
+"6529","T-Mobile USA, Inc.","SHAKEN 6529","https://t-mobile-sticr.fosrvt.com/d1ed2fcf74511801e3df6deffbf762b764221487a8305a7da32e9efab2cbf358.pem"

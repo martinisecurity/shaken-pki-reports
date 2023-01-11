@@ -19,4 +19,4 @@ Description: STI End-Entity certificates shall contain a CRL Distribution Points
 No error, warning, or notice level issues were found
 
 
-Generated: 07 Jan 23 19:18 UTC
+Generated: 11 Jan 23 23:18 UTC

@@ -25,18 +25,14 @@ Description: Sub certificates SHOULD include Subject Key Identifier in end entit
 | warn | SHAKEN | [view](../../CERTS/c6b0e6e0f16748c7cb79e59d992e4a7f9a5b604db0626c29d087283fc6ea9bd7/README.md) |  |
 | warn | SHAKEN | [view](../../CERTS/89a4fc1d7d8a2a4b27ae4795f57b07d64546f2371f974f6f2c9bf69dcf77da95/README.md) |  |
 | warn | SHAKEN | [view](../../CERTS/c1ce63969a3c9f1c54dd2cc11e722964b70f95548d4dc7dd87c9656e2e885d95/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/9fa74ea058b9b342ec1315971e14c65318f78809646e9a20255d2f341be663bc/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/1cf570715ba60f235d7a6798e5bc2bbc9b5f58b7002340f7023ccebff059a18e/README.md) |  |
 | warn | SHAKEN | [view](../../CERTS/3138b9e46e3935bf9864546ee6d293467a65ffc9176c83029a10698e213b7df3/README.md) |  |
 | warn | SHAKEN | [view](../../CERTS/1c7b199b02aa9141d7cd1818566871a3f270042ce87d44635284e3f7c6207dd4/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/21cd33927b518f32fdd147e5259908ea887f1a69eeececb5c3c8a2ff36fca184/README.md) |  |
 | warn | SHAKEN | [view](../../CERTS/ab5ef23f58167423e7ea6cefb7a355d68063da131be72a0464e4dd848866499e/README.md) |  |
 | warn | SHAKEN | [view](../../CERTS/f96b2daf35b2ef435617f6d54682890046e64ed68fe0be08b6bad4e9456345e9/README.md) |  |
 | warn | SHAKEN | [view](../../CERTS/babdded586b1f1d3868a0d440c1ae126a27ce77e518c01f7669632081497f9c7/README.md) |  |
 | warn | SHAKEN | [view](../../CERTS/caa1ffa55138d9175e4cc68d4cce4209180b57842ec4503031da17e569dacb1e/README.md) |  |
 | warn | SHAKEN | [view](../../CERTS/9dd978e65bb964040c395891f6566df6d0c42bce6fb0c59fdfbae4dbb9937be8/README.md) |  |
 | warn | SHAKEN | [view](../../CERTS/de1ea73d46bf96f00714603919b38804d1177f61fc3a14eb7dbbd3706e1d1872/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/2b0a5313339250c627ddafb16f10c4b179ab78b410d4fe99a38b0b7ab91890e2/README.md) |  |
 | warn | SHAKEN | [view](../../CERTS/ec20a19dd15adcf3e2f248554be2aaa211a314666566ebff305a7ce8f2177b60/README.md) |  |
 | warn | SHAKEN | [view](../../CERTS/717979f72696355125fbf59fa02f91a40ebc15a1d913e1ac793e75c802f65c6f/README.md) |  |
 | warn | SHAKEN | [view](../../CERTS/d03657e109d20dda9ca046a59bd1b6381a611304f9039b7b0bb1e5d547f9d975/README.md) |  |
@@ -47,4 +43,4 @@ Description: Sub certificates SHOULD include Subject Key Identifier in end entit
 No error, warning, or notice level issues were found
 
 
-Generated: 07 Jan 23 19:18 UTC
+Generated: 11 Jan 23 23:18 UTC

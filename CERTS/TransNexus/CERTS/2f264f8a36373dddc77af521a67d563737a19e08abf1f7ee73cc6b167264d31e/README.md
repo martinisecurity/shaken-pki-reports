@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 406K
 
-Tested At: 07 Jan 23 19:08 UTC\
+Tested At: 11 Jan 23 23:07 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: 1 day(s)\
+Remaining Validity Period: -3 day(s)\
 Subject: CN=SHAKEN 406K, O=CommandLink, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/c1c27f53-dd56-44ca-9bba-45ce603a05d9/6c8e6e676cb36d2c80c7124b65356af0.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/c1c27f53-dd56-44ca-9bba-45ce603a05d9/6c8e
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 07 Jan 23 19:18 UTC
+Generated: 11 Jan 23 23:18 UTC

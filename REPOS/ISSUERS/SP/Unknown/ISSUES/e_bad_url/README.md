@@ -10,7 +10,6 @@ Description: Subscribers shall provide unrestricted access to its repositories a
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
 | `https://cert.sticr.att.net:8443/certs/att/6d021e67-e6a1-4821-bf7a-19491029a6ca` |  | true | [view](../../REPOS/7f767f2c2970329aedcdc118e431cdea5f195d14/README.md) |
-| `https://ecms.securetransit.net/certs/410bad9e05a57353f0d8739a421be619.cer` |  | true | [view](../../REPOS/6034f9862b22502cb879614b1690e2d94043ecb9/README.md) |
 
 
-Generated: 07 Jan 23 19:18 UTC
+Generated: 11 Jan 23 23:18 UTC

@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 52ms average time it took to download each certificate
+- 21ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://s3.amazonaws.com/certificates.peeringhub.io/ytel/703J.crt` | 19&#160;Oct&#160;23&#160;19:08&#160;UTC | true | [view](REPOS/0f3f0ebe9ecfa91036a8275ecc13b8042ab59c0f/README.md) |
 
 
-Generated: 07 Jan 23 19:18 UTC
+Generated: 11 Jan 23 23:18 UTC

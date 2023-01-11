@@ -9,28 +9,28 @@
 
 #### Leaf Certificates
 
-- 278 certificates were included in the corpus being tested
+- 279 certificates were included in the corpus being tested
 - 156 certificates in the corpus were skipped because they are duplicates
 - 3 certificates in the corpus were skipped because they are expired
 - 3 certificates in the corpus were skipped because they are not currently trusted
-- 116 certificates being tested against the remaining rules
+- 117 certificates being tested against the remaining rules
 - 2.91 issues on average found in unexpired, trusted, and non-compliant certificates
-- 99.14% of certificates contain one or more Error level issue
-- 25.00% of certificates contain one or more Warning level issue
+- 99.15% of certificates contain one or more Error level issue
+- 24.79% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
-- 23.28% of certificates are too old to be assessed against currently enforced expectations
-- 531 days is the average remaining validity for the certificates in the corpus
-- 535 days is the average initial validity for the certificates in the corpus
+- 23.08% of certificates are too old to be assessed against currently enforced expectations
+- 530 days is the average remaining validity for the certificates in the corpus
+- 534 days is the average initial validity for the certificates in the corpus
 - 3 certificates expire in the next 30 days
 - 1.02 average number of unexpired certificates per OCN observed
-- 114 unique OCNs observed in unexpired and valid certificate corpus
+- 115 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 92 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
-| 73 | [e_atis_extension_unknown](ISSUES/e_atis_extension_unknown/README.md) | ATIS1000080 |
+| 93 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
+| 74 | [e_atis_extension_unknown](ISSUES/e_atis_extension_unknown/README.md) | ATIS1000080 |
 | 29 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 114 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 115 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
 | 29 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
@@ -45,7 +45,7 @@
 - 100.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 66.67% of certificates are too old to be assessed against currently enforced expectations
-- 5146 days is the average remaining validity for the certificates in the corpus
+- 5145 days is the average remaining validity for the certificates in the corpus
 - 4870 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -153,6 +153,7 @@
 | 13&#160;Jul&#160;22&#160;17:30&#160;UTC | SHAKEN 962J | 13&#160;Jul&#160;23&#160;17:30&#160;UTC | true | [view](CERTS/cd04dcf7d5eb1acdb0c0c3e60fb3977707961e4240f1dfcf67eff0338bd75ffb/README.md) |
 | 13&#160;Jul&#160;22&#160;19:10&#160;UTC | SHAKEN 771J | 13&#160;Jul&#160;23&#160;19:10&#160;UTC | true | [view](CERTS/0d7b51533df7b19ce84f11cf53ff9c2260e112501402635565d154d9e9741d63/README.md) |
 | 18&#160;Jul&#160;22&#160;17:33&#160;UTC | SHAKEN 715J | 18&#160;Jul&#160;23&#160;17:33&#160;UTC | true | [view](CERTS/450172823b48d29255bde6a9ec9e921f8e275b76c1a33986f23fa9d410802eac/README.md) |
+| 19&#160;Jul&#160;22&#160;17:18&#160;UTC | SHAKEN 023K | 19&#160;Jul&#160;23&#160;17:18&#160;UTC | true | [view](CERTS/930eea9676ea20bbbf31176053b4990fd6e912ab6c7bfe0fa2619b6f5c0ce864/README.md) |
 | 28&#160;Jul&#160;22&#160;20:56&#160;UTC | SHAKEN 074K | 28&#160;Jul&#160;23&#160;20:56&#160;UTC | true | [view](CERTS/ce2299b32a7f2749baeb8864b84a8b531591a05a0c79c3bff8af7b8da441d513/README.md) |
 | 08&#160;Aug&#160;22&#160;12:58&#160;UTC | SHAKEN 150K | 08&#160;Aug&#160;23&#160;12:58&#160;UTC | true | [view](CERTS/5cf325af20a32e0691ff11a47485c841d9dd35771bbe2fe8027deb13e70b2a81/README.md) |
 | 08&#160;Aug&#160;22&#160;14:30&#160;UTC | SHAKEN 710A | 08&#160;Aug&#160;23&#160;14:30&#160;UTC | true | [view](CERTS/e97dffcbf85f9183ac12212e1a9e342f76ffd96d6c6d280854fb31e9465d481a/README.md) |
@@ -190,4 +191,4 @@
 | 05&#160;Oct&#160;22&#160;17:26&#160;UTC | Neustar Certified Caller ID SHAKEN CA-2 | 05&#160;Oct&#160;32&#160;17:26&#160;UTC | true | [view](CERTS/0bd95ecbb97c09de0df079ca41e10c360c4b5928ac56c496879a2c90c6bbffe4/README.md) |
 
 
-Generated: 07 Jan 23 19:18 UTC
+Generated: 11 Jan 23 23:18 UTC

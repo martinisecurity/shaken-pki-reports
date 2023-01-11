@@ -9,7 +9,7 @@
 - 0.75% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 35ms average time it took to download each certificate
+- 63ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -289,4 +289,4 @@
 | `https://cr.sansay.com/star2star_stirshaken_20220922` | 21&#160;Nov&#160;23&#160;21:15&#160;UTC | true | [view](REPOS/9f19fc9d73b83395796f7e4f0d8a277010ab2fd7/README.md) |
 
 
-Generated: 07 Jan 23 19:18 UTC
+Generated: 11 Jan 23 23:18 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 469A
 
-Tested At: 07 Jan 23 19:08 UTC\
+Tested At: 11 Jan 23 23:07 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -107 day(s)\
+Remaining Validity Period: -112 day(s)\
 Subject: CN=SHAKEN 469A, OU=SHAKEN, O=T3 Communications Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/88814589-ad88-4c53-b3c3-47f8334afb98/65b9c8389b135d2db8bd95e6d1e8c36e.pem
@@ -18,4 +18,4 @@ Link: https://certificates.clearip.com/88814589-ad88-4c53-b3c3-47f8334afb98/65b9
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 07 Jan 23 19:18 UTC
+Generated: 11 Jan 23 23:18 UTC

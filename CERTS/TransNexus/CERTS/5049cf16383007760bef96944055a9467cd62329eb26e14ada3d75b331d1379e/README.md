@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 056J
 
-Tested At: 07 Jan 23 19:08 UTC\
+Tested At: 11 Jan 23 23:07 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -90 day(s)\
+Remaining Validity Period: -94 day(s)\
 Subject: CN=SHAKEN 056J, OU=SHAKEN, O=Telco Experts, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/384afe84-56e7-4f0a-a8f8-9be6e100ab3e/86041b4ca313a03fab1401d13a820e26.pem
@@ -18,4 +18,4 @@ Link: https://certificates.clearip.com/384afe84-56e7-4f0a-a8f8-9be6e100ab3e/8604
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 07 Jan 23 19:18 UTC
+Generated: 11 Jan 23 23:18 UTC

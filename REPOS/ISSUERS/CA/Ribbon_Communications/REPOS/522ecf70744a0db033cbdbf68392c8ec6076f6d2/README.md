@@ -3,8 +3,8 @@
 ## Ribbon Communications
 
 Name: `http://prod001-cr.rbbnidhub.com/MU7B8iqMRz/sign-cert1`\
-Tested At: 07 Jan 23 19:07 UTC\
-Time: 40ms
+Tested At: 11 Jan 23 23:06 UTC\
+Time: 65ms
 
 ### Issues
 
@@ -14,4 +14,4 @@ Time: 40ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_protocol](../../ISSUES/w_atis_protocol/README.md) | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 
-Generated: 07 Jan 23 19:18 UTC
+Generated: 11 Jan 23 23:18 UTC
