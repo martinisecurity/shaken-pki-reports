@@ -19,9 +19,9 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 4.17% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 99 days is the average remaining validity for the certificates in the corpus
+- 98 days is the average remaining validity for the certificates in the corpus
 - 101 days is the average initial validity for the certificates in the corpus
-- 9 certificates expire in the next 30 days
+- 18 certificates expire in the next 30 days
 - 2.00 average number of unexpired certificates per OCN observed
 - 12 unique OCNs observed in unexpired and valid certificate corpus
 
@@ -41,7 +41,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 33.33% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 5417 days is the average remaining validity for the certificates in the corpus
+- 5415 days is the average remaining validity for the certificates in the corpus
 - 4261 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -89,4 +89,4 @@
 | 02&#160;Oct&#160;22&#160;10:40&#160;UTC | Martini Security SHAKEN G2 | 01&#160;Oct&#160;27&#160;10:40&#160;UTC | false | [view](CERTS/bf818ddbd3ae492e4a85331b85b52f4d2cdef8287bf910b59e247b6c132fa7fd/README.md) |
 
 
-Generated: 05 Jan 23 21:05 UTC
+Generated: 11 Jan 23 21:04 UTC

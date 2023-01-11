@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 857J
 
-Tested At: 05 Jan 23 20:59 UTC\
+Tested At: 11 Jan 23 20:57 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 166 day(s)\
+Remaining Validity Period: 160 day(s)\
 Subject: CN=SHAKEN 857J, OU=SHAKEN, O=IEvolve, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://icomm.i-evolve.net/certs/icomm-shaken-sbc01.crt
@@ -18,4 +18,4 @@ Link: https://icomm.i-evolve.net/certs/icomm-shaken-sbc01.crt
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 05 Jan 23 21:05 UTC
+Generated: 11 Jan 23 21:04 UTC

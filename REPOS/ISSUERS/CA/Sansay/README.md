@@ -2,20 +2,20 @@
 
 ## Sansay
 
-- 265 repository URLs were included in the corpus being tested
+- 269 repository URLs were included in the corpus being tested
 - 2 repository URLs in the corpus were skipped because they were duplicated
-- 263 repository URLs being tested against the remaining rules
+- 267 repository URLs being tested against the remaining rules
 - 1.02 issues on average found in non-compliant certificate repository URLs
-- 0.76% of repository URLs contain one or more Error level issue
+- 0.75% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 70ms average time it took to download each certificate
+- 17ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
 | 2 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
 | 2 | [e_http_status_200](ISSUES/e_http_status_200/README.md) | HTTP |
-| 263 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 267 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 | 2 | [w_atis_pem_certificate_chain](ISSUES/w_atis_pem_certificate_chain/README.md) | ATIS-1000080 |
 
 | Repository URLs | Not After |  Problems | Link |
@@ -185,6 +185,8 @@
 | `https://cr.sansay.com/548J/order/231_548J_67` | 28&#160;Jan&#160;23&#160;10:55&#160;UTC | true | [view](REPOS/5af6aa5cedbc6360f852f394757ea83c249d166c/README.md) |
 | `https://cr.sansay.com/548J/order/232_548J_67` | 29&#160;Jan&#160;23&#160;10:50&#160;UTC | true | [view](REPOS/b526fb1635987b905423b18e5f50ae47bfeec58a/README.md) |
 | `https://cr.sansay.com/548J/order/233_548J_67` | 30&#160;Jan&#160;23&#160;10:45&#160;UTC | true | [view](REPOS/0a341b3688da377a5b1a394d68971e1cf3bd4c59/README.md) |
+| `https://cr.sansay.com/548J/order/237_548J_67` | 03&#160;Feb&#160;23&#160;10:25&#160;UTC | true | [view](REPOS/727cdef529a657305992ca3bbaa27273034c11fa/README.md) |
+| `https://cr.sansay.com/548J/order/239_548J_67` | 05&#160;Feb&#160;23&#160;10:15&#160;UTC | true | [view](REPOS/5e4f84256a9465de0b7b60d7a049217cf6532fb1/README.md) |
 | `https://cr.sansay.com/557F/order/63_557F_83` | 15&#160;Oct&#160;22&#160;11:43&#160;UTC | true | [view](REPOS/a0abcc9b8fd7e89a66d9c1a41ab3a9366b1898fc/README.md) |
 | `https://cr.sansay.com/563J_THRESHOLD_COMMUNICATIONS_STIR_SHAKEN.crt` |  | true | [view](REPOS/f85fee560154bc6178b7fedac47bceef56453bb8/README.md) |
 | `https://cr.sansay.com/583j_BROADBAND_DYNAMICS_STIR_SHAKEN.crt` | 02&#160;Feb&#160;23&#160;20:29&#160;UTC | true | [view](REPOS/9fcf0f080d2c0623f2ba9d4b16b53c45beff4223/README.md) |
@@ -232,6 +234,8 @@
 | `https://cr.sansay.com/920J/order/173_920J_66` | 07&#160;Jan&#160;23&#160;10:40&#160;UTC | true | [view](REPOS/e981271023a1cb39914124532b739308f844d142/README.md) |
 | `https://cr.sansay.com/920J/order/177_920J_66` | 11&#160;Jan&#160;23&#160;10:19&#160;UTC | true | [view](REPOS/ca420a6a8571e7688e2e0dd61d234cf642accadc/README.md) |
 | `https://cr.sansay.com/920J/order/182_920J_66` | 16&#160;Jan&#160;23&#160;09:55&#160;UTC | true | [view](REPOS/c1b8a0170f92132a9ddc388f1a607c5c30d0dc9c/README.md) |
+| `https://cr.sansay.com/920J/order/196_920J_66` | 30&#160;Jan&#160;23&#160;08:45&#160;UTC | true | [view](REPOS/79853e4ae354718455e67f6bc3c933d9bebab5af/README.md) |
+| `https://cr.sansay.com/920J/order/200_920J_66` | 03&#160;Feb&#160;23&#160;08:24&#160;UTC | true | [view](REPOS/69945c5b629b313a50b0ce817bdcde98529239b4/README.md) |
 | `https://cr.sansay.com/920J/order/89_920J_66` | 16&#160;Oct&#160;22&#160;03:00&#160;UTC | true | [view](REPOS/5abc3f1a2ff934b111d57decc9eb60d4918287a6/README.md) |
 | `https://cr.sansay.com/ALD_Telecom_780J` | 11&#160;Oct&#160;23&#160;17:08&#160;UTC | true | [view](REPOS/d7ca4fda261fe3e94dbb75583e54a38821563cfb/README.md) |
 | `https://cr.sansay.com/Airespring_996H` | 02&#160;Feb&#160;23&#160;20:58&#160;UTC | true | [view](REPOS/4ddd806de0e836a7bea4f177e1a8c6d6135f0819/README.md) |
@@ -277,7 +281,7 @@
 | `https://cr.sansay.com/Touchtone_683A` | 02&#160;Feb&#160;23&#160;20:38&#160;UTC | true | [view](REPOS/519b6535a072527dcf7fbd5e2ad00bc7ee756b91/README.md) |
 | `https://cr.sansay.com/Vinculum_Communications_Inc_787J` | 26&#160;Oct&#160;23&#160;19:34&#160;UTC | true | [view](REPOS/d675d3ab4e8df68e8afa579ac346f07e3a85bad2/README.md) |
 | `https://cr.sansay.com/VoIP_Innovations_597F` | 02&#160;Feb&#160;23&#160;20:52&#160;UTC | true | [view](REPOS/079477935053ae5bf3a8318a3ff591f0afeffdda/README.md) |
-| `https://cr.sansay.com/Voxox_696J` | 06&#160;Jan&#160;23&#160;13:53&#160;UTC | true | [view](REPOS/a52e7b77dde6d8aed326733d9c76772aa1e1b742/README.md) |
+| `https://cr.sansay.com/Voxox_696J` | 05&#160;Feb&#160;23&#160;16:13&#160;UTC | true | [view](REPOS/a52e7b77dde6d8aed326733d9c76772aa1e1b742/README.md) |
 | `https://cr.sansay.com/Vumber_LLC_225K` | 11&#160;Oct&#160;23&#160;17:22&#160;UTC | true | [view](REPOS/b298e7048f32d89ad5d2c0d97ee7eb0021007e97/README.md) |
 | `https://cr.sansay.com/Ytel_Inc._703J` | 24&#160;Oct&#160;23&#160;21:11&#160;UTC | true | [view](REPOS/7ba25dac8b195364195c6670df8baffa9bbc267e/README.md) |
 | `https://cr.sansay.com/lightspeedvoice` | 12&#160;Oct&#160;23&#160;12:50&#160;UTC | true | [view](REPOS/49de236701ce52b8f9ee805825ec0734461db208/README.md) |
@@ -285,4 +289,4 @@
 | `https://cr.sansay.com/star2star_stirshaken_20220922` | 21&#160;Nov&#160;23&#160;21:15&#160;UTC | true | [view](REPOS/9f19fc9d73b83395796f7e4f0d8a277010ab2fd7/README.md) |
 
 
-Generated: 05 Jan 23 21:05 UTC
+Generated: 11 Jan 23 21:04 UTC

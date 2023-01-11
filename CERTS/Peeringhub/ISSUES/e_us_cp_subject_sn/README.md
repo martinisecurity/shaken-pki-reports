@@ -13,6 +13,7 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
 | error | Voiceterm SHAKEN 240K | [view](../../CERTS/84819934eb8b7f347d7365133dba4376d162d283fa9d09858aa1706ec88487c6/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| error | INSTACALL LLC SHAKEN 281K | [view](../../CERTS/041a6e688301126d43b06dcb801ee00fcd788fcc692f4d234839b1f0d984ad14/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Apex Telecom LLC SHAKEN 288K | [view](../../CERTS/e64593f4d9a81236af33c40c227d728e49418be50e05be2a8b65ec549a3b9275/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | ATI SHAKEN 731J | [view](../../CERTS/bbc0a32743f1e659eff17172cbef96ee8cc3000aeb1dda85e1a47d47391ec3ab/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Teleinx SHAKEN 744J | [view](../../CERTS/743032377136fc18e443399c5fc57e36a5706188f141a522438a806143997925/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
@@ -26,4 +27,4 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 No error, warning, or notice level issues were found
 
 
-Generated: 05 Jan 23 21:05 UTC
+Generated: 11 Jan 23 21:04 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate Neustar Certified Caller ID CA-1
 
-Tested At: 05 Jan 23 21:05 UTC\
+Tested At: 11 Jan 23 21:04 UTC\
 Initial Validity Period: 3653 day(s)\
-Remaining Validity Period: 2453 day(s)\
+Remaining Validity Period: 2447 day(s)\
 Subject: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1\
 Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID Root CA
 
@@ -35,4 +35,4 @@ Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neusta
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 05 Jan 23 21:05 UTC
+Generated: 11 Jan 23 21:04 UTC

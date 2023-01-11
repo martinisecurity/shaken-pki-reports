@@ -2,9 +2,9 @@
 
 ## Certificate Granite
 
-Tested At: 05 Jan 23 20:56 UTC\
+Tested At: 11 Jan 23 20:55 UTC\
 Initial Validity Period: 1096 day(s)\
-Remaining Validity Period: 499 day(s)\
+Remaining Validity Period: 493 day(s)\
 Subject: C=US, ST=MA, L=Quincy, O=Granite Telecom, OU=Granite, CN=Granite\
 Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11282.10179
@@ -28,4 +28,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11282.10179
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 05 Jan 23 21:05 UTC
+Generated: 11 Jan 23 21:04 UTC

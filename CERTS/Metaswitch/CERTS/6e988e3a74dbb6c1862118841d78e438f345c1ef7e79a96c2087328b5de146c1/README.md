@@ -2,9 +2,9 @@
 
 ## Certificate South Central Rural Telecommunications Coop SHAKEN Cert 0418
 
-Tested At: 05 Jan 23 21:03 UTC\
+Tested At: 11 Jan 23 21:02 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 436 day(s)\
+Remaining Validity Period: 430 day(s)\
 Subject: CN=South Central Rural Telecommunications Coop SHAKEN Cert 0418, O=South Central Rural Telecommunications Cooperative, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://sti-cr.cgah.tnsi.com/certs/99b4dd6734c3c1840bfdc0a2014214200e402920
@@ -28,4 +28,4 @@ Link: https://sti-cr.cgah.tnsi.com/certs/99b4dd6734c3c1840bfdc0a2014214200e40292
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 05 Jan 23 21:05 UTC
+Generated: 11 Jan 23 21:04 UTC
