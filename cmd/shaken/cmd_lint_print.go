@@ -589,7 +589,7 @@ func PrintMapList[T interface{}](w io.Writer, m map[string]T) {
 }
 
 func PrintSummaryOCN(w io.Writer, r *CertificateSummaryReport) {
-	fmt.Fprintln(w, "OCN;Org Name;CN;Cert")
+	fmt.Fprintln(w, "OCN,Org Name,CN,Cert")
 	keys := []string{}
 	for k := range r.Leaf.UniqueOCNs {
 		keys = append(keys, k)
@@ -602,13 +602,13 @@ func PrintSummaryOCN(w io.Writer, r *CertificateSummaryReport) {
 			if len(i.Certificate.Subject.Organization) > 0 {
 				name = i.Certificate.Subject.Organization[0]
 			}
-			fmt.Fprintf(w, "%s;%s;%s;%s\n", k, name, i.Certificate.Subject.CommonName, i.Url)
+			fmt.Fprintf(w, "\"%s\",\"%s\",\"%s\",\"%s\"\n", k, name, i.Certificate.Subject.CommonName, i.Url)
 		}
 	}
 }
 
 func PrintSummaryUntrusted(w io.Writer, r *CertificateSummaryReport) {
-	fmt.Fprintln(w, "Org Name;CN;Cert")
+	fmt.Fprintln(w, "Org Name,CN,Cert")
 	keys := []int{}
 	for k, i := range r.Leaf.Skipped {
 		if i.IsUntrusted {
@@ -621,12 +621,12 @@ func PrintSummaryUntrusted(w io.Writer, r *CertificateSummaryReport) {
 		if len(i.Certificate.Subject.Organization) > 0 {
 			name = i.Certificate.Subject.Organization[0]
 		}
-		fmt.Fprintf(w, "%s;%s;%s\n", name, i.Certificate.Subject.CommonName, i.Url)
+		fmt.Fprintf(w, "\"%s\",\"%s\",\"%s\"\n", name, i.Certificate.Subject.CommonName, i.Url)
 	}
 }
 
 func PrintIssuerUntrusted(w io.Writer, r *CertificateIssuerReport) {
-	fmt.Fprintln(w, "OCN;Org Name;CN;Cert")
+	fmt.Fprintln(w, "Org Name,CN,Cert")
 	keys := []int{}
 	for k, i := range r.Skipped {
 		if i.IsUntrusted {
@@ -639,21 +639,21 @@ func PrintIssuerUntrusted(w io.Writer, r *CertificateIssuerReport) {
 		if len(i.Certificate.Subject.Organization) > 0 {
 			name = i.Certificate.Subject.Organization[0]
 		}
-		fmt.Fprintf(w, "%s;%s;%s\n", name, i.Certificate.Subject.CommonName, i.Url)
+		fmt.Fprintf(w, "\"%s\",\"%s\",\"%s\"\n", name, i.Certificate.Subject.CommonName, i.Url)
 	}
 }
 
 func PrintExpireSoon(w io.Writer, r []*LintCommandItem) {
-	fmt.Fprintln(w, "Not After;OCN;Org Name;Cert")
+	fmt.Fprintln(w, "Not After,OCN,Org Name,Cert")
 	for _, i := range r {
 		if i.Url != nil && i.IsExpireSoon {
-			fmt.Fprintf(w, "%s;%s;%s;%s\n", i.Certificate.NotAfter.Format(time.RFC822), internal.GetUniqueOCN(i.Certificate), internal.GetOrganizationName(i.Certificate), i.Url)
+			fmt.Fprintf(w, "\"%s\",\"%s\",\"%s\",\"%s\"\n", i.Certificate.NotAfter.Format(time.RFC822), internal.GetUniqueOCN(i.Certificate), internal.GetOrganizationName(i.Certificate), i.Url)
 		}
 	}
 }
 
 func PrintIssuerOCN(w io.Writer, r *CertificateIssuerReport) {
-	fmt.Fprintln(w, "OCN;Org Name;CN;Cert")
+	fmt.Fprintln(w, "OCN,Org Name,CN,Cert")
 	keys := []string{}
 	for k := range r.UniqueOCNs {
 		keys = append(keys, k)
@@ -666,7 +666,7 @@ func PrintIssuerOCN(w io.Writer, r *CertificateIssuerReport) {
 			if len(i.Certificate.Subject.Organization) > 0 {
 				name = i.Certificate.Subject.Organization[0]
 			}
-			fmt.Fprintf(w, "%s;%s;%s;%s\n", k, name, i.Certificate.Subject.CommonName, i.Url)
+			fmt.Fprintf(w, "\"%s\",\"%s\",\"%s\",\"%s\"\n", k, name, i.Certificate.Subject.CommonName, i.Url)
 		}
 	}
 }
