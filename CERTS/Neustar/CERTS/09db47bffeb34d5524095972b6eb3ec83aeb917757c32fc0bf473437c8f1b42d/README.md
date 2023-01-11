@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 597F
 
-Tested At: 11 Jan 23 20:57 UTC\
+Tested At: 11 Jan 23 21:53 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 70 day(s)\
 Subject: CN=SHAKEN 597F, O=VoIP Innovations, C=US\
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/df5936cc4f0da18288b02b726643bd9c728f6c51
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 11 Jan 23 21:04 UTC
+Generated: 11 Jan 23 21:59 UTC

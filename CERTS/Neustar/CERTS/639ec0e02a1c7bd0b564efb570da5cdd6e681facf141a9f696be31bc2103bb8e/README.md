@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 005K
 
-Tested At: 11 Jan 23 20:57 UTC\
+Tested At: 11 Jan 23 21:52 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 119 day(s)\
 Subject: CN=SHAKEN 005K, O=PrimeVOX Communications, C=US\
@@ -18,4 +18,4 @@ Link: https://pvx1.s3.us-east-2.amazonaws.com/stirshaken/8448cc7eb8424d6ad5d2e6d
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 11 Jan 23 21:04 UTC
+Generated: 11 Jan 23 21:59 UTC

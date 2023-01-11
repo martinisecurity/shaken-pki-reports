@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 775J
 
-Tested At: 11 Jan 23 20:57 UTC\
+Tested At: 11 Jan 23 21:53 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -27 day(s)\
 Subject: CN=SHAKEN 775J, O=Voip Stir PR LLC, C=US\
@@ -25,4 +25,4 @@ Link: https://ssc.getsipnav.com/certs/ffad5de97793861e660be844cf52d740aa256d7d
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 11 Jan 23 21:04 UTC
+Generated: 11 Jan 23 21:59 UTC

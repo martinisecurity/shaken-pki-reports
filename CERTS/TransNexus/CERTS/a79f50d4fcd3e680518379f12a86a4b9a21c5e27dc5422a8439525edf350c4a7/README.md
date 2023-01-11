@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 815G
 
-Tested At: 11 Jan 23 20:38 UTC\
+Tested At: 11 Jan 23 21:48 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: -1 day(s)\
 Subject: CN=SHAKEN 815G, OU=SHAKEN, O=382 Communications, C=US\
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/815G/c147c307-645b-4fcd-99d0-2be9a709b
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 11 Jan 23 21:04 UTC
+Generated: 11 Jan 23 21:59 UTC

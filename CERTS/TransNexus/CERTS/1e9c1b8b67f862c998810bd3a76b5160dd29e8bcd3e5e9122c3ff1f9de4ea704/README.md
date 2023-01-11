@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 9714
 
-Tested At: 11 Jan 23 20:37 UTC\
+Tested At: 11 Jan 23 21:48 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -55 day(s)\
 Subject: CN=SHAKEN 9714, OU=SHAKEN, O=Grid4 Communications, C=US\
@@ -17,4 +17,4 @@ Link: https://certificates.clearip.com/51a37c7a-5af2-439d-94ce-677fa750ee2f/e7c4
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 11 Jan 23 21:04 UTC
+Generated: 11 Jan 23 21:59 UTC

@@ -11,26 +11,26 @@
 
 - 1004 certificates were included in the corpus being tested
 - 1 certificates in the corpus were skipped because they are duplicates
-- 972 certificates in the corpus were skipped because they are expired
+- 973 certificates in the corpus were skipped because they are expired
 - 1 certificates in the corpus were skipped because they are not currently trusted
-- 30 certificates being tested against the remaining rules
-- 2.00 issues on average found in unexpired, trusted, and non-compliant certificates
+- 29 certificates being tested against the remaining rules
+- 2.03 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
-- 40.00% of certificates contain one or more Warning level issue
+- 41.38% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
-- 3.33% of certificates are too old to be assessed against currently enforced expectations
-- 161 days is the average remaining validity for the certificates in the corpus
-- 164 days is the average initial validity for the certificates in the corpus
-- 15 certificates expire in the next 30 days
+- 3.45% of certificates are too old to be assessed against currently enforced expectations
+- 166 days is the average remaining validity for the certificates in the corpus
+- 169 days is the average initial validity for the certificates in the corpus
+- 14 certificates expire in the next 30 days
 - 1.07 average number of unexpired certificates per OCN observed
-- 28 unique OCNs observed in unexpired and valid certificate corpus
+- 27 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
 | 3 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
 | 12 | [e_incorrect_ku_encoding](ISSUES/e_incorrect_ku_encoding/README.md) | RFC5280 |
 | 3 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 30 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 29 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
 | 12 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
@@ -83,7 +83,6 @@
 | 30&#160;Dec&#160;22&#160;18:15&#160;UTC | SHAKEN 952J | 29&#160;Jan&#160;23&#160;18:15&#160;UTC | true | [view](CERTS/044daf68cdb455f9fa3bb1b40256824bc3915431742054b6dcd66ef7e4516119/README.md) |
 | 31&#160;Dec&#160;22&#160;03:33&#160;UTC | SHAKEN 8526 | 31&#160;Dec&#160;23&#160;03:33&#160;UTC | true | [view](CERTS/96672cb8cc7c71e38d9e6350eac6c4f5c430c1eefeabe00cc095527e20a20c9b/README.md) |
 | 04&#160;Jan&#160;23&#160;00:13&#160;UTC | SHAKEN 841J | 18&#160;Jan&#160;23&#160;00:13&#160;UTC | true | [view](CERTS/404d2f2770d0c3eebdd8196d210b40fed9b2ab8165b097a71d4f8a59a76f4371/README.md) |
-| 04&#160;Jan&#160;23&#160;21:48&#160;UTC | SHAKEN 606F | 11&#160;Jan&#160;23&#160;21:48&#160;UTC | true | [view](CERTS/da6fddb87fe7282a51f743e97cd631d8b49037a13e73ba19fa358c512d771074/README.md) |
 | 05&#160;Jan&#160;23&#160;01:45&#160;UTC | SHAKEN 278K | 12&#160;Jan&#160;23&#160;01:45&#160;UTC | true | [view](CERTS/548e7087ebad0fdece5ac3b8068ec9d7de0cb41fbc8ff94a092a3db350d1eece/README.md) |
 | 05&#160;Jan&#160;23&#160;14:39&#160;UTC | SHAKEN 2550 | 12&#160;Jan&#160;23&#160;14:39&#160;UTC | true | [view](CERTS/ff0dfd9578ca50491fbcd45e1609c7a4c7a3cd1de9e8410a779b1c04f525415c/README.md) |
 | 05&#160;Jan&#160;23&#160;15:50&#160;UTC | SHAKEN 722J | 04&#160;Feb&#160;23&#160;15:50&#160;UTC | true | [view](CERTS/6707ea8caeed61aaa9c0489a5b1434622a9c938978f1bea4d2ea7fc5dbd81586/README.md) |
@@ -103,4 +102,4 @@
 | 24&#160;Oct&#160;22&#160;00:00&#160;UTC | TransNexus, Inc. SHAKEN Root CA2 | 23&#160;Oct&#160;42&#160;23:59&#160;UTC | false | [view](CERTS/a26e04fc786ab70b8085236b2c53f8cfbf5d0c6a5c2c9c3e9f91669fbb8ea4d5/README.md) |
 
 
-Generated: 11 Jan 23 21:04 UTC
+Generated: 11 Jan 23 21:59 UTC

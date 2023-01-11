@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 048K
 
-Tested At: 11 Jan 23 20:57 UTC\
+Tested At: 11 Jan 23 21:52 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: 34 day(s)\
 Subject: O=Arbuckle Communications\\, LLC, C=US, serialNumber=DF796CBFD1C7701EB33C2322E68D0426, CN=SHAKEN 048K\
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/SyNSWX3rxz2w.pem
 149 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 11 Jan 23 21:04 UTC
+Generated: 11 Jan 23 21:59 UTC

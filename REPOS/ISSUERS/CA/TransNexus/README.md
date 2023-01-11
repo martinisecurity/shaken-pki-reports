@@ -9,7 +9,7 @@
 - 0.00% of repository URLs contain one or more Error level issue
 - 0.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 31ms average time it took to download each certificate
+- 10ms average time it took to download each certificate
 
 No error, warning, or notice level issues were found
 
@@ -1016,4 +1016,4 @@ No error, warning, or notice level issues were found
 | `https://certificates.transnexus.com/982J/67114917-cec2-44d2-9a5e-b92c8638fc4e.pem` | 27&#160;Dec&#160;22&#160;14:32&#160;UTC | false | [view](REPOS/e4de4b5c3034090231cf6171830b63cf401df5ad/README.md) |
 
 
-Generated: 11 Jan 23 21:04 UTC
+Generated: 11 Jan 23 21:59 UTC

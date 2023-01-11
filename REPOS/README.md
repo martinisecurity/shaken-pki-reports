@@ -9,9 +9,9 @@
 - 1622 repository URLs being tested against the remaining rules
 - 1.57 issues on average found in non-compliant certificate repository URLs
 - 19.73% of repository URLs contain one or more Error level issue
-- 36.07% of repository URLs contain one or more Warning level issue
+- 36.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 153ms average time it took to download each certificate
+- 148ms average time it took to download each certificate
 
 ### CA Operated Repository URLs
 
@@ -22,18 +22,18 @@
 - 15.49% of repository URLs contain one or more Error level issue
 - 32.81% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 123ms average time it took to download each certificate
+- 108ms average time it took to download each certificate
 
 ### Service Provider Operated Repository URLs
 
 - 117 repository URLs were included in the corpus being tested
 - 25 repository URLs in the corpus were skipped because they were duplicated
 - 92 repository URLs being tested against the remaining rules
-- 2.08 issues on average found in non-compliant certificate repository URLs
+- 2.07 issues on average found in non-compliant certificate repository URLs
 - 90.22% of repository URLs contain one or more Error level issue
-- 90.22% of repository URLs contain one or more Warning level issue
+- 89.13% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 643ms average time it took to download each certificate
+- 813ms average time it took to download each certificate
 
 ## Details
 
@@ -86,7 +86,6 @@
 | [Falcon Endeavors](ISSUERS/SP/Falcon_Endeavors/README.md) | 1 (1.09%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [FaxLogic LLC](ISSUERS/SP/FaxLogic_LLC/README.md) | 1 (1.09%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Fibernetics](ISSUERS/SP/Fibernetics/README.md) | 1 (1.09%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [FracTEL LLC](ISSUERS/SP/FracTEL_LLC/README.md) | 1 (1.09%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Freevoice](ISSUERS/SP/Freevoice/README.md) | 1 (1.09%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [GoTo Communications Inc](ISSUERS/SP/GoTo_Communications_Inc/README.md) | 1 (1.09%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Google](ISSUERS/SP/Google/README.md) | 4 (4.35%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
@@ -124,7 +123,7 @@
 | [TextNow Inc.](ISSUERS/SP/TextNow_Inc./README.md) | 1 (1.09%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [TransNexus](ISSUERS/SP/TransNexus/README.md) | 1 (1.09%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [U. S. Telepacific Corp](ISSUERS/SP/U._S._Telepacific_Corp/README.md) | 1 (1.09%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [Unknown](ISSUERS/SP/Unknown/README.md) | 6 (6.52%) | 6 (100.00%) | 4 (66.67%) | 0 (0.00%) |
+| [Unknown](ISSUERS/SP/Unknown/README.md) | 7 (7.61%) | 7 (100.00%) | 4 (57.14%) | 0 (0.00%) |
 | [VOIP ESSENTIAL INC](ISSUERS/SP/VOIP_ESSENTIAL_INC/README.md) | 0 (0.00%) | 0 (NaN%) | 0 (NaN%) | 0 (NaN%) |
 | [Verizon Data Services LLC](ISSUERS/SP/Verizon_Data_Services_LLC/README.md) | 1 (1.09%) | 0 (0.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Vibratel](ISSUERS/SP/Vibratel/README.md) | 1 (1.09%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -137,7 +136,7 @@
 | [XCast Labs](ISSUERS/SP/XCast_Labs/README.md) | 5 (5.43%) | 5 (100.00%) | 5 (100.00%) | 0 (0.00%) |
 | [Ytel Inc.](ISSUERS/SP/Ytel_Inc./README.md) | 1 (1.09%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Zultys Inc](ISSUERS/SP/Zultys_Inc/README.md) | 1 (1.09%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| **Total** | 92 (100.00%) | 83 (90.22%) | 83 (90.22%) | 0 (0.00%) |
+| **Total** | 92 (100.00%) | 83 (90.22%) | 82 (89.13%) | 0 (0.00%) |
 
 ### Key
 
@@ -148,4 +147,4 @@
 | Notices | Tests in which industry best practices are not followed. |
 
 
-Generated: 11 Jan 23 21:04 UTC
+Generated: 11 Jan 23 21:59 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 899J
 
-Tested At: 11 Jan 23 20:57 UTC\
+Tested At: 11 Jan 23 21:53 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 7 day(s)\
 Subject: CN=SHAKEN 899J, O=Telco Connection, C=US\
@@ -13,9 +13,9 @@ Link: https://ssc.getsipnav.com/certs/a80448b68598a8d87c75bf6df015f9f2a30ae551
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
-| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 11 Jan 23 21:04 UTC
+Generated: 11 Jan 23 21:59 UTC

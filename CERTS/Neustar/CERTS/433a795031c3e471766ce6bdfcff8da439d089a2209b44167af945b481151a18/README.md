@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 785J
 
-Tested At: 11 Jan 23 20:57 UTC\
+Tested At: 11 Jan 23 21:53 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 22 day(s)\
 Subject: CN=SHAKEN 785J, O=Range Telecom, C=US\
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/907a99e8008aa590695697cee73d401d4ef33451
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 11 Jan 23 21:04 UTC
+Generated: 11 Jan 23 21:59 UTC

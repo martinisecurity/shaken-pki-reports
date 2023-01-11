@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 771J
 
-Tested At: 11 Jan 23 20:36 UTC\
+Tested At: 11 Jan 23 21:47 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 183 day(s)\
 Subject: CN=SHAKEN 771J, O=LATAM Telecommunications LLC, C=US\
@@ -18,4 +18,4 @@ Link: https://187.174.67.118:8080/7075515eb2d150fc98c43e794c07bbca.cer
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 11 Jan 23 21:04 UTC
+Generated: 11 Jan 23 21:59 UTC

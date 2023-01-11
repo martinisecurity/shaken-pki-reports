@@ -15,7 +15,6 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 | error | SHAKEN 4036 | [view](../../CERTS/e03ff4259e6b456f1bb19d011f005932e83b0a35b520730c97cd77ad8868071c/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN 2550 | [view](../../CERTS/ff0dfd9578ca50491fbcd45e1609c7a4c7a3cd1de9e8410a779b1c04f525415c/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN 278K | [view](../../CERTS/548e7087ebad0fdece5ac3b8068ec9d7de0cb41fbc8ff94a092a3db350d1eece/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| error | SHAKEN 606F | [view](../../CERTS/da6fddb87fe7282a51f743e97cd631d8b49037a13e73ba19fa358c512d771074/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN 177K | [view](../../CERTS/5f57d0a3ab4a74ce18851a50276f6331fdf6cea00dd0e262d37ba06600a901d1/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN 186K | [view](../../CERTS/0401494275b7a3ba436d8669e461c131e87ad6a488d26efe9428261851cc04d4/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | SHAKEN 311H | [view](../../CERTS/c6cb968670633b1daa2a4dff8b3511647c12e9a13afeccc87a3496942320eb52/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
@@ -48,4 +47,4 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 No error, warning, or notice level issues were found
 
 
-Generated: 11 Jan 23 21:04 UTC
+Generated: 11 Jan 23 21:59 UTC

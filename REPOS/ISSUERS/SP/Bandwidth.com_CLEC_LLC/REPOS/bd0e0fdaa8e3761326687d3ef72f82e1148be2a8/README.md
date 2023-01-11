@@ -3,8 +3,8 @@
 ## Bandwidth.com CLEC LLC
 
 Name: `https://bw-shaken-cert-pub.s3.amazonaws.com/bandwidth-shaken-cert_20230716.pem`\
-Tested At: 11 Jan 23 20:37 UTC\
-Time: 318ms
+Tested At: 11 Jan 23 21:47 UTC\
+Time: 57ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 318ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 11 Jan 23 21:04 UTC
+Generated: 11 Jan 23 21:59 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 074K
 
-Tested At: 11 Jan 23 20:36 UTC\
+Tested At: 11 Jan 23 21:47 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 198 day(s)\
 Subject: CN=SHAKEN 074K, O=Coztel Carrier, C=US\
@@ -18,4 +18,4 @@ Link: http://5.161.95.22/191c4c42dd7fa6115e84100637e42c99.cer
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 11 Jan 23 21:04 UTC
+Generated: 11 Jan 23 21:59 UTC

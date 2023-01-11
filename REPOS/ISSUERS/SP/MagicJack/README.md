@@ -9,7 +9,7 @@
 - 0.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 345ms average time it took to download each certificate
+- 63ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -20,4 +20,4 @@
 | `https://cr-east1.sansay.com/MagicJack_324E.crt` | 29&#160;Nov&#160;23&#160;22:04&#160;UTC | true | [view](REPOS/4f048fcfaabf07ec664f4dd877a5470bca64d6e9/README.md) |
 
 
-Generated: 11 Jan 23 21:04 UTC
+Generated: 11 Jan 23 21:59 UTC
