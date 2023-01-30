@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Quality Voice & Data Inc. 548J
 
-Tested At: 11 Jan 23 23:09 UTC\
+Tested At: 30 Jan 23 23:02 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -35 day(s)\
+Remaining Validity Period: -54 day(s)\
 Subject: emailAddress=kelsey@qualityvoicedata.com, CN=SHAKEN Quality Voice & Data Inc. 548J, OU=Quality Voice & Data, O=Quality Voice & Data Inc., ST=Nebraska, C=US, emailAddress=kelsey@qualityvoicedata.com\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/548J/order/179_548J_67
@@ -21,4 +21,4 @@ Link: https://cr.sansay.com/548J/order/179_548J_67
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 518J
 
-Tested At: 11 Jan 23 23:08 UTC\
+Tested At: 30 Jan 23 23:01 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -28 day(s)\
+Remaining Validity Period: -47 day(s)\
 Subject: CN=SHAKEN 518J, O=TransNexus\\, Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/transnexus/308a0ae5e511d648685cb5ca65fae4ef.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/transnexus/308a0ae5e511d648685cb5ca65fae4
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

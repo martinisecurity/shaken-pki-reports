@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 674J
 
-Tested At: 11 Jan 23 23:07 UTC\
+Tested At: 30 Jan 23 22:59 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -43 day(s)\
+Remaining Validity Period: -62 day(s)\
 Subject: CN=SHAKEN 674J, O=Panterra Networks Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/0b98ecf4-0a43-4b89-8fc0-8e029d8258fa/2426450e12882fefa1a9a2623c6417ad.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/0b98ecf4-0a43-4b89-8fc0-8e029d8258fa/2426
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

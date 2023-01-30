@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 753J
 
-Tested At: 11 Jan 23 23:07 UTC\
+Tested At: 30 Jan 23 23:01 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -29 day(s)\
+Remaining Validity Period: -48 day(s)\
 Subject: CN=SHAKEN 753J, O=Senawave Communications\\, Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/ec37fdce-f409-4bc8-89e7-bd7f2679e0c8/c31045ef238040fe22b9bf95541db9f5.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/ec37fdce-f409-4bc8-89e7-bd7f2679e0c8/c310
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

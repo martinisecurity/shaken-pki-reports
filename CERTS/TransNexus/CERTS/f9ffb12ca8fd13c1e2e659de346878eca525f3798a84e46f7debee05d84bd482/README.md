@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0226
 
-Tested At: 11 Jan 23 23:07 UTC\
+Tested At: 30 Jan 23 23:01 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -82 day(s)\
+Remaining Validity Period: -101 day(s)\
 Subject: CN=SHAKEN 0226, OU=SHAKEN, O=Lumos Networks, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/f8a68e44-8fb0-4f28-b533-c4df27ed8e1b/7d433f8fe2c5066e7eb9f730ccfa4536.pem
@@ -18,4 +18,4 @@ Link: https://certificates.clearip.com/f8a68e44-8fb0-4f28-b533-c4df27ed8e1b/7d43
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

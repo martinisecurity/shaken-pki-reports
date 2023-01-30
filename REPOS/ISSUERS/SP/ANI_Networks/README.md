@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 82ms average time it took to download each certificate
+- 92ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://certs.iverify-aninetworks.net/aninetworks_20220405.crt` | 05&#160;Apr&#160;23&#160;12:53&#160;UTC | true | [view](REPOS/fb310db347b980fa23ce2f13491bcfb22353a09c/README.md) |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

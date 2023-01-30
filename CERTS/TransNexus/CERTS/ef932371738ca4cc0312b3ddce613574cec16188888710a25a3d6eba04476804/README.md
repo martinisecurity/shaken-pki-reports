@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1821
 
-Tested At: 11 Jan 23 23:07 UTC\
+Tested At: 30 Jan 23 23:00 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -85 day(s)\
+Remaining Validity Period: -104 day(s)\
 Subject: CN=SHAKEN 1821, OU=SHAKEN, O=InPhonex.com\\, LLC., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/4eed3a39-8f41-4acb-9b86-42a558b3455a/a800a09771486ab5f1f6b2de2cffc00c.pem
@@ -18,4 +18,4 @@ Link: https://certificates.clearip.com/4eed3a39-8f41-4acb-9b86-42a558b3455a/a800
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

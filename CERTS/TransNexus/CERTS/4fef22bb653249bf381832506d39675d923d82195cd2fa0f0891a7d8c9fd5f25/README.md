@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 052K
 
-Tested At: 11 Jan 23 23:07 UTC\
+Tested At: 30 Jan 23 23:00 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -17 day(s)\
+Remaining Validity Period: -36 day(s)\
 Subject: CN=SHAKEN 052K, O=KassNet\\, Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/6814c282-6a92-4f7e-8103-d6485933d76b/0fc091ea739db7ec87bd5f9e2d6bf347.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/6814c282-6a92-4f7e-8103-d6485933d76b/0fc0
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 674J
 
-Tested At: 11 Jan 23 23:07 UTC\
+Tested At: 30 Jan 23 22:59 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -94 day(s)\
+Remaining Validity Period: -113 day(s)\
 Subject: CN=SHAKEN 674J, OU=SHAKEN, O=Panterra Networks Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/0b98ecf4-0a43-4b89-8fc0-8e029d8258fa/3e325d475b55650db218201479f9e444.pem
@@ -18,4 +18,4 @@ Link: https://certificates.clearip.com/0b98ecf4-0a43-4b89-8fc0-8e029d8258fa/3e32
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

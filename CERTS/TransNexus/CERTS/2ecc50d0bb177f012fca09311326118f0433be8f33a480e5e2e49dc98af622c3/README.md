@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 793J
 
-Tested At: 11 Jan 23 23:07 UTC\
+Tested At: 30 Jan 23 23:00 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -18 day(s)\
+Remaining Validity Period: -37 day(s)\
 Subject: CN=SHAKEN 793J, O=UniTel Voice, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/45c216c2-fbb9-4f33-a3cf-6a64aad19357/e8ccebf014c5bb3b49cce9340744b89d.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/45c216c2-fbb9-4f33-a3cf-6a64aad19357/e8cc
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

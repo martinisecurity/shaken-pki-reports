@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 625J
 
-Tested At: 11 Jan 23 23:07 UTC\
+Tested At: 30 Jan 23 23:00 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -16 day(s)\
+Remaining Validity Period: -35 day(s)\
 Subject: CN=SHAKEN 625J, O=Victory Telecom Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/b7343686-5ed8-402c-89a3-8bf1a3d48975/816578161850a5cb946bb25c1cbbe57b.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/b7343686-5ed8-402c-89a3-8bf1a3d48975/8165
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

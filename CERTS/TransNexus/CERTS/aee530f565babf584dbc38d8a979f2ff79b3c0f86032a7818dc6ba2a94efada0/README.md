@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 120K
 
-Tested At: 11 Jan 23 23:07 UTC\
+Tested At: 30 Jan 23 23:00 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -33 day(s)\
+Remaining Validity Period: -52 day(s)\
 Subject: CN=SHAKEN 120K, O=VC3, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/bcb89748-38e2-45ae-8b54-7efd23525de2/3b48b222d81f28e3be5d312f80c29a3a.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/bcb89748-38e2-45ae-8b54-7efd23525de2/3b48
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

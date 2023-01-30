@@ -11,6 +11,7 @@
 | 25&#160;Oct&#160;22&#160;01:08&#160;UTC | Google SHAKEN cert 969H | 24&#160;Nov&#160;22&#160;01:08&#160;UTC | true | [view](../CERTS/ea9be023aa06e4b6606c9048a6ccace9a16100695fe5b5747654a521d7acfc56/README.md) |
 | 02&#160;Nov&#160;22&#160;13:58&#160;UTC | Google SHAKEN cert 969H | 02&#160;Dec&#160;22&#160;13:58&#160;UTC | true | [view](../CERTS/ac89ca8ee8dd2dad340232968a8cdcc5a613a485c108f8f14f14bd8cbbc1433e/README.md) |
 | 25&#160;Nov&#160;22&#160;14:58&#160;UTC | Google SHAKEN cert 969H | 25&#160;Dec&#160;22&#160;14:58&#160;UTC | true | [view](../CERTS/e1251a1603758cd7ddbc547003ff1957ea712ce12564b1d2d905c17482009edf/README.md) |
+| 18&#160;Dec&#160;22&#160;14:59&#160;UTC | Google SHAKEN cert 969H | 17&#160;Jan&#160;23&#160;14:59&#160;UTC | true | [view](../CERTS/6f97b41760bbb78a17309694eb34e5a0b896c78bfea22fae23731f3b2bc7bcea/README.md) |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

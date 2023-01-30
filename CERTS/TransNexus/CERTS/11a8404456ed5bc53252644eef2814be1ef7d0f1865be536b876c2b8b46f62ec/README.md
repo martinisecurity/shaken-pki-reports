@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 366G
 
-Tested At: 11 Jan 23 23:07 UTC\
+Tested At: 30 Jan 23 23:00 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -64 day(s)\
+Remaining Validity Period: -83 day(s)\
 Subject: CN=SHAKEN 366G, OU=SHAKEN, O=USA Digital, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/5a565c0f-433a-4bce-b57c-868e3e7b3002/cacc9bd3efa15009de141b3b3321d9da.pem
@@ -13,8 +13,8 @@ Link: https://certificates.clearip.com/5a565c0f-433a-4bce-b57c-868e3e7b3002/cacc
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

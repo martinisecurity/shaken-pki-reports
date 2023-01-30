@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 107K
 
-Tested At: 11 Jan 23 23:07 UTC\
+Tested At: 30 Jan 23 23:00 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -37 day(s)\
+Remaining Validity Period: -56 day(s)\
 Subject: CN=SHAKEN 107K, O=Atheral, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/4ba6f296-2d7c-42c2-8fe4-12b74f5076df/5fa6fb3491ebd72a465e7da815239f2a.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/4ba6f296-2d7c-42c2-8fe4-12b74f5076df/5fa6
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

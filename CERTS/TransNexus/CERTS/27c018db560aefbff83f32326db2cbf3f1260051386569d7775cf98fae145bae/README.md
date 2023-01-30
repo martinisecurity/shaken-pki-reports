@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 345J
 
-Tested At: 11 Jan 23 23:08 UTC\
+Tested At: 30 Jan 23 23:01 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -51 day(s)\
+Remaining Validity Period: -70 day(s)\
 Subject: CN=SHAKEN 345J, OU=SHAKEN, O=Ooma Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/345J/84bd095a-afff-4ef9-bb30-3061e3e407cb.pem
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/345J/84bd095a-afff-4ef9-bb30-3061e3e40
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

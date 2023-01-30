@@ -9,30 +9,30 @@
 
 #### Leaf Certificates
 
-- 37 certificates were included in the corpus being tested
+- 40 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 37 certificates being tested against the remaining rules
-- 4.14 issues on average found in unexpired, trusted, and non-compliant certificates
+- 40 certificates being tested against the remaining rules
+- 4.15 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
-- 2.70% of certificates contain one or more Warning level issue
+- 2.50% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
-- 91.89% of certificates are too old to be assessed against currently enforced expectations
-- 1077 days is the average remaining validity for the certificates in the corpus
+- 87.50% of certificates are too old to be assessed against currently enforced expectations
+- 1078 days is the average remaining validity for the certificates in the corpus
 - 1095 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 - 1.00 average number of unexpired certificates per OCN observed
-- 37 unique OCNs observed in unexpired and valid certificate corpus
+- 40 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 37 | [e_atis_issuer_dn](ISSUES/e_atis_issuer_dn/README.md) | ATIS1000080 |
-| 37 | [e_atis_key_usage](ISSUES/e_atis_key_usage/README.md) | ATIS1000080 |
+| 40 | [e_atis_issuer_dn](ISSUES/e_atis_issuer_dn/README.md) | ATIS1000080 |
+| 40 | [e_atis_key_usage](ISSUES/e_atis_key_usage/README.md) | ATIS1000080 |
 | 1 | [e_atis_subject](ISSUES/e_atis_subject/README.md) | ATIS1000080 |
-| 3 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
-| 37 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 37 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 4 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
+| 40 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
+| 40 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
 | 1 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
@@ -47,7 +47,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 6068 days is the average remaining validity for the certificates in the corpus
+- 6061 days is the average remaining validity for the certificates in the corpus
 - 5840 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -89,14 +89,17 @@
 | 11&#160;Jun&#160;21&#160;16:14&#160;UTC | Carolina West Wireless SHAKEN Cert 5932 | 10&#160;Jun&#160;24&#160;16:14&#160;UTC | true | [view](CERTS/e85dec068c9fa23af68b345257d58269303c925d10fc9101b226d1e0e7d62a9d/README.md) |
 | 15&#160;Jun&#160;21&#160;13:56&#160;UTC | ENA SHAKEN cert 521F | 14&#160;Jun&#160;24&#160;13:56&#160;UTC | true | [view](CERTS/a5293c77ed92fdeef1aeff04f6bed7932a6083abc55d03d74a3ec5b817fdba2b/README.md) |
 | 21&#160;Jun&#160;21&#160;15:05&#160;UTC | Buckeye SHAKEN Cert 7608 | 20&#160;Jun&#160;24&#160;15:05&#160;UTC | true | [view](CERTS/61a18f942b4df978a21d6e9cf1df2f0cea0dbd9609b1fcfec8c5f97d5c6dcd7e/README.md) |
+| 24&#160;Jun&#160;21&#160;22:33&#160;UTC | Hawaiian Telcom SHAKEN Cert 009G | 23&#160;Jun&#160;24&#160;22:33&#160;UTC | true | [view](CERTS/51136b93b3f0cdaef7856044881e5abc0747fe2b4d9a3202f78266ab5228a41d/README.md) |
 | 30&#160;Jun&#160;21&#160;16:55&#160;UTC | Sonic Telecom SHAKEN cert 433E | 29&#160;Jun&#160;24&#160;16:55&#160;UTC | true | [view](CERTS/a5082b808b3bf200a634e273b7988a617099c9c897a9c596858e6d4ffe4fd352/README.md) |
 | 30&#160;Jun&#160;21&#160;16:59&#160;UTC | Utility SHAKEN Cert 9262 | 29&#160;Jun&#160;24&#160;16:59&#160;UTC | true | [view](CERTS/97acbe1f0c7b2ceb99bec93a9da9ff2c1fd55e9a4cd78a32160237751f720236/README.md) |
 | 20&#160;Jul&#160;21&#160;19:54&#160;UTC | New Horizon SHAKEN Cert 127E | 19&#160;Jul&#160;24&#160;19:54&#160;UTC | true | [view](CERTS/5b2842e49ecc543187018171fa660e32bdba390a7977c0de97a00aef35b8ae01/README.md) |
 | 23&#160;Jul&#160;21&#160;16:59&#160;UTC | Tri-County Telephone Association Inc SHAKEN Cert 2296 | 22&#160;Jul&#160;24&#160;16:59&#160;UTC | true | [view](CERTS/059194bbdc7ecfd6fc3d30b071e4d73565e14360c7a9d19c60f9274ec1025d0f/README.md) |
 | 30&#160;Jul&#160;21&#160;17:16&#160;UTC | Syringa Networks SHAKEN Cert 5869 | 29&#160;Jul&#160;24&#160;17:16&#160;UTC | true | [view](CERTS/5b9b091228790e797adf24925cd1f2508b8372b744611f843a8026a703993d5a/README.md) |
 | 16&#160;Sep&#160;21&#160;13:09&#160;UTC | CTS Telecom, Inc SHAKEN Cert 8331 | 15&#160;Sep&#160;24&#160;13:09&#160;UTC | true | [view](CERTS/5c9f6132a96a05a58d02d845ee70e914659682623fb98acbbecd9f8e383dcbec/README.md) |
+| 02&#160;Mar&#160;22&#160;17:52&#160;UTC | Valley Telephone Cooperative Inc / VTX1 SHAKEN 2159 | 01&#160;Mar&#160;25&#160;17:52&#160;UTC | true | [view](CERTS/f0883d130f625c1b8157e54e090e4df461fd9afc05aff09d5a08cf50f9cd37aa/README.md) |
 | 05&#160;May&#160;22&#160;14:14&#160;UTC | Kaplan Telephone SHAKEN cert 0432 | 04&#160;May&#160;25&#160;14:14&#160;UTC | true | [view](CERTS/24c1b7c4dc4aeda21b5d1c5ff7f059903693c4a8b67ecc054ef05542a2ff4c35/README.md) |
 | 07&#160;Jun&#160;22&#160;12:24&#160;UTC | Avid Communication SHAKEN Cert 742D | 06&#160;Jun&#160;25&#160;12:24&#160;UTC | true | [view](CERTS/b63d54026dfcdfd16495ad6fdda8993de182c86b4aa870784177c38c53842cba/README.md) |
+| 02&#160;Aug&#160;22&#160;10:43&#160;UTC | Encore Communications SHAKEN Cert 956H | 01&#160;Aug&#160;25&#160;10:43&#160;UTC | true | [view](CERTS/cc63709890efdf1d938ab01b88b7d4f8368361ffd8572f46cd707e5b3807c95f/README.md) |
 | 12&#160;Oct&#160;22&#160;17:52&#160;UTC | Northeast Oklahoma Electric Cooperative SHAKEN Cert 945H | 11&#160;Oct&#160;25&#160;17:52&#160;UTC | true | [view](CERTS/b399b86f53e35dfa37c4cd7b28ee0132d934ef73354f564636d8edee42d58ccd/README.md) |
 
 #### CA Certificates
@@ -107,4 +110,4 @@
 | 25&#160;Nov&#160;20&#160;11:57&#160;UTC | Metaswitch STI-CA SHAKEN Issuing 1 | 22&#160;Nov&#160;32&#160;11:57&#160;UTC | true | [view](CERTS/b91a9874fbefc3feda9d5f9bd336e8b999c9b15b25aae7fe3c61d87373a5d1a1/README.md) |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 278K
 
-Tested At: 11 Jan 23 23:07 UTC\
+Tested At: 30 Jan 23 23:00 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -8 day(s)\
+Remaining Validity Period: -27 day(s)\
 Subject: CN=SHAKEN 278K, O=OIT, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/36952c34-78d8-4c32-9499-188a418f31ba/03fa7d73981995371959f944ee2a4bda.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/36952c34-78d8-4c32-9499-188a418f31ba/03fa
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

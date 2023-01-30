@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 606F
 
-Tested At: 11 Jan 23 23:07 UTC\
+Tested At: 30 Jan 23 23:00 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -66 day(s)\
+Remaining Validity Period: -85 day(s)\
 Subject: CN=SHAKEN 606F, OU=SHAKEN, O=Global Data Systems Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/756cb700-f9d2-4a05-850e-c9dfe3e22de4/dccffbc5c2aa54f5f8526ca234e29830.pem
@@ -17,4 +17,4 @@ Link: https://certificates.clearip.com/756cb700-f9d2-4a05-850e-c9dfe3e22de4/dccf
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

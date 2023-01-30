@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1680
 
-Tested At: 11 Jan 23 23:07 UTC\
+Tested At: 30 Jan 23 23:00 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -37 day(s)\
+Remaining Validity Period: -56 day(s)\
 Subject: CN=SHAKEN 1680, O=SDN, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/a86393e3-972a-4710-a013-a1440e509889/87fdfff8d8db2abff94aa2ade2e971f9.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/a86393e3-972a-4710-a013-a1440e509889/87fd
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

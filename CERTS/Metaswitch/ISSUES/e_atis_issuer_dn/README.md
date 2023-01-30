@@ -25,9 +25,11 @@ Description: The DN shall contain a Country (C=) attribute, a Common Name (CN=) 
 | error | Northeast Oklahoma Electric Cooperative SHAKEN Cert 945H | [view](../../CERTS/b399b86f53e35dfa37c4cd7b28ee0132d934ef73354f564636d8edee42d58ccd/README.md) | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 | error | Tri-County Telephone Association Inc SHAKEN Cert 2296 | [view](../../CERTS/059194bbdc7ecfd6fc3d30b071e4d73565e14360c7a9d19c60f9274ec1025d0f/README.md) | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 | error | Call48 SHAKEN Cert 505J | [view](../../CERTS/5bb4516a62167e6c55e9704e4a49b39ce9ec480e678aa6c02fb6985fc9594997/README.md) | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
+| error | Hawaiian Telcom SHAKEN Cert 009G | [view](../../CERTS/51136b93b3f0cdaef7856044881e5abc0747fe2b4d9a3202f78266ab5228a41d/README.md) | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 | error | Fidelity Communications SHAKEN Cert 1882 | [view](../../CERTS/baaf8e58db0f02327fc5b9b614a5633c7b505ca0b291b606d32a191ee73a05e5/README.md) | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 | error | Appalachian Wireless SHAKEN Cert 6940 | [view](../../CERTS/e14170c681e75c37d0ca45e304c09cc0d148246bd7d72e96f91f7a8fe27339fa/README.md) | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 | error | Everstream SHAKEN Cert 472C  | [view](../../CERTS/8710bb38debebd39698fb1c273409b173951cca1fab53a6d4c4aca91e61e06df/README.md) | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
+| error | Valley Telephone Cooperative Inc / VTX1 SHAKEN 2159 | [view](../../CERTS/f0883d130f625c1b8157e54e090e4df461fd9afc05aff09d5a08cf50f9cd37aa/README.md) | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 | error | Cspire SHAKEN Cert 6581 | [view](../../CERTS/09ed5b3292b5bfc7ac80b1027a827138b9503aa8053a61431a8dc851ecad04f2/README.md) | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 | error | CTS Telecom, Inc SHAKEN Cert 8331 | [view](../../CERTS/5c9f6132a96a05a58d02d845ee70e914659682623fb98acbbecd9f8e383dcbec/README.md) | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 | error | ENA SHAKEN cert 521F | [view](../../CERTS/a5293c77ed92fdeef1aeff04f6bed7932a6083abc55d03d74a3ec5b817fdba2b/README.md) | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
@@ -39,6 +41,7 @@ Description: The DN shall contain a Country (C=) attribute, a Common Name (CN=) 
 | error | South Central Rural Telecommunications Coop SHAKEN Cert 0418 | [view](../../CERTS/6e988e3a74dbb6c1862118841d78e438f345c1ef7e79a96c2087328b5de146c1/README.md) | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 | error | TDS Telecom SHAKEN Cert 7804 | [view](../../CERTS/a04a669738b79ff55c2b2197f72a12a112b731906e2e6a925d37ccee2fa00a11/README.md) | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 | error | Utility SHAKEN Cert 9262 | [view](../../CERTS/97acbe1f0c7b2ceb99bec93a9da9ff2c1fd55e9a4cd78a32160237751f720236/README.md) | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
+| error | Encore Communications SHAKEN Cert 956H | [view](../../CERTS/cc63709890efdf1d938ab01b88b7d4f8368361ffd8572f46cd707e5b3807c95f/README.md) | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 | error | Buckeye SHAKEN Cert 7608 | [view](../../CERTS/61a18f942b4df978a21d6e9cf1df2f0cea0dbd9609b1fcfec8c5f97d5c6dcd7e/README.md) | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 | error | GCI SHAKEN Cert 7785 | [view](../../CERTS/312e58dffa682b464f9867a7c373f9881d092b834767dcabe5baf8c7245e937c/README.md) | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 | error | Carolina West Wireless SHAKEN Cert 5932 | [view](../../CERTS/e85dec068c9fa23af68b345257d58269303c925d10fc9101b226d1e0e7d62a9d/README.md) | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
@@ -55,4 +58,4 @@ Description: The DN shall contain a Country (C=) attribute, a Common Name (CN=) 
 No error, warning, or notice level issues were found
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

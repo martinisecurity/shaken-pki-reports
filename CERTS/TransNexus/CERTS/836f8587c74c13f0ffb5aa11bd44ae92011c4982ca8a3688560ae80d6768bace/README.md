@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0226
 
-Tested At: 11 Jan 23 23:07 UTC\
+Tested At: 30 Jan 23 23:01 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -22 day(s)\
+Remaining Validity Period: -41 day(s)\
 Subject: CN=SHAKEN 0226, O=Lumos Networks, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/f8a68e44-8fb0-4f28-b533-c4df27ed8e1b/1d6e6b16be2f888e501b52bf225a594c.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/f8a68e44-8fb0-4f28-b533-c4df27ed8e1b/1d6e
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

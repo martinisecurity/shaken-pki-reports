@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 790J
 
-Tested At: 11 Jan 23 23:07 UTC\
+Tested At: 30 Jan 23 23:00 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -76 day(s)\
+Remaining Validity Period: -95 day(s)\
 Subject: CN=SHAKEN 790J, OU=SHAKEN, O=Viirtue, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/a429df3a-62d2-4851-90c8-fc446859fb08/6a5c31c11c8abcf08896a7045502d541.pem
@@ -18,4 +18,4 @@ Link: https://certificates.clearip.com/a429df3a-62d2-4851-90c8-fc446859fb08/6a5c
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

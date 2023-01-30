@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 177K
 
-Tested At: 11 Jan 23 23:07 UTC\
+Tested At: 30 Jan 23 23:00 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -80 day(s)\
+Remaining Validity Period: -99 day(s)\
 Subject: CN=SHAKEN 177K, OU=SHAKEN, O=Cytracom\\, LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/8d118994-4994-4735-ac71-42c0bbb7848f/5ffc24495926637ff8068709b875b04f.pem
@@ -18,4 +18,4 @@ Link: https://certificates.clearip.com/8d118994-4994-4735-ac71-42c0bbb7848f/5ffc
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

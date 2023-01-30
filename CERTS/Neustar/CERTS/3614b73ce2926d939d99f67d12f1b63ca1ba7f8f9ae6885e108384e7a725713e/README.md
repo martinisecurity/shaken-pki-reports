@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 732J
 
-Tested At: 11 Jan 23 23:08 UTC\
+Tested At: 30 Jan 23 23:02 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 133 day(s)\
+Remaining Validity Period: 114 day(s)\
 Subject: CN=SHAKEN 732J, O=NUSO LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11376.10159.pem
@@ -18,4 +18,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11376.10159.pem
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

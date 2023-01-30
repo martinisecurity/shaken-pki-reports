@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 813J
 
-Tested At: 11 Jan 23 23:10 UTC\
+Tested At: 30 Jan 23 23:03 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 233 day(s)\
+Remaining Validity Period: 214 day(s)\
 Subject: CN=SHAKEN 813J, O=Rscom LTD, C=CA\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Inc a TransUnion company, C=US\
 Link: https://ssc.getsipnav.com/certs/2e7995d25837c174efaf63e3ff1b1d69456e6412
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/2e7995d25837c174efaf63e3ff1b1d69456e6412
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

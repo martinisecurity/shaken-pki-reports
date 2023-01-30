@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 672B
 
-Tested At: 11 Jan 23 23:07 UTC\
+Tested At: 30 Jan 23 23:00 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -61 day(s)\
+Remaining Validity Period: -80 day(s)\
 Subject: CN=SHAKEN 672B, OU=SHAKEN, O=Clear Rate, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/dcef9a97-b864-43ac-830b-2290a8d0f002/6cbc48b81e9f047a5eabc057c2b439d8.pem
@@ -17,4 +17,4 @@ Link: https://certificates.clearip.com/dcef9a97-b864-43ac-830b-2290a8d0f002/6cbc
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

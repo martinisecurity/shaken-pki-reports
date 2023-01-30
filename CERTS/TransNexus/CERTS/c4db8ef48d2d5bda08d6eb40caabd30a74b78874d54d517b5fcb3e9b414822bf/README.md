@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 700H
 
-Tested At: 11 Jan 23 23:07 UTC\
+Tested At: 30 Jan 23 23:00 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -10 day(s)\
+Remaining Validity Period: -29 day(s)\
 Subject: CN=SHAKEN 700H, O=Metro Fibernet LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/22b6cee0-8559-4c73-8092-6eee861c4b49/6b1f9a696b507cd5917b6ee9a93b72f4.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/22b6cee0-8559-4c73-8092-6eee861c4b49/6b1f
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

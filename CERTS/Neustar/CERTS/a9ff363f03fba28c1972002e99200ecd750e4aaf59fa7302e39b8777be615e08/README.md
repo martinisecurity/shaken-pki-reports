@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 939H
 
-Tested At: 11 Jan 23 23:18 UTC\
+Tested At: 30 Jan 23 23:09 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 156 day(s)\
+Remaining Validity Period: 137 day(s)\
 Subject: CN=SHAKEN 939H, O=Commio, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://storage.googleapis.com/stirshaken/ShakeNBakeCert.pem
@@ -18,4 +18,4 @@ Link: https://storage.googleapis.com/stirshaken/ShakeNBakeCert.pem
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

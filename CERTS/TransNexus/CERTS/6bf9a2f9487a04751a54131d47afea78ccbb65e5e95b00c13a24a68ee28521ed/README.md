@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 806J
 
-Tested At: 11 Jan 23 23:07 UTC\
+Tested At: 30 Jan 23 23:00 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -46 day(s)\
+Remaining Validity Period: -65 day(s)\
 Subject: CN=SHAKEN 806J, O=Converged Networks, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/50f33dd9-032e-4c8b-8683-e4125228e2b8/e89cc3fe4d14ae3a812f40d255483127.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/50f33dd9-032e-4c8b-8683-e4125228e2b8/e89c
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC

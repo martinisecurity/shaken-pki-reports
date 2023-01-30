@@ -2,9 +2,9 @@
 
 ## Certificate Apex Telecom LLC SHAKEN 288K
 
-Tested At: 11 Jan 23 23:08 UTC\
+Tested At: 30 Jan 23 23:01 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 295 day(s)\
+Remaining Validity Period: 276 day(s)\
 Subject: CN=Apex Telecom LLC SHAKEN 288K, O=Apex Telecom LLC, L=SALEM, ST=MA, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://certificates.peeringhub.io/288K/288K.crt
@@ -18,4 +18,4 @@ Link: https://certificates.peeringhub.io/288K/288K.crt
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 11 Jan 23 23:18 UTC
+Generated: 30 Jan 23 23:10 UTC
