@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 854J
 
-Tested At: 30 Jan 23 23:02 UTC\
+Tested At: 31 Jan 23 17:40 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 92 day(s)\
+Remaining Validity Period: 91 day(s)\
 Subject: CN=SHAKEN 854J, O=snetconnect, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11541.10167
@@ -18,4 +18,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11541.10167
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC

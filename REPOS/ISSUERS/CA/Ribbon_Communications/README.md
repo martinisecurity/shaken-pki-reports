@@ -2,14 +2,14 @@
 
 ## Ribbon Communications
 
-- 14 repository URLs were included in the corpus being tested
-- 0 repository URLs in the corpus were skipped because they were duplicated
+- 15 repository URLs were included in the corpus being tested
+- 1 repository URLs in the corpus were skipped because they were duplicated
 - 14 repository URLs being tested against the remaining rules
 - 2.07 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 96ms average time it took to download each certificate
+- 50ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -35,4 +35,4 @@
 | `https://prod001-prod011-cr.rbbnidhub.com/t0CiOIjnRz/NFJune102022-26092b2abd3c6bbfc676d98623fc1b25` | 10&#160;Jun&#160;23&#160;19:00&#160;UTC | true | [view](REPOS/33017846ac0354f869e6a30ef5fdf72910ca73ea/README.md) |
 
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC

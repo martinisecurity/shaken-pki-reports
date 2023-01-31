@@ -22,6 +22,7 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 | error | SHAKEN | [view](../../CERTS/158c61d4da5ed8d0aaef7582d9a821a358a22ec2f241d449ecdab2e35ccf2fad/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Inteliquent.com | [view](../../CERTS/f1c1fe53212d9bd9b211b83c698572a9019078dd441e9e78638e55714dcafaab/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | SHAKEN-925C | [view](../../CERTS/497fc9dff6a178de5b6c33f6181ab092e273d03797a2026562808de76aafd623/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| error | SHAKEN-406H | [view](../../CERTS/4d557f4e82049588ee17381bcff4a39f2212833ff5f310964aa060d9663d5bb7/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Warmego | [view](../../CERTS/65bfa3f8b6aa342704363e4e0db5198f3f3583a9663f17901a7bb96fe2bfddf1/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Five9 | [view](../../CERTS/08087af11d90b5b7bd3519ce065262e6ec44ea1dcfbc1db3995cc1b0a08fd48e/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | AGOC | [view](../../CERTS/601d6d6df50a7b1431e92d7955fbacf9254cd20f171ba02b8918b475504ecec1/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
@@ -47,4 +48,4 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 No error, warning, or notice level issues were found
 
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC

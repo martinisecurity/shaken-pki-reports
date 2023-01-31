@@ -14,4 +14,4 @@
 | 18&#160;Dec&#160;22&#160;14:59&#160;UTC | Google SHAKEN cert 969H | 17&#160;Jan&#160;23&#160;14:59&#160;UTC | true | [view](../CERTS/6f97b41760bbb78a17309694eb34e5a0b896c78bfea22fae23731f3b2bc7bcea/README.md) |
 
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC

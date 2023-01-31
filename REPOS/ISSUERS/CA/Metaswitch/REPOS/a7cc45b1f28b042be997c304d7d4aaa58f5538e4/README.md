@@ -3,8 +3,8 @@
 ## Metaswitch
 
 Name: `https://sti-cr.cgah.tnsi.com/certs/d9dd9bf73998fe328ba9447674492e8217d56dcf`\
-Tested At: 30 Jan 23 23:08 UTC\
-Time: 15211ms
+Tested At: 31 Jan 23 17:49 UTC\
+Time: 212ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 15211ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC

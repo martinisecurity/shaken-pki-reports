@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 813J
 
-Tested At: 30 Jan 23 23:03 UTC\
+Tested At: 31 Jan 23 17:44 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -97 day(s)\
 Subject: CN=SHAKEN 813J, O=Rscom LTD, C=CA\
@@ -25,4 +25,4 @@ Link: https://ssc.getsipnav.com/certs/9588bd2711f79fb29c88000ca03c5001d22e3d4d
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC

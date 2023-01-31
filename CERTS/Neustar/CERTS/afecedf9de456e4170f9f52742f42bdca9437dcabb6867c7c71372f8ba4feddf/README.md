@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 743J
 
-Tested At: 30 Jan 23 23:03 UTC\
+Tested At: 31 Jan 23 17:44 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 149 day(s)\
 Subject: CN=SHAKEN 743J, O=Whisl Telecom LLC, C=US\
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/8edc7b58944d44dd597d88ceae74ae41fa544d2e
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC

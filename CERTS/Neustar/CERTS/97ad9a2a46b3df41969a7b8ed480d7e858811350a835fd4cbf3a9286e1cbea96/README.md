@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 7076
 
-Tested At: 30 Jan 23 23:01 UTC\
+Tested At: 31 Jan 23 17:40 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 323 day(s)\
 Subject: CN=SHAKEN 7076, O=Midcontinent Communications, C=US\
@@ -16,4 +16,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11158.10130.pem
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC

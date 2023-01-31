@@ -14,18 +14,27 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 |--------|---------|------|---------|
 | error | SHAKEN Primo Dialler LLC 249K | [view](../../CERTS/a9ac5a87a408fda204e6fae41d1665972954365e287f4a507918192bb9ab16d3/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Drop Inc 258K | [view](../../CERTS/fc457741017b89b9126882710d8fb44883d7603f79cec0a1989eaa2b08034ee5/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| error | SHAKEN Bulk Solutions, LLC 644J | [view](../../CERTS/2b980444a4603ddf16248bee9dbdce112f593d4d5324443e641624a827af0cb2/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Bulk Solutions, LLC 644J | [view](../../CERTS/3cf0aa2a24845e3fe6b27605e223e8e0c73d6bd4f73279b8a1e5e16fd2feeb80/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | SHAKEN Bulk Solutions, LLC 644J | [view](../../CERTS/2b980444a4603ddf16248bee9dbdce112f593d4d5324443e641624a827af0cb2/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | SHAKEN Swift Telco LLC 452K | [view](../../CERTS/613861829aae7927f05dbd5a7b9f28ae8c4f995bb8ed115f95fc4be6644ccde1/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | SHAKEN Technology Innovation Lab 599J | [view](../../CERTS/12acafcf01348d278955bb9276e7a4d22a65ccdc61a59d08100177711f21b430/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN MagicJack 324E | [view](../../CERTS/75b4b7b400b1252e48faa1d93f6a94f7bd4a6383c88ddf6baa167b85d9ac4ee8/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN NTC International, INC 016K | [view](../../CERTS/51e07e8f7a3071a6d493e4355f8fe001308a9d554fdd7ae6365a432bb54cbf73/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN NTC International, INC 016K | [view](../../CERTS/e1d45500e651ba09ad7034c786400ce150634573d43323250ffc3c77dc2a89bc/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN NTC International, INC 016K | [view](../../CERTS/da2c521d460ad6de2288e70e92e1df8610a84d558ac6a7c758a38ab9c573826a/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN NTC International, INC 016K | [view](../../CERTS/4785c5cc7966400967976e33e89b3cb109855184e3f0a6215ca0e368b048f82e/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN NTC International, INC 016K | [view](../../CERTS/4a82cbd851064adf7a25a5d19ad0025d617667e1986fb87c5152948dc4e050b5/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | SHAKEN NTC International, INC 016K | [view](../../CERTS/5660a76ffc031d2c799d22f8c54824f5f5392dc5f2effbbc6290e7a5856d6e17/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | SHAKEN NTC International, INC 016K | [view](../../CERTS/36d50765eabdd867afd65d7d10e549979acc01b91e3646690a2cb6b5e862a4b3/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | SHAKEN NTC International, INC 016K | [view](../../CERTS/257191396787e93e5c8d756699cf6921a852685d21ffd6ec1ff9688cdb62e5b8/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | SHAKEN Cyberlynk Network, LLC 086K | [view](../../CERTS/3905cd69b1c7fae98f0ea1ec17753528007194f2fa831cb6fd9ab1674931874c/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/4b2da4a0d6b7e16ae744a697395e8ba946fc0070c85e75702f7f4577157cdecb/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/e248c1ac5fc708fe4894f8d9d0502c260d8bbf5d96fd36fea2bd645de2fd577f/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/9cba9862280adb517058375366a03a1801eee2f1ba1c16beb7af94678876875e/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/99cfc1b63c2f1febc340a11fd2ee50ce021f5da01114f250b181d2de98729a3c/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/f188a68895e65a0b3a4424317978453f56709d30bef20a7214a8f47deb2c73be/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/44ff1c12add1f49ebda94f63e87b6f558aa5bfc334b586a567f6275ae0af501d/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/c17e38aa1be632ff984e4c5276c5957b0e6d1ca80c1fef6973d5b6bb9f3c63bb/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Xchange Telecom LLC 325B | [view](../../CERTS/6bab691174d8e7b237a7fe1b00556840e2a5c28a1839f8e345dd9ba721ba23bb/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Terra Nova Telecom 382G | [view](../../CERTS/c36042abf9d855a8b4e378f360c6a426f955fa18716e86b358918824a2d0f10e/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/8a8d29e20e2e0aa8f344a52f1052834af66c2b7d8193f4ce103a3c63bf1c1052/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
@@ -38,17 +47,22 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 | error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/91bcaa5ac3ae5a3aa7c8d36e50d7c83687ab7d871e2c036ed4fc98c66bcb8c41/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/9bcbfb892244a557550152b43f2cf420a4b2318f58263e4ccf37795e661a36bb/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/59ab916c6eb419914326f5a1a87ac198adfb81f67ac80747d864ce1135e854ff/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/24afd223322a82d7f1cc5ffc1493ee903a8eda81a4cb3ab51f21b55cfb727032/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/223fbe9b227137049ac02513c3f4270740630bdcdd9c82ecbe6b689cde4e4787/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Broadband Dynamics LLC 583j | [view](../../CERTS/17d556b64bac61cda21ac0b33e63c599ebb597e19f585ab7dec6de1ef5d9b821/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Televergence Solutions Inc 779J | [view](../../CERTS/25f7e4a69abb7c047d47a760f0c9043a9142aef29fbb16451403cd7432754abf/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Televergence Solutions Inc 779J | [view](../../CERTS/c01056babc1f74136536f334fa3ed9b8c49a3ee1cb10fb04dcfa4ad1250a2364/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Televergence Solutions Inc 779J | [view](../../CERTS/4a5cef4518396875a172ca345ab2e5e524c67198f7b4b7672c4015dc4c51956b/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Televergence Solutions Inc 779J | [view](../../CERTS/d141a4003020445a1fb43205b080c268a313698f014c673ee4125ae32635a8e4/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | SHAKEN Televergence Solutions Inc 779J | [view](../../CERTS/741aeca5b026ae5c6f5f074f43b52a7446362396d18ae093a7d2b28ab1c14c2e/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN IPSBS Managed Services LLC 828J | [view](../../CERTS/cc87dfcad14b636266a6d2b8e597223548b3260b80280f0208b1b15ad4853cea/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN IP Link Telecom Inc. 902J | [view](../../CERTS/f688a135b60b18b7001827646c93befb7178c25ae6e5f9f21439ff407e8e44e9/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN IP Link Telecom Inc. 902J | [view](../../CERTS/c6a55dde18451282141cc1ea8218e76bbc65fbbd52ed381bc7651670b16de2d6/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN InteractiveTel, LLC 920J | [view](../../CERTS/40f9bf01d0c26777216d7ba43012f8137f458ebaa968ac2de5b47d32631000d9/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN InteractiveTel, LLC 920J | [view](../../CERTS/71a42f9b9dc4822bbac817e04708a502f2d54dfc74eee74ce4a055597b6aa086/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN InteractiveTel, LLC 920J | [view](../../CERTS/f27bbd84a7fb66896e099d1c37b92ef025f61ce4275bd93576f1406c2043ed99/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | SHAKEN InteractiveTel, LLC 920J | [view](../../CERTS/10d8e925057023b896346a3eeba52872e00d57ffc065266d3daa308f5dfe826c/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | SHAKEN InteractiveTel, LLC 920J | [view](../../CERTS/a5741804b44a01874768152580bb8c3f1e37e09079e543fd166b5ed6ec5dfc2d/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN ALD Telecom 780J | [view](../../CERTS/53a14081c994555770bb8c5f3d160f89cf427258c9598d569c388a74bde6ea8f/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Airespring 996H | [view](../../CERTS/4aecf5faaabd8b5d43c395dd587803ed61fa2b3c6258a2097d1f25a2c462fc76/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Apeiron Systems 012J | [view](../../CERTS/a29e9a25d7e2b1859aabe1f42c91d232c7710cd06d5d254db7460ac2e2252438/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
@@ -85,9 +99,9 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 | error | SHAKEN Rayfield Communications, Inc. 006K | [view](../../CERTS/5032969f5932ac46a17b86c38dc72d666be454d1c3f11918edfa8385d9fc65e6/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Ringfree Communications Inc 317K | [view](../../CERTS/cc75f739ba9e082e5324936f9c5c1df2d896cb259ed0dd51065b937a0fce25aa/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Sangoma 777G | [view](../../CERTS/53d28ac1fa5253468c11b9e3baaa6ad5481e83a7ea2ee6d715594dc6d4561ad4/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | SHAKEN Starlinq PBX Inc. 267K | [view](../../CERTS/556a31c75cded397a5564c6f3bce1bf50e44e68e13d8ba757b5e6c20ad997fdb/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Systemverse, LLC. 194K | [view](../../CERTS/edbe74f809b9e0e1ebea447df8bdbfb272144f9c8c18df81e397a374df61c4cd/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Talk IT Pro 321K | [view](../../CERTS/e45dada701a589e681d12207ebf16985abf6d62cf429b6e03bdcf8c0f97c3bf2/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| error | SHAKEN Technology Innovation Lab 599J | [view](../../CERTS/12acafcf01348d278955bb9276e7a4d22a65ccdc61a59d08100177711f21b430/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN TeleVoIPs 138K | [view](../../CERTS/c41b66127049dbae159f8d68ac714616b9e99640c407bcdc749f3d49037db487/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Threshold Communications Inc 563J | [view](../../CERTS/ab5dd3ebfe3882c8a685ed6bce46486fdcab519f3446bf1713e2f292d1d429eb/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Touchtone 683A | [view](../../CERTS/2a0a2422d9f52a5b45859c62be9ea582763229a948e46272a09244e5d7dcb242/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
@@ -96,6 +110,7 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 | error | SHAKEN Telcentris Inc. dba Voxox 696J | [view](../../CERTS/3686ad01ca8cabbf3924695171a78d536c6742b72304f4f30203c1c91f9be6bf/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Telcentris Inc. dba Voxox 696J | [view](../../CERTS/c24c843568c4a9c93aed669df3cbf70dadf800ffe9b74a060d97d237e7c5e8ee/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Vumber LLC 225K | [view](../../CERTS/68075fd5ebbd21a4ecc74ecd70c85bb47ebfa522353477429221c911e84d0256/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | SHAKEN WWT INC dba VoIP Networks 053K | [view](../../CERTS/308b5be0a61e548df4275a61a356c74e0d640ca3fbf6f6d87c8bc06211e745fb/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Ytel Inc. 703J | [view](../../CERTS/3d6a7a2ff23b90fba1674f600a108b8a11a110f8bb1723df86627001f7367d8d/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Lightspeed Voice 557F | [view](../../CERTS/ab19df868054cb3392aa295bff737bf919f8dc55c64a91247621375bad7fb7c0/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | SHAKEN Star2Star Communications, LLC 590J | [view](../../CERTS/b6c27ce63b22687fcd2f9f64ee9067dd3c19a4eb223f1aef3934f7ba95c54ba6/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
@@ -109,4 +124,4 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 No error, warning, or notice level issues were found
 
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC

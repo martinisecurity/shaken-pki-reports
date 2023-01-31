@@ -2,9 +2,9 @@
 
 ## Certificate INSTACALL LLC SHAKEN 281K
 
-Tested At: 30 Jan 23 23:01 UTC\
+Tested At: 31 Jan 23 17:08 UTC\
 Initial Validity Period: 29 day(s)\
-Remaining Validity Period: -15 day(s)\
+Remaining Validity Period: -16 day(s)\
 Subject: CN=INSTACALL LLC SHAKEN 281K, O=INSTACALL LLC, L=Wilmington, ST=DE, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://certificates.peeringhub.io/281K/281K.crt
@@ -18,4 +18,4 @@ Link: https://certificates.peeringhub.io/281K/281K.crt
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC

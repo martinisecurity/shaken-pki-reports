@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 733J
 
-Tested At: 30 Jan 23 23:00 UTC\
+Tested At: 31 Jan 23 17:08 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -68 day(s)\
 Subject: CN=SHAKEN 733J, O=Wiretap Telecom, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/257dc117-4652-4444-9058-fceb2d81e92c/315e
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC

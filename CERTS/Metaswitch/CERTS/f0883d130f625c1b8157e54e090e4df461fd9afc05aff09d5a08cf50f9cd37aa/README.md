@@ -2,7 +2,7 @@
 
 ## Certificate Valley Telephone Cooperative Inc / VTX1 SHAKEN 2159
 
-Tested At: 30 Jan 23 23:06 UTC\
+Tested At: 31 Jan 23 17:45 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 761 day(s)\
 Subject: CN=Valley Telephone Cooperative Inc / VTX1 SHAKEN 2159, O=Valley Telephone Cooperative Inc / VTX1, C=US\
@@ -13,10 +13,10 @@ Link: https://sti-cr.cgah.tnsi.com/certs/6447136b7530812e9c9a848c3919f7947970fc7
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_key_usage](../../ISSUES/e_atis_key_usage/README.md) | error | ATIS1000080 | The Key Usage extension shall contain a single key usage value of digitalSignature |
 | [e_atis_issuer_dn](../../ISSUES/e_atis_issuer_dn/README.md) | error | ATIS1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [e_atis_key_usage](../../ISSUES/e_atis_key_usage/README.md) | error | ATIS1000080 | The Key Usage extension shall contain a single key usage value of digitalSignature |
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC

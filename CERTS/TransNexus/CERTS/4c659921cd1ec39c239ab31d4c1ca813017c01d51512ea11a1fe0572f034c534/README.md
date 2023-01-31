@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 622J
 
-Tested At: 30 Jan 23 23:01 UTC\
+Tested At: 31 Jan 23 17:08 UTC\
 Initial Validity Period: 180 day(s)\
 Remaining Validity Period: 166 day(s)\
 Subject: CN=SHAKEN 622J, O=Skye Telecom LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/622J/15bae790-c5f6-4157-8dc2-9b9dd8032
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC

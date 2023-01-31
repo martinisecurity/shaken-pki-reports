@@ -20,4 +20,4 @@ No error, warning, or notice level issues were found
 | error | Metaswitch STI-CA SHAKEN Root | [view](../../CERTS/c27184f75f81fc119b85d51d416477bf635040e5d66ce6051799b37b9aa17485/README.md) | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC

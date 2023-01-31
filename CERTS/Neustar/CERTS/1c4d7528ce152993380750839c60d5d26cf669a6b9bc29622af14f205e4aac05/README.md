@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 986J
 
-Tested At: 30 Jan 23 23:09 UTC\
+Tested At: 31 Jan 23 17:50 UTC\
 Initial Validity Period: 398 day(s)\
 Remaining Validity Period: 316 day(s)\
 Subject: CN=SHAKEN 986J, O=RingCentral, C=CA\
@@ -17,4 +17,4 @@ Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/815b181b29c53037f17257
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC

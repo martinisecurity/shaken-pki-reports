@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 402E
 
-Tested At: 30 Jan 23 23:02 UTC\
+Tested At: 31 Jan 23 17:40 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 100 day(s)\
 Subject: CN=SHAKEN 402E, O=IP Networked Services Inc, C=US\
@@ -13,9 +13,9 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11304.10152
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC

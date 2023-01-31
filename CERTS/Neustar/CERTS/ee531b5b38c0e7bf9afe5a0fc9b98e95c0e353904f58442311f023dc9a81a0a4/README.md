@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 197D
 
-Tested At: 30 Jan 23 23:09 UTC\
+Tested At: 31 Jan 23 17:50 UTC\
 Initial Validity Period: 398 day(s)\
 Remaining Validity Period: -6 day(s)\
 Subject: CN=SHAKEN 197D, OU=Vonage Eng, O=Vonage, L=Holmdel, ST=NJ, C=US\
@@ -13,8 +13,8 @@ Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/3f7be0c667b2f3c24546cf
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 ### Not Effective
 
@@ -26,4 +26,4 @@ Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/3f7be0c667b2f3c24546cf
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC

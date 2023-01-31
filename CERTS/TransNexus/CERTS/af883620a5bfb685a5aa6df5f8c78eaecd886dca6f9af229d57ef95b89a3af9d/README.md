@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 759J
 
-Tested At: 30 Jan 23 23:01 UTC\
+Tested At: 31 Jan 23 17:08 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -35 day(s)\
 Subject: CN=SHAKEN 759J, O=Rhode Island Telephone, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/f8262ffd-801f-403a-9ee9-ec811abe5a5e/b9f3
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC

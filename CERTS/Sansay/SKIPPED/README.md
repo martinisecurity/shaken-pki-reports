@@ -157,6 +157,7 @@
 | 05&#160;Dec&#160;22&#160;12:40&#160;UTC | SHAKEN 1stPoint Communications, LLC 463G | 04&#160;Jan&#160;23&#160;12:40&#160;UTC | true | [view](../CERTS/17b2120175007597c8a4de782271826764cdcc0d58e45e1e014d2033caa0a7ee/README.md) |
 | 05&#160;Dec&#160;22&#160;12:55&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 04&#160;Jan&#160;23&#160;12:55&#160;UTC | true | [view](../CERTS/f51dc2fc455bb27bcb756113c1e041b5c0c61b137609dbb61717cdae230934dd/README.md) |
 | 05&#160;Dec&#160;22&#160;17:22&#160;UTC | SHAKEN Cyberlynk Network, LLC 086K | 04&#160;Jan&#160;23&#160;17:22&#160;UTC | true | [view](../CERTS/0e6aa454cbce939bcf595664f67d567eb40ba223713b2dfbfa2da1658a4fa32d/README.md) |
+| 05&#160;Dec&#160;22&#160;22:28&#160;UTC | SHAKEN Bulk Solutions, LLC 644J | 05&#160;Dec&#160;23&#160;22:28&#160;UTC | true | [view](../CERTS/3cf0aa2a24845e3fe6b27605e223e8e0c73d6bd4f73279b8a1e5e16fd2feeb80/README.md) |
 | 05&#160;Dec&#160;22&#160;23:21&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 04&#160;Jan&#160;23&#160;23:21&#160;UTC | true | [view](../CERTS/144dbcccc4cdc7d74ab8b9906c815273ae740e6328ac9de339accb934c20005d/README.md) |
 | 06&#160;Dec&#160;22&#160;02:52&#160;UTC | SHAKEN NTC International, INC 016K | 05&#160;Jan&#160;23&#160;02:52&#160;UTC | true | [view](../CERTS/862329af5361e06a76e03c41951e923b7dcbd85adb43105761f35d9153e93aa8/README.md) |
 | 06&#160;Dec&#160;22&#160;12:50&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 05&#160;Jan&#160;23&#160;12:50&#160;UTC | true | [view](../CERTS/14ebea33889847de6d0787b5482d7f1fc567484fd508e896746f55a414097181/README.md) |
@@ -229,6 +230,7 @@
 | 31&#160;Dec&#160;22&#160;10:45&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 30&#160;Jan&#160;23&#160;10:45&#160;UTC | true | [view](../CERTS/44b33ac7ad301c3100614d289e8df3627084214bcaca542649011e6cb55cb418/README.md) |
 | 05&#160;Jan&#160;23&#160;13:09&#160;UTC | SHAKEN Primo Dialler LLC 249K | 09&#160;Feb&#160;23&#160;13:09&#160;UTC | true | [view](../CERTS/a9ac5a87a408fda204e6fae41d1665972954365e287f4a507918192bb9ab16d3/README.md) |
 | 05&#160;Jan&#160;23&#160;13:09&#160;UTC | SHAKEN Primo Dialler LLC 249K | 09&#160;Feb&#160;23&#160;13:09&#160;UTC | true | [view](../CERTS/a9ac5a87a408fda204e6fae41d1665972954365e287f4a507918192bb9ab16d3/README.md) |
+| 19&#160;Jan&#160;23&#160;22:50&#160;UTC | SHAKEN Technology Innovation Lab 599J | 19&#160;Jan&#160;24&#160;22:50&#160;UTC | true | [view](../CERTS/12acafcf01348d278955bb9276e7a4d22a65ccdc61a59d08100177711f21b430/README.md) |
 
 ### CA Certificates
 
@@ -238,4 +240,4 @@
 | 31&#160;Mar&#160;22&#160;17:11&#160;UTC | SHAKEN Sansay Intermediate CA Canada 1 | 29&#160;Mar&#160;31&#160;17:11&#160;UTC | true | [view](../CERTS/97b5027d448805030b8627b5d430c6c03473e0972f0ff4057eb60c1a3715ebb0/README.md) |
 
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC

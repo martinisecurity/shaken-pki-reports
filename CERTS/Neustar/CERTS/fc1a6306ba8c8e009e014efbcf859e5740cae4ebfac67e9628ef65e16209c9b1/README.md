@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 219K
 
-Tested At: 30 Jan 23 23:02 UTC\
+Tested At: 31 Jan 23 17:41 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 200 day(s)\
 Subject: CN=SHAKEN 219K, O=Avaya Cloud Inc, C=US\
@@ -18,4 +18,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11553.10201
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC

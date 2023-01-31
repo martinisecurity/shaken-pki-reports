@@ -16,6 +16,7 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 | error | Apex Telecom LLC SHAKEN 288K | [view](../../CERTS/e64593f4d9a81236af33c40c227d728e49418be50e05be2a8b65ec549a3b9275/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | ATI SHAKEN 731J | [view](../../CERTS/bbc0a32743f1e659eff17172cbef96ee8cc3000aeb1dda85e1a47d47391ec3ab/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Teleinx SHAKEN 744J | [view](../../CERTS/743032377136fc18e443399c5fc57e36a5706188f141a522438a806143997925/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| error | MAQS SOLUTIONS SHAKEN 255K | [view](../../CERTS/ad6078fa5b5e7104610fcfe4a440361c17a9c432e11b821f552bb8e053ae3569/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | VOCALTRANSIT SHAKEN 783J | [view](../../CERTS/81b78fff8a772249d72d4854d97672d7ac69a83c4900beaac699d28d220d8c13/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Televoip SHAKEN 438K | [view](../../CERTS/2e22094a03b8d7e2d2f37cb2ea5d5778d122fdbc3d0c83e3f8f984c8cf03a2e3/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | TalkAsiaVoip LLC SHAKEN 198K | [view](../../CERTS/129894fdf3cbb7c450dd257d161508b80efb942aaf134d8dc0c97b59f074a6dc/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
@@ -25,4 +26,4 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 No error, warning, or notice level issues were found
 
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC

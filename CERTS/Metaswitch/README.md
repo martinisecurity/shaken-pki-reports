@@ -9,30 +9,30 @@
 
 #### Leaf Certificates
 
-- 40 certificates were included in the corpus being tested
+- 41 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 40 certificates being tested against the remaining rules
+- 41 certificates being tested against the remaining rules
 - 4.15 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
-- 2.50% of certificates contain one or more Warning level issue
+- 2.44% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
-- 87.50% of certificates are too old to be assessed against currently enforced expectations
+- 87.80% of certificates are too old to be assessed against currently enforced expectations
 - 1078 days is the average remaining validity for the certificates in the corpus
 - 1095 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 - 1.00 average number of unexpired certificates per OCN observed
-- 40 unique OCNs observed in unexpired and valid certificate corpus
+- 41 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 40 | [e_atis_issuer_dn](ISSUES/e_atis_issuer_dn/README.md) | ATIS1000080 |
-| 40 | [e_atis_key_usage](ISSUES/e_atis_key_usage/README.md) | ATIS1000080 |
+| 41 | [e_atis_issuer_dn](ISSUES/e_atis_issuer_dn/README.md) | ATIS1000080 |
+| 41 | [e_atis_key_usage](ISSUES/e_atis_key_usage/README.md) | ATIS1000080 |
 | 1 | [e_atis_subject](ISSUES/e_atis_subject/README.md) | ATIS1000080 |
 | 4 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
-| 40 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 40 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 41 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
+| 41 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
 | 1 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
@@ -76,6 +76,7 @@
 | 01&#160;Apr&#160;21&#160;15:28&#160;UTC | USCellular SHAKEN Cert 6349 | 31&#160;Mar&#160;24&#160;15:28&#160;UTC | true | [view](CERTS/c75937e7c843b0054b1a51f6149f47661696b3cfcbcf6bab4dbc708c4453244f/README.md) |
 | 07&#160;Apr&#160;21&#160;16:44&#160;UTC | U. S. Telepacific Corp SHAKEN 7453 | 06&#160;Apr&#160;24&#160;16:44&#160;UTC | true | [view](CERTS/9ed03dac797a5a27d52aa5209a4caa6a3ec9c3943d55a2cbfb69416480787da0/README.md) |
 | 16&#160;Apr&#160;21&#160;15:27&#160;UTC | CBTS Technology Solutions SHAKEN Cert 600F | 15&#160;Apr&#160;24&#160;15:27&#160;UTC | true | [view](CERTS/3d02021a2da14f1ebfe588256a419be9ebc03c0d1fccc51cc29fa9d4a625c6bf/README.md) |
+| 30&#160;Apr&#160;21&#160;16:59&#160;UTC | Nex-Tech Wireless SHAKEN Cert 122D | 29&#160;Apr&#160;24&#160;16:59&#160;UTC | true | [view](CERTS/efe569be452e63d91da204eeda5030f1b08846836bf9bf036f51b1da5411acdc/README.md) |
 | 30&#160;Apr&#160;21&#160;17:05&#160;UTC | Hunter Communications Shaken Cert 660C | 29&#160;Apr&#160;24&#160;17:05&#160;UTC | true | [view](CERTS/0d2022504ffa5407f662990a785786cb0da72ce014838e2cffdcd95cb70c6f64/README.md) |
 | 05&#160;May&#160;21&#160;21:02&#160;UTC | American Broadband SHAKEN Cert 355D | 04&#160;May&#160;24&#160;21:02&#160;UTC | true | [view](CERTS/f2fe275fba183def77918369f90d81bc080f1ef58c5422620c3dc45140b2ae75/README.md) |
 | 18&#160;May&#160;21&#160;13:14&#160;UTC | Segra SHAKEN Cert 1784 | 17&#160;May&#160;24&#160;13:14&#160;UTC | true | [view](CERTS/f802b8b879d063b87665d8b2a67f6d3ba78a94aa35782f664a6a40afc7586f56/README.md) |
@@ -110,4 +111,4 @@
 | 25&#160;Nov&#160;20&#160;11:57&#160;UTC | Metaswitch STI-CA SHAKEN Issuing 1 | 22&#160;Nov&#160;32&#160;11:57&#160;UTC | true | [view](CERTS/b91a9874fbefc3feda9d5f9bd336e8b999c9b15b25aae7fe3c61d87373a5d1a1/README.md) |
 
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC

@@ -22,6 +22,7 @@ Description: STI certificates shall contain a Key Usage extension marked as crit
 | error | RCN SHAKEN Cert 7615 | [view](../../CERTS/bbdec20ad80f4a2a8ed097204a9299566beca170460fb648c81a51d195d9b6f1/README.md) | The Key Usage extension shall contain a single key usage value of digitalSignature |
 | error | Avid Communication SHAKEN Cert 742D | [view](../../CERTS/b63d54026dfcdfd16495ad6fdda8993de182c86b4aa870784177c38c53842cba/README.md) | The Key Usage extension shall contain a single key usage value of digitalSignature |
 | error | Telesystem SHAKEN Cert 786E | [view](../../CERTS/2d9aca0895c94291596161363091718089a6e7c19dfa57329ae548432533860f/README.md) | The Key Usage extension shall contain a single key usage value of digitalSignature |
+| error | Nex-Tech Wireless SHAKEN Cert 122D | [view](../../CERTS/efe569be452e63d91da204eeda5030f1b08846836bf9bf036f51b1da5411acdc/README.md) | The Key Usage extension shall contain a single key usage value of digitalSignature |
 | error | Northeast Oklahoma Electric Cooperative SHAKEN Cert 945H | [view](../../CERTS/b399b86f53e35dfa37c4cd7b28ee0132d934ef73354f564636d8edee42d58ccd/README.md) | The Key Usage extension shall contain a single key usage value of digitalSignature |
 | error | Tri-County Telephone Association Inc SHAKEN Cert 2296 | [view](../../CERTS/059194bbdc7ecfd6fc3d30b071e4d73565e14360c7a9d19c60f9274ec1025d0f/README.md) | The Key Usage extension shall contain a single key usage value of digitalSignature |
 | error | Call48 SHAKEN Cert 505J | [view](../../CERTS/5bb4516a62167e6c55e9704e4a49b39ce9ec480e678aa6c02fb6985fc9594997/README.md) | The Key Usage extension shall contain a single key usage value of digitalSignature |
@@ -58,4 +59,4 @@ Description: STI certificates shall contain a Key Usage extension marked as crit
 No error, warning, or notice level issues were found
 
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC

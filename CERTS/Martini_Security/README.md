@@ -11,19 +11,19 @@
 
 - 49 certificates were included in the corpus being tested
 - 20 certificates in the corpus were skipped because they are duplicates
-- 9 certificates in the corpus were skipped because they are expired
+- 14 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 20 certificates being tested against the remaining rules
+- 15 certificates being tested against the remaining rules
 - 1.00 issues on average found in unexpired, trusted, and non-compliant certificates
 - 0.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
-- 5.00% of certificates contain one or more Notice level issue
+- 6.67% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 99 days is the average remaining validity for the certificates in the corpus
-- 104 days is the average initial validity for the certificates in the corpus
-- 19 certificates expire in the next 30 days
-- 2.00 average number of unexpired certificates per OCN observed
-- 10 unique OCNs observed in unexpired and valid certificate corpus
+- 102 days is the average remaining validity for the certificates in the corpus
+- 108 days is the average initial validity for the certificates in the corpus
+- 14 certificates expire in the next 30 days
+- 2.14 average number of unexpired certificates per OCN observed
+- 7 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -56,11 +56,6 @@
 | Created At | Subject | Not After | Problems | Link |
 |------------|---------|-----------|----------|------|
 | 28&#160;Sep&#160;22&#160;18:19&#160;UTC | SHAKEN 709J | 28&#160;Sep&#160;23&#160;17:45&#160;UTC | true | [view](CERTS/8862209bef596987c13ab19a89a9fc62018dc2a4e8c9cb927827aadf1c458eee/README.md) |
-| 02&#160;Nov&#160;22&#160;19:01&#160;UTC | SHAKEN 039K | 31&#160;Jan&#160;23&#160;06:00&#160;UTC | false | [view](CERTS/6ffaa261e05bf2c924bb7e0e7f98cc4059d45d0df695ee04d1b686053b124c09/README.md) |
-| 02&#160;Nov&#160;22&#160;19:10&#160;UTC | SHAKEN 148K | 31&#160;Jan&#160;23&#160;05:00&#160;UTC | false | [view](CERTS/954cbc64af18f8489faf382126bf131364409bf8590445893e23f62a4227fd6a/README.md) |
-| 02&#160;Nov&#160;22&#160;19:19&#160;UTC | SHAKEN 076K | 31&#160;Jan&#160;23&#160;05:00&#160;UTC | false | [view](CERTS/b863f7e1b6fa414b2bc3d6eb3781467c6550a95855ead4407d758a0dbbc5eb23/README.md) |
-| 02&#160;Nov&#160;22&#160;19:37&#160;UTC | SHAKEN 031K | 31&#160;Jan&#160;23&#160;06:00&#160;UTC | false | [view](CERTS/f6631a3e9a2dd3a2482faf48c34167789d1da4618f67dd13979e3332177f4ec2/README.md) |
-| 02&#160;Nov&#160;22&#160;19:42&#160;UTC | SHAKEN 148K | 31&#160;Jan&#160;23&#160;05:00&#160;UTC | false | [view](CERTS/493046b32c772c2b13b64ef2d3c24e846c5f0958991e5c7231bf570ea347d54f/README.md) |
 | 07&#160;Nov&#160;22&#160;22:48&#160;UTC | SHAKEN 042K | 05&#160;Feb&#160;23&#160;05:00&#160;UTC | false | [view](CERTS/b19d4331d0bc3102e5998c08af429d4f26e9e1885e3bdc7149dd1ce84520d778/README.md) |
 | 09&#160;Nov&#160;22&#160;20:20&#160;UTC | SHAKEN 066K | 07&#160;Feb&#160;23&#160;06:00&#160;UTC | false | [view](CERTS/18b89a5058feb112abe94515607c30f7b8f678b48b3fd23ea95326b388d9eb4d/README.md) |
 | 09&#160;Nov&#160;22&#160;21:40&#160;UTC | SHAKEN 709J | 07&#160;Feb&#160;23&#160;06:00&#160;UTC | false | [view](CERTS/7a47c5bb90d19cfe67def3c4ad34299c0147253316172894a6fe8b69a3ca7318/README.md) |
@@ -85,4 +80,4 @@
 | 02&#160;Oct&#160;22&#160;10:40&#160;UTC | Martini Security SHAKEN G2 | 01&#160;Oct&#160;27&#160;10:40&#160;UTC | false | [view](CERTS/bf818ddbd3ae492e4a85331b85b52f4d2cdef8287bf910b59e247b6c132fa7fd/README.md) |
 
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC

@@ -9,29 +9,29 @@
 
 #### Leaf Certificates
 
-- 286 certificates were included in the corpus being tested
-- 160 certificates in the corpus were skipped because they are duplicates
+- 292 certificates were included in the corpus being tested
+- 162 certificates in the corpus were skipped because they are duplicates
 - 5 certificates in the corpus were skipped because they are expired
-- 4 certificates in the corpus were skipped because they are not currently trusted
-- 117 certificates being tested against the remaining rules
-- 2.89 issues on average found in unexpired, trusted, and non-compliant certificates
-- 99.15% of certificates contain one or more Error level issue
-- 25.64% of certificates contain one or more Warning level issue
+- 6 certificates in the corpus were skipped because they are not currently trusted
+- 119 certificates being tested against the remaining rules
+- 2.90 issues on average found in unexpired, trusted, and non-compliant certificates
+- 99.16% of certificates contain one or more Error level issue
+- 26.05% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
-- 23.93% of certificates are too old to be assessed against currently enforced expectations
-- 536 days is the average remaining validity for the certificates in the corpus
-- 540 days is the average initial validity for the certificates in the corpus
+- 24.37% of certificates are too old to be assessed against currently enforced expectations
+- 539 days is the average remaining validity for the certificates in the corpus
+- 543 days is the average initial validity for the certificates in the corpus
 - 1 certificates expire in the next 30 days
 - 1.02 average number of unexpired certificates per OCN observed
-- 115 unique OCNs observed in unexpired and valid certificate corpus
+- 117 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 92 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
-| 72 | [e_atis_extension_unknown](ISSUES/e_atis_extension_unknown/README.md) | ATIS1000080 |
-| 29 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 115 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
-| 30 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
+| 94 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
+| 73 | [e_atis_extension_unknown](ISSUES/e_atis_extension_unknown/README.md) | ATIS1000080 |
+| 30 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
+| 117 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 31 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
 
@@ -78,6 +78,7 @@
 | 24&#160;Mar&#160;21&#160;14:02&#160;UTC | Firstcomm5917 | 24&#160;Mar&#160;24&#160;14:02&#160;UTC | true | [view](CERTS/394a79b142d1ac314cfabcd5009dc93fff81c1e19a5d14fe5175ae197ab5c66f/README.md) |
 | 26&#160;Mar&#160;21&#160;12:05&#160;UTC | SHAKEN-925C | 26&#160;Mar&#160;24&#160;12:05&#160;UTC | true | [view](CERTS/497fc9dff6a178de5b6c33f6181ab092e273d03797a2026562808de76aafd623/README.md) |
 | 08&#160;Apr&#160;21&#160;09:47&#160;UTC | Orange | 08&#160;Apr&#160;24&#160;09:47&#160;UTC | true | [view](CERTS/ff8031532cb64b24c610ce0c4887726fb4d2b915322e0dac4e004f9f51ac118a/README.md) |
+| 13&#160;Apr&#160;21&#160;13:12&#160;UTC | SHAKEN-406H | 13&#160;Apr&#160;24&#160;13:12&#160;UTC | true | [view](CERTS/4d557f4e82049588ee17381bcff4a39f2212833ff5f310964aa060d9663d5bb7/README.md) |
 | 16&#160;Apr&#160;21&#160;20:26&#160;UTC | Five9 | 16&#160;Apr&#160;24&#160;20:26&#160;UTC | true | [view](CERTS/08087af11d90b5b7bd3519ce065262e6ec44ea1dcfbc1db3995cc1b0a08fd48e/README.md) |
 | 19&#160;Apr&#160;21&#160;23:44&#160;UTC | Warmego | 19&#160;Apr&#160;24&#160;23:44&#160;UTC | true | [view](CERTS/65bfa3f8b6aa342704363e4e0db5198f3f3583a9663f17901a7bb96fe2bfddf1/README.md) |
 | 03&#160;May&#160;21&#160;21:11&#160;UTC | WindstreamCommunication | 03&#160;May&#160;24&#160;21:11&#160;UTC | true | [view](CERTS/8626a6fbbb1f434721fe9a149a77d13a6ace0da4578904229794070248323973/README.md) |
@@ -110,6 +111,7 @@
 | 09&#160;May&#160;22&#160;18:44&#160;UTC | SHAKEN 767J | 09&#160;May&#160;23&#160;18:44&#160;UTC | true | [view](CERTS/9b6d281b3bd6181ed4af1e3733b7cd5ec87f4189b0a1594c14f5feb8abd6a1fd/README.md) |
 | 10&#160;May&#160;22&#160;10:42&#160;UTC | SHAKEN 005K | 10&#160;May&#160;23&#160;10:42&#160;UTC | true | [view](CERTS/639ec0e02a1c7bd0b564efb570da5cdd6e681facf141a9f696be31bc2103bb8e/README.md) |
 | 10&#160;May&#160;22&#160;18:17&#160;UTC | SHAKEN 402E | 10&#160;May&#160;23&#160;18:17&#160;UTC | true | [view](CERTS/28ad10381bce413d117b7eded64501ec8efb9a2587e41cc0d63ceae2f35ad351/README.md) |
+| 10&#160;May&#160;22&#160;18:22&#160;UTC | SHAKEN 964J | 10&#160;May&#160;23&#160;18:22&#160;UTC | true | [view](CERTS/263c834016f4a6e8d52d6bf6427706159a3bfee249e53fef8130b5c683b3b520/README.md) |
 | 11&#160;May&#160;22&#160;14:01&#160;UTC | SHAKEN 037K | 11&#160;May&#160;23&#160;14:01&#160;UTC | true | [view](CERTS/6310d6c65d4b74805242f9c679e32b336fc1fca1d29da50029df01403e7e672d/README.md) |
 | 13&#160;May&#160;22&#160;14:37&#160;UTC | SHAKEN 473G | 13&#160;May&#160;23&#160;14:37&#160;UTC | true | [view](CERTS/12cde52b1a2b43aeeab573361ef36eeb5b4783bf72442aeb0737ff7c9fba0fa2/README.md) |
 | 17&#160;May&#160;22&#160;12:10&#160;UTC | SHAKEN 869J | 17&#160;May&#160;23&#160;12:10&#160;UTC | true | [view](CERTS/59b248eb321b3b9368d9e67dfda2698c10a85bc4da834a1b046447a0c2924a34/README.md) |
@@ -191,4 +193,4 @@
 | 05&#160;Oct&#160;22&#160;17:26&#160;UTC | Neustar Certified Caller ID SHAKEN CA-2 | 05&#160;Oct&#160;32&#160;17:26&#160;UTC | true | [view](CERTS/0bd95ecbb97c09de0df079ca41e10c360c4b5928ac56c496879a2c90c6bbffe4/README.md) |
 
 
-Generated: 30 Jan 23 23:10 UTC
+Generated: 31 Jan 23 17:51 UTC
