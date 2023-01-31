@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 622J
 
-Tested At: 31 Jan 23 17:08 UTC\
+Tested At: 31 Jan 23 21:39 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: -13 day(s)\
 Subject: CN=SHAKEN 622J, OU=SHAKEN, O=Skye Telecom LLC, C=US\
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/622J/e06fa5f9-05dc-4e5f-894b-372cfe982
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 31 Jan 23 17:51 UTC
+Generated: 31 Jan 23 21:50 UTC

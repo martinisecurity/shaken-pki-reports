@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 403K
 
-Tested At: 31 Jan 23 17:44 UTC\
+Tested At: 31 Jan 23 21:42 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 304 day(s)\
 Subject: CN=SHAKEN 403K, O=Grasshopper Group LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/gh-2022-12
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 31 Jan 23 17:51 UTC
+Generated: 31 Jan 23 21:50 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 311H
 
-Tested At: 31 Jan 23 17:08 UTC\
+Tested At: 31 Jan 23 21:39 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -40 day(s)\
 Subject: CN=SHAKEN 311H, O=QCOL\\, Inc., C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/a4028d81-0073-4d75-aeed-9b2da6f31d1b/b1a3
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 31 Jan 23 17:51 UTC
+Generated: 31 Jan 23 21:50 UTC

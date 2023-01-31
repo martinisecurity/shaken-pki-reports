@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 005K
 
-Tested At: 31 Jan 23 17:44 UTC\
+Tested At: 31 Jan 23 21:42 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 99 day(s)\
 Subject: CN=SHAKEN 005K, O=PrimeVOX Communications, C=US\
@@ -18,4 +18,4 @@ Link: https://pvx1.s3.us-east-2.amazonaws.com/stirshaken/8448cc7eb8424d6ad5d2e6d
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 31 Jan 23 17:51 UTC
+Generated: 31 Jan 23 21:50 UTC

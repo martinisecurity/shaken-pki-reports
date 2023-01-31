@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 154E
 
-Tested At: 31 Jan 23 17:50 UTC\
+Tested At: 31 Jan 23 21:49 UTC\
 Initial Validity Period: 398 day(s)\
 Remaining Validity Period: 167 day(s)\
 Subject: CN=SHAKEN 154E, O=IRISTEL, C=CA\
@@ -17,4 +17,4 @@ Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/0581cac7b4b7ade97255fe
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 31 Jan 23 17:51 UTC
+Generated: 31 Jan 23 21:50 UTC

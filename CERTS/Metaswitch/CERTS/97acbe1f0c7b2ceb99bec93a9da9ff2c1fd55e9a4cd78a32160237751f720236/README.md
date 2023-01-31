@@ -2,7 +2,7 @@
 
 ## Certificate Utility SHAKEN Cert 9262
 
-Tested At: 31 Jan 23 17:48 UTC\
+Tested At: 31 Jan 23 21:48 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 515 day(s)\
 Subject: CN=Utility SHAKEN Cert 9262, O=Utility Telecom Group\\, LLC, C=US\
@@ -28,4 +28,4 @@ Link: https://sti-cr.cgah.tnsi.com/certs/9da57471f2181f41af029f868fb29eb79e8af23
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 31 Jan 23 17:51 UTC
+Generated: 31 Jan 23 21:50 UTC
