@@ -2,9 +2,9 @@
 
 ## Certificate Neustar Certified Caller ID SHAKEN CA-1
 
-Tested At: 31 Jan 23 21:50 UTC\
+Tested At: 08 Feb 23 19:45 UTC\
 Initial Validity Period: 3653 day(s)\
-Remaining Validity Period: 3123 day(s)\
+Remaining Validity Period: 3115 day(s)\
 Subject: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN Root CA, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US
 
@@ -27,4 +27,4 @@ Issuer: CN=Neustar Certified Caller ID SHAKEN Root CA, OU=www.ccid.neustar, O=Ne
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 31 Jan 23 21:50 UTC
+Generated: 08 Feb 23 19:45 UTC

@@ -3,11 +3,11 @@
 ## TransNexus
 
 Name: `https://certificates.clearip.com/4ba6f296-2d7c-42c2-8fe4-12b74f5076df/f878d0ecdabd3df5a26fb310a62b4c9b.pem`\
-Tested At: 31 Jan 23 21:39 UTC\
-Time: 12ms
+Tested At: 08 Feb 23 19:33 UTC\
+Time: 3ms
 
 ### Issues
 
 no warning, or error, or notice date level issues were found
 
-Generated: 31 Jan 23 21:50 UTC
+Generated: 08 Feb 23 19:45 UTC

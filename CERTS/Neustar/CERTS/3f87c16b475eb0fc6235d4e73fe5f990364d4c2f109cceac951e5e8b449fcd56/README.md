@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 611J
 
-Tested At: 31 Jan 23 21:42 UTC\
+Tested At: 08 Feb 23 19:36 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 141 day(s)\
+Remaining Validity Period: 134 day(s)\
 Subject: CN=SHAKEN 611J, O=Telcast Networks, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/9861b7e493ab608182e57524671889bf94cd2fc8
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/9861b7e493ab608182e57524671889bf94cd2fc8
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 31 Jan 23 21:50 UTC
+Generated: 08 Feb 23 19:45 UTC

@@ -10,21 +10,21 @@ This report is broken int two parts:
 
 ### Leaf Certificates
 
-- 2224 certificates were included in the corpus being tested
-- 194 certificates in the corpus were skipped because they are duplicates
-- 1575 certificates in the corpus were skipped because they are expired
-- 8 certificates in the corpus were skipped because they are not currently trusted
-- 447 certificates being tested against the remaining rules
-- 3.80 issues on average found in unexpired, trusted, and non-compliant certificates
-- 93.06% of certificates contain one or more Error level issue
-- 46.98% of certificates contain one or more Warning level issue
-- 1.12% of certificates contain one or more Notice level issue
-- 14.54% of certificates are too old to be assessed against currently enforced expectations
-- 316 days is the average remaining validity for the certificates in the corpus
-- 317 days is the average initial validity for the certificates in the corpus
-- 197 certificates expire in the next 30 days
-- 5.72 average number of unexpired certificates per OCN observed
-- 389 unique OCNs observed in unexpired and valid certificate corpus
+- 2357 certificates were included in the corpus being tested
+- 202 certificates in the corpus were skipped because they are duplicates
+- 1679 certificates in the corpus were skipped because they are expired
+- 9 certificates in the corpus were skipped because they are not currently trusted
+- 467 certificates being tested against the remaining rules
+- 3.75 issues on average found in unexpired, trusted, and non-compliant certificates
+- 95.29% of certificates contain one or more Error level issue
+- 48.82% of certificates contain one or more Warning level issue
+- 1.28% of certificates contain one or more Notice level issue
+- 13.92% of certificates are too old to be assessed against currently enforced expectations
+- 302 days is the average remaining validity for the certificates in the corpus
+- 302 days is the average initial validity for the certificates in the corpus
+- 218 certificates expire in the next 30 days
+- 6.03 average number of unexpired certificates per OCN observed
+- 391 unique OCNs observed in unexpired and valid certificate corpus
 
 ### CA Certificates
 
@@ -44,8 +44,8 @@ This report is broken int two parts:
 
 ## Certificate Repository URL
 
-- 50.56% of certificate repository URLs contain one or more Error level issue
-- 76.96% of certificates repository URLs contain one or more Warning level issue
+- 48.18% of certificate repository URLs contain one or more Error level issue
+- 77.30% of certificates repository URLs contain one or more Warning level issue
 - 0.00% of certificates repository URLs contain one or more Notice level issue
 
 ## Details
@@ -58,18 +58,18 @@ This report is broken int two parts:
 
 | Issuers | Certificates | Errors | Warnings | Notices | Not Effective |
 |---------|--------------|--------|----------|---------|---------------|
-| [Comcast](CERTS/Comcast/README.md#leaf-certificates) | 30 (6.71%) | 30 (100.00%) | 30 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [GBSDTech](CERTS/GBSDTech/README.md#leaf-certificates) | 3 (0.67%) | 3 (100.00%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Martini Security](CERTS/Martini_Security/README.md#leaf-certificates) | 30 (6.71%) | 0 (0.00%) | 0 (0.00%) | 1 (3.33%) | 0 (0.00%) |
-| [Metaswitch](CERTS/Metaswitch/README.md#leaf-certificates) | 41 (9.17%) | 41 (100.00%) | 1 (2.44%) | 0 (0.00%) | 36 (87.80%) |
-| [NetNumber](CERTS/NetNumber/README.md#leaf-certificates) | 4 (0.89%) | 4 (100.00%) | 0 (0.00%) | 4 (100.00%) | 0 (0.00%) |
-| [Neustar](CERTS/Neustar/README.md#leaf-certificates) | 120 (26.85%) | 119 (99.17%) | 31 (25.83%) | 0 (0.00%) | 29 (24.17%) |
-| [Peeringhub](CERTS/Peeringhub/README.md#leaf-certificates) | 8 (1.79%) | 8 (100.00%) | 1 (12.50%) | 0 (0.00%) | 0 (0.00%) |
-| [Ribbon Communications](CERTS/Ribbon_Communications/README.md#leaf-certificates) | 8 (1.79%) | 8 (100.00%) | 8 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Sansay](CERTS/Sansay/README.md#leaf-certificates) | 127 (28.41%) | 127 (100.00%) | 127 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [T-Mobile](CERTS/T-Mobile/README.md#leaf-certificates) | 2 (0.45%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [TransNexus](CERTS/TransNexus/README.md#leaf-certificates) | 74 (16.55%) | 74 (100.00%) | 10 (13.51%) | 0 (0.00%) | 0 (0.00%) |
-| **Total** | 447 (100.00%) | 416 (93.06%) | 210 (46.98%) | 5 (1.12%) | 65 (14.54%) |
+| [Comcast](CERTS/Comcast/README.md#leaf-certificates) | 30 (6.42%) | 30 (100.00%) | 30 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [GBSDTech](CERTS/GBSDTech/README.md#leaf-certificates) | 3 (0.64%) | 3 (100.00%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Martini Security](CERTS/Martini_Security/README.md#leaf-certificates) | 21 (4.50%) | 0 (0.00%) | 0 (0.00%) | 1 (4.76%) | 0 (0.00%) |
+| [Metaswitch](CERTS/Metaswitch/README.md#leaf-certificates) | 41 (8.78%) | 41 (100.00%) | 1 (2.44%) | 0 (0.00%) | 36 (87.80%) |
+| [NetNumber](CERTS/NetNumber/README.md#leaf-certificates) | 5 (1.07%) | 5 (100.00%) | 0 (0.00%) | 5 (100.00%) | 0 (0.00%) |
+| [Neustar](CERTS/Neustar/README.md#leaf-certificates) | 119 (25.48%) | 118 (99.16%) | 31 (26.05%) | 0 (0.00%) | 29 (24.37%) |
+| [Peeringhub](CERTS/Peeringhub/README.md#leaf-certificates) | 8 (1.71%) | 8 (100.00%) | 1 (12.50%) | 0 (0.00%) | 0 (0.00%) |
+| [Ribbon Communications](CERTS/Ribbon_Communications/README.md#leaf-certificates) | 8 (1.71%) | 8 (100.00%) | 8 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Sansay](CERTS/Sansay/README.md#leaf-certificates) | 145 (31.05%) | 145 (100.00%) | 145 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [T-Mobile](CERTS/T-Mobile/README.md#leaf-certificates) | 2 (0.43%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [TransNexus](CERTS/TransNexus/README.md#leaf-certificates) | 85 (18.20%) | 85 (100.00%) | 10 (11.76%) | 0 (0.00%) | 0 (0.00%) |
+| **Total** | 467 (100.00%) | 445 (95.29%) | 228 (48.82%) | 6 (1.28%) | 65 (13.92%) |
 
 ### CA Certificates
 
@@ -98,4 +98,4 @@ This report is broken int two parts:
 | Not Effective | Tests that exist in the current specifications but were not in effect at the time of issuance. |
 
 
-Generated: 31 Jan 23 21:50 UTC
+Generated: 08 Feb 23 19:45 UTC

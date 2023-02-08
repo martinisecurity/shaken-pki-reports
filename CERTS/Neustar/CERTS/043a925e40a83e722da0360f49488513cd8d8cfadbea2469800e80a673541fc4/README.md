@@ -2,9 +2,9 @@
 
 ## Certificate Ringcentral-ProdKeystore
 
-Tested At: 31 Jan 23 21:40 UTC\
+Tested At: 08 Feb 23 19:34 UTC\
 Initial Validity Period: 1096 day(s)\
-Remaining Validity Period: 375 day(s)\
+Remaining Validity Period: 368 day(s)\
 Subject: C=US, ST=CA, L=Belmont, O=Ringcentral, OU=Ringcentral, CN=Ringcentral-ProdKeystore\
 Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11155.10177
@@ -28,4 +28,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11155.10177
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 31 Jan 23 21:50 UTC
+Generated: 08 Feb 23 19:45 UTC

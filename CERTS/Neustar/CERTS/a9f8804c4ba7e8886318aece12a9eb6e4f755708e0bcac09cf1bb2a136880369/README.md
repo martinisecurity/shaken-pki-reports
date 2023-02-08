@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 4427
 
-Tested At: 31 Jan 23 21:40 UTC\
+Tested At: 08 Feb 23 19:35 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 113 day(s)\
+Remaining Validity Period: 105 day(s)\
 Subject: CN=SHAKEN 4427, O=Ziply Fiber, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11410.10158.pem
@@ -18,4 +18,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11410.10158.pem
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 31 Jan 23 21:50 UTC
+Generated: 08 Feb 23 19:45 UTC

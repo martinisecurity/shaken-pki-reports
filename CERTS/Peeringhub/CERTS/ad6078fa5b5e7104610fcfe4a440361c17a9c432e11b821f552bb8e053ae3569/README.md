@@ -2,9 +2,9 @@
 
 ## Certificate MAQS SOLUTIONS SHAKEN 255K
 
-Tested At: 31 Jan 23 21:42 UTC\
+Tested At: 08 Feb 23 19:35 UTC\
 Initial Validity Period: 38 day(s)\
-Remaining Validity Period: 33 day(s)\
+Remaining Validity Period: 26 day(s)\
 Subject: CN=MAQS SOLUTIONS SHAKEN 255K, O=MAQS SOLUTIONS LLC, L=Delaware, ST=DE, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://dial.maqssolution.live/255KJF23.pem
@@ -13,9 +13,9 @@ Link: https://dial.maqssolution.live/255KJF23.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
 
-Generated: 31 Jan 23 21:50 UTC
+Generated: 08 Feb 23 19:45 UTC

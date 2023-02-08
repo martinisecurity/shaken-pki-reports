@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 89ms average time it took to download each certificate
+- 155ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://dial.maqssolution.live/255KJF23.pem` | 05&#160;Mar&#160;23&#160;20:13&#160;UTC | true | [view](REPOS/c5a404d16e2174789cbf430fb838c5c58f516f81/README.md) |
 
 
-Generated: 31 Jan 23 21:50 UTC
+Generated: 08 Feb 23 19:45 UTC

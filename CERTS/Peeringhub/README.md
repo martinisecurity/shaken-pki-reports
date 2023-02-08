@@ -21,7 +21,7 @@
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
 - 230 days is the average remaining validity for the certificates in the corpus
 - 256 days is the average initial validity for the certificates in the corpus
-- 1 certificates expire in the next 30 days
+- 2 certificates expire in the next 30 days
 - 1.00 average number of unexpired certificates per OCN observed
 - 8 unique OCNs observed in unexpired and valid certificate corpus
 
@@ -44,7 +44,7 @@
 - 100.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 50.00% of certificates are too old to be assessed against currently enforced expectations
-- 5825 days is the average remaining validity for the certificates in the corpus
+- 5822 days is the average remaining validity for the certificates in the corpus
 - 5475 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -77,4 +77,4 @@
 | 22&#160;Jun&#160;22&#160;22:45&#160;UTC | Peeringhub Inc SHAKEN Intermediate CA 2 | 19&#160;Jun&#160;32&#160;22:45&#160;UTC | true | [view](CERTS/f00871963a40b04269c4b019968e42f9f40964cbfb512ff5342307e9942874ce/README.md) |
 
 
-Generated: 31 Jan 23 21:50 UTC
+Generated: 08 Feb 23 19:45 UTC

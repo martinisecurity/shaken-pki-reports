@@ -1,6 +1,5 @@
 OCN,Org Name,CN,Cert
 "005K","PrimeVOX Communications","SHAKEN 005K","https://pvx1.s3.us-east-2.amazonaws.com/stirshaken/8448cc7eb8424d6ad5d2e6d71bcf6629.cer"
-"023K","Pulsar360 Corp","SHAKEN 023K","https://ecms.securetransit.net/certs/410bad9e05a57353f0d8739a421be619.cer"
 "023b","Big River Telephone Company","BigRiverTelephoneCompany","https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11133.10171.pem"
 "030J","ANI Networks","SHAKEN 030J","https://certs.iverify-aninetworks.net/aninetworks_20220405.crt"
 "030K","G12 COMMUNICATIONS","SHAKEN 030K","https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/131.132"
@@ -27,6 +26,7 @@ OCN,Org Name,CN,Cert
 "261H","Voyce","SHAKEN 261H","https://ssc.getsipnav.com/certs/b00badc474bbf0d965554e422647a4fcc426eb0c"
 "292K","Falcon Endeavors","SHAKEN 292K","https://ssc.getsipnav.com/certs/0ca730172b48ae249d823ea924275602b5f36450"
 "295K","LOGIN LLC","SHAKEN 295K","https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/180.235"
+"305K","2Talk LLC","SHAKEN 305K","https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/189.253"
 "3130","Bullseye Telecom","SHAKEN 3130","https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11416.10156.pem"
 "3201","PRTC","SHAKEN 3201","https://prod001-cr.rbbnidhub.com/9JhfutuGgz/0"
 "333K","Aovatalk Communications Limited","SHAKEN 333K","https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/190.254"
@@ -92,7 +92,6 @@ OCN,Org Name,CN,Cert
 "772J","VOIP ESSENTIAL INC","SHAKEN 772J","https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11540.10157"
 "775J","Voip Stir PR LLC","SHAKEN 775J","https://ssc.getsipnav.com/certs/6e4eb792ee6ef8c9cb9e23f1a1e4d9979896c3f2"
 "782J","AM Communications Labs Inc","SHAKEN 782J","https://ssc.getsipnav.com/certs/d68017fb427d47359b7108377a18cf105aad7709"
-"785J","Range Telecom","SHAKEN 785J","https://ssc.getsipnav.com/certs/907a99e8008aa590695697cee73d401d4ef33451"
 "7914","Easton Telecom Services LLC","SHAKEN 7914","https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/81.164"
 "804J","QuestBlue Systems Inc","SHAKEN 804J","https://customer.questblue.com/assets/questblue_shaken.cer"
 "8052","Granite Telecom","Granite","https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11282.10179"

@@ -2,19 +2,19 @@
 
 ## Unknown
 
-- 7 repository URLs were included in the corpus being tested
+- 8 repository URLs were included in the corpus being tested
 - 0 repository URLs in the corpus were skipped because they were duplicated
-- 7 repository URLs being tested against the remaining rules
-- 3.57 issues on average found in non-compliant certificate repository URLs
+- 8 repository URLs being tested against the remaining rules
+- 3.25 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
-- 85.71% of repository URLs contain one or more Warning level issue
+- 75.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 1092ms average time it took to download each certificate
+- 4268ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
 | 6 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
-| 1 | [e_bad_url](ISSUES/e_bad_url/README.md) | System |
+| 2 | [e_bad_url](ISSUES/e_bad_url/README.md) | System |
 | 6 | [e_http_status_200](ISSUES/e_http_status_200/README.md) | HTTP |
 | 6 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 | 6 | [w_atis_pem_certificate_chain](ISSUES/w_atis_pem_certificate_chain/README.md) | ATIS-1000080 |
@@ -28,6 +28,7 @@
 | `https://dial.maqssolution.live/255KD22.pem` |  | true | [view](REPOS/cf98acc9ba51f2c5a919069993ad3fe8d5f58722/README.md) |
 | `https://dial.maqssolution.live/255KDJ23.pem` |  | true | [view](REPOS/23e8ed171b34663b4a5dd3483d9580e784ff9da5/README.md) |
 | `https://dial.maqssolution.live/255KN22.pem` |  | true | [view](REPOS/6c2ad4e98b5e0f7170cc4a7688cdf6377eeafddc/README.md) |
+| `https://ecms.securetransit.net/certs/410bad9e05a57353f0d8739a421be619.cer` |  | true | [view](REPOS/6034f9862b22502cb879614b1690e2d94043ecb9/README.md) |
 
 
-Generated: 31 Jan 23 21:50 UTC
+Generated: 08 Feb 23 19:45 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 403K
 
-Tested At: 31 Jan 23 21:42 UTC\
+Tested At: 08 Feb 23 19:36 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 304 day(s)\
+Remaining Validity Period: 296 day(s)\
 Subject: CN=SHAKEN 403K, O=Grasshopper Group LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/gh-2022-12
@@ -16,4 +16,4 @@ Link: https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/gh-2022-12
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 31 Jan 23 21:50 UTC
+Generated: 08 Feb 23 19:45 UTC
