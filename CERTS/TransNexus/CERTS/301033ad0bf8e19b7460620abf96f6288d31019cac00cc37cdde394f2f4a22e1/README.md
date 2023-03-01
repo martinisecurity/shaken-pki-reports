@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 766J
 
-Tested At: 08 Feb 23 19:33 UTC\
+Tested At: 01 Mar 23 18:12 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -58 day(s)\
+Remaining Validity Period: -79 day(s)\
 Subject: CN=SHAKEN 766J, O=Integrated Technology Services, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/4f32f256-5289-4c26-ad4b-2789b048087b/fa29cb55daed4b3661b6e1121ac3b016.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/4f32f256-5289-4c26-ad4b-2789b048087b/fa29
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 08 Feb 23 19:45 UTC
+Generated: 01 Mar 23 18:22 UTC

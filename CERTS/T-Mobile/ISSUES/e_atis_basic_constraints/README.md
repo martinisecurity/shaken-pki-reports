@@ -19,4 +19,4 @@ Description: STI certificates shall contain a Basic Constraints extension marked
 No error, warning, or notice level issues were found
 
 
-Generated: 08 Feb 23 19:45 UTC
+Generated: 01 Mar 23 18:22 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 856H
 
-Tested At: 08 Feb 23 19:33 UTC\
+Tested At: 01 Mar 23 18:12 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -1 day(s)\
+Remaining Validity Period: -22 day(s)\
 Subject: CN=SHAKEN 856H, O=Mix Networks Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/357a731f-0148-4a23-9fdf-41c8734c23a7/fc5876ce693516123d9335ea9b6a4850.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/357a731f-0148-4a23-9fdf-41c8734c23a7/fc58
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 08 Feb 23 19:45 UTC
+Generated: 01 Mar 23 18:22 UTC

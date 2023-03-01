@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 704J
 
-Tested At: 08 Feb 23 19:36 UTC\
+Tested At: 01 Mar 23 18:17 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 112 day(s)\
+Remaining Validity Period: 91 day(s)\
 Subject: CN=SHAKEN 704J, O=Clearly IP, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://r.stir.tel/704J/230531154218Z/cert.pem
@@ -18,4 +18,4 @@ Link: https://r.stir.tel/704J/230531154218Z/cert.pem
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 08 Feb 23 19:45 UTC
+Generated: 01 Mar 23 18:22 UTC

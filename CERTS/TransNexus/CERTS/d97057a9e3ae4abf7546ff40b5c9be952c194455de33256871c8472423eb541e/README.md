@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 551G
 
-Tested At: 08 Feb 23 19:34 UTC\
+Tested At: 01 Mar 23 18:14 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -142 day(s)\
+Remaining Validity Period: -162 day(s)\
 Subject: CN=SHAKEN 551G, OU=SHAKEN, O=Brightlink Communications LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/551G/ad6412b9-b448-4b1a-8e95-d00b1b0a6274.pem
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/551G/ad6412b9-b448-4b1a-8e95-d00b1b0a6
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 08 Feb 23 19:45 UTC
+Generated: 01 Mar 23 18:22 UTC

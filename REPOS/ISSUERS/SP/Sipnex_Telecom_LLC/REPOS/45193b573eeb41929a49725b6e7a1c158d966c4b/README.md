@@ -3,8 +3,8 @@
 ## Sipnex Telecom LLC
 
 Name: `https://ssc.getsipnav.com/certs/fef3962eaffeb276be4bf92fa16a666186c83733`\
-Tested At: 08 Feb 23 19:36 UTC\
-Time: 18ms
+Tested At: 01 Mar 23 18:18 UTC\
+Time: 84ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 18ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 08 Feb 23 19:45 UTC
+Generated: 01 Mar 23 18:22 UTC

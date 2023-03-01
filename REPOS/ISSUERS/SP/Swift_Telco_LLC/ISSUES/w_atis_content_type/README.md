@@ -10,6 +10,7 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
 | `https://cdn.cnxcdn.com/shaken/55.crt` | 23&#160;Jan&#160;24&#160;21:55&#160;UTC | true | [view](../../REPOS/117d3068e53a4fcca1b649b561462d1d5b5c5882/README.md) |
+| `https://cdn.cnxcdn.com/shaken/60.crt` | 29&#160;Mar&#160;23&#160;21:04&#160;UTC | true | [view](../../REPOS/6125c993dbe8905c2c62336206b5f189ed55c30d/README.md) |
 
 
-Generated: 08 Feb 23 19:45 UTC
+Generated: 01 Mar 23 18:22 UTC

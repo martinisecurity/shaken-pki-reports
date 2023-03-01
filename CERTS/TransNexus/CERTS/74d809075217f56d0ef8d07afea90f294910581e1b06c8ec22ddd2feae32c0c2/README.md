@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 242K
 
-Tested At: 08 Feb 23 19:33 UTC\
+Tested At: 01 Mar 23 18:13 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -30 day(s)\
+Remaining Validity Period: -50 day(s)\
 Subject: CN=SHAKEN 242K, O=Freshphone\\, Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/6fa91173-e74d-4426-8148-04a0cbc063c6/16366530cc1fc80de4ad83e0e91963c1.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/6fa91173-e74d-4426-8148-04a0cbc063c6/1636
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 08 Feb 23 19:45 UTC
+Generated: 01 Mar 23 18:22 UTC

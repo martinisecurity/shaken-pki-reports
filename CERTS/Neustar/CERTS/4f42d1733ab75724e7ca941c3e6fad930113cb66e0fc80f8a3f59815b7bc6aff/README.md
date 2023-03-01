@@ -2,12 +2,12 @@
 
 ## Certificate SHAKEN 782J
 
-Tested At: 08 Feb 23 19:36 UTC\
+Tested At: 01 Mar 23 18:17 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 78 day(s)\
+Remaining Validity Period: 58 day(s)\
 Subject: CN=SHAKEN 782J, O=AM Communications Labs Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
-Link: https://ssc.getsipnav.com/certs/d68017fb427d47359b7108377a18cf105aad7709
+Link: https://cr.veriswitch.com/amcom/cd3746aff04fc44f7b93bc7000d311e2.cer
 
 [View certificate details](https://understandingwebpki.com/?cert=MIIDCzCCArGgAwIBAgIUAWkgpUHHC3i6SYm3u0bPWCZAmEswCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0xMB4XDTIyMDQyNzE5MzcyMVoXDTIzMDQyNzE5MzcyMVowSDELMAkGA1UEBhMCVVMxIzAhBgNVBAoMGkFNIENvbW11bmljYXRpb25zIExhYnMgSW5jMRQwEgYDVQQDDAtTSEFLRU4gNzgySjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABEC56kPgLiicS369StQN%2BDKlBg7a1HmGO6fs%2B%2FmmWalrDr%2FH3V0rikg7pcy8FO00wKbi85%2FS%2BxgVI3rJMOqqi02jggE5MIIBNTAWBggrBgEFBQcBGgQKMAigBhYENzgySjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFK%2FRyMLuckyD%2FD%2FtGadtHZCyB%2FA6MFsGCCsGAQUFBwEBBE8wTTBLBggrBgEFBQcwAoY%2FaHR0cDovL2NhY2VydHMtdXMuY2NpZC5uZXVzdGFyL05ldXN0YXJDZXJ0aWZpZWRDYWxsZXJJZENBMS5jcnQgMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBATBHBgNVHR8EQDA%2BMDygOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmwwHQYDVR0OBBYEFDnDz2fTjoXEvW5jAmePE3ZlTkZCMA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNIADBFAiB47MuWZ%2FG0TS3%2BqiMXmQgQQEYrnrDGdfvX1Jodp8QxQAIhANec3tEv5vrAi%2BUp%2FPdzqDI2etGWpQ32ljjKXfWNpoIK)
 
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/d68017fb427d47359b7108377a18cf105aad7709
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 08 Feb 23 19:45 UTC
+Generated: 01 Mar 23 18:22 UTC

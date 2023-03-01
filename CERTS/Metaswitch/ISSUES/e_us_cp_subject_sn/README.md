@@ -30,6 +30,7 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 | error | Fidelity Communications SHAKEN Cert 1882 | [view](../../CERTS/baaf8e58db0f02327fc5b9b614a5633c7b505ca0b291b606d32a191ee73a05e5/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Appalachian Wireless SHAKEN Cert 6940 | [view](../../CERTS/e14170c681e75c37d0ca45e304c09cc0d148246bd7d72e96f91f7a8fe27339fa/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Everstream SHAKEN Cert 472C  | [view](../../CERTS/8710bb38debebd39698fb1c273409b173951cca1fab53a6d4c4aca91e61e06df/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| error | Foothills Rural Tel SHAKEN Cert 0406 | [view](../../CERTS/89a593de82dbaebcffd8d3d577faf5d7f4a6a898608bc75f9cbde11a9cf4f179/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Valley Telephone Cooperative Inc / VTX1 SHAKEN 2159 | [view](../../CERTS/f0883d130f625c1b8157e54e090e4df461fd9afc05aff09d5a08cf50f9cd37aa/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | Cspire SHAKEN Cert 6581 | [view](../../CERTS/09ed5b3292b5bfc7ac80b1027a827138b9503aa8053a61431a8dc851ecad04f2/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | error | CTS Telecom, Inc SHAKEN Cert 8331 | [view](../../CERTS/5c9f6132a96a05a58d02d845ee70e914659682623fb98acbbecd9f8e383dcbec/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
@@ -59,4 +60,4 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 No error, warning, or notice level issues were found
 
 
-Generated: 08 Feb 23 19:45 UTC
+Generated: 01 Mar 23 18:22 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 707J
 
-Tested At: 08 Feb 23 19:36 UTC\
+Tested At: 01 Mar 23 18:17 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -99 day(s)\
+Remaining Validity Period: -120 day(s)\
 Subject: CN=SHAKEN 707J, O=TextNow Inc., C=CA\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://pki.tncp.textnow.com/stir-shaken-textnow-cert.pem
@@ -25,4 +25,4 @@ Link: https://pki.tncp.textnow.com/stir-shaken-textnow-cert.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 08 Feb 23 19:45 UTC
+Generated: 01 Mar 23 18:22 UTC

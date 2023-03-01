@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 815G
 
-Tested At: 08 Feb 23 19:34 UTC\
+Tested At: 01 Mar 23 18:14 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: 61 day(s)\
+Remaining Validity Period: 40 day(s)\
 Subject: CN=SHAKEN 815G, O=382 Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/815G/57d5ff38-4ded-4bca-a725-05e7e9c80b02.pem
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/815G/57d5ff38-4ded-4bca-a725-05e7e9c80
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 08 Feb 23 19:45 UTC
+Generated: 01 Mar 23 18:22 UTC

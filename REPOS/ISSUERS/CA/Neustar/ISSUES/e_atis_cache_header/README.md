@@ -10,6 +10,7 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/1.1` | 21&#160;Aug&#160;23&#160;00:54&#160;UTC | true | [view](../../REPOS/6b6f6478b3872d6b2aa2000a590486031c62e4c3/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/117.115` | 21&#160;Apr&#160;23&#160;15:35&#160;UTC | true | [view](../../REPOS/5ff374330370cabd7d29fae95080fe773dac05d8/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/120.121` | 20&#160;Apr&#160;23&#160;20:54&#160;UTC | true | [view](../../REPOS/e566fe7eecf1e618e39afa04d3f232beeef09ae9/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/127.128` | 09&#160;May&#160;23&#160;18:44&#160;UTC | true | [view](../../REPOS/951b19731da6797c39a3e010849995dd37e66c5e/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/128.129` | 11&#160;May&#160;23&#160;14:01&#160;UTC | true | [view](../../REPOS/0d20000a6b517c97ad43521b2aa1b2a5566e12e1/README.md) |
@@ -27,11 +28,14 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/168.185` | 29&#160;Jun&#160;23&#160;22:00&#160;UTC | true | [view](../../REPOS/c5414d2a21ee3d422de84b8dbab4491cc5a5b04e/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/179.233` | 08&#160;Aug&#160;23&#160;12:58&#160;UTC | true | [view](../../REPOS/954d57dbd4d7a6da6322bc11683d086f3507d80e/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/180.235` | 16&#160;Aug&#160;23&#160;20:07&#160;UTC | true | [view](../../REPOS/141fcf8085490223cbc008d27d7590db109ac32d/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/182.252` | 26&#160;Oct&#160;23&#160;20:35&#160;UTC | true | [view](../../REPOS/2f9f81f08e9c9b166114eb860318facd2d2524b4/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/189.253` | 20&#160;Oct&#160;23&#160;18:45&#160;UTC | true | [view](../../REPOS/9b49c2c3cc4e6d68c872e633529b3fdf91ba289a/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/190.254` | 14&#160;Nov&#160;23&#160;14:53&#160;UTC | true | [view](../../REPOS/13a08f703f69576afc044c6567ebdcacd8169f19/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/207.271` | 16&#160;Feb&#160;24&#160;03:36&#160;UTC | true | [view](../../REPOS/263ee896cfbddf156570316900acab6f81860fdb/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/25.196` | 26&#160;Mar&#160;24&#160;12:05&#160;UTC | true | [view](../../REPOS/32fe5e30cd2e0b8fb7b389034d135b00d7d39208/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/37.202` | 13&#160;Apr&#160;24&#160;13:12&#160;UTC | true | [view](../../REPOS/ed73cd45d6bfeab3d653320369ed0d4db79b17e3/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/39.203` | 19&#160;Apr&#160;24&#160;23:44&#160;UTC | true | [view](../../REPOS/e1180f60557a72b14541350856939e8696257512/README.md) |
+| `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/45.207` | 30&#160;Apr&#160;24&#160;22:45&#160;UTC | true | [view](../../REPOS/2a3bc681b9ca981573e4d4b08039a8e28f03ddc2/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/49.162` | 17&#160;Jun&#160;23&#160;21:25&#160;UTC | true | [view](../../REPOS/8bd510d34b1011dd87b929851c41bf5acc3c6c4e/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/77.226` | 08&#160;Jul&#160;23&#160;17:49&#160;UTC | true | [view](../../REPOS/4bd1e44976a991af4b32947748994ff036b900dd/README.md) |
 | `https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/81.164` | 17&#160;Jun&#160;23&#160;13:50&#160;UTC | true | [view](../../REPOS/4a926954bac19a7eafaf7ced30b8424798b992b5/README.md) |
@@ -70,7 +74,7 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11438.10200.pem` | 08&#160;Aug&#160;23&#160;14:30&#160;UTC | true | [view](../../REPOS/cf8151857e05b09f06ef88830cd401e4dd12997e/README.md) |
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11478.10162.pem` | 12&#160;Jun&#160;23&#160;15:18&#160;UTC | true | [view](../../REPOS/785ff67dbe91787bb7a0eafab937eb9ba6a6ac9a/README.md) |
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11484.10112` | 26&#160;Oct&#160;23&#160;16:36&#160;UTC | true | [view](../../REPOS/c6c3c12122496eac46f344619bc96a2bfbfd3f46/README.md) |
-| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11508.10138` | 16&#160;Mar&#160;23&#160;13:10&#160;UTC | true | [view](../../REPOS/8a0147e1fe8cc8c729b699b7f489125ceb15f75f/README.md) |
+| `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11508.10138` | 02&#160;Feb&#160;24&#160;16:44&#160;UTC | true | [view](../../REPOS/8a0147e1fe8cc8c729b699b7f489125ceb15f75f/README.md) |
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11528.10146` | 01&#160;Feb&#160;24&#160;21:47&#160;UTC | true | [view](../../REPOS/e62000202d91785dc783dcc0d707b56bf49e6084/README.md) |
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11535.10153` | 09&#160;May&#160;23&#160;14:53&#160;UTC | true | [view](../../REPOS/faefbe487c50bf41ad3f5ab83a2e1b0dd5383677/README.md) |
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11538.10154` | 13&#160;May&#160;23&#160;14:37&#160;UTC | true | [view](../../REPOS/dd87eb9657b835415b8c41cad14052a08f63e65a/README.md) |
@@ -82,4 +86,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11569.10207.pem` | 23&#160;Jun&#160;23&#160;15:04&#160;UTC | true | [view](../../REPOS/f58ee9e070a65678ed44aeb41120efc5685db110/README.md) |
 
 
-Generated: 08 Feb 23 19:45 UTC
+Generated: 01 Mar 23 18:22 UTC

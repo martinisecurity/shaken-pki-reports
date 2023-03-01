@@ -1,0 +1,22 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN Every1 Telecom 486K
+
+Tested At: 01 Mar 23 18:17 UTC\
+Initial Validity Period: 30 day(s)\
+Remaining Validity Period: 17 day(s)\
+Subject: CN=SHAKEN Every1 Telecom 486K, OU=President, O=Every1 Telecom, ST=Texas, C=US\
+Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
+Link: https://cr.sansay.com/Every1_Telecom_486K
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC0jCCAnmgAwIBAgIUQpx8cHEeOCDwuOHerm%2FzJiJkYYowCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9ybmlhMRswGQYDVQQKDBJTYW5zYXkgQ29ycG9yYXRpb24xEjAQBgNVBAsMCVNhbnNheSBDQTEwMC4GA1UEAwwnU0hBS0VOIFNhbnNheSBJbnRlcm1lZGlhdGUgQ0EgVVMgV0VTVCAxMB4XDTIzMDIxNjAwMzAyMloXDTIzMDMxODAwMzAyMlowbzELMAkGA1UEBhMCVVMxDjAMBgNVBAgMBVRleGFzMRcwFQYDVQQKDA5FdmVyeTEgVGVsZWNvbTESMBAGA1UECwwJUHJlc2lkZW50MSMwIQYDVQQDDBpTSEFLRU4gRXZlcnkxIFRlbGVjb20gNDg2SzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABCjLZj8zhGPkCC0iLijO1zTqteJccJkiwAiQ%2BIErNbSmqiuQOYLT%2Bkrqj0ud%2FzMnOkEZLJepZVeKLXh9l7XJMzqjgdswgdgwFgYIKwYBBQUHARoECjAIoAYWBDQ4NkswFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEDMB0GA1UdDgQWBBTdImcpMSSNy0%2B6YxbatnI1MMlDxDAfBgNVHSMEGDAWgBSs05P1Q0PMCr5FWBcTfZJ83MMBRjBHBgNVHR8EQDA%2BMDygOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmwwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwCgYIKoZIzj0EAwIDRwAwRAIgMtaj7cVm3UUYrj369PguE8MpBVTsRSEJzN0F1%2FcwM3YCIDfFmiyQkMQmN3mF3Y%2FqWhMlPKyNvmUqiX9QFLjPtvI3)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 486K' |
+
+
+Generated: 01 Mar 23 18:22 UTC

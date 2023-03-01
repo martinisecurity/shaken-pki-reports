@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 969H
 
-Tested At: 08 Feb 23 19:44 UTC\
+Tested At: 01 Mar 23 18:22 UTC\
 Initial Validity Period: 398 day(s)\
-Remaining Validity Period: 317 day(s)\
+Remaining Validity Period: 296 day(s)\
 Subject: CN=SHAKEN 969H, O=Google Voice Canada Corporation, C=CA\
 Issuer: CN=Neustar Canada Certified Caller ID SHAKEN CA-2, OU=www.ca.ccid.neustar, O=Neustar Information Services Inc, C=CA\
 Link: https://www.gstatic.com/gtp/stir/cpT9T1Zsg38JSHSBuNGgyg.pem
@@ -13,8 +13,8 @@ Link: https://www.gstatic.com/gtp/stir/cpT9T1Zsg38JSHSBuNGgyg.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 08 Feb 23 19:45 UTC
+Generated: 01 Mar 23 18:22 UTC

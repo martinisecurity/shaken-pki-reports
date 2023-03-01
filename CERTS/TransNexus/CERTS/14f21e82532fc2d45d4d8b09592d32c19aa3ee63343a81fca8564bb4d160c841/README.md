@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 622J
 
-Tested At: 08 Feb 23 19:34 UTC\
+Tested At: 01 Mar 23 18:14 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: -108 day(s)\
+Remaining Validity Period: -129 day(s)\
 Subject: CN=SHAKEN 622J, OU=SHAKEN, O=Skye Telecom LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/622J/03cbcfec-3614-4fd4-8c38-495fbae7f25d.pem
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/622J/03cbcfec-3614-4fd4-8c38-495fbae7f
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 08 Feb 23 19:45 UTC
+Generated: 01 Mar 23 18:22 UTC
