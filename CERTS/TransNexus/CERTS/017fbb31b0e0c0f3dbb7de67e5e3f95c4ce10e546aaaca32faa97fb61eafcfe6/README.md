@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 621J
 
-Tested At: 01 Mar 23 18:14 UTC\
+Tested At: 09 Mar 23 22:59 UTC\
 Initial Validity Period: 120 day(s)\
-Remaining Validity Period: 72 day(s)\
+Remaining Validity Period: 64 day(s)\
 Subject: CN=SHAKEN 621J, O=Voice Ring Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/621J/06d45ddc-1929-4ac6-93f3-dbb81534a319.pem
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/621J/06d45ddc-1929-4ac6-93f3-dbb81534a
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 01 Mar 23 18:22 UTC
+Generated: 10 Mar 23 02:25 UTC

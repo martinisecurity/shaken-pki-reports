@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 037K
 
-Tested At: 01 Mar 23 18:14 UTC\
+Tested At: 09 Mar 23 22:59 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 71 day(s)\
+Remaining Validity Period: 63 day(s)\
 Subject: CN=SHAKEN 037K, O=Sterling Communications Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/128.129
@@ -18,4 +18,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/128.129
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 01 Mar 23 18:22 UTC
+Generated: 10 Mar 23 02:25 UTC

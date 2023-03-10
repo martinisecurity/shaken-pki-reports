@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Sansay Intermediate CA Canada 1
 
-Tested At: 01 Mar 23 18:22 UTC\
+Tested At: 10 Mar 23 02:25 UTC\
 Initial Validity Period: 3285 day(s)\
-Remaining Validity Period: 2950 day(s)\
+Remaining Validity Period: 2942 day(s)\
 Subject: CN=SHAKEN Sansay Intermediate CA Canada 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Issuer: CN=SHAKEN Sansay Root CA Canada, OU=Sansay CA, O=Sansay Corporation, L=San Diego, ST=California, C=US
 
@@ -17,4 +17,4 @@ Issuer: CN=SHAKEN Sansay Root CA Canada, OU=Sansay CA, O=Sansay Corporation, L=S
 | [w_shaken_ca_subject_rdn_unknown](../../ISSUES/w_shaken_ca_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 01 Mar 23 18:22 UTC
+Generated: 10 Mar 23 02:25 UTC

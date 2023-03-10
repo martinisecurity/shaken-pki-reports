@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `http://sip.ash.bmc.dlr.freevoicepbx.com/Freevoice_963J`\
-Tested At: 01 Mar 23 18:10 UTC\
-Time: 28ms
+Tested At: 09 Mar 23 22:57 UTC\
+Time: 180ms
 
 ### Issues
 
@@ -16,4 +16,4 @@ Time: 28ms
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 | [w_atis_protocol](../../ISSUES/w_atis_protocol/README.md) | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 
-Generated: 01 Mar 23 18:22 UTC
+Generated: 10 Mar 23 02:25 UTC

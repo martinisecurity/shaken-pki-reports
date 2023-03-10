@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 005K
 
-Tested At: 01 Mar 23 18:17 UTC\
+Tested At: 09 Mar 23 23:18 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 70 day(s)\
+Remaining Validity Period: 62 day(s)\
 Subject: CN=SHAKEN 005K, O=PrimeVOX Communications, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://pvx1.s3.us-east-2.amazonaws.com/stirshaken/8448cc7eb8424d6ad5d2e6d71bcf6629.cer
@@ -18,4 +18,4 @@ Link: https://pvx1.s3.us-east-2.amazonaws.com/stirshaken/8448cc7eb8424d6ad5d2e6d
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 01 Mar 23 18:22 UTC
+Generated: 10 Mar 23 02:25 UTC

@@ -3,14 +3,13 @@
 ## Comcast
 
 Name: `https://sticr.stir.comcast.com/7faebfa5-5e56-4e1b-91de-94b0b0ed0991.cer`\
-Tested At: 01 Mar 23 18:22 UTC\
-Time: 34ms
+Tested At: 10 Mar 23 00:55 UTC\
+Time: 30028ms
 
 ### Issues
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
-| [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "https://sticr.stir.comcast.com/7faebfa5-5e56-4e1b-91de-94b0b0ed0991.cer": dial tcp 96.113.143.228:443: i/o timeout |
 
-Generated: 01 Mar 23 18:22 UTC
+Generated: 10 Mar 23 02:25 UTC

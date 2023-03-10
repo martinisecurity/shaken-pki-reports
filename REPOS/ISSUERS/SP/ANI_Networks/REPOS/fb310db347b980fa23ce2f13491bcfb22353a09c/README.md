@@ -3,8 +3,8 @@
 ## ANI Networks
 
 Name: `https://certs.iverify-aninetworks.net/aninetworks_20220405.crt`\
-Tested At: 01 Mar 23 18:14 UTC\
-Time: 96ms
+Tested At: 09 Mar 23 22:59 UTC\
+Time: 112ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 96ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header has 'max-age' directive but it's value is less than 24 hours |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 01 Mar 23 18:22 UTC
+Generated: 10 Mar 23 02:25 UTC

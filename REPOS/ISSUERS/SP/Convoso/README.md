@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 306ms average time it took to download each certificate
+- 150ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://stirshaken.s3.us-west-1.amazonaws.com/stirshaken.pem` | 10&#160;Mar&#160;23&#160;07:00&#160;UTC | true | [view](REPOS/6aa4ff04210277e8b82963966d5665dfb5868515/README.md) |
+| `https://stirshaken.s3.us-west-1.amazonaws.com/stirshaken.pem` | 09&#160;Apr&#160;23&#160;07:00&#160;UTC | true | [view](REPOS/6aa4ff04210277e8b82963966d5665dfb5868515/README.md) |
 
 
-Generated: 01 Mar 23 18:22 UTC
+Generated: 10 Mar 23 02:25 UTC

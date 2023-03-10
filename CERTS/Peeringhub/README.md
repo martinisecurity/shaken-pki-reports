@@ -9,27 +9,27 @@
 
 #### Leaf Certificates
 
-- 9 certificates were included in the corpus being tested
+- 10 certificates were included in the corpus being tested
 - 1 certificates in the corpus were skipped because they are duplicates
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 8 certificates being tested against the remaining rules
-- 3.12 issues on average found in unexpired, trusted, and non-compliant certificates
+- 9 certificates being tested against the remaining rules
+- 3.11 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
-- 12.50% of certificates contain one or more Warning level issue
+- 11.11% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 230 days is the average remaining validity for the certificates in the corpus
-- 255 days is the average initial validity for the certificates in the corpus
-- 2 certificates expire in the next 30 days
+- 209 days is the average remaining validity for the certificates in the corpus
+- 231 days is the average initial validity for the certificates in the corpus
+- 4 certificates expire in the next 30 days
 - 1.00 average number of unexpired certificates per OCN observed
-- 8 unique OCNs observed in unexpired and valid certificate corpus
+- 9 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 8 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
-| 8 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 8 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 9 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
+| 9 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
+| 9 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
 | 1 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
@@ -44,7 +44,7 @@
 - 100.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 50.00% of certificates are too old to be assessed against currently enforced expectations
-- 5815 days is the average remaining validity for the certificates in the corpus
+- 5813 days is the average remaining validity for the certificates in the corpus
 - 5475 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -68,6 +68,7 @@
 | 16&#160;Nov&#160;22&#160;00:03&#160;UTC | Televoip SHAKEN 438K | 11&#160;Nov&#160;23&#160;00:08&#160;UTC | true | [view](CERTS/2e22094a03b8d7e2d2f37cb2ea5d5778d122fdbc3d0c83e3f8f984c8cf03a2e3/README.md) |
 | 20&#160;Feb&#160;23&#160;10:31&#160;UTC | TalkAsiaVoip LLC SHAKEN 198K2 | 26&#160;Mar&#160;23&#160;12:36&#160;UTC | true | [view](CERTS/ce573198dc0e6e6b6e285004480259b9da6362e78977bbb3ee3de9bd1aa9adb4/README.md) |
 | 24&#160;Feb&#160;23&#160;20:49&#160;UTC | INX21 SHAKEN 281K | 31&#160;Mar&#160;23&#160;20:14&#160;UTC | true | [view](CERTS/a76297d42b4253c1e2d52b5f2d2a3d5de0d07010601441b37e02dbf6a6966857/README.md) |
+| 27&#160;Feb&#160;23&#160;13:40&#160;UTC | MAQS SOLUTION SHAKEN 255K | 02&#160;Apr&#160;23&#160;20:13&#160;UTC | true | [view](CERTS/88aa99bfaba0f4154cb05a78796c6bd7e0d1f1eb583fedab262b13adb8e58e01/README.md) |
 
 #### CA Certificates
 
@@ -77,4 +78,4 @@
 | 22&#160;Jun&#160;22&#160;22:45&#160;UTC | Peeringhub Inc SHAKEN Intermediate CA 2 | 19&#160;Jun&#160;32&#160;22:45&#160;UTC | true | [view](CERTS/f00871963a40b04269c4b019968e42f9f40964cbfb512ff5342307e9942874ce/README.md) |
 
 
-Generated: 01 Mar 23 18:22 UTC
+Generated: 10 Mar 23 02:25 UTC

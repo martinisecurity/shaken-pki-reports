@@ -2,9 +2,9 @@
 
 ## Certificate Buckeye SHAKEN Cert 7608
 
-Tested At: 01 Mar 23 18:22 UTC\
+Tested At: 09 Mar 23 23:25 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 477 day(s)\
+Remaining Validity Period: 469 day(s)\
 Subject: CN=Buckeye SHAKEN Cert 7608, O=Buckeye Telesystem Inc, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://sti-cr.cgah.tnsi.com/certs/ccf242c7f37d7d7d0af1091ba5d7894e312ccedd
@@ -28,4 +28,4 @@ Link: https://sti-cr.cgah.tnsi.com/certs/ccf242c7f37d7d7d0af1091ba5d7894e312cced
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 01 Mar 23 18:22 UTC
+Generated: 10 Mar 23 02:25 UTC

@@ -3,8 +3,8 @@
 ## MagicJack
 
 Name: `https://cr-east1.sansay.com/MagicJack_324E.crt`\
-Tested At: 01 Mar 23 18:14 UTC\
-Time: 99ms
+Tested At: 09 Mar 23 22:59 UTC\
+Time: 318ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 99ms
 |------|------|--------|---------|
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 01 Mar 23 18:22 UTC
+Generated: 10 Mar 23 02:25 UTC
