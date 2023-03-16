@@ -3,13 +3,16 @@
 ## Comcast
 
 Name: `https://sticr.stir.comcast.com/a48b4800-d5ca-4ad4-ac62-05b8cce15b30.cer`\
-Tested At: 10 Mar 23 01:15 UTC\
-Time: 30014ms
+Tested At: 16 Mar 23 19:17 UTC\
+Time: 139ms
 
 ### Issues
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "https://sticr.stir.comcast.com/a48b4800-d5ca-4ad4-ac62-05b8cce15b30.cer": dial tcp 96.113.143.228:443: i/o timeout |
+| [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
+| [e_http_status_200](../../ISSUES/e_http_status_200/README.md) | error | HTTP | HTTP response shall have StatusCode 200, but it is 404 Not Found |
+| [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
+| [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 10 Mar 23 02:25 UTC
+Generated: 16 Mar 23 19:18 UTC

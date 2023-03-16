@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 393J
 
-Tested At: 09 Mar 23 23:16 UTC\
+Tested At: 16 Mar 23 19:04 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 330 day(s)\
+Remaining Validity Period: 323 day(s)\
 Subject: CN=SHAKEN 393J, O=Cloudli Communications, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11508.10138
@@ -16,4 +16,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11508.10138
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 10 Mar 23 02:25 UTC
+Generated: 16 Mar 23 19:18 UTC

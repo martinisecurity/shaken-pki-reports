@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 743J
 
-Tested At: 09 Mar 23 23:19 UTC\
+Tested At: 16 Mar 23 19:09 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 111 day(s)\
+Remaining Validity Period: 105 day(s)\
 Subject: CN=SHAKEN 743J, O=Whisl Telecom LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/8edc7b58944d44dd597d88ceae74ae41fa544d2e
@@ -14,8 +14,8 @@ Link: https://ssc.getsipnav.com/certs/8edc7b58944d44dd597d88ceae74ae41fa544d2e
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 10 Mar 23 02:25 UTC
+Generated: 16 Mar 23 19:18 UTC

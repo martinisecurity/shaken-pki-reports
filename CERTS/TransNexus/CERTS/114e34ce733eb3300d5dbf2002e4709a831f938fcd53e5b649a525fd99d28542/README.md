@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 4156
 
-Tested At: 09 Mar 23 22:58 UTC\
+Tested At: 16 Mar 23 19:03 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -19 day(s)\
+Remaining Validity Period: -25 day(s)\
 Subject: CN=SHAKEN 4156, O=Arvig, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/f0716e63-b288-44a2-8616-d4f89fc09da7/8f7e20970d3895cec8805c370eb7511d.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/f0716e63-b288-44a2-8616-d4f89fc09da7/8f7e
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 10 Mar 23 02:25 UTC
+Generated: 16 Mar 23 19:18 UTC

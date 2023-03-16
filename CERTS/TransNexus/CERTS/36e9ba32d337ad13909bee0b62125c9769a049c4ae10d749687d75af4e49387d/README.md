@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 873J
 
-Tested At: 09 Mar 23 22:59 UTC\
+Tested At: 16 Mar 23 19:04 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 322 day(s)\
+Remaining Validity Period: 315 day(s)\
 Subject: CN=SHAKEN 873J, O=MobileSphere, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/873J/2bf97ab1-3231-4b99-af44-91c325276fe7.pem
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/873J/2bf97ab1-3231-4b99-af44-91c325276
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 10 Mar 23 02:25 UTC
+Generated: 16 Mar 23 19:18 UTC

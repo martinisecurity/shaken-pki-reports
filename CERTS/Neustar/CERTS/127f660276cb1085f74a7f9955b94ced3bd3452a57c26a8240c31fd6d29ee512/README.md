@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 819J
 
-Tested At: 09 Mar 23 22:59 UTC\
+Tested At: 16 Mar 23 19:04 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 91 day(s)\
+Remaining Validity Period: 84 day(s)\
 Subject: CN=SHAKEN 819J, O=Crexendo Business Solutions Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/146.147
@@ -18,4 +18,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/146.147
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 10 Mar 23 02:25 UTC
+Generated: 16 Mar 23 19:18 UTC

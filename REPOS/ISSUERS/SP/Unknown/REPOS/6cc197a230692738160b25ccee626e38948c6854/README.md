@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://sticr-cstga.ccid.neustar/api/v1/certificate/3f7be0c667b2f3c24546cf26629eb906.crt`\
-Tested At: 09 Mar 23 23:26 UTC\
-Time: 99ms
+Tested At: 16 Mar 23 19:17 UTC\
+Time: 20ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 99ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 10 Mar 23 02:25 UTC
+Generated: 16 Mar 23 19:18 UTC

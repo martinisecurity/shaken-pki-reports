@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 079C
 
-Tested At: 09 Mar 23 22:58 UTC\
+Tested At: 16 Mar 23 19:03 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -4 day(s)\
+Remaining Validity Period: -10 day(s)\
 Subject: CN=SHAKEN 079C, O=ValTech Enterprises, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/ddc9bc19-a591-4a7f-9a33-b873c7059d1d/d4e3c70e25b19278cf405386c897468f.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/ddc9bc19-a591-4a7f-9a33-b873c7059d1d/d4e3
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 10 Mar 23 02:25 UTC
+Generated: 16 Mar 23 19:18 UTC

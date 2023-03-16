@@ -3,8 +3,8 @@
 ## Sansay
 
 Name: `https://cr.sansay.com/Talk_IT_Pro_321K102522`\
-Tested At: 09 Mar 23 23:17 UTC\
-Time: 18ms
+Tested At: 16 Mar 23 19:07 UTC\
+Time: 70ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 18ms
 |------|------|--------|---------|
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 10 Mar 23 02:25 UTC
+Generated: 16 Mar 23 19:18 UTC

@@ -9,30 +9,30 @@
 
 #### Leaf Certificates
 
-- 12 certificates were included in the corpus being tested
+- 13 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
 - 9 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 3 certificates being tested against the remaining rules
-- 5.33 issues on average found in unexpired, trusted, and non-compliant certificates
+- 4 certificates being tested against the remaining rules
+- 5.25 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 100.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 110 days is the average remaining validity for the certificates in the corpus
-- 141 days is the average initial validity for the certificates in the corpus
-- 2 certificates expire in the next 30 days
+- 95 days is the average remaining validity for the certificates in the corpus
+- 116 days is the average initial validity for the certificates in the corpus
+- 3 certificates expire in the next 30 days
 - 1.00 average number of unexpired certificates per OCN observed
-- 3 unique OCNs observed in unexpired and valid certificate corpus
+- 4 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 3 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
-| 1 | [e_atis_crl_distribution](ISSUES/e_atis_crl_distribution/README.md) | ATIS1000080 |
+| 4 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
+| 2 | [e_atis_crl_distribution](ISSUES/e_atis_crl_distribution/README.md) | ATIS1000080 |
 | 3 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
-| 3 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 3 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
-| 3 | [n_atis_certificate_policy_critical](ISSUES/n_atis_certificate_policy_critical/README.md) | ATIS1000080 |
+| 4 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
+| 4 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 4 | [n_atis_certificate_policy_critical](ISSUES/n_atis_certificate_policy_critical/README.md) | ATIS1000080 |
 
 #### CA Certificates
 
@@ -46,7 +46,7 @@
 - 66.67% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 7350 days is the average remaining validity for the certificates in the corpus
+- 7349 days is the average remaining validity for the certificates in the corpus
 - 6935 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -65,6 +65,7 @@
 | 10&#160;Jun&#160;22&#160;00:00&#160;UTC | Plivo Inc | 09&#160;Jun&#160;23&#160;00:00&#160;UTC | true | [view](CERTS/7dc750fb7aa68d2b67b8dbc89f65217f92db54504685058be016638011adf8bf/README.md) |
 | 24&#160;Feb&#160;23&#160;15:00&#160;UTC | Baltimore-Washington Telephone Company SHAKEN cert 8697 | 24&#160;Mar&#160;23&#160;14:59&#160;UTC | true | [view](CERTS/a24c550074fe4050c8a38f8e665e80a855f96eff78ed87d6d6664a93324fe70c/README.md) |
 | 25&#160;Feb&#160;23&#160;17:00&#160;UTC | Google SHAKEN cert 969H | 27&#160;Mar&#160;23&#160;17:00&#160;UTC | true | [view](CERTS/f28f47318e4ac4eb37cf11e9bf43eece624a6b916839fd8dbf00432e907b818e/README.md) |
+| 04&#160;Mar&#160;23&#160;15:47&#160;UTC | Number Access LLC SHAKEN 343J | 15&#160;Apr&#160;23&#160;15:47&#160;UTC | true | [view](CERTS/5c2a8cbaa1d3792fc657a359988afde21a9881410e255b83c684e24e90c28c61/README.md) |
 
 #### CA Certificates
 
@@ -75,4 +76,4 @@
 | 29&#160;Sep&#160;21&#160;13:22&#160;UTC | NetNumber SHAKEN Root Intermediate CA 1 | 26&#160;Sep&#160;33&#160;13:22&#160;UTC | true | [view](CERTS/e449803766edf02ab50b034dd7e89e54efd332cce87688a032f89b340d039878/README.md) |
 
 
-Generated: 10 Mar 23 02:25 UTC
+Generated: 16 Mar 23 19:18 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate MAQS SOLUTION SHAKEN 255K
 
-Tested At: 09 Mar 23 23:17 UTC\
+Tested At: 16 Mar 23 19:07 UTC\
 Initial Validity Period: 35 day(s)\
-Remaining Validity Period: 24 day(s)\
+Remaining Validity Period: 18 day(s)\
 Subject: CN=MAQS SOLUTION SHAKEN 255K, O=MAQS SOLUTION LLC, L=Delaware, ST=DE, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://dial.maqssolution.live/255KFM23.pem
@@ -18,4 +18,4 @@ Link: https://dial.maqssolution.live/255KFM23.pem
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
 
-Generated: 10 Mar 23 02:25 UTC
+Generated: 16 Mar 23 19:18 UTC

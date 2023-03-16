@@ -12,6 +12,7 @@ Description: STI certificate shall not include extensions that are not specified
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
+| error | Etex STI SHAKEN 3196 | [view](../../CERTS/35c9db8a32e1607da879c8261325967abf72ef14d8470dabf68bb17b511969ca/README.md) | STI certificate shall not include extensions that are not specified |
 | error | Nuwave Communications SHAKEN 620J | [view](../../CERTS/885b7fea5177d66a28bd5dea525144479428e27d2ed1ff7c493d767c73173fbc/README.md) | STI certificate shall not include extensions that are not specified |
 | error | Veracity SHAKEN 716D | [view](../../CERTS/fccfbb719ccc9513231e9ea6f38906f0271f4640f253e1be0780da1e7b5f03ff/README.md) | STI certificate shall not include extensions that are not specified |
 | error | Surrytel STI SHAKEN 0503 | [view](../../CERTS/8d1b44b685bab5b4a45e19b68bd8113cf40d180bd3d19326be4cafb78f6e789e/README.md) | STI certificate shall not include extensions that are not specified |
@@ -26,4 +27,4 @@ Description: STI certificate shall not include extensions that are not specified
 No error, warning, or notice level issues were found
 
 
-Generated: 10 Mar 23 02:25 UTC
+Generated: 16 Mar 23 19:18 UTC

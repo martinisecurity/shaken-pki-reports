@@ -3,8 +3,8 @@
 ## AllClear Connect Inc
 
 Name: `https://ssc.getsipnav.com/certs/68ca8adc8e059b7ab31628a17b62bdb33a64bcfd`\
-Tested At: 09 Mar 23 23:19 UTC\
-Time: 24ms
+Tested At: 16 Mar 23 19:09 UTC\
+Time: 77ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 24ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 10 Mar 23 02:25 UTC
+Generated: 16 Mar 23 19:18 UTC

@@ -19,7 +19,7 @@
 - 2.38% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 88.10% of certificates are too old to be assessed against currently enforced expectations
-- 1078 days is the average remaining validity for the certificates in the corpus
+- 1077 days is the average remaining validity for the certificates in the corpus
 - 1095 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 - 1.00 average number of unexpired certificates per OCN observed
@@ -47,7 +47,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 6049 days is the average remaining validity for the certificates in the corpus
+- 6046 days is the average remaining validity for the certificates in the corpus
 - 5840 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -112,4 +112,4 @@
 | 25&#160;Nov&#160;20&#160;11:57&#160;UTC | Metaswitch STI-CA SHAKEN Issuing 1 | 22&#160;Nov&#160;32&#160;11:57&#160;UTC | true | [view](CERTS/b91a9874fbefc3feda9d5f9bd336e8b999c9b15b25aae7fe3c61d87373a5d1a1/README.md) |
 
 
-Generated: 10 Mar 23 02:25 UTC
+Generated: 16 Mar 23 19:18 UTC

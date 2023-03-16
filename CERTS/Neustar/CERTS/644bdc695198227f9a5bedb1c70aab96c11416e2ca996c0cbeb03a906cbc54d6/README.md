@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 772J
 
-Tested At: 09 Mar 23 23:16 UTC\
+Tested At: 16 Mar 23 19:04 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 74 day(s)\
+Remaining Validity Period: 67 day(s)\
 Subject: CN=SHAKEN 772J, O=VOIP ESSENTIAL INC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11540.10157
@@ -18,4 +18,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11540.10157
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 10 Mar 23 02:25 UTC
+Generated: 16 Mar 23 19:18 UTC

@@ -18,7 +18,7 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 | error | ATI SHAKEN 731J | [view](../../CERTS/bbc0a32743f1e659eff17172cbef96ee8cc3000aeb1dda85e1a47d47391ec3ab/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Teleinx SHAKEN 744J | [view](../../CERTS/743032377136fc18e443399c5fc57e36a5706188f141a522438a806143997925/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | MAQS SOLUTION SHAKEN 255K | [view](../../CERTS/88aa99bfaba0f4154cb05a78796c6bd7e0d1f1eb583fedab262b13adb8e58e01/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| error | VOCALTRANSIT SHAKEN 783J | [view](../../CERTS/81b78fff8a772249d72d4854d97672d7ac69a83c4900beaac699d28d220d8c13/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| error | VOCALTRANSIT SHAKEN 783J | [view](../../CERTS/da1ea40736c4f38882fb4221c168b3128656f4814a843ddd8ab7fb5550350271/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Televoip SHAKEN 438K | [view](../../CERTS/2e22094a03b8d7e2d2f37cb2ea5d5778d122fdbc3d0c83e3f8f984c8cf03a2e3/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | TalkAsiaVoip LLC SHAKEN 198K2 | [view](../../CERTS/ce573198dc0e6e6b6e285004480259b9da6362e78977bbb3ee3de9bd1aa9adb4/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
@@ -27,4 +27,4 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 No error, warning, or notice level issues were found
 
 
-Generated: 10 Mar 23 02:25 UTC
+Generated: 16 Mar 23 19:18 UTC

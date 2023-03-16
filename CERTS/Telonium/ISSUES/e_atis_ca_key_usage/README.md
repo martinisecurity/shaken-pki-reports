@@ -16,4 +16,4 @@ Description: STI certificates shall contain a Key Usage extension marked as crit
 | error | Telonium STI-CA Root2 | [view](../../CERTS/a58b27999411d3d54121d4eadc82aa128be1fef96cda3029b2015677188ea40b/README.md) | STI certificates shall contain a Key Usage extension marked as critical |
 
 
-Generated: 10 Mar 23 02:25 UTC
+Generated: 16 Mar 23 19:18 UTC

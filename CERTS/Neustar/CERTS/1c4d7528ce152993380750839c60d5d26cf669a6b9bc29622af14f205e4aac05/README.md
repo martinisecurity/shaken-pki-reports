@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 986J
 
-Tested At: 09 Mar 23 23:26 UTC\
+Tested At: 16 Mar 23 19:17 UTC\
 Initial Validity Period: 398 day(s)\
-Remaining Validity Period: 278 day(s)\
+Remaining Validity Period: 272 day(s)\
 Subject: CN=SHAKEN 986J, O=RingCentral, C=CA\
 Issuer: CN=Neustar Canada Certified Caller ID SHAKEN CA-2, OU=www.ca.ccid.neustar, O=Neustar Information Services Inc, C=CA\
 Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/815b181b29c53037f17257ba5733b2cc.crt
@@ -17,4 +17,4 @@ Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/815b181b29c53037f17257
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 10 Mar 23 02:25 UTC
+Generated: 16 Mar 23 19:18 UTC
