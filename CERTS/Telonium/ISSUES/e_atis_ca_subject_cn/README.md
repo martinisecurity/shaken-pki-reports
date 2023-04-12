@@ -16,4 +16,4 @@ Description: For non-End-Entity CA certificates, the Common Name attribute shall
 | error | Telonium STI-CA Root2 | [view](../../CERTS/a58b27999411d3d54121d4eadc82aa128be1fef96cda3029b2015677188ea40b/README.md) | The Common Name attribute shall include the text string "SHAKEN" |
 
 
-Generated: 12 Apr 23 01:46 UTC
+Generated: 12 Apr 23 22:02 UTC

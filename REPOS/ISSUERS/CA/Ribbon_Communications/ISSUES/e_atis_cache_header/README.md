@@ -20,6 +20,8 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://prod001-cr.rbbnidhub.com/frvFJbsMgz/sign-cert3` | 11&#160;Mar&#160;24&#160;18:18&#160;UTC | true | [view](../../REPOS/27dccddee750acd18879b60bdd7d6a8803719490/README.md) |
 | `https://prod001-cr.rbbnidhub.com/x9lB3qynRz/0503-1ee571a983a190e433d57cceedca890b` | 03&#160;May&#160;23&#160;14:36&#160;UTC | true | [view](../../REPOS/2aab03362f093963059192ef05d9c94e6b69c637/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/3MCvDamnRz/Aug222023-6e684a540e092145d414fcce5decbbfd` | 22&#160;Aug&#160;23&#160;16:04&#160;UTC | true | [view](../../REPOS/ee2c359d1ddf94c1124760cd8b60b9ec829298bc/README.md) |
+| `https://prod001-prod011-cr.rbbnidhub.com/DdpJt757Rz/STI-202304-3196-17c4d8150bc3db2f710070278713bc57` | 02&#160;Apr&#160;24&#160;21:08&#160;UTC | true | [view](../../REPOS/d6728ad266cdddc6cc333bf8112c3af8da405bae/README.md) |
+| `https://prod001-prod011-cr.rbbnidhub.com/Jx6yR-yMgz/620J202304-401f156c7342aa701f6e8bb3d26c0ecf` | 02&#160;Apr&#160;24&#160;22:02&#160;UTC | true | [view](../../REPOS/5d76af14f84934b93db6ebf27dcea0387644808d/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/MU7B8iqMRz/STI0377` | 27&#160;Jan&#160;24&#160;15:34&#160;UTC | true | [view](../../REPOS/45b7b184396b766d5e533f0066d46caf7f0857e2/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/Pl0wdQeMRz/STI20220348` | 05&#160;Jul&#160;23&#160;23:04&#160;UTC | true | [view](../../REPOS/3136c2c052a150347feb0d8667f04f94c9057339/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/R3kZfzj7gz/STI2130-5e62e39ccbcec63dd71e5d503ec51e3e` | 16&#160;Jun&#160;23&#160;18:50&#160;UTC | true | [view](../../REPOS/966b0ae2c3f2e45c3b7dfbba54e82114607c18f6/README.md) |
@@ -28,4 +30,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://prod001-prod011-cr.rbbnidhub.com/t0CiOIjnRz/NFJune102022-26092b2abd3c6bbfc676d98623fc1b25` | 10&#160;Jun&#160;23&#160;19:00&#160;UTC | true | [view](../../REPOS/33017846ac0354f869e6a30ef5fdf72910ca73ea/README.md) |
 
 
-Generated: 12 Apr 23 01:46 UTC
+Generated: 12 Apr 23 22:02 UTC

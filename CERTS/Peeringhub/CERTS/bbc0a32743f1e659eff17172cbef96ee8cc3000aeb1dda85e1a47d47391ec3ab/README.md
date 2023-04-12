@@ -2,9 +2,9 @@
 
 ## Certificate ATI SHAKEN 731J
 
-Tested At: 12 Apr 23 01:03 UTC\
+Tested At: 12 Apr 23 21:45 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 109 day(s)\
+Remaining Validity Period: 108 day(s)\
 Subject: CN=ATI SHAKEN 731J, O=ATI, L=Phoenix, ST=AZ, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://certificates.peeringhub.io/731J/731J.crt
@@ -18,4 +18,4 @@ Link: https://certificates.peeringhub.io/731J/731J.crt
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
 
-Generated: 12 Apr 23 01:46 UTC
+Generated: 12 Apr 23 22:02 UTC

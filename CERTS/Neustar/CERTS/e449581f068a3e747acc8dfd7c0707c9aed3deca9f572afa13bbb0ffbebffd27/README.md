@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 292K
 
-Tested At: 12 Apr 23 01:39 UTC\
+Tested At: 12 Apr 23 21:52 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 157 day(s)\
+Remaining Validity Period: 156 day(s)\
 Subject: CN=SHAKEN 292K, O=Falcon Endeavors, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Inc a TransUnion company, C=US\
 Link: https://ssc.getsipnav.com/certs/0ca730172b48ae249d823ea924275602b5f36450
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/0ca730172b48ae249d823ea924275602b5f36450
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 12 Apr 23 01:46 UTC
+Generated: 12 Apr 23 22:02 UTC

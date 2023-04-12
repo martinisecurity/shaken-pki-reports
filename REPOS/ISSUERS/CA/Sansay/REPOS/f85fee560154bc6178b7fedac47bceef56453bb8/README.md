@@ -3,8 +3,8 @@
 ## Sansay
 
 Name: `https://cr.sansay.com/563J_THRESHOLD_COMMUNICATIONS_STIR_SHAKEN.crt`\
-Tested At: 12 Apr 23 01:37 UTC\
-Time: 2ms
+Tested At: 12 Apr 23 21:50 UTC\
+Time: 43ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 2ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 12 Apr 23 01:46 UTC
+Generated: 12 Apr 23 22:02 UTC

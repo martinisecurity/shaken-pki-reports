@@ -19,7 +19,8 @@ Description: HTTP response shall have StatusCode 200
 | `https://dial.maqssolution.live/255KFM23.pem` |  | true | [view](../../REPOS/87430dee0dc20caea25151e35ecd9711474f374f/README.md) |
 | `https://dial.maqssolution.live/255KJF23.pem` |  | true | [view](../../REPOS/c5a404d16e2174789cbf430fb838c5c58f516f81/README.md) |
 | `https://dial.maqssolution.live/255KN22.pem` |  | true | [view](../../REPOS/6c2ad4e98b5e0f7170cc4a7688cdf6377eeafddc/README.md) |
+| `https://netnumber-sti-cr.s3.amazonaws.com/certs/df3c165a-1571-4114-81c5-82e8266bb857` |  | true | [view](../../REPOS/8c05a67e8aa4a4c31fa22f018b4532307d5f7507/README.md) |
 | `https://sticr-cstga.ccid.neustar/api/v1/certificate/3f7be0c667b2f3c24546cf26629eb906.crt` |  | true | [view](../../REPOS/6cc197a230692738160b25ccee626e38948c6854/README.md) |
 
 
-Generated: 12 Apr 23 01:46 UTC
+Generated: 12 Apr 23 22:02 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 854J
 
-Tested At: 12 Apr 23 01:37 UTC\
+Tested At: 12 Apr 23 21:49 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 360 day(s)\
+Remaining Validity Period: 359 day(s)\
 Subject: CN=SHAKEN 854J, O=S-Net Communications Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11541.10167
@@ -16,4 +16,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11541.10167
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 12 Apr 23 01:46 UTC
+Generated: 12 Apr 23 22:02 UTC

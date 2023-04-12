@@ -418,7 +418,12 @@
 | 10&#160;Mar&#160;23&#160;12:27&#160;UTC | SHAKEN InteractiveTel, LLC 920J | 09&#160;Apr&#160;23&#160;12:27&#160;UTC | true | [view](../CERTS/72c523e9ae2422c083fb47169f6d282036a6832f08de79be88ee405bc876c932/README.md) |
 | 10&#160;Mar&#160;23&#160;18:57&#160;UTC | SHAKEN NTC International, INC 016K | 09&#160;Apr&#160;23&#160;18:57&#160;UTC | true | [view](../CERTS/ad70719dede4c6d8b5d4628b0f61f65e3b09f616d6a3ccef6b257321e219b492/README.md) |
 | 11&#160;Mar&#160;23&#160;19:54&#160;UTC | SHAKEN Televergence Solutions Inc 779J | 10&#160;Apr&#160;23&#160;19:54&#160;UTC | true | [view](../CERTS/068b3f935a0d71476039117c458fbfe6793746af0681162fca782d919f1adf2c/README.md) |
+| 13&#160;Mar&#160;23&#160;04:30&#160;UTC | SHAKEN 1stPoint Communications, LLC 463G | 12&#160;Apr&#160;23&#160;04:30&#160;UTC | true | [view](../CERTS/615a103854056f8ae5dd7794ac2f621c081637ca1e6d1877ae9c1413e08e9f60/README.md) |
 | 13&#160;Mar&#160;23&#160;06:39&#160;UTC | SHAKEN Primo Dialler LLC 249K | 27&#160;Apr&#160;23&#160;06:39&#160;UTC | true | [view](../CERTS/8b881d01de770031b18500ca0a7b8f5ed3490281d68f14b993c7315ddddac4d9/README.md) |
+| 13&#160;Mar&#160;23&#160;11:56&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 12&#160;Apr&#160;23&#160;11:56&#160;UTC | true | [view](../CERTS/0fab85834a79c866ee836d27a69c6bdd841fa5af9e9c8a239b7d4a3e4877ba0e/README.md) |
+| 13&#160;Mar&#160;23&#160;12:02&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 12&#160;Apr&#160;23&#160;12:02&#160;UTC | true | [view](../CERTS/c1f727cfd1ec0fa19885890370ee62a0b1e75b54386f814a983a64b1c78ec3e9/README.md) |
+| 13&#160;Mar&#160;23&#160;12:12&#160;UTC | SHAKEN InteractiveTel, LLC 920J | 12&#160;Apr&#160;23&#160;12:12&#160;UTC | true | [view](../CERTS/5d6bedbf7edde2a3017283545f1ee97c55938df2cbf556e99742abe88373fdf5/README.md) |
+| 13&#160;Mar&#160;23&#160;19:36&#160;UTC | SHAKEN i3 Broadband 5800 | 12&#160;Apr&#160;23&#160;19:36&#160;UTC | true | [view](../CERTS/112940a1e0a8559b4620eaae17dd7d518b6c8d1003164f7e5f62ab64d058efe4/README.md) |
 
 ### CA Certificates
 
@@ -428,4 +433,4 @@
 | 31&#160;Mar&#160;22&#160;17:11&#160;UTC | SHAKEN Sansay Intermediate CA Canada 1 | 29&#160;Mar&#160;31&#160;17:11&#160;UTC | true | [view](../CERTS/97b5027d448805030b8627b5d430c6c03473e0972f0ff4057eb60c1a3715ebb0/README.md) |
 
 
-Generated: 12 Apr 23 01:46 UTC
+Generated: 12 Apr 23 22:02 UTC

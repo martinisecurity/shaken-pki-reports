@@ -2,9 +2,9 @@
 
 ## Certificate RCN SHAKEN Cert 7615
 
-Tested At: 12 Apr 23 01:39 UTC\
+Tested At: 12 Apr 23 21:53 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 340 day(s)\
+Remaining Validity Period: 339 day(s)\
 Subject: CN=RCN SHAKEN Cert 7615, O=RCN, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://sti-cr.cgah.tnsi.com/certs/11d9e0e06eeaaf56fb9be54eec6aae5a8b3461fe
@@ -28,4 +28,4 @@ Link: https://sti-cr.cgah.tnsi.com/certs/11d9e0e06eeaaf56fb9be54eec6aae5a8b3461f
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Apr 23 01:46 UTC
+Generated: 12 Apr 23 22:02 UTC

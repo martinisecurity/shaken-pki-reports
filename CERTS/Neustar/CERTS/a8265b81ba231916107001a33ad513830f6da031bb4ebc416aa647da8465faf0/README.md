@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 963J
 
-Tested At: 12 Apr 23 01:01 UTC\
+Tested At: 12 Apr 23 21:42 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 326 day(s)\
+Remaining Validity Period: 325 day(s)\
 Subject: CN=SHAKEN 963J, O=Freevoice, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: http://freevoiceusa.com/963J_23
@@ -16,4 +16,4 @@ Link: http://freevoiceusa.com/963J_23
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 12 Apr 23 01:46 UTC
+Generated: 12 Apr 23 22:02 UTC

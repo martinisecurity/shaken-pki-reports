@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1563
 
-Tested At: 12 Apr 23 01:03 UTC\
+Tested At: 12 Apr 23 21:46 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 331 day(s)\
 Subject: CN=SHAKEN 1563, O=Hooper Telephone Company, C=US\
@@ -16,4 +16,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/208.287
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 12 Apr 23 01:46 UTC
+Generated: 12 Apr 23 22:02 UTC
