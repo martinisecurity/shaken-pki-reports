@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 115K
 
-Tested At: 16 Mar 23 19:08 UTC\
+Tested At: 12 Apr 23 01:39 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: 46 day(s)\
+Remaining Validity Period: 20 day(s)\
 Subject: O=Renternet\\, LLC, C=US, serialNumber=096C5A8EEAA00C7F8FD285886095C233, CN=SHAKEN 115K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/Nf2qXsl2szqP.pem
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/Nf2qXsl2szqP.pem
 149 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 16 Mar 23 19:18 UTC
+Generated: 12 Apr 23 01:46 UTC

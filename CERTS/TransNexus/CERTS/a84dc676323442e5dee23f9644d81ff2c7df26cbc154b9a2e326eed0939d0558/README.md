@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 269K
 
-Tested At: 16 Mar 23 19:03 UTC\
+Tested At: 12 Apr 23 01:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -15 day(s)\
+Remaining Validity Period: -41 day(s)\
 Subject: CN=SHAKEN 269K, O=Ultimate Internet Access\\, Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/462ca8e6-d9d3-4fa1-85b7-d0f712423ee7/9744fb692db910a49370ca7ad96df70b.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/462ca8e6-d9d3-4fa1-85b7-d0f712423ee7/9744
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 16 Mar 23 19:18 UTC
+Generated: 12 Apr 23 01:46 UTC

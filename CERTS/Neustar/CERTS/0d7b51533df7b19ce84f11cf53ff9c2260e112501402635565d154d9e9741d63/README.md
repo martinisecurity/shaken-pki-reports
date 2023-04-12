@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 771J
 
-Tested At: 16 Mar 23 19:02 UTC\
+Tested At: 12 Apr 23 01:01 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 119 day(s)\
+Remaining Validity Period: 93 day(s)\
 Subject: CN=SHAKEN 771J, O=LATAM Telecommunications LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://187.174.67.118:8080/7075515eb2d150fc98c43e794c07bbca.cer
@@ -13,9 +13,9 @@ Link: https://187.174.67.118:8080/7075515eb2d150fc98c43e794c07bbca.cer
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
+| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 16 Mar 23 19:18 UTC
+Generated: 12 Apr 23 01:46 UTC

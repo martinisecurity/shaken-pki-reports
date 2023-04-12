@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 9595
+
+Tested At: 12 Apr 23 01:02 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -5 day(s)\
+Subject: CN=SHAKEN 9595, O=Douglas Fastnet, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/1bc16dfa-2270-4eb2-96b7-8a33d2ac6f42/3cfe937ee88e123974d9821de8ca82fb.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICzzCCAnWgAwIBAgIQcd7J8LtPnfs5CNySXcuqcTAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwMzMwMTUxMzM5WhcNMjMwNDA2MTUxMzM4WjA9MQswCQYDVQQGEwJVUzEYMBYGA1UEChMPRG91Z2xhcyBGYXN0bmV0MRQwEgYDVQQDEwtTSEFLRU4gOTU5NTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABGOaSENQSXZ4orXxdpnUIt89f%2FKCZe4LwaUGz7NH3XNafcCknml5P5bmenpPOzfeCjQePW%2FEKFlT315V2r709NKjggE8MIIBODAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAdBgNVHQ4EFgQUdb2aTizhES7BFWQXRtGfuQx8DFcwHwYDVR0jBBgwFoAUMPX18rfhSwsPEHV9SKSQ8T2LKCowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEDMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAWBggrBgEFBQcBGgQKMAigBhYEOTU5NTAKBggqhkjOPQQDAgNIADBFAiEArRSniI1VMnzdaAGo%2BFRZrLjTIwaiUjXfDKcNQ3r%2BcBICIBPhg22Ww1rswRStbIDcGcYQsAndq%2FMgWEXeqn2XYVa8)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+
+Generated: 12 Apr 23 01:46 UTC

@@ -36,6 +36,7 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 | error | CTS Telecom, Inc SHAKEN Cert 8331 | [view](../../CERTS/5c9f6132a96a05a58d02d845ee70e914659682623fb98acbbecd9f8e383dcbec/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | ENA SHAKEN cert 521F | [view](../../CERTS/a5293c77ed92fdeef1aeff04f6bed7932a6083abc55d03d74a3ec5b817fdba2b/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | WOW Internet Cable and Phone SHAKEN Cert 665E | [view](../../CERTS/9f86e038b4f6c3bf7fabfe8d4008b071f81bd33a80c55ea66a1aadd79eb9b989/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| error | Race Communications SHAKEN Cert 973E | [view](../../CERTS/358fc749e76e04e4970c94afa632031b4856a751454ecd93d9be410b78114937/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Hunter Communications Shaken Cert 660C | [view](../../CERTS/0d2022504ffa5407f662990a785786cb0da72ce014838e2cffdcd95cb70c6f64/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Viaero Wireless SHAKEN Cert 6874 | [view](../../CERTS/fe826427006707276b684368c81c7b2039d4ce72b25c5cf0a0c039993b026573/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | New Horizon SHAKEN Cert 127E | [view](../../CERTS/5b2842e49ecc543187018171fa660e32bdba390a7977c0de97a00aef35b8ae01/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
@@ -60,4 +61,4 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 No error, warning, or notice level issues were found
 
 
-Generated: 16 Mar 23 19:18 UTC
+Generated: 12 Apr 23 01:46 UTC

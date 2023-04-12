@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 755B
 
-Tested At: 16 Mar 23 19:04 UTC\
+Tested At: 12 Apr 23 01:03 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 99 day(s)\
+Remaining Validity Period: 72 day(s)\
 Subject: CN=SHAKEN 755B, O=Hiawatha Broadband Communications, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/159.173
@@ -18,4 +18,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/159.173
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 16 Mar 23 19:18 UTC
+Generated: 12 Apr 23 01:46 UTC

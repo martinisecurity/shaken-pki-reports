@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 973J
+
+Tested At: 12 Apr 23 01:39 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 344 day(s)\
+Subject: CN=SHAKEN 973J, O=Vibratel, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://ssc.getsipnav.com/certs/2c80ab6c6b60bccb742a11f1ac57540f8ad29097
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC%2FDCCAqKgAwIBAgIUJXgOJ8Pe%2Bd4LY2T9RwL1CFny84cwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTIzMDMyMTE0NDg0OFoXDTI0MDMyMDE0NDg0OFowNjELMAkGA1UEBhMCVVMxETAPBgNVBAoMCFZpYnJhdGVsMRQwEgYDVQQDDAtTSEFLRU4gOTczSjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABGm%2FLRV%2Ba5bFpn%2FXsJE6tPA7d8gPaFYx5wNPOY14G0WalTpC5QcNJTyURXfNgmr8%2FiqjbVkjS0aeLLwJRUJqaCSjggE8MIIBODAWBggrBgEFBQcBGgQKMAigBhYEOTczSjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIJOFf%2F%2Bn2pnUeTIl8dtdMP8ZUV4MBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwHQYDVR0OBBYEFJwEc%2F65em2aH6HEp5B%2FEUS0iS%2BVMA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNIADBFAiEA4a7ZK%2F%2BEpuKWw76VFfisZQ76ePu%2BakGpbRpqgBZTSmwCIEAgGxqXgf2NlGiFghRQPqBT5CkV1Gca7L%2F6SH9Q8tww)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+
+Generated: 12 Apr 23 01:46 UTC

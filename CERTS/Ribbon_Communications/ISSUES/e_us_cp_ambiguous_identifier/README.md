@@ -12,7 +12,6 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | Etex STI SHAKEN 3196 | [view](../../CERTS/35c9db8a32e1607da879c8261325967abf72ef14d8470dabf68bb17b511969ca/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Nuwave Communications SHAKEN 620J | [view](../../CERTS/885b7fea5177d66a28bd5dea525144479428e27d2ed1ff7c493d767c73173fbc/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Veracity SHAKEN 716D | [view](../../CERTS/fccfbb719ccc9513231e9ea6f38906f0271f4640f253e1be0780da1e7b5f03ff/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | error | Surrytel STI SHAKEN 0503 | [view](../../CERTS/8d1b44b685bab5b4a45e19b68bd8113cf40d180bd3d19326be4cafb78f6e789e/README.md) | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
@@ -27,4 +26,4 @@ Description: Names used in the STI certificates shall represent an unambiguous i
 No error, warning, or notice level issues were found
 
 
-Generated: 16 Mar 23 19:18 UTC
+Generated: 12 Apr 23 01:46 UTC

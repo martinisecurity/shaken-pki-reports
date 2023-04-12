@@ -13,11 +13,10 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
 | error | CCI SHAKEN 663J | [view](../../CERTS/9cfd0b9974acdc9b5fce3888cf2f6cf99173e7955adeebd37a1e60dfc444a0b3/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| error | Fusion Connect SHAKEN 2720 | [view](../../CERTS/03a010b294807e90cc1309d7466fd2ddc591158a69be6950ff4d0eab32de0799/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 16 Mar 23 19:18 UTC
+Generated: 12 Apr 23 01:46 UTC

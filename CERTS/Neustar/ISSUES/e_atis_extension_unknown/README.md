@@ -13,16 +13,13 @@ Description: STI certificate shall not include extensions that are not specified
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
 | error | SHAKEN 074K | [view](../../CERTS/ce2299b32a7f2749baeb8864b84a8b531591a05a0c79c3bff8af7b8da441d513/README.md) | STI certificate shall not include extensions that are not specified |
-| error | SHAKEN 963J | [view](../../CERTS/89a285de49404991c7aef6ece2e9172f0e3ba219c221a49bbe039a2080f6244d/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 771J | [view](../../CERTS/0d7b51533df7b19ce84f11cf53ff9c2260e112501402635565d154d9e9741d63/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 845J | [view](../../CERTS/5779b9ac57abada079f96ac7625dfe923e44f6993378e4291a5ed16b1ba65a64/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 139K | [view](../../CERTS/eacdef99ac79c2ae3e713ec4c5972e785548050a35db9747f21eb2d4bc06c31b/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 962J | [view](../../CERTS/cd04dcf7d5eb1acdb0c0c3e60fb3977707961e4240f1dfcf67eff0338bd75ffb/README.md) | STI certificate shall not include extensions that are not specified |
 | error | ATT SHAKEN 4036 | [view](../../CERTS/3a8d4d5fe47e784f925bca30b21d44f3492ad0813fd074ef2d438cca1d4acc68/README.md) | STI certificate shall not include extensions that are not specified |
-| error | SHAKEN 030J | [view](../../CERTS/d9c76778ff6687e62231f27d003368dc797024d0683ca745c30b7c186d3748e8/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 553J | [view](../../CERTS/a804cf0f4ff52fb03a1d23618ecabb5eda1527649e3347ca6a146b22cd024d3b/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 767J | [view](../../CERTS/9b6d281b3bd6181ed4af1e3733b7cd5ec87f4189b0a1594c14f5feb8abd6a1fd/README.md) | STI certificate shall not include extensions that are not specified |
-| error | SHAKEN 037K | [view](../../CERTS/6310d6c65d4b74805242f9c679e32b336fc1fca1d29da50029df01403e7e672d/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 030K | [view](../../CERTS/0996dbe49d9bef155744a54e00e3e0440a145ba18e1ca6629f067be906609e49/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 618J | [view](../../CERTS/15cda6f5e0190b5dad65a3ed1ed1ac9459c30c269cf7b800417bdeb214832853/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 672J | [view](../../CERTS/30bbe0bdbf6c302c8da0f6e23fb56df86d12bd6a784383dc6e475d2b6a172925/README.md) | STI certificate shall not include extensions that are not specified |
@@ -38,6 +35,7 @@ Description: STI certificate shall not include extensions that are not specified
 | error | SHAKEN 049K | [view](../../CERTS/37d491d2756716824cbf4707b31a034fef6584e4e6d95d327a7428e68e92a02f/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 150K | [view](../../CERTS/5cf325af20a32e0691ff11a47485c841d9dd35771bbe2fe8027deb13e70b2a81/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 295K | [view](../../CERTS/1a821ccda1ba38a8ed98fbffbd79e4158497c99c35ed220d0110fcb080f9a933/README.md) | STI certificate shall not include extensions that are not specified |
+| error | SHAKEN 0347 | [view](../../CERTS/5177a968576a738d0c1a28c4fcd35b626d2d75b890609ab930dcd671f3263dc6/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 573J | [view](../../CERTS/235085bee8917aacad49680ef5f7e11ff56192cf5239041332dcb1d0f858cb2e/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 709J | [view](../../CERTS/a371d70a1b505735b513c7488d811eb869c801aa246cfc1424db1e373b579f34/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 7914 | [view](../../CERTS/7a38e6bec79d7cfc4ae9dd0f41ee930fff38d9365d584f75690fe2d6e2481cd0/README.md) | STI certificate shall not include extensions that are not specified |
@@ -49,7 +47,6 @@ Description: STI certificate shall not include extensions that are not specified
 | error | SHAKEN 732J | [view](../../CERTS/3614b73ce2926d939d99f67d12f1b63ca1ba7f8f9ae6885e108384e7a725713e/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 254H | [view](../../CERTS/8605c03e7a4468d46dd9b066a26a157499596a64c033f0e029d1a14dd756a56a/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 669B | [view](../../CERTS/c5461f123463b2c227b085935d1daa43c5208ba2e673cb8e72b98d980cb5c858/README.md) | STI certificate shall not include extensions that are not specified |
-| error | SHAKEN 4427 | [view](../../CERTS/a9f8804c4ba7e8886318aece12a9eb6e4f755708e0bcac09cf1bb2a136880369/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 3130 | [view](../../CERTS/9710435c3c5ba2df401e4295efd73c53830e1372dcf07dff0601125d129c2de5/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 715J | [view](../../CERTS/450172823b48d29255bde6a9ec9e921f8e275b76c1a33986f23fa9d410802eac/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 710A | [view](../../CERTS/e97dffcbf85f9183ac12212e1a9e342f76ffd96d6c6d280854fb31e9465d481a/README.md) | STI certificate shall not include extensions that are not specified |
@@ -57,12 +54,10 @@ Description: STI certificate shall not include extensions that are not specified
 | error | SHAKEN 821J | [view](../../CERTS/3e6046796b5cc7710e323960eff671ce5e0e2aef1b21e8657e0c3564e09877e1/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 473G | [view](../../CERTS/12cde52b1a2b43aeeab573361ef36eeb5b4783bf72442aeb0737ff7c9fba0fa2/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 772J | [view](../../CERTS/644bdc695198227f9a5bedb1c70aab96c11416e2ca996c0cbeb03a906cbc54d6/README.md) | STI certificate shall not include extensions that are not specified |
-| error | SHAKEN 854J | [view](../../CERTS/4535b112c5d3933f3d71bc6e4cc98a71479c9618690d778c85c170cf41422e76/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 235K | [view](../../CERTS/cad17de4a8e16887b31ad2c62a00554e87f43ee1a45f477fa4193b3cfb1fe281/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 219K | [view](../../CERTS/fc1a6306ba8c8e009e014efbcf859e5740cae4ebfac67e9628ef65e16209c9b1/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 558a | [view](../../CERTS/9546e877a2d1dde91b3eb3c9aa90c7b5aa2b3ae28a18d48c0b24587449c4a9e2/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 782J | [view](../../CERTS/4f42d1733ab75724e7ca941c3e6fad930113cb66e0fc80f8a3f59815b7bc6aff/README.md) | STI certificate shall not include extensions that are not specified |
-| error | SHAKEN 804J | [view](../../CERTS/b6ee8f5ec7b9c2d085d1e950408477af3a3647a513dbfe0cbfcc7585fb7e1763/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 0348 | [view](../../CERTS/d444d828608427c274287e7e6f5f1ccaa085e5310ab384e9fa153ff0f8fffaf1/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 500J | [view](../../CERTS/25393ddb6f4b6a42df56e2cafbff0fa710e60bbdf94d37561290cdb6e66f28d1/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 005K | [view](../../CERTS/639ec0e02a1c7bd0b564efb570da5cdd6e681facf141a9f696be31bc2103bb8e/README.md) | STI certificate shall not include extensions that are not specified |
@@ -70,20 +65,15 @@ Description: STI certificate shall not include extensions that are not specified
 | error | SHAKEN 964J | [view](../../CERTS/263c834016f4a6e8d52d6bf6427706159a3bfee249e53fef8130b5c683b3b520/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 743J | [view](../../CERTS/afecedf9de456e4170f9f52742f42bdca9437dcabb6867c7c71372f8ba4feddf/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 611J | [view](../../CERTS/3f87c16b475eb0fc6235d4e73fe5f990364d4c2f109cceac951e5e8b449fcd56/README.md) | STI certificate shall not include extensions that are not specified |
-| error | SHAKEN 973J | [view](../../CERTS/a5dbf6d412928fdb65a65a75f7df93724892c57efb4ae1e6e9161d740309df48/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 261H | [view](../../CERTS/6815b252b41b1d162968ea43df4ae48355a8b786816ec2434d65c703e2a5a8fc/README.md) | STI certificate shall not include extensions that are not specified |
-| error | SHAKEN 701J | [view](../../CERTS/5cb4eb85a71e34614d1be9d02610289539c46e8e183fe36247b25a78d94c3377/README.md) | STI certificate shall not include extensions that are not specified |
-| error | SHAKEN 917J | [view](../../CERTS/e20d3859c17ea71fc31a6c5fd81daa1ca0394335b59be10f44d0cb463a7b5a68/README.md) | STI certificate shall not include extensions that are not specified |
-| error | SHAKEN 597F | [view](../../CERTS/09db47bffeb34d5524095972b6eb3ec83aeb917757c32fc0bf473437c8f1b42d/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 869J | [view](../../CERTS/59b248eb321b3b9368d9e67dfda2698c10a85bc4da834a1b046447a0c2924a34/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 502E | [view](../../CERTS/71b03e0429cbcc39d1a9b0194ea163a28c7a980d58675d8a53eefb632597bc18/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 067K | [view](../../CERTS/aed8214f2128df08605bba6f6596ee4fc2874f44577591a6e254c7117b819843/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 939H | [view](../../CERTS/a9ff363f03fba28c1972002e99200ecd750e4aaf59fa7302e39b8777be615e08/README.md) | STI certificate shall not include extensions that are not specified |
-| error | SHAKEN 951J | [view](../../CERTS/b1ba32c225a987ec5d2b5ecb2f3638488cbc4b08a71ce1f447af83ab6b67a30c/README.md) | STI certificate shall not include extensions that are not specified |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 16 Mar 23 19:18 UTC
+Generated: 12 Apr 23 01:46 UTC

@@ -12,14 +12,15 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../../CERTS/a24c550074fe4050c8a38f8e665e80a855f96eff78ed87d6d6664a93324fe70c/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../../CERTS/5f9e936b92edadbabbb6778755b4af6b7765d07aa08f39463de490e0f4ed628e/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | Plivo Inc | [view](../../CERTS/7dc750fb7aa68d2b67b8dbc89f65217f92db54504685058be016638011adf8bf/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | HD CARRIER LLC | [view](../../CERTS/ef561f10277effd73ea38baf8b79d3860a5f6de4a7ffa440630ac0a8da4ac3ae/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | Number Access LLC SHAKEN 343J | [view](../../CERTS/5c2a8cbaa1d3792fc657a359988afde21a9881410e255b83c684e24e90c28c61/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| error | Google SHAKEN cert 969H | [view](../../CERTS/f28f47318e4ac4eb37cf11e9bf43eece624a6b916839fd8dbf00432e907b818e/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | Google SHAKEN cert 969H | [view](../../CERTS/6920f54a1ec0d3e2e114bc73efa64820b84b7bb75fe4c2e562184e1f46375a70/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 16 Mar 23 19:18 UTC
+Generated: 12 Apr 23 01:46 UTC

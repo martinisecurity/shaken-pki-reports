@@ -11,26 +11,26 @@
 
 - 9 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
-- 0 certificates in the corpus were skipped because they are expired
+- 1 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 9 certificates being tested against the remaining rules
-- 4.89 issues on average found in unexpired, trusted, and non-compliant certificates
+- 8 certificates being tested against the remaining rules
+- 5.00 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
-- 88.89% of certificates contain one or more Warning level issue
+- 100.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 337 days is the average remaining validity for the certificates in the corpus
+- 331 days is the average remaining validity for the certificates in the corpus
 - 365 days is the average initial validity for the certificates in the corpus
-- 1 certificates expire in the next 30 days
+- 2 certificates expire in the next 30 days
 - 1.00 average number of unexpired certificates per OCN observed
-- 9 unique OCNs observed in unexpired and valid certificate corpus
+- 8 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 9 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
-| 9 | [e_atis_extension_unknown](ISSUES/e_atis_extension_unknown/README.md) | ATIS1000080 |
-| 9 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 9 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 8 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
+| 8 | [e_atis_extension_unknown](ISSUES/e_atis_extension_unknown/README.md) | ATIS1000080 |
+| 8 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
+| 8 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
 | 8 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
@@ -45,7 +45,7 @@
 - 100.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 7324 days is the average remaining validity for the certificates in the corpus
+- 7315 days is the average remaining validity for the certificates in the corpus
 - 6757 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -60,7 +60,6 @@
 
 | Created At | Subject | Not After | Problems | Link |
 |------------|---------|-----------|----------|------|
-| 06&#160;Apr&#160;22&#160;18:20&#160;UTC | Etex STI SHAKEN 3196 | 06&#160;Apr&#160;23&#160;18:20&#160;UTC | true | [view](CERTS/35c9db8a32e1607da879c8261325967abf72ef14d8470dabf68bb17b511969ca/README.md) |
 | 29&#160;Apr&#160;22&#160;17:43&#160;UTC | Nuwave Communications SHAKEN 620J | 29&#160;Apr&#160;23&#160;17:42&#160;UTC | true | [view](CERTS/885b7fea5177d66a28bd5dea525144479428e27d2ed1ff7c493d767c73173fbc/README.md) |
 | 03&#160;May&#160;22&#160;14:36&#160;UTC | Surrytel STI SHAKEN 0503 | 03&#160;May&#160;23&#160;14:36&#160;UTC | true | [view](CERTS/8d1b44b685bab5b4a45e19b68bd8113cf40d180bd3d19326be4cafb78f6e789e/README.md) |
 | 20&#160;May&#160;22&#160;14:32&#160;UTC | Veracity SHAKEN 716D | 20&#160;May&#160;23&#160;14:32&#160;UTC | true | [view](CERTS/fccfbb719ccc9513231e9ea6f38906f0271f4640f253e1be0780da1e7b5f03ff/README.md) |
@@ -78,4 +77,4 @@
 | 13&#160;May&#160;21&#160;00:00&#160;UTC | SHAKEN Ribbon Root CA | 12&#160;May&#160;46&#160;23:59&#160;UTC | true | [view](CERTS/7c2799d3642d04f04fe667c3ab251c18689af323acdc43b2fa5f3dc89e3a0f14/README.md) |
 
 
-Generated: 16 Mar 23 19:18 UTC
+Generated: 12 Apr 23 01:46 UTC

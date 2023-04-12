@@ -2,9 +2,9 @@
 
 ## Certificate ENA SHAKEN cert 521F
 
-Tested At: 16 Mar 23 19:13 UTC\
+Tested At: 12 Apr 23 01:42 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 456 day(s)\
+Remaining Validity Period: 430 day(s)\
 Subject: CN=ENA SHAKEN cert 521F, O=ENA, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://sti-cr.cgah.tnsi.com/certs/702fb83e8268b5175b591d8448a512646339bc40
@@ -28,4 +28,4 @@ Link: https://sti-cr.cgah.tnsi.com/certs/702fb83e8268b5175b591d8448a512646339bc4
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 16 Mar 23 19:18 UTC
+Generated: 12 Apr 23 01:46 UTC
