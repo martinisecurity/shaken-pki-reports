@@ -3,8 +3,8 @@
 ## Bulk Solutions, LLC
 
 Name: `http://mango.voipplus.net/cert.pem`\
-Tested At: 12 Apr 23 21:42 UTC\
-Time: 126ms
+Tested At: 28 Apr 23 02:02 UTC\
+Time: 94ms
 
 ### Issues
 
@@ -14,4 +14,4 @@ Time: 126ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_protocol](../../ISSUES/w_atis_protocol/README.md) | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 
-Generated: 12 Apr 23 22:02 UTC
+Generated: 28 Apr 23 02:17 UTC

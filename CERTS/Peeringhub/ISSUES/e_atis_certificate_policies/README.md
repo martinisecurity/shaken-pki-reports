@@ -20,11 +20,11 @@ Description: STI End-Entity certificates shall include a Certificate Policies ex
 | error | MAQS SOLUTION SHAKEN 255K | [view](../../CERTS/97ce91a2fcfff9fc5e98dada59f22b92abba336eafba7c0f5797b26301e1627e/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | VOCALTRANSIT SHAKEN 783J | [view](../../CERTS/da1ea40736c4f38882fb4221c168b3128656f4814a843ddd8ab7fb5550350271/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | error | Televoip SHAKEN 438K | [view](../../CERTS/2e22094a03b8d7e2d2f37cb2ea5d5778d122fdbc3d0c83e3f8f984c8cf03a2e3/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| error | TalkAsiaVoip LLC SHAKEN 198K | [view](../../CERTS/00b0a8a55e8249e1ed3aa748fafd7d3d60f42064fee424335ecd2e2d258d60ae/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| error | TalkAsiaVoip LLC SHAKEN 198K1 | [view](../../CERTS/65771ead0b2908efb87f49526ccce5a8768f5a98a644c5e3b44dd28c4e4ec785/README.md) | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 12 Apr 23 22:02 UTC
+Generated: 28 Apr 23 02:17 UTC

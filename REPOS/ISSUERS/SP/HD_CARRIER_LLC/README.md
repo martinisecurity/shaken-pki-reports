@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 258ms average time it took to download each certificate
+- 330ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -22,4 +22,4 @@
 | `https://d64db847f381fcb974ab1b6150b49a91.cxstatic.com/f/7e0e8d6f-6c9c-4cbe-8063-4443d7875a64` | 14&#160;Apr&#160;23&#160;23:59&#160;UTC | true | [view](REPOS/d232902e08707fc2623eee195532f2a84a2ff938/README.md) |
 
 
-Generated: 12 Apr 23 22:02 UTC
+Generated: 28 Apr 23 02:17 UTC

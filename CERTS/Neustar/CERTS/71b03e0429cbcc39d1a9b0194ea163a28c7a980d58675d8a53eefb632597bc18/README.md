@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 502E
 
-Tested At: 12 Apr 23 21:53 UTC\
+Tested At: 28 Apr 23 02:11 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 11 day(s)\
+Remaining Validity Period: -5 day(s)\
 Subject: CN=SHAKEN 502E, O=Accessline Communications Corp., C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://sscerts.accessline.com/sscerts/Cert-US-04-2022.crt
@@ -18,4 +18,4 @@ Link: https://sscerts.accessline.com/sscerts/Cert-US-04-2022.crt
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 12 Apr 23 22:02 UTC
+Generated: 28 Apr 23 02:17 UTC

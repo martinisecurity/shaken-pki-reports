@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 775J
 
-Tested At: 12 Apr 23 21:53 UTC\
+Tested At: 28 Apr 23 02:11 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -118 day(s)\
+Remaining Validity Period: -133 day(s)\
 Subject: CN=SHAKEN 775J, O=Voip Stir PR LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/ffad5de97793861e660be844cf52d740aa256d7d
@@ -25,4 +25,4 @@ Link: https://ssc.getsipnav.com/certs/ffad5de97793861e660be844cf52d740aa256d7d
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Apr 23 22:02 UTC
+Generated: 28 Apr 23 02:17 UTC

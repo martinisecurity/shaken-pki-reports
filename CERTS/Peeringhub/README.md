@@ -19,7 +19,7 @@
 - 11.11% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 219 days is the average remaining validity for the certificates in the corpus
+- 221 days is the average remaining validity for the certificates in the corpus
 - 242 days is the average initial validity for the certificates in the corpus
 - 3 certificates expire in the next 30 days
 - 1.00 average number of unexpired certificates per OCN observed
@@ -44,7 +44,7 @@
 - 100.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 50.00% of certificates are too old to be assessed against currently enforced expectations
-- 5801 days is the average remaining validity for the certificates in the corpus
+- 5796 days is the average remaining validity for the certificates in the corpus
 - 5475 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -66,9 +66,9 @@
 | 15&#160;Oct&#160;22&#160;00:00&#160;UTC | VOCALTRANSIT SHAKEN 783J | 15&#160;Jun&#160;23&#160;00:00&#160;UTC | true | [view](CERTS/da1ea40736c4f38882fb4221c168b3128656f4814a843ddd8ab7fb5550350271/README.md) |
 | 02&#160;Nov&#160;22&#160;07:51&#160;UTC | Apex Telecom LLC SHAKEN 288K | 02&#160;Nov&#160;23&#160;00:54&#160;UTC | true | [view](CERTS/e64593f4d9a81236af33c40c227d728e49418be50e05be2a8b65ec549a3b9275/README.md) |
 | 16&#160;Nov&#160;22&#160;00:03&#160;UTC | Televoip SHAKEN 438K | 11&#160;Nov&#160;23&#160;00:08&#160;UTC | true | [view](CERTS/2e22094a03b8d7e2d2f37cb2ea5d5778d122fdbc3d0c83e3f8f984c8cf03a2e3/README.md) |
-| 20&#160;Mar&#160;23&#160;13:39&#160;UTC | TalkAsiaVoip LLC SHAKEN 198K | 26&#160;Apr&#160;23&#160;12:36&#160;UTC | true | [view](CERTS/00b0a8a55e8249e1ed3aa748fafd7d3d60f42064fee424335ecd2e2d258d60ae/README.md) |
 | 25&#160;Mar&#160;23&#160;13:08&#160;UTC | INS2IPES SHAKEN 281K | 02&#160;May&#160;23&#160;12:56&#160;UTC | true | [view](CERTS/a73c3a729fa9d1321388c85d8fedbb0754c28cf7a44324ab0f07b4189b629d07/README.md) |
 | 26&#160;Mar&#160;23&#160;21:33&#160;UTC | MAQS SOLUTION SHAKEN 255K | 03&#160;May&#160;23&#160;20:13&#160;UTC | true | [view](CERTS/97ce91a2fcfff9fc5e98dada59f22b92abba336eafba7c0f5797b26301e1627e/README.md) |
+| 20&#160;Apr&#160;23&#160;10:11&#160;UTC | TalkAsiaVoip LLC SHAKEN 198K1 | 26&#160;May&#160;23&#160;12:36&#160;UTC | true | [view](CERTS/65771ead0b2908efb87f49526ccce5a8768f5a98a644c5e3b44dd28c4e4ec785/README.md) |
 
 #### CA Certificates
 
@@ -78,4 +78,4 @@
 | 22&#160;Jun&#160;22&#160;22:45&#160;UTC | Peeringhub Inc SHAKEN Intermediate CA 2 | 19&#160;Jun&#160;32&#160;22:45&#160;UTC | true | [view](CERTS/f00871963a40b04269c4b019968e42f9f40964cbfb512ff5342307e9942874ce/README.md) |
 
 
-Generated: 12 Apr 23 22:02 UTC
+Generated: 28 Apr 23 02:17 UTC

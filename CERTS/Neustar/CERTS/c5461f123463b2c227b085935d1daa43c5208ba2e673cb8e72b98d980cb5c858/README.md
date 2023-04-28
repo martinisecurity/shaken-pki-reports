@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 669B
 
-Tested At: 12 Apr 23 21:48 UTC\
+Tested At: 28 Apr 23 02:06 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 52 day(s)\
+Remaining Validity Period: 37 day(s)\
 Subject: CN=SHAKEN 669B, O=BTC Broadband, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11408.10160.pem
@@ -18,4 +18,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11408.10160.pem
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 12 Apr 23 22:02 UTC
+Generated: 28 Apr 23 02:17 UTC

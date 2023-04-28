@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 154E
 
-Tested At: 12 Apr 23 22:00 UTC\
+Tested At: 28 Apr 23 02:17 UTC\
 Initial Validity Period: 398 day(s)\
-Remaining Validity Period: 96 day(s)\
+Remaining Validity Period: 81 day(s)\
 Subject: CN=SHAKEN 154E, O=IRISTEL, C=CA\
 Issuer: CN=Neustar Canada Certified Caller ID SHAKEN CA-2, OU=www.ca.ccid.neustar, O=Neustar Information Services Inc, C=CA\
 Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/0581cac7b4b7ade97255fef02601f295.crt
@@ -17,4 +17,4 @@ Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/0581cac7b4b7ade97255fe
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 12 Apr 23 22:02 UTC
+Generated: 28 Apr 23 02:17 UTC

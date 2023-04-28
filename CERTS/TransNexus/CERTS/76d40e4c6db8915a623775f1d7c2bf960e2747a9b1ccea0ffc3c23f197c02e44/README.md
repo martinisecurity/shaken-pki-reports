@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 952J
+
+Tested At: 28 Apr 23 02:05 UTC\
+Initial Validity Period: 30 day(s)\
+Remaining Validity Period: 20 day(s)\
+Subject: CN=SHAKEN 952J, O=Syndeo LLC dba Broadvoice, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.transnexus.com/952J/f5f449fe-4cfe-4e2f-9721-d850a793a784.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC2DCCAn%2BgAwIBAgIQYsg7wq45TYlK5Rw%2BQlOaXTAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwNDE3MTg1MjM4WhcNMjMwNTE3MTg1MjM3WjBHMQswCQYDVQQGEwJVUzEiMCAGA1UEChMZU3luZGVvIExMQyBkYmEgQnJvYWR2b2ljZTEUMBIGA1UEAxMLU0hBS0VOIDk1MkowWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQ6QyW4kAS76cbEtSXVhx0DtwT8nhQCMXHf0nMvACJhD06iN9CPQ2F%2FiMC64fFhkVwBTpCPx1AEe06XHzxILvhzo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFNTpnxUNTnzsD6ZN0sfijUtPr%2BgyMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDk1MkowCgYIKoZIzj0EAwIDRwAwRAIgSU6UJKbZMbPNhiRdLgb2t5OHKRgghQ4JYq16OJyYjUACIDcrIrsvdKhh1XUjjCgcQpOJARbC7kMQMn%2BLUyJv0n4N)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+
+Generated: 28 Apr 23 02:17 UTC

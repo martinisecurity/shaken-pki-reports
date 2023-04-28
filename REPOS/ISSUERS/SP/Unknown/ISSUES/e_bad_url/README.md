@@ -9,9 +9,9 @@ Description: Subscribers shall provide unrestricted access to its repositories a
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://cert.46labs.com` |  | true | [view](../../REPOS/9a5c4ccc9ebda8032087749b6d5e2fd3b31fafa8/README.md) |
+| `http://sti.novolink.net/crypt/sti-shaken.crt` |  | true | [view](../../REPOS/e89ebbbc2418de8848df85a11db2f3b9724c0087/README.md) |
 | `https://cert.sticr.att.net:8443/certs/att/6d021e67-e6a1-4821-bf7a-19491029a6ca` |  | true | [view](../../REPOS/7f767f2c2970329aedcdc118e431cdea5f195d14/README.md) |
 | `https://ecms.securetransit.net/certs/410bad9e05a57353f0d8739a421be619.cer` |  | true | [view](../../REPOS/6034f9862b22502cb879614b1690e2d94043ecb9/README.md) |
 
 
-Generated: 12 Apr 23 22:02 UTC
+Generated: 28 Apr 23 02:17 UTC

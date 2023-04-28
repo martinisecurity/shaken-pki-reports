@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 089K
+
+Tested At: 28 Apr 23 02:04 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -5 day(s)\
+Subject: CN=SHAKEN 089K, O=Logista Solutions, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/5f7c135d-caf3-4661-abb1-d1720e7872e2/55e030841ed3a26d9100c3c153d38701.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC0jCCAnegAwIBAgIQc386H1HSHygIP1%2FRNhgtazAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwNDE1MTg1MTEzWhcNMjMwNDIyMTg1MTEyWjA%2FMQswCQYDVQQGEwJVUzEaMBgGA1UEChMRTG9naXN0YSBTb2x1dGlvbnMxFDASBgNVBAMTC1NIQUtFTiAwODlLMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEvEWLlL%2BeHFdaUcp02i9xeJzMq%2FGQOasVmS8ARR%2BUf1ZvKe1DmRo6rhtSHPLalHiN%2F3cW%2BL7L3DonuhVhEzGlE6OCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBQUUdLvnWzfeHlvJ26XnchEj98ADzAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQwODlLMAoGCCqGSM49BAMCA0kAMEYCIQDVUlPKj6n9tNAWuQtw%2BtsClj7xiRZluokyqnL%2B85BVNgIhAPkRArBHA8w%2FzkmT9HwdxdhtAm6A3PveREPdABO0f1Ke)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+
+Generated: 28 Apr 23 02:17 UTC

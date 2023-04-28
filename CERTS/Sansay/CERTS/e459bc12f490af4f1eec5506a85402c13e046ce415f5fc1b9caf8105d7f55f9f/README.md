@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN  XCast Labs 689J
 
-Tested At: 12 Apr 23 21:51 UTC\
+Tested At: 28 Apr 23 02:10 UTC\
 Initial Validity Period: 31 day(s)\
-Remaining Validity Period: -6 day(s)\
+Remaining Validity Period: -21 day(s)\
 Subject: CN=SHAKEN  XCast Labs 689J, OU=XCast Labs, O=XCast Labs, ST=California, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.xcastlabs.net/1680762600/xclsshaken.pem
@@ -19,4 +19,4 @@ Link: https://cr.xcastlabs.net/1680762600/xclsshaken.pem
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
 
-Generated: 12 Apr 23 22:02 UTC
+Generated: 28 Apr 23 02:17 UTC
