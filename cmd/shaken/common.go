@@ -144,7 +144,10 @@ var wellknownCaDomains = map[string]string{
 }
 
 func escapeMdLink(link string) string {
+	// replace all spaces with underscores
 	link = strings.Replace(link, " ", "_", -1)
+	// replace all slashes with empty string
+	link = strings.Replace(link, "/", "", -1)
 	return link
 }
 
