@@ -50,7 +50,7 @@ func CreateReport(name string) (*os.File, error) {
 
 	err := Mkdir(name)
 	if err != nil {
-		return nil, fmt.Errorf("cannot create the report file, %w", err)
+		return nil, fmt.Errorf("cannot create the report directory, %w", err)
 	}
 
 	file, err := os.Create(path.Join(name, "README.md"))
@@ -146,9 +146,19 @@ var wellknownCaDomains = map[string]string{
 func escapeMdLink(link string) string {
 	// replace all spaces with underscores
 	link = strings.Replace(link, " ", "_", -1)
-	// replace all slashes with empty string
-	link = strings.Replace(link, "/", "", -1)
 	return link
+}
+
+func escapeName(name string) string {
+	// replace all spaces with underscores
+	name = strings.Replace(name, " ", "_", -1)
+	// replace all dots with underscores
+	name = strings.Replace(name, ".", "_", -1)
+	// replace all commas with underscores
+	name = strings.Replace(name, ",", "_", -1)
+	// replace all slashes with underscores
+	name = strings.Replace(name, "/", "", -1)
+	return name
 }
 
 func getCertificateId(c *x509.Certificate) string {

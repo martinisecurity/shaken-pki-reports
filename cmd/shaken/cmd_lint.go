@@ -398,7 +398,7 @@ func (t *Report) saveCertificates(outDir string) error {
 	issuers := t.Certificates.GetIssuers()
 	for _, issuer := range issuers {
 		// issuer report
-		issuerDir := path.Join(certsDir, escapeMdLink(issuer.Name))
+		issuerDir := path.Join(certsDir, escapeName(issuer.Name))
 		issuerFile, err := CreateReport(issuerDir)
 		if err != nil {
 			return err
@@ -527,7 +527,7 @@ func (t *Report) saveRepositories(outDir string) error {
 				return err
 			}
 			for _, issuer := range issuerGroup.Issuers {
-				issuerDir := path.Join(caDir, escapeMdLink(issuer.Name))
+				issuerDir := path.Join(caDir, escapeName(issuer.Name))
 				issuerFile, err := CreateReport(issuerDir)
 				if err != nil {
 					return err

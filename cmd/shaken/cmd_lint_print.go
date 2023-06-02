@@ -119,7 +119,7 @@ func PrintCertificateSummaryIssuers(w io.Writer, r *CertificateIssuersReport, an
 			continue
 		}
 		fmt.Fprintf(w, "| %s | %s | %s | %s | %s | %s |\n",
-			fmt.Sprintf("[%s](%s/%s/README.md#%s)", issuer.Name, DIR_CERTS, escapeMdLink(issuer.Name), anchor),
+			fmt.Sprintf("[%s](%s/%s/README.md#%s)", issuer.Name, DIR_CERTS, escapeName(issuer.Name), anchor),
 			print(issuer.TestedAmount, r.TestedAmount),
 			print(issuer.ErrorAmount, issuer.TestedAmount),
 			print(issuer.WarnAmount, issuer.TestedAmount),
@@ -541,7 +541,7 @@ func PrintSummaryDetails(w io.Writer, r *RepositoryIssuersReport) {
 	for _, key := range keys {
 		issuer := r.Issuers[key]
 		fmt.Fprintf(w, "| %s | %s | %s | %s | %s |\n",
-			fmt.Sprintf("[%s](%s)", issuer.Name, path.Join(DIR_ISSUERS, dir, escapeMdLink(issuer.Name), "README.md")),
+			fmt.Sprintf("[%s](%s)", issuer.Name, path.Join(DIR_ISSUERS, dir, escapeName(issuer.Name), "README.md")),
 			print(issuer.TestedAmount, r.TestedAmount),
 			print(issuer.ErrorAmount, issuer.TestedAmount),
 			print(issuer.WarnAmount, issuer.TestedAmount),
