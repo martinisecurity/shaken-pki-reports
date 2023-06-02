@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 060K
 
-Tested At: 28 Apr 23 02:04 UTC\
+Tested At: 02 Jun 23 01:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -50 day(s)\
+Remaining Validity Period: -85 day(s)\
 Subject: CN=SHAKEN 060K, O=Telware, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/0c4e235f-3e3e-4dd3-bbfc-2f15badab180/fde9e9661eb5493e1f1c3a8668ea51b1.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/0c4e235f-3e3e-4dd3-bbfc-2f15badab180/fde9
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

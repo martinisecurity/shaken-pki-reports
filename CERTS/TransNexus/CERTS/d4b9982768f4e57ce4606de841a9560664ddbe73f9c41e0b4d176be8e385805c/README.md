@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 983J
 
-Tested At: 28 Apr 23 02:04 UTC\
+Tested At: 02 Jun 23 01:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -160 day(s)\
+Remaining Validity Period: -195 day(s)\
 Subject: CN=SHAKEN 983J, OU=SHAKEN, O=ESI, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/dafc6d95003d711a029d6a69af6b67bd.pem
@@ -17,4 +17,4 @@ Link: https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/dafc
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

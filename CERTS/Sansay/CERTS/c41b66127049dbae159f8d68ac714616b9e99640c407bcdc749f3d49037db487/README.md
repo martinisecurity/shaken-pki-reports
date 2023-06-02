@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN TeleVoIPs 138K
 
-Tested At: 28 Apr 23 02:09 UTC\
+Tested At: 02 Jun 23 01:09 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 167 day(s)\
+Remaining Validity Period: 132 day(s)\
 Subject: CN=SHAKEN TeleVoIPs 138K, OU=Corp, O=TeleVoIPs, ST=Florida, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/TeleVoIPs_138K
@@ -20,4 +20,4 @@ Link: https://cr.sansay.com/TeleVoIPs_138K
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

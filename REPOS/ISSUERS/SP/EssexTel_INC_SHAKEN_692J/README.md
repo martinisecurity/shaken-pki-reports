@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 24ms average time it took to download each certificate
+- 107ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://netnumber-sti-cr.s3.amazonaws.com/certs/f4fc911b-5676-4cdc-9722-cbcae0cbb55f` | 10&#160;May&#160;23&#160;12:59&#160;UTC | true | [view](REPOS/32299d797966c0e4a84336069669767e64eaaf92/README.md) |
+| `https://netnumber-sti-cr.s3.amazonaws.com/certs/419b6f62-c79c-404d-9253-36db8012193f` | 09&#160;Jun&#160;23&#160;00:10&#160;UTC | true | [view](REPOS/8fb317f71e947d5485b504967c8331fafb04abb4/README.md) |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

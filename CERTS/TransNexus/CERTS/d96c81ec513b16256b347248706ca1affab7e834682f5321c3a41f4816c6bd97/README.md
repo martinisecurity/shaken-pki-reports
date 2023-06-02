@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 159H
 
-Tested At: 28 Apr 23 02:05 UTC\
+Tested At: 02 Jun 23 01:03 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -199 day(s)\
+Remaining Validity Period: -234 day(s)\
 Subject: CN=SHAKEN 159H, OU=SHAKEN, O=Edge Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/159H/c52be509-f1a2-4b77-9300-df1f3ffb4245.pem
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/159H/c52be509-f1a2-4b77-9300-df1f3ffb4
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

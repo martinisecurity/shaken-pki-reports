@@ -9,9 +9,9 @@
 
 #### Leaf Certificates
 
-- 11 certificates were included in the corpus being tested
+- 14 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
-- 1 certificates in the corpus were skipped because they are expired
+- 4 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
 - 10 certificates being tested against the remaining rules
 - 5.00 issues on average found in unexpired, trusted, and non-compliant certificates
@@ -19,11 +19,11 @@
 - 100.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 336 days is the average remaining validity for the certificates in the corpus
+- 333 days is the average remaining validity for the certificates in the corpus
 - 365 days is the average initial validity for the certificates in the corpus
 - 3 certificates expire in the next 30 days
-- 1.11 average number of unexpired certificates per OCN observed
-- 9 unique OCNs observed in unexpired and valid certificate corpus
+- 1.00 average number of unexpired certificates per OCN observed
+- 10 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -45,7 +45,7 @@
 - 100.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 7310 days is the average remaining validity for the certificates in the corpus
+- 7298 days is the average remaining validity for the certificates in the corpus
 - 6757 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -60,14 +60,14 @@
 
 | Created At | Subject | Not After | Problems | Link |
 |------------|---------|-----------|----------|------|
-| 29&#160;Apr&#160;22&#160;17:43&#160;UTC | Nuwave Communications SHAKEN 620J | 29&#160;Apr&#160;23&#160;17:42&#160;UTC | true | [view](CERTS/885b7fea5177d66a28bd5dea525144479428e27d2ed1ff7c493d767c73173fbc/README.md) |
-| 03&#160;May&#160;22&#160;14:36&#160;UTC | Surrytel STI SHAKEN 0503 | 03&#160;May&#160;23&#160;14:36&#160;UTC | true | [view](CERTS/8d1b44b685bab5b4a45e19b68bd8113cf40d180bd3d19326be4cafb78f6e789e/README.md) |
-| 20&#160;May&#160;22&#160;14:32&#160;UTC | Veracity SHAKEN 716D | 20&#160;May&#160;23&#160;14:32&#160;UTC | true | [view](CERTS/fccfbb719ccc9513231e9ea6f38906f0271f4640f253e1be0780da1e7b5f03ff/README.md) |
 | 10&#160;Jun&#160;22&#160;19:00&#160;UTC | Netfortris SHAKEN 8886 | 10&#160;Jun&#160;23&#160;19:00&#160;UTC | true | [view](CERTS/64b7a3eed364e863b36e050a95b35799c594ea1c15c17562611907a2f0dd8bbe/README.md) |
 | 16&#160;Jun&#160;22&#160;18:50&#160;UTC | Peoples SHAKEN 2130 | 16&#160;Jun&#160;23&#160;18:50&#160;UTC | true | [view](CERTS/5c8b37f7c0235bb218b1f90787953048164805b88f222f7391c7b319b42c1d14/README.md) |
 | 16&#160;Jun&#160;22&#160;19:30&#160;UTC | UniVoIP SHAKEN 629J | 16&#160;Jun&#160;23&#160;19:30&#160;UTC | true | [view](CERTS/8bb3168ff6efb4095ace7fbacadb84245992fa74dfadf6c5d9ccafc4685091f8/README.md) |
 | 22&#160;Aug&#160;22&#160;16:04&#160;UTC | Siskiyou SHAKEN 2339 | 22&#160;Aug&#160;23&#160;16:04&#160;UTC | true | [view](CERTS/dc3afdbb361402b02a75c92bb00cca9316fcbec50ad3c3093eaff09911ed3220/README.md) |
+| 13&#160;Dec&#160;22&#160;11:40&#160;UTC | Haviland SHAKEN 5237 | 13&#160;Dec&#160;23&#160;11:40&#160;UTC | true | [view](CERTS/b89640f35e333524b66ef658895ea6a51eef986fefe60296a370ce24ad945a2a/README.md) |
+| 14&#160;Dec&#160;22&#160;14:13&#160;UTC | Empire SHAKEN 087H | 14&#160;Dec&#160;23&#160;14:13&#160;UTC | true | [view](CERTS/29e15bd5cc5b91a308611d9a7c92b759279e4a4a839908894710c0a6fcf40c82/README.md) |
 | 16&#160;Jan&#160;23&#160;20:27&#160;UTC | Eastex SHAKEN 2068 | 16&#160;Jan&#160;24&#160;20:27&#160;UTC | true | [view](CERTS/5c2c5f0e26ad52b8e1c6a9093422302726701cadb50cac02f12a5576840ec7c6/README.md) |
+| 01&#160;Mar&#160;23&#160;19:32&#160;UTC | Triangle SHAKEN 2257 | 29&#160;Feb&#160;24&#160;19:32&#160;UTC | true | [view](CERTS/1e6b9b8247b567e94d661d0d0db4435de2599fbe30d1f5344998a47ac8c63b77/README.md) |
 | 03&#160;Apr&#160;23&#160;21:08&#160;UTC | Etex STI SHAKEN 3196 | 02&#160;Apr&#160;24&#160;21:08&#160;UTC | true | [view](CERTS/2accbf5ec4af27017623e3199d568c6ce9e325a47208f4ddda26734089512d29/README.md) |
 | 03&#160;Apr&#160;23&#160;22:02&#160;UTC | Nuwave Communications SHAKEN 620J | 02&#160;Apr&#160;24&#160;22:02&#160;UTC | true | [view](CERTS/a9acc6eb541548ac5f8f3aba269c00d545106957dc39e2967dd963c857f34789/README.md) |
 
@@ -79,4 +79,4 @@
 | 13&#160;May&#160;21&#160;00:00&#160;UTC | SHAKEN Ribbon Root CA | 12&#160;May&#160;46&#160;23:59&#160;UTC | true | [view](CERTS/7c2799d3642d04f04fe667c3ab251c18689af323acdc43b2fa5f3dc89e3a0f14/README.md) |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

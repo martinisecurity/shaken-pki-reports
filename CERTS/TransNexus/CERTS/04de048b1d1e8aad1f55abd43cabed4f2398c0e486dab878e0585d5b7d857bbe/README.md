@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 193E
 
-Tested At: 28 Apr 23 02:05 UTC\
+Tested At: 02 Jun 23 01:03 UTC\
 Initial Validity Period: 60 day(s)\
-Remaining Validity Period: -178 day(s)\
+Remaining Validity Period: -213 day(s)\
 Subject: CN=SHAKEN 193E, OU=SHAKEN, O=8x8 Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/193E/7e5d014c-ed0c-4a12-8c38-df64aa8be83d.pem
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/193E/7e5d014c-ed0c-4a12-8c38-df64aa8be
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

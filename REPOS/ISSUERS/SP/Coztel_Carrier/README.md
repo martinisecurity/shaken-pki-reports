@@ -2,14 +2,14 @@
 
 ## Coztel Carrier
 
-- 1 repository URLs were included in the corpus being tested
-- 0 repository URLs in the corpus were skipped because they were duplicated
+- 2 repository URLs were included in the corpus being tested
+- 1 repository URLs in the corpus were skipped because they were duplicated
 - 1 repository URLs being tested against the remaining rules
 - 3.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 3ms average time it took to download each certificate
+- 12ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -22,4 +22,4 @@
 | `http://5.161.95.22/191c4c42dd7fa6115e84100637e42c99.cer` | 28&#160;Jul&#160;23&#160;20:56&#160;UTC | true | [view](REPOS/30ae565722446f5d37f3ce9e61998d01db87404a/README.md) |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

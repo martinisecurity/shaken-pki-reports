@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 029K
 
-Tested At: 28 Apr 23 02:04 UTC\
+Tested At: 02 Jun 23 01:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -61 day(s)\
+Remaining Validity Period: -96 day(s)\
 Subject: CN=SHAKEN 029K, O=VoIPConsultants.biz LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/7f0be90c-4263-43fc-b425-53c54b34cd5a/10d6ab90812023211dbce67b296db2ed.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/7f0be90c-4263-43fc-b425-53c54b34cd5a/10d6
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

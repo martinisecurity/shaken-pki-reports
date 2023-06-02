@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 361H
+
+Tested At: 02 Jun 23 01:03 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -9 day(s)\
+Subject: CN=SHAKEN 361H, O=Atlantech Online, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.transnexus.com/361H/01dc56d0-6730-4188-9794-d2f128d4f3d9.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC0TCCAnagAwIBAgIQdiEklHfxJ%2FyZ5kDj1so0QTAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwNTE2MDEzNDM2WhcNMjMwNTIzMDEzNDM1WjA%2BMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQQXRsYW50ZWNoIE9ubGluZTEUMBIGA1UEAxMLU0hBS0VOIDM2MUgwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQGm1x5IDQbqZHZbeNU5H97Y1YAClaFqhFDAtZXHsA9oCJ55ifKwUuZoaNM6k5rPVpSrmmDNvIItW5OideNLRYxo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFFf7QKHN0knCeQPQVsDOFZSfUNKmMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDM2MUgwCgYIKoZIzj0EAwIDSQAwRgIhAJo9x3k4CSvNTr2%2BS3ASh0NC6sIpSDqdwAdVf2EdcQZjAiEAzwBv%2FsHGknOsV0SH0dLHRRImDyYL2%2B3sapSUay%2FHIpI%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+
+Generated: 02 Jun 23 01:12 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 5512
 
-Tested At: 28 Apr 23 02:04 UTC\
+Tested At: 02 Jun 23 01:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -185 day(s)\
+Remaining Validity Period: -220 day(s)\
 Subject: CN=SHAKEN 5512, OU=SHAKEN, O=Andrew Ward Consulting LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/19aed76a-a067-4715-8a05-1993cc9d939e/26060a26b4428eed5762dc72a3dec527.pem
@@ -18,4 +18,4 @@ Link: https://certificates.clearip.com/19aed76a-a067-4715-8a05-1993cc9d939e/2606
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

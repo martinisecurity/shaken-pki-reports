@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 159H
 
-Tested At: 28 Apr 23 02:05 UTC\
+Tested At: 02 Jun 23 01:03 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -194 day(s)\
+Remaining Validity Period: -229 day(s)\
 Subject: CN=SHAKEN 159H, OU=SHAKEN, O=Edge Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/159H/d63a047f-9c5a-44e6-b60a-35f1c738015e.pem
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/159H/d63a047f-9c5a-44e6-b60a-35f1c7380
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

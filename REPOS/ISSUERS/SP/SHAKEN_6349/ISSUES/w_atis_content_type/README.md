@@ -9,7 +9,7 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://crs.sti.uscellular.com/certs/uscc_shaken_CA.crt` | 31&#160;Mar&#160;24&#160;15:28&#160;UTC | true | [view](../../REPOS/b2a4177b5a547e2a4c30c52aa4ff68a0b2d2899c/README.md) |
+| `https://robocall.sti.uscellular.com/certs/uscc_shaken_CA.crt` | 31&#160;Mar&#160;24&#160;15:28&#160;UTC | true | [view](../../REPOS/3a4a7034c60a9d05af210a5b601806393d4dac86/README.md) |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

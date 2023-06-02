@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 5606
 
-Tested At: 28 Apr 23 02:11 UTC\
+Tested At: 02 Jun 23 01:11 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 135 day(s)\
+Remaining Validity Period: 100 day(s)\
 Subject: CN=SHAKEN 5606, O=Charter Communications Inc SHAKEN 5606, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Inc a TransUnion company, C=US\
 Link: https://shaken.spectrum.com/4d65efdb8a1ca366e9576c8fda747fa4.pem
@@ -16,4 +16,4 @@ Link: https://shaken.spectrum.com/4d65efdb8a1ca366e9576c8fda747fa4.pem
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

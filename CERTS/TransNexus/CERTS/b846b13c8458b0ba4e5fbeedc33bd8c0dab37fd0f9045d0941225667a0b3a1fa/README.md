@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 700H
+
+Tested At: 02 Jun 23 01:02 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -28 day(s)\
+Subject: CN=SHAKEN 700H, O=Metro Fibernet LLC, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/22b6cee0-8559-4c73-8092-6eee861c4b49/b20cb166910a7860c76d114c03e92e9d.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC0jCCAnigAwIBAgIQe0ErkIl6QCT0cNRg84NO7jAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwNDI3MjAzNjU4WhcNMjMwNTA0MjAzNjU3WjBAMQswCQYDVQQGEwJVUzEbMBkGA1UEChMSTWV0cm8gRmliZXJuZXQgTExDMRQwEgYDVQQDEwtTSEFLRU4gNzAwSDBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABKq6EG9XOlzUSnlCdxUBUPxtfqvBYU6RDdIwf4amQfCh6PI%2Bg9PZWMTBmDO0siLZ5tTO8ylQ0U0n2b2z8QYTC2%2BjggE8MIIBODAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAdBgNVHQ4EFgQU8r8On2ykT%2Fn5qgZHUq7J6K8BIvowHwYDVR0jBBgwFoAUMPX18rfhSwsPEHV9SKSQ8T2LKCowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEDMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAWBggrBgEFBQcBGgQKMAigBhYENzAwSDAKBggqhkjOPQQDAgNIADBFAiEAxNnK2%2Bs5WkCqP13jQ4DPTSN8%2BxaHez0OZ2QpVUrgkgYCIGGKeaS16nYXEmdYT9M4RWfoQVTOSgwNABly%2BSX7cBFx)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+
+Generated: 02 Jun 23 01:12 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 864J
 
-Tested At: 28 Apr 23 02:04 UTC\
+Tested At: 02 Jun 23 01:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -156 day(s)\
+Remaining Validity Period: -191 day(s)\
 Subject: CN=SHAKEN 864J, O=BareTelecom, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/068da5f9-4dcc-47ef-be68-4fde86a6b74d/ff4ec92607f6887e366b98326e5cba05.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/068da5f9-4dcc-47ef-be68-4fde86a6b74d/ff4e
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

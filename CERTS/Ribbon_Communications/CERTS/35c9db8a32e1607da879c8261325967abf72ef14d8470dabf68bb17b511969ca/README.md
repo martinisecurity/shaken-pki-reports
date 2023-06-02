@@ -2,9 +2,9 @@
 
 ## Certificate Etex STI SHAKEN 3196
 
-Tested At: 28 Apr 23 02:11 UTC\
+Tested At: 02 Jun 23 01:10 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -21 day(s)\
+Remaining Validity Period: -56 day(s)\
 Subject: CN=Etex STI SHAKEN 3196, O=Etex, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-cr.rbbnidhub.com/DdpJt757Rz/3196-2545b56cf6ba8ebe16fd7e049730421b
@@ -14,9 +14,9 @@ Link: https://prod001-cr.rbbnidhub.com/DdpJt757Rz/3196-2545b56cf6ba8ebe16fd7e049
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

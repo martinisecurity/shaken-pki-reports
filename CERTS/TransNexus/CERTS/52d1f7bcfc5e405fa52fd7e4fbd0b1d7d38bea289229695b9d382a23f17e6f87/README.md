@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 790J
 
-Tested At: 28 Apr 23 02:05 UTC\
+Tested At: 02 Jun 23 01:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -38 day(s)\
+Remaining Validity Period: -73 day(s)\
 Subject: CN=SHAKEN 790J, O=Viirtue, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/a429df3a-62d2-4851-90c8-fc446859fb08/beaba4a8c1f209e654b7d7a6045939f4.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/a429df3a-62d2-4851-90c8-fc446859fb08/beab
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

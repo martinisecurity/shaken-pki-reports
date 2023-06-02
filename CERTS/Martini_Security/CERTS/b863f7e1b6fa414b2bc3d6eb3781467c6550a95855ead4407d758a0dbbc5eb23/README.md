@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 076K
 
-Tested At: 28 Apr 23 02:17 UTC\
+Tested At: 02 Jun 23 01:11 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: -86 day(s)\
+Remaining Validity Period: -121 day(s)\
 Subject: O=REDBURN INFRASTRUCTURE\\, LLC, C=US, serialNumber=9BC766E33B0DCC8D895C9522CBAC9BFD, CN=SHAKEN 076K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/FMCDqO0b7R4g.pem
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/FMCDqO0b7R4g.pem
 149 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

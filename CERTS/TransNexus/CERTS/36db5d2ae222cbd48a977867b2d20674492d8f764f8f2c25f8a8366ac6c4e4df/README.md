@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 345J
 
-Tested At: 28 Apr 23 02:05 UTC\
+Tested At: 02 Jun 23 01:03 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -52 day(s)\
+Remaining Validity Period: -87 day(s)\
 Subject: CN=SHAKEN 345J, O=Ooma Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/345J/a43df45d-6e8c-4968-a8fd-ab97612aeeac.pem
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/345J/a43df45d-6e8c-4968-a8fd-ab97612ae
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

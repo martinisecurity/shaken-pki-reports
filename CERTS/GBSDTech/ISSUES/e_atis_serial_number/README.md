@@ -13,7 +13,7 @@ Description: STI certificates shall include a Serial Number field containing an 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
 | error | FracTEL LLC SHAKEN | [view](../../CERTS/81188428a77465a01dbc3a49509aa0486510c109472f8af6e5cb1887a682040e/README.md) | STI certificates shall include a Serial Number field containing an integer greater than zero. The serial number shall contain at least 64 bits of output from a Cryptographically Secure PseudoRandom Number Generator (CSPRNG) |
-| error | Edify SHAKEN | [view](../../CERTS/224a236b36499273c1a11a37e7df69b3dd72f4747dad0f3faf092b0069eb0b1d/README.md) | STI certificates shall include a Serial Number field containing an integer greater than zero. The serial number shall contain at least 64 bits of output from a Cryptographically Secure PseudoRandom Number Generator (CSPRNG) |
+| error | Edify SHAKEN | [view](../../CERTS/d092ee80d10eb8c6656246f9ffa3d2100319fb217c50c8cc03e4d84e654da026/README.md) | STI certificates shall include a Serial Number field containing an integer greater than zero. The serial number shall contain at least 64 bits of output from a Cryptographically Secure PseudoRandom Number Generator (CSPRNG) |
 | error | MYPBXManager SHAKEN | [view](../../CERTS/0c7bf2cc1741b8036003876afadd109dfd5a6b0fb7af3662ae4d02e3340ad9ce/README.md) | STI certificates shall include a Serial Number field containing an integer greater than zero. The serial number shall contain at least 64 bits of output from a Cryptographically Secure PseudoRandom Number Generator (CSPRNG) |
 
 ### CA Certificates
@@ -21,4 +21,4 @@ Description: STI certificates shall include a Serial Number field containing an 
 No error, warning, or notice level issues were found
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

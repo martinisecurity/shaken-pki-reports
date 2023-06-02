@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1845
 
-Tested At: 28 Apr 23 02:05 UTC\
+Tested At: 02 Jun 23 01:03 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 362 day(s)\
+Remaining Validity Period: 327 day(s)\
 Subject: CN=SHAKEN 1845, O=Wamego Telecommunications Company Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/39.203
@@ -16,4 +16,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/39.203
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 311H
 
-Tested At: 28 Apr 23 02:05 UTC\
+Tested At: 02 Jun 23 01:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -105 day(s)\
+Remaining Validity Period: -140 day(s)\
 Subject: CN=SHAKEN 311H, O=QCOL\\, Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/a4028d81-0073-4d75-aeed-9b2da6f31d1b/f92dfc06afb6f2af28cb57097535c648.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/a4028d81-0073-4d75-aeed-9b2da6f31d1b/f92d
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

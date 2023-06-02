@@ -9,27 +9,27 @@
 
 #### Leaf Certificates
 
-- 10 certificates were included in the corpus being tested
-- 1 certificates in the corpus were skipped because they are duplicates
-- 0 certificates in the corpus were skipped because they are expired
+- 11 certificates were included in the corpus being tested
+- 2 certificates in the corpus were skipped because they are duplicates
+- 2 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 9 certificates being tested against the remaining rules
-- 3.11 issues on average found in unexpired, trusted, and non-compliant certificates
+- 7 certificates being tested against the remaining rules
+- 3.14 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
-- 11.11% of certificates contain one or more Warning level issue
+- 14.29% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 221 days is the average remaining validity for the certificates in the corpus
-- 242 days is the average initial validity for the certificates in the corpus
-- 3 certificates expire in the next 30 days
+- 265 days is the average remaining validity for the certificates in the corpus
+- 300 days is the average initial validity for the certificates in the corpus
+- 2 certificates expire in the next 30 days
 - 1.00 average number of unexpired certificates per OCN observed
-- 9 unique OCNs observed in unexpired and valid certificate corpus
+- 7 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 9 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
-| 9 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 9 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 7 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
+| 7 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
+| 7 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
 | 1 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
@@ -44,7 +44,7 @@
 - 100.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 50.00% of certificates are too old to be assessed against currently enforced expectations
-- 5796 days is the average remaining validity for the certificates in the corpus
+- 5785 days is the average remaining validity for the certificates in the corpus
 - 5475 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -66,9 +66,7 @@
 | 15&#160;Oct&#160;22&#160;00:00&#160;UTC | VOCALTRANSIT SHAKEN 783J | 15&#160;Jun&#160;23&#160;00:00&#160;UTC | true | [view](CERTS/da1ea40736c4f38882fb4221c168b3128656f4814a843ddd8ab7fb5550350271/README.md) |
 | 02&#160;Nov&#160;22&#160;07:51&#160;UTC | Apex Telecom LLC SHAKEN 288K | 02&#160;Nov&#160;23&#160;00:54&#160;UTC | true | [view](CERTS/e64593f4d9a81236af33c40c227d728e49418be50e05be2a8b65ec549a3b9275/README.md) |
 | 16&#160;Nov&#160;22&#160;00:03&#160;UTC | Televoip SHAKEN 438K | 11&#160;Nov&#160;23&#160;00:08&#160;UTC | true | [view](CERTS/2e22094a03b8d7e2d2f37cb2ea5d5778d122fdbc3d0c83e3f8f984c8cf03a2e3/README.md) |
-| 25&#160;Mar&#160;23&#160;13:08&#160;UTC | INS2IPES SHAKEN 281K | 02&#160;May&#160;23&#160;12:56&#160;UTC | true | [view](CERTS/a73c3a729fa9d1321388c85d8fedbb0754c28cf7a44324ab0f07b4189b629d07/README.md) |
-| 26&#160;Mar&#160;23&#160;21:33&#160;UTC | MAQS SOLUTION SHAKEN 255K | 03&#160;May&#160;23&#160;20:13&#160;UTC | true | [view](CERTS/97ce91a2fcfff9fc5e98dada59f22b92abba336eafba7c0f5797b26301e1627e/README.md) |
-| 20&#160;Apr&#160;23&#160;10:11&#160;UTC | TalkAsiaVoip LLC SHAKEN 198K1 | 26&#160;May&#160;23&#160;12:36&#160;UTC | true | [view](CERTS/65771ead0b2908efb87f49526ccce5a8768f5a98a644c5e3b44dd28c4e4ec785/README.md) |
+| 23&#160;May&#160;23&#160;13:47&#160;UTC | TalkAsiaVoip LLC SHAKEN 198K | 26&#160;Jun&#160;23&#160;12:36&#160;UTC | true | [view](CERTS/dd388984eef74f8da5ff04f0c4ffb878b2c32f00758bfc09b8cef4ad6044c8d0/README.md) |
 
 #### CA Certificates
 
@@ -78,4 +76,4 @@
 | 22&#160;Jun&#160;22&#160;22:45&#160;UTC | Peeringhub Inc SHAKEN Intermediate CA 2 | 19&#160;Jun&#160;32&#160;22:45&#160;UTC | true | [view](CERTS/f00871963a40b04269c4b019968e42f9f40964cbfb512ff5342307e9942874ce/README.md) |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

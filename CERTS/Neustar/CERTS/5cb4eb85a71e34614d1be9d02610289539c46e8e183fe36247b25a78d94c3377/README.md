@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 701J
 
-Tested At: 28 Apr 23 02:11 UTC\
+Tested At: 02 Jun 23 01:11 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -36 day(s)\
+Remaining Validity Period: -71 day(s)\
 Subject: CN=SHAKEN 701J, O=MASH Telecom Inc, C=CA\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/ba4c10c5aba67bf3db221cadcac7b67b45422720
@@ -13,9 +13,9 @@ Link: https://ssc.getsipnav.com/certs/ba4c10c5aba67bf3db221cadcac7b67b45422720
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

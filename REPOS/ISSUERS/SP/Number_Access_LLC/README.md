@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 20ms average time it took to download each certificate
+- 58ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -23,4 +23,4 @@
 | `https://ss-public-certs.numberaccess.net/na-20230403131109-20230515131109.pem` | 15&#160;May&#160;23&#160;13:11&#160;UTC | true | [view](REPOS/40ec28960518990e8623abdd6d599a7f847660e0/README.md) |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

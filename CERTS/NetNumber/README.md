@@ -9,31 +9,32 @@
 
 #### Leaf Certificates
 
-- 19 certificates were included in the corpus being tested
+- 25 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
-- 13 certificates in the corpus were skipped because they are expired
+- 17 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 6 certificates being tested against the remaining rules
-- 5.33 issues on average found in unexpired, trusted, and non-compliant certificates
+- 8 certificates being tested against the remaining rules
+- 5.38 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
-- 0.00% of certificates contain one or more Warning level issue
+- 12.50% of certificates contain one or more Warning level issue
 - 100.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 77 days is the average remaining validity for the certificates in the corpus
-- 88 days is the average initial validity for the certificates in the corpus
-- 5 certificates expire in the next 30 days
-- 1.00 average number of unexpired certificates per OCN observed
+- 141 days is the average remaining validity for the certificates in the corpus
+- 156 days is the average initial validity for the certificates in the corpus
+- 6 certificates expire in the next 30 days
+- 1.33 average number of unexpired certificates per OCN observed
 - 6 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 6 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
-| 3 | [e_atis_crl_distribution](ISSUES/e_atis_crl_distribution/README.md) | ATIS1000080 |
+| 8 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
+| 2 | [e_atis_crl_distribution](ISSUES/e_atis_crl_distribution/README.md) | ATIS1000080 |
 | 1 | [e_atis_subject](ISSUES/e_atis_subject/README.md) | ATIS1000080 |
-| 4 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
-| 6 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 6 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
-| 6 | [n_atis_certificate_policy_critical](ISSUES/n_atis_certificate_policy_critical/README.md) | ATIS1000080 |
+| 7 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
+| 8 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
+| 8 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 8 | [n_atis_certificate_policy_critical](ISSUES/n_atis_certificate_policy_critical/README.md) | ATIS1000080 |
+| 1 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
 
@@ -47,7 +48,7 @@
 - 66.67% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 7338 days is the average remaining validity for the certificates in the corpus
+- 7330 days is the average remaining validity for the certificates in the corpus
 - 6935 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -64,11 +65,13 @@
 | Created At | Subject | Not After | Problems | Link |
 |------------|---------|-----------|----------|------|
 | 10&#160;Jun&#160;22&#160;00:00&#160;UTC | Plivo Inc | 09&#160;Jun&#160;23&#160;00:00&#160;UTC | true | [view](CERTS/7dc750fb7aa68d2b67b8dbc89f65217f92db54504685058be016638011adf8bf/README.md) |
-| 02&#160;Apr&#160;23&#160;00:00&#160;UTC | HD CARRIER LLC | 01&#160;May&#160;23&#160;23:59&#160;UTC | true | [view](CERTS/5bf52761adb0b4fba8b808fed54e651d93c0e4aa3d420cab1b0b2b88a4181cfe/README.md) |
-| 03&#160;Apr&#160;23&#160;13:11&#160;UTC | Number Access LLC SHAKEN 343J | 15&#160;May&#160;23&#160;13:11&#160;UTC | true | [view](CERTS/86b308ce8927f4c3e421e913c111d154ab04fdd1f7c32e5fba228e3d9903ce39/README.md) |
-| 10&#160;Apr&#160;23&#160;12:59&#160;UTC | EssexTel INC SHAKEN 692J | 10&#160;May&#160;23&#160;12:59&#160;UTC | true | [view](CERTS/bb46b230557c6ecea150a77962ac4eb8e0db4c2c913f810bcbe90a95c2e24df6/README.md) |
-| 12&#160;Apr&#160;23&#160;18:58&#160;UTC | Google SHAKEN cert 969H | 12&#160;May&#160;23&#160;18:58&#160;UTC | true | [view](CERTS/fb94bec41567b74869ed85a1adcf6bc95bbf7286903c24a53cbce9ef04ab1dfe/README.md) |
-| 21&#160;Apr&#160;23&#160;15:00&#160;UTC | Baltimore-Washington Telephone Company SHAKEN cert 8697 | 21&#160;May&#160;23&#160;14:59&#160;UTC | true | [view](CERTS/d29fdb9e02c7814c99d8699d51fd1c33facbb6ac88701155204c5608e1aff168/README.md) |
+| 16&#160;Nov&#160;22&#160;17:07&#160;UTC | DISH Wireless L.L.C.SHAKEN.490J | 16&#160;Nov&#160;23&#160;17:07&#160;UTC | true | [view](CERTS/58eec25518890bf640e859b8e81eef58fae2b641d6b5f5b4f814ec074a842cbb/README.md) |
+| 05&#160;May&#160;23&#160;18:59&#160;UTC | Google SHAKEN cert 969H | 04&#160;Jun&#160;23&#160;18:59&#160;UTC | true | [view](CERTS/bc8177375fc44146fc0f541f135a1b7e8a226083942d5d4ef18a799fe9846bcc/README.md) |
+| 10&#160;May&#160;23&#160;00:10&#160;UTC | EssexTel INC SHAKEN 692J | 09&#160;Jun&#160;23&#160;00:10&#160;UTC | true | [view](CERTS/68addc9c2fee2ee1d2df7dbf1957dcbd1c022162edd957c9edaf73b87d070fd3/README.md) |
+| 16&#160;May&#160;23&#160;00:00&#160;UTC | HD CARRIER LLC | 14&#160;Jun&#160;23&#160;23:59&#160;UTC | true | [view](CERTS/33231fbb0dfc562c8d9b084829fd82bd4c8412dd6cc8f130f60e990d1d7b596d/README.md) |
+| 18&#160;May&#160;23&#160;00:00&#160;UTC | Plivo Inc | 17&#160;May&#160;24&#160;00:00&#160;UTC | true | [view](CERTS/fed50200daa631dd0cd7b74969c780f8d456dfd31db156c6cbea276f5a9a4cbf/README.md) |
+| 19&#160;May&#160;23&#160;15:00&#160;UTC | Baltimore-Washington Telephone Company SHAKEN cert 8697 | 19&#160;Jun&#160;23&#160;14:59&#160;UTC | true | [view](CERTS/5e8837b7a292d1535d22bee99322d6752e937f2ed99f5865559c374659398f03/README.md) |
+| 28&#160;May&#160;23&#160;18:59&#160;UTC | Google SHAKEN cert 969H | 27&#160;Jun&#160;23&#160;18:59&#160;UTC | true | [view](CERTS/06bba32cdbf4eefaa54f3f6357c482cecc356fc385955a329a13cfd13591502f/README.md) |
 
 #### CA Certificates
 
@@ -79,4 +82,4 @@
 | 29&#160;Sep&#160;21&#160;13:22&#160;UTC | NetNumber SHAKEN Root Intermediate CA 1 | 26&#160;Sep&#160;33&#160;13:22&#160;UTC | true | [view](CERTS/e449803766edf02ab50b034dd7e89e54efd332cce87688a032f89b340d039878/README.md) |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

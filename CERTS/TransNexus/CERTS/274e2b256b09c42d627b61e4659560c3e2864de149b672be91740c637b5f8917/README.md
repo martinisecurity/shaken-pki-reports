@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 324K
 
-Tested At: 28 Apr 23 02:05 UTC\
+Tested At: 02 Jun 23 01:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -37 day(s)\
+Remaining Validity Period: -72 day(s)\
 Subject: CN=SHAKEN 324K, O=Complete Computer Solutions, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/abec0c83-e51d-4f69-927f-9ac7d5f33a5e/98aac76157f755981d5ca580251fa62c.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/abec0c83-e51d-4f69-927f-9ac7d5f33a5e/98aa
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

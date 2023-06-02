@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 807J
 
-Tested At: 28 Apr 23 02:05 UTC\
+Tested At: 02 Jun 23 01:03 UTC\
 Initial Validity Period: 60 day(s)\
-Remaining Validity Period: -235 day(s)\
+Remaining Validity Period: -270 day(s)\
 Subject: CN=SHAKEN 807J, OU=SHAKEN, O=SipPhony LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/807J/99ee724e-0393-41fa-85a3-cb5dfc0ee4de.pem
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/807J/99ee724e-0393-41fa-85a3-cb5dfc0ee
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

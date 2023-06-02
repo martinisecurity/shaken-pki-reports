@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 5512
 
-Tested At: 28 Apr 23 02:04 UTC\
+Tested At: 02 Jun 23 01:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -116 day(s)\
+Remaining Validity Period: -151 day(s)\
 Subject: CN=SHAKEN 5512, O=Andrew Ward Consulting LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/19aed76a-a067-4715-8a05-1993cc9d939e/d4987e0e24d4e1a82e88207e55278be3.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/19aed76a-a067-4715-8a05-1993cc9d939e/d498
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 869J
 
-Tested At: 28 Apr 23 02:11 UTC\
+Tested At: 02 Jun 23 01:11 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 20 day(s)\
+Remaining Validity Period: -15 day(s)\
 Subject: CN=SHAKEN 869J, O=Sipnex Telecom LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/fef3962eaffeb276be4bf92fa16a666186c83733
@@ -14,8 +14,8 @@ Link: https://ssc.getsipnav.com/certs/fef3962eaffeb276be4bf92fa16a666186c83733
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
+| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

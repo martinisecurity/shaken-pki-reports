@@ -2,9 +2,9 @@
 
 ## Certificate Firstcomm5917
 
-Tested At: 28 Apr 23 02:06 UTC\
+Tested At: 02 Jun 23 01:04 UTC\
 Initial Validity Period: 1096 day(s)\
-Remaining Validity Period: 332 day(s)\
+Remaining Validity Period: 297 day(s)\
 Subject: C=US, ST=IL, L=Oakbrook, O=Firstcomm, OU=Firstcomm.com, CN=Firstcomm5917\
 Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11166.10183.pem
@@ -13,10 +13,10 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11166.10183.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
+| [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 
 ### Not Effective
 
@@ -28,4 +28,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11166.10183.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

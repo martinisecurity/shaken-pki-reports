@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 749J
 
-Tested At: 28 Apr 23 02:05 UTC\
+Tested At: 02 Jun 23 01:03 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -175 day(s)\
+Remaining Validity Period: -210 day(s)\
 Subject: CN=SHAKEN 749J, OU=SHAKEN, O=iTalkGlobal, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/d7bfa171-ff4f-483d-849b-3f987c919d43/d231dd34f8310b359216e546f8265010.pem
@@ -17,4 +17,4 @@ Link: https://certificates.clearip.com/d7bfa171-ff4f-483d-849b-3f987c919d43/d231
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

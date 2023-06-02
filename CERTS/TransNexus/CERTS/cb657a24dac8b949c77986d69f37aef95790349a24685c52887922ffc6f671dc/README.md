@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 660C
 
-Tested At: 28 Apr 23 02:05 UTC\
+Tested At: 02 Jun 23 01:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -8 day(s)\
+Remaining Validity Period: -43 day(s)\
 Subject: CN=SHAKEN 660C, O=Hunter Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/a541dde9-cb96-4612-bb82-7884c3a4d18b/bfb13323b47d31e5b3c8784c42cfe28e.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/a541dde9-cb96-4612-bb82-7884c3a4d18b/bfb1
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

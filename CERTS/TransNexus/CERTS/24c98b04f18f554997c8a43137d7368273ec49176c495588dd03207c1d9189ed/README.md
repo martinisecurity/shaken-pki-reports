@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 735J
 
-Tested At: 28 Apr 23 02:04 UTC\
+Tested At: 02 Jun 23 01:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -200 day(s)\
+Remaining Validity Period: -235 day(s)\
 Subject: CN=SHAKEN 735J, OU=SHAKEN, O=AVOXI Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/11124177-79f3-48b2-867a-386d4dc61c99/60797bd734fa6f7e6aa28e23adf7e4d0.pem
@@ -18,4 +18,4 @@ Link: https://certificates.clearip.com/11124177-79f3-48b2-867a-386d4dc61c99/6079
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

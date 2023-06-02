@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 967J
 
-Tested At: 28 Apr 23 02:04 UTC\
+Tested At: 02 Jun 23 01:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -124 day(s)\
+Remaining Validity Period: -159 day(s)\
 Subject: CN=SHAKEN 967J, O=BizVox Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/61b8053c-9172-4e1a-8330-440f72f3a3cd/0cb4deb661dc10f5c7b9edce83144efd.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/61b8053c-9172-4e1a-8330-440f72f3a3cd/0cb4
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

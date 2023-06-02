@@ -9,9 +9,9 @@
 
 #### Leaf Certificates
 
-- 3 certificates were included in the corpus being tested
+- 4 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
-- 0 certificates in the corpus were skipped because they are expired
+- 1 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
 - 3 certificates being tested against the remaining rules
 - 7.00 issues on average found in unexpired, trusted, and non-compliant certificates
@@ -19,9 +19,9 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 289 days is the average remaining validity for the certificates in the corpus
+- 280 days is the average remaining validity for the certificates in the corpus
 - 365 days is the average initial validity for the certificates in the corpus
-- 1 certificates expire in the next 30 days
+- 2 certificates expire in the next 30 days
 - 1.00 average number of unexpired certificates per OCN observed
 - 3 unique OCNs observed in unexpired and valid certificate corpus
 
@@ -47,7 +47,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 7059 days is the average remaining validity for the certificates in the corpus
+- 7047 days is the average remaining validity for the certificates in the corpus
 - 7300 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -63,9 +63,9 @@
 
 | Created At | Subject | Not After | Problems | Link |
 |------------|---------|-----------|----------|------|
-| 03&#160;May&#160;22&#160;13:41&#160;UTC | Edify SHAKEN | 03&#160;May&#160;23&#160;13:41&#160;UTC | true | [view](CERTS/224a236b36499273c1a11a37e7df69b3dd72f4747dad0f3faf092b0069eb0b1d/README.md) |
 | 07&#160;Jun&#160;22&#160;21:44&#160;UTC | FracTEL LLC SHAKEN | 07&#160;Jun&#160;23&#160;21:44&#160;UTC | true | [view](CERTS/81188428a77465a01dbc3a49509aa0486510c109472f8af6e5cb1887a682040e/README.md) |
 | 28&#160;Jun&#160;22&#160;18:13&#160;UTC | MYPBXManager SHAKEN | 28&#160;Jun&#160;23&#160;18:13&#160;UTC | true | [view](CERTS/0c7bf2cc1741b8036003876afadd109dfd5a6b0fb7af3662ae4d02e3340ad9ce/README.md) |
+| 24&#160;Apr&#160;23&#160;22:53&#160;UTC | Edify SHAKEN | 23&#160;Apr&#160;24&#160;22:53&#160;UTC | true | [view](CERTS/d092ee80d10eb8c6656246f9ffa3d2100319fb217c50c8cc03e4d84e654da026/README.md) |
 
 #### CA Certificates
 
@@ -75,4 +75,4 @@
 | 05&#160;May&#160;21&#160;20:22&#160;UTC | 1RouteGroup SHAKEN Intermediate CA | 29&#160;Apr&#160;41&#160;20:22&#160;UTC | true | [view](CERTS/99e9a67644a30ebc33ecc9aa8df6335524d49a4691164e357c5d2406b58a578e/README.md) |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

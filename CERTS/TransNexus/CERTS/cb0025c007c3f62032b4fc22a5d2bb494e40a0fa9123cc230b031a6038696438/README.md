@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0753
 
-Tested At: 28 Apr 23 02:04 UTC\
+Tested At: 02 Jun 23 01:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -95 day(s)\
+Remaining Validity Period: -130 day(s)\
 Subject: CN=SHAKEN 0753, O=Endeavor Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/426afef5-4cac-437d-817b-671ec10e028a/7d9a52eb72c198fdcbc01b9d55a40219.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/426afef5-4cac-437d-817b-671ec10e028a/7d9a
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

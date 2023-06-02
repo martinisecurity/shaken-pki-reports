@@ -3,7 +3,7 @@
 ## Unknown
 
 Name: `https://ecms.securetransit.net/certs/410bad9e05a57353f0d8739a421be619.cer`\
-Tested At: 28 Apr 23 02:10 UTC\
+Tested At: 02 Jun 23 01:09 UTC\
 Time: 30001ms
 
 ### Issues
@@ -12,4 +12,4 @@ Time: 30001ms
 |------|------|--------|---------|
 | [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "https://ecms.securetransit.net/certs/410bad9e05a57353f0d8739a421be619.cer": dial tcp 199.21.212.130:443: i/o timeout |
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC

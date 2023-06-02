@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 7453
 
-Tested At: 28 Apr 23 02:04 UTC\
+Tested At: 02 Jun 23 01:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -41 day(s)\
+Remaining Validity Period: -76 day(s)\
 Subject: CN=SHAKEN 7453, O=TPx, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/2a26bd25-8973-44ba-9b94-a8e4716b3888/e15c242dc881548254399d080dd177f7.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/2a26bd25-8973-44ba-9b94-a8e4716b3888/e15c
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 28 Apr 23 02:17 UTC
+Generated: 02 Jun 23 01:12 UTC
