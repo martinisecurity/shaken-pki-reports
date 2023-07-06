@@ -3,8 +3,8 @@
 ## Drop Inc
 
 Name: `http://sti.comsapi.com/258k/ca.crt`\
-Tested At: 02 Jun 23 00:59 UTC\
-Time: 43ms
+Tested At: 06 Jul 23 13:52 UTC\
+Time: 46ms
 
 ### Issues
 
@@ -14,4 +14,4 @@ Time: 43ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_protocol](../../ISSUES/w_atis_protocol/README.md) | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 
-Generated: 02 Jun 23 01:12 UTC
+Generated: 06 Jul 23 14:08 UTC

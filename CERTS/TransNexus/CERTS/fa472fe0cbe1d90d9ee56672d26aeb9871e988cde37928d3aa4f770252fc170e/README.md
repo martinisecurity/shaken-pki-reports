@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 594J
 
-Tested At: 02 Jun 23 01:02 UTC\
+Tested At: 06 Jul 23 13:54 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -124 day(s)\
+Remaining Validity Period: -158 day(s)\
 Subject: CN=SHAKEN 594J, O=Carolina Digital, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/14652271-f2ba-4197-87c0-704f8c618e4b/a01518263f91e66a892e2e045f1eaeb7.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/14652271-f2ba-4197-87c0-704f8c618e4b/a015
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 02 Jun 23 01:12 UTC
+Generated: 06 Jul 23 14:08 UTC

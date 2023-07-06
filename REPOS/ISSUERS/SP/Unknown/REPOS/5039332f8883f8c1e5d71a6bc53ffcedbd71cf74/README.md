@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://cr.xcastlabs.net/1668234600/xclsshaken.pem`\
-Tested At: 02 Jun 23 01:09 UTC\
-Time: 149ms
+Tested At: 06 Jul 23 14:04 UTC\
+Time: 139ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 149ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 02 Jun 23 01:12 UTC
+Generated: 06 Jul 23 14:08 UTC

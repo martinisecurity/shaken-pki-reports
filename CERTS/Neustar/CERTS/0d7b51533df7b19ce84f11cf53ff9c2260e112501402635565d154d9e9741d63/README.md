@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 771J
 
-Tested At: 02 Jun 23 01:00 UTC\
+Tested At: 06 Jul 23 13:53 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 42 day(s)\
+Remaining Validity Period: 8 day(s)\
 Subject: CN=SHAKEN 771J, O=LATAM Telecommunications LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://187.174.67.118:8080/7075515eb2d150fc98c43e794c07bbca.cer
@@ -18,4 +18,4 @@ Link: https://187.174.67.118:8080/7075515eb2d150fc98c43e794c07bbca.cer
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 02 Jun 23 01:12 UTC
+Generated: 06 Jul 23 14:08 UTC

@@ -13,4 +13,4 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | `https://cert2.sticr.att.net:8443/sti-cr/att-stica1669224827804-cert.crt` | 10&#160;May&#160;23&#160;17:31&#160;UTC | true | [view](../../REPOS/65bce14026acb07043fb1f2bce936071e23bebd8/README.md) |
 
 
-Generated: 02 Jun 23 01:12 UTC
+Generated: 06 Jul 23 14:08 UTC

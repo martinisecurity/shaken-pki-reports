@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 417K
 
-Tested At: 02 Jun 23 01:02 UTC\
+Tested At: 06 Jul 23 13:55 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -12 day(s)\
+Remaining Validity Period: -46 day(s)\
 Subject: CN=SHAKEN 417K, O=Clarity Technologies Group LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/8cdd6e50-dbd0-4cb9-98ca-9782e616e62c/49b8c116d90adb66eb50aec7a199d539.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/8cdd6e50-dbd0-4cb9-98ca-9782e616e62c/49b8
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 02 Jun 23 01:12 UTC
+Generated: 06 Jul 23 14:08 UTC

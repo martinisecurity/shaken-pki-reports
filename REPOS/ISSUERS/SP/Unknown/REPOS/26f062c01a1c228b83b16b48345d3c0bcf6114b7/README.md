@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://pvx1.s3.us-east-2.amazonaws.com/stirshaken/8448cc7eb8424d6ad5d2e6d71bcf6629.cer`\
-Tested At: 02 Jun 23 01:10 UTC\
-Time: 115ms
+Tested At: 06 Jul 23 14:06 UTC\
+Time: 135ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 115ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 02 Jun 23 01:12 UTC
+Generated: 06 Jul 23 14:08 UTC

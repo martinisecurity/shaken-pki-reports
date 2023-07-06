@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 845J
 
-Tested At: 02 Jun 23 01:00 UTC\
+Tested At: 06 Jul 23 13:53 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 350 day(s)\
+Remaining Validity Period: 316 day(s)\
 Subject: CN=SHAKEN 845J, O=Dialect\\, LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://app.batchdialer.com/shakenv2.crt
@@ -16,4 +16,4 @@ Link: https://app.batchdialer.com/shakenv2.crt
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 02 Jun 23 01:12 UTC
+Generated: 06 Jul 23 14:08 UTC

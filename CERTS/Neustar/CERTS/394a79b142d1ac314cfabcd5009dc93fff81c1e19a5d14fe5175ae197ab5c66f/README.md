@@ -2,9 +2,9 @@
 
 ## Certificate Firstcomm5917
 
-Tested At: 02 Jun 23 01:04 UTC\
+Tested At: 06 Jul 23 13:58 UTC\
 Initial Validity Period: 1096 day(s)\
-Remaining Validity Period: 297 day(s)\
+Remaining Validity Period: 262 day(s)\
 Subject: C=US, ST=IL, L=Oakbrook, O=Firstcomm, OU=Firstcomm.com, CN=Firstcomm5917\
 Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11166.10183.pem
@@ -28,4 +28,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11166.10183.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 02 Jun 23 01:12 UTC
+Generated: 06 Jul 23 14:08 UTC

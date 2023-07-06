@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 782J
 
-Tested At: 02 Jun 23 01:11 UTC\
+Tested At: 06 Jul 23 14:07 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -35 day(s)\
+Remaining Validity Period: -69 day(s)\
 Subject: CN=SHAKEN 782J, O=AM Communications Labs Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/d68017fb427d47359b7108377a18cf105aad7709
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/d68017fb427d47359b7108377a18cf105aad7709
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 02 Jun 23 01:12 UTC
+Generated: 06 Jul 23 14:08 UTC

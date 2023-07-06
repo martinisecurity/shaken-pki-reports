@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 186K
 
-Tested At: 02 Jun 23 01:03 UTC\
+Tested At: 06 Jul 23 13:57 UTC\
 Initial Validity Period: 1 day(s)\
-Remaining Validity Period: -57 day(s)\
+Remaining Validity Period: -92 day(s)\
 Subject: CN=SHAKEN 186K, O=Go2Uno LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/186K/488ae33f-565c-4fba-b2a4-91417f5d1020.pem
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/186K/488ae33f-565c-4fba-b2a4-91417f5d1
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 02 Jun 23 01:12 UTC
+Generated: 06 Jul 23 14:08 UTC

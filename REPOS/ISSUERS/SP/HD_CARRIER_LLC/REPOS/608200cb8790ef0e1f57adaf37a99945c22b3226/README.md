@@ -3,8 +3,8 @@
 ## HD CARRIER LLC
 
 Name: `https://d64db847f381fcb974ab1b6150b49a91.cxstatic.com/f/f2135181-100a-4a3f-8b77-32fee665c5c3`\
-Tested At: 02 Jun 23 01:09 UTC\
-Time: 288ms
+Tested At: 06 Jul 23 14:05 UTC\
+Time: 435ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 288ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header doesn't have 'max-age' directive |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 02 Jun 23 01:12 UTC
+Generated: 06 Jul 23 14:08 UTC

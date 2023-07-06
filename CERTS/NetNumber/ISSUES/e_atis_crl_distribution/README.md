@@ -12,12 +12,13 @@ Description: STI End-Entity certificates shall contain a CRL Distribution Points
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../../CERTS/5e8837b7a292d1535d22bee99322d6752e937f2ed99f5865559c374659398f03/README.md) | STI End-Entity certificates shall contain a CRL Distribution Points extension |
-| error | HD CARRIER LLC | [view](../../CERTS/33231fbb0dfc562c8d9b084829fd82bd4c8412dd6cc8f130f60e990d1d7b596d/README.md) | STI End-Entity certificates shall contain a CRL Distribution Points extension |
+| error | Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../../CERTS/e916319b482cab79f6b75c257ac76bac808d4caf50d7fd6f9246f58f3707637e/README.md) | STI End-Entity certificates shall contain a CRL Distribution Points extension |
+| error | HD CARRIER LLC | [view](../../CERTS/cda13ec94a20ec7c4318116627bd5bdf1ce67b2b798865cf23c6ffc5883e9842/README.md) | STI End-Entity certificates shall contain a CRL Distribution Points extension |
+| error | HD CARRIER LLC | [view](../../CERTS/327278e90f45d491d73918557b2a0f4d35de4ce5aba8915456f8e8e0aec63df8/README.md) | STI End-Entity certificates shall contain a CRL Distribution Points extension |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 23 01:12 UTC
+Generated: 06 Jul 23 14:08 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate Rainbow Communications SHAKEN Cert 1820
 
-Tested At: 02 Jun 23 01:00 UTC\
+Tested At: 06 Jul 23 13:53 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 245 day(s)\
+Remaining Validity Period: 211 day(s)\
 Subject: CN=Rainbow Communications SHAKEN Cert 1820, O=Rainbow Communications, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/861edae589b34de5d112e3448589fd6c3d346e94
@@ -28,4 +28,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/861edae589b34de5d112e3448589fd6c3d346e9
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 02 Jun 23 01:12 UTC
+Generated: 06 Jul 23 14:08 UTC

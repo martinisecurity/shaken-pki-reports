@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 745J
 
-Tested At: 02 Jun 23 01:11 UTC\
+Tested At: 06 Jul 23 14:07 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 147 day(s)\
+Remaining Validity Period: 113 day(s)\
 Subject: CN=SHAKEN 745J, O=TextMe Incorporated, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://textme-stirshaken.s3.us-west-2.amazonaws.com/textme-bundle_10-26-2023.cer
@@ -16,4 +16,4 @@ Link: https://textme-stirshaken.s3.us-west-2.amazonaws.com/textme-bundle_10-26-2
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 02 Jun 23 01:12 UTC
+Generated: 06 Jul 23 14:08 UTC

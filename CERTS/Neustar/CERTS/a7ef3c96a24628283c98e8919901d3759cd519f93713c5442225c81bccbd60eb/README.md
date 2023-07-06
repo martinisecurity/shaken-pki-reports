@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 844J
 
-Tested At: 02 Jun 23 01:09 UTC\
+Tested At: 06 Jul 23 14:05 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 266 day(s)\
+Remaining Validity Period: 232 day(s)\
 Subject: CN=SHAKEN 844J, O=Unified Office Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://downloads.uotcn.net/certs/uo-shaken-cert-20230222.pem
@@ -16,4 +16,4 @@ Link: https://downloads.uotcn.net/certs/uo-shaken-cert-20230222.pem
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 02 Jun 23 01:12 UTC
+Generated: 06 Jul 23 14:08 UTC

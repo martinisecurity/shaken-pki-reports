@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 418c
 
-Tested At: 02 Jun 23 01:04 UTC\
+Tested At: 06 Jul 23 13:58 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 285 day(s)\
+Remaining Validity Period: 250 day(s)\
 Subject: CN=SHAKEN 418c, O=Armstrong Telecommunications Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11112.10192.pem
@@ -16,4 +16,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11112.10192.pem
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 02 Jun 23 01:12 UTC
+Generated: 06 Jul 23 14:08 UTC

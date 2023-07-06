@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://appreg.telcoportal.com/mobileapps/neustar23/9c680c2b2d89e44b0a235be6685b8d.cer`\
-Tested At: 02 Jun 23 01:00 UTC\
-Time: 78ms
+Tested At: 06 Jul 23 13:53 UTC\
+Time: 79ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 78ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 02 Jun 23 01:12 UTC
+Generated: 06 Jul 23 14:08 UTC

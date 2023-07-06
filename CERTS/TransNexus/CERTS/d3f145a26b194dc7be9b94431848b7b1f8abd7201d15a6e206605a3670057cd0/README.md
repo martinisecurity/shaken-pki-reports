@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1555
 
-Tested At: 02 Jun 23 01:02 UTC\
+Tested At: 06 Jul 23 13:54 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -57 day(s)\
+Remaining Validity Period: -92 day(s)\
 Subject: CN=SHAKEN 1555, O=Hamilton Telecommunications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/1236e074-20ca-4639-9a13-6f26ef83f424/88694e812b44611d5335f5c02939be0b.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/1236e074-20ca-4639-9a13-6f26ef83f424/8869
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 02 Jun 23 01:12 UTC
+Generated: 06 Jul 23 14:08 UTC

@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 116ms average time it took to download each certificate
+- 108ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -22,4 +22,4 @@
 | `https://sti.edifylabs.net/05-03-2022.crt` | 03&#160;May&#160;23&#160;13:41&#160;UTC | true | [view](REPOS/f6db99340fffa208b733b1e9627a747c2ca88d60/README.md) |
 
 
-Generated: 02 Jun 23 01:12 UTC
+Generated: 06 Jul 23 14:08 UTC
