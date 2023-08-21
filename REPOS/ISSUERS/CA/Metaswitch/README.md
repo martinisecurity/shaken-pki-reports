@@ -3,18 +3,18 @@
 ## Metaswitch
 
 - 36 repository URLs were included in the corpus being tested
-- 29 repository URLs in the corpus were skipped because they were duplicated
-- 7 repository URLs being tested against the remaining rules
+- 30 repository URLs in the corpus were skipped because they were duplicated
+- 6 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 82ms average time it took to download each certificate
+- 86ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 7 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
-| 7 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 6 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
+| 6 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
@@ -23,8 +23,7 @@
 | `https://sti-cr.cgah.tnsi.com/certs/27619989593575ff99cddfc6b207ba73fed5de1e` | 07&#160;Jan&#160;24&#160;16:17&#160;UTC | true | [view](REPOS/5893b1dc1e6545c057861327356109497ac38352/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/5fe148da9e593bacaa348da816e2104790886dbc` | 29&#160;Jul&#160;24&#160;17:04&#160;UTC | true | [view](REPOS/5f8ad0d387ab24656595ed57d2dba565a5080d5b/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/7aef3caf659e78d58aaf4a541abdaf284692a168` | 11&#160;Apr&#160;25&#160;09:53&#160;UTC | true | [view](REPOS/49c5a9abdc53bec92b80580a2cae4dd26866bb86/README.md) |
-| `https://sti-cr.cgah.tnsi.com/certs/7fba9a7fc8b3131f6fcea50e668939fd26bbd4a3` | 29&#160;Apr&#160;24&#160;17:05&#160;UTC | true | [view](REPOS/3c6cdb7edf314677ac2ab6c7ad3a9c87f15a9d5f/README.md) |
 | `https://sti-cr.cgah.tnsi.com/certs/f786e53509092c8a45b19b7dcd6886b5316d333b` | 04&#160;May&#160;24&#160;21:02&#160;UTC | true | [view](REPOS/f093f80e75520d517ab1c0a6c1f4c24a9ef28580/README.md) |
 
 
-Generated: 06 Jul 23 14:08 UTC
+Generated: 21 Aug 23 20:18 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN
 
-Tested At: 06 Jul 23 13:53 UTC\
+Tested At: 21 Aug 23 20:00 UTC\
 Initial Validity Period: 1096 day(s)\
-Remaining Validity Period: 118 day(s)\
+Remaining Validity Period: 71 day(s)\
 Subject: C=US, ST=Tennessee, L=Spring Hill, O=Simwood Inc., CN=SHAKEN\
 Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1\
 Link: https://cdn.simwood.com/shaken/simwood.crt
@@ -13,8 +13,8 @@ Link: https://cdn.simwood.com/shaken/simwood.crt
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 ### Not Effective
 
@@ -36,4 +36,4 @@ Link: https://cdn.simwood.com/shaken/simwood.crt
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 06 Jul 23 14:08 UTC
+Generated: 21 Aug 23 20:18 UTC

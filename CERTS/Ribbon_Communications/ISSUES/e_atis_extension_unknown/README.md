@@ -12,7 +12,9 @@ Description: STI certificate shall not include extensions that are not specified
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
+| error | ThreeriverTelco SHAKEN 1525 | [view](../../CERTS/b3e31d4de30e8a1fa6926123f646630349aa26590a364c67f2882866207cd2cf/README.md) | STI certificate shall not include extensions that are not specified |
 | error | Siskiyou SHAKEN 2339 | [view](../../CERTS/dc3afdbb361402b02a75c92bb00cca9316fcbec50ad3c3093eaff09911ed3220/README.md) | STI certificate shall not include extensions that are not specified |
+| error | ColoradoValley SHAKEN 2059 | [view](../../CERTS/86e7e2161247ffa5872bef7f7bf1448baee3324d494837d918335ff37e60a70f/README.md) | STI certificate shall not include extensions that are not specified |
 | error | Polar SHAKEN 1630 | [view](../../CERTS/cb8f7326228bf19dac9d8f6f6e5369c163bf71a62561175e5e0cdf069287797a/README.md) | STI certificate shall not include extensions that are not specified |
 | error | Haviland SHAKEN 5237 | [view](../../CERTS/b89640f35e333524b66ef658895ea6a51eef986fefe60296a370ce24ad945a2a/README.md) | STI certificate shall not include extensions that are not specified |
 | error | Gearheart SHAKEN 0408 | [view](../../CERTS/82f85175421b1ee40b8a1d53b83d1ebbd8de91ca5022eddb84176e0be736edda/README.md) | STI certificate shall not include extensions that are not specified |
@@ -26,12 +28,14 @@ Description: STI certificate shall not include extensions that are not specified
 | error | PGTelco SHAKEN 1718 | [view](../../CERTS/9ea0d1b5d17dd6d9e58897a626a477a4852312bab0bc4cd85c5fd0c64bf96d28/README.md) | STI certificate shall not include extensions that are not specified |
 | error | Triangle SHAKEN 2257 | [view](../../CERTS/1e6b9b8247b567e94d661d0d0db4435de2599fbe30d1f5344998a47ac8c63b77/README.md) | STI certificate shall not include extensions that are not specified |
 | error | Longlines SHAKEN 1260 | [view](../../CERTS/ccf64de6a66f15d4f31b85f1e3d1331657f6258a7e4432dde4fe1fc689d3e0dd/README.md) | STI certificate shall not include extensions that are not specified |
+| error | Ironton SHAKEN 1234 0175 | [view](../../CERTS/07fa407eefdb8964682deef6cbc734636b12b9e97acbc4268fef06f0182436d2/README.md) | STI certificate shall not include extensions that are not specified |
 | error | Netfortris SHAKEN 8886 | [view](../../CERTS/8c0640e8957388ff63bf60c6c9bef298b41d795259bfeb2f3b30985ead768806/README.md) | STI certificate shall not include extensions that are not specified |
 | error | Surrytel STI SHAKEN 0503 | [view](../../CERTS/e83aa6bcda724b091675c017f7ab9b3bbf1d39ba19fc3e00fcfa5542efc0a1d8/README.md) | STI certificate shall not include extensions that are not specified |
+| error | Solarus SHAKEN 0974 | [view](../../CERTS/6869f2cedb9c2ac3446f1686697459c398d85985fbbffa33536b13ae17ad2855/README.md) | STI certificate shall not include extensions that are not specified |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 06 Jul 23 14:08 UTC
+Generated: 21 Aug 23 20:18 UTC

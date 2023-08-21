@@ -2,40 +2,52 @@
 
 ## Unknown
 
-- 30 repository URLs were included in the corpus being tested
+- 48 repository URLs were included in the corpus being tested
 - 0 repository URLs in the corpus were skipped because they were duplicated
-- 30 repository URLs being tested against the remaining rules
-- 3.47 issues on average found in non-compliant certificate repository URLs
+- 48 repository URLs being tested against the remaining rules
+- 3.65 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
-- 83.33% of repository URLs contain one or more Warning level issue
+- 85.42% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 2467ms average time it took to download each certificate
+- 2246ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 25 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
-| 5 | [e_bad_url](ISSUES/e_bad_url/README.md) | System |
-| 23 | [e_http_status_200](ISSUES/e_http_status_200/README.md) | HTTP |
-| 23 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
-| 25 | [w_atis_pem_certificate_chain](ISSUES/w_atis_pem_certificate_chain/README.md) | ATIS-1000080 |
-| 3 | [w_atis_protocol](ISSUES/w_atis_protocol/README.md) | ATIS-1000080 |
+| 41 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
+| 1 | [e_atis_redirect](ISSUES/e_atis_redirect/README.md) | ATIS-1000074 |
+| 7 | [e_bad_url](ISSUES/e_bad_url/README.md) | System |
+| 36 | [e_http_status_200](ISSUES/e_http_status_200/README.md) | HTTP |
+| 2 | [e_tls_transport](ISSUES/e_tls_transport/README.md) | System |
+| 39 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 41 | [w_atis_pem_certificate_chain](ISSUES/w_atis_pem_certificate_chain/README.md) | ATIS-1000080 |
+| 8 | [w_atis_protocol](ISSUES/w_atis_protocol/README.md) | ATIS-1000080 |
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
 | `http://5.161.152.107/249K.pub.key.pem` |  | true | [view](REPOS/2af273327c953f70b57f366a1c33e98c81f687a9/README.md) |
+| `http://5.161.181.254/ec256-public.pem` |  | true | [view](REPOS/229c4bf3bf2dd5948654e7a4e354b7cd78d85647/README.md) |
+| `http://5.161.194.110/ec256-public.pem` |  | true | [view](REPOS/7452f2a16ed1af7c16348eceb9a0b5447f921d8a/README.md) |
+| `http://5.161.195.139/ec256-public.pem` |  | true | [view](REPOS/67907c4a9664e22f00d9eea78a53422c125edd81/README.md) |
+| `http://5.161.202.148/ec256-public.pem` |  | true | [view](REPOS/10cdeab73173db505c9980f673c637dce63d177f/README.md) |
 | `http://5.161.95.22/ec256-public.pem` |  | true | [view](REPOS/a27d22da23341e5310c0da4f2e2712a2f54abe8a/README.md) |
 | `http://sip.ash.bmc.dlr.freevoicepbx.com/Freevoice_963J` |  | true | [view](REPOS/9c0c0f256674de7c64fcc7a8f58c28e19d36e8d1/README.md) |
 | `http://sti.novolink.net/crypt/sti-shaken.crt` |  | true | [view](REPOS/e89ebbbc2418de8848df85a11db2f3b9724c0087/README.md) |
+| `http://stirshaken.flashtelco.com:8077/cert1.pem` |  | true | [view](REPOS/44f5838f8f57b405d7ebf5b4ab32a551beea2863/README.md) |
+| `https://187.174.67.118:8080/7075515eb2d150fc98c43e794c07bbca.cer` |  | true | [view](REPOS/d8faee293b08466701e0b503002bc7343687408c/README.md) |
+| `https://187.174.68.251:8080/7075515eb2d150fc98c43e794c07bbca.cer` |  | true | [view](REPOS/08f75793f66de82676ee55430a54822033ae8662/README.md) |
 | `https://app.connexcs.com/api/stir-shaken/cert/41.crt` |  | true | [view](REPOS/cc2f8a40c2bfec30ddc6c0b45b770990ddcae1d7/README.md) |
-| `https://appreg.telcoportal.com/mobileapps/neustar23/9c680c2b2d89e44b0a235be6685b8d.cer` |  | true | [view](REPOS/c05ce11ed0c00251415721c304d7c9b94a894ac5/README.md) |
 | `https://cdn.cnxcdn.com/shaken/56.crt` |  | true | [view](REPOS/a17ec771899dcd07579180ee08a50cfd40f6e7db/README.md) |
 | `https://cert.sticr.att.net:8443/certs/att/6d021e67-e6a1-4821-bf7a-19491029a6ca` |  | true | [view](REPOS/7f767f2c2970329aedcdc118e431cdea5f195d14/README.md) |
 | `https://cert.sticr.att.net:8443/certs/att/e4089cf9-5fbb-4536-825a-ac516611ac45` |  | true | [view](REPOS/8522a795165f224911916bf8feb0ea9f138d6223/README.md) |
+| `https://cert2.sticr.att.net:8443/sti-cr/att-stica1669224827804-cert.crt` |  | true | [view](REPOS/65bce14026acb07043fb1f2bce936071e23bebd8/README.md) |
+| `https://certs.sip.wtsky.net/prod/shaken-7-2024.cer` |  | true | [view](REPOS/ea4b2040120552c99b81d12bd391377525a380dc/README.md) |
 | `https://cr.veriswitch.com/amcom/cd3746aff04fc44f7b93bc7000d311e2.cer` |  | true | [view](REPOS/2ce9a86d155867d4f02f7880fa4f2809bff1e7e0/README.md) |
 | `https://cr.xcastlabs.net/1663914600/xclsshaken.pem` |  | true | [view](REPOS/83787d87a3e0f1d81100b759e11a8af9f2ad7e04/README.md) |
 | `https://cr.xcastlabs.net/1666420200/xclsshaken.pem` |  | true | [view](REPOS/51e8553920faecae2b05c10e4557483f6e9efdc1/README.md) |
 | `https://cr.xcastlabs.net/1668234600/xclsshaken.pem` |  | true | [view](REPOS/5039332f8883f8c1e5d71a6bc53ffcedbd71cf74/README.md) |
 | `https://cr.xcastlabs.net/1670740200/xclsshaken.pem` |  | true | [view](REPOS/be9cd8c60b53ae5a11e0e69b25a200a5d25f393b/README.md) |
+| `https://cr.xcastlabs.net/1673245800/xclsshaken.pem` |  | true | [view](REPOS/311a0f23f8993ecce8c3ca050c788495a2b728b8/README.md) |
+| `https://cr.xcastlabs.net/1675751400/xclsshaken.pem` |  | true | [view](REPOS/0ac53abfe3ba808001578ce7fe483a2abd3b0588/README.md) |
 | `https://crs.sti.uscellular.com/certs/uscc_shaken_CA.crt` |  | true | [view](REPOS/b2a4177b5a547e2a4c30c52aa4ff68a0b2d2899c/README.md) |
 | `https://dial.maqssolution.live/255K.pem` |  | true | [view](REPOS/adf028fff3c5bfdb49037b7d051913539200fab7/README.md) |
 | `https://dial.maqssolution.live/255KAM23.pem` |  | true | [view](REPOS/cf0b501908e53481d8d7ddfbe22f842967ceef09/README.md) |
@@ -43,15 +55,23 @@
 | `https://dial.maqssolution.live/255KDJ23.pem` |  | true | [view](REPOS/23e8ed171b34663b4a5dd3483d9580e784ff9da5/README.md) |
 | `https://dial.maqssolution.live/255KFM23.pem` |  | true | [view](REPOS/87430dee0dc20caea25151e35ecd9711474f374f/README.md) |
 | `https://dial.maqssolution.live/255KJF23.pem` |  | true | [view](REPOS/c5a404d16e2174789cbf430fb838c5c58f516f81/README.md) |
+| `https://dial.maqssolution.live/255KJJ23.pem` |  | true | [view](REPOS/ffb8c071f4c8e639b10939eee2a998008616c339/README.md) |
 | `https://dial.maqssolution.live/255KMA23.pem` |  | true | [view](REPOS/2bfc70843721ca7908406b2ac802741de7a97535/README.md) |
+| `https://dial.maqssolution.live/255KMJ23.pem` |  | true | [view](REPOS/70b5cb3dd94aece08c9bab23e43b18b6dd5313d7/README.md) |
 | `https://dial.maqssolution.live/255KN22.pem` |  | true | [view](REPOS/6c2ad4e98b5e0f7170cc4a7688cdf6377eeafddc/README.md) |
 | `https://ecms.securetransit.net/certs/410bad9e05a57353f0d8739a421be619.cer` |  | true | [view](REPOS/6034f9862b22502cb879614b1690e2d94043ecb9/README.md) |
+| `https://netnumber-sti-cr.s3.amazonaws.com/certs/041091ff-fdf3-400e-b212-fe7f448439bd` |  | true | [view](REPOS/3f80acf71fbda8fe1254afd4f664052a5cd965fa/README.md) |
 | `https://netnumber-sti-cr.s3.amazonaws.com/certs/419b6f62-c79c-404d-9253-36db8012193f` |  | true | [view](REPOS/8fb317f71e947d5485b504967c8331fafb04abb4/README.md) |
+| `https://netnumber-sti-cr.s3.amazonaws.com/certs/6dba9a1e-abdb-44ff-b93e-ee8f08dacf62` |  | true | [view](REPOS/ef6812cd907cf0efe69e093e8976d52a8dced9c5/README.md) |
 | `https://netnumber-sti-cr.s3.amazonaws.com/certs/df3c165a-1571-4114-81c5-82e8266bb857` |  | true | [view](REPOS/8c05a67e8aa4a4c31fa22f018b4532307d5f7507/README.md) |
 | `https://netnumber-sti-cr.s3.amazonaws.com/certs/f4fc911b-5676-4cdc-9722-cbcae0cbb55f` |  | true | [view](REPOS/32299d797966c0e4a84336069669767e64eaaf92/README.md) |
 | `https://pvx1.s3.us-east-2.amazonaws.com/stirshaken/8448cc7eb8424d6ad5d2e6d71bcf6629.cer` |  | true | [view](REPOS/26f062c01a1c228b83b16b48345d3c0bcf6114b7/README.md) |
+| `https://shaken.spectrum.com/cf1b3d3d-7f2b-42fd-a161-ebe61cd6565a.pem` |  | true | [view](REPOS/6512ce3f54c9208d018698f6aa3d26cc1eede387/README.md) |
+| `https://shaken.stir.mediacomcc.com/certs/mediacomcertchain.crt` |  | true | [view](REPOS/178d90525ad3207ba870f877ac6d2b9c69bb6cfa/README.md) |
+| `https://sticr-cstga.ccid.neustar/api/v1/certificate/0581cac7b4b7ade97255fef02601f295.crt` |  | true | [view](REPOS/edfda09261223fb71b6ce9d93cb459fa90758fef/README.md) |
 | `https://sticr-cstga.ccid.neustar/api/v1/certificate/3f7be0c667b2f3c24546cf26629eb906.crt` |  | true | [view](REPOS/6cc197a230692738160b25ccee626e38948c6854/README.md) |
+| `https://stirshaken.ellianz.com:5000/stirshaken_certs/sp-cert.pem` |  | true | [view](REPOS/0efdff515049d0da95f7e0a8b78fba8b85b336cb/README.md) |
 | `https://www.voipessential.com/shaken/DFE323WW43Q656QWLMD` |  | true | [view](REPOS/89dcb49688a6eb12e01582bbe7639fb54faa2802/README.md) |
 
 
-Generated: 06 Jul 23 14:08 UTC
+Generated: 21 Aug 23 20:18 UTC

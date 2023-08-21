@@ -2,14 +2,14 @@
 
 ## Primo Dialler LLC
 
-- 4 repository URLs were included in the corpus being tested
-- 2 repository URLs in the corpus were skipped because they were duplicated
+- 5 repository URLs were included in the corpus being tested
+- 3 repository URLs in the corpus were skipped because they were duplicated
 - 2 repository URLs being tested against the remaining rules
 - 2.50 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 90ms average time it took to download each certificate
+- 116ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -23,4 +23,4 @@
 | `https://app.connexcs.com/api/stir-shaken/cert/45.crt` | 14&#160;Nov&#160;23&#160;00:00&#160;UTC | true | [view](REPOS/2260b336dfad8a7a8197566bbca1f4ce46bb7dea/README.md) |
 
 
-Generated: 06 Jul 23 14:08 UTC
+Generated: 21 Aug 23 20:18 UTC

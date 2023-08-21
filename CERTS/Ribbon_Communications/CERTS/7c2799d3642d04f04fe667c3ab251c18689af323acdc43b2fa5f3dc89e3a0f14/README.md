@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Ribbon Root CA
 
-Tested At: 06 Jul 23 14:08 UTC\
+Tested At: 21 Aug 23 20:18 UTC\
 Initial Validity Period: 9131 day(s)\
-Remaining Validity Period: 8347 day(s)\
+Remaining Validity Period: 8301 day(s)\
 Subject: CN=SHAKEN Ribbon Root CA, OU=Certification Authority, O=Ribbon Communications, C=US\
 Issuer: CN=SHAKEN Ribbon Root CA, OU=Certification Authority, O=Ribbon Communications, C=US
 
@@ -25,4 +25,4 @@ Issuer: CN=SHAKEN Ribbon Root CA, OU=Certification Authority, O=Ribbon Communica
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 06 Jul 23 14:08 UTC
+Generated: 21 Aug 23 20:18 UTC

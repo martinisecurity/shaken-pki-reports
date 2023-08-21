@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1980
 
-Tested At: 06 Jul 23 13:58 UTC\
+Tested At: 21 Aug 23 20:09 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 318 day(s)\
+Remaining Validity Period: 271 day(s)\
 Subject: CN=SHAKEN 1980, O=Chickasaw Telephone Company, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11498.10164.pem
@@ -16,4 +16,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11498.10164.pem
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 06 Jul 23 14:08 UTC
+Generated: 21 Aug 23 20:18 UTC

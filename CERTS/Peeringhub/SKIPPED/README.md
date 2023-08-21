@@ -7,9 +7,9 @@
 | Created At | Subject | Not After | Problems | Link |
 |------------|---------|-----------|----------|------|
 | 02&#160;Nov&#160;22&#160;07:51&#160;UTC | Apex Telecom LLC SHAKEN 288K | 02&#160;Nov&#160;23&#160;00:54&#160;UTC | true | [view](../CERTS/e64593f4d9a81236af33c40c227d728e49418be50e05be2a8b65ec549a3b9275/README.md) |
-| 25&#160;Apr&#160;23&#160;18:52&#160;UTC | INS4IPES SHAKEN 281K | 01&#160;Jun&#160;23&#160;18:24&#160;UTC | true | [view](../CERTS/981347363b0d5227882d05458c8d032a40b0f67e7a543bde7e99705a97b4126d/README.md) |
-| 01&#160;Jun&#160;23&#160;22:23&#160;UTC | MAQSSOLUTIONS SHAKEN 255K | 03&#160;Jul&#160;23&#160;20:13&#160;UTC | true | [view](../CERTS/65f01e21fca4f442ef802ac7640df8eae530ceea2584218da24ba8cc29d99418/README.md) |
-| 05&#160;Jul&#160;23&#160;09:27&#160;UTC | Celerity Telecom SHAKEN 469K | 01&#160;Aug&#160;23&#160;15:59&#160;UTC | true | [view](../CERTS/2b7502048fccddc59e02d8e03960b3c27c99d6207d3cd2cdf26db14a6dc6f13a/README.md) |
+| 21&#160;Jun&#160;23&#160;00:42&#160;UTC | Meta-lynk Telecom SHAKEN 442K | 30&#160;Jan&#160;24&#160;00:00&#160;UTC | true | [view](../CERTS/723af9321b9721ed8c7efcecfc7c6dbb59b3de3b957d707fb030fa6006f29b8c/README.md) |
+| 06&#160;Jul&#160;23&#160;00:54&#160;UTC | DIDCentral SHAKEN 756J | 08&#160;Aug&#160;23&#160;04:56&#160;UTC | true | [view](../CERTS/b26fd975bd26ccb09dfc5f4841d01ed2a07242d95552a0f4c0ebcae375938f99/README.md) |
+| 01&#160;Aug&#160;23&#160;21:07&#160;UTC | Celerity SHAKEN 469K | 01&#160;Sep&#160;23&#160;15:59&#160;UTC | true | [view](../CERTS/018499a3ccef1a8c4efc335aa8f346f04fb8277a4511244052acefe8fe8a7b26/README.md) |
 
 
-Generated: 06 Jul 23 14:08 UTC
+Generated: 21 Aug 23 20:18 UTC

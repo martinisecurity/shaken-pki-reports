@@ -12,4 +12,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sti.ravon.net/c/737J_2022-07-20` | 20&#160;Jul&#160;23&#160;17:00&#160;UTC | true | [view](../../REPOS/0651ca35fed37456b9dcad7321691dd5940d323d/README.md) |
 
 
-Generated: 06 Jul 23 14:08 UTC
+Generated: 21 Aug 23 20:18 UTC

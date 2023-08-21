@@ -2,14 +2,14 @@
 
 ## Google Voice Inc.
 
-- 10 repository URLs were included in the corpus being tested
+- 12 repository URLs were included in the corpus being tested
 - 0 repository URLs in the corpus were skipped because they were duplicated
-- 10 repository URLs being tested against the remaining rules
+- 12 repository URLs being tested against the remaining rules
 - 0.00 issues on average found in non-compliant certificate repository URLs
 - 0.00% of repository URLs contain one or more Error level issue
 - 0.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 167ms average time it took to download each certificate
+- 35ms average time it took to download each certificate
 
 No error, warning, or notice level issues were found
 
@@ -22,9 +22,11 @@ No error, warning, or notice level issues were found
 | `https://www.gstatic.com/gtp/stir/INRHezN1TCHRrsaBPJblWA.pem` | 27&#160;Mar&#160;23&#160;17:00&#160;UTC | false | [view](REPOS/66e826211a363453ee0395e02ed06cadb09fe21e/README.md) |
 | `https://www.gstatic.com/gtp/stir/KgjlPz-S4sP2mOhn8gbHeQ.pem` | 20&#160;Jul&#160;23&#160;19:58&#160;UTC | false | [view](REPOS/3d4219199e9628ff523bda08664b7d610a5fe34f/README.md) |
 | `https://www.gstatic.com/gtp/stir/RuoOma9UooGE2wbOmYWMnw.pem` | 12&#160;May&#160;23&#160;18:58&#160;UTC | false | [view](REPOS/df98b8355c94499072e0af55bad23693d5858c96/README.md) |
+| `https://www.gstatic.com/gtp/stir/cWSR_17beqyw3ZRUaLjF6A.pem` | 04&#160;Sep&#160;23&#160;21:59&#160;UTC | false | [view](REPOS/14d857a369b275c5454257a2bed0d7e9e29f633a/README.md) |
 | `https://www.gstatic.com/gtp/stir/ci7ZmchtCrfFCxSJBSFtcA.pem` | 25&#160;Dec&#160;22&#160;14:58&#160;UTC | false | [view](REPOS/561aa1484d48eae86a8c23fc3a05f644f4329e11/README.md) |
+| `https://www.gstatic.com/gtp/stir/uB8JRMelazMbIklwGw5Sqw.pem` | 12&#160;Aug&#160;23&#160;20:58&#160;UTC | false | [view](REPOS/a0f42db4b9a68fc082d6a2d7983077af96161b6c/README.md) |
 | `https://www.gstatic.com/gtp/stir/uHWlFUNDwXbqniKntdRafQ.pem` | 27&#160;Jun&#160;23&#160;18:59&#160;UTC | false | [view](REPOS/2f91f64baa3edda816bf09cf1d65aa62c5fedd4d/README.md) |
 | `https://www.gstatic.com/gtp/stir/yExHv85COF4_CVlvUiqb8A.pem` | 17&#160;Jan&#160;23&#160;14:59&#160;UTC | false | [view](REPOS/825f7223f49427df239d5c0304282fdbbc6fdc36/README.md) |
 
 
-Generated: 06 Jul 23 14:08 UTC
+Generated: 21 Aug 23 20:18 UTC

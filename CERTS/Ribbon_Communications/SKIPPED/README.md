@@ -15,4 +15,4 @@
 | 16&#160;Jun&#160;22&#160;19:30&#160;UTC | UniVoIP SHAKEN 629J | 16&#160;Jun&#160;23&#160;19:30&#160;UTC | true | [view](../CERTS/8bb3168ff6efb4095ace7fbacadb84245992fa74dfadf6c5d9ccafc4685091f8/README.md) |
 
 
-Generated: 06 Jul 23 14:08 UTC
+Generated: 21 Aug 23 20:18 UTC

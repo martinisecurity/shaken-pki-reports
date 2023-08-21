@@ -2,9 +2,9 @@
 
 ## Certificate Netfortris SHAKEN 8886
 
-Tested At: 06 Jul 23 14:06 UTC\
+Tested At: 21 Aug 23 20:16 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 337 day(s)\
+Remaining Validity Period: 291 day(s)\
 Subject: CN=Netfortris SHAKEN 8886, OU=VOIP, O=Netfortris, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/t0CiOIjnRz/NFJune072023-3a5cc337262fa27b6e6a3d8948fc365e
@@ -14,10 +14,10 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/t0CiOIjnRz/NFJune072023-3a5cc3372
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 06 Jul 23 14:08 UTC
+Generated: 21 Aug 23 20:18 UTC

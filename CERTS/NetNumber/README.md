@@ -9,31 +9,30 @@
 
 #### Leaf Certificates
 
-- 29 certificates were included in the corpus being tested
+- 32 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
-- 22 certificates in the corpus were skipped because they are expired
+- 27 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 7 certificates being tested against the remaining rules
-- 5.57 issues on average found in unexpired, trusted, and non-compliant certificates
+- 5 certificates being tested against the remaining rules
+- 5.60 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
-- 14.29% of certificates contain one or more Warning level issue
+- 20.00% of certificates contain one or more Warning level issue
 - 100.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 112 days is the average remaining validity for the certificates in the corpus
-- 126 days is the average initial validity for the certificates in the corpus
-- 5 certificates expire in the next 30 days
-- 1.17 average number of unexpired certificates per OCN observed
-- 6 unique OCNs observed in unexpired and valid certificate corpus
+- 139 days is the average remaining validity for the certificates in the corpus
+- 164 days is the average initial validity for the certificates in the corpus
+- 3 certificates expire in the next 30 days
+- 1.00 average number of unexpired certificates per OCN observed
+- 5 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 7 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
-| 3 | [e_atis_crl_distribution](ISSUES/e_atis_crl_distribution/README.md) | ATIS1000080 |
-| 1 | [e_atis_subject](ISSUES/e_atis_subject/README.md) | ATIS1000080 |
-| 6 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
-| 7 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 7 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
-| 7 | [n_atis_certificate_policy_critical](ISSUES/n_atis_certificate_policy_critical/README.md) | ATIS1000080 |
+| 5 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
+| 2 | [e_atis_crl_distribution](ISSUES/e_atis_crl_distribution/README.md) | ATIS1000080 |
+| 5 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
+| 5 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
+| 5 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 5 | [n_atis_certificate_policy_critical](ISSUES/n_atis_certificate_policy_critical/README.md) | ATIS1000080 |
 | 1 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
@@ -48,7 +47,7 @@
 - 66.67% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 7321 days is the average remaining validity for the certificates in the corpus
+- 7309 days is the average remaining validity for the certificates in the corpus
 - 6935 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -66,11 +65,9 @@
 |------------|---------|-----------|----------|------|
 | 16&#160;Nov&#160;22&#160;17:07&#160;UTC | DISH Wireless L.L.C.SHAKEN.490J | 16&#160;Nov&#160;23&#160;17:07&#160;UTC | true | [view](CERTS/58eec25518890bf640e859b8e81eef58fae2b641d6b5f5b4f814ec074a842cbb/README.md) |
 | 18&#160;May&#160;23&#160;00:00&#160;UTC | Plivo Inc | 17&#160;May&#160;24&#160;00:00&#160;UTC | true | [view](CERTS/fed50200daa631dd0cd7b74969c780f8d456dfd31db156c6cbea276f5a9a4cbf/README.md) |
-| 09&#160;Jun&#160;23&#160;09:18&#160;UTC | EssexTel INC SHAKEN 692J | 09&#160;Jul&#160;23&#160;09:18&#160;UTC | true | [view](CERTS/74c13973204e31463fe80da29ae37f2caf5eb79fa98053f62e1f297af76f5200/README.md) |
-| 16&#160;Jun&#160;23&#160;00:00&#160;UTC | HD CARRIER LLC | 15&#160;Jul&#160;23&#160;23:59&#160;UTC | true | [view](CERTS/cda13ec94a20ec7c4318116627bd5bdf1ce67b2b798865cf23c6ffc5883e9842/README.md) |
-| 19&#160;Jun&#160;23&#160;15:00&#160;UTC | Baltimore-Washington Telephone Company SHAKEN cert 8697 | 19&#160;Jul&#160;23&#160;14:59&#160;UTC | true | [view](CERTS/e916319b482cab79f6b75c257ac76bac808d4caf50d7fd6f9246f58f3707637e/README.md) |
-| 20&#160;Jun&#160;23&#160;19:58&#160;UTC | Google SHAKEN cert 969H | 20&#160;Jul&#160;23&#160;19:58&#160;UTC | true | [view](CERTS/4db86b184fc0597b3ee32468ec2561fe9226314688f902b7f66b93bcf83f6de4/README.md) |
-| 02&#160;Jul&#160;23&#160;00:00&#160;UTC | HD CARRIER LLC | 31&#160;Jul&#160;23&#160;23:59&#160;UTC | true | [view](CERTS/327278e90f45d491d73918557b2a0f4d35de4ce5aba8915456f8e8e0aec63df8/README.md) |
+| 02&#160;Aug&#160;23&#160;00:00&#160;UTC | HD CARRIER LLC | 31&#160;Aug&#160;23&#160;23:59&#160;UTC | true | [view](CERTS/caeb504c58d5cd945ad912b43aab5155e34b4bb5056aaf5d3a79f0142a42dbda/README.md) |
+| 05&#160;Aug&#160;23&#160;21:59&#160;UTC | Google SHAKEN cert 969H | 04&#160;Sep&#160;23&#160;21:59&#160;UTC | true | [view](CERTS/e00acf2b17798089504130a6c03cac70809d344cf7628f2dd04d8e6fd7d83bce/README.md) |
+| 17&#160;Aug&#160;23&#160;15:00&#160;UTC | Baltimore-Washington Telephone Company SHAKEN cert 8697 | 17&#160;Sep&#160;23&#160;14:59&#160;UTC | true | [view](CERTS/d4b27017b5d267c313e5723999a0525bec424c9216989d7d0952db4adf5de351/README.md) |
 
 #### CA Certificates
 
@@ -81,4 +78,4 @@
 | 29&#160;Sep&#160;21&#160;13:22&#160;UTC | NetNumber SHAKEN Root Intermediate CA 1 | 26&#160;Sep&#160;33&#160;13:22&#160;UTC | true | [view](CERTS/e449803766edf02ab50b034dd7e89e54efd332cce87688a032f89b340d039878/README.md) |
 
 
-Generated: 06 Jul 23 14:08 UTC
+Generated: 21 Aug 23 20:18 UTC

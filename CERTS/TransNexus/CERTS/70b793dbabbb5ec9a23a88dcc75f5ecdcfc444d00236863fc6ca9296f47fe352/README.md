@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 691A
+
+Tested At: 21 Aug 23 20:04 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -18 day(s)\
+Subject: CN=SHAKEN 691A, O=DayStarr Communications, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/853eda31-5f44-42d5-81f9-871258ee4c96/0e9050ff5b963dd922cf1e6cc913d99b.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC1zCCAn2gAwIBAgIQWfP1O2DrSYl2Nov7CB9XYjAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwNzI2MjA1MjEzWhcNMjMwODAyMjA1MjEyWjBFMQswCQYDVQQGEwJVUzEgMB4GA1UEChMXRGF5U3RhcnIgQ29tbXVuaWNhdGlvbnMxFDASBgNVBAMTC1NIQUtFTiA2OTFBMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEkgq79cg2rSEINPt3vnIgJOlD7OYPJ3%2Fv2LuZfewj9kNUsQ1x7SRVq59syAuz4TxA836rbSI4%2FPEcgu5Rk0JtpKOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBS3JaAwA%2FnMdJBLjgHLF6y7ITU0%2FzAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ2OTFBMAoGCCqGSM49BAMCA0gAMEUCIHP0DSv5sOMI%2FJ0Bm4bNHgjA03qZruV0%2B27D%2BEWxDEkYAiEAxj4WWETcPbVGHPJEAaY1FrMoCT8%2BRLi8DG1ytOE9yCE%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+
+Generated: 21 Aug 23 20:18 UTC

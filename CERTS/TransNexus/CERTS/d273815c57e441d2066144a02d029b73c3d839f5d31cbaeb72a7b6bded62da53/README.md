@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 736J
 
-Tested At: 06 Jul 23 13:57 UTC\
+Tested At: 21 Aug 23 20:07 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 322 day(s)\
+Remaining Validity Period: 276 day(s)\
 Subject: CN=SHAKEN 736J, O=Masergy Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/736J/59dcb833-8e24-47d2-b375-02d506a67239.pem
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/736J/59dcb833-8e24-47d2-b375-02d506a67
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 06 Jul 23 14:08 UTC
+Generated: 21 Aug 23 20:18 UTC

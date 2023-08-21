@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 1917
+
+Tested At: 21 Aug 23 20:02 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -9 day(s)\
+Subject: CN=SHAKEN 1917, O=Andrew Ward Consulting LLC, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/450ef25e-eefe-418d-84fb-35222046f1cd/298c2e6f4ff59e9de4c1d9794b1b1bf1.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC2jCCAoCgAwIBAgIQZtK1IbuqoMnXrchUueXz6TAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwODA1MTg0NTUxWhcNMjMwODEyMTg0NTUwWjBIMQswCQYDVQQGEwJVUzEjMCEGA1UEChMaQW5kcmV3IFdhcmQgQ29uc3VsdGluZyBMTEMxFDASBgNVBAMTC1NIQUtFTiAxOTE3MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEm0yZibXIHKWuRUWLIVFmdLYB8gwG6ex6FRc7ar3NfB2OD0T7OHhHVAKDjDk91SBHXl%2BrCMAlCEDmdvt6HaFwM6OCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBT7b9s%2Bm213Kse71Ug8SDri9FI2YjAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQxOTE3MAoGCCqGSM49BAMCA0gAMEUCICSAXqsR15AR7Z4NY9my6MJBSjI2dsFz7ZTMCBNGtO7vAiEA3hO9KYw4g8AF%2BWlH9gBSaTo1jFBQjMR6k1%2BnA1mp1H4%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+
+Generated: 21 Aug 23 20:18 UTC

@@ -3,7 +3,7 @@ Org Name,CN,Cert
 "VOSLogic.com","SHAKEN","https://cdn.cnxcdn.com/shaken/59.crt"
 "TransNexus","TCN SHAKEN 706J","https://certificates.transnexus.com/706J/9a9ea71d-1c8c-424c-8109-df524a4633d8.crt"
 "RingCentral","SHAKEN 986J","https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11565.10211.pem"
-"IRISTEL","SHAKEN 154E","https://sticr-cstga.ccid.neustar/api/v1/certificate/0581cac7b4b7ade97255fef02601f295.crt"
+"Rogers Communications Inc","SHAKEN 8821","https://sticr-cstga.ccid.neustar/api/v1/certificate/1da6faf697ce57fff21bed5e9105be2d.crt"
 "Vonage","SHAKEN 197D","https://sticr-cstga.ccid.neustar/api/v1/certificate/56701755b64fd6472ffc065ab0dfe768.pem"
 "RingCentral","SHAKEN 986J","https://sticr-cstga.ccid.neustar/api/v1/certificate/815b181b29c53037f17257ba5733b2cc.crt"
 "Fibernetics","***SHAKEN***464D","https://stir.fibernetics.ca/prod-cert2022.pem"

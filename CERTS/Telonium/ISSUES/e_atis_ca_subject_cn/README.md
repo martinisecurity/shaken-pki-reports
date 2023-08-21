@@ -21,4 +21,4 @@ No error, warning, or notice level issues were found
 | error | Telonium STI-CA Root2 | [view](../../CERTS/a58b27999411d3d54121d4eadc82aa128be1fef96cda3029b2015677188ea40b/README.md) | The Common Name attribute shall include the text string "SHAKEN" |
 
 
-Generated: 06 Jul 23 14:08 UTC
+Generated: 21 Aug 23 20:18 UTC

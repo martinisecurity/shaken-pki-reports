@@ -6,7 +6,7 @@
 
 | Created At | Subject | Not After | Problems | Link |
 |------------|---------|-----------|----------|------|
-| 15&#160;Jun&#160;23&#160;18:33&#160;UTC | COMMTRUNKS LLC 622K | 15&#160;Jun&#160;24&#160;18:34&#160;UTC | true | [view](../CERTS/5b034b208d3cb8a47d37b81c26a517efccb4e6c4035535a25bb75ddb0030d98b/README.md) |
+| 11&#160;Jul&#160;23&#160;18:13&#160;UTC | SHAKEN 633K | 27&#160;Jun&#160;24&#160;15:31&#160;UTC | true | [view](../CERTS/3ebd2a8bc24714dc79cc0bc08170c05f9ab5a4b8eeec4033ef252d098b0712cf/README.md) |
 
 
-Generated: 06 Jul 23 14:08 UTC
+Generated: 21 Aug 23 20:18 UTC

@@ -12,4 +12,4 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | `https://cdn.pgxn.net/sti/20240701.cer` | 28&#160;Jun&#160;24&#160;21:51&#160;UTC | true | [view](../../REPOS/b2c48d0d9716073d2b682e69ff384955a0ae8437/README.md) |
 
 
-Generated: 06 Jul 23 14:08 UTC
+Generated: 21 Aug 23 20:18 UTC

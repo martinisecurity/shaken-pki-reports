@@ -2,9 +2,9 @@
 
 ## Certificate Telesystem SHAKEN Cert 786E
 
-Tested At: 06 Jul 23 13:53 UTC\
+Tested At: 21 Aug 23 20:00 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 206 day(s)\
+Remaining Validity Period: 159 day(s)\
 Subject: CN=Telesystem SHAKEN Cert 786E, O=Telesystem, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/1cb5524539bfa481384ff17da116fd8eed39952f
@@ -28,4 +28,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/1cb5524539bfa481384ff17da116fd8eed39952
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 06 Jul 23 14:08 UTC
+Generated: 21 Aug 23 20:18 UTC

@@ -12,17 +12,15 @@ Description: STI certificates should contain a CertificatePolicies extension mar
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| notice | Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../../CERTS/e916319b482cab79f6b75c257ac76bac808d4caf50d7fd6f9246f58f3707637e/README.md) | STI certificates should contain a CertificatePolicies extension marked uncritical |
+| notice | Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../../CERTS/d4b27017b5d267c313e5723999a0525bec424c9216989d7d0952db4adf5de351/README.md) | STI certificates should contain a CertificatePolicies extension marked uncritical |
 | notice | Plivo Inc | [view](../../CERTS/fed50200daa631dd0cd7b74969c780f8d456dfd31db156c6cbea276f5a9a4cbf/README.md) | STI certificates should contain a CertificatePolicies extension marked uncritical |
-| notice | HD CARRIER LLC | [view](../../CERTS/cda13ec94a20ec7c4318116627bd5bdf1ce67b2b798865cf23c6ffc5883e9842/README.md) | STI certificates should contain a CertificatePolicies extension marked uncritical |
-| notice | HD CARRIER LLC | [view](../../CERTS/327278e90f45d491d73918557b2a0f4d35de4ce5aba8915456f8e8e0aec63df8/README.md) | STI certificates should contain a CertificatePolicies extension marked uncritical |
-| notice | EssexTel INC SHAKEN 692J | [view](../../CERTS/74c13973204e31463fe80da29ae37f2caf5eb79fa98053f62e1f297af76f5200/README.md) | STI certificates should contain a CertificatePolicies extension marked uncritical |
+| notice | HD CARRIER LLC | [view](../../CERTS/caeb504c58d5cd945ad912b43aab5155e34b4bb5056aaf5d3a79f0142a42dbda/README.md) | STI certificates should contain a CertificatePolicies extension marked uncritical |
 | notice | DISH Wireless L.L.C.SHAKEN.490J | [view](../../CERTS/58eec25518890bf640e859b8e81eef58fae2b641d6b5f5b4f814ec074a842cbb/README.md) | STI certificates should contain a CertificatePolicies extension marked uncritical |
-| notice | Google SHAKEN cert 969H | [view](../../CERTS/4db86b184fc0597b3ee32468ec2561fe9226314688f902b7f66b93bcf83f6de4/README.md) | STI certificates should contain a CertificatePolicies extension marked uncritical |
+| notice | Google SHAKEN cert 969H | [view](../../CERTS/e00acf2b17798089504130a6c03cac70809d344cf7628f2dd04d8e6fd7d83bce/README.md) | STI certificates should contain a CertificatePolicies extension marked uncritical |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 06 Jul 23 14:08 UTC
+Generated: 21 Aug 23 20:18 UTC
