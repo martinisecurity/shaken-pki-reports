@@ -9,13 +9,13 @@ import (
 	"github.com/martinisecurity/shaken-pki-reports/linter"
 )
 
-func TestLintUrl_HttpStatus503(t *testing.T) {
+func TestLintUrl_HttpStatus404(t *testing.T) {
 	u, _ := url.Parse("https://app.connexcs.com/api/stir-shaken/cert/41.crt")
 	res := linter.LintUrl(u)
 
 	want := &lint.LintResult{
 		Status:  lint.Error,
-		Details: "HTTP response shall have StatusCode 200, but it is 503 Service Unavailable",
+		Details: "HTTP response shall have StatusCode 200, but it is 404 Not Found",
 	}
 	if test := res.Results["e_http_status_200"]; !reflect.DeepEqual(test, want) {
 		t.Errorf("lint.LintUrl() = %v, want %v", test, want)
