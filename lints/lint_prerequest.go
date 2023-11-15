@@ -15,6 +15,12 @@ func init() {
 		Description: "TLS problem on link loading",
 		Rule:        NewNothing,
 	})
+	lint.RegisterRule(&lint.LintRule{
+		Code:        "e_request_timeout",
+		Source:      lint.SystemSource,
+		Description: "Request timed out",
+		Rule:        NewNothing,
+	})
 }
 
 type nothing struct{}

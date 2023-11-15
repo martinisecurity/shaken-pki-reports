@@ -4,6 +4,7 @@ import (
 	"crypto/tls"
 	"errors"
 	"io"
+	"net"
 	"net/http"
 	"net/url"
 	"time"
@@ -21,25 +22,41 @@ func LintUrl(url *url.URL) *lint.LintResultSet {
 	}
 	urlString := url.String()
 
-	// send GET request
-	http.DefaultTransport.(*http.Transport).TLSClientConfig = &tls.Config{}
+	// create http client
+	client := &http.Client{
+		Timeout: time.Second * 3,
+		Transport: &http.Transport{
+			TLSClientConfig: &tls.Config{},
+		},
+	}
+
+	// send request
 	reqStart := time.Now()
-	response, err := http.Get(urlString)
+	response, err := client.Get(urlString)
 	reqEnd := time.Now()
+
 	if err != nil {
-		// Disable SSL verification
-		http.DefaultTransport.(*http.Transport).TLSClientConfig = &tls.Config{InsecureSkipVerify: true}
-		var err2 error
-		reqStart = time.Now()
-		response, err2 = http.Get(urlString)
-		reqEnd = time.Now()
-		if err2 == nil {
-			result.Append("e_tls_transport", &lint.LintResult{
+		// check timeout
+		if timeoutErr, ok := err.(net.Error); ok && timeoutErr.Timeout() {
+			result.Append("e_request_timeout", &lint.LintResult{
 				Status:  lint.Error,
-				Details: err.Error(),
+				Details: "Request timed out (3s)",
 			})
 		} else {
-			err = err2
+			// try again with insecure TLS
+			client.Transport.(*http.Transport).TLSClientConfig = &tls.Config{InsecureSkipVerify: true}
+			reqStart = time.Now()
+			var err2 error
+			response, err2 = client.Get(urlString)
+			reqEnd = time.Now()
+			if err2 != nil {
+				err = err2
+			} else {
+				result.Append("e_tls_transport", &lint.LintResult{
+					Status:  lint.Error,
+					Details: err.Error(),
+				})
+			}
 		}
 	}
 	result.Time = int(reqEnd.Sub(reqStart).Milliseconds())
@@ -77,6 +94,8 @@ func LintUrl(url *url.URL) *lint.LintResultSet {
 			testData.Body = body
 			result.Body = body
 		}
+	} else if timeoutErr, ok := err.(net.Error); ok && timeoutErr.Timeout() {
+		return result
 	} else {
 		result.Append("e_bad_url", &lint.LintResult{
 			Status:  lint.Error,
