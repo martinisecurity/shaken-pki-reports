@@ -2,14 +2,14 @@
 
 ## Voip Stir PR LLC
 
-- 3 repository URLs were included in the corpus being tested
-- 1 repository URLs in the corpus were skipped because they were duplicated
+- 2 repository URLs were included in the corpus being tested
+- 0 repository URLs in the corpus were skipped because they were duplicated
 - 2 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 50ms average time it took to download each certificate
+- 58ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,8 +18,8 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://cr.veriswitch.com/voipstir/8d7e958f764ada6ff8c2bff406568db3.cer` | 08&#160;Nov&#160;23&#160;22:26&#160;UTC | true | [view](REPOS/11b13ab2797658b5c07372e286e40858afa207c0/README.md) |
+| `https://ssc.getsipnav.com/certs/6e4eb792ee6ef8c9cb9e23f1a1e4d9979896c3f2` | 08&#160;Nov&#160;23&#160;22:26&#160;UTC | true | [view](REPOS/da3c86a95a2a2b9bbbc80fc5d472aca6cb7e4f2d/README.md) |
 | `https://ssc.getsipnav.com/certs/ffad5de97793861e660be844cf52d740aa256d7d` | 15&#160;Dec&#160;22&#160;19:36&#160;UTC | true | [view](REPOS/3ec40df694633a1c8f3f906dabba539ab1dc3006/README.md) |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

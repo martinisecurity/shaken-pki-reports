@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 8407
 
-Tested At: 21 Aug 23 20:05 UTC\
+Tested At: 15 Nov 23 15:57 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -39 day(s)\
+Remaining Validity Period: -125 day(s)\
 Subject: CN=SHAKEN 8407, O=Cooperative Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/c9fd194b-ae82-4332-9482-ad1783b98c7c/ee13dae344e940a3ca285f765ff4ef73.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/c9fd194b-ae82-4332-9482-ad1783b98c7c/ee13
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

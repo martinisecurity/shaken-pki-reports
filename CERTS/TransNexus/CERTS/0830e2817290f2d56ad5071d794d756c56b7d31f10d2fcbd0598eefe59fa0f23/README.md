@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 193C
 
-Tested At: 21 Aug 23 20:02 UTC\
+Tested At: 15 Nov 23 15:53 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -28 day(s)\
+Remaining Validity Period: -114 day(s)\
 Subject: CN=SHAKEN 193C, O=Atlas Connectivity\\, LLC., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/298f6abc-fc4f-4a03-aa26-fd7a7b3866ee/154160820f65dba85204515fc11b9493.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/298f6abc-fc4f-4a03-aa26-fd7a7b3866ee/1541
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

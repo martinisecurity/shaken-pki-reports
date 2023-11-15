@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 9595
 
-Tested At: 21 Aug 23 20:01 UTC\
+Tested At: 15 Nov 23 15:52 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -137 day(s)\
+Remaining Validity Period: -223 day(s)\
 Subject: CN=SHAKEN 9595, O=Douglas Fastnet, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/1bc16dfa-2270-4eb2-96b7-8a33d2ac6f42/3cfe937ee88e123974d9821de8ca82fb.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/1bc16dfa-2270-4eb2-96b7-8a33d2ac6f42/3cfe
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

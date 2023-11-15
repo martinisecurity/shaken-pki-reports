@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 660K
 
-Tested At: 21 Aug 23 20:04 UTC\
+Tested At: 15 Nov 23 15:56 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -10 day(s)\
+Remaining Validity Period: -95 day(s)\
 Subject: CN=SHAKEN 660K, O=SimpleFiber Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/9aba2296-8b3e-464d-abe2-a6b3f9bff2b1/10ef0774603410965cd045ec09776272.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/9aba2296-8b3e-464d-abe2-a6b3f9bff2b1/10ef
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

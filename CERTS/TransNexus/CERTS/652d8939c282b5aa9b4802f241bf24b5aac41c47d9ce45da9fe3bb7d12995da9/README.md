@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 089K
 
-Tested At: 21 Aug 23 20:03 UTC\
+Tested At: 15 Nov 23 15:55 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -286 day(s)\
+Remaining Validity Period: -371 day(s)\
 Subject: CN=SHAKEN 089K, OU=SHAKEN, O=Logista Solutions, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/5f7c135d-caf3-4661-abb1-d1720e7872e2/674a5562b2bf580c4f37085deac65303.pem
@@ -17,4 +17,4 @@ Link: https://certificates.clearip.com/5f7c135d-caf3-4661-abb1-d1720e7872e2/674a
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0172
 
-Tested At: 21 Aug 23 20:06 UTC\
+Tested At: 15 Nov 23 15:59 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -328 day(s)\
+Remaining Validity Period: -414 day(s)\
 Subject: CN=SHAKEN 0172, OU=SHAKEN, O=CallTower, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/0172/1bedfcfe-614d-40a7-b039-1dcec8446bc4.pem
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/0172/1bedfcfe-614d-40a7-b039-1dcec8446
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

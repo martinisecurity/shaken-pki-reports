@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 2894
 
-Tested At: 21 Aug 23 20:07 UTC\
+Tested At: 15 Nov 23 15:59 UTC\
 Initial Validity Period: 3 day(s)\
-Remaining Validity Period: -109 day(s)\
+Remaining Validity Period: -195 day(s)\
 Subject: CN=SHAKEN 2894, O=Missouri Telecom Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/2894/9c622369-3dd4-4395-9af0-e87b152db0a1.pem
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/2894/9c622369-3dd4-4395-9af0-e87b152db
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

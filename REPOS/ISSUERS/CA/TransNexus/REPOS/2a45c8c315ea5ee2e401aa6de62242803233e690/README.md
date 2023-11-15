@@ -3,11 +3,11 @@
 ## TransNexus
 
 Name: `https://certificates.transnexus.com/952J/61ab5c39-56cf-488a-8dfa-15dcc3ada4dd.pem`\
-Tested At: 21 Aug 23 20:07 UTC\
-Time: 57ms
+Tested At: 15 Nov 23 16:00 UTC\
+Time: 28ms
 
 ### Issues
 
 no warning, or error, or notice date level issues were found
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

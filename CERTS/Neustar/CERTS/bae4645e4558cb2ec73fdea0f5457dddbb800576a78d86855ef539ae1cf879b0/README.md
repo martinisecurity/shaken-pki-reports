@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 955G
 
-Tested At: 21 Aug 23 20:16 UTC\
+Tested At: 15 Nov 23 16:12 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 297 day(s)\
+Remaining Validity Period: 211 day(s)\
 Subject: CN=SHAKEN 955G, O=LIBERTY CABLEVISION OF PUERTO RICO LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/MudcHJqGRz/LibertyJune2024
@@ -16,4 +16,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/MudcHJqGRz/LibertyJune2024
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

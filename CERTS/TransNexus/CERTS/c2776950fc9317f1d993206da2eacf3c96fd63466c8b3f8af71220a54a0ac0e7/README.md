@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 594J
+
+Tested At: 15 Nov 23 15:52 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -23 day(s)\
+Subject: CN=SHAKEN 594J, O=Carolina Digital, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/14652271-f2ba-4197-87c0-704f8c618e4b/27c0597a54ce69c222105d5feb62e564.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC0DCCAnagAwIBAgIQcrEYb4BtaT5mpytmqNOHSTAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMxMDE1MjA1MTQyWhcNMjMxMDIyMjA1MTQxWjA%2BMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQQ2Fyb2xpbmEgRGlnaXRhbDEUMBIGA1UEAxMLU0hBS0VOIDU5NEowWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAR7z9VqQtF27HcYpCPjK0lbE3wJrfTS50OsK%2FoN9p4YPErZ2T9Dl5FhtLOwpvx8T4YTiRbTH2DQjb7lOICYoZPxo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFEmVhGBin4%2F5dMNMGqwLewXICoEnMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDU5NEowCgYIKoZIzj0EAwIDSAAwRQIgSJnsREWPs7Zr3ip2t5yAQMvGcQmO%2B8%2BZ69QMbeWPvaMCIQCClY1UvUWnp7ipl6M9oUvflwXN3XUraTag0ODRqE8Ubw%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+
+Generated: 15 Nov 23 16:51 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1556
 
-Tested At: 21 Aug 23 20:03 UTC\
+Tested At: 15 Nov 23 15:55 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -13 day(s)\
+Remaining Validity Period: -99 day(s)\
 Subject: CN=SHAKEN 1556, O=Hartington Telecommunications Co.\\, Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/820c0b95-d7e5-4d9f-9844-27969b2aa0ee/e963cfe57a6202ea0f04c802c762327d.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/820c0b95-d7e5-4d9f-9844-27969b2aa0ee/e963
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

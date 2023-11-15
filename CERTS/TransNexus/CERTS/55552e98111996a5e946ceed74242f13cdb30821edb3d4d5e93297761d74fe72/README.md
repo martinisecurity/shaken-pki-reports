@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0713
 
-Tested At: 21 Aug 23 20:06 UTC\
+Tested At: 15 Nov 23 15:58 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -18 day(s)\
+Remaining Validity Period: -104 day(s)\
 Subject: CN=SHAKEN 0713, O=Hiawatha Communications\\, Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/f3241396-e030-44ab-a4f7-9253bf0c1cb9/5a92f47821fe0a82fed38fc27ac3dd47.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/f3241396-e030-44ab-a4f7-9253bf0c1cb9/5a92
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

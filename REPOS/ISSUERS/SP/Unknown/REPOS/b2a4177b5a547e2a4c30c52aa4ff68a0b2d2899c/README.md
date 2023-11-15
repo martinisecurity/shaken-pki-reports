@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://crs.sti.uscellular.com/certs/uscc_shaken_CA.crt`\
-Tested At: 21 Aug 23 20:14 UTC\
-Time: 10018ms
+Tested At: 15 Nov 23 16:11 UTC\
+Time: 10020ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 10018ms
 |------|------|--------|---------|
 | [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "https://crs.sti.uscellular.com/certs/uscc_shaken_CA.crt": dial tcp: lookup crs.sti.uscellular.com: Temporary failure in name resolution |
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

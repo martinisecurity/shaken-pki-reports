@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 777J
 
-Tested At: 21 Aug 23 20:03 UTC\
+Tested At: 15 Nov 23 15:55 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -29 day(s)\
+Remaining Validity Period: -115 day(s)\
 Subject: CN=SHAKEN 777J, O=USIPCOM, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/5ca47a02-af59-435d-8b32-755af4b90d9f/9eb33a1caff2f918f48b38dd65ba2f18.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/5ca47a02-af59-435d-8b32-755af4b90d9f/9eb3
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

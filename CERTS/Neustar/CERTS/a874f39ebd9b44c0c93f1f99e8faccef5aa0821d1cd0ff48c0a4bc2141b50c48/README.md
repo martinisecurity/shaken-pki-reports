@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 3201
 
-Tested At: 21 Aug 23 20:16 UTC\
+Tested At: 15 Nov 23 16:12 UTC\
 Initial Validity Period: 1096 day(s)\
-Remaining Validity Period: 275 day(s)\
+Remaining Validity Period: 189 day(s)\
 Subject: C=US, ST=PR, L=Caparra, O=PRTC, OU=VOIP, CN=SHAKEN 3201\
 Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1\
 Link: https://prod001-cr.rbbnidhub.com/9JhfutuGgz/0
@@ -14,8 +14,8 @@ Link: https://prod001-cr.rbbnidhub.com/9JhfutuGgz/0
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 
 ### Not Effective
 
@@ -27,4 +27,4 @@ Link: https://prod001-cr.rbbnidhub.com/9JhfutuGgz/0
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

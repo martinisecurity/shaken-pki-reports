@@ -2,14 +2,14 @@
 
 ## Meta-lynk
 
-- 1 repository URLs were included in the corpus being tested
-- 0 repository URLs in the corpus were skipped because they were duplicated
+- 2 repository URLs were included in the corpus being tested
+- 1 repository URLs in the corpus were skipped because they were duplicated
 - 1 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 16ms average time it took to download each certificate
+- 40ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://cdn.cnxcdn.com/shaken/72.crt` | 30&#160;Jan&#160;24&#160;00:00&#160;UTC | true | [view](REPOS/0715c65876d56ff455340c98996ec748ac120bf3/README.md) |
+| `https://cdn.cnxcdn.com/shaken/5a9877f6c8.crt` | 30&#160;Jan&#160;24&#160;00:00&#160;UTC | true | [view](REPOS/21b4bec0608054a65532312cf240417237955af7/README.md) |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

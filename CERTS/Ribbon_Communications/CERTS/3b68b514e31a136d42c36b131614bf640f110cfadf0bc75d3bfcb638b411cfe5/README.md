@@ -2,9 +2,9 @@
 
 ## Certificate Ribbon SHAKEN 2086
 
-Tested At: 21 Aug 23 20:16 UTC\
+Tested At: 15 Nov 23 16:12 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 290 day(s)\
+Remaining Validity Period: 205 day(s)\
 Subject: CN=Ribbon SHAKEN 2086, OU=Network Operations, O=Hill Country Telephone Cooperative, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/JQApas6MRz/10000-54a5c7395fcf8ebacb0d352d1d375852
@@ -13,11 +13,11 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/JQApas6MRz/10000-54a5c7395fcf8eba
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
-| [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

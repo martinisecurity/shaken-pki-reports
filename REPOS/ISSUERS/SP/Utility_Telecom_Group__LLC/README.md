@@ -2,14 +2,14 @@
 
 ## Utility Telecom Group, LLC
 
-- 1 repository URLs were included in the corpus being tested
-- 0 repository URLs in the corpus were skipped because they were duplicated
+- 2 repository URLs were included in the corpus being tested
+- 1 repository URLs in the corpus were skipped because they were duplicated
 - 1 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 9ms average time it took to download each certificate
+- 83ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://cdn-cr.cgah.tnsi.com/certs/9da57471f2181f41af029f868fb29eb79e8af233` | 29&#160;Jun&#160;24&#160;16:59&#160;UTC | true | [view](REPOS/d5b726d6cfab9a7ced61702c934bbc1a396e6d00/README.md) |
+| `https://cdn-cr.cgah.tnsi.com/certs/40f8209b7db250928de2793d9848e67759fbd400` | 29&#160;Jun&#160;24&#160;16:59&#160;UTC | true | [view](REPOS/8457fa42695f7afc8d205eb89d32dc6ea03177b4/README.md) |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

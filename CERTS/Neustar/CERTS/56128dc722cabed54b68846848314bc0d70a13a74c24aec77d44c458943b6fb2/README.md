@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 813J
+
+Tested At: 15 Nov 23 16:12 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 295 day(s)\
+Subject: CN=SHAKEN 813J, O=RSCOM LTD, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://popglobal.46labs.com
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC%2FTCCAqOgAwIBAgIUP2c2glsZ6aIWgbnCsoNehcmPhtQwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTIzMDkwNTE4MDYyM1oXDTI0MDkwNDE4MDYyM1owNzELMAkGA1UEBhMCVVMxEjAQBgNVBAoMCVJTQ09NIExURDEUMBIGA1UEAwwLU0hBS0VOIDgxM0owWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARvtbNn8xgyPnPEbGIQF13QwKHg8av2p4VJO5twqG0iSjIf7ZoUzYKB78gE8ZO16JhJs2bm5FkI2l79E2EWteZXo4IBPDCCATgwFgYIKwYBBQUHARoECjAIoAYWBDgxM0owDAYDVR0TAQH%2FBAIwADAfBgNVHSMEGDAWgBSCThX%2F%2Fp9qZ1HkyJfHbXTD%2FGVFeDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMB0GA1UdDgQWBBQYhkcyLnDrMjBDo%2BR2Pmc3%2F%2BOwjjAOBgNVHQ8BAf8EBAMCB4AwCgYIKoZIzj0EAwIDSAAwRQIhAJfxPWOoN7vwOFpvmy8YcIx6ud3Kn5IgtoFJXTsli%2Bz1AiB8pQ%2Bpa2Jak4MTjmiKWeBKfLl22V9N3e1t%2F1PkeHGeEQ%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+
+Generated: 15 Nov 23 16:51 UTC

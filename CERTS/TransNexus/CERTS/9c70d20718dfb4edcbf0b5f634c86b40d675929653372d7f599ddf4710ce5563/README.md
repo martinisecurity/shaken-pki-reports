@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 721J
+
+Tested At: 15 Nov 23 15:56 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -83 day(s)\
+Subject: CN=SHAKEN 721J, O=True IP Solutions, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/a1df4bf4-8858-47bb-9388-835c5c7cb5c4/0f862d20eb6c08fdb74291dcfab77dd7.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC0DCCAnegAwIBAgIQUYU8xOVO5H19Irtf5C0q4zAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwODE2MjA1NTE3WhcNMjMwODIzMjA1NTE2WjA%2FMQswCQYDVQQGEwJVUzEaMBgGA1UEChMRVHJ1ZSBJUCBTb2x1dGlvbnMxFDASBgNVBAMTC1NIQUtFTiA3MjFKMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAERQome3dEHyuCDtBAx8mqZWyGLyic129HSJY3iL%2BnJuosIRUT4izF6wv4GnJ%2B4viacktFZK6%2BptUg6RyVvUUt7aOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBTeViF2W0TQqNMhGj7x%2FT368GULRzAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ3MjFKMAoGCCqGSM49BAMCA0cAMEQCIHo0kRsG%2Bj%2FofJGxY4vehqKCEdzgBarHL%2BB34SMLXtYLAiBWCPtS3%2FU0m977nJ6xzfuUP5WWeI%2Bx8lk6DYkMx7eQ7w%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+
+Generated: 15 Nov 23 16:51 UTC

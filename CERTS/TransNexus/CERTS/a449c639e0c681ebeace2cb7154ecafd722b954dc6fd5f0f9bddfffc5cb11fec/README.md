@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 444G
 
-Tested At: 21 Aug 23 20:05 UTC\
+Tested At: 15 Nov 23 15:57 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -48 day(s)\
+Remaining Validity Period: -134 day(s)\
 Subject: CN=SHAKEN 444G, O=Aureon, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/d61e8937-0b43-4828-9876-81561d25f1de/f006518da0b8175e24ca1da99be89611.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/d61e8937-0b43-4828-9876-81561d25f1de/f006
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

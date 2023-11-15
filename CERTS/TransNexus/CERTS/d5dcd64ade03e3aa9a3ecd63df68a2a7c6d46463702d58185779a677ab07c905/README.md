@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 646K
+
+Tested At: 15 Nov 23 15:58 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -16 day(s)\
+Subject: CN=SHAKEN 646K, O=IT Voice, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/dc4457ef-626e-49f6-817f-859ce6959b0b/96d7958fc536caf6fe329043b5df6d47.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICyDCCAm6gAwIBAgIQZ%2FfC0aTRzmE5PHE9T%2BaMfDAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMxMDIzMTYxODAxWhcNMjMxMDMwMTYxODAwWjA2MQswCQYDVQQGEwJVUzERMA8GA1UEChMISVQgVm9pY2UxFDASBgNVBAMTC1NIQUtFTiA2NDZLMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEM2b5O0eeBYMotbbxxqfEnKH9chwNgoSx%2FXb%2F0AE2yWz6Crr1p0OgAc213OO7FT8EpYIFfoRNYW5J4vTQljOns6OCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBQ%2BuWPJ44Y8V9%2BKY7IpVXd06OD0pjAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ2NDZLMAoGCCqGSM49BAMCA0gAMEUCIQCRv2FQyxoR4iHmBvd9FsAnBDPs1eo2ZUZVCFLWj7%2Fg%2FAIge0Ofb6kqkNNGmJsI%2BDJr9poeOodEP%2BNKDjMGhh4CXxc%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+
+Generated: 15 Nov 23 16:51 UTC

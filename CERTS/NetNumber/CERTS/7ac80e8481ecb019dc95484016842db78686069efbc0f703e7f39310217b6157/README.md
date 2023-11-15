@@ -2,9 +2,9 @@
 
 ## Certificate NetNumber SHAKEN Root CA
 
-Tested At: 21 Aug 23 20:18 UTC\
+Tested At: 15 Nov 23 16:51 UTC\
 Initial Validity Period: 7300 day(s)\
-Remaining Validity Period: 6531 day(s)\
+Remaining Validity Period: 6445 day(s)\
 Subject: L=Lowell, ST=Massachusettes, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN Root CA\
 Issuer: L=Lowell, ST=Massachusettes, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN Root CA
 
@@ -22,4 +22,4 @@ Issuer: L=Lowell, ST=Massachusettes, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

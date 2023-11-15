@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 3013
 
-Tested At: 21 Aug 23 20:01 UTC\
+Tested At: 15 Nov 23 15:52 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -204 day(s)\
+Remaining Validity Period: -290 day(s)\
 Subject: CN=SHAKEN 3013, O=KPU, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/0ada2752-2d93-4fb9-a726-4cc783aa01d5/9b1a5673db679bb2a2d557f8118d348f.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/0ada2752-2d93-4fb9-a726-4cc783aa01d5/9b1a
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

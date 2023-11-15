@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 190J
 
-Tested At: 21 Aug 23 20:05 UTC\
+Tested At: 15 Nov 23 15:57 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -6 day(s)\
+Remaining Validity Period: -92 day(s)\
 Subject: CN=SHAKEN 190J, O=C3 Complete, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/bf8313bb-432e-40a4-830b-42db8b98f489/eed476382b713b12b7fabe9d19bba10d.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/bf8313bb-432e-40a4-830b-42db8b98f489/eed4
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

@@ -26,10 +26,11 @@ Description: STI certificate shall not include extensions that are not specified
 | error | SHAKEN 755J | [view](../../CERTS/08f4adc952c91a69124d0ee71487d19be19f15da68284d2a57ae628b8570fc4c/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 084E | [view](../../CERTS/f990b49e4c21e28f4470ea06c91bbf2c57dbd8fc71b97c78f87d94bc4c3bd487/README.md) | STI certificate shall not include extensions that are not specified |
 | error | SHAKEN 622K | [view](../../CERTS/55851a261d59fda3e570cabe18693d44936ef44de75156c69b6b26bb7f0eeb6f/README.md) | STI certificate shall not include extensions that are not specified |
+| error | SHAKEN 421K | [view](../../CERTS/cfaa04fe3747df8c203aa057940d1d7b1b455b15c8da2ba73cf7384797edfad8/README.md) | STI certificate shall not include extensions that are not specified |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

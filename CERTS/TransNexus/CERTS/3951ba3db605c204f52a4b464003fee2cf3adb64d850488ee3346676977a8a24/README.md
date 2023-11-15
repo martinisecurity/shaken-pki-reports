@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 157C
 
-Tested At: 21 Aug 23 20:03 UTC\
+Tested At: 15 Nov 23 15:55 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -251 day(s)\
+Remaining Validity Period: -337 day(s)\
 Subject: CN=SHAKEN 157C, O=DigitalSpeed Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/82d97ecb-9b38-4926-9062-8e21b8986930/b254a1ce71698a4289a7add3fd9265e9.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/82d97ecb-9b38-4926-9062-8e21b8986930/b254
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

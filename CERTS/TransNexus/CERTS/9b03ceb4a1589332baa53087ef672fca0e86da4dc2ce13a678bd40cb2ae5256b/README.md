@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 551G
+
+Tested At: 15 Nov 23 16:00 UTC\
+Initial Validity Period: 30 day(s)\
+Remaining Validity Period: -47 day(s)\
+Subject: CN=SHAKEN 551G, O=Brightlink Communications LLC, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.transnexus.com/551G/81c3c4f3-9bd4-43f2-98c5-4a8d5e8ae367.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC3TCCAoOgAwIBAgIQZVXSKPEKDzmqYpZkrrUGHDAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwODI5MTcyMjU3WhcNMjMwOTI4MTcyMjU2WjBLMQswCQYDVQQGEwJVUzEmMCQGA1UEChMdQnJpZ2h0bGluayBDb21tdW5pY2F0aW9ucyBMTEMxFDASBgNVBAMTC1NIQUtFTiA1NTFHMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1u%2FOmSRHEpi2VA9BlAulwSluKj2WaUao0EibDXO7IBkCfdbokOS77Lzfi9ebMLGHh0IzD3lJSBYX1d7zZQAYRqOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBTLVbE0QFTf41h6ZRA9x6fsbsjGlTAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ1NTFHMAoGCCqGSM49BAMCA0gAMEUCIDvZZMbpLm8sayC1b6On0qC%2FPge5xt31PYYWNSpYXbVWAiEA1QFGhqjPthJP%2BPqfWggul065maYV3hq1DZuyCw0mNPQ%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+
+Generated: 15 Nov 23 16:51 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 406H
 
-Tested At: 21 Aug 23 20:08 UTC\
+Tested At: 15 Nov 23 16:01 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 312 day(s)\
+Remaining Validity Period: 227 day(s)\
 Subject: CN=SHAKEN 406H, O=CyberNet Communications Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/37.202
@@ -16,4 +16,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/37.202
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

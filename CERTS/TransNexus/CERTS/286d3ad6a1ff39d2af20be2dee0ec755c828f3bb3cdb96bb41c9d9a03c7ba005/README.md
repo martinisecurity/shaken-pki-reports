@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 314K
 
-Tested At: 21 Aug 23 20:05 UTC\
+Tested At: 15 Nov 23 15:57 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -147 day(s)\
+Remaining Validity Period: -232 day(s)\
 Subject: CN=SHAKEN 314K, O=Proclaim Voip, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/af41d000-7fb7-42d7-83f7-9686b67ecb60/2ca08813ddbe241a095ef938ae085cb6.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/af41d000-7fb7-42d7-83f7-9686b67ecb60/2ca0
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

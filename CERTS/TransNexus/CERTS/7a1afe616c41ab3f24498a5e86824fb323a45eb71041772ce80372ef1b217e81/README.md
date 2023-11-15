@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 577F
+
+Tested At: 15 Nov 23 16:00 UTC\
+Initial Validity Period: 30 day(s)\
+Remaining Validity Period: -40 day(s)\
+Subject: CN=SHAKEN 577F, O=Ringsquared, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.transnexus.com/577F/d9ab7baa-fc42-4510-ab90-0fbf950619a3.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICzDCCAnGgAwIBAgIQU9aD%2F24HEsHNMN97o%2FaNdDAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwOTA1MjAxMzM1WhcNMjMxMDA1MjAxMzM0WjA5MQswCQYDVQQGEwJVUzEUMBIGA1UEChMLUmluZ3NxdWFyZWQxFDASBgNVBAMTC1NIQUtFTiA1NzdGMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEmqHUXdvUe%2B2nJQDn4G%2FhxTASOuTFZRUeCbMNnwB2lplFMnIgSTMMrnfvgjsQKFBSdAAt4fVwmMw4F9PduYX7LKOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBTgOfZEMOk8K5IqlmfsA5sbOZyRpzAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ1NzdGMAoGCCqGSM49BAMCA0kAMEYCIQD9AGmXcnRUfYmtNmqbqvjvLS6Nki41eHVqixcFJ1u5fgIhAPrICK7Soas17%2BSgnZzMD5WPHXOgMALNLVNQi2e2xeO6)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+
+Generated: 15 Nov 23 16:51 UTC

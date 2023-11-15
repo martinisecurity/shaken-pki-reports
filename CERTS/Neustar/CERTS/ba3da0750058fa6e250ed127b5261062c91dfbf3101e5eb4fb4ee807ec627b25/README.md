@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 224C
 
-Tested At: 21 Aug 23 20:07 UTC\
+Tested At: 15 Nov 23 16:00 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 354 day(s)\
+Remaining Validity Period: 269 day(s)\
 Subject: CN=SHAKEN 224C, OU=Inteliquent, O=Onvoy LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/1.1
@@ -17,4 +17,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/1.1
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

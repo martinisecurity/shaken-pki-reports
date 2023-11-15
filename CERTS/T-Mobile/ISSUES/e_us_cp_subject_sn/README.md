@@ -12,11 +12,11 @@ Description: The ‘serialNumber’ attribute shall be included along with the C
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | SHAKEN 6529 | [view](../../CERTS/a3bffabdf710ee8fd719f4bf09ec27341e7e9705b4ac4687b98e4d137222cf38/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| error | SHAKEN 6529 | [view](../../CERTS/ecd9d4ee9cf6d3fa4727df3dbf725fff3b1a0928545039fc00f0a5cc84d65f13/README.md) | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

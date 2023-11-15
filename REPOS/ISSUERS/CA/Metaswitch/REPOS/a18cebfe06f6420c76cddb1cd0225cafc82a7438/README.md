@@ -1,0 +1,15 @@
+# STIR/SHAKEN Certificate Repository Compliance
+
+## Metaswitch
+
+Name: `https://sti-cr.cgah.tnsi.com/certs/6c54d88f5669c28848983d4572f11c0b896342ac`\
+Tested At: 15 Nov 23 16:27 UTC\
+Time: 30015ms
+
+### Issues
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "https://sti-cr.cgah.tnsi.com/certs/6c54d88f5669c28848983d4572f11c0b896342ac": dial tcp 204.28.233.168:443: i/o timeout |
+
+Generated: 15 Nov 23 16:51 UTC

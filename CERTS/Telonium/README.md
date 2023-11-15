@@ -9,27 +9,27 @@
 
 #### Leaf Certificates
 
-- 15 certificates were included in the corpus being tested
-- 1 certificates in the corpus were skipped because they are duplicates
+- 18 certificates were included in the corpus being tested
+- 3 certificates in the corpus were skipped because they are duplicates
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 14 certificates being tested against the remaining rules
-- 3.57 issues on average found in unexpired, trusted, and non-compliant certificates
+- 15 certificates being tested against the remaining rules
+- 3.47 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 403 days is the average remaining validity for the certificates in the corpus
-- 410 days is the average initial validity for the certificates in the corpus
+- 440 days is the average remaining validity for the certificates in the corpus
+- 430 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
-- 1.40 average number of unexpired certificates per OCN observed
-- 10 unique OCNs observed in unexpired and valid certificate corpus
+- 1.36 average number of unexpired certificates per OCN observed
+- 11 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
 | 5 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
-| 14 | [e_atis_extension_unknown](ISSUES/e_atis_extension_unknown/README.md) | ATIS1000080 |
-| 14 | [e_atis_issuer_dn](ISSUES/e_atis_issuer_dn/README.md) | ATIS1000080 |
+| 15 | [e_atis_extension_unknown](ISSUES/e_atis_extension_unknown/README.md) | ATIS1000080 |
+| 15 | [e_atis_issuer_dn](ISSUES/e_atis_issuer_dn/README.md) | ATIS1000080 |
 | 1 | [e_atis_subject](ISSUES/e_atis_subject/README.md) | ATIS1000080 |
 | 5 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
 | 5 | [e_atis_tn_auth_list](ISSUES/e_atis_tn_auth_list/README.md) | ATIS1000080 |
@@ -48,7 +48,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 4705 days is the average remaining validity for the certificates in the corpus
+- 4684 days is the average remaining validity for the certificates in the corpus
 - 4503 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -79,6 +79,7 @@
 | 11&#160;Jul&#160;23&#160;18:10&#160;UTC | SHAKEN 084E | 28&#160;Jun&#160;24&#160;15:28&#160;UTC | true | [view](CERTS/f990b49e4c21e28f4470ea06c91bbf2c57dbd8fc71b97c78f87d94bc4c3bd487/README.md) |
 | 11&#160;Jul&#160;23&#160;18:13&#160;UTC | SHAKEN 633K | 27&#160;Jun&#160;24&#160;15:31&#160;UTC | true | [view](CERTS/3ebd2a8bc24714dc79cc0bc08170c05f9ab5a4b8eeec4033ef252d098b0712cf/README.md) |
 | 11&#160;Jul&#160;23&#160;18:15&#160;UTC | SHAKEN 159K | 22&#160;Jun&#160;25&#160;22:42&#160;UTC | true | [view](CERTS/d9b2af8d51b09c75e70a5c6d60de90a663be51c44f141639708ab7a6cf151dfa/README.md) |
+| 11&#160;Jul&#160;23&#160;18:45&#160;UTC | SHAKEN 421K | 21&#160;Jun&#160;25&#160;04:00&#160;UTC | true | [view](CERTS/cfaa04fe3747df8c203aa057940d1d7b1b455b15c8da2ba73cf7384797edfad8/README.md) |
 | 11&#160;Jul&#160;23&#160;18:48&#160;UTC | SHAKEN 622K | 15&#160;Jun&#160;24&#160;18:34&#160;UTC | true | [view](CERTS/55851a261d59fda3e570cabe18693d44936ef44de75156c69b6b26bb7f0eeb6f/README.md) |
 | 13&#160;Jul&#160;23&#160;05:56&#160;UTC | SHAKEN 651K | 13&#160;Jul&#160;24&#160;05:57&#160;UTC | true | [view](CERTS/df89a5a49894ef3f9991e3ec4c98e0b3df7ad85ac81dfbe2e11b5bfc815da364/README.md) |
 
@@ -91,4 +92,4 @@
 | 09&#160;Mar&#160;23&#160;15:18&#160;UTC | Telonium STI-CA Intermediate CA | 06&#160;Mar&#160;33&#160;15:18&#160;UTC | true | [view](CERTS/7c701216e591c9a3b84550ff46566dd420c7f182eb3cfc5abe5739cdbe271169/README.md) |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

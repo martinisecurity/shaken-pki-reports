@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 8821
 
-Tested At: 21 Aug 23 20:16 UTC\
+Tested At: 15 Nov 23 16:49 UTC\
 Initial Validity Period: 398 day(s)\
-Remaining Validity Period: 364 day(s)\
+Remaining Validity Period: 278 day(s)\
 Subject: CN=SHAKEN 8821, O=Rogers Communications Inc, C=CA\
 Issuer: CN=Neustar Canada Certified Caller ID SHAKEN CA-2, OU=www.ca.ccid.neustar, O=Neustar Information Services Inc, C=CA\
 Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/1da6faf697ce57fff21bed5e9105be2d.crt
@@ -13,8 +13,8 @@ Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/1da6faf697ce57fff21bed
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

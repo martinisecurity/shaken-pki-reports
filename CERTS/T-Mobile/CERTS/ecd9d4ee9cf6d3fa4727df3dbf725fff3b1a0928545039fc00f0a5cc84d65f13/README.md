@@ -1,0 +1,20 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 6529
+
+Tested At: 15 Nov 23 16:49 UTC\
+Initial Validity Period: 366 day(s)\
+Remaining Validity Period: 301 day(s)\
+Subject: CN=SHAKEN 6529, OU=Core Network Engineering, O=T-Mobile USA\\, Inc., L=Bellevue, ST=Washington, C=US\
+Issuer: CN=TMOBILE-PROD-SUB-STIRSHAKEN-EC, O=TMOBILE-USA, C=US\
+Link: https://t-mobile-sticr.fosrvt.com/f59530d22b839d3b50a91a6279e8b1e0510cade2b8913ff3011c89e3f3725300.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICsTCCAlegAwIBAgIPAYqJ3KXD8icBCFc8xKS%2BMAoGCCqGSM49BAMCMEwxCzAJBgNVBAYTAlVTMRQwEgYDVQQKEwtUTU9CSUxFLVVTQTEnMCUGA1UEAxMeVE1PQklMRS1QUk9ELVNVQi1TVElSU0hBS0VOLUVDMB4XDTIzMDkxMjE0MTczM1oXDTI0MDkxMTE0NDczM1owgYsxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpXYXNoaW5ndG9uMREwDwYDVQQHEwhCZWxsZXZ1ZTEbMBkGA1UEChMSVC1Nb2JpbGUgVVNBLCBJbmMuMSEwHwYDVQQLExhDb3JlIE5ldHdvcmsgRW5naW5lZXJpbmcxFDASBgNVBAMTC1NIQUtFTiA2NTI5MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEKCcH%2Fg078QwvejmNDiphs8KaAXRmGQ0aU8YQ444hojINURAUij0xZeMZpU5NNlfkslnHF6ZJr1FuIn8m2T1YmqOB2zCB2DAfBgNVHSMEGDAWgBTaeENnEVHteHQmMY%2BpWhzvx%2FepWjAdBgNVHQ4EFgQUmaq6gvRUtx85etQQdDcvi7iT7W8wDgYDVR0PAQH%2FBAQDAgeAMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzBHBgNVHR8EQDA%2BMDygOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmwwFgYIKwYBBQUHARoECjAIoAYWBDY1MjkwDAYDVR0TAQH%2FBAIwADAKBggqhkjOPQQDAgNIADBFAiBdNENkmMo3a79zSXjhOwBjmkvJ7vNAHUv98xk5cbnGmgIhAKAzzN4MWzx4xz5TEhDf7k3cDCmMDhuiCrTTnsDHf4zs)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+
+
+Generated: 15 Nov 23 16:51 UTC

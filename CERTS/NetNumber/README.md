@@ -9,9 +9,9 @@
 
 #### Leaf Certificates
 
-- 32 certificates were included in the corpus being tested
+- 42 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
-- 27 certificates in the corpus were skipped because they are expired
+- 37 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
 - 5 certificates being tested against the remaining rules
 - 5.60 issues on average found in unexpired, trusted, and non-compliant certificates
@@ -19,7 +19,7 @@
 - 20.00% of certificates contain one or more Warning level issue
 - 100.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 139 days is the average remaining validity for the certificates in the corpus
+- 140 days is the average remaining validity for the certificates in the corpus
 - 164 days is the average initial validity for the certificates in the corpus
 - 3 certificates expire in the next 30 days
 - 1.00 average number of unexpired certificates per OCN observed
@@ -47,7 +47,7 @@
 - 66.67% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 7309 days is the average remaining validity for the certificates in the corpus
+- 7288 days is the average remaining validity for the certificates in the corpus
 - 6935 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -63,11 +63,11 @@
 
 | Created At | Subject | Not After | Problems | Link |
 |------------|---------|-----------|----------|------|
-| 16&#160;Nov&#160;22&#160;17:07&#160;UTC | DISH Wireless L.L.C.SHAKEN.490J | 16&#160;Nov&#160;23&#160;17:07&#160;UTC | true | [view](CERTS/58eec25518890bf640e859b8e81eef58fae2b641d6b5f5b4f814ec074a842cbb/README.md) |
 | 18&#160;May&#160;23&#160;00:00&#160;UTC | Plivo Inc | 17&#160;May&#160;24&#160;00:00&#160;UTC | true | [view](CERTS/fed50200daa631dd0cd7b74969c780f8d456dfd31db156c6cbea276f5a9a4cbf/README.md) |
-| 02&#160;Aug&#160;23&#160;00:00&#160;UTC | HD CARRIER LLC | 31&#160;Aug&#160;23&#160;23:59&#160;UTC | true | [view](CERTS/caeb504c58d5cd945ad912b43aab5155e34b4bb5056aaf5d3a79f0142a42dbda/README.md) |
-| 05&#160;Aug&#160;23&#160;21:59&#160;UTC | Google SHAKEN cert 969H | 04&#160;Sep&#160;23&#160;21:59&#160;UTC | true | [view](CERTS/e00acf2b17798089504130a6c03cac70809d344cf7628f2dd04d8e6fd7d83bce/README.md) |
-| 17&#160;Aug&#160;23&#160;15:00&#160;UTC | Baltimore-Washington Telephone Company SHAKEN cert 8697 | 17&#160;Sep&#160;23&#160;14:59&#160;UTC | true | [view](CERTS/d4b27017b5d267c313e5723999a0525bec424c9216989d7d0952db4adf5de351/README.md) |
+| 25&#160;Oct&#160;23&#160;15:48&#160;UTC | DISH Wireless L.L.C.SHAKEN.490J | 24&#160;Oct&#160;24&#160;15:48&#160;UTC | true | [view](CERTS/2943713c56f0705ed027ecffced5eb89cb1c36bb5386bdc36a6b8e5618ca2c9c/README.md) |
+| 02&#160;Nov&#160;23&#160;00:00&#160;UTC | HD CARRIER LLC | 01&#160;Dec&#160;23&#160;23:59&#160;UTC | true | [view](CERTS/6ef9411ec5edc9f845f657e1e4b6adffe0c6a76b4f5e3f9d0b84c2ce9be651e4/README.md) |
+| 06&#160;Nov&#160;23&#160;00:02&#160;UTC | Google SHAKEN cert 969H | 06&#160;Dec&#160;23&#160;00:02&#160;UTC | true | [view](CERTS/16f320d1971e6da38e8a26433b6d8006ff2144912ff1f128c51da37cfc2bd6c3/README.md) |
+| 10&#160;Nov&#160;23&#160;15:00&#160;UTC | Baltimore-Washington Telephone Company SHAKEN cert 8697 | 10&#160;Dec&#160;23&#160;14:59&#160;UTC | true | [view](CERTS/51eb29697930a6d431253e26deaa7889ea127741637e06c87eabfc2d55f55457/README.md) |
 
 #### CA Certificates
 
@@ -78,4 +78,4 @@
 | 29&#160;Sep&#160;21&#160;13:22&#160;UTC | NetNumber SHAKEN Root Intermediate CA 1 | 26&#160;Sep&#160;33&#160;13:22&#160;UTC | true | [view](CERTS/e449803766edf02ab50b034dd7e89e54efd332cce87688a032f89b340d039878/README.md) |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

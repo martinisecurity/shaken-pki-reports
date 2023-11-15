@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 625J
+
+Tested At: 15 Nov 23 15:57 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -74 day(s)\
+Subject: CN=SHAKEN 625J, O=Victory Telecom Inc., C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/b7343686-5ed8-402c-89a3-8bf1a3d48975/9c30803181b9281e2453e67b5eb35c5f.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC0zCCAnqgAwIBAgIQfotBSwIrrP6jbO5%2FdV7%2FQDAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwODI1MjA1NjQ5WhcNMjMwOTAxMjA1NjQ4WjBCMQswCQYDVQQGEwJVUzEdMBsGA1UEChMUVmljdG9yeSBUZWxlY29tIEluYy4xFDASBgNVBAMTC1NIQUtFTiA2MjVKMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEZwhYLMyKsADnxYW%2B1GjIv0xDNQCAL0C2xdougWRa1IfpgMRjBWthVDAjl420qXT8%2BlPU1bx0tzoiXGsMBK%2FXd6OCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBRGgrAPdp5NL0JcIM4na7IN0eJMxTAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ2MjVKMAoGCCqGSM49BAMCA0cAMEQCIGipqAENbQ8ocFLYJBAQWZBIos4mC8hNtxC2dh8%2FDQX4AiA%2FgZObuHlPJ21mYoN9VIT8WnciCuX7T7Ip4P8HB8jnZg%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+
+Generated: 15 Nov 23 16:51 UTC

@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 0413
+
+Tested At: 15 Nov 23 15:56 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -33 day(s)\
+Subject: CN=SHAKEN 0413, O=LTC Connect, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/8ce491b1-fe41-4316-b217-a55ef4efe9d8/286f8b3b0ce0dfc983686e6202cba21c.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICyjCCAnGgAwIBAgIQQCuzdR1yazPnwYYNj%2Ffa7zAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMxMDA2MTQyMDU1WhcNMjMxMDEzMTQyMDU0WjA5MQswCQYDVQQGEwJVUzEUMBIGA1UEChMLTFRDIENvbm5lY3QxFDASBgNVBAMTC1NIQUtFTiAwNDEzMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEfWQ4h%2FMypO4Oy7FqOZ0mQuoCI08zKoUygL0Xh31dvJw7xZTsO%2BMUjUcUbBtEqbL0%2BoCI9sUzKIQOe2TkwRM4jaOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBTWr1CBY%2Bsb7oM8F7OyQE9DuUWPEjAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQwNDEzMAoGCCqGSM49BAMCA0cAMEQCIEZ2%2BE3cbgTNwDfbTkIF69dcoA3TZmj4xQoP9IrIFlklAiBNiFg186Ho52qe2ZJxFxfqOQEvUAWGvKBuc0HZ6UbsiA%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+
+Generated: 15 Nov 23 16:51 UTC

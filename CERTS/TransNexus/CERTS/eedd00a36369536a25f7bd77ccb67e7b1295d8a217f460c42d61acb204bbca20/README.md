@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 538K
 
-Tested At: 21 Aug 23 20:03 UTC\
+Tested At: 15 Nov 23 15:55 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -12 day(s)\
+Remaining Validity Period: -97 day(s)\
 Subject: CN=SHAKEN 538K, O=Bespoke Communications\\, LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/75efec9a-2f90-4c9f-a1dc-edbbb8c364b7/88c8665657ee39cbffeda50bd91ef8dd.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/75efec9a-2f90-4c9f-a1dc-edbbb8c364b7/88c8
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

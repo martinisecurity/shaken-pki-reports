@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 735J
+
+Tested At: 15 Nov 23 15:52 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -89 day(s)\
+Subject: CN=SHAKEN 735J, O=AVOXI Inc., C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/11124177-79f3-48b2-867a-386d4dc61c99/075ed08dc3e2552835bc33ad1b463f14.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICyzCCAnCgAwIBAgIQYnYAdzO2a8oogpmWtGKexTAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwODEwMjA0NTE3WhcNMjMwODE3MjA0NTE2WjA4MQswCQYDVQQGEwJVUzETMBEGA1UEChMKQVZPWEkgSW5jLjEUMBIGA1UEAxMLU0hBS0VOIDczNUowWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARsXzk8jF11WkRxs%2BKTQ5sIFUbE9iUPQKtSxEiDLcSV%2BCssyiGJFQZCBOZrKoxN4vK7IdNWz6JO4w4%2BP9%2BiK4o%2Fo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFNJeF7fFvudjcQw49J0Ez1poRbAJMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDczNUowCgYIKoZIzj0EAwIDSQAwRgIhAMPPYBFkxfIskJfldrQBiNY%2BueGMVyQ2zs%2FY19KcopRLAiEA%2FthjrgD%2Bulmfea8tibLWqIamKQ9%2FAI0OPVBMa0248Ik%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+
+Generated: 15 Nov 23 16:51 UTC

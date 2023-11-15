@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 330B
 
-Tested At: 21 Aug 23 20:02 UTC\
+Tested At: 15 Nov 23 15:53 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -21 day(s)\
+Remaining Validity Period: -106 day(s)\
 Subject: CN=SHAKEN 330B, O=FastTrack Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/393b5923-e56c-489b-92ce-a89ed3cbd0ae/697c85163ccbe39a92b3d7c754527a46.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/393b5923-e56c-489b-92ce-a89ed3cbd0ae/697c
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

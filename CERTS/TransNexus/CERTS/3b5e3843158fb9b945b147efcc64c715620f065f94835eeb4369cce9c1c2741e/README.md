@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 034K
 
-Tested At: 21 Aug 23 20:03 UTC\
+Tested At: 15 Nov 23 15:55 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -92 day(s)\
+Remaining Validity Period: -178 day(s)\
 Subject: CN=SHAKEN 034K, O=Miron Enterprises LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/752ccfc5-e1bb-471c-9502-53983fe453a5/2d2288fbc7d288d81bd37fea49226924.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/752ccfc5-e1bb-471c-9502-53983fe453a5/2d22
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

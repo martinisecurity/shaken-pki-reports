@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 035K
 
-Tested At: 21 Aug 23 20:05 UTC\
+Tested At: 15 Nov 23 15:57 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -120 day(s)\
+Remaining Validity Period: -206 day(s)\
 Subject: CN=SHAKEN 035K, O=NetDiverse\\, LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/ba9a1ccc-cb72-4d11-a5b3-b1211e6dea1b/349131e8d51b9858d4409b04fbe348de.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/ba9a1ccc-cb72-4d11-a5b3-b1211e6dea1b/3491
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

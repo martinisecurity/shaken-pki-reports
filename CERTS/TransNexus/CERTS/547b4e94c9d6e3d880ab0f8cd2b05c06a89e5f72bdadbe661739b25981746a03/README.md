@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 5556
+
+Tested At: 15 Nov 23 15:55 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -7 day(s)\
+Subject: CN=SHAKEN 5556, O=Pathwayz Communications, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/86d71bc1-7c54-48c9-a93f-6b0da10581ec/d2cc4a3bcdca33dc2ee162aed5bd270d.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC1jCCAn2gAwIBAgIQeDO8opL7ka6%2B1J7Jfa04ADAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMxMTAxMTQyNjA0WhcNMjMxMTA4MTQyNjAzWjBFMQswCQYDVQQGEwJVUzEgMB4GA1UEChMXUGF0aHdheXogQ29tbXVuaWNhdGlvbnMxFDASBgNVBAMTC1NIQUtFTiA1NTU2MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE5sJvOIDClVMPiXU5yoLsS4m3MZDPGQus495CYmE1qUNVCocQGzTtyRqZGiHKn%2FJfJcVa9v1s95%2FvuNcXEiHMR6OCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBSzQ0pjYxI2ff0KwgHC%2FXYvpm5DlDAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ1NTU2MAoGCCqGSM49BAMCA0cAMEQCIASPhVscY8ilPmN%2Bc64RaY1WtWRjZ0FNZBx5PpAy3pt9AiA%2B0wxsrN5PVfSGLNd1HFmyVIaO54rjF08GfbzJX7rweQ%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+
+Generated: 15 Nov 23 16:51 UTC

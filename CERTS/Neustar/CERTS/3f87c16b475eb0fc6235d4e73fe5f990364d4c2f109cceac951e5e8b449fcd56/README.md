@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 611J
 
-Tested At: 21 Aug 23 20:16 UTC\
+Tested At: 15 Nov 23 16:13 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -60 day(s)\
+Remaining Validity Period: -146 day(s)\
 Subject: CN=SHAKEN 611J, O=Telcast Networks, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/9861b7e493ab608182e57524671889bf94cd2fc8
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/9861b7e493ab608182e57524671889bf94cd2fc8
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

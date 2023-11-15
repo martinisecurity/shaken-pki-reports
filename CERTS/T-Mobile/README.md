@@ -9,9 +9,9 @@
 
 #### Leaf Certificates
 
-- 2 certificates were included in the corpus being tested
+- 3 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
-- 1 certificates in the corpus were skipped because they are expired
+- 2 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
 - 1 certificates being tested against the remaining rules
 - 2.00 issues on average found in unexpired, trusted, and non-compliant certificates
@@ -19,7 +19,7 @@
 - 100.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 219 days is the average remaining validity for the certificates in the corpus
+- 334 days is the average remaining validity for the certificates in the corpus
 - 366 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 - 1.00 average number of unexpired certificates per OCN observed
@@ -42,7 +42,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 75.00% of certificates are too old to be assessed against currently enforced expectations
-- 5923 days is the average remaining validity for the certificates in the corpus
+- 5906 days is the average remaining validity for the certificates in the corpus
 - 5478 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -57,7 +57,7 @@
 
 | Created At | Subject | Not After | Problems | Link |
 |------------|---------|-----------|----------|------|
-| 01&#160;Nov&#160;22&#160;13:46&#160;UTC | SHAKEN 6529 | 01&#160;Nov&#160;23&#160;14:16&#160;UTC | true | [view](CERTS/a3bffabdf710ee8fd719f4bf09ec27341e7e9705b4ac4687b98e4d137222cf38/README.md) |
+| 12&#160;Sep&#160;23&#160;14:17&#160;UTC | SHAKEN 6529 | 11&#160;Sep&#160;24&#160;14:47&#160;UTC | true | [view](CERTS/ecd9d4ee9cf6d3fa4727df3dbf725fff3b1a0928545039fc00f0a5cc84d65f13/README.md) |
 
 #### CA Certificates
 
@@ -69,4 +69,4 @@
 | 27&#160;Oct&#160;22&#160;21:18&#160;UTC | TMOBILE-PROD-SUB-STIRSHAKEN-EC | 26&#160;Oct&#160;27&#160;21:48&#160;UTC | true | [view](CERTS/a22dda815630c32b2fa32fb3483ded024fe4d333b6865bf47dbb00a5194472ad/README.md) |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

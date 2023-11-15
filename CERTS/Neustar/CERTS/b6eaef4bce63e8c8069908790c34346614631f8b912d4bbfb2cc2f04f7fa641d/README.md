@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 520F
 
-Tested At: 21 Aug 23 20:00 UTC\
+Tested At: 15 Nov 23 15:51 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 269 day(s)\
+Remaining Validity Period: 184 day(s)\
 Subject: CN=SHAKEN 520F, O=Digital IP Voice, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://az.tax/3
@@ -16,4 +16,4 @@ Link: https://az.tax/3
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

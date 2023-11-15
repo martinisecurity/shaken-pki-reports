@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 495J
 
-Tested At: 21 Aug 23 20:04 UTC\
+Tested At: 15 Nov 23 15:56 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -189 day(s)\
+Remaining Validity Period: -275 day(s)\
 Subject: CN=SHAKEN 495J, O=Stratus, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/94c136bd-6438-40a6-b740-7765d5ead597/d28fd34e199b534f045c7dd834f3ae4f.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/94c136bd-6438-40a6-b740-7765d5ead597/d28f
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

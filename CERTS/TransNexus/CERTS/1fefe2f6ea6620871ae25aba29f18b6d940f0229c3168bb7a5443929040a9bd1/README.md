@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 495K
 
-Tested At: 21 Aug 23 20:03 UTC\
+Tested At: 15 Nov 23 15:55 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -46 day(s)\
+Remaining Validity Period: -132 day(s)\
 Subject: CN=SHAKEN 495K, O=HelloSpoke, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/65eb2986-2cf7-41a9-8934-5cdb2a889627/f6258d2e7b011ec488fae308a41e369a.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/65eb2986-2cf7-41a9-8934-5cdb2a889627/f625
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

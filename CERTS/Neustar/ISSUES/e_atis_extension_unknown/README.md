@@ -12,12 +12,11 @@ Description: STI certificate shall not include extensions that are not specified
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | ATT SHAKEN 4036 | [view](../../CERTS/3a8d4d5fe47e784f925bca30b21d44f3492ad0813fd074ef2d438cca1d4acc68/README.md) | STI certificate shall not include extensions that are not specified |
-| error | SHAKEN 500J | [view](../../CERTS/25393ddb6f4b6a42df56e2cafbff0fa710e60bbdf94d37561290cdb6e66f28d1/README.md) | STI certificate shall not include extensions that are not specified |
+| error | ATT SHAKEN 4036 | [view](../../CERTS/49372c657eb2133ec6276fbf4c22dc39296c4aed5c58f4e200c9f7a3f88a49e1/README.md) | STI certificate shall not include extensions that are not specified |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

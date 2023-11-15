@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 946H
 
-Tested At: 21 Aug 23 20:05 UTC\
+Tested At: 15 Nov 23 15:57 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -114 day(s)\
+Remaining Validity Period: -200 day(s)\
 Subject: CN=SHAKEN 946H, O=BROADBAND OFFICE SOLUTIONS, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/d2789b6d-14b9-40f7-8d4e-39896547bfbf/64c8a9fd57290adc8bfc4f5a3fecf4c3.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/d2789b6d-14b9-40f7-8d4e-39896547bfbf/64c8
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

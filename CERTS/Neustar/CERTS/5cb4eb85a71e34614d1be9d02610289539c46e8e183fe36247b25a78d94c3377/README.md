@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 701J
 
-Tested At: 21 Aug 23 20:16 UTC\
+Tested At: 15 Nov 23 16:13 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -152 day(s)\
+Remaining Validity Period: -238 day(s)\
 Subject: CN=SHAKEN 701J, O=MASH Telecom Inc, C=CA\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/ba4c10c5aba67bf3db221cadcac7b67b45422720
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/ba4c10c5aba67bf3db221cadcac7b67b45422720
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

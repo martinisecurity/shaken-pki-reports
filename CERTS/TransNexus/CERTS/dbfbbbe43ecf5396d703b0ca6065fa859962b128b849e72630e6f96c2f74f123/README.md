@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 019K
 
-Tested At: 21 Aug 23 20:04 UTC\
+Tested At: 15 Nov 23 15:56 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -139 day(s)\
+Remaining Validity Period: -224 day(s)\
 Subject: CN=SHAKEN 019K, O=InComm, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/9dddba71-1c41-426f-b60d-e6ee2f306bd0/ab6e48e815deca7524b6e4b1d638553d.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/9dddba71-1c41-426f-b60d-e6ee2f306bd0/ab6e
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

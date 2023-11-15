@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 0226
+
+Tested At: 15 Nov 23 15:58 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -44 day(s)\
+Subject: CN=SHAKEN 0226, O=Lumos Networks, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/f8a68e44-8fb0-4f28-b533-c4df27ed8e1b/c19f4942428d040c5ed6b14b400a742f.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICzjCCAnSgAwIBAgIQUqh7weFPCCW8Df98WLVg8TAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwOTI0MjEwMzE0WhcNMjMxMDAxMjEwMzEzWjA8MQswCQYDVQQGEwJVUzEXMBUGA1UEChMOTHVtb3MgTmV0d29ya3MxFDASBgNVBAMTC1NIQUtFTiAwMjI2MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEenx7ix0HfOxlpczI7MQfLTFWDxT%2BNUu03%2B14b4w0BZb6kjYhghcbupoIzOg11p99jy4X214gqPfYvMGKz0qmYqOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBS%2BmqPqOeV190X%2FilaSvbaz1M9W%2BTAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQwMjI2MAoGCCqGSM49BAMCA0gAMEUCICtj3sEH0fgb0PoKbM9LuBTFv9rARPFMYvLR6%2FDgPVq3AiEAzWTWdAscKg0kMAGj%2BWzDNm27oXxrw4CZcbWqLG3wvAE%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+
+Generated: 15 Nov 23 16:51 UTC

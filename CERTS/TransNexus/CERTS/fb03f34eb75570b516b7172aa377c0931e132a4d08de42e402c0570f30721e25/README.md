@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 107K
+
+Tested At: 15 Nov 23 15:54 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -44 day(s)\
+Subject: CN=SHAKEN 107K, O=Atheral, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/4ba6f296-2d7c-42c2-8fe4-12b74f5076df/3468f3036b3243ab0e3142b563981afe.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICxzCCAm2gAwIBAgIQXWK2An6fcpV0mE%2Bw9V4CEDAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwOTI0MTc1MzIxWhcNMjMxMDAxMTc1MzIwWjA1MQswCQYDVQQGEwJVUzEQMA4GA1UEChMHQXRoZXJhbDEUMBIGA1UEAxMLU0hBS0VOIDEwN0swWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATS5fDdE6Ym%2FGr97RLYhhdLAr7bEiaZ7eE1C8K14eZU3P9%2BgzOiu3uf8LtVmlSl0VSd50f61naiFOIC61MTCgbFo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFGNU%2Bv%2B40RvYpMT91BcyaqWRYGcNMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDEwN0swCgYIKoZIzj0EAwIDSAAwRQIgKAJ891DOiX%2FBgh6oVprT1%2FEd22KB7ywcXTyBODbPIgkCIQDjpQI47mEnApvoIDjt16t7c7ZZKVruALeCPX3Hy2tw%2FQ%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+
+Generated: 15 Nov 23 16:51 UTC

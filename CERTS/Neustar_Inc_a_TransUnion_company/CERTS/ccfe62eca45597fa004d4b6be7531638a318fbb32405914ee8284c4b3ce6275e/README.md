@@ -1,0 +1,21 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate Neustar UAT Enterprise Certified Caller Intermediate CA1
+
+Tested At: 15 Nov 23 16:51 UTC\
+Initial Validity Period: 3653 day(s)\
+Remaining Validity Period: 2995 day(s)\
+Subject: CN=Neustar UAT Enterprise Certified Caller Intermediate CA1, OU=www.ccid-uat.neustar, O=Neustar Inc a TransUnion company, C=US\
+Issuer: CN=Neustar UAT Enterprise Certified Caller Root CA, OU=www.ccid-uat.neustar, O=Neustar Inc a TransUnion company, C=US
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIDETCCAregAwIBAgIUMeczGmSlM1e%2BQ6bA0Od9W23%2BXKowCgYIKoZIzj0EAwIwgZExCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluYyBhIFRyYW5zVW5pb24gY29tcGFueTEdMBsGA1UECwwUd3d3LmNjaWQtdWF0Lm5ldXN0YXIxODA2BgNVBAMML05ldXN0YXIgVUFUIEVudGVycHJpc2UgQ2VydGlmaWVkIENhbGxlciBSb290IENBMB4XDTIyMDEyNjE1NTQ1MVoXDTMyMDEyNzE1NTQ1MVowgZoxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluYyBhIFRyYW5zVW5pb24gY29tcGFueTEdMBsGA1UECwwUd3d3LmNjaWQtdWF0Lm5ldXN0YXIxQTA%2FBgNVBAMMOE5ldXN0YXIgVUFUIEVudGVycHJpc2UgQ2VydGlmaWVkIENhbGxlciBJbnRlcm1lZGlhdGUgQ0ExMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsmze7HXh1LddfmTnHN%2FaQyK9GPpn4PgVOJBa3sh40PETIJo3wAgKqvsdS3YM78yDiAZm%2BHlWuSmjJBq8dQ5RX6OB4TCB3jAPBgNVHRMBAf8EBTADAQH%2FMB8GA1UdIwQYMBaAFEsOaFjDkD3WaNSCONA2u933se6VMBUGA1UdIAQOMAwwCgYIKwYBBAHqAGQwZAYDVR0fBF0wWzBZoFegVYZTaHR0cHM6Ly9jcmwtdWF0LWVjY2lkLmNjaWQubmV1c3Rhci5iaXovTmV1c3RhckVudGVycHJpc2VDZXJ0aWZpZWRDYWxsZXJJZFJvb3RDQS5jcmwwHQYDVR0OBBYEFCt9OLm%2Fe3nm%2F9WmsNzYwh%2FjlrGDMA4GA1UdDwEB%2FwQEAwIBhjAKBggqhkjOPQQDAgNIADBFAiBEo6p8sRECsnfiLa9rsnnWbYo9Oy8Ra8Ukd7doJVOXbAIhAPkzxMozNRbydWrSlgGevqacrT7fOtzE48Cp5O909dDY)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_atis_ca_subject_cn](../../ISSUES/e_atis_ca_subject_cn/README.md) | error | ATIS1000080 | The Common Name attribute shall include the text string "SHAKEN" |
+| [e_atis_ca_certificate_policies](../../ISSUES/e_atis_ca_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| [e_us_cp_ca_key_usage_crl_sign](../../ISSUES/e_us_cp_ca_key_usage_crl_sign/README.md) | error | US_SHAKEN_CP | The model for managing and communicating the status of revoked certificates is in the form of a distributed Certificate Revocation List (CRL) that is maintained by the STI-PA as described in ATIS-1000080 |
+| [w_shaken_ca_subject_rdn_unknown](../../ISSUES/w_shaken_ca_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+
+
+Generated: 15 Nov 23 16:51 UTC

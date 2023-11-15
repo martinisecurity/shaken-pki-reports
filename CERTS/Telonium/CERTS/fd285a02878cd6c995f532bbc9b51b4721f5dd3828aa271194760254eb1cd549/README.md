@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 656K
 
-Tested At: 21 Aug 23 19:59 UTC\
+Tested At: 15 Nov 23 15:46 UTC\
 Initial Validity Period: 720 day(s)\
-Remaining Validity Period: 677 day(s)\
+Remaining Validity Period: 592 day(s)\
 Subject: serialNumber=995f8ae3-afc6-4775-b670-d2ba4c999ad5, CN=SHAKEN 656K, O=Anveo Inc, C=US\
 Issuer: CN=Telonium STI-CA Intermediate CA, O=Telonium STI-CA\
 Link: http://anv-cert.s3.amazonaws.com/anveo072023.crt
@@ -17,4 +17,4 @@ Link: http://anv-cert.s3.amazonaws.com/anveo072023.crt
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

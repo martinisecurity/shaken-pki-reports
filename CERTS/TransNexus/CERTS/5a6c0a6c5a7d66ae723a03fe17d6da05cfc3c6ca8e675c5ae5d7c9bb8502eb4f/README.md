@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 9714
+
+Tested At: 15 Nov 23 15:54 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -35 day(s)\
+Subject: CN=SHAKEN 9714, O=Grid4 Communications, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/51a37c7a-5af2-439d-94ce-677fa750ee2f/d41b0d421ff709228bffbe9b31b32d7a.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC1TCCAnqgAwIBAgIQbedFnFvatSJj2mQOcFjYQzAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMxMDAzMTkxMDQzWhcNMjMxMDEwMTkxMDQyWjBCMQswCQYDVQQGEwJVUzEdMBsGA1UEChMUR3JpZDQgQ29tbXVuaWNhdGlvbnMxFDASBgNVBAMTC1NIQUtFTiA5NzE0MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE3zNjiipWGyqCWDBDN5Y%2F5UVTL7E3q3bVJ4Rrbmu0cJ9ZtimVev0ekWrSDbG6zNcSnKngXp7FsWxgYPNo4dhiUaOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBSjRfs0KlowuG8K%2BVOqjarVyuQ%2FujAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ5NzE0MAoGCCqGSM49BAMCA0kAMEYCIQDEa4%2BcVzCSjpeEjp9YTADGnwbj4czgIa5S2BoqDFMEmgIhAIZasjntF5KBNN%2B6Eo0NgwKBHy4viEEEYUZ4symZr6oV)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+
+Generated: 15 Nov 23 16:51 UTC

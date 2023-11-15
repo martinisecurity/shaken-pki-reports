@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 7820
 
-Tested At: 21 Aug 23 20:01 UTC\
+Tested At: 15 Nov 23 15:52 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -15 day(s)\
+Remaining Validity Period: -100 day(s)\
 Subject: CN=SHAKEN 7820, O=Full Service Network LP, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/12ead110-e343-424b-89e0-60e3721260b2/2b2909bc5a1fe99e45ea4a99d73ed62b.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/12ead110-e343-424b-89e0-60e3721260b2/2b29
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

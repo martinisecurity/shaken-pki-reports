@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 633K
 
-Tested At: 21 Aug 23 20:07 UTC\
+Tested At: 15 Nov 23 16:00 UTC\
 Initial Validity Period: 352 day(s)\
-Remaining Validity Period: 311 day(s)\
+Remaining Validity Period: 225 day(s)\
 Subject: serialNumber=8a891650-13fc-483f-8ecb-de579f6b3998, CN=SHAKEN 633K, O=Telkart LLC, C=US\
 Issuer: CN=Telonium STI-CA Intermediate CA, O=Telonium STI-CA\
 Link: https://certs.telonium.net/23/545f628e.crt
@@ -17,4 +17,4 @@ Link: https://certs.telonium.net/23/545f628e.crt
 | [e_atis_issuer_dn](../../ISSUES/e_atis_issuer_dn/README.md) | error | ATIS1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

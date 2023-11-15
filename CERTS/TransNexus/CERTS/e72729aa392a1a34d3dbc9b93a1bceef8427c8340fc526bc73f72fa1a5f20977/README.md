@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 9726
+
+Tested At: 15 Nov 23 15:53 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -78 day(s)\
+Subject: CN=SHAKEN 9726, O=WorldNet Telecommunications LLC, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/37439287-383f-4cfa-aea6-45010d651a5e/26301d27082a691e2f867b85ee7dae2f.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC4DCCAoWgAwIBAgIQZcFxfGUJ82RWQSnQ7c%2Fw1zAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwODIxMjA1MDAzWhcNMjMwODI4MjA1MDAyWjBNMQswCQYDVQQGEwJVUzEoMCYGA1UEChMfV29ybGROZXQgVGVsZWNvbW11bmljYXRpb25zIExMQzEUMBIGA1UEAxMLU0hBS0VOIDk3MjYwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQR7mPVARN12uJkuJCU70y2RPL5mkCjajU6uSEss8lyZpk9Oeo5CmI%2FTFZI1RBMGD7z37AhL6%2BOPUaXyoh%2FmraKo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFNlKfHdOA1r9ATm7kWQy6KQPmwpDMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDk3MjYwCgYIKoZIzj0EAwIDSQAwRgIhAJb%2BZ4I8S4FZCEt0rcot4d1cqHSS4NN36UpTqmUQoum3AiEAwVHax3sEWVtlxBmnqh4Uu9gWE%2F6RUik0CvNjG%2BnQkYQ%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+
+Generated: 15 Nov 23 16:51 UTC

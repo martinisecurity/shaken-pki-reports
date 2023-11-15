@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1373
 
-Tested At: 21 Aug 23 20:04 UTC\
+Tested At: 15 Nov 23 15:56 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -42 day(s)\
+Remaining Validity Period: -128 day(s)\
 Subject: CN=SHAKEN 1373, O=Andrew Ward Consulting LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/8d9195ef-865c-4fa3-9171-a00a7c106252/8ce5f4732a8a27b15b60b5df131dc9f1.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/8d9195ef-865c-4fa3-9171-a00a7c106252/8ce5
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

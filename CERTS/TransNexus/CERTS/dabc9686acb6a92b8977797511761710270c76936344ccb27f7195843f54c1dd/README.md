@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 695G
+
+Tested At: 15 Nov 23 15:57 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -29 day(s)\
+Subject: CN=SHAKEN 695G, O=ImOn Communications LLC, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/cbb08c21-d354-4f21-9e97-141fc880ebca/4462c1196084227455158d0e197caf0a.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC2DCCAn2gAwIBAgIQTAQN39KbCpd6Zef4bL3roTAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMxMDEwMTYzOTQ5WhcNMjMxMDE3MTYzOTQ4WjBFMQswCQYDVQQGEwJVUzEgMB4GA1UEChMXSW1PbiBDb21tdW5pY2F0aW9ucyBMTEMxFDASBgNVBAMTC1NIQUtFTiA2OTVHMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAED225L%2B7FPSpXsbCnHevP18I%2Fyzs1bTxg2z%2F%2F5l32vaaxL6LNTeIcG6mqOzO4lkQ3hbrG8YZDGJeTemp9agTPN6OCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBSYtR%2FYrggYCrxO5EugP3QLDUyVvjAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ2OTVHMAoGCCqGSM49BAMCA0kAMEYCIQD0ox0Rcnj5BW%2Fbb7VCA1IqyrvPrV6wrJ%2B1xccbcxLEgwIhAPcAj9HANOREFEJ6QDb5yXnfoo1yj7mKtWe6LLeT9M9F)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+
+
+Generated: 15 Nov 23 16:51 UTC

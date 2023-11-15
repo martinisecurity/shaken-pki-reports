@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 273ms average time it took to download each certificate
+- 329ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://www.talkasiavoip.com/198K.pem` | 26&#160;Aug&#160;23&#160;12:36&#160;UTC | true | [view](REPOS/bb30be37f3905720319bcf16596a6c137b7f5d2c/README.md) |
+| `https://www.talkasiavoip.com/198K.pem` | 07&#160;Dec&#160;23&#160;07:31&#160;UTC | true | [view](REPOS/bb30be37f3905720319bcf16596a6c137b7f5d2c/README.md) |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

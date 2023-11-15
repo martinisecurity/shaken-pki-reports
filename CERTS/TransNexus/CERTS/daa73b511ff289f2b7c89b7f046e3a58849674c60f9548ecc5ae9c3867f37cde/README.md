@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 589J
 
-Tested At: 21 Aug 23 20:03 UTC\
+Tested At: 15 Nov 23 15:54 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -96 day(s)\
+Remaining Validity Period: -182 day(s)\
 Subject: CN=SHAKEN 589J, O=Simplicity VoIP, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/4ca62cb9-03b5-42f8-8fc3-67cecf1feeb2/77800d5dfb5e246cd85afd5819a9ee32.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/4ca62cb9-03b5-42f8-8fc3-67cecf1feeb2/7780
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

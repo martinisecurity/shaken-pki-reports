@@ -2,14 +2,14 @@
 
 ## Clearwave Communications
 
-- 1 repository URLs were included in the corpus being tested
-- 0 repository URLs in the corpus were skipped because they were duplicated
+- 2 repository URLs were included in the corpus being tested
+- 1 repository URLs in the corpus were skipped because they were duplicated
 - 1 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 8ms average time it took to download each certificate
+- 29ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://cdn-cr.cgah.tnsi.com/certs/f63503c138e2b55933317f09cc5a1cc4e8a3de1d` | 10&#160;Jun&#160;24&#160;16:01&#160;UTC | true | [view](REPOS/7a1181c8e0eeb2d00d656d2bf1b098d80cfecd95/README.md) |
+| `https://cdn-cr.cgah.tnsi.com/certs/3f50200812ae74381c792fbff3f17ef55608e51d` | 10&#160;Jun&#160;24&#160;16:01&#160;UTC | true | [view](REPOS/94117a2071db5fa108c8d0a3dc0cd05fae7d5645/README.md) |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

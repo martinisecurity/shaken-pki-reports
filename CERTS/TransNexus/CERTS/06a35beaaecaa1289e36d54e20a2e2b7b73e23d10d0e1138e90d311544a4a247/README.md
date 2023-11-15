@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 4632
 
-Tested At: 21 Aug 23 20:07 UTC\
+Tested At: 15 Nov 23 16:00 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -54 day(s)\
+Remaining Validity Period: -140 day(s)\
 Subject: CN=SHAKEN 4632, O=TelNet Worldwide Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/4632/0976ebdd-522e-48eb-bb6c-46a1c9454394.pem
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/4632/0976ebdd-522e-48eb-bb6c-46a1c9454
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

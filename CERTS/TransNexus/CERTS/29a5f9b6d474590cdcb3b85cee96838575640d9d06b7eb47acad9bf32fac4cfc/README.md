@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 283K
 
-Tested At: 21 Aug 23 20:01 UTC\
+Tested At: 15 Nov 23 15:52 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -120 day(s)\
+Remaining Validity Period: -205 day(s)\
 Subject: CN=SHAKEN 283K, O=CCI Voice, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/076af2e8-ea86-4b26-b350-cda606ecb199/9cd89e7b1a084b12a6b30e7d57304d10.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/076af2e8-ea86-4b26-b350-cda606ecb199/9cd8
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC

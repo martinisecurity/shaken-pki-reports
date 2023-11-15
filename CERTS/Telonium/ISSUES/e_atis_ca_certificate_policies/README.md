@@ -19,4 +19,4 @@ No error, warning, or notice level issues were found
 | error | Telonium STI-CA Intermediate CA | [view](../../CERTS/7c701216e591c9a3b84550ff46566dd420c7f182eb3cfc5abe5739cdbe271169/README.md) | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 
 
-Generated: 21 Aug 23 20:18 UTC
+Generated: 15 Nov 23 16:51 UTC
