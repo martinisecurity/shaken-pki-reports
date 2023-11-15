@@ -2,7 +2,7 @@
 
 ## Certificate Telonium STI-CA Intermediate CA
 
-Tested At: 15 Nov 23 16:51 UTC\
+Tested At: 15 Nov 23 17:17 UTC\
 Initial Validity Period: 3650 day(s)\
 Remaining Validity Period: 3399 day(s)\
 Subject: CN=Telonium STI-CA Intermediate CA, O=Telonium STI-CA\
@@ -12,11 +12,11 @@ Issuer: CN=Telonium STI-CA Root1, O=Telonium, C=US
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_ca_key_usage_crl_sign](../../ISSUES/e_us_cp_ca_key_usage_crl_sign/README.md) | error | US_SHAKEN_CP | The model for managing and communicating the status of revoked certificates is in the form of a distributed Certificate Revocation List (CRL) that is maintained by the STI-PA as described in ATIS-1000080 |
 | [e_atis_ca_certificate_policies](../../ISSUES/e_atis_ca_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
 | [e_atis_ca_crl_distribution](../../ISSUES/e_atis_ca_crl_distribution/README.md) | error | ATIS1000080 | STI Intermediate certificates shall contain a CRL Distribution Points extension |
 | [e_atis_ca_subject_cn](../../ISSUES/e_atis_ca_subject_cn/README.md) | error | ATIS1000080 | The Common Name attribute shall include the text string "SHAKEN" |
+| [e_us_cp_ca_key_usage_crl_sign](../../ISSUES/e_us_cp_ca_key_usage_crl_sign/README.md) | error | US_SHAKEN_CP | The model for managing and communicating the status of revoked certificates is in the form of a distributed Certificate Revocation List (CRL) that is maintained by the STI-PA as described in ATIS-1000080 |
 | [e_atis_ca_subject](../../ISSUES/e_atis_ca_subject/README.md) | error | ATIS1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

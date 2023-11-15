@@ -15,4 +15,4 @@ Description: STI certificates shall contain a Signature Algorithm field with the
 | error | SHAKEN Root CA | [view](../../CERTS/ee1cf83becad4777dcf250170efecc7fc7498d85097e9a570dfac542151ebf53/README.md) | STI certificates shall contain a Signature Algorithm field with the value 'ecdsa-with-SHA256' |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

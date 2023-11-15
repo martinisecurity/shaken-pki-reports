@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 065J
 
-Tested At: 15 Nov 23 15:52 UTC\
+Tested At: 15 Nov 23 16:12 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -155 day(s)\
 Subject: CN=SHAKEN 065J, O=One Ring Networks, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/1de2a6c6-9b1b-4894-8c0c-0cccfdf25e8d/333c
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 193E
 
-Tested At: 15 Nov 23 15:59 UTC\
+Tested At: 15 Nov 23 16:15 UTC\
 Initial Validity Period: 60 day(s)\
 Remaining Validity Period: -380 day(s)\
 Subject: CN=SHAKEN 193E, OU=SHAKEN, O=8x8 Inc, C=US\
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/193E/7e5d014c-ed0c-4a12-8c38-df64aa8be
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

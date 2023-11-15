@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 186K
 
-Tested At: 15 Nov 23 15:59 UTC\
+Tested At: 15 Nov 23 16:15 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -155 day(s)\
 Subject: CN=SHAKEN 186K, O=Go2Uno LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/186K/45efa415-ed22-4358-a4e3-8d37eac1d
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

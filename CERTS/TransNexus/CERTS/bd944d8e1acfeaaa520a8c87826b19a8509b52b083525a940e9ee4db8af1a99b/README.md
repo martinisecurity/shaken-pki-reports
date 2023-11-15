@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 663J
 
-Tested At: 15 Nov 23 16:00 UTC\
+Tested At: 15 Nov 23 16:16 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 165 day(s)\
 Subject: CN=SHAKEN 663J, O=CCI, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/663J/0b2ad5b1-ec49-4b61-bebd-415b30f45
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

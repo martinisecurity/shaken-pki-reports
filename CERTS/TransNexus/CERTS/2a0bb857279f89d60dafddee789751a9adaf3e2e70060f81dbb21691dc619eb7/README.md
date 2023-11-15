@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 0732
 
-Tested At: 15 Nov 23 15:52 UTC\
+Tested At: 15 Nov 23 16:12 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -82 day(s)\
 Subject: CN=SHAKEN 0732, O=Michigan Broadband Services, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/10d5d33a-25e1-4ec4-8dcb-70aa26849d9f/3c88
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

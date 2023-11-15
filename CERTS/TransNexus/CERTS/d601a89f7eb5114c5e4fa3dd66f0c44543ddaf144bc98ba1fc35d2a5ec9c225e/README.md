@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 609J
 
-Tested At: 15 Nov 23 15:57 UTC\
+Tested At: 15 Nov 23 16:14 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -101 day(s)\
 Subject: CN=SHAKEN 609J, O=Voxtell, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/c8e6a65e-b490-4ee9-bf32-7da584733d4d/a17f
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

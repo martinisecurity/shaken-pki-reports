@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 815G
 
-Tested At: 15 Nov 23 16:00 UTC\
+Tested At: 15 Nov 23 16:16 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: -308 day(s)\
 Subject: CN=SHAKEN 815G, OU=SHAKEN, O=382 Communications, C=US\
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/815G/c147c307-645b-4fcd-99d0-2be9a709b
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

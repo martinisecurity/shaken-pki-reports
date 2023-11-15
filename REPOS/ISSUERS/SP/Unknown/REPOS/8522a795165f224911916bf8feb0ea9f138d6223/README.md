@@ -3,13 +3,13 @@
 ## Unknown
 
 Name: `https://cert.sticr.att.net:8443/certs/att/e4089cf9-5fbb-4536-825a-ac516611ac45`\
-Tested At: 15 Nov 23 15:51 UTC\
-Time: 2297ms
+Tested At: 15 Nov 23 16:10 UTC\
+Time: 30012ms
 
 ### Issues
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "https://cert.sticr.att.net:8443/certs/att/e4089cf9-5fbb-4536-825a-ac516611ac45": net/http: HTTP/1.x transport connection broken: too many transfer encodings: ["chunked" "chunked"] |
+| [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "https://cert.sticr.att.net:8443/certs/att/e4089cf9-5fbb-4536-825a-ac516611ac45": dial tcp 12.194.64.101:8443: i/o timeout |
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

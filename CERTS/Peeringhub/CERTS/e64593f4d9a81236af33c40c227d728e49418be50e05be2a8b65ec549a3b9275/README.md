@@ -2,7 +2,7 @@
 
 ## Certificate Apex Telecom LLC SHAKEN 288K
 
-Tested At: 15 Nov 23 16:12 UTC\
+Tested At: 15 Nov 23 16:38 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -13 day(s)\
 Subject: CN=Apex Telecom LLC SHAKEN 288K, O=Apex Telecom LLC, L=SALEM, ST=MA, C=US\
@@ -18,4 +18,4 @@ Link: https://s3.amazonaws.com/certificates.peeringhub.io/288K/288K.crt
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

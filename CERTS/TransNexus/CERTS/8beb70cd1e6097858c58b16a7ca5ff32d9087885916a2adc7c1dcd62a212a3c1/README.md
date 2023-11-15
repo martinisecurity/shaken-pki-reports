@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 691A
 
-Tested At: 15 Nov 23 15:55 UTC\
+Tested At: 15 Nov 23 16:13 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -125 day(s)\
 Subject: CN=SHAKEN 691A, O=DayStarr Communications, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/853eda31-5f44-42d5-81f9-871258ee4c96/2b07
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

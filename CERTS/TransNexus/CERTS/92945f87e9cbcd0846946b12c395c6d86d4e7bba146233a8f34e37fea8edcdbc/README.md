@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 646K
 
-Tested At: 15 Nov 23 15:58 UTC\
+Tested At: 15 Nov 23 16:14 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -115 day(s)\
 Subject: CN=SHAKEN 646K, O=IT Voice, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/dc4457ef-626e-49f6-817f-859ce6959b0b/da48
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

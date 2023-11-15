@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 2311
 
-Tested At: 15 Nov 23 15:55 UTC\
+Tested At: 15 Nov 23 16:13 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -36 day(s)\
 Subject: CN=SHAKEN 2311, O=Cal-Ore Telephone, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/85ba46da-062a-4f1c-b422-17176aea6d40/4f29
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 2251
 
-Tested At: 15 Nov 23 15:57 UTC\
+Tested At: 15 Nov 23 16:14 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -52 day(s)\
 Subject: CN=SHAKEN 2251, O=Range Telephone Cooperative Inc. dba Range, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/d22c9a26-2556-4fd2-a3cd-fe92b871a5eb/68d5
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

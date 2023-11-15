@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 918J
 
-Tested At: 15 Nov 23 15:53 UTC\
+Tested At: 15 Nov 23 16:12 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -388 day(s)\
 Subject: CN=SHAKEN 918J, OU=SHAKEN, O=VoIPX International Inc, C=US\
@@ -18,4 +18,4 @@ Link: https://certificates.clearip.com/3bbe1f4c-3184-44ee-84f4-2f63891aa57b/a99e
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 469A
 
-Tested At: 15 Nov 23 15:56 UTC\
+Tested At: 15 Nov 23 16:13 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -377 day(s)\
 Subject: CN=SHAKEN 469A, OU=SHAKEN, O=T3 Communications Inc., C=US\
@@ -18,4 +18,4 @@ Link: https://certificates.clearip.com/88814589-ad88-4c53-b3c3-47f8334afb98/61db
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

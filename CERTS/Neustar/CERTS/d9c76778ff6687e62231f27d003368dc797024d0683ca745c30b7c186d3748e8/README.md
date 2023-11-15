@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 030J
 
-Tested At: 15 Nov 23 16:00 UTC\
+Tested At: 15 Nov 23 16:16 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -224 day(s)\
 Subject: CN=SHAKEN 030J, O=ANI Networks, C=US\
@@ -18,4 +18,4 @@ Link: https://certs.iverify-aninetworks.net/aninetworks_20220405.crt
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN
 
-Tested At: 15 Nov 23 15:51 UTC\
+Tested At: 15 Nov 23 16:09 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: -15 day(s)\
 Subject: C=US, ST=Tennessee, L=Spring Hill, O=Simwood Inc., CN=SHAKEN\
@@ -13,8 +13,8 @@ Link: https://cdn.simwood.com/shaken/simwood.crt
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 ### Not Effective
 
@@ -36,4 +36,4 @@ Link: https://cdn.simwood.com/shaken/simwood.crt
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

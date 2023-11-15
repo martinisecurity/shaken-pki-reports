@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 226K
 
-Tested At: 15 Nov 23 15:53 UTC\
+Tested At: 15 Nov 23 16:12 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -229 day(s)\
+Remaining Validity Period: -230 day(s)\
 Subject: CN=SHAKEN 226K, O=Big Fish Voice\\, LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/2e6d4126-e711-41e1-ab9a-1fcdf4f21aec/5ebba8b75d16e346ee5b53c0d144b0a9.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/2e6d4126-e711-41e1-ab9a-1fcdf4f21aec/5ebb
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

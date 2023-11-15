@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 672B
 
-Tested At: 15 Nov 23 15:58 UTC\
+Tested At: 15 Nov 23 16:14 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -332 day(s)\
 Subject: CN=SHAKEN 672B, O=Clear Rate, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/dcef9a97-b864-43ac-830b-2290a8d0f002/141a
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

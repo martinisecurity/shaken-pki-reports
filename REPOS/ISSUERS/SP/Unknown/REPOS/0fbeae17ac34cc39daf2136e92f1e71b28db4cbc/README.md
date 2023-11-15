@@ -3,7 +3,7 @@
 ## Unknown
 
 Name: `http://stirshaken.ellianz.com/`\
-Tested At: 15 Nov 23 15:48 UTC\
+Tested At: 15 Nov 23 16:06 UTC\
 Time: 30000ms
 
 ### Issues
@@ -12,4 +12,4 @@ Time: 30000ms
 |------|------|--------|---------|
 | [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "http://stirshaken.ellianz.com/": dial tcp 88.99.252.103:80: i/o timeout |
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

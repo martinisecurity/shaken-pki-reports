@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `http://stirshaken.corvitbpo.com/zg-key.pem`\
-Tested At: 15 Nov 23 15:48 UTC\
-Time: 469ms
+Tested At: 15 Nov 23 16:06 UTC\
+Time: 574ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 469ms
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. PEM is not a certificate |
 | [w_atis_protocol](../../ISSUES/w_atis_protocol/README.md) | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

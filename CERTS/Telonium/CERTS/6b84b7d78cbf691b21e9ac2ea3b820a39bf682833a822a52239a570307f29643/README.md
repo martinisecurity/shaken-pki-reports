@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 620K
 
-Tested At: 15 Nov 23 16:00 UTC\
+Tested At: 15 Nov 23 16:16 UTC\
 Initial Validity Period: 356 day(s)\
 Remaining Validity Period: 228 day(s)\
 Subject: serialNumber=6d9e9b61-6455-4c74-b22c-8245d22ef657, CN=SHAKEN 620K, O=Miami Telecom, C=US\
@@ -17,4 +17,4 @@ Link: https://certs.telonium.net/23/9cf6c6b9.crt
 | [e_atis_issuer_dn](../../ISSUES/e_atis_issuer_dn/README.md) | error | ATIS1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

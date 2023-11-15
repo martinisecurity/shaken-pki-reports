@@ -3,13 +3,13 @@
 ## Metaswitch
 
 Name: `https://sti-cr.cgah.tnsi.com/certs/54ea30a0105002d9a139f34e6297f0d2fdf88fca`\
-Tested At: 15 Nov 23 16:22 UTC\
+Tested At: 15 Nov 23 16:47 UTC\
 Time: 30001ms
 
 ### Issues
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "https://sti-cr.cgah.tnsi.com/certs/54ea30a0105002d9a139f34e6297f0d2fdf88fca": dial tcp 204.28.237.71:443: i/o timeout |
+| [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "https://sti-cr.cgah.tnsi.com/certs/54ea30a0105002d9a139f34e6297f0d2fdf88fca": dial tcp 204.28.233.168:443: i/o timeout |
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

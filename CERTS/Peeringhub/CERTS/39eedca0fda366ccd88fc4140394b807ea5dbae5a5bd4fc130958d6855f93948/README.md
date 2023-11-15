@@ -2,7 +2,7 @@
 
 ## Certificate MAQSSolutions SHAKEN 255K
 
-Tested At: 15 Nov 23 16:11 UTC\
+Tested At: 15 Nov 23 16:35 UTC\
 Initial Validity Period: 33 day(s)\
 Remaining Validity Period: 19 day(s)\
 Subject: CN=MAQSSolutions SHAKEN 255K, O=MAQS SOLUTIONS LLC, L=Delaware, ST=DE, C=US\
@@ -18,4 +18,4 @@ Link: https://dial.maqssolution.live/255KND23.pem
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

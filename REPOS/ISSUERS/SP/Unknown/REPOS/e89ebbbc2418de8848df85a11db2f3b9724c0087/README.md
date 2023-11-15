@@ -3,7 +3,7 @@
 ## Unknown
 
 Name: `http://sti.novolink.net/crypt/sti-shaken.crt`\
-Tested At: 15 Nov 23 15:47 UTC\
+Tested At: 15 Nov 23 16:05 UTC\
 Time: 30000ms
 
 ### Issues
@@ -12,4 +12,4 @@ Time: 30000ms
 |------|------|--------|---------|
 | [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "http://sti.novolink.net/crypt/sti-shaken.crt": dial tcp 208.70.157.251:80: i/o timeout |
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

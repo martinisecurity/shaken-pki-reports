@@ -3,7 +3,7 @@
 ## Unknown
 
 Name: `https://Identity.ellianz.com:5000/stirshaken_certs/sp-cert.pem`\
-Tested At: 15 Nov 23 15:50 UTC\
+Tested At: 15 Nov 23 16:08 UTC\
 Time: 30000ms
 
 ### Issues
@@ -12,4 +12,4 @@ Time: 30000ms
 |------|------|--------|---------|
 | [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "https://Identity.ellianz.com:5000/stirshaken_certs/sp-cert.pem": dial tcp 95.216.101.222:5000: i/o timeout |
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

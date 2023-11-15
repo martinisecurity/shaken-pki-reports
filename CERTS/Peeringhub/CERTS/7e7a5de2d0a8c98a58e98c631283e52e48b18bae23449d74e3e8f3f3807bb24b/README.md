@@ -2,7 +2,7 @@
 
 ## Certificate TalkAsiaVoip LLC SHAKEN 198K
 
-Tested At: 15 Nov 23 16:49 UTC\
+Tested At: 15 Nov 23 17:15 UTC\
 Initial Validity Period: 38 day(s)\
 Remaining Validity Period: 22 day(s)\
 Subject: CN=TalkAsiaVoip LLC SHAKEN 198K, O=TalkAsiaVoip LLC, ST=DE, C=US\
@@ -18,4 +18,4 @@ Link: https://www.talkasiavoip.com/198K.pem
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

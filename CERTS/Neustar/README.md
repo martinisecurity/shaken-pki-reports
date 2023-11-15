@@ -9,9 +9,9 @@
 
 #### Leaf Certificates
 
-- 475 certificates were included in the corpus being tested
+- 474 certificates were included in the corpus being tested
 - 265 certificates in the corpus were skipped because they are duplicates
-- 52 certificates in the corpus were skipped because they are expired
+- 51 certificates in the corpus were skipped because they are expired
 - 10 certificates in the corpus were skipped because they are not currently trusted
 - 148 certificates being tested against the remaining rules
 - 1.43 issues on average found in unexpired, trusted, and non-compliant certificates
@@ -222,4 +222,4 @@
 | 05&#160;Oct&#160;22&#160;17:26&#160;UTC | Neustar Certified Caller ID SHAKEN CA-2 | 05&#160;Oct&#160;32&#160;17:26&#160;UTC | true | [view](CERTS/0bd95ecbb97c09de0df079ca41e10c360c4b5928ac56c496879a2c90c6bbffe4/README.md) |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

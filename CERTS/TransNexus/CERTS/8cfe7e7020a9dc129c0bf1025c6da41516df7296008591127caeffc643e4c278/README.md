@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 714J
 
-Tested At: 15 Nov 23 15:54 UTC\
+Tested At: 15 Nov 23 16:12 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -183 day(s)\
 Subject: CN=SHAKEN 714J, O=Cedar Wireless Inc., C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/461b73cf-c78b-42ab-a67f-2140f9c668dd/2d84
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

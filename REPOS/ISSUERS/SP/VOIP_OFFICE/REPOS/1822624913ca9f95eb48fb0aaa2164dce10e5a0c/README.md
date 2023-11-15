@@ -3,8 +3,8 @@
 ## VOIP OFFICE
 
 Name: `https://nguc.voipoffice.com/stirshaken/VOIP_OFFICE.COM_LLC_389K`\
-Tested At: 15 Nov 23 16:11 UTC\
-Time: 99ms
+Tested At: 15 Nov 23 16:36 UTC\
+Time: 434ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 99ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

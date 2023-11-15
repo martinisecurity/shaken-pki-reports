@@ -12,4 +12,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://stirshaken.telcentris.sonoc.io/api/v1/certificates/Voxox_696J_1` | 16&#160;Nov&#160;23&#160;22:11&#160;UTC | true | [view](../../REPOS/311c6ea038e9da395aafc17eadb13d8e7d7ba8a6/README.md) |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

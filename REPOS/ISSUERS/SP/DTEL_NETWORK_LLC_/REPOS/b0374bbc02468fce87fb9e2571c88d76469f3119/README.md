@@ -3,8 +3,8 @@
 ## DTEL NETWORK LLC.
 
 Name: `http://5.78.73.44/system/sp-cert.pem`\
-Tested At: 15 Nov 23 15:46 UTC\
-Time: 112ms
+Tested At: 15 Nov 23 16:04 UTC\
+Time: 32ms
 
 ### Issues
 
@@ -14,4 +14,4 @@ Time: 112ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_protocol](../../ISSUES/w_atis_protocol/README.md) | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

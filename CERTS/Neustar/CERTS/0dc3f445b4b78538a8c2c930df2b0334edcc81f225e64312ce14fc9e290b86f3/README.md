@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 997E
 
-Tested At: 15 Nov 23 15:51 UTC\
+Tested At: 15 Nov 23 16:09 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 167 day(s)\
 Subject: CN=SHAKEN 997E, O=Bandwidth.com CLEC LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://bw-shaken-cert-pub.s3.amazonaws.com/bw-shaken_20240429.cer
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

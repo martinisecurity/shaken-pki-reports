@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 3639
 
-Tested At: 15 Nov 23 15:52 UTC\
+Tested At: 15 Nov 23 16:12 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -14 day(s)\
 Subject: CN=SHAKEN 3639, O=Monmouth Telecom, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/0b67416d-1fc8-4a8d-9406-878eefc0bb93/e892
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

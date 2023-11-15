@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1577
 
-Tested At: 15 Nov 23 15:55 UTC\
+Tested At: 15 Nov 23 16:13 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -123 day(s)\
 Subject: CN=SHAKEN 1577, O=Great Plains Communications, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/7c83d108-6ff5-4c02-a73c-2e1acc936871/7cf2
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

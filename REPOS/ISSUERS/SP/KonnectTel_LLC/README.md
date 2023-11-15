@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 453ms average time it took to download each certificate
+- 567ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://sadmin.konnecttel.com/KonnectTel.pem` | 08&#160;Sep&#160;24&#160;23:11&#160;UTC | true | [view](REPOS/b06f6ca3a82fe6c167195b1d7aa2c5ef43e67ae1/README.md) |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

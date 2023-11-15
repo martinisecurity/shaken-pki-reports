@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 772J
 
-Tested At: 15 Nov 23 16:12 UTC\
+Tested At: 15 Nov 23 16:38 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 157 day(s)\
 Subject: CN=SHAKEN 772J, O=VOIP ESSENTIAL LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/150ed90442e147b17a8647c157e6a00e195f87df
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

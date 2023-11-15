@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 518J
 
-Tested At: 15 Nov 23 15:59 UTC\
+Tested At: 15 Nov 23 16:15 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -365 day(s)\
 Subject: CN=SHAKEN 518J, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
@@ -17,4 +17,4 @@ Link: https://certificates.clearip.com/transnexus/8d441cef05e6170d4940b6d9812017
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

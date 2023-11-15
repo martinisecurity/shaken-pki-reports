@@ -3,8 +3,8 @@
 ## Duo Broadband
 
 Name: `https://cdn-cr.cgah.tnsi.com/certs/54a54551e139f777dcad69a463d282d8b6b9dade`\
-Tested At: 15 Nov 23 15:51 UTC\
-Time: 28ms
+Tested At: 15 Nov 23 16:09 UTC\
+Time: 70ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 28ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

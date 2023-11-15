@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 81ms average time it took to download each certificate
+- 55ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -129,4 +129,4 @@
 | `https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11620.10266.pem` | 15&#160;Oct&#160;24&#160;18:22&#160;UTC | true | [view](REPOS/2098241464b7e11e012b85628faef9467fd9d8c5/README.md) |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

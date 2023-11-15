@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 755J
 
-Tested At: 15 Nov 23 16:00 UTC\
+Tested At: 15 Nov 23 16:16 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -145 day(s)\
 Subject: CN=SHAKEN 755J, OU=SHAKEN, O=CMS Internet, C=US\
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/755J/5e526fc6-7b0a-43a5-bb13-263d7edc7
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

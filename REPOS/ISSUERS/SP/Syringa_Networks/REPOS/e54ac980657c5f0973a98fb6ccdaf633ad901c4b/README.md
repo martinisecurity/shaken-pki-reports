@@ -3,8 +3,8 @@
 ## Syringa Networks
 
 Name: `https://cdn-cr.cgah.tnsi.com/certs/f9a476014f036865318edcafd2156667825b4092`\
-Tested At: 15 Nov 23 15:51 UTC\
-Time: 13ms
+Tested At: 15 Nov 23 16:09 UTC\
+Time: 2ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 13ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

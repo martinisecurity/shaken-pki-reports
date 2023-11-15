@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN  XCast Labs 689J
 
-Tested At: 15 Nov 23 16:11 UTC\
+Tested At: 15 Nov 23 16:34 UTC\
 Initial Validity Period: 31 day(s)\
 Remaining Validity Period: -109 day(s)\
 Subject: CN=SHAKEN  XCast Labs 689J, OU=XCast Labs, O=XCast Labs, ST=California, C=US\
@@ -19,4 +19,4 @@ Link: https://cr.xcastlabs.net/1690612200/xclsshaken.pem
 | [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 689J' |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

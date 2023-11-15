@@ -3,8 +3,8 @@
 ## Metaswitch
 
 Name: `https://sti-cr.cgah.tnsi.com/certs/de39b976c7549358da256530d81cfb1f446a2583`\
-Tested At: 15 Nov 23 16:44 UTC\
-Time: 30014ms
+Tested At: 15 Nov 23 17:09 UTC\
+Time: 30015ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 30014ms
 |------|------|--------|---------|
 | [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "https://sti-cr.cgah.tnsi.com/certs/de39b976c7549358da256530d81cfb1f446a2583": dial tcp 204.28.237.71:443: i/o timeout |
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

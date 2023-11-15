@@ -20,7 +20,8 @@ Description: Subscribers shall provide unrestricted access to its repositories a
 | `https://cert.sticr.att.net:8443/certs/att/e4089cf9-5fbb-4536-825a-ac516611ac45` |  | true | [view](../../REPOS/8522a795165f224911916bf8feb0ea9f138d6223/README.md) |
 | `https://cert.sticr.att.net:8443/certs/att/f498a068-56c3-49ad-80bc-4d0bf6fb9dab` |  | true | [view](../../REPOS/dc12b44290809af64fb330e14333c00828146121/README.md) |
 | `https://crs.sti.uscellular.com/certs/uscc_shaken_CA.crt` |  | true | [view](../../REPOS/b2a4177b5a547e2a4c30c52aa4ff68a0b2d2899c/README.md) |
+| `https://ecms.securetransit.net/certs/410bad9e05a57353f0d8739a421be619.cer` |  | true | [view](../../REPOS/6034f9862b22502cb879614b1690e2d94043ecb9/README.md) |
 | `https://stirshaken.ellianz.com:5000/stirshaken_certs/sp-cert.pem` |  | true | [view](../../REPOS/0efdff515049d0da95f7e0a8b78fba8b85b336cb/README.md) |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

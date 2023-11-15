@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 502E
 
-Tested At: 15 Nov 23 16:13 UTC\
+Tested At: 15 Nov 23 16:38 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 144 day(s)\
 Subject: CN=SHAKEN 502E, O=Accessline Communications Corp, C=US\
@@ -16,4 +16,4 @@ Link: https://sscerts.accessline.com/sscerts/Cert-US-04-2023.crt
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

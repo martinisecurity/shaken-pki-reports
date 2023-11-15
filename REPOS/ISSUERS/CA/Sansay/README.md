@@ -9,7 +9,7 @@
 - 0.18% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 60ms average time it took to download each certificate
+- 3ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -1706,4 +1706,4 @@
 | `https://cr.sansay.com/telxio-networks` | 18&#160;Apr&#160;24&#160;06:39&#160;UTC | true | [view](REPOS/9225be8e0ed9950c9cd12dddbc0590fd9d5984ed/README.md) |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

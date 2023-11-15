@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 657K
 
-Tested At: 15 Nov 23 16:49 UTC\
+Tested At: 15 Nov 23 17:15 UTC\
 Initial Validity Period: 367 day(s)\
 Remaining Validity Period: 268 day(s)\
 Subject: serialNumber=F77BB926-2B97-4BE5-8189-CF7808596E99, CN=SHAKEN 657K, O=Exitty Inc, C=US\
@@ -14,4 +14,4 @@ Link: https://voice.onepbxcloud.com/657K-20230808.crt
 149 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

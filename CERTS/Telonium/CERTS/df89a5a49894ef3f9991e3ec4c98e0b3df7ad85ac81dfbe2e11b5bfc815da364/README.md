@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 651K
 
-Tested At: 15 Nov 23 15:59 UTC\
+Tested At: 15 Nov 23 16:15 UTC\
 Initial Validity Period: 367 day(s)\
 Remaining Validity Period: 241 day(s)\
 Subject: serialNumber=24094d07-6b8e-4255-80c7-e22802d15590, CN=SHAKEN 651K, O=Callsy Network LLC, C=US\
@@ -17,4 +17,4 @@ Link: https://certificates.peeringhub.io/651K/651K.crt
 | [e_atis_issuer_dn](../../ISSUES/e_atis_issuer_dn/README.md) | error | ATIS1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

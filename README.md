@@ -10,9 +10,9 @@ This report is broken int two parts:
 
 ### Leaf Certificates
 
-- 9041 certificates were included in the corpus being tested
+- 8876 certificates were included in the corpus being tested
 - 734 certificates in the corpus were skipped because they are duplicates
-- 6944 certificates in the corpus were skipped because they are expired
+- 6779 certificates in the corpus were skipped because they are expired
 - 474 certificates in the corpus were skipped because they are not currently trusted
 - 889 certificates being tested against the remaining rules
 - 3.53 issues on average found in unexpired, trusted, and non-compliant certificates
@@ -23,8 +23,8 @@ This report is broken int two parts:
 - 266 days is the average remaining validity for the certificates in the corpus
 - 266 days is the average initial validity for the certificates in the corpus
 - 301 certificates expire in the next 30 days
-- 13.74 average number of unexpired certificates per OCN observed
-- 658 unique OCNs observed in unexpired and valid certificate corpus
+- 13.51 average number of unexpired certificates per OCN observed
+- 657 unique OCNs observed in unexpired and valid certificate corpus
 
 ### CA Certificates
 
@@ -103,4 +103,4 @@ This report is broken int two parts:
 | Not Effective | Tests that exist in the current specifications but were not in effect at the time of issuance. |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

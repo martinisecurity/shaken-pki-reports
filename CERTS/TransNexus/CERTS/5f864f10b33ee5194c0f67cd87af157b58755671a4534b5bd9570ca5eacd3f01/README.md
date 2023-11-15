@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 578J
 
-Tested At: 15 Nov 23 16:00 UTC\
+Tested At: 15 Nov 23 16:15 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 236 day(s)\
 Subject: CN=SHAKEN 578J, O=Call Tools Inc, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/578J/44931891-9ebb-4da0-a2ec-214f5f003
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

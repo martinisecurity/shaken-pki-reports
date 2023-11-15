@@ -9,7 +9,7 @@
 - 0.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 53ms average time it took to download each certificate
+- 115ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -20,4 +20,4 @@
 | `https://fst-20230823-3-dot-fstelephony.appspot.com/static/cert/shaken_identity_2023_1.cer` | 08&#160;Jun&#160;24&#160;14:01&#160;UTC | true | [view](REPOS/2b040f5d23700ee87db25b058261ab569df5d125/README.md) |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

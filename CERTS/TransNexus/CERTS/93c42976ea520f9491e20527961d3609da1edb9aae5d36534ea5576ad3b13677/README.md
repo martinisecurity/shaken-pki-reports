@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 0315
 
-Tested At: 15 Nov 23 15:57 UTC\
+Tested At: 15 Nov 23 16:14 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -53 day(s)\
 Subject: CN=SHAKEN 0315, O=Pine Belt Telephone Co. Inc., C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/c7e51846-5f04-439a-a942-5b8110a4cbfb/dc63
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

@@ -9,9 +9,9 @@
 
 #### Leaf Certificates
 
-- 221 certificates were included in the corpus being tested
+- 58 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
-- 203 certificates in the corpus were skipped because they are expired
+- 40 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
 - 18 certificates being tested against the remaining rules
 - 6.00 issues on average found in unexpired, trusted, and non-compliant certificates
@@ -85,4 +85,4 @@ No error, warning, or notice level issues were found
 | 06&#160;Apr&#160;20&#160;13:48&#160;UTC | Comcast SHAKEN Intermediate CA | 06&#160;Jun&#160;39&#160;13:48&#160;UTC | false | [view](CERTS/2f3abdfe711377f4d59f31d941962797c61f021c3924af31de99031f9ac54f77/README.md) |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

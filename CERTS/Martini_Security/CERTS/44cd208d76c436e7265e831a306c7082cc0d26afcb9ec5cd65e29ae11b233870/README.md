@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 685K
 
-Tested At: 15 Nov 23 16:49 UTC\
+Tested At: 15 Nov 23 17:15 UTC\
 Initial Validity Period: 14 day(s)\
 Remaining Validity Period: -63 day(s)\
 Subject: O=Net Speak Pro LLC, C=US, serialNumber=DCB401458A91CCB6AA634FE00169183B, CN=SHAKEN 685K\
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/CJ4hqjr5u7ao.pem
 149 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

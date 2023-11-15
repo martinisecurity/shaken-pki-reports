@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 695G
 
-Tested At: 15 Nov 23 15:57 UTC\
+Tested At: 15 Nov 23 16:14 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -32 day(s)\
 Subject: CN=SHAKEN 695G, O=ImOn Communications LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/cbb08c21-d354-4f21-9e97-141fc880ebca/b5dd
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

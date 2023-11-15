@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 2265
 
-Tested At: 15 Nov 23 15:56 UTC\
+Tested At: 15 Nov 23 16:14 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -45 day(s)\
 Subject: CN=SHAKEN 2265, O=Tularosa Basin Telephone Company\\, Inc., C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/9455d0a5-7cd2-4d9a-ae32-328c1d70579b/f421
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

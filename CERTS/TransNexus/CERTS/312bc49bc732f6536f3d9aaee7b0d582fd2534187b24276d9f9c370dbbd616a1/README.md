@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 401D
 
-Tested At: 15 Nov 23 15:57 UTC\
+Tested At: 15 Nov 23 16:14 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -83 day(s)\
 Subject: CN=SHAKEN 401D, O=United Telephone Association, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/c358c640-0ab7-4bc7-b394-ebaa9bd47f88/4700
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

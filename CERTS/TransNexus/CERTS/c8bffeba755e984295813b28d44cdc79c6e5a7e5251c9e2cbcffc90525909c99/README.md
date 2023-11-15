@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 0654
 
-Tested At: 15 Nov 23 15:58 UTC\
+Tested At: 15 Nov 23 16:14 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -24 day(s)\
 Subject: CN=SHAKEN 0654, O=Com Net Inc, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/e059e18d-d2a8-49a2-922b-41f4fa042798/3892
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

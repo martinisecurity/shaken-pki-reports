@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1555
 
-Tested At: 15 Nov 23 15:52 UTC\
+Tested At: 15 Nov 23 16:12 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -224 day(s)\
 Subject: CN=SHAKEN 1555, O=Hamilton Telecommunications, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/1236e074-20ca-4639-9a13-6f26ef83f424/8869
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

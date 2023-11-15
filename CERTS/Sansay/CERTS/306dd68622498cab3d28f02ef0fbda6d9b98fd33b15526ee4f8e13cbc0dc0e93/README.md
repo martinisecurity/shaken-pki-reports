@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Matrix 7379
 
-Tested At: 15 Nov 23 16:10 UTC\
+Tested At: 15 Nov 23 16:34 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 22 day(s)\
 Subject: CN=SHAKEN Matrix 7379, OU=Operations, O=Matrix, ST=Texas, C=US\
@@ -20,4 +20,4 @@ Link: https://cr.sansay.com/Matrix-7379
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC

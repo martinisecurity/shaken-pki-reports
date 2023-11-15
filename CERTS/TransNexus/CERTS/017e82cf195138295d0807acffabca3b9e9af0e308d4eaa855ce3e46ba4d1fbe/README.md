@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 3800
 
-Tested At: 15 Nov 23 15:54 UTC\
+Tested At: 15 Nov 23 16:13 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -73 day(s)\
 Subject: CN=SHAKEN 3800, O=Teleguam Holdings LLC dba GTA, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/516928e8-c971-4dd3-9678-9425a5759209/59b9
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 16:51 UTC
+Generated: 15 Nov 23 17:17 UTC
