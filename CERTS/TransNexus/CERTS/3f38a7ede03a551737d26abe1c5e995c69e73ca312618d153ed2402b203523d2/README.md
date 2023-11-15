@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 9472
 
-Tested At: 15 Nov 23 16:15 UTC\
+Tested At: 15 Nov 23 18:00 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -23 day(s)\
 Subject: CN=SHAKEN 9472, O=Biddeford Internet Corp. d.b.a GWI, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/ec85b81d-5369-4c31-9f53-c1232eecd826/ae0e
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

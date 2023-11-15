@@ -11,28 +11,28 @@
 
 - 1726 certificates were included in the corpus being tested
 - 16 certificates in the corpus were skipped because they are duplicates
-- 1530 certificates in the corpus were skipped because they are expired
+- 1531 certificates in the corpus were skipped because they are expired
 - 1 certificates in the corpus were skipped because they are not currently trusted
-- 179 certificates being tested against the remaining rules
+- 178 certificates being tested against the remaining rules
 - 4.78 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 100.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 149 days is the average remaining validity for the certificates in the corpus
+- 150 days is the average remaining validity for the certificates in the corpus
 - 150 days is the average initial validity for the certificates in the corpus
-- 116 certificates expire in the next 30 days
-- 1.72 average number of unexpired certificates per OCN observed
+- 115 certificates expire in the next 30 days
+- 1.71 average number of unexpired certificates per OCN observed
 - 104 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
 | 58 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
-| 179 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
-| 179 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 179 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
-| 81 | [w_cp_1_3_subject_email](ISSUES/w_cp_1_3_subject_email/README.md) | US_SHAKEN_CP |
-| 179 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
+| 178 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
+| 178 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
+| 178 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 80 | [w_cp_1_3_subject_email](ISSUES/w_cp_1_3_subject_email/README.md) | US_SHAKEN_CP |
+| 178 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
 
 #### CA Certificates
 
@@ -108,7 +108,6 @@
 | 02&#160;Oct&#160;23&#160;15:22&#160;UTC | SHAKEN TeleVoIPs 138K | 01&#160;Oct&#160;24&#160;15:22&#160;UTC | true | [view](CERTS/8df110d0b382bc6c2ffd95e4adde6fa10f679b4fdb578f0dc8163b7e06be7635/README.md) |
 | 06&#160;Oct&#160;23&#160;13:25&#160;UTC | SHAKEN Kloud 7 LLC 214K | 05&#160;Oct&#160;24&#160;13:25&#160;UTC | true | [view](CERTS/7105ca55bae14fd5fc5952beff1664e0b13f3b560dc07c777a8293f5d06ab752/README.md) |
 | 12&#160;Oct&#160;23&#160;06:00&#160;UTC | SHAKEN Convoso 758J | 16&#160;Nov&#160;23&#160;06:00&#160;UTC | true | [view](CERTS/1e2c69273834c0f2c89ab53270f2692728a0ec56b52879eec4e4e4d411a6c860/README.md) |
-| 16&#160;Oct&#160;23&#160;17:42&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 15&#160;Nov&#160;23&#160;17:42&#160;UTC | true | [view](CERTS/dd189f681a187ab9309915ecc63b97cd5220d09f94634da6938ed1d30d44f33e/README.md) |
 | 16&#160;Oct&#160;23&#160;18:37&#160;UTC | SHAKEN IDT America, Corp 363A | 15&#160;Nov&#160;23&#160;18:37&#160;UTC | true | [view](CERTS/5af747bf0c4e4613c0d22471c51807557493dd3faf6e5d0a8f0c33cdbf309eeb/README.md) |
 | 16&#160;Oct&#160;23&#160;23:33&#160;UTC | SHAKEN IDT America, Corp 363A | 15&#160;Nov&#160;23&#160;23:33&#160;UTC | true | [view](CERTS/7168a6a3f53395bd742f8d1c218d2e6122133369f85e724009d7b70385343286/README.md) |
 | 17&#160;Oct&#160;23&#160;04:26&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 16&#160;Nov&#160;23&#160;04:26&#160;UTC | true | [view](CERTS/4f378df45b88bd0164ea1c5c344c5c1fd6da8762254ef678486708a00bd7d427/README.md) |
@@ -248,4 +247,4 @@
 | 02&#160;Sep&#160;22&#160;20:53&#160;UTC | SHAKEN Sansay Intermediate CA US WEST 1 | 31&#160;Aug&#160;29&#160;20:53&#160;UTC | true | [view](CERTS/4b1dfdba2b1e4bbffbf900a20f1f6f7befbef0008b963e4922a64469cb97d24b/README.md) |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

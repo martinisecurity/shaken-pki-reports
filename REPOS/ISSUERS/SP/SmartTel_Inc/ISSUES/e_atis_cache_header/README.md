@@ -12,4 +12,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://prov.smarttelinc.net/shaken/cert.pem` | 24&#160;May&#160;24&#160;20:39&#160;UTC | true | [view](../../REPOS/f89ef718a494b52903e6ef560ed272ed3b5f9abf/README.md) |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

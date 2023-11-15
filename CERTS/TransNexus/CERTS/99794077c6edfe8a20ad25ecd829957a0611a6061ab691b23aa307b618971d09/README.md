@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 723J
 
-Tested At: 15 Nov 23 16:12 UTC\
+Tested At: 15 Nov 23 17:59 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -169 day(s)\
 Subject: CN=SHAKEN 723J, O=TRACI.net, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/0f1766a8-5beb-4396-9c92-b0ca02bfa565/a1b4
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

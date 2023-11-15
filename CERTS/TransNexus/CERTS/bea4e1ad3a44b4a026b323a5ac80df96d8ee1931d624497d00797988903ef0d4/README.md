@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 606F
 
-Tested At: 15 Nov 23 16:13 UTC\
+Tested At: 15 Nov 23 18:00 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -91 day(s)\
 Subject: CN=SHAKEN 606F, O=Global Data Systems Inc., C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/756cb700-f9d2-4a05-850e-c9dfe3e22de4/6e64
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

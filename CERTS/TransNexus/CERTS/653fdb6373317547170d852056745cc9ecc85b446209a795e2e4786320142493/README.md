@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 012K
 
-Tested At: 15 Nov 23 16:12 UTC\
+Tested At: 15 Nov 23 17:59 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -213 day(s)\
 Subject: CN=SHAKEN 012K, O=CallCurrent\\, Inc., C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/bc54
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

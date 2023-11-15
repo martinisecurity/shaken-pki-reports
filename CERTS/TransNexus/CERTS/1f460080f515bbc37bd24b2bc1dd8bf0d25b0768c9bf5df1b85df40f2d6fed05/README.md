@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 361H
 
-Tested At: 15 Nov 23 16:15 UTC\
+Tested At: 15 Nov 23 18:01 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -64 day(s)\
 Subject: CN=SHAKEN 361H, O=Atlantech Online, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/361H/98b85d5f-40c9-44c0-b96f-9f9b227b0
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

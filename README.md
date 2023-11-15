@@ -12,19 +12,19 @@ This report is broken int two parts:
 
 - 8876 certificates were included in the corpus being tested
 - 734 certificates in the corpus were skipped because they are duplicates
-- 6779 certificates in the corpus were skipped because they are expired
+- 6781 certificates in the corpus were skipped because they are expired
 - 474 certificates in the corpus were skipped because they are not currently trusted
-- 889 certificates being tested against the remaining rules
-- 3.53 issues on average found in unexpired, trusted, and non-compliant certificates
-- 57.14% of certificates contain one or more Error level issue
-- 27.90% of certificates contain one or more Warning level issue
+- 887 certificates being tested against the remaining rules
+- 3.52 issues on average found in unexpired, trusted, and non-compliant certificates
+- 57.05% of certificates contain one or more Error level issue
+- 27.85% of certificates contain one or more Warning level issue
 - 0.56% of certificates contain one or more Notice level issue
-- 6.75% of certificates are too old to be assessed against currently enforced expectations
+- 6.76% of certificates are too old to be assessed against currently enforced expectations
 - 266 days is the average remaining validity for the certificates in the corpus
 - 266 days is the average initial validity for the certificates in the corpus
-- 301 certificates expire in the next 30 days
-- 13.51 average number of unexpired certificates per OCN observed
-- 657 unique OCNs observed in unexpired and valid certificate corpus
+- 300 certificates expire in the next 30 days
+- 13.53 average number of unexpired certificates per OCN observed
+- 656 unique OCNs observed in unexpired and valid certificate corpus
 
 ### CA Certificates
 
@@ -44,8 +44,8 @@ This report is broken int two parts:
 
 ## Certificate Repository URL
 
-- 35.10% of certificate repository URLs contain one or more Error level issue
-- 54.89% of certificates repository URLs contain one or more Warning level issue
+- 35.06% of certificate repository URLs contain one or more Error level issue
+- 54.79% of certificates repository URLs contain one or more Warning level issue
 - 0.00% of certificates repository URLs contain one or more Notice level issue
 
 ## Details
@@ -58,20 +58,20 @@ This report is broken int two parts:
 
 | Issuers | Certificates | Errors | Warnings | Notices | Not Effective |
 |---------|--------------|--------|----------|---------|---------------|
-| [Comcast](CERTS/Comcast/README.md#leaf-certificates) | 18 (2.02%) | 18 (100.00%) | 18 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [GBSDTech](CERTS/GBSDTech/README.md#leaf-certificates) | 3 (0.34%) | 3 (100.00%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Martini Security](CERTS/Martini_Security/README.md#leaf-certificates) | 376 (42.29%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Metaswitch](CERTS/Metaswitch/README.md#leaf-certificates) | 71 (7.99%) | 71 (100.00%) | 1 (1.41%) | 0 (0.00%) | 41 (57.75%) |
+| [Comcast](CERTS/Comcast/README.md#leaf-certificates) | 18 (2.03%) | 18 (100.00%) | 18 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [GBSDTech](CERTS/GBSDTech/README.md#leaf-certificates) | 2 (0.23%) | 2 (100.00%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Martini Security](CERTS/Martini_Security/README.md#leaf-certificates) | 376 (42.39%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Metaswitch](CERTS/Metaswitch/README.md#leaf-certificates) | 71 (8.00%) | 71 (100.00%) | 1 (1.41%) | 0 (0.00%) | 41 (57.75%) |
 | [NetNumber](CERTS/NetNumber/README.md#leaf-certificates) | 5 (0.56%) | 5 (100.00%) | 1 (20.00%) | 5 (100.00%) | 0 (0.00%) |
-| [Neustar](CERTS/Neustar/README.md#leaf-certificates) | 148 (16.65%) | 148 (100.00%) | 22 (14.86%) | 0 (0.00%) | 19 (12.84%) |
+| [Neustar](CERTS/Neustar/README.md#leaf-certificates) | 148 (16.69%) | 148 (100.00%) | 22 (14.86%) | 0 (0.00%) | 19 (12.84%) |
 | [Peeringhub](CERTS/Peeringhub/README.md#leaf-certificates) | 16 (1.80%) | 16 (100.00%) | 1 (6.25%) | 0 (0.00%) | 0 (0.00%) |
-| [Ribbon Communications](CERTS/Ribbon_Communications/README.md#leaf-certificates) | 25 (2.81%) | 25 (100.00%) | 25 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Sansay](CERTS/Sansay/README.md#leaf-certificates) | 179 (20.13%) | 179 (100.00%) | 179 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Ribbon Communications](CERTS/Ribbon_Communications/README.md#leaf-certificates) | 25 (2.82%) | 25 (100.00%) | 25 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Sansay](CERTS/Sansay/README.md#leaf-certificates) | 178 (20.07%) | 178 (100.00%) | 178 (100.00%) | 0 (0.00%) | 0 (0.00%) |
 | [T-Mobile](CERTS/T-Mobile/README.md#leaf-certificates) | 1 (0.11%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) |
 | [Telonium](CERTS/Telonium/README.md#leaf-certificates) | 15 (1.69%) | 15 (100.00%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
 | [Telonium Communications LLC](CERTS/Telonium_Communications_LLC/README.md#leaf-certificates) | 5 (0.56%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
 | [TransNexus](CERTS/TransNexus/README.md#leaf-certificates) | 27 (3.04%) | 27 (100.00%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
-| **Total** | 889 (100.00%) | 508 (57.14%) | 248 (27.90%) | 5 (0.56%) | 60 (6.75%) |
+| **Total** | 887 (100.00%) | 506 (57.05%) | 247 (27.85%) | 5 (0.56%) | 60 (6.76%) |
 
 ### CA Certificates
 
@@ -103,4 +103,4 @@ This report is broken int two parts:
 | Not Effective | Tests that exist in the current specifications but were not in effect at the time of issuance. |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

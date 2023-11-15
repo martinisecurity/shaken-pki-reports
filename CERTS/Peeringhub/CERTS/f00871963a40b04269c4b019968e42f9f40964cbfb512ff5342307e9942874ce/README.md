@@ -2,7 +2,7 @@
 
 ## Certificate Peeringhub Inc SHAKEN Intermediate CA 2
 
-Tested At: 15 Nov 23 17:17 UTC\
+Tested At: 15 Nov 23 18:10 UTC\
 Initial Validity Period: 3650 day(s)\
 Remaining Validity Period: 3140 day(s)\
 Subject: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
@@ -17,4 +17,4 @@ Issuer: CN=Peeringhub Inc Root CA, OU=Certification Authorities, O=Peeringhub In
 | [w_shaken_ca_subject_rdn_unknown](../../ISSUES/w_shaken_ca_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

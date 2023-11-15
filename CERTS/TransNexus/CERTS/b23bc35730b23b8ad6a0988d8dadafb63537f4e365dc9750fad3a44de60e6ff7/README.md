@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 805J
 
-Tested At: 15 Nov 23 16:12 UTC\
+Tested At: 15 Nov 23 17:59 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -225 day(s)\
 Subject: CN=SHAKEN 805J, O=Fastmetrics, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/47fb6c89-4f44-4e6f-93a0-7aaff0469420/fcd0
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

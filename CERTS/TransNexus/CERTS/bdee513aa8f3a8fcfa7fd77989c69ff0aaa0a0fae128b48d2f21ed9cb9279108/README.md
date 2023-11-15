@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 849J
 
-Tested At: 15 Nov 23 16:13 UTC\
+Tested At: 15 Nov 23 18:00 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -122 day(s)\
 Subject: CN=SHAKEN 849J, O=Fuse.Cloud, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/86e241b8-9c8e-4431-b35f-4d92844a1da9/2dde
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

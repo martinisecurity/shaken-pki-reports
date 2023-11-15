@@ -2,7 +2,7 @@
 
 ## Certificate DIDCentral SHAKEN 756J
 
-Tested At: 15 Nov 23 16:38 UTC\
+Tested At: 15 Nov 23 18:05 UTC\
 Initial Validity Period: 27 day(s)\
 Remaining Validity Period: -17 day(s)\
 Subject: CN=DIDCentral SHAKEN 756J, O=DIDCentral LLC, ST=WY, C=US\
@@ -13,9 +13,9 @@ Link: https://ssc.getsipnav.com/certs/95cd59db1c44d86162cc81e23d22a884db252689
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

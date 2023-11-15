@@ -2,7 +2,7 @@
 
 ## Certificate intrado.com
 
-Tested At: 15 Nov 23 16:33 UTC\
+Tested At: 15 Nov 23 18:02 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: -60 day(s)\
 Subject: C=US, ST=NE, L=Omaha, O=Intrado Corporation, OU=Intrado Communications, CN=intrado.com\
@@ -37,4 +37,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11125.10033
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 545B
 
-Tested At: 15 Nov 23 16:16 UTC\
+Tested At: 15 Nov 23 18:01 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 319 day(s)\
+Remaining Validity Period: 318 day(s)\
 Subject: CN=SHAKEN 545B, O=Citynet LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/182.252
@@ -16,4 +16,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/182.252
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 389J
 
-Tested At: 15 Nov 23 17:14 UTC\
+Tested At: 15 Nov 23 18:07 UTC\
 Initial Validity Period: 398 day(s)\
 Remaining Validity Period: 162 day(s)\
 Subject: CN=SHAKEN 389J, O=Cloudli Communications, C=CA\
@@ -13,8 +13,8 @@ Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/7bdca6d62828d732c42a36
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

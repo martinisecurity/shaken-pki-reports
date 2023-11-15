@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 700H
 
-Tested At: 15 Nov 23 16:12 UTC\
+Tested At: 15 Nov 23 17:59 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -374 day(s)\
 Subject: CN=SHAKEN 700H, OU=SHAKEN, O=Metro Fibernet LLC, C=US\
@@ -17,4 +17,4 @@ Link: https://certificates.clearip.com/22b6cee0-8559-4c73-8092-6eee861c4b49/ae1f
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

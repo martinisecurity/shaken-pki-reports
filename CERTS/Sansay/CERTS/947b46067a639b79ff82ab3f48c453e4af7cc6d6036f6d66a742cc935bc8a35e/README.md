@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Swift Telco LLC 452K
 
-Tested At: 15 Nov 23 16:09 UTC\
+Tested At: 15 Nov 23 17:58 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 141 day(s)\
 Subject: CN=SHAKEN Swift Telco LLC 452K, OU=ST124new, O=Swift Telco LLC, ST=South Carolina, C=US\
@@ -19,4 +19,4 @@ Link: https://cdn.cnxcdn.com/shaken/62.crt
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

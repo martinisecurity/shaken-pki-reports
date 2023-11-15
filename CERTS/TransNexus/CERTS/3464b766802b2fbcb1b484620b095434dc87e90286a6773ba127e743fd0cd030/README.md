@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 738J
 
-Tested At: 15 Nov 23 16:16 UTC\
+Tested At: 15 Nov 23 18:01 UTC\
 Initial Validity Period: 9 day(s)\
 Remaining Validity Period: -83 day(s)\
 Subject: CN=SHAKEN 738J, O=SkySwitch, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/738J/50054f98-5f6d-40c4-99b3-f230bf14f
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

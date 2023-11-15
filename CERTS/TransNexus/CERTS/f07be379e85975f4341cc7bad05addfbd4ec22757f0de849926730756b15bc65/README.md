@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 177K
 
-Tested At: 15 Nov 23 16:13 UTC\
+Tested At: 15 Nov 23 18:00 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -24 day(s)\
 Subject: CN=SHAKEN 177K, O=Cytracom\\, LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/8d118994-4994-4735-ac71-42c0bbb7848f/23da
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

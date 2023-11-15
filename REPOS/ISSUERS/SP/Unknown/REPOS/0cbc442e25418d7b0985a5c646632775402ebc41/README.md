@@ -3,13 +3,13 @@
 ## Unknown
 
 Name: `http://stirshaken.ellianz.com/sp1-cert.pem`\
-Tested At: 15 Nov 23 16:07 UTC\
-Time: 30029ms
+Tested At: 15 Nov 23 17:58 UTC\
+Time: 3002ms
 
 ### Issues
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "http://stirshaken.ellianz.com/sp1-cert.pem": dial tcp 88.99.252.103:80: i/o timeout |
+| [e_request_timeout](../../ISSUES/e_request_timeout/README.md) | error | System | Request timed out (3s) |
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 366G
 
-Tested At: 15 Nov 23 16:13 UTC\
+Tested At: 15 Nov 23 17:59 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -296 day(s)\
 Subject: CN=SHAKEN 366G, O=USA Digital, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/5a565c0f-433a-4bce-b57c-868e3e7b3002/a17b
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

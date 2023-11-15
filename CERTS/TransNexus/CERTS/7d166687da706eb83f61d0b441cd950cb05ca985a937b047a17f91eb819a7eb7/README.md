@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 182K
 
-Tested At: 15 Nov 23 16:13 UTC\
+Tested At: 15 Nov 23 17:59 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -70 day(s)\
 Subject: CN=SHAKEN 182K, O=IP Consulting\\, Inc., C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/63d9d67d-6470-433a-b890-1c1901beaa76/c016
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

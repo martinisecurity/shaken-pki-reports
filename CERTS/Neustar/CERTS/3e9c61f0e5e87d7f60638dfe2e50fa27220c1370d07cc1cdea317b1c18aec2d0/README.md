@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 525K
 
-Tested At: 15 Nov 23 16:38 UTC\
+Tested At: 15 Nov 23 18:05 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 151 day(s)\
 Subject: CN=SHAKEN 525K, O=AU TELECOM LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/43da6cc2f2e844f73c7ff763c81b6bbdf60a0912
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

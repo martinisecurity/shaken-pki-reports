@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 291K
 
-Tested At: 15 Nov 23 16:14 UTC\
+Tested At: 15 Nov 23 18:00 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -14 day(s)\
 Subject: CN=SHAKEN 291K, O=Hypercore Networks\\, Inc, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/b66a7496-cdd4-46e3-b219-cb0ecdc80d22/4b69
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 176K
 
-Tested At: 15 Nov 23 16:11 UTC\
+Tested At: 15 Nov 23 17:59 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -101 day(s)\
 Subject: CN=SHAKEN 176K, O=Brick Technology Group\\, LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/03160fea-585d-4d87-8821-9c8d26d40005/7189
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

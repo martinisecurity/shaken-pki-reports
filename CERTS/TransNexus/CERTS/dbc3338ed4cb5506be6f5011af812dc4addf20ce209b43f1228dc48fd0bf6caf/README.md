@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 790J
 
-Tested At: 15 Nov 23 16:14 UTC\
+Tested At: 15 Nov 23 18:00 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -80 day(s)\
 Subject: CN=SHAKEN 790J, O=Viirtue, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/a429df3a-62d2-4851-90c8-fc446859fb08/6119
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1772
 
-Tested At: 15 Nov 23 16:12 UTC\
+Tested At: 15 Nov 23 17:59 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -80 day(s)\
 Subject: CN=SHAKEN 1772, O=RINA Wireless, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/1fa8e9a2-9040-49b3-b26e-02625ac785b8/4179
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

@@ -9,9 +9,9 @@
 
 #### Leaf Certificates
 
-- 4922 certificates were included in the corpus being tested
+- 4923 certificates were included in the corpus being tested
 - 3 certificates in the corpus were skipped because they are duplicates
-- 4434 certificates in the corpus were skipped because they are expired
+- 4435 certificates in the corpus were skipped because they are expired
 - 458 certificates in the corpus were skipped because they are not currently trusted
 - 27 certificates being tested against the remaining rules
 - 1.00 issues on average found in unexpired, trusted, and non-compliant certificates
@@ -89,4 +89,4 @@ No error, warning, or notice level issues were found
 | 24&#160;Oct&#160;22&#160;00:00&#160;UTC | TransNexus, Inc. SHAKEN Root CA2 | 23&#160;Oct&#160;42&#160;23:59&#160;UTC | false | [view](CERTS/a26e04fc786ab70b8085236b2c53f8cfbf5d0c6a5c2c9c3e9f91669fbb8ea4d5/README.md) |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

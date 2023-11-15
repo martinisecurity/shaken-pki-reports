@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 721K
 
-Tested At: 15 Nov 23 16:38 UTC\
+Tested At: 15 Nov 23 18:05 UTC\
 Initial Validity Period: 367 day(s)\
 Remaining Validity Period: 299 day(s)\
 Subject: serialNumber=1D6AE2B1-BFD7-4560-9EFE-9ACFC46295B7, CN=SHAKEN 721K, O=KonnectTel LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://sadmin.konnecttel.com/KonnectTel.pem
 149 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

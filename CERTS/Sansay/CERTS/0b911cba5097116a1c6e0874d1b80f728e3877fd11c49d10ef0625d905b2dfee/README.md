@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Cyberlynk Network, LLC 086K
 
-Tested At: 15 Nov 23 16:34 UTC\
+Tested At: 15 Nov 23 18:03 UTC\
 Initial Validity Period: 60 day(s)\
 Remaining Validity Period: -165 day(s)\
 Subject: CN=SHAKEN Cyberlynk Network\\, LLC 086K, OU=NOC, O=Cyberlynk Network\\, LLC, ST=Wisconsin, C=US\
@@ -19,4 +19,4 @@ Link: https://cr.sansay.com/086K/order/210_086K_91
 | [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 086K' |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

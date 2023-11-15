@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Global Net Holdings Inc 306K
 
-Tested At: 15 Nov 23 16:34 UTC\
+Tested At: 15 Nov 23 18:03 UTC\
 Initial Validity Period: 300 day(s)\
 Remaining Validity Period: 68 day(s)\
 Subject: CN=SHAKEN Global Net Holdings Inc 306K, OU=oks, O=Global Net Holdings Inc, ST=Pennsylvania, C=US\
@@ -15,8 +15,8 @@ Link: https://cr.sansay.com/Global_Net_306k
 |------|------|--------|---------|
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 | [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 306K' |
+| [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

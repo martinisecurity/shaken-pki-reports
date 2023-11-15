@@ -19,4 +19,4 @@ No error, warning, or notice level issues were found
 | error | Metaswitch STI-CA SHAKEN Issuing 1 | [view](../../CERTS/8a7fb50e95b8c43a63d19e2f279de565fa611ae3f24a14f82394e3208782be7a/README.md) | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 495K
 
-Tested At: 15 Nov 23 16:14 UTC\
+Tested At: 15 Nov 23 18:00 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -85 day(s)\
 Subject: CN=SHAKEN 495K, O=HelloSpoke, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/ae397985-0ec2-4bcf-b83f-d4a0ed9351d9/393f
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

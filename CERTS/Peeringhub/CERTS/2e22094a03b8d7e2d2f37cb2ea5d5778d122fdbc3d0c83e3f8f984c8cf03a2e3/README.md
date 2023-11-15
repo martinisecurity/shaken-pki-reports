@@ -2,7 +2,7 @@
 
 ## Certificate Televoip SHAKEN 438K
 
-Tested At: 15 Nov 23 16:38 UTC\
+Tested At: 15 Nov 23 18:05 UTC\
 Initial Validity Period: 361 day(s)\
 Remaining Validity Period: -4 day(s)\
 Subject: CN=Televoip SHAKEN 438K, O=Televoip, L=Wilmington, ST=DE, C=US\
@@ -18,4 +18,4 @@ Link: https://ssc.getsipnav.com/certs/525bf6e144190a8232ed2c15770df226099ff1ff
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 159H
 
-Tested At: 15 Nov 23 16:15 UTC\
+Tested At: 15 Nov 23 18:01 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -369 day(s)\
 Subject: CN=SHAKEN 159H, OU=SHAKEN, O=Edge Communications, C=US\
@@ -17,4 +17,4 @@ Link: https://certificates.transnexus.com/159H/6e007fb6-394c-467e-817f-16e042273
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

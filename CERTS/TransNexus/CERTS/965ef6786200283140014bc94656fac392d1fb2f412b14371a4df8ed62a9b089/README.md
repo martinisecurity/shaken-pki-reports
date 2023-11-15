@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 089K
 
-Tested At: 15 Nov 23 16:13 UTC\
+Tested At: 15 Nov 23 17:59 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -122 day(s)\
 Subject: CN=SHAKEN 089K, O=Logista Solutions, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/5f7c135d-caf3-4661-abb1-d1720e7872e2/440f
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

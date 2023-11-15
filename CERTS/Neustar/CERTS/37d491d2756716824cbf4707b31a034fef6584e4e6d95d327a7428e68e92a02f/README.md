@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 049K
 
-Tested At: 15 Nov 23 16:36 UTC\
+Tested At: 15 Nov 23 18:04 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -138 day(s)\
 Subject: CN=SHAKEN 049K, O=Dialpad Inc., C=US\
@@ -14,8 +14,8 @@ Link: https://fstelephony.appspot.com/static/cert/shaken_identity_2022_3.cer
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
+| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

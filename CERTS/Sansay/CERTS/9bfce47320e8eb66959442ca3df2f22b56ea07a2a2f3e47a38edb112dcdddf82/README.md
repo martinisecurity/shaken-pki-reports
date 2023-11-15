@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J
 
-Tested At: 15 Nov 23 16:34 UTC\
+Tested At: 15 Nov 23 18:03 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -171 day(s)\
 Subject: emailAddress=voiceops@clearfly.net, CN=SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J, OU=NOC, O=Greenfly Networks Inc dba Clearfly Communications, ST=Montana, C=US, emailAddress=voiceops@clearfly.net\
@@ -20,4 +20,4 @@ Link: https://cr.sansay.com/210J/order/398_210J_63
 | [w_cp_1_3_subject_email](../../ISSUES/w_cp_1_3_subject_email/README.md) | warn | US_SHAKEN_CP | Email addresses are not allowed as the CP does not specify how to validate them |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

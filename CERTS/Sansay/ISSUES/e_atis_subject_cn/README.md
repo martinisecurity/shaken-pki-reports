@@ -26,7 +26,6 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 | error | SHAKEN NTC International, INC 016K | [view](../../CERTS/f49c4b72f138aa526c175cae6c715031679ad0f7fac0c2fbe5fbb7ec9ed594f8/README.md) | Common name shall contain the text string 'SHAKEN 016K' |
 | error | SHAKEN NTC International, INC 016K | [view](../../CERTS/d4156f86d1b8f160b903ca0deb73475638ff8a103997aeb17493ca9e2a480c50/README.md) | Common name shall contain the text string 'SHAKEN 016K' |
 | error | SHAKEN NTC International, INC 016K | [view](../../CERTS/9066994ddb110cd743fe907d2a63137a736c01c974054d278e26943470c19980/README.md) | Common name shall contain the text string 'SHAKEN 016K' |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/dd189f681a187ab9309915ecc63b97cd5220d09f94634da6938ed1d30d44f33e/README.md) | Common name shall contain the text string 'SHAKEN 210J' |
 | error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/84925245c1f4edf20363bf90e70f169dbdb1e2f539d16c653fe1973f6ed933ea/README.md) | Common name shall contain the text string 'SHAKEN 210J' |
 | error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/1a9695e58ffda92d7d316e114be3d7cc5772f05b845948c21ab35517b1647cf4/README.md) | Common name shall contain the text string 'SHAKEN 210J' |
 | error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/09a6d640c5591ad7c3240d9c43756aa08949bc97a72d63d4ed43fc313b9f22c2/README.md) | Common name shall contain the text string 'SHAKEN 210J' |
@@ -197,4 +196,4 @@ Description: The Common Name attribute of an End-Entity certificate shall contai
 No error, warning, or notice level issues were found
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

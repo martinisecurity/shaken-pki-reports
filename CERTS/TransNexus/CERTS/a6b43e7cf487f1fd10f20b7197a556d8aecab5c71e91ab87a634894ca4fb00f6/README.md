@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 031K
 
-Tested At: 15 Nov 23 16:15 UTC\
+Tested At: 15 Nov 23 18:01 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -370 day(s)\
 Subject: CN=SHAKEN 031K, OU=SHAKEN, O=TISD, C=US\
@@ -18,4 +18,4 @@ Link: https://certificates.transnexus.com/031K/ba0288df-daa5-44b5-a1a3-327014012
 | [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

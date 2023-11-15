@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 726J
 
-Tested At: 15 Nov 23 16:13 UTC\
+Tested At: 15 Nov 23 18:00 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -335 day(s)\
 Subject: CN=SHAKEN 726J, O=Votacall Inc, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/88dbb645-62bf-4d40-960c-4e8e3223880f/0cbb
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

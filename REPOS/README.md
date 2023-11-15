@@ -8,10 +8,10 @@
 - 734 repository URLs in the corpus were skipped because they were duplicated
 - 8752 repository URLs being tested against the remaining rules
 - 1.78 issues on average found in non-compliant certificate repository URLs
-- 12.33% of repository URLs contain one or more Error level issue
-- 31.14% of repository URLs contain one or more Warning level issue
+- 12.32% of repository URLs contain one or more Error level issue
+- 31.12% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 205ms average time it took to download each certificate
+- 58ms average time it took to download each certificate
 
 ### CA Operated Repository URLs
 
@@ -22,18 +22,18 @@
 - 9.12% of repository URLs contain one or more Error level issue
 - 28.70% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 175ms average time it took to download each certificate
+- 50ms average time it took to download each certificate
 
 ### Service Provider Operated Repository URLs
 
 - 468 repository URLs were included in the corpus being tested
 - 117 repository URLs in the corpus were skipped because they were duplicated
 - 351 repository URLs being tested against the remaining rules
-- 2.31 issues on average found in non-compliant certificate repository URLs
-- 89.17% of repository URLs contain one or more Error level issue
-- 89.46% of repository URLs contain one or more Warning level issue
+- 2.30 issues on average found in non-compliant certificate repository URLs
+- 88.89% of repository URLs contain one or more Error level issue
+- 89.17% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 924ms average time it took to download each certificate
+- 239ms average time it took to download each certificate
 
 ## Details
 
@@ -61,7 +61,7 @@
 | [AM Communication Labs Inc](ISSUERS/SP/AM_Communication_Labs_Inc/README.md) | 1 (0.28%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [AM Communications Labs Inc](ISSUERS/SP/AM_Communications_Labs_Inc/README.md) | 1 (0.28%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [ANI Networks](ISSUERS/SP/ANI_Networks/README.md) | 2 (0.57%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
-| [ATT](ISSUERS/SP/ATT/README.md) | 1 (0.28%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
+| [ATT](ISSUERS/SP/ATT/README.md) | 2 (0.57%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
 | [ATT SHAKEN E-E](ISSUERS/SP/ATT_SHAKEN_E-E/README.md) | 1 (0.28%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [AU TELECOM LLC](ISSUERS/SP/AU_TELECOM_LLC/README.md) | 1 (0.28%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Accessline Communications Corp](ISSUERS/SP/Accessline_Communications_Corp/README.md) | 1 (0.28%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -145,7 +145,6 @@
 | [Fidelity Communications](ISSUERS/SP/Fidelity_Communications/README.md) | 2 (0.57%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
 | [Five9 Inc](ISSUERS/SP/Five9_Inc/README.md) | 1 (0.28%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Foothills Rural Tel](ISSUERS/SP/Foothills_Rural_Tel/README.md) | 1 (0.28%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [FracTEL LLC](ISSUERS/SP/FracTEL_LLC/README.md) | 1 (0.28%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Freevoice](ISSUERS/SP/Freevoice/README.md) | 2 (0.57%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
 | [GCI](ISSUERS/SP/GCI/README.md) | 1 (0.28%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [GIP Technology](ISSUERS/SP/GIP_Technology/README.md) | 1 (0.28%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -238,7 +237,7 @@
 | [Unified Office Inc](ISSUERS/SP/Unified_Office_Inc/README.md) | 1 (0.28%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Union Telephone Company](ISSUERS/SP/Union_Telephone_Company/README.md) | 1 (0.28%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [United Technology Group, Inc](ISSUERS/SP/United_Technology_Group__Inc/README.md) | 1 (0.28%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Unknown](ISSUERS/SP/Unknown/README.md) | 72 (20.51%) | 72 (100.00%) | 59 (81.94%) | 0 (0.00%) |
+| [Unknown](ISSUERS/SP/Unknown/README.md) | 72 (20.51%) | 71 (98.61%) | 58 (80.56%) | 0 (0.00%) |
 | [Utility Telecom Group, LLC](ISSUERS/SP/Utility_Telecom_Group__LLC/README.md) | 1 (0.28%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [VOIP ESSENTIAL INC](ISSUERS/SP/VOIP_ESSENTIAL_INC/README.md) | 0 (0.00%) | 0 (NaN%) | 0 (NaN%) | 0 (NaN%) |
 | [VOIP ESSENTIAL LLC](ISSUERS/SP/VOIP_ESSENTIAL_LLC/README.md) | 1 (0.28%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -266,7 +265,7 @@
 | [Zultys Inc](ISSUERS/SP/Zultys_Inc/README.md) | 2 (0.57%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
 | [commio](ISSUERS/SP/commio/README.md) | 1 (0.28%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [kmsUScertco](ISSUERS/SP/kmsUScertco/README.md) | 1 (0.28%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| **Total** | 351 (100.00%) | 313 (89.17%) | 314 (89.46%) | 0 (0.00%) |
+| **Total** | 351 (100.00%) | 312 (88.89%) | 313 (89.17%) | 0 (0.00%) |
 
 ### Key
 
@@ -277,4 +276,4 @@
 | Notices | Tests in which industry best practices are not followed. |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

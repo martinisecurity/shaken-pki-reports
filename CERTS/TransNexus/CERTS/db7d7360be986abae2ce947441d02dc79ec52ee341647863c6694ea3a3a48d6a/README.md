@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 087K
 
-Tested At: 15 Nov 23 16:12 UTC\
+Tested At: 15 Nov 23 17:59 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -195 day(s)\
 Subject: CN=SHAKEN 087K, O=MDU1, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/45223e0e-5392-4967-819f-8f5ee948cce9/6da5
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

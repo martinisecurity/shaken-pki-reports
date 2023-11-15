@@ -2,7 +2,7 @@
 
 ## Certificate Losh Communications, Inc SHAKEN 149K 2023-11-15_000001
 
-Tested At: 15 Nov 23 16:36 UTC\
+Tested At: 15 Nov 23 18:04 UTC\
 Initial Validity Period: 284 day(s)\
 Remaining Validity Period: 284 day(s)\
 Subject: CN=Losh Communications\\, Inc SHAKEN 149K 2023-11-15_000001, O=Losh Communications\\, Inc, L=Springfield, ST=MO, C=US\
@@ -13,9 +13,9 @@ Link: https://nyc01.trunks2.calldecibel.com:5000/stirshaken_certs/149K.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 0860
 
-Tested At: 15 Nov 23 16:14 UTC\
+Tested At: 15 Nov 23 18:00 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -94 day(s)\
 Subject: CN=SHAKEN 0860, O=Norvado, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/9e58aca8-8c02-4026-ab15-4e56103c3d68/0df5
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

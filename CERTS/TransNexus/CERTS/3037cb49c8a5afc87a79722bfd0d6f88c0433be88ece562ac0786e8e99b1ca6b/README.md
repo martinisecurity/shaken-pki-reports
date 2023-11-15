@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 594J
 
-Tested At: 15 Nov 23 16:12 UTC\
+Tested At: 15 Nov 23 17:59 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -8 day(s)\
 Subject: CN=SHAKEN 594J, O=Carolina Digital, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/14652271-f2ba-4197-87c0-704f8c618e4b/bf55
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

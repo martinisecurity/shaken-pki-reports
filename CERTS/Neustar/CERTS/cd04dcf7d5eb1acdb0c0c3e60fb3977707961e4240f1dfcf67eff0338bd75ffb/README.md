@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 962J
 
-Tested At: 15 Nov 23 16:09 UTC\
+Tested At: 15 Nov 23 17:58 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -124 day(s)\
+Remaining Validity Period: -125 day(s)\
 Subject: CN=SHAKEN 962J, O=Versatel LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cert.46labs.com/cert.pem
@@ -13,9 +13,9 @@ Link: https://cert.46labs.com/cert.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

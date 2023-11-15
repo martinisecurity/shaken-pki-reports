@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 497K
 
-Tested At: 15 Nov 23 16:12 UTC\
+Tested At: 15 Nov 23 17:59 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -25 day(s)\
 Subject: CN=SHAKEN 497K, O=Allegiant, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/3f331bc8-22e6-4a32-8b59-58d7c03763a3/1a79
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

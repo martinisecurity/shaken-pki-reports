@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 725J
 
-Tested At: 15 Nov 23 16:15 UTC\
+Tested At: 15 Nov 23 18:00 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -83 day(s)\
 Subject: CN=SHAKEN 725J, O=Advantage Telecom, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/f5e87528-0457-4329-89e6-40751b5b1a0c/2f58
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate Perfect Network LLC SHAKEN 458K 01
 
-Tested At: 15 Nov 23 16:15 UTC\
+Tested At: 15 Nov 23 18:01 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 262 day(s)\
 Subject: CN=Perfect Network LLC SHAKEN 458K 01, O=Perfect Network LLC, L=Dover, ST=DE, C=US\
@@ -18,4 +18,4 @@ Link: https://certificates.peeringhub.io/458K/458K.crt
 | [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

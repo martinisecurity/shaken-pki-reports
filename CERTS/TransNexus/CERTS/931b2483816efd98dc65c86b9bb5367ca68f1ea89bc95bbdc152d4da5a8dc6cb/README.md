@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 208K
 
-Tested At: 15 Nov 23 16:11 UTC\
+Tested At: 15 Nov 23 17:59 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -20 day(s)\
 Subject: CN=SHAKEN 208K, O=Vested Networks, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/000b56ea-b4c8-46f2-89e0-ac03650b1b97/c60a
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

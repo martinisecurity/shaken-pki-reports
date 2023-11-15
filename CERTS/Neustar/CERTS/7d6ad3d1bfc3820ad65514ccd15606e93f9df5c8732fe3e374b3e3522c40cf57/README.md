@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 704J
 
-Tested At: 15 Nov 23 17:15 UTC\
+Tested At: 15 Nov 23 18:09 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -168 day(s)\
 Subject: CN=SHAKEN 704J, O=Clearly IP, C=US\
@@ -18,4 +18,4 @@ Link: https://stir.tel/c/704J_alt
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

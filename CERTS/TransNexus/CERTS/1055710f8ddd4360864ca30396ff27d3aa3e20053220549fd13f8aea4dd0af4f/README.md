@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 833J
 
-Tested At: 15 Nov 23 16:14 UTC\
+Tested At: 15 Nov 23 18:00 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -6 day(s)\
+Remaining Validity Period: -7 day(s)\
 Subject: CN=SHAKEN 833J, O=PressONE, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/b6b24cc6-4f92-4a6b-a293-f52579c0d95a/ba2c4834fd796910d6249c8302b16b5b.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/b6b24cc6-4f92-4a6b-a293-f52579c0d95a/ba2c
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN BareTelecom 864J
 
-Tested At: 15 Nov 23 16:34 UTC\
+Tested At: 15 Nov 23 18:03 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -60 day(s)\
 Subject: emailAddress=chris@baretelecom.com, CN=SHAKEN BareTelecom 864J, OU=Operations, O=BareTelecom, ST=California, C=US, emailAddress=chris@baretelecom.com\
@@ -20,4 +20,4 @@ Link: https://cr.sansay.com/864J/order/150_864J_159
 | [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 864J' |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

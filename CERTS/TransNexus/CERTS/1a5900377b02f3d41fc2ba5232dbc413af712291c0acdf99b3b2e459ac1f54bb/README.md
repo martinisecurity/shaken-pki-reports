@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 946H
 
-Tested At: 15 Nov 23 16:14 UTC\
+Tested At: 15 Nov 23 18:00 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -200 day(s)\
 Subject: CN=SHAKEN 946H, O=BROADBAND OFFICE SOLUTIONS, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/d2789b6d-14b9-40f7-8d4e-39896547bfbf/64c8
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

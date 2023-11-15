@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 084E
 
-Tested At: 15 Nov 23 16:16 UTC\
+Tested At: 15 Nov 23 18:01 UTC\
 Initial Validity Period: 353 day(s)\
 Remaining Validity Period: 226 day(s)\
 Subject: serialNumber=517b758b-3dd0-458d-85b5-6bc2abe1ca18, CN=SHAKEN 084E, O=ChoiceTEL, C=US\
@@ -13,8 +13,8 @@ Link: https://choicetel.net/084E.crt
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_issuer_dn](../../ISSUES/e_atis_issuer_dn/README.md) | error | ATIS1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 | [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
+| [e_atis_issuer_dn](../../ISSUES/e_atis_issuer_dn/README.md) | error | ATIS1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN PNCB
 
-Tested At: 15 Nov 23 16:34 UTC\
+Tested At: 15 Nov 23 18:02 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 212 day(s)\
 Subject: CN=SHAKEN PNCB, O=PNC Bank, C=US\
@@ -13,8 +13,8 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11617.10249.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 | [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
+| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

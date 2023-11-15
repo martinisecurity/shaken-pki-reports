@@ -2,7 +2,7 @@
 
 ## Certificate Elmiris LLC SHAKEN 589K
 
-Tested At: 15 Nov 23 16:15 UTC\
+Tested At: 15 Nov 23 18:01 UTC\
 Initial Validity Period: 38 day(s)\
 Remaining Validity Period: -96 day(s)\
 Subject: CN=Elmiris LLC SHAKEN 589K, O=elmiris llc, L=Phoenix, ST=AZ, C=US\
@@ -18,4 +18,4 @@ Link: https://certificates.peeringhub.io/589K/589K.crt
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

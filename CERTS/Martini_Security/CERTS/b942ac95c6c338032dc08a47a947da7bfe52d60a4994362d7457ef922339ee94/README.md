@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 039K
 
-Tested At: 15 Nov 23 17:16 UTC\
+Tested At: 15 Nov 23 18:10 UTC\
 Initial Validity Period: 14 day(s)\
 Remaining Validity Period: -13 day(s)\
 Subject: O=Bluebird Wireless Broadband Services\\, LLC., C=US, serialNumber=CF80DA2725E2E5586B12969EF8133AA1, CN=SHAKEN 039K\
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/QXf5RGHZBBpV.pem
 149 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

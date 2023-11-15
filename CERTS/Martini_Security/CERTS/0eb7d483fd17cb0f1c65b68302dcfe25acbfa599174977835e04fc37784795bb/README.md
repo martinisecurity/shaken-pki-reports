@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 473K
 
-Tested At: 15 Nov 23 16:38 UTC\
+Tested At: 15 Nov 23 18:05 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 108 day(s)\
 Subject: O=United Technology Group\\, Inc, C=US, serialNumber=C3A9009283DADEFAAEACBAECDD2A74BC, CN=SHAKEN 473K\
@@ -14,4 +14,4 @@ Link: https://r.stir.tel/473K/240302151748Z/cert.pem
 149 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

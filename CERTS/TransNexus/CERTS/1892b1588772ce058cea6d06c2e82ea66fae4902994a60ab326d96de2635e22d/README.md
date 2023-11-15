@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 6628
 
-Tested At: 15 Nov 23 16:16 UTC\
+Tested At: 15 Nov 23 18:01 UTC\
 Initial Validity Period: 180 day(s)\
 Remaining Validity Period: 18 day(s)\
 Subject: CN=SHAKEN 6628, O=Merryville Investments LTD Inc dba ClarityTel, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/6628/eae56241-c0c5-41a2-ae95-5e28cd46d
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1917
 
-Tested At: 15 Nov 23 16:12 UTC\
+Tested At: 15 Nov 23 17:59 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -31 day(s)\
 Subject: CN=SHAKEN 1917, O=Andrew Ward Consulting LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/450ef25e-eefe-418d-84fb-35222046f1cd/de38
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate Jaintel SHAKEN 586K
 
-Tested At: 15 Nov 23 16:36 UTC\
+Tested At: 15 Nov 23 18:04 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 302 day(s)\
 Subject: CN=Jaintel SHAKEN 586K, O=Jaintel LLC, L=Wilmington, ST=DE, C=US\
@@ -18,4 +18,4 @@ Link: https://jaintel.46labs.com
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

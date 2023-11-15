@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 130B
 
-Tested At: 15 Nov 23 16:13 UTC\
+Tested At: 15 Nov 23 17:59 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -248 day(s)\
 Subject: CN=SHAKEN 130B, O=Global Telecom, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/4efae05c-c8cd-405b-ae97-c62a52afd074/ca17
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC

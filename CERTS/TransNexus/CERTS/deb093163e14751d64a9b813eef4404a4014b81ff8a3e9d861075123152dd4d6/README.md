@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 0413
 
-Tested At: 15 Nov 23 16:13 UTC\
+Tested At: 15 Nov 23 18:00 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -33 day(s)\
 Subject: CN=SHAKEN 0413, O=LTC Connect, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/8ce491b1-fe41-4316-b217-a55ef4efe9d8/286f
 | [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
 
 
-Generated: 15 Nov 23 17:17 UTC
+Generated: 15 Nov 23 18:10 UTC
