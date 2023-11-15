@@ -513,6 +513,9 @@ func (t *RepositoryIssuerReport) Append(v *LintCommandItem) bool {
 				p := t.Problems[c]
 				if p == nil {
 					l := uLint.FindRuleByName(c)
+					if l == nil {
+						panic(fmt.Sprintf("rule %s not found", c))
+					}
 					p = &Problem{
 						Name:   c,
 						Source: string(l.Source),
