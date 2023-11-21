@@ -284,6 +284,10 @@ func RunLintCommand(args *LintCommandArgs) error {
 
 	// run tests for ICAs
 	for _, c := range icaPool.Certificates() {
+		// skip revoked certificates
+		if status, _ := CheckCertRevocation(c); status == RevocationStatusRevoked {
+			continue
+		}
 		cr, _ := LintCertificate(c)
 		if cr != nil {
 			// test the ICA certificate
