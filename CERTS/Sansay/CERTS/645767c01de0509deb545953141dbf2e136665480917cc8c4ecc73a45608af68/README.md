@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Go Voip Dialing LLC 704K
 
-Tested At: 21 Nov 23 01:47 UTC\
+Tested At: 21 Nov 23 17:06 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 289 day(s)\
+Remaining Validity Period: 288 day(s)\
 Subject: CN=SHAKEN Go Voip Dialing LLC 704K, OU=main, O=Go Voip Dialing LLC, ST=California, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/govoipdialing_704365
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/govoipdialing_704365
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 704K' |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

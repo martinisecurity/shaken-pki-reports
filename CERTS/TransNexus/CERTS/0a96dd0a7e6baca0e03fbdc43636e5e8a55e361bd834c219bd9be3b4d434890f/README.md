@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 538K
 
-Tested At: 21 Nov 23 01:26 UTC\
+Tested At: 21 Nov 23 16:44 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -7 day(s)\
 Subject: CN=SHAKEN 538K, O=Bespoke Communications\\, LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/75efec9a-2f90-4c9f-a1dc-edbbb8c364b7/8a4c
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

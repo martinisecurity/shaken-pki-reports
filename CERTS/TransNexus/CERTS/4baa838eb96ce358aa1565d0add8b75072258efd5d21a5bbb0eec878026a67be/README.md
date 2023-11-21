@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 597J
 
-Tested At: 21 Nov 23 01:30 UTC\
+Tested At: 21 Nov 23 16:46 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -163 day(s)\
+Remaining Validity Period: -164 day(s)\
 Subject: CN=SHAKEN 597J, OU=SHAKEN, O=Voxtelesys, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/597J/6572b8e4-01de-48c3-9b11-d21cd134c569.pem
@@ -25,4 +25,4 @@ Link: https://certificates.transnexus.com/597J/6572b8e4-01de-48c3-9b11-d21cd134c
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

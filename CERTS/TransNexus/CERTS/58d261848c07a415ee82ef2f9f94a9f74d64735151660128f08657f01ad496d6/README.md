@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 283K
 
-Tested At: 21 Nov 23 01:22 UTC\
+Tested At: 21 Nov 23 16:42 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -286 day(s)\
 Subject: CN=SHAKEN 283K, O=CCI Voice, C=US\
@@ -24,4 +24,4 @@ Link: https://certificates.clearip.com/076af2e8-ea86-4b26-b350-cda606ecb199/b583
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

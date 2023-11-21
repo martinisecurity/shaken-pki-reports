@@ -2,7 +2,7 @@
 
 ## Certificate Yelcot SHAKEN Cert 1733
 
-Tested At: 21 Nov 23 01:22 UTC\
+Tested At: 21 Nov 23 16:42 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 117 day(s)\
 Subject: CN=Yelcot SHAKEN Cert 1733, O=Yelcot, C=US\
@@ -28,4 +28,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/02f31fd9be31f3b5cc9fa396dc9fab04f1dc93e
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

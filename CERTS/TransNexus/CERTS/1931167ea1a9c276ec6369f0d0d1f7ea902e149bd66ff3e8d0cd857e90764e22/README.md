@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1931
 
-Tested At: 21 Nov 23 01:25 UTC\
+Tested At: 21 Nov 23 16:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -91 day(s)\
+Remaining Validity Period: -92 day(s)\
 Subject: CN=SHAKEN 1931, O=Vantage Point Solutions\\ , C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/49f64146-cd9d-4968-9eb0-4a19b813dd36/3d3cb2ed75ea5ff96cc5a93ee99280cb.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/49f64146-cd9d-4968-9eb0-4a19b813dd36/3d3c
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

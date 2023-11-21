@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 0348
 
-Tested At: 21 Nov 23 01:49 UTC\
+Tested At: 21 Nov 23 17:08 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 221 day(s)\
 Subject: CN=SHAKEN 0348, O=Bulloch County Rural Telephone Cooperative Inc, C=US\
@@ -16,4 +16,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/Pl0wdQeMRz/STI20230348
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

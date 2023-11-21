@@ -2,12 +2,12 @@
 
 ## Certificate SHAKEN 506J
 
-Tested At: 21 Nov 23 01:31 UTC\
+Tested At: 21 Nov 23 16:47 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 1 day(s)\
+Remaining Validity Period: 0 day(s)\
 Subject: CN=SHAKEN 506J, O=Twilio International, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
-Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11076.10126.pem
+Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11095.10213.pem
 
 [View certificate details](https://understandingwebpki.com/?cert=MIIDCTCCAq6gAwIBAgIUIFl%2Bidm6KHDJI8ZAMgYHEcI2nQ8wCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTIyMTEyMTE2MzIyNloXDTIzMTEyMTE2MzIyNlowQjELMAkGA1UEBhMCVVMxHTAbBgNVBAoMFFR3aWxpbyBJbnRlcm5hdGlvbmFsMRQwEgYDVQQDDAtTSEFLRU4gNTA2SjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABFaeTH5FMEYyncUxr%2FlkM9RYOkEoq5evh93oKbdwJG5%2F68YCnUB0XgkLIjFv16C7RyZ2GuC4g0LyreJhPE1SC1yjggE8MIIBODAWBggrBgEFBQcBGgQKMAigBhYENTA2SjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIJOFf%2F%2Bn2pnUeTIl8dtdMP8ZUV4MBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwHQYDVR0OBBYEFG%2BrydAGZQt6TsIHk%2F9vNdFcj57jMA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNJADBGAiEAkkUaOM51QFzBFH9V4zoVLxYNLFZ%2FfHgsF6BZ7qah17gCIQCNFdv2T%2B9mbcjkD9Y0mxZnHOWvSrybHE8MQB4CKEJhDg%3D%3D)
 
@@ -24,4 +24,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11076.10126.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

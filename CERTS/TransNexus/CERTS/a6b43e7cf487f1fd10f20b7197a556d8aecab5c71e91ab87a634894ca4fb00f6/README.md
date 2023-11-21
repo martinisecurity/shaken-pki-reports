@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 031K
 
-Tested At: 21 Nov 23 01:30 UTC\
+Tested At: 21 Nov 23 16:45 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -376 day(s)\
 Subject: CN=SHAKEN 031K, OU=SHAKEN, O=TISD, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.transnexus.com/031K/ba0288df-daa5-44b5-a1a3-327014012
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

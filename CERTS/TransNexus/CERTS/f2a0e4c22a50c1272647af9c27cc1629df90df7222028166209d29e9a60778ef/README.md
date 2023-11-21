@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 111K
 
-Tested At: 21 Nov 23 01:28 UTC\
+Tested At: 21 Nov 23 16:44 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -408 day(s)\
+Remaining Validity Period: -409 day(s)\
 Subject: CN=SHAKEN 111K, OU=SHAKEN, O=Cloud Voice Tel, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/ae8a8a64-668f-4934-823d-42ebc587f82a/af862ae5ed3fbfa249b1c23dfb7b7ec6.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/ae8a8a64-668f-4934-823d-42ebc587f82a/af86
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

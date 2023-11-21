@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 872J
 
-Tested At: 21 Nov 23 01:22 UTC\
+Tested At: 21 Nov 23 16:42 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -74 day(s)\
 Subject: CN=SHAKEN 872J, O=CommPeak Limited, C=US\
@@ -24,4 +24,4 @@ Link: https://cdn.commpeak.com/sti/cmmpkusns.cer
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

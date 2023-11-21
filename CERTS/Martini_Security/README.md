@@ -10,8 +10,8 @@
 #### Leaf Certificates
 
 - 1444 certificates were included in the corpus being tested
-- 394 certificates in the corpus were skipped because they are duplicates
-- 679 certificates in the corpus were skipped because they are expired
+- 392 certificates in the corpus were skipped because they are duplicates
+- 681 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
 - 371 certificates being tested against the remaining rules
 - 0.00 issues on average found in unexpired, trusted, and non-compliant certificates
@@ -29,23 +29,21 @@ No error, warning, or notice level issues were found
 
 #### CA Certificates
 
-- 3 certificates were included in the corpus being tested
+- 2 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 3 certificates being tested against the remaining rules
-- 1.00 issues on average found in unexpired, trusted, and non-compliant certificates
-- 33.33% of certificates contain one or more Error level issue
+- 2 certificates being tested against the remaining rules
+- 0.00 issues on average found in unexpired, trusted, and non-compliant certificates
+- 0.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 5337 days is the average remaining validity for the certificates in the corpus
-- 4261 days is the average initial validity for the certificates in the corpus
+- 6507 days is the average remaining validity for the certificates in the corpus
+- 5478 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
-| Instances | Test | Source |
-|-----------|------|--------|
-| 1 | [e_atis_ext_certificate_policies_ca](ISSUES/e_atis_ext_certificate_policies_ca/README.md) | ATIS1000080 |
+No error, warning, or notice level issues were found
 
 ### Details
 
@@ -55,8 +53,6 @@ No error, warning, or notice level issues were found
 |------------|---------|-----------|----------|------|
 | 03&#160;Mar&#160;23&#160;15:17&#160;UTC | SHAKEN 473K | 02&#160;Mar&#160;24&#160;15:17&#160;UTC | false | [view](CERTS/0eb7d483fd17cb0f1c65b68302dcfe25acbfa599174977835e04fc37784795bb/README.md) |
 | 29&#160;Jun&#160;23&#160;18:40&#160;UTC | SHAKEN 186K | 28&#160;Jun&#160;24&#160;01:26&#160;UTC | false | [view](CERTS/1ae3ec906e8f59c0588e056b4afe62478b434acd35714772bb618298640aa067/README.md) |
-| 23&#160;Aug&#160;23&#160;12:00&#160;UTC | SHAKEN 683G | 21&#160;Nov&#160;23&#160;12:00&#160;UTC | false | [view](CERTS/6c61db9742721b5cda8d1b88914952240d580e1cfeec486005e3bda237643504/README.md) |
-| 23&#160;Aug&#160;23&#160;12:00&#160;UTC | SHAKEN 738J | 21&#160;Nov&#160;23&#160;12:00&#160;UTC | false | [view](CERTS/ab928460c7f9bef17973bfc2a18f21951534170ad1e7396f51af7554aa8e5433/README.md) |
 | 24&#160;Aug&#160;23&#160;00:00&#160;UTC | SHAKEN 683G | 22&#160;Nov&#160;23&#160;00:00&#160;UTC | false | [view](CERTS/da2f26ea9dd8543d10e12bf026832813bcfa626d18e5685abc280301d7d00d66/README.md) |
 | 24&#160;Aug&#160;23&#160;00:00&#160;UTC | SHAKEN 738J | 22&#160;Nov&#160;23&#160;00:00&#160;UTC | false | [view](CERTS/2a3c77e6215a1ed7b122ded995451c1a30b42e9639817152be9b5c7f59ca1c9f/README.md) |
 | 24&#160;Aug&#160;23&#160;12:00&#160;UTC | SHAKEN 683G | 22&#160;Nov&#160;23&#160;12:00&#160;UTC | false | [view](CERTS/a664420b4ab617d7ee7ae16f85dd70904d99744a95a5cfb24dc09d47e649f7f5/README.md) |
@@ -424,14 +420,15 @@ No error, warning, or notice level issues were found
 | 20&#160;Nov&#160;23&#160;23:10&#160;UTC | SHAKEN 709J | 18&#160;Feb&#160;24&#160;06:00&#160;UTC | false | [view](CERTS/16a2f11b16c2d20b3916bda629c46781cbe239400a8eb45de8bd9657e8a7ca7a/README.md) |
 | 21&#160;Nov&#160;23&#160;00:00&#160;UTC | SHAKEN 683G | 19&#160;Feb&#160;24&#160;00:00&#160;UTC | false | [view](CERTS/b5e2075ba12effd42c24ba6254a5be1095f4ab45db22ba14f5c3dae5b246feb2/README.md) |
 | 21&#160;Nov&#160;23&#160;00:00&#160;UTC | SHAKEN 738J | 19&#160;Feb&#160;24&#160;00:00&#160;UTC | false | [view](CERTS/4867395eff4f38e77f279bcf81f868c60be379a7c84af9870cc8dfc3e0517d74/README.md) |
+| 21&#160;Nov&#160;23&#160;12:00&#160;UTC | SHAKEN 683G | 19&#160;Feb&#160;24&#160;12:00&#160;UTC | false | [view](CERTS/8e97005dd2ec31acfccc806a8efe160ada29f829562c2da8fd1f7e2b62d88467/README.md) |
+| 21&#160;Nov&#160;23&#160;12:00&#160;UTC | SHAKEN 738J | 19&#160;Feb&#160;24&#160;12:00&#160;UTC | false | [view](CERTS/15f9bfdf581cf737fed628e31a0dcebeab1ff0d939013d6e4d979e5c6d33792b/README.md) |
 
 #### CA Certificates
 
 | Created At | Subject | Not After | Problems | Link |
 |------------|---------|-----------|----------|------|
 | 03&#160;May&#160;22&#160;15:31&#160;UTC | Martini Security SHAKEN R1 | 03&#160;May&#160;47&#160;21:31&#160;UTC | false | [view](CERTS/6077e368b0a0e4b6076eaa07ce67d6652ef310c4757776b76af84a6a9e003cdf/README.md) |
-| 03&#160;May&#160;22&#160;15:41&#160;UTC | Martini Security SHAKEN G1 | 02&#160;May&#160;27&#160;15:41&#160;UTC | true | [view](CERTS/46e98b1599688c83928b66bcdd49e723ee4207128b5ba4488046edf2879970ef/README.md) |
 | 02&#160;Oct&#160;22&#160;10:40&#160;UTC | Martini Security SHAKEN G2 | 01&#160;Oct&#160;27&#160;10:40&#160;UTC | false | [view](CERTS/bf818ddbd3ae492e4a85331b85b52f4d2cdef8287bf910b59e247b6c132fa7fd/README.md) |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

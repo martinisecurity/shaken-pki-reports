@@ -5,15 +5,13 @@
 - 4914 repository URLs were included in the corpus being tested
 - 0 repository URLs in the corpus were skipped because they were duplicated
 - 4914 repository URLs being tested against the remaining rules
-- 1.00 issues on average found in non-compliant certificate repository URLs
-- 0.04% of repository URLs contain one or more Error level issue
+- 0.00 issues on average found in non-compliant certificate repository URLs
+- 0.00% of repository URLs contain one or more Error level issue
 - 0.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 82ms average time it took to download each certificate
+- 41ms average time it took to download each certificate
 
-| Instances | Test | Source |
-|-----------|------|--------|
-| 2 | [e_request_timeout](ISSUES/e_request_timeout/README.md) | System |
+No error, warning, or notice level issues were found
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
@@ -1503,7 +1501,7 @@
 | `https://certificates.clearip.com/4ca62cb9-03b5-42f8-8fc3-67cecf1feeb2/5c201f3315aea13f285cc2c72afc2fbb.pem` | 29&#160;Mar&#160;23&#160;20:35&#160;UTC | false | [view](REPOS/01a43f51498319ac4da77b61ef0a61dfe945264f/README.md) |
 | `https://certificates.clearip.com/4ca62cb9-03b5-42f8-8fc3-67cecf1feeb2/77800d5dfb5e246cd85afd5819a9ee32.pem` | 16&#160;May&#160;23&#160;20:40&#160;UTC | false | [view](REPOS/96ac3fdbf621806b11f2b626b03938cd8f525bed/README.md) |
 | `https://certificates.clearip.com/4ca62cb9-03b5-42f8-8fc3-67cecf1feeb2/7adced6327837da6cf610b55028aab03.pem` | 04&#160;Apr&#160;23&#160;20:36&#160;UTC | false | [view](REPOS/224e55d80a24710834c6ccb133c8648c5b0590f0/README.md) |
-| `https://certificates.clearip.com/4ca62cb9-03b5-42f8-8fc3-67cecf1feeb2/7fb3e40ea38df7cce8eaae84c71b3c7d.pem` |  | true | [view](REPOS/77a1143b7b06da146ea8a6d8dce0b78f4a2abfdb/README.md) |
+| `https://certificates.clearip.com/4ca62cb9-03b5-42f8-8fc3-67cecf1feeb2/7fb3e40ea38df7cce8eaae84c71b3c7d.pem` | 22&#160;Sep&#160;23&#160;20:54&#160;UTC | false | [view](REPOS/77a1143b7b06da146ea8a6d8dce0b78f4a2abfdb/README.md) |
 | `https://certificates.clearip.com/4ca62cb9-03b5-42f8-8fc3-67cecf1feeb2/809fa64b9d8c1572430bd9050ae53f4b.pem` | 26&#160;Mar&#160;23&#160;20:35&#160;UTC | false | [view](REPOS/93bdeb8c0e21b30aadb23eef343aa220d1b30861/README.md) |
 | `https://certificates.clearip.com/4ca62cb9-03b5-42f8-8fc3-67cecf1feeb2/8b3d4b91d277323fb05471b437f11a49.pem` | 10&#160;May&#160;23&#160;20:39&#160;UTC | false | [view](REPOS/b5186a6e03524e2b57a28c59f91bc8b6ebfd5ef7/README.md) |
 | `https://certificates.clearip.com/4ca62cb9-03b5-42f8-8fc3-67cecf1feeb2/94240fd9c0627ee40b3386536331a0cb.pem` | 14&#160;Aug&#160;23&#160;20:50&#160;UTC | false | [view](REPOS/0a7d5035b32d44d664f28335f9b874db5eda7b03/README.md) |
@@ -3646,7 +3644,7 @@
 | `https://certificates.clearip.com/d7bfa171-ff4f-483d-849b-3f987c919d43/cc235555eb4dd3b7f72dac02a4795e0f.pem` | 22&#160;Jul&#160;23&#160;19:27&#160;UTC | false | [view](REPOS/a72ca63b0457d6784ea012faba66656ce16e7d38/README.md) |
 | `https://certificates.clearip.com/d7bfa171-ff4f-483d-849b-3f987c919d43/d231dd34f8310b359216e546f8265010.pem` | 03&#160;Nov&#160;22&#160;19:07&#160;UTC | false | [view](REPOS/0d13589e52d0c2769037c1998095fa6b04527fa5/README.md) |
 | `https://certificates.clearip.com/d7bfa171-ff4f-483d-849b-3f987c919d43/dc551475859b6a0f6ce254364e6c2e5d.pem` | 17&#160;Oct&#160;23&#160;19:34&#160;UTC | false | [view](REPOS/4d623c771c987e11d345528b4e4df9a2b8481f49/README.md) |
-| `https://certificates.clearip.com/d7bfa171-ff4f-483d-849b-3f987c919d43/dcb32a4033d688d2709677b0048b4c96.pem` |  | true | [view](REPOS/67f0c25aaaf25d530d31318dfb583445459d2953/README.md) |
+| `https://certificates.clearip.com/d7bfa171-ff4f-483d-849b-3f987c919d43/dcb32a4033d688d2709677b0048b4c96.pem` | 10&#160;Jul&#160;23&#160;19:26&#160;UTC | false | [view](REPOS/67f0c25aaaf25d530d31318dfb583445459d2953/README.md) |
 | `https://certificates.clearip.com/d7bfa171-ff4f-483d-849b-3f987c919d43/e5ee5aa0e2b69ad1f2faae74b816a125.pem` | 19&#160;Feb&#160;23&#160;19:16&#160;UTC | false | [view](REPOS/2eef5ad66ca229b06e046e42bad3eaed5a5ffd4b/README.md) |
 | `https://certificates.clearip.com/d7bfa171-ff4f-483d-849b-3f987c919d43/fca0c06d1376c7e660d4dd27585b6951.pem` | 13&#160;Jul&#160;23&#160;19:27&#160;UTC | false | [view](REPOS/75af1de219407b661df8b10cdf487b5011cd4bad/README.md) |
 | `https://certificates.clearip.com/d7bfa171-ff4f-483d-849b-3f987c919d43/ff93df7827fdca5536c031029572e022.pem` | 29&#160;Apr&#160;23&#160;19:21&#160;UTC | false | [view](REPOS/f199a5e79c1b361061111b1378df1c72f52e0f6f/README.md) |
@@ -4933,4 +4931,4 @@
 | `https://certificates.transnexus.com/982J/f3f2f5a6-962c-4f6f-9679-594659b1ec02.pem` | 25&#160;Apr&#160;23&#160;18:13&#160;UTC | false | [view](REPOS/6555e6a74a67a8e59bb0ed6741a90e7282caaa74/README.md) |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

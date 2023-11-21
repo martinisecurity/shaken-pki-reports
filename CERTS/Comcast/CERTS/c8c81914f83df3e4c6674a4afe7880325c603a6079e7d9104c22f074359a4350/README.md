@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN
 
-Tested At: 21 Nov 23 01:52 UTC\
+Tested At: 21 Nov 23 17:11 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -41 day(s)\
+Remaining Validity Period: -42 day(s)\
 Subject: CN=SHAKEN, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US\
 Issuer: CN=Comcast SHAKEN Intermediate CA, O=Comcast, ST=Pennsylvania, C=US\
 Link: https://sticr.stir.comcast.com/d9538069-374d-4a95-b29e-c0541a431c24.cer
@@ -21,4 +21,4 @@ Link: https://sticr.stir.comcast.com/d9538069-374d-4a95-b29e-c0541a431c24.cer
 | [e_atis_subject_key_identifier_size](../../ISSUES/e_atis_subject_key_identifier_size/README.md) | error | ATIS1000080 | Subject Key Identifier extension not found |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

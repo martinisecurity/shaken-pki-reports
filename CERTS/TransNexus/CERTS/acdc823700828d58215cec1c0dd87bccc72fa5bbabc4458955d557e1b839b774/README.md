@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 7820
 
-Tested At: 21 Nov 23 01:23 UTC\
+Tested At: 21 Nov 23 16:42 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -85 day(s)\
 Subject: CN=SHAKEN 7820, O=Full Service Network LP, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/12ead110-e343-424b-89e0-60e3721260b2/0b1d
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

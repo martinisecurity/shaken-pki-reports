@@ -2,9 +2,9 @@
 
 ## Certificate EPB Telecom SHAKEN Cert 4645
 
-Tested At: 21 Nov 23 01:22 UTC\
+Tested At: 21 Nov 23 16:42 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 941 day(s)\
+Remaining Validity Period: 940 day(s)\
 Subject: CN=EPB Telecom SHAKEN Cert 4645, O=Electric Power Board of Chattanooga dba EPB Telecom, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/245819f978821d3e211a6956b9e0d09fd3fed483
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/245819f978821d3e211a6956b9e0d09fd3fed48
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

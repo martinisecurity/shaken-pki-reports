@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Zray Technologies Corporation 862J
 
-Tested At: 21 Nov 23 01:43 UTC\
+Tested At: 21 Nov 23 17:01 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -12 day(s)\
+Remaining Validity Period: -13 day(s)\
 Subject: emailAddress=jhansen@ztelco.com, CN=SHAKEN Zray Technologies Corporation 862J, OU=Ztelco, O=Zray Technologies Corporation, ST=California, C=US, emailAddress=jhansen@ztelco.com\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/862J/order/256_862J_58
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/862J/order/256_862J_58
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Dalton Utilities 3139
 
-Tested At: 21 Nov 23 01:47 UTC\
+Tested At: 21 Nov 23 17:05 UTC\
 Initial Validity Period: 174 day(s)\
 Remaining Validity Period: 42 day(s)\
 Subject: CN=SHAKEN Dalton Utilities 3139, OU=Dalton Utilities 3139, O=Dalton Utilities, ST=Georgia, C=US\
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/Dalton_Utilities_3139
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 3139' |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 3139' |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

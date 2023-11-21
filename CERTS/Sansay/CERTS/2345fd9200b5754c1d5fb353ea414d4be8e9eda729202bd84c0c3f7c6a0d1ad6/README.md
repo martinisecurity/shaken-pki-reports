@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Primo Dialler LLC 249K
 
-Tested At: 21 Nov 23 01:49 UTC\
+Tested At: 21 Nov 23 17:08 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 341 day(s)\
+Remaining Validity Period: 340 day(s)\
 Subject: CN=SHAKEN Primo Dialler LLC 249K, OU=Service provider, O=Primo Dialler LLC, ST=Wyoming, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://primodialer.46labs.com
@@ -17,4 +17,4 @@ Link: https://primodialer.46labs.com
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 737J
 
-Tested At: 21 Nov 23 01:51 UTC\
+Tested At: 21 Nov 23 17:10 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -123 day(s)\
+Remaining Validity Period: -124 day(s)\
 Subject: CN=SHAKEN 737J, OU=SHAKEN, O=US Internet Corp, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://sti.ravon.net/c/737J_2022-07-20
@@ -25,4 +25,4 @@ Link: https://sti.ravon.net/c/737J_2022-07-20
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

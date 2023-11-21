@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN BareTelecom 864J
 
-Tested At: 21 Nov 23 01:47 UTC\
+Tested At: 21 Nov 23 17:05 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -233 day(s)\
 Subject: CN=SHAKEN BareTelecom 864J, OU=BareTelecomLLC, O=BareTelecom, ST=California, C=US\
@@ -25,4 +25,4 @@ Link: https://cr.sansay.com/BareTelecom_864J_0302
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

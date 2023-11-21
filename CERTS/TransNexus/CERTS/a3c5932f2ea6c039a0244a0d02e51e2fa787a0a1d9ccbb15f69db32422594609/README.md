@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1577
 
-Tested At: 21 Nov 23 01:26 UTC\
+Tested At: 21 Nov 23 16:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -126 day(s)\
+Remaining Validity Period: -127 day(s)\
 Subject: CN=SHAKEN 1577, O=Great Plains Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/631447e5-59d9-4380-9d7e-f42c6a585ac7/0279cc696cb83ade16d5f909a7e0be4f.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/631447e5-59d9-4380-9d7e-f42c6a585ac7/0279
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

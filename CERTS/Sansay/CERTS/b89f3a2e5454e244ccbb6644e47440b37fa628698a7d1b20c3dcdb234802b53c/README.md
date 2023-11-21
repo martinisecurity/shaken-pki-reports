@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN IPSBS Managed Services LLC 828J
 
-Tested At: 21 Nov 23 01:43 UTC\
+Tested At: 21 Nov 23 17:01 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -26 day(s)\
 Subject: emailAddress=iconectiv-hmc@hostmycalls.com, CN=SHAKEN IPSBS Managed Services LLC 828J, OU=NOC, O=IPSBS Managed Services LLC, ST=Tennessee, C=US, emailAddress=iconectiv-hmc@hostmycalls.com\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/828J/order/432_828J_86
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 828J' |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

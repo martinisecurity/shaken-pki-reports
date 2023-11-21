@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 053G
 
-Tested At: 21 Nov 23 01:24 UTC\
+Tested At: 21 Nov 23 16:43 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -329 day(s)\
 Subject: CN=SHAKEN 053G, O=Meriplex Communications, C=US\
@@ -24,4 +24,4 @@ Link: https://certificates.clearip.com/44962359-54bc-4e1b-b880-3f905456f68e/67cc
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

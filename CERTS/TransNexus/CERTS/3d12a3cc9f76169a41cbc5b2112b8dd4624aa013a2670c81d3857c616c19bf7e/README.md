@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 0360
 
-Tested At: 21 Nov 23 01:28 UTC\
+Tested At: 21 Nov 23 16:45 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -155 day(s)\
 Subject: CN=SHAKEN 0360, O=Ellijay Telephone Company (ETC Communications), C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/c5fc4b46-a2ed-4902-a1af-7d8538ab4581/71dc
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

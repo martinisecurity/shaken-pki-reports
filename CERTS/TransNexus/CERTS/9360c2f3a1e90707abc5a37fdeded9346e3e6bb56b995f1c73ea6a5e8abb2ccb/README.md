@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 572G
 
-Tested At: 21 Nov 23 01:22 UTC\
+Tested At: 21 Nov 23 16:42 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -56 day(s)\
 Subject: CN=SHAKEN 572G, O=ITS Fiber, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/0ad527d5-8153-4dd6-80d3-2cf02e7b005e/fa77
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

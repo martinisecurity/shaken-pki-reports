@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 727J
 
-Tested At: 21 Nov 23 01:26 UTC\
+Tested At: 21 Nov 23 16:43 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -308 day(s)\
 Subject: CN=SHAKEN 727J, O=SumoFiber, C=US\
@@ -24,4 +24,4 @@ Link: https://certificates.clearip.com/60e08b8b-2fd4-455e-9e9a-faa0470820d8/90d8
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

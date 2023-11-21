@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 066K
 
-Tested At: 21 Nov 23 01:53 UTC\
+Tested At: 21 Nov 23 17:12 UTC\
 Initial Validity Period: 22 day(s)\
 Remaining Validity Period: -11 day(s)\
 Subject: O=Upchurch Telecom & Data\\, Inc., C=US, serialNumber=BAB87198F536278023DC49DA87C43894, CN=SHAKEN 066K\
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/Inpz8let2kWx.pem
 160 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

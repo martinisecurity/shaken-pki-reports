@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Telxio Networks 492K
 
-Tested At: 21 Nov 23 01:47 UTC\
+Tested At: 21 Nov 23 17:06 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 150 day(s)\
+Remaining Validity Period: 149 day(s)\
 Subject: CN=SHAKEN Telxio Networks 492K, OU=Telxio Networks, O=Telxio Networks, ST=Nevada, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/telxio-networks
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/telxio-networks
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

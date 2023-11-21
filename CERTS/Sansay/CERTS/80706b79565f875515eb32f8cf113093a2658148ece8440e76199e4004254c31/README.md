@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN ConvergeTel LLC 388K
 
-Tested At: 21 Nov 23 01:47 UTC\
+Tested At: 21 Nov 23 17:05 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 80 day(s)\
 Subject: CN=SHAKEN ConvergeTel LLC 388K, OU=IT Depart, O=ConvergeTel LLC, ST=Delaware, C=US\
@@ -25,4 +25,4 @@ Link: https://cr.sansay.com/ConvergeStirShaken
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

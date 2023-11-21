@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 759J
 
-Tested At: 21 Nov 23 01:29 UTC\
+Tested At: 21 Nov 23 16:45 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -329 day(s)\
 Subject: CN=SHAKEN 759J, O=Rhode Island Telephone, C=US\
@@ -24,4 +24,4 @@ Link: https://certificates.clearip.com/f8262ffd-801f-403a-9ee9-ec811abe5a5e/b9f3
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

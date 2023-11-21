@@ -3,8 +3,8 @@
 ## Freevoice
 
 Name: `http://freevoiceusa.com/963J_23`\
-Tested At: 21 Nov 23 01:21 UTC\
-Time: 162ms
+Tested At: 21 Nov 23 16:41 UTC\
+Time: 95ms
 
 ### Issues
 
@@ -14,4 +14,4 @@ Time: 162ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_protocol](../../ISSUES/w_atis_protocol/README.md) | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

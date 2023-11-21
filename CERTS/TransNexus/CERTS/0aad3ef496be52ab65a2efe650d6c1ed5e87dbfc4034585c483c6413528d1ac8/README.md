@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 065J
 
-Tested At: 21 Nov 23 01:23 UTC\
+Tested At: 21 Nov 23 16:42 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -89 day(s)\
 Subject: CN=SHAKEN 065J, O=One Ring Networks, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/1de2a6c6-9b1b-4894-8c0c-0cccfdf25e8d/f69d
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

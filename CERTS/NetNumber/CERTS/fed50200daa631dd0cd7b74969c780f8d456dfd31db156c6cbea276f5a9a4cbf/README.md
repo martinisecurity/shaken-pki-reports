@@ -2,7 +2,7 @@
 
 ## Certificate Plivo Inc
 
-Tested At: 21 Nov 23 01:22 UTC\
+Tested At: 21 Nov 23 16:42 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 178 day(s)\
 Subject: L=Austin, ST=Texas, O=Plivo Inc, C=US, CN=Plivo Inc\
@@ -19,4 +19,4 @@ Link: https://certificate.zt.plivo.com/cert20240517.crt
 | [e_atis_ext_certificate_policies](../../ISSUES/e_atis_ext_certificate_policies/README.md) | error | ATIS1000080 | the Certificate Policies extension is marked as critical |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

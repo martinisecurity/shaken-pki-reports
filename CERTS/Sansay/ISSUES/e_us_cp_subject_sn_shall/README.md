@@ -36,7 +36,6 @@ Description: The DN shall contain a serialNumber attribute.
 | error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/9b771873abc7b3e88d09f242f8a20d0567255353ea6366f51e72fbb845896526/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/391ad73514796d9a14b3ff5168d779d21064378bfe3227ae6c6b820abb9ce76c/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/b34cc6beb60813f748c599cc6b801b971b431221389af066337a2c4116a04237/README.md) | The DN does not contain a serialNumber attribute. |
-| error | SHAKEN 1stPoint Communications, LLC 463G | [view](../../CERTS/4ee36fce2fd6b6a13b229e2a13289e66371d96e084e4a61044268e2153ae187e/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN 1stPoint Communications, LLC 463G | [view](../../CERTS/4cbfa0cc3351291afd9816b6fcd5da0692155c486c2de4e24ca25e1ad5ed84ef/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN 1stPoint Communications, LLC 463G | [view](../../CERTS/87e4ae71ef0ab8c07a693189a2fe0d03a66a9c24de356366b92f5e6fa823c57b/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN 1stPoint Communications, LLC 463G | [view](../../CERTS/df0604ecec1f90bfec3c1860eed738adbad378ddf8e2e79230132e5fe2290bb6/README.md) | The DN does not contain a serialNumber attribute. |
@@ -59,7 +58,6 @@ Description: The DN shall contain a serialNumber attribute.
 | error | SHAKEN IPSBS Managed Services LLC 828J | [view](../../CERTS/8a4373d79e08a1bb6f8e2eef12d70948767eb095db88c67aa0b14f2e9143daa9/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN Zray Technologies Corporation 862J | [view](../../CERTS/5b1596da8d4551f732745d471df62d958c169ce05ef34c881fa574faca8cb439/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN Zray Technologies Corporation 862J | [view](../../CERTS/bb38abfcc9773da1bdd4fb6aa42b2a47f6386adb49d890185f771aeab15bd00e/README.md) | The DN does not contain a serialNumber attribute. |
-| error | SHAKEN BareTelecom 864J | [view](../../CERTS/bc3990f94bc870a1e63c2fb16397d625b547cc61f3d1913049066415339104be/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN BareTelecom 864J | [view](../../CERTS/6b8bef3a80a2ab446b186f1400d52ef58bc0051707e2951eb06b4d20c8d7d4ed/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN BareTelecom 864J | [view](../../CERTS/1693b44189ee56e4a178fbfef92325b84e0fe17942c573a01ea154278e97e6e4/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN BareTelecom 864J | [view](../../CERTS/cdb58c58d263486a39b73bd257ac7b8f180947b8417efdc75b872aac1309d394/README.md) | The DN does not contain a serialNumber attribute. |
@@ -110,4 +108,4 @@ Description: The DN shall contain a serialNumber attribute.
 No error, warning, or notice level issues were found
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

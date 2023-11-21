@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 439K
 
-Tested At: 21 Nov 23 01:31 UTC\
+Tested At: 21 Nov 23 16:46 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 72 day(s)\
+Remaining Validity Period: 71 day(s)\
 Subject: CN=SHAKEN 439K, O=Cloud4 Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cloud4.46labs.com
@@ -24,4 +24,4 @@ Link: https://cloud4.46labs.com
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

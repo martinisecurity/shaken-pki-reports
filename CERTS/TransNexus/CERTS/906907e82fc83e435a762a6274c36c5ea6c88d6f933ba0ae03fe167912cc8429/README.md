@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 4036
 
-Tested At: 21 Nov 23 01:22 UTC\
+Tested At: 21 Nov 23 16:42 UTC\
 Initial Validity Period: 180 day(s)\
-Remaining Validity Period: 145 day(s)\
+Remaining Validity Period: 144 day(s)\
 Subject: CN=SHAKEN 4036, O=ATT, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://cert.sticr.att.net:8443/certs/att/ed4bb791-0bae-459e-ba4f-0f00c70c7f28
@@ -16,4 +16,4 @@ Link: https://cert.sticr.att.net:8443/certs/att/ed4bb791-0bae-459e-ba4f-0f00c70c
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

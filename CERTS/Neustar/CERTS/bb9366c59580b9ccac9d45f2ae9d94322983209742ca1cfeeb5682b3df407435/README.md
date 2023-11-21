@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1501
 
-Tested At: 21 Nov 23 01:31 UTC\
+Tested At: 21 Nov 23 16:47 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 159 day(s)\
+Remaining Validity Period: 158 day(s)\
 Subject: CN=SHAKEN 1501, O=West Central Telephone Association, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/65.310
@@ -16,4 +16,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/65.310
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

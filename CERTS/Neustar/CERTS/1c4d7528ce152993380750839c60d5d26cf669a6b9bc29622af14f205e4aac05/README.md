@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 986J
 
-Tested At: 21 Nov 23 01:51 UTC\
+Tested At: 21 Nov 23 17:10 UTC\
 Initial Validity Period: 398 day(s)\
 Remaining Validity Period: 22 day(s)\
 Subject: CN=SHAKEN 986J, O=RingCentral, C=CA\
@@ -24,4 +24,4 @@ Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/815b181b29c53037f17257
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

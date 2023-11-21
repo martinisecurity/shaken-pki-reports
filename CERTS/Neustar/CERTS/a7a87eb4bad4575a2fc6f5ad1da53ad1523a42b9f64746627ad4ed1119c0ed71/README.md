@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 7661
 
-Tested At: 21 Nov 23 01:32 UTC\
+Tested At: 21 Nov 23 16:47 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 99 day(s)\
+Remaining Validity Period: 98 day(s)\
 Subject: CN=SHAKEN 7661, O=Cox Communications Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11126.10191
@@ -24,4 +24,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11126.10191
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

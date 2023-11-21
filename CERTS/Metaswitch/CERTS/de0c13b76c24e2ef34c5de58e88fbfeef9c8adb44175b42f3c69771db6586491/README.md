@@ -2,9 +2,9 @@
 
 ## Certificate Clearwave SHAKEN Cert 9915
 
-Tested At: 21 Nov 23 01:22 UTC\
+Tested At: 21 Nov 23 16:42 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 203 day(s)\
+Remaining Validity Period: 202 day(s)\
 Subject: CN=Clearwave SHAKEN Cert 9915, O=Clearwave Communications, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/3f50200812ae74381c792fbff3f17ef55608e51d
@@ -28,4 +28,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/3f50200812ae74381c792fbff3f17ef55608e51
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

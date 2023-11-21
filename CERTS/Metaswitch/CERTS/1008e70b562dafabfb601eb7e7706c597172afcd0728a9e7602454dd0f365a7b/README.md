@@ -2,7 +2,7 @@
 
 ## Certificate Alma Tel SHAKEN 0344
 
-Tested At: 21 Nov 23 01:22 UTC\
+Tested At: 21 Nov 23 16:42 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 916 day(s)\
 Subject: CN=Alma Tel SHAKEN 0344, O=Alma Tel, C=US\
@@ -17,4 +17,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/50fce21c2814c12146d9f3e9420b586cd6c1256
 | [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

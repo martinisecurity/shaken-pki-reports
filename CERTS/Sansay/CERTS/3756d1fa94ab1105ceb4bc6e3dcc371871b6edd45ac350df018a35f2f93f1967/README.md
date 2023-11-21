@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Cherry Voice 506K
 
-Tested At: 21 Nov 23 01:47 UTC\
+Tested At: 21 Nov 23 17:05 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 114 day(s)\
 Subject: CN=SHAKEN Cherry Voice 506K, OU=Network Operations, O=Cherry Voice Inc, ST=Wyoming, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Cherry_Voice_506K
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 506K' |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

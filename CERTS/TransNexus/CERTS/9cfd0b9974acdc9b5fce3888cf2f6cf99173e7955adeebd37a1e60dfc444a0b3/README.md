@@ -2,7 +2,7 @@
 
 ## Certificate CCI SHAKEN 663J
 
-Tested At: 21 Nov 23 01:30 UTC\
+Tested At: 21 Nov 23 16:46 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -207 day(s)\
 Subject: CN=CCI SHAKEN 663J, OU=CCI, O=TransNexus, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.transnexus.com/663J/0b51e9f5-0e35-4d02-acef-5c91c3a6b
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

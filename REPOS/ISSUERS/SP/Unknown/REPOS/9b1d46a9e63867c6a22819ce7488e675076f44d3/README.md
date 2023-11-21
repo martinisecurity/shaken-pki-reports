@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://primodialer.46labs.com/primodialer.pem/`\
-Tested At: 21 Nov 23 01:49 UTC\
-Time: 168ms
+Tested At: 21 Nov 23 17:08 UTC\
+Time: 179ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 168ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

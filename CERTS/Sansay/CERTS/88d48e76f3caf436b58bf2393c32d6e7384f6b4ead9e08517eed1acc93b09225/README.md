@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Zray Technologies Corporation 862J
 
-Tested At: 21 Nov 23 01:43 UTC\
+Tested At: 21 Nov 23 17:01 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -251 day(s)\
 Subject: emailAddress=jhansen@ztelco.com, CN=SHAKEN Zray Technologies Corporation 862J, OU=Ztelco, O=Zray Technologies Corporation, ST=California, C=US, emailAddress=jhansen@ztelco.com\
@@ -25,4 +25,4 @@ Link: https://cr.sansay.com/862J/order/15_862J_58
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

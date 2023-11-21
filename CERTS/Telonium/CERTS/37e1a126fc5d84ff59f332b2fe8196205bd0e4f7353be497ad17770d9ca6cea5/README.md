@@ -2,7 +2,7 @@
 
 ## Certificate Telonium SHAKEN ROOT G1
 
-Tested At: 21 Nov 23 01:54 UTC\
+Tested At: 21 Nov 23 17:16 UTC\
 Initial Validity Period: 4383 day(s)\
 Remaining Validity Period: 4260 day(s)\
 Subject: CN=Telonium SHAKEN ROOT G1, O=Telonium Communications LLC, L=Atlanta, ST=GA, C=US\
@@ -13,4 +13,4 @@ Issuer: CN=Telonium SHAKEN ROOT G1, O=Telonium Communications LLC, L=Atlanta, ST
 160 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

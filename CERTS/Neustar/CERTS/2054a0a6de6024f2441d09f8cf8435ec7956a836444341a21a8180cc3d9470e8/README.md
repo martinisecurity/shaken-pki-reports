@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 030J
 
-Tested At: 21 Nov 23 01:31 UTC\
+Tested At: 21 Nov 23 16:46 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 115 day(s)\
 Subject: CN=SHAKEN 030J, O=ANI Networks, C=US\
@@ -16,4 +16,4 @@ Link: https://certs.iverify-aninetworks.net/aninetworks_20240314.crt
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

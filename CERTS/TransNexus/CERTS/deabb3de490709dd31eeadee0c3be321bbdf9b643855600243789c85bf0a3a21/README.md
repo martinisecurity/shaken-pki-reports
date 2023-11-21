@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1556
 
-Tested At: 21 Nov 23 01:26 UTC\
+Tested At: 21 Nov 23 16:44 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -104 day(s)\
+Remaining Validity Period: -105 day(s)\
 Subject: CN=SHAKEN 1556, O=Hartington Telecommunications Co.\\, Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/820c0b95-d7e5-4d9f-9844-27969b2aa0ee/e963cfe57a6202ea0f04c802c762327d.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/820c0b95-d7e5-4d9f-9844-27969b2aa0ee/e963
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

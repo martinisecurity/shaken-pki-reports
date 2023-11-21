@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 766J
 
-Tested At: 21 Nov 23 01:25 UTC\
+Tested At: 21 Nov 23 16:43 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -344 day(s)\
 Subject: CN=SHAKEN 766J, O=Integrated Technology Services, C=US\
@@ -24,4 +24,4 @@ Link: https://certificates.clearip.com/4f32f256-5289-4c26-ad4b-2789b048087b/fa29
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 2254
 
-Tested At: 21 Nov 23 01:30 UTC\
+Tested At: 21 Nov 23 16:45 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -112 day(s)\
 Subject: CN=SHAKEN 2254, O=Vision Net Inc., C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/ffc181ba-cdd1-4018-a290-bfe3363eabf1/49ff
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

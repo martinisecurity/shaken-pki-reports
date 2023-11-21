@@ -2,9 +2,9 @@
 
 ## Certificate Access Tandem Inc SHAKEN 731J
 
-Tested At: 21 Nov 23 01:30 UTC\
+Tested At: 21 Nov 23 16:45 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 257 day(s)\
+Remaining Validity Period: 256 day(s)\
 Subject: CN=Access Tandem Inc SHAKEN 731J, O=Access Tandem Inc, L=Las Vegas, ST=NV, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://certificates.peeringhub.io/731J/731J.crt
@@ -16,4 +16,4 @@ Link: https://certificates.peeringhub.io/731J/731J.crt
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | the Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

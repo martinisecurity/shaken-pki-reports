@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 804J
 
-Tested At: 21 Nov 23 01:47 UTC\
+Tested At: 21 Nov 23 17:06 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 73 day(s)\
 Subject: CN=SHAKEN 804J, O=QuestBlue Systems Inc, C=US\
@@ -24,4 +24,4 @@ Link: https://customer.questblue.com/assets/questblue_shaken.cer
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

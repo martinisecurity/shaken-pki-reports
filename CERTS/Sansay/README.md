@@ -11,26 +11,26 @@
 
 - 1726 certificates were included in the corpus being tested
 - 16 certificates in the corpus were skipped because they are duplicates
-- 1562 certificates in the corpus were skipped because they are expired
+- 1564 certificates in the corpus were skipped because they are expired
 - 1 certificates in the corpus were skipped because they are not currently trusted
-- 147 certificates being tested against the remaining rules
+- 145 certificates being tested against the remaining rules
 - 2.03 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
-- 7.48% of certificates are too old to be assessed against currently enforced expectations
-- 177 days is the average remaining validity for the certificates in the corpus
-- 178 days is the average initial validity for the certificates in the corpus
-- 82 certificates expire in the next 30 days
-- 1.41 average number of unexpired certificates per OCN observed
+- 7.59% of certificates are too old to be assessed against currently enforced expectations
+- 179 days is the average remaining validity for the certificates in the corpus
+- 180 days is the average initial validity for the certificates in the corpus
+- 80 certificates expire in the next 30 days
+- 1.39 average number of unexpired certificates per OCN observed
 - 104 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 147 | [e_atis_subject_cn_spc](ISSUES/e_atis_subject_cn_spc/README.md) | ATIS1000080 |
+| 145 | [e_atis_subject_cn_spc](ISSUES/e_atis_subject_cn_spc/README.md) | ATIS1000080 |
 | 4 | [e_atis_tn_auth_list_spc_format](ISSUES/e_atis_tn_auth_list_spc_format/README.md) | ATIS1000080 |
 | 55 | [e_shaken_certificate_policies_id](ISSUES/e_shaken_certificate_policies_id/README.md) | US_SHAKEN_CP |
-| 92 | [e_us_cp_subject_sn_shall](ISSUES/e_us_cp_subject_sn_shall/README.md) | US_SHAKEN_CP |
+| 90 | [e_us_cp_subject_sn_shall](ISSUES/e_us_cp_subject_sn_shall/README.md) | US_SHAKEN_CP |
 
 #### CA Certificates
 
@@ -106,8 +106,6 @@ No error, warning, or notice level issues were found
 | 17&#160;Oct&#160;23&#160;22:55&#160;UTC | SHAKEN ConnectMeVoice 719J | 16&#160;Oct&#160;24&#160;22:55&#160;UTC | true | [view](CERTS/5a48a80de9440625305bf4a9af18bcf158e03286df27646af231d75e0cec315d/README.md) |
 | 18&#160;Oct&#160;23&#160;22:36&#160;UTC | SHAKEN VOICE1 LLC 265K | 17&#160;Oct&#160;24&#160;22:36&#160;UTC | true | [view](CERTS/f40966bfe5a54cc2e71f5942314743411e143934deeeb8b87647eb1b5ac03aa2/README.md) |
 | 19&#160;Oct&#160;23&#160;11:43&#160;UTC | SHAKEN Talk IT Pro 321K | 18&#160;Oct&#160;24&#160;11:43&#160;UTC | true | [view](CERTS/ac46b1e519197ae9ce860b54ca7b6a7150d4be7de7e581e7481003737cf28f68/README.md) |
-| 22&#160;Oct&#160;23&#160;04:15&#160;UTC | SHAKEN BareTelecom 864J | 21&#160;Nov&#160;23&#160;04:15&#160;UTC | true | [view](CERTS/bc3990f94bc870a1e63c2fb16397d625b547cc61f3d1913049066415339104be/README.md) |
-| 22&#160;Oct&#160;23&#160;15:53&#160;UTC | SHAKEN 1stPoint Communications, LLC 463G | 21&#160;Nov&#160;23&#160;15:53&#160;UTC | true | [view](CERTS/4ee36fce2fd6b6a13b229e2a13289e66371d96e084e4a61044268e2153ae187e/README.md) |
 | 22&#160;Oct&#160;23&#160;18:07&#160;UTC | SHAKEN IDT America, Corp 363A | 21&#160;Nov&#160;23&#160;18:07&#160;UTC | true | [view](CERTS/26e21779fc8d64937e360cff177d3b569f201f0658359d8e02f05386b9ecfd4d/README.md) |
 | 22&#160;Oct&#160;23&#160;19:02&#160;UTC | SHAKEN IDT America, Corp 363A | 21&#160;Nov&#160;23&#160;19:02&#160;UTC | true | [view](CERTS/766088d9da2fafc4f57dad4280e3d7ea085787f45041910139c5d593c174d90a/README.md) |
 | 23&#160;Oct&#160;23&#160;00:00&#160;UTC | SHAKEN XCast Labs 689J | 24&#160;Nov&#160;23&#160;00:00&#160;UTC | true | [view](CERTS/f364b4d3290509430aa72f92e06f47b2e4b92112d9eecde416c184bab8c3abbc/README.md) |
@@ -212,4 +210,4 @@ No error, warning, or notice level issues were found
 | 02&#160;Sep&#160;22&#160;20:53&#160;UTC | SHAKEN Sansay Intermediate CA US WEST 1 | 31&#160;Aug&#160;29&#160;20:53&#160;UTC | false | [view](CERTS/4b1dfdba2b1e4bbffbf900a20f1f6f7befbef0008b963e4922a64469cb97d24b/README.md) |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

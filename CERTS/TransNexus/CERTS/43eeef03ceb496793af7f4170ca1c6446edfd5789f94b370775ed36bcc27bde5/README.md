@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 390B
 
-Tested At: 21 Nov 23 01:26 UTC\
+Tested At: 21 Nov 23 16:43 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -100 day(s)\
 Subject: CN=SHAKEN 390B, O=Dobson Fiber, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/6df3ae82-19a8-42af-a64c-be92ded2eea6/f9f6
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

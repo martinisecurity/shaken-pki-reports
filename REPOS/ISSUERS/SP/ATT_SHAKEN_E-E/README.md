@@ -2,14 +2,14 @@
 
 ## ATT SHAKEN E-E
 
-- 1 repository URLs were included in the corpus being tested
-- 0 repository URLs in the corpus were skipped because they were duplicated
+- 2 repository URLs were included in the corpus being tested
+- 1 repository URLs in the corpus were skipped because they were duplicated
 - 1 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 136ms average time it took to download each certificate
+- 432ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://cert2.sticr.att.net:8443/sti-cr/att-stica1691767810461-cert.crt` | 10&#160;Aug&#160;24&#160;15:15&#160;UTC | true | [view](REPOS/e927f896f26103d706a2a5a669617a09cb847758/README.md) |
+| `https://cert.sticr.att.net:8443/certs/att/0e6ca793-8797-40fe-9fde-c25af249bc12` | 10&#160;Aug&#160;24&#160;15:15&#160;UTC | true | [view](REPOS/08f7d2dcacfcbb8616f4ac3110eea47343b4f5fb/README.md) |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

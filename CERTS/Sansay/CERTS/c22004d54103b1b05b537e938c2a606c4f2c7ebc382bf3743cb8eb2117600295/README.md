@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN DLS Internet Services 815J
 
-Tested At: 21 Nov 23 01:47 UTC\
+Tested At: 21 Nov 23 17:05 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: 9 day(s)\
+Remaining Validity Period: 8 day(s)\
 Subject: CN=SHAKEN DLS Internet Services 815J, OU=sansaynss01.dls.net, O=DLS Internet Services, ST=Illinois, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/DLS_Internet_Services_815J
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/DLS_Internet_Services_815J
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 815J' |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

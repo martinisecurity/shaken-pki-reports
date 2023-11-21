@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 505J
 
-Tested At: 21 Nov 23 01:30 UTC\
+Tested At: 21 Nov 23 16:46 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: -155 day(s)\
 Subject: CN=SHAKEN 505J, O=HFA Services LLC dba Call48, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/505J/d73b1b54-f000-4e02-999b-6fa120685
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

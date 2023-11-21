@@ -2,9 +2,9 @@
 
 ## Certificate Surrytel STI SHAKEN 0503
 
-Tested At: 21 Nov 23 01:49 UTC\
+Tested At: 21 Nov 23 17:08 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -201 day(s)\
+Remaining Validity Period: -202 day(s)\
 Subject: CN=Surrytel STI SHAKEN 0503, OU=Voice, O=Surrytel, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-cr.rbbnidhub.com/x9lB3qynRz/0503-1ee571a983a190e433d57cceedca890b
@@ -24,4 +24,4 @@ Link: https://prod001-cr.rbbnidhub.com/x9lB3qynRz/0503-1ee571a983a190e433d57ccee
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

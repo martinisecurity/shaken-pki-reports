@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 577F
 
-Tested At: 21 Nov 23 01:30 UTC\
+Tested At: 21 Nov 23 16:46 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -154 day(s)\
 Subject: CN=SHAKEN 577F, O=Ringsquared, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/577F/7ff3af1a-c2c3-43a8-a8e1-497d74b46
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

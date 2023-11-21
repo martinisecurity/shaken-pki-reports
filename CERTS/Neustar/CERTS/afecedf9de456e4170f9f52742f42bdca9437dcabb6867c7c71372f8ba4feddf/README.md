@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 743J
 
-Tested At: 21 Nov 23 01:49 UTC\
+Tested At: 21 Nov 23 17:08 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -145 day(s)\
 Subject: CN=SHAKEN 743J, O=Whisl Telecom LLC, C=US\
@@ -24,4 +24,4 @@ Link: https://ssc.getsipnav.com/certs/8edc7b58944d44dd597d88ceae74ae41fa544d2e
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

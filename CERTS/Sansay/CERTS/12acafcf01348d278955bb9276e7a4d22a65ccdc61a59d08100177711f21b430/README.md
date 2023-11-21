@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Technology Innovation Lab 599J
 
-Tested At: 21 Nov 23 01:30 UTC\
+Tested At: 21 Nov 23 16:45 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 60 day(s)\
 Subject: CN=SHAKEN Technology Innovation Lab 599J, OU=Research and Development, O=Technology Innovation Lab, ST=New York, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.smartcarrier.io/ho5cfohtbkxwglxbacgnm4qmjnbs9pwu9z772
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

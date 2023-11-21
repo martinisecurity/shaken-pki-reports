@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 715K
 
-Tested At: 21 Nov 23 01:30 UTC\
+Tested At: 21 Nov 23 16:45 UTC\
 Initial Validity Period: 367 day(s)\
 Remaining Validity Period: 296 day(s)\
 Subject: serialNumber=16A7CF8B-9A7E-4854-AB44-172D4EEE9420, CN=SHAKEN 715K, O=Telorca LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/715K/715K.crt
 160 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

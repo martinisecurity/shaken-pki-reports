@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 726J
 
-Tested At: 21 Nov 23 01:27 UTC\
+Tested At: 21 Nov 23 16:44 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -341 day(s)\
 Subject: CN=SHAKEN 726J, O=Votacall Inc, C=US\
@@ -24,4 +24,4 @@ Link: https://certificates.clearip.com/88dbb645-62bf-4d40-960c-4e8e3223880f/0cbb
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

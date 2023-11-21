@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Voneto 485K
 
-Tested At: 21 Nov 23 01:47 UTC\
+Tested At: 21 Nov 23 17:05 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 101 day(s)\
+Remaining Validity Period: 100 day(s)\
 Subject: CN=SHAKEN Voneto 485K, OU=Voneto, O=Voneto, ST=Pennsylvania, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Voneto_485K
@@ -25,4 +25,4 @@ Link: https://cr.sansay.com/Voneto_485K
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

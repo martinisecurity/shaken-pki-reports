@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 785J
 
-Tested At: 21 Nov 23 01:49 UTC\
+Tested At: 21 Nov 23 17:08 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -291 day(s)\
 Subject: CN=SHAKEN 785J, O=Range Telecom, C=US\
@@ -24,4 +24,4 @@ Link: https://ssc.getsipnav.com/certs/907a99e8008aa590695697cee73d401d4ef33451
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

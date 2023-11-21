@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 733J
 
-Tested At: 21 Nov 23 01:23 UTC\
+Tested At: 21 Nov 23 16:43 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -284 day(s)\
 Subject: CN=SHAKEN 733J, O=Wiretap Telecom, C=US\
@@ -24,4 +24,4 @@ Link: https://certificates.clearip.com/257dc117-4652-4444-9058-fceb2d81e92c/179f
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

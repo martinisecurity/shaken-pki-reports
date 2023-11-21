@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 844J
 
-Tested At: 21 Nov 23 01:48 UTC\
+Tested At: 21 Nov 23 17:06 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 94 day(s)\
 Subject: CN=SHAKEN 844J, O=Unified Office Inc, C=US\
@@ -24,4 +24,4 @@ Link: https://downloads.uotcn.net/certs/uo-shaken-cert-20230222.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 7551
 
-Tested At: 21 Nov 23 01:24 UTC\
+Tested At: 21 Nov 23 16:43 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -97 day(s)\
 Subject: CN=SHAKEN 7551, O=Bestline Communications LP, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/3f2780c4-0fd8-4154-8f54-695084bbbd79/c539
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

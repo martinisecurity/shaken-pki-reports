@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1817
 
-Tested At: 21 Nov 23 01:23 UTC\
+Tested At: 21 Nov 23 16:42 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -344 day(s)\
 Subject: CN=SHAKEN 1817, O=Pioneer Communications (KS), C=US\
@@ -24,4 +24,4 @@ Link: https://certificates.clearip.com/202ef213-00c8-4905-808e-d7705054d57d/9aca
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

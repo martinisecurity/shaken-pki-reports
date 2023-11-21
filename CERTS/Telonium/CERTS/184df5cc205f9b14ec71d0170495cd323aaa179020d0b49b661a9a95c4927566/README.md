@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 627K
 
-Tested At: 21 Nov 23 01:31 UTC\
+Tested At: 21 Nov 23 16:46 UTC\
 Initial Validity Period: 357 day(s)\
 Remaining Validity Period: 223 day(s)\
 Subject: serialNumber=bd92caa9-e7d5-46cc-b3da-daf96a2fbe3c, CN=SHAKEN 627K, O=Come 2 LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://certs.telonium.net/23/5b3de5bc.crt
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.4.1.37476.9000.64.1 |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

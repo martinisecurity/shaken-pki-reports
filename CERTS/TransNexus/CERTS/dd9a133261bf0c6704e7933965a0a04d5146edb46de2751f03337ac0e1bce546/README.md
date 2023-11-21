@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 4156
 
-Tested At: 21 Nov 23 01:29 UTC\
+Tested At: 21 Nov 23 16:45 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -272 day(s)\
 Subject: CN=SHAKEN 4156, O=Arvig, C=US\
@@ -24,4 +24,4 @@ Link: https://certificates.clearip.com/f0716e63-b288-44a2-8616-d4f89fc09da7/b6b3
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 297K
 
-Tested At: 21 Nov 23 01:26 UTC\
+Tested At: 21 Nov 23 16:44 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -272 day(s)\
 Subject: CN=SHAKEN 297K, O=Clarity Voice, C=US\
@@ -24,4 +24,4 @@ Link: https://certificates.clearip.com/859299ca-4c86-4dfd-9785-6c758bee1b37/24e1
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

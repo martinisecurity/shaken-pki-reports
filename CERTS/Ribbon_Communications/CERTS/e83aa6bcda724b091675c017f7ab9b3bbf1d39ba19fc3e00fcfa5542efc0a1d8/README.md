@@ -2,9 +2,9 @@
 
 ## Certificate Surrytel STI SHAKEN 0503
 
-Tested At: 21 Nov 23 01:49 UTC\
+Tested At: 21 Nov 23 17:08 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 163 day(s)\
+Remaining Validity Period: 162 day(s)\
 Subject: CN=Surrytel STI SHAKEN 0503, OU=Voice, O=Surrytel, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/x9lB3qynRz/STI-202305-0503-1a01332c0243d06b0cb7d77293786255
@@ -13,8 +13,8 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/x9lB3qynRz/STI-202305-0503-1a0133
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | the Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
+| [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

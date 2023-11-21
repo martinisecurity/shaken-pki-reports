@@ -2,7 +2,7 @@
 
 ## Certificate Etex STI SHAKEN 3196
 
-Tested At: 21 Nov 23 01:49 UTC\
+Tested At: 21 Nov 23 17:08 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -228 day(s)\
 Subject: CN=Etex STI SHAKEN 3196, O=Etex, C=US\
@@ -24,4 +24,4 @@ Link: https://prod001-cr.rbbnidhub.com/DdpJt757Rz/3196-2545b56cf6ba8ebe16fd7e049
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

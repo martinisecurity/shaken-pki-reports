@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN NTC International, INC 016K
 
-Tested At: 21 Nov 23 01:33 UTC\
+Tested At: 21 Nov 23 16:49 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -32 day(s)\
 Subject: emailAddress=billing@ntcinternationalinc.com, CN=SHAKEN NTC International\\, INC 016K, OU=Operations, O=NTC International\\, INC, ST=Delaware, C=US, emailAddress=billing@ntcinternationalinc.com\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/016K/order/404_016K_115
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 016K' |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

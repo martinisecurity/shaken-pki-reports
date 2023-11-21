@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 558a
 
-Tested At: 21 Nov 23 01:32 UTC\
+Tested At: 21 Nov 23 16:48 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 220 day(s)\
 Subject: CN=SHAKEN 558a, O=D&P Communications, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11569.10207.pem
 | [e_atis_tn_auth_list_spc_format](../../ISSUES/e_atis_tn_auth_list_spc_format/README.md) | error | ATIS1000080 | the SPC value '558a' contains characters other than uppercase letters and numbers |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC

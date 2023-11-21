@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1stPoint Communications, LLC 463G
 
-Tested At: 21 Nov 23 01:39 UTC\
+Tested At: 21 Nov 23 16:56 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -204 day(s)\
+Remaining Validity Period: -205 day(s)\
 Subject: emailAddress=elevitt@1pcom.com, CN=SHAKEN 1stPoint Communications\\, LLC 463G, OU=NOC, O=1stPoint Communications\\, LLC, ST=New York, C=US, emailAddress=elevitt@1pcom.com\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/463G/order/605_463G_53
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/463G/order/605_463G_53
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 463G' |
 
 
-Generated: 21 Nov 23 01:55 UTC
+Generated: 21 Nov 23 17:16 UTC
