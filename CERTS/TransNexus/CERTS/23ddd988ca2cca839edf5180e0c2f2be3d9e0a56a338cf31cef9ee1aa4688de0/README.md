@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 9714
+
+Tested At: 21 Nov 23 01:25 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -50 day(s)\
+Subject: CN=SHAKEN 9714, O=Grid4 Communications, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/51a37c7a-5af2-439d-94ce-677fa750ee2f/1450d47b43788fc9439860a585c4d009.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC1DCCAnqgAwIBAgIQfwjwU8tN%2BHHWTssw8PPH9jAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwOTI0MTkwOTQ2WhcNMjMxMDAxMTkwOTQ1WjBCMQswCQYDVQQGEwJVUzEdMBsGA1UEChMUR3JpZDQgQ29tbXVuaWNhdGlvbnMxFDASBgNVBAMTC1NIQUtFTiA5NzE0MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEmp4DKVuiS%2BRKgJPoLaKGmyYXoHOd5Cu7%2F0tjvqtU53fGBUloOEG1YAi%2F%2FKcL8GTOhRoLC4kTSZaVdBPEVK2lf6OCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBS4lcxv0y4c1KwXwRQsP%2FB1AIUL9DAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ5NzE0MAoGCCqGSM49BAMCA0gAMEUCIEzaRSohFpi%2FtKtWkoDnYKnJWV5I1mDiukOjO5D%2F3C38AiEA7i4%2Bjukc1TtpyE80bEj0MNtFQ%2FMov9d9a5jD1D1njYU%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 21 Nov 23 01:55 UTC

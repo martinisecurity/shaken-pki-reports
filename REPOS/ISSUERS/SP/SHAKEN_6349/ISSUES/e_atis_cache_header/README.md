@@ -9,7 +9,7 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://crs.sti.uscellular.com/certs/uscc_shaken_CA.crt` | 31&#160;Mar&#160;24&#160;15:28&#160;UTC | true | [view](../../REPOS/b2a4177b5a547e2a4c30c52aa4ff68a0b2d2899c/README.md) |
+| `https://robocall.sti.uscellular.com/certs/uscc_shaken_CA.crt` | 31&#160;Mar&#160;24&#160;15:28&#160;UTC | true | [view](../../REPOS/3a4a7034c60a9d05af210a5b601806393d4dac86/README.md) |
 
 
-Generated: 11 Jan 23 21:59 UTC
+Generated: 21 Nov 23 01:55 UTC

@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 186K
+
+Tested At: 21 Nov 23 01:30 UTC\
+Initial Validity Period: 1 day(s)\
+Remaining Validity Period: -240 day(s)\
+Subject: CN=SHAKEN 186K, O=Go2Uno LLC, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.transnexus.com/186K/3d0b646d-128c-48a6-8506-52d2e6bd0241.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICyjCCAnCgAwIBAgIQYGQknTGJf7lxaMyZvR5tLzAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwMzI0MTIzNDA1WhcNMjMwMzI1MTIzNDA0WjA4MQswCQYDVQQGEwJVUzETMBEGA1UEChMKR28yVW5vIExMQzEUMBIGA1UEAxMLU0hBS0VOIDE4NkswWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQr64iiH37pKgjDZMKA5HalEjH878OZBkJilaGxNve%2BZF4O%2B4TQAiHTRFj1QhHGGk1MURD4S8HNQem%2BEa860EpIo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFNN593sDXiXOecZpQxsXOkSWNIVuMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDE4NkswCgYIKoZIzj0EAwIDSAAwRQIgD4bxtrJxy9Mg%2FIxxQoCWEbzLZKSVX9p%2FYsxQT0ERhpMCIQDrkLYlji9wGV2enyDTpHPyvWtjBErKx6bTw%2Ft%2FfuFGTA%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 21 Nov 23 01:55 UTC

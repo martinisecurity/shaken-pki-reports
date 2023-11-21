@@ -2,16 +2,24 @@
 
 ## Certificate SHAKEN 042K
 
-Tested At: 11 Jan 23 21:52 UTC\
+Tested At: 21 Nov 23 01:53 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: 25 day(s)\
+Remaining Validity Period: -288 day(s)\
 Subject: O=DMCI Broadband\\, LLC, C=US, serialNumber=60F525F0C412D3C3B25977546E070FDD, CN=SHAKEN 042K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/D56stZnBY62q.pem
 
 [View certificate details](https://understandingwebpki.com/?cert=MIIDHTCCAsOgAwIBAgIUD56stZnBY62qAKCnLjy7LaVc2vgwCgYIKoZIzj0EAwIwcTELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAldBMRAwDgYDVQQHEwdTZWF0dGxlMR4wHAYDVQQKExVNYXJ0aW5pIFNlY3VyaXR5LCBMTEMxIzAhBgNVBAMTGk1hcnRpbmkgU2VjdXJpdHkgU0hBS0VOIEcyMB4XDTIyMTEwNzIyNDg0N1oXDTIzMDIwNTA1MDAwMFowbDEUMBIGA1UEAxMLU0hBS0VOIDA0MksxKTAnBgNVBAUTIDYwRjUyNUYwQzQxMkQzQzNCMjU5Nzc1NDZFMDcwRkREMQswCQYDVQQGEwJVUzEcMBoGA1UEChMTRE1DSSBCcm9hZGJhbmQsIExMQzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABFdT8lylSStcDDwjyHyX%2FnslegVkk00SebnAM1ZudhEYWguTzIUTTIaLXBrVFSVILF0qtrIMV2YciEr4jusz%2B2ejggE8MIIBODAOBgNVHQ8BAf8EBAMCB4AwDAYDVR0TAQH%2FBAIwADAdBgNVHQ4EFgQUOWyycFJpmDwPhRiezn62gw1hA1QwHwYDVR0jBBgwFoAUKIRQXuRDeCzQc7OLG%2F2kzBZimBgwFgYIKwYBBQUHARoECjAIoAYWBDA0MkswgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBxMLQnJpZGdld2F0ZXIxCzAJBgNVBAgTAk5KMRMwEQYDVQQDEwpTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UEChMGU1RJLVBBMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzAKBggqhkjOPQQDAgNIADBFAiAZmK0a0v49jR7VW4zkINqyTEVV%2BA7lwqKR%2BNbFqMiHywIhAK7Y9DZ0EldCpWVhjBuEklu1STrtIFsloBiyDKQ8b2xv)
 
-149 tests were ran and no error, warning, or notice level issues were found
+160 tests were ran and no error, warning, or notice level issues were found
+
+### Not Effective
+
+- e_atis_ext_not_specified
+- e_atis_serial_number_size
+- e_atis_tn_auth_list_spc_format
+
+\* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 11 Jan 23 21:59 UTC
+Generated: 21 Nov 23 01:55 UTC

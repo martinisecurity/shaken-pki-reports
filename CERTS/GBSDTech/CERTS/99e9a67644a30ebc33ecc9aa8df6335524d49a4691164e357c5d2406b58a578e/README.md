@@ -2,9 +2,9 @@
 
 ## Certificate 1RouteGroup SHAKEN Intermediate CA
 
-Tested At: 11 Jan 23 21:59 UTC\
+Tested At: 21 Nov 23 01:54 UTC\
 Initial Validity Period: 7299 day(s)\
-Remaining Validity Period: 6683 day(s)\
+Remaining Validity Period: 6370 day(s)\
 Subject: CN=1RouteGroup SHAKEN Intermediate CA, O=1RouteGroup, ST=Texas, C=US\
 Issuer: CN=GBSDTech SHAKEN Root CA, O=GBSDTech, L=Ft Worth, ST=Texas, C=US
 
@@ -12,19 +12,22 @@ Issuer: CN=GBSDTech SHAKEN Root CA, O=GBSDTech, L=Ft Worth, ST=Texas, C=US
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_ext_authority_key_identifier_no_key_identifier](../../ISSUES/e_ext_authority_key_identifier_no_key_identifier/README.md) | error | RFC5280 |  |
 | [e_ext_authority_key_identifier_missing](../../ISSUES/e_ext_authority_key_identifier_missing/README.md) | error | RFC5280 |  |
-| [e_atis_ca_authority_key_identifier](../../ISSUES/e_atis_ca_authority_key_identifier/README.md) | error | ATIS1000080 | STI certificates shall contain an Authority Key Identifier extension |
+| [e_atis_ext_authority_key_identifier_ca](../../ISSUES/e_atis_ext_authority_key_identifier_ca/README.md) | error | ATIS1000080 | STI certificates shall contain an Authority Key Identifier extension |
+| [e_atis_ext_certificate_policies_ca](../../ISSUES/e_atis_ext_certificate_policies_ca/README.md) | error | ATIS1000080 | the Certificate Policies extension is not present |
+| [e_atis_ext_crl_distribution_ca](../../ISSUES/e_atis_ext_crl_distribution_ca/README.md) | error | ATIS1000080 | STI End-Entity certificates shall contain a CRL Distribution Points extension |
+| [e_ext_authority_key_identifier_no_key_identifier](../../ISSUES/e_ext_authority_key_identifier_no_key_identifier/README.md) | error | RFC5280 |  |
 
 ### Not Effective
 
-- e_atis_ca_certificate_policies
-- e_atis_ca_crl_distribution
-- e_atis_ca_extension_unknown
-- e_atis_ca_serial_number
-- e_atis_ca_subject_cn
+- e_atis_ca_ext_not_specified
+- e_atis_ca_serial_number_size
+- e_atis_ca_subject_c_iso
+- e_atis_ca_subject_key_identifier_size
+- e_atis_ca_subject_o_required
+- e_shaken_certificate_policies_id_ca
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 11 Jan 23 21:59 UTC
+Generated: 21 Nov 23 01:55 UTC

@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 672B
+
+Tested At: 21 Nov 23 01:29 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -212 day(s)\
+Subject: CN=SHAKEN 672B, O=Clear Rate, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/dcef9a97-b864-43ac-830b-2290a8d0f002/e7062e9c5048be8f8896afe46fbf591f.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICyTCCAnCgAwIBAgIQawzSVzIxmbaG8REX21J03DAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwNDE1MjA0MTAyWhcNMjMwNDIyMjA0MTAxWjA4MQswCQYDVQQGEwJVUzETMBEGA1UEChMKQ2xlYXIgUmF0ZTEUMBIGA1UEAxMLU0hBS0VOIDY3MkIwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASURhEOgodfKM8ZFoJ9R1oZnezhe5S0RSh1u6pzWR4U2HW8NzMm%2Fz5lrPy5yNhpzE0ufb4flUG1xb5x2aSkOyvmo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFMt6EN30%2BJ9r%2BBVTHs%2Bf6%2BF%2F9FLuMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDY3MkIwCgYIKoZIzj0EAwIDRwAwRAIgR8ynAWDcxg%2BENGkdlXVo83pWzMRJasr21P2V4W68rysCIHYGkn7c%2FFFZSIB%2FUKBWCUfEGkrN%2FU0lSI3DV5%2FpqZxT)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 21 Nov 23 01:55 UTC

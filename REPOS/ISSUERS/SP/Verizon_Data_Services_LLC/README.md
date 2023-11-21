@@ -2,14 +2,14 @@
 
 ## Verizon Data Services LLC
 
-- 1 repository URLs were included in the corpus being tested
-- 0 repository URLs in the corpus were skipped because they were duplicated
+- 2 repository URLs were included in the corpus being tested
+- 1 repository URLs in the corpus were skipped because they were duplicated
 - 1 repository URLs being tested against the remaining rules
 - 1.00 issues on average found in non-compliant certificate repository URLs
 - 0.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 22ms average time it took to download each certificate
+- 190ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -20,4 +20,4 @@
 | `https://sti.verizon.com/vzwcert/vzshaken-02-2024.crt` | 16&#160;Feb&#160;24&#160;17:30&#160;UTC | true | [view](REPOS/3c993e5ab26bb9e246ceac061b199e01aa2501c1/README.md) |
 
 
-Generated: 11 Jan 23 21:59 UTC
+Generated: 21 Nov 23 01:55 UTC

@@ -1,0 +1,13 @@
+# STIR/SHAKEN Certificate Repository Compliance
+
+## TransNexus
+
+Name: `https://certificates.transnexus.com/625J/1b904047-a841-4ee7-aeb4-f6a28fb44b65.pem`\
+Tested At: 21 Nov 23 01:30 UTC\
+Time: 88ms
+
+### Issues
+
+no warning, or error, or notice date level issues were found
+
+Generated: 21 Nov 23 01:55 UTC

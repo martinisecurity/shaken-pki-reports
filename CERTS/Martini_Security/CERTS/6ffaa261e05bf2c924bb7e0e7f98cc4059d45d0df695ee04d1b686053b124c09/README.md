@@ -2,16 +2,24 @@
 
 ## Certificate SHAKEN 039K
 
-Tested At: 11 Jan 23 21:52 UTC\
+Tested At: 21 Nov 23 01:53 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: 20 day(s)\
+Remaining Validity Period: -293 day(s)\
 Subject: O=Bluebird Wireless Broadband Services\\, LLC., C=US, serialNumber=D58C26B7D997CF0E4690B342B703E1A0, CN=SHAKEN 039K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/DmEER_UmW8Vq.pem
 
 [View certificate details](https://understandingwebpki.com/?cert=MIIDNTCCAtugAwIBAgIUDmEER%2FUmW8VqokKcBJd84YBuSgYwCgYIKoZIzj0EAwIwcTELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAldBMRAwDgYDVQQHEwdTZWF0dGxlMR4wHAYDVQQKExVNYXJ0aW5pIFNlY3VyaXR5LCBMTEMxIzAhBgNVBAMTGk1hcnRpbmkgU2VjdXJpdHkgU0hBS0VOIEcyMB4XDTIyMTEwMjE5MDEyMloXDTIzMDEzMTA2MDAwMFowgYMxFDASBgNVBAMTC1NIQUtFTiAwMzlLMSkwJwYDVQQFEyBENThDMjZCN0Q5OTdDRjBFNDY5MEIzNDJCNzAzRTFBMDELMAkGA1UEBhMCVVMxMzAxBgNVBAoTKkJsdWViaXJkIFdpcmVsZXNzIEJyb2FkYmFuZCBTZXJ2aWNlcywgTExDLjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABCz3pDU7qsbG2u1Cag%2BsyLiKWPMdY%2FuIJcTjhISvc%2BLuxdKycvIiJXtU8OfY3XcbpBPE7uaAdvaCLZTRQX0VXpujggE8MIIBODAOBgNVHQ8BAf8EBAMCB4AwDAYDVR0TAQH%2FBAIwADAdBgNVHQ4EFgQULYcQ8GBX%2FM8A3Dql10BRMzL1kHowHwYDVR0jBBgwFoAUKIRQXuRDeCzQc7OLG%2F2kzBZimBgwFgYIKwYBBQUHARoECjAIoAYWBDAzOUswgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBxMLQnJpZGdld2F0ZXIxCzAJBgNVBAgTAk5KMRMwEQYDVQQDEwpTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UEChMGU1RJLVBBMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzAKBggqhkjOPQQDAgNIADBFAiEA7Sf2jFpx4uZ8tEpmnhbM2lWvItwhim9Z%2FseMbXER0L8CIGoXqCKyVk21D8ppneff6EACYFr1TGTGRvgyEza%2B8E7N)
 
-149 tests were ran and no error, warning, or notice level issues were found
+160 tests were ran and no error, warning, or notice level issues were found
+
+### Not Effective
+
+- e_atis_ext_not_specified
+- e_atis_serial_number_size
+- e_atis_tn_auth_list_spc_format
+
+\* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 11 Jan 23 21:59 UTC
+Generated: 21 Nov 23 01:55 UTC

@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 314K
+
+Tested At: 21 Nov 23 01:28 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -238 day(s)\
+Subject: CN=SHAKEN 314K, O=Proclaim Voip, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/af41d000-7fb7-42d7-83f7-9686b67ecb60/2ca08813ddbe241a095ef938ae085cb6.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICzjCCAnOgAwIBAgIQWnQfTPDXVM09XrSMBRO9ZTAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwMzIwMjAwMjE3WhcNMjMwMzI3MjAwMjE2WjA7MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNUHJvY2xhaW0gVm9pcDEUMBIGA1UEAxMLU0hBS0VOIDMxNEswWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQibK8qLsVTcZsHTZUPL701iNKlNr%2FWN4rJf6q7qAD9Vg0YHPYxB4NxgkMDNDXUjrr3GWosBR9TUdACSIU81IEfo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFHpNhYHdWNut0cmmb8VkRfOSYtXjMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDMxNEswCgYIKoZIzj0EAwIDSQAwRgIhAMs4M5BtSpWQwCOFkb625SxEo4pk7DOU6r76GWJi52AVAiEA3ErHxX8QgVYYg%2BGmU7szbuw7srJUiNd4E5rjCmwnh7o%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 21 Nov 23 01:55 UTC

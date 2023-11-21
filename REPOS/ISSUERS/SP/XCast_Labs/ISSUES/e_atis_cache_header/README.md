@@ -9,11 +9,13 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://cr.xcastlabs.net/1663914600/xclsshaken.pem` | 23&#160;Sep&#160;22&#160;06:30&#160;UTC | true | [view](../../REPOS/83787d87a3e0f1d81100b759e11a8af9f2ad7e04/README.md) |
-| `https://cr.xcastlabs.net/1666420200/xclsshaken.pem` | 22&#160;Oct&#160;22&#160;06:30&#160;UTC | true | [view](../../REPOS/51e8553920faecae2b05c10e4557483f6e9efdc1/README.md) |
-| `https://cr.xcastlabs.net/1668234600/xclsshaken.pem` | 12&#160;Nov&#160;22&#160;06:30&#160;UTC | true | [view](../../REPOS/5039332f8883f8c1e5d71a6bc53ffcedbd71cf74/README.md) |
-| `https://cr.xcastlabs.net/1670740200/xclsshaken.pem` | 11&#160;Dec&#160;22&#160;06:30&#160;UTC | true | [view](../../REPOS/be9cd8c60b53ae5a11e0e69b25a200a5d25f393b/README.md) |
-| `https://cr.xcastlabs.net/1673245800/xclsshaken.pem` | 09&#160;Jan&#160;23&#160;06:30&#160;UTC | true | [view](../../REPOS/311a0f23f8993ecce8c3ca050c788495a2b728b8/README.md) |
+| `https://cr.xcastlabs.net/1685577600/xclsshaken.pem` | 01&#160;Jun&#160;23&#160;00:00&#160;UTC | true | [view](../../REPOS/27a18bec4e6bb648598618f6db4554093d6a1877/README.md) |
+| `https://cr.xcastlabs.net/1688106600/xclsshaken.pem` | 30&#160;Jun&#160;23&#160;06:30&#160;UTC | true | [view](../../REPOS/cdadac9660d1032fbfee0ddd93e2265dceecde3f/README.md) |
+| `https://cr.xcastlabs.net/1690612200/xclsshaken.pem` | 29&#160;Jul&#160;23&#160;06:30&#160;UTC | true | [view](../../REPOS/98514f1f2d7ae4af185548e50dc227855ef56790/README.md) |
+| `https://cr.xcastlabs.net/1693117800/xclsshaken.pem` | 27&#160;Aug&#160;23&#160;06:30&#160;UTC | true | [view](../../REPOS/d9b351f8e4eb469fef37cb0197f8f3f7e57fc301/README.md) |
+| `https://cr.xcastlabs.net/1695623400/xclsshaken.pem` | 25&#160;Sep&#160;23&#160;06:30&#160;UTC | true | [view](../../REPOS/55e13be263abf4dab3b93e500ae3909bdaebaa15/README.md) |
+| `https://cr.xcastlabs.net/1698129000/xclsshaken.pem` | 24&#160;Oct&#160;23&#160;06:30&#160;UTC | true | [view](../../REPOS/da63ed79521ee837a326fcd103ba3774d2a637aa/README.md) |
+| `https://cr.xcastlabs.net/1700784000/xclsshaken.pem` | 24&#160;Nov&#160;23&#160;00:00&#160;UTC | true | [view](../../REPOS/eaa2b532b5b3d7677133c697a92842c3d58d5ef9/README.md) |
 
 
-Generated: 11 Jan 23 21:59 UTC
+Generated: 21 Nov 23 01:55 UTC

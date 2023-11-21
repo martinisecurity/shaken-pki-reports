@@ -2,9 +2,9 @@
 
 ## Certificate Metaswitch STI-CA SHAKEN Root
 
-Tested At: 11 Jan 23 21:59 UTC\
+Tested At: 21 Nov 23 01:54 UTC\
 Initial Validity Period: 7300 day(s)\
-Remaining Validity Period: 6523 day(s)\
+Remaining Validity Period: 6210 day(s)\
 Subject: CN=Metaswitch STI-CA SHAKEN Root\
 Issuer: CN=Metaswitch STI-CA SHAKEN Root
 
@@ -12,17 +12,21 @@ Issuer: CN=Metaswitch STI-CA SHAKEN Root
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_ca_subject](../../ISSUES/e_atis_ca_subject/README.md) | error | ATIS1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
+| [e_atis_ca_subject_dn](../../ISSUES/e_atis_ca_subject_dn/README.md) | error | ATIS1000080 | Subject DN does not contain a Country (C=) attribute |
 
 ### Not Effective
 
-- e_atis_ca_issuer_dn
+- e_atis_ca_ext_not_specified
 - e_atis_ca_serial_number
-- e_atis_ca_subject_cn
-- e_atis_root_certificate_policies
-- e_atis_root_extension_unknown
+- e_atis_ca_serial_number_size
+- e_atis_ca_subject_c_iso
+- e_atis_ca_subject_key_identifier_size
+- e_atis_ca_subject_o_required
+- e_atis_ext_certificate_policies_root
+- e_atis_ext_crl_distribution_root
+- e_atis_subject_cn_root
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 11 Jan 23 21:59 UTC
+Generated: 21 Nov 23 01:55 UTC

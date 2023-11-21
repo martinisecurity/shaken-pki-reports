@@ -4,21 +4,21 @@
 
 Name: e_atis_subject_cn\
 Source: ATIS1000080\
-Citation: ATIS-1000080.v004 / 6.4.1 STI Certificate Requirements\
-Effective Date: 16 Jan 22 00:00 UTC\
-Description: The Common Name attribute of an End-Entity certificate shall contain the text string “SHAKEN”, followed by a single space, followed by the SPC value identified in the TNAuthList of the End-Entity certificate
+Citation: ATIS-1000080.v003 / 6.4.1 SHAKEN Certificate Requirements\
+Effective Date: 03 Dec 20 00:00 UTC\
+Description: The Common Name attribute shall include the text string `SHAKEN` to indicate that this is a SHAKEN certificate.
 
 ### Leaf Certificates
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | Avid Communication SHAKEN Cert 742D | [view](../../CERTS/b63d54026dfcdfd16495ad6fdda8993de182c86b4aa870784177c38c53842cba/README.md) | Common name shall contain the text string 'SHAKEN 742D' |
-| error | Northeast Oklahoma Electric Cooperative SHAKEN Cert 945H | [view](../../CERTS/b399b86f53e35dfa37c4cd7b28ee0132d934ef73354f564636d8edee42d58ccd/README.md) | Common name shall contain the text string 'SHAKEN 945H' |
-| error | Kaplan Telephone SHAKEN cert 0432 | [view](../../CERTS/24c1b7c4dc4aeda21b5d1c5ff7f059903693c4a8b67ecc054ef05542a2ff4c35/README.md) | Common name shall contain the text string 'SHAKEN 0432' |
+| error | Crosstel Tandem Inc Holston Shaken Cert 308H  | [view](../../CERTS/c3ca2954b6b625e08636377012a5b92ef553eb182f77872b9a072b8644fe4096/README.md) | Common Name attribute 'Crosstel Tandem Inc Holston Shaken Cert 308H ' does not contain 'SHAKEN' |
+| error | Hunter Communications Shaken Cert 660C | [view](../../CERTS/0d2022504ffa5407f662990a785786cb0da72ce014838e2cffdcd95cb70c6f64/README.md) | Common Name attribute 'Hunter Communications Shaken Cert 660C' does not contain 'SHAKEN' |
+| error | Mediacom 846F | [view](../../CERTS/e6c9e9fd411d8174b3ffe1af4d569c6919f4b98a5d0c6e429cd3682d82284e7e/README.md) | Common Name attribute 'Mediacom 846F' does not contain 'SHAKEN' |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 11 Jan 23 21:59 UTC
+Generated: 21 Nov 23 01:55 UTC

@@ -9,7 +9,8 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
+| `https://ssc.getsipnav.com/certs/2ae1590ba7b804c703e2af2842d1290fe9a70fc0` | 26&#160;Jun&#160;24&#160;16:12&#160;UTC | true | [view](../../REPOS/3194a2e57f91693a4c2fb063363a6115489a764e/README.md) |
 | `https://ssc.getsipnav.com/certs/9861b7e493ab608182e57524671889bf94cd2fc8` | 21&#160;Jun&#160;23&#160;21:04&#160;UTC | true | [view](../../REPOS/848a32e386f70fb06fcecfdbeeccbc163b9e9427/README.md) |
 
 
-Generated: 11 Jan 23 21:59 UTC
+Generated: 21 Nov 23 01:55 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate Logix-Keystore
 
-Tested At: 11 Jan 23 21:49 UTC\
+Tested At: 21 Nov 23 01:32 UTC\
 Initial Validity Period: 1096 day(s)\
-Remaining Validity Period: 402 day(s)\
+Remaining Validity Period: 89 day(s)\
 Subject: C=US, ST=TX, L=Dallas, O=Logix, OU=Logix Fiber Network, CN=Logix-Keystore\
 Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11159.10178
@@ -13,19 +13,21 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11159.10178
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall include a Certificate Policies extension containing a single SHAKEN Certificate Policy |
-| [w_shaken_subject_rdn_unknown](../../ISSUES/w_shaken_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, O, L, and SERIALNUMBER should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| [e_atis_ext_certificate_policies](../../ISSUES/e_atis_ext_certificate_policies/README.md) | error | ATIS1000080 | the Certificate Policies extension is not present |
+| [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common Name attribute 'Logix-Keystore' does not contain 'SHAKEN' |
+| [e_atis_signature_algorithm](../../ISSUES/e_atis_signature_algorithm/README.md) | error | ATIS1000080 | SignatureAlgorithm field is not 'ecdsa-with-SHA256', got 1.2.840.113549.1.1.11 |
 
 ### Not Effective
 
-- e_atis_extension_unknown
-- e_atis_serial_number
-- e_atis_signature_algorithm
-- e_atis_subject_cn
+- e_atis_ext_not_specified
+- e_atis_serial_number_size
+- e_atis_subject_cn_spc
+- e_atis_subject_key_identifier_size
+- e_atis_subject_o_required
+- e_atis_tn_auth_list_spc_format
+- e_shaken_certificate_policies_id
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 11 Jan 23 21:59 UTC
+Generated: 21 Nov 23 01:55 UTC

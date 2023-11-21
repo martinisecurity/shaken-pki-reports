@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 014E
+
+Tested At: 21 Nov 23 01:23 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -98 day(s)\
+Subject: CN=SHAKEN 014E, O=IdeaTek Telcom, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/1d654fd0-a496-463d-87c0-7fef44ec35c9/96b7180bdaefb3bcb8d58da8b7694537.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICzzCCAnSgAwIBAgIQRSh%2B2zZRWBPlIGaoVM6QuDAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwODA3MjA0NTIzWhcNMjMwODE0MjA0NTIyWjA8MQswCQYDVQQGEwJVUzEXMBUGA1UEChMOSWRlYVRlayBUZWxjb20xFDASBgNVBAMTC1NIQUtFTiAwMTRFMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE0BJsQfecJMeeWMKyItlOpEg5cqHb7pPF%2FwrFyw0Njx9l2Q54fpmNc3kP1wpWJ%2F1VFfYZJdDOQ8H6CRZ%2BXSH5M6OCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBS4SXuFsHxvCy38AQVChUgjF4Ho0DAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQwMTRFMAoGCCqGSM49BAMCA0kAMEYCIQDfP5YibnzTRzQKs%2BZLCNhcs4NmBn344X4j5SxXOBHiEgIhAJeE7LC4qFW7XEsVRJxl85kLH7L8%2BXTzISiFcwcBls4n)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 21 Nov 23 01:55 UTC

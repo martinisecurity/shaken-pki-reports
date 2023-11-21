@@ -2,23 +2,24 @@
 
 ## MAQS SOLUTIONS LLC
 
-- 1 repository URLs were included in the corpus being tested
+- 2 repository URLs were included in the corpus being tested
 - 0 repository URLs in the corpus were skipped because they were duplicated
-- 1 repository URLs being tested against the remaining rules
+- 2 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 93ms average time it took to download each certificate
+- 384ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 1 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
-| 1 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 2 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
+| 2 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://dial.maqssolution.live/255KDJ23.pem` | 26&#160;Jan&#160;23&#160;20:13&#160;UTC | true | [view](REPOS/23e8ed171b34663b4a5dd3483d9580e784ff9da5/README.md) |
+| `https://dial.maqssolution.live/255KND23.pem` | 03&#160;Dec&#160;23&#160;20:13&#160;UTC | true | [view](REPOS/898a6eb940d2e3dbfa5f2003df89019225a77074/README.md) |
+| `https://dial.maqssolution.live/255KON23.pem` | 02&#160;Nov&#160;23&#160;20:13&#160;UTC | true | [view](REPOS/98e166c1a6b06dd35c66bc4a75447617d0620803/README.md) |
 
 
-Generated: 11 Jan 23 21:59 UTC
+Generated: 21 Nov 23 01:55 UTC

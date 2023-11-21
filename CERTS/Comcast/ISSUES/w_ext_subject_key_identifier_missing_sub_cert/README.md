@@ -12,35 +12,23 @@ Description: Sub certificates SHOULD include Subject Key Identifier in end entit
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| warn | SHAKEN | [view](../../CERTS/3c1feadb782422f8492b83eb4a0fdcbcd230291f94534042646f961f05418cc6/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/f3c54d0023456edb8ff9770c68c521420c42a39e19c343ed2fa286ed9916f7ff/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/6f49f93c37dfd0a797cbb76e1bb375187bc3dd81e290d71f09062e146ffbc5a5/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/d1856c43a51de1a134f66f52b814e02f74337ad5b333a535998b0c902fea1732/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/ab0353798a61f2d212ffe38c9a33d2fa0c803844aca24da76114b5fa62755a6b/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/8a5ac304b6e3a9f79712a464dab5352d52c405abd392c4e43a9a61c43ba7ea52/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/9af1e9b933422d895f48e7bded49d4cb5a45627270363b404b25460949bbd80a/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/181b303cc678bc49aea4b194221ef7ebd6eb913a7edd403eac378abe6973e10e/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/6ac462bb6d62f76394804f9da35ca418287bdb23e7e5a9de199ed30461199b86/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/6bb26adc661a2c1677f5d179b39730ef80de3915f5e173c8266d9b60859df014/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/c6b0e6e0f16748c7cb79e59d992e4a7f9a5b604db0626c29d087283fc6ea9bd7/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/89a4fc1d7d8a2a4b27ae4795f57b07d64546f2371f974f6f2c9bf69dcf77da95/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/c1ce63969a3c9f1c54dd2cc11e722964b70f95548d4dc7dd87c9656e2e885d95/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/3138b9e46e3935bf9864546ee6d293467a65ffc9176c83029a10698e213b7df3/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/1c7b199b02aa9141d7cd1818566871a3f270042ce87d44635284e3f7c6207dd4/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/ab5ef23f58167423e7ea6cefb7a355d68063da131be72a0464e4dd848866499e/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/f96b2daf35b2ef435617f6d54682890046e64ed68fe0be08b6bad4e9456345e9/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/babdded586b1f1d3868a0d440c1ae126a27ce77e518c01f7669632081497f9c7/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/caa1ffa55138d9175e4cc68d4cce4209180b57842ec4503031da17e569dacb1e/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/9dd978e65bb964040c395891f6566df6d0c42bce6fb0c59fdfbae4dbb9937be8/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/de1ea73d46bf96f00714603919b38804d1177f61fc3a14eb7dbbd3706e1d1872/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/ec20a19dd15adcf3e2f248554be2aaa211a314666566ebff305a7ce8f2177b60/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/717979f72696355125fbf59fa02f91a40ebc15a1d913e1ac793e75c802f65c6f/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/d03657e109d20dda9ca046a59bd1b6381a611304f9039b7b0bb1e5d547f9d975/README.md) |  |
-| warn | SHAKEN | [view](../../CERTS/719acb92673a27a95a56884222e14e9c325ad7e00a496f51ee2ca0b81377c1b6/README.md) |  |
+| warn | SHAKEN | [view](../../CERTS/e9b00ef140c2d03210099c3a46cbbea4a81864dfd75523aa7b048fb55036bafb/README.md) |  |
+| warn | SHAKEN | [view](../../CERTS/20bd9caf838f46d12dbfed0e7556f753331413e9c7672896a1f9af19760bbb50/README.md) |  |
+| warn | SHAKEN | [view](../../CERTS/160e7e9069366204de585183cc7d551f387a86f3f24159c7c5ae60775c3b7642/README.md) |  |
+| warn | SHAKEN | [view](../../CERTS/8da7d29c58b5bec64c1c66fdc95b41d77afb06a22f1a91366e3e10341d250558/README.md) |  |
+| warn | SHAKEN | [view](../../CERTS/212b0797178fa925cf3bac2f025a1d4c6ed6d5bfe38bda2876331e00a456dd44/README.md) |  |
+| warn | SHAKEN | [view](../../CERTS/dfb5e692fde572d2e39724b7d0a84e452b33e57b1629b50ae66d6014b93a2d78/README.md) |  |
+| warn | SHAKEN | [view](../../CERTS/fbdf6f212f5d3f401e5a2d0f1beda961b5e4092b682aff97f7f6899df1a260ed/README.md) |  |
+| warn | SHAKEN | [view](../../CERTS/d7668eb47d684508189db2f5613d8c17059699ca844db1898708de3953cf6673/README.md) |  |
+| warn | SHAKEN | [view](../../CERTS/f743f0172b23343ed0e7f5ec154bbafcb9ae57ae86562aeaad84cbf0607d11ed/README.md) |  |
+| warn | SHAKEN | [view](../../CERTS/b925a07389b773443ddfaf032fe8f36349aa8fa2fb9b8f5ef57c7d1823352c08/README.md) |  |
+| warn | SHAKEN | [view](../../CERTS/27138bc9434b23cc66c21ed9ca2108eda200576abfae2dc78705b0d92684f111/README.md) |  |
+| warn | SHAKEN | [view](../../CERTS/feef689bf1cc8679ba98ba192848f7a66d498d98f5a95ef17ceea88b468d0152/README.md) |  |
+| warn | SHAKEN | [view](../../CERTS/35aa06e8a904ac94a056685aab8c313c7c14c2588fc98345dc12fcb7ea2966b1/README.md) |  |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 11 Jan 23 21:59 UTC
+Generated: 21 Nov 23 01:55 UTC

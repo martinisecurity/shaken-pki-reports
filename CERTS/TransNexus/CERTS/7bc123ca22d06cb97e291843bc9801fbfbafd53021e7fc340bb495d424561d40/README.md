@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 1772
+
+Tested At: 21 Nov 23 01:23 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -86 day(s)\
+Subject: CN=SHAKEN 1772, O=RINA Wireless, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/1fa8e9a2-9040-49b3-b26e-02625ac785b8/41790c42e4c6b838f8a3b9b80d873f38.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICzjCCAnOgAwIBAgIQRmkcoxSDbjdk8XVOFwRl4zAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwODE5MjExODM2WhcNMjMwODI2MjExODM1WjA7MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNUklOQSBXaXJlbGVzczEUMBIGA1UEAxMLU0hBS0VOIDE3NzIwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASWMZoqU4j9ML0VPKyrYCcR7aPuLFM2cInElQpcm0xpK9Nen75H9s6wuP09S5x58UWy51WJLN38rxsg77hPpKZFo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFOqH6gGKfRLslRgl411VPTyL0LRfMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDE3NzIwCgYIKoZIzj0EAwIDSQAwRgIhAL7oJ6z2UvfiXwOWOilv7A2ojFKijg4ZW8LS4DkDSrUOAiEApv%2Fx6Ar4vrhSqXuga%2BG8H5g%2BQs1y6vFpS%2BsiyfTvi2A%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 21 Nov 23 01:55 UTC

@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 691J
+
+Tested At: 21 Nov 23 01:26 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -224 day(s)\
+Subject: CN=SHAKEN 691J, O=Toly Digital Networks Inc, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/84c98183-b28e-415a-8dc4-ba02b9ca5418/606097a4f06b1f5e842e558b7b3ebc37.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC2jCCAn%2BgAwIBAgIQd0ZDDBsmwR5vDxoNINNQjDAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwNDAzMjAzODUwWhcNMjMwNDEwMjAzODQ5WjBHMQswCQYDVQQGEwJVUzEiMCAGA1UEChMZVG9seSBEaWdpdGFsIE5ldHdvcmtzIEluYzEUMBIGA1UEAxMLU0hBS0VOIDY5MUowWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAT6fNxwOyF%2BApvZPEX6pCWUN%2FuTB6bjWTG435x47kH6UOXmrQJ99rAy8XwuT7yAOZ0J%2BLd0xAqH%2BD86vHqvQ0kKo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFOkL2JYM7pLE8NB7%2BuXvKw54xpJ4MB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDY5MUowCgYIKoZIzj0EAwIDSQAwRgIhAJH9DTkw6OfwqPQ2nqWRCZdWz%2F%2B5kofHvCVeCaXGV1cvAiEA2yRO0E3KFrY9J9g6JyFbSLgp4Diany0oMAHx6SBK5eU%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 21 Nov 23 01:55 UTC

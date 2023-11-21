@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 73ms average time it took to download each certificate
+- 193ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://api.alianza.com/v2/stir-shaken/certs/b45a4083-1554-4412-b5fc-bbd2c027091e/key.crt` | 28&#160;Oct&#160;23&#160;14:59&#160;UTC | true | [view](REPOS/8cd63da4dba44c4f18b788c3d57b8c6ef58c4cd9/README.md) |
+| `https://api.alianza.com/v2/stir-shaken/certs/b45a4083-1554-4412-b5fc-bbd2c027091e/key.crt` | 01&#160;Oct&#160;24&#160;17:01&#160;UTC | true | [view](REPOS/8cd63da4dba44c4f18b788c3d57b8c6ef58c4cd9/README.md) |
 
 
-Generated: 11 Jan 23 21:59 UTC
+Generated: 21 Nov 23 01:55 UTC

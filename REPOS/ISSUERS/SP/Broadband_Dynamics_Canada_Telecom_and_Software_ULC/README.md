@@ -9,7 +9,7 @@
 - 0.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 104ms average time it took to download each certificate
+- 178ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -17,7 +17,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://canada-cr.sansay.com/Broadband_Dynamics_Canada_Telecom_and_Software_ULC_884J` | 03&#160;May&#160;23&#160;20:56&#160;UTC | true | [view](REPOS/7af5cdec362c208bdb5f801e392599e898246fb1/README.md) |
+| `https://canada-cr.sansay.com/Broadband_Dynamics_Canada_Telecom_and_Software_ULC_884J` | 16&#160;May&#160;24&#160;19:08&#160;UTC | true | [view](REPOS/7af5cdec362c208bdb5f801e392599e898246fb1/README.md) |
 
 
-Generated: 11 Jan 23 21:59 UTC
+Generated: 21 Nov 23 01:55 UTC

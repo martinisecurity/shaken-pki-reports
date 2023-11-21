@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 539K
+
+Tested At: 21 Nov 23 01:27 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -92 day(s)\
+Subject: CN=SHAKEN 539K, O=Seimitsu, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/8c353899-f65d-4c30-ae27-8517735d7d2d/730f4682303b2f84d64e9d0dc3a01885.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICyDCCAm6gAwIBAgIQRh7Q1EJ01%2BrDtJM8KJl%2F%2FTAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwODEzMjAxMDI4WhcNMjMwODIwMjAxMDI3WjA2MQswCQYDVQQGEwJVUzERMA8GA1UEChMIU2VpbWl0c3UxFDASBgNVBAMTC1NIQUtFTiA1MzlLMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEseSreC9vht82MK1maXQt4oyliemH1xKbhR6rFTHrz5aQ%2FIOeMLdxn0U7Z89DndTf7LqrlK54TQZ1uml%2FqHwOyaOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBTKqgxRjN5FUmj%2F9uQSrDd%2F4hD39zAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ1MzlLMAoGCCqGSM49BAMCA0gAMEUCIAoLh7ZnXwupdAsklwi%2FFsCYdvIYR9Vx3Aew5b7AxT%2BRAiEA6iEYQ4eSEISb%2BstkiHARUtxiztPrNd530mRNnVzgr7Y%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 21 Nov 23 01:55 UTC

@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 660K
+
+Tested At: 21 Nov 23 01:27 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -119 day(s)\
+Subject: CN=SHAKEN 660K, O=SimpleFiber Communications, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/9aba2296-8b3e-464d-abe2-a6b3f9bff2b1/7a1b947352d964c0feef44950ec531d1.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC2jCCAoCgAwIBAgIQYDEDRzPKJV22uGwgGD5yuzAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwNzE3MjAwNTA1WhcNMjMwNzI0MjAwNTA0WjBIMQswCQYDVQQGEwJVUzEjMCEGA1UEChMaU2ltcGxlRmliZXIgQ29tbXVuaWNhdGlvbnMxFDASBgNVBAMTC1NIQUtFTiA2NjBLMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE%2FDYwAb7TQ4Nhlldm17cTaCWjZ1I8IF2EH8CRjfGf6AdGtGkd4xwVwSVH29KDDD4gA1KdFMMgWqhU2rN8vNFXgKOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBQx%2BG4SOhk9Vj7up7CWngV8NunH8zAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ2NjBLMAoGCCqGSM49BAMCA0gAMEUCIQCJdLZTVJmUbwGJL1XZAllAFuhTiIdOLfPG3zPs0omtOQIgEYQg0DiQVzDa%2BFHFtYjQpMX0tHThfsH0iSJw4GMyhxM%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 21 Nov 23 01:55 UTC

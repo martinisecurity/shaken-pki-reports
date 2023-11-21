@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 700H
+
+Tested At: 21 Nov 23 01:23 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -230 day(s)\
+Subject: CN=SHAKEN 700H, O=Metro Fibernet LLC, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/22b6cee0-8559-4c73-8092-6eee861c4b49/2e4e07edea7f2d049bb4409f1dc667af.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC0zCCAnigAwIBAgIQeOPYIXwN43D7gcAihiQj6jAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwMzI4MjAzMzQ0WhcNMjMwNDA0MjAzMzQzWjBAMQswCQYDVQQGEwJVUzEbMBkGA1UEChMSTWV0cm8gRmliZXJuZXQgTExDMRQwEgYDVQQDEwtTSEFLRU4gNzAwSDBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABKMfifOjOlJNnDax9qFjkHeYm8KMHQIx5GNw3CgSbDgyDhHxJIyN3p3JQz3G6M6qEPUQz5IyOXJGlGodAL4R4U2jggE8MIIBODAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAdBgNVHQ4EFgQUzyruI%2BMitDpqBSZOZtZrCk%2FWvKswHwYDVR0jBBgwFoAUMPX18rfhSwsPEHV9SKSQ8T2LKCowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEDMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAWBggrBgEFBQcBGgQKMAigBhYENzAwSDAKBggqhkjOPQQDAgNJADBGAiEAqd9jO8%2FIVZKZXpD4eGGLGZF7H2PA1sSKqARDKUfVYToCIQD1OcOawkVWftErQDDZGvAWWIOUL20x9KRyLGSmvBWwVw%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 21 Nov 23 01:55 UTC

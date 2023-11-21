@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 155F
+
+Tested At: 21 Nov 23 01:22 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -22 day(s)\
+Subject: CN=SHAKEN 155F, O=Super-Net Inc, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/037240bc-315a-4975-b8f0-2a4ec2b5a0aa/de354eedd093cb7b12469988ab77c3cb.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICzTCCAnOgAwIBAgIQV4tzyd5fK%2FkxOLKcj%2BiNkzAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMxMDIyMTUzMjAyWhcNMjMxMDI5MTUzMjAxWjA7MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNU3VwZXItTmV0IEluYzEUMBIGA1UEAxMLU0hBS0VOIDE1NUYwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATAI%2FjXukFY32kgmigQHJyHl8GDwe4rw2YW1EbOUBjpDGDwB7SYQXyVXCycylpGIns1D3jMFGTINZ6xzvO0u5LQo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFN%2FtEZuWYCE8cq8lUne02GOt12lzMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDE1NUYwCgYIKoZIzj0EAwIDSAAwRQIgMv%2Bl9bmV3DtBl3ZqEsmXPhPFIRn9N2mcCtoaJw8wJDkCIQCDce0MS%2F0elCw3XFg%2Fgbko3aRnJLulhARMMy8rsx1q7w%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 21 Nov 23 01:55 UTC

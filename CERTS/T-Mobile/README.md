@@ -9,31 +9,25 @@
 
 #### Leaf Certificates
 
-- 2 certificates were included in the corpus being tested
+- 3 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
-- 0 certificates in the corpus were skipped because they are expired
+- 2 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 2 certificates being tested against the remaining rules
-- 4.50 issues on average found in unexpired, trusted, and non-compliant certificates
+- 1 certificates being tested against the remaining rules
+- 1.00 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
-- 100.00% of certificates contain one or more Warning level issue
+- 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 342 days is the average remaining validity for the certificates in the corpus
+- 331 days is the average remaining validity for the certificates in the corpus
 - 366 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
-- 2.00 average number of unexpired certificates per OCN observed
+- 1.00 average number of unexpired certificates per OCN observed
 - 1 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 1 | [e_atis_basic_constraints](ISSUES/e_atis_basic_constraints/README.md) | ATIS1000080 |
-| 1 | [e_atis_certificate_policies](ISSUES/e_atis_certificate_policies/README.md) | ATIS1000080 |
-| 1 | [e_atis_extension_unknown](ISSUES/e_atis_extension_unknown/README.md) | ATIS1000080 |
-| 1 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
-| 1 | [e_us_cp_ambiguous_identifier](ISSUES/e_us_cp_ambiguous_identifier/README.md) | US_SHAKEN_CP |
-| 2 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
-| 2 | [w_shaken_subject_rdn_unknown](ISSUES/w_shaken_subject_rdn_unknown/README.md) | SHAKEN_PKI_BEST_PRACTICES |
+| 1 | [e_us_cp_subject_sn_shall](ISSUES/e_us_cp_subject_sn_shall/README.md) | US_SHAKEN_CP |
 
 #### CA Certificates
 
@@ -42,19 +36,18 @@
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
 - 4 certificates being tested against the remaining rules
-- 2.00 issues on average found in unexpired, trusted, and non-compliant certificates
+- 1.00 issues on average found in unexpired, trusted, and non-compliant certificates
 - 25.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
-- 75.00% of certificates are too old to be assessed against currently enforced expectations
-- 5967 days is the average remaining validity for the certificates in the corpus
+- 100.00% of certificates are too old to be assessed against currently enforced expectations
+- 5904 days is the average remaining validity for the certificates in the corpus
 - 5478 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 1 | [e_atis_ca_serial_number](ISSUES/e_atis_ca_serial_number/README.md) | ATIS1000080 |
-| 1 | [e_us_cp_ca_key_usage_crl_sign](ISSUES/e_us_cp_ca_key_usage_crl_sign/README.md) | US_SHAKEN_CP |
+| 1 | [e_atis_subject_cn_ca](ISSUES/e_atis_subject_cn_ca/README.md) | ATIS1000080 |
 
 ### Details
 
@@ -62,8 +55,7 @@
 
 | Created At | Subject | Not After | Problems | Link |
 |------------|---------|-----------|----------|------|
-| 14&#160;Jul&#160;22&#160;21:05&#160;UTC | cert.stir.t-mobile.com | 14&#160;Jul&#160;23&#160;21:35&#160;UTC | true | [view](CERTS/7f653e15453416082531011acd1d7dad4f664ddf5124f73e27d841138f4a89f8/README.md) |
-| 01&#160;Nov&#160;22&#160;13:46&#160;UTC | SHAKEN 6529 | 01&#160;Nov&#160;23&#160;14:16&#160;UTC | true | [view](CERTS/a3bffabdf710ee8fd719f4bf09ec27341e7e9705b4ac4687b98e4d137222cf38/README.md) |
+| 12&#160;Sep&#160;23&#160;14:17&#160;UTC | SHAKEN 6529 | 11&#160;Sep&#160;24&#160;14:47&#160;UTC | true | [view](CERTS/ecd9d4ee9cf6d3fa4727df3dbf725fff3b1a0928545039fc00f0a5cc84d65f13/README.md) |
 
 #### CA Certificates
 
@@ -75,4 +67,4 @@
 | 27&#160;Oct&#160;22&#160;21:18&#160;UTC | TMOBILE-PROD-SUB-STIRSHAKEN-EC | 26&#160;Oct&#160;27&#160;21:48&#160;UTC | true | [view](CERTS/a22dda815630c32b2fa32fb3483ded024fe4d333b6865bf47dbb00a5194472ad/README.md) |
 
 
-Generated: 11 Jan 23 21:59 UTC
+Generated: 21 Nov 23 01:55 UTC

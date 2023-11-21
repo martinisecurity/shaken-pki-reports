@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 691A
+
+Tested At: 21 Nov 23 01:26 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -65 day(s)\
+Subject: CN=SHAKEN 691A, O=DayStarr Communications, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/853eda31-5f44-42d5-81f9-871258ee4c96/e16e7a8ac987d4923913d5fb3739fc3b.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC2DCCAn2gAwIBAgIQZ9BRSBGplym6vBYu9sZVtzAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwOTA5MjA1NjM2WhcNMjMwOTE2MjA1NjM1WjBFMQswCQYDVQQGEwJVUzEgMB4GA1UEChMXRGF5U3RhcnIgQ29tbXVuaWNhdGlvbnMxFDASBgNVBAMTC1NIQUtFTiA2OTFBMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAElR26YMJGaDQFDZqqACPKocZpzTBJpUERqYu9z8xMfeBFs%2BeUJSiTFwcwXOY7uI5OA0SMBlS8M0lTfuJ44G%2FDoqOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBQ4keaYH%2FwOuv%2FnPbO5dvNHoy07djAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ2OTFBMAoGCCqGSM49BAMCA0kAMEYCIQC2LSXikYQGrRMol%2BD6CWCVHajbk%2FVEsNzlIJXEjn4AUgIhAKdUXhC1j1FXVKlmbrwaO7Vru5nP7fHRCy2jycsm16P%2B)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 21 Nov 23 01:55 UTC

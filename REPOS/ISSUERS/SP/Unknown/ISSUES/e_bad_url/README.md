@@ -9,9 +9,10 @@ Description: Subscribers shall provide unrestricted access to its repositories a
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://cert.sticr.att.net:8443/certs/att/6d021e67-e6a1-4821-bf7a-19491029a6ca` |  | true | [view](../../REPOS/7f767f2c2970329aedcdc118e431cdea5f195d14/README.md) |
-| `https://ecms.securetransit.net/certs/410bad9e05a57353f0d8739a421be619.cer` |  | true | [view](../../REPOS/6034f9862b22502cb879614b1690e2d94043ecb9/README.md) |
-| `https://ssc.fractel.net/ssc/fractelssc.pem` |  | true | [view](../../REPOS/43cef8ecc75c42a157f4a770680c7bc638e02617/README.md) |
+| `http://5.161.181.254/ec256-public.pem` |  | true | [view](../../REPOS/229c4bf3bf2dd5948654e7a4e354b7cd78d85647/README.md) |
+| `https://cert.sticr.att.net:8443/certs/att/abbf5398-e1e1-42af-96a7-092303b168ba` |  | true | [view](../../REPOS/9d33ae45de037e49b96d1cc6d2c4f29b1115c7ed/README.md) |
+| `https://cert.sticr.att.net:8443/certs/att/e4089cf9-5fbb-4536-825a-ac516611ac45` |  | true | [view](../../REPOS/8522a795165f224911916bf8feb0ea9f138d6223/README.md) |
+| `https://stirshaken.ellianz.com:5000/stirshaken_certs/sp-cert.pem` |  | true | [view](../../REPOS/0efdff515049d0da95f7e0a8b78fba8b85b336cb/README.md) |
 
 
-Generated: 11 Jan 23 21:59 UTC
+Generated: 21 Nov 23 01:55 UTC

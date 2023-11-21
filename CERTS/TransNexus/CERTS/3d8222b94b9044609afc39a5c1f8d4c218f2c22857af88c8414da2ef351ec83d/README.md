@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 1577
+
+Tested At: 21 Nov 23 01:29 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -45 day(s)\
+Subject: CN=SHAKEN 1577, O=Great Plains Communications, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/e5b1e8c0-a23d-472b-a310-99b1e23f16be/11945d10159f2532472996e6c7935666.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC2zCCAoGgAwIBAgIQW6wdXQNRYBuqWkroOzZQmjAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwOTI5MTE1MzM5WhcNMjMxMDA2MTE1MzM4WjBJMQswCQYDVQQGEwJVUzEkMCIGA1UEChMbR3JlYXQgUGxhaW5zIENvbW11bmljYXRpb25zMRQwEgYDVQQDEwtTSEFLRU4gMTU3NzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABHI54yZ11KzBYZYlDY4AsfKllQ9vM7AjH20M8tekxq%2B0c50cTMNbRPDrZmDkLE7fd34T0REZCxZ9cgaqbe3d%2BQijggE8MIIBODAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAdBgNVHQ4EFgQUL79BRUdm2qXzEETYepEsbMIhb5MwHwYDVR0jBBgwFoAUMPX18rfhSwsPEHV9SKSQ8T2LKCowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEDMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAWBggrBgEFBQcBGgQKMAigBhYEMTU3NzAKBggqhkjOPQQDAgNIADBFAiEA%2BFfR0GGcUCyRNYaO13oSdtd%2BvWeOx91ZtbnO6N7Q8zgCIAlaNcAg0fidCTR4V26T04qIHIExjNTeXvrzVJW4zVuN)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 21 Nov 23 01:55 UTC

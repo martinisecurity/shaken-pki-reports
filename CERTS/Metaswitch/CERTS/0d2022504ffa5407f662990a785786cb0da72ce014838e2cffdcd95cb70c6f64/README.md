@@ -2,30 +2,31 @@
 
 ## Certificate Hunter Communications Shaken Cert 660C
 
-Tested At: 11 Jan 23 21:56 UTC\
+Tested At: 21 Nov 23 01:22 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 474 day(s)\
+Remaining Validity Period: 161 day(s)\
 Subject: CN=Hunter Communications Shaken Cert 660C, O=Hunter Communications, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
-Link: https://sti-cr.cgah.tnsi.com/certs/7fba9a7fc8b3131f6fcea50e668939fd26bbd4a3
+Link: https://cdn-cr.cgah.tnsi.com/certs/7fba9a7fc8b3131f6fcea50e668939fd26bbd4a3
 
 [View certificate details](https://understandingwebpki.com/?cert=MIICZTCCAgugAwIBAgIQfVPt3WU6F26qGtt5qesiYDAKBggqhkjOPQQDAjAtMSswKQYDVQQDDCJNZXRhc3dpdGNoIFNUSS1DQSBTSEFLRU4gSXNzdWluZyAxMB4XDTIxMDQzMDE3MDUxMFoXDTI0MDQyOTE3MDUxMFowXjELMAkGA1UEBhMCVVMxHjAcBgNVBAoMFUh1bnRlciBDb21tdW5pY2F0aW9uczEvMC0GA1UEAwwmSHVudGVyIENvbW11bmljYXRpb25zIFNoYWtlbiBDZXJ0IDY2MEMwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARM45tp3De0tSfhLpV5qWcJAr2ht1WfGxCYtpmz%2FBTHJQghRu%2BNCePgGnfJlVbwtLIbEjOzqg%2BUgjbiCTW4j8xko4HbMIHYMAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgXgMBYGCCsGAQUFBwEaBAowCKAGFgQ2NjBDMEcGA1UdHwRAMD4wPKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQEwHQYDVR0OBBYEFEhp9NlJqOUGdNOISNUL%2FpuLqDKkMB8GA1UdIwQYMBaAFM0epwAQENoyHWkaOdXSRgssPIfWMAoGCCqGSM49BAMCA0gAMEUCIC395ONlYIT71KYVos5kRbg6H%2BdFI13gFiZRdqg8Rl1%2FAiEAiPSGuwiajPR9udIJYSP%2FlN3CFxjpf4i04Yq9GOPgIto%3D)
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_issuer_dn](../../ISSUES/e_atis_issuer_dn/README.md) | error | ATIS1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
-| [e_atis_key_usage](../../ISSUES/e_atis_key_usage/README.md) | error | ATIS1000080 | The Key Usage extension shall contain a single key usage value of digitalSignature |
-| [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
+| [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common Name attribute 'Hunter Communications Shaken Cert 660C' does not contain 'SHAKEN' |
 
 ### Not Effective
 
-- e_atis_extension_unknown
-- e_atis_serial_number
-- e_atis_signature_algorithm
-- e_atis_subject_cn
+- e_atis_ext_not_specified
+- e_atis_serial_number_size
+- e_atis_subject_cn_spc
+- e_atis_subject_key_identifier_size
+- e_atis_subject_o_required
+- e_atis_tn_auth_list_spc_format
+- e_shaken_certificate_policies_id
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 11 Jan 23 21:59 UTC
+Generated: 21 Nov 23 01:55 UTC
