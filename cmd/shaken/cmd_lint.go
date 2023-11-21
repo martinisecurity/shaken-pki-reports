@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/hex"
+	"encoding/pem"
 	"fmt"
 	"math/rand"
 	"net/url"
@@ -645,8 +646,8 @@ func LintCertificate(c *x509.Certificate) (*zlint.ResultSet, error) {
 			},
 			ExcludeNames: []string{
 				// disable CRL tests for speed increasing
-				"e_atis_crl_distribution_not_reachable",
-				"e_atis_ca_crl_distribution_not_reachable",
+				// "e_atis_crl_distribution_not_reachable",
+				// "e_atis_ca_crl_distribution_not_reachable",
 
 				"w_distribution_point_missing_ldap_or_uri",
 			},
@@ -673,4 +674,47 @@ func SaveExpireSoonCSV(outDir string, r *CertificateSummaryReport) error {
 	PrintExpireSoon(file, r.Items)
 
 	return nil
+}
+
+func ReadCertificatesInDirectory(dirPath string) ([]*x509.Certificate, error) {
+	// Read directory
+	files, err := os.ReadDir(dirPath)
+	if err != nil {
+		return nil, err
+	}
+
+	certs := []*x509.Certificate{}
+
+	for _, file := range files {
+		// Skip directories
+		if file.IsDir() {
+			continue
+		}
+
+		// Read file
+		data, err := os.ReadFile(path.Join(dirPath, file.Name()))
+		if err != nil {
+			continue
+		}
+
+		// Parse certificate
+		pemBlock, _ := pem.Decode(data)
+		if pemBlock == nil {
+			cert, err := x509.ParseCertificate(data)
+			if err != nil {
+				continue
+			}
+
+			certs = append(certs, cert)
+		} else {
+			cert, err := x509.ParseCertificate(pemBlock.Bytes)
+			if err != nil {
+				continue
+			}
+
+			certs = append(certs, cert)
+		}
+	}
+
+	return certs, nil
 }
