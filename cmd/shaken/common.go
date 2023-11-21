@@ -126,6 +126,8 @@ var wellknownIssueNames = map[string]string{
 	"Sansay Corporation":               "Sansay",
 	"TMOBILE-USA":                      "T-Mobile",
 	"TransNexus, Inc.":                 "TransNexus",
+	"Telonium":                         "Telonium",
+	"Telonium Communications LLC":      "Telonium",
 }
 
 var wellknownCaDomains = map[string]string{
