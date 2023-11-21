@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Miracle Telecom 496K
 
-Tested At: 21 Nov 23 17:44 UTC\
+Tested At: 21 Nov 23 19:08 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 298 day(s)\
 Subject: CN=SHAKEN Miracle Telecom 496K, OU=Operations, O=Miracle Telecom, ST=District Of Columbia, C=US\
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/Miracle_Telecom_496K
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 496K' |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 496K' |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

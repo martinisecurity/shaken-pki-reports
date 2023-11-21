@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Apeiron Systems 012J
 
-Tested At: 21 Nov 23 17:44 UTC\
+Tested At: 21 Nov 23 19:07 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 16 day(s)\
 Subject: CN=SHAKEN Apeiron Systems 012J, OU=NOC, O=Apeiron Systems, ST=California, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Apeiron_012J
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 012J' |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

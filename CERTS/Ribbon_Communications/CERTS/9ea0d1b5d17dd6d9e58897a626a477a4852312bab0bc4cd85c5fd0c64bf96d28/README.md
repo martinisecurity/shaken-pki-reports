@@ -2,7 +2,7 @@
 
 ## Certificate PGTelco SHAKEN 1718
 
-Tested At: 21 Nov 23 17:46 UTC\
+Tested At: 21 Nov 23 19:10 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 130 day(s)\
 Subject: CN=PGTelco SHAKEN 1718, OU=Voice, O=PGTelco, C=US\
@@ -17,4 +17,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/dglpr26GRz/10000-6e486e81a61b3067
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

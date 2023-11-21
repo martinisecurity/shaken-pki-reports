@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 660K
 
-Tested At: 21 Nov 23 17:39 UTC\
+Tested At: 21 Nov 23 18:48 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -26 day(s)\
 Subject: CN=SHAKEN 660K, O=SimpleFiber Communications, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/9aba2296-8b3e-464d-abe2-a6b3f9bff2b1/f3f2
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate EPB Telecom SHAKEN Cert 4645
 
-Tested At: 21 Nov 23 17:37 UTC\
+Tested At: 21 Nov 23 18:47 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 940 day(s)\
 Subject: CN=EPB Telecom SHAKEN Cert 4645, O=Electric Power Board of Chattanooga dba EPB Telecom, C=US\
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/245819f978821d3e211a6956b9e0d09fd3fed48
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 4645' |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

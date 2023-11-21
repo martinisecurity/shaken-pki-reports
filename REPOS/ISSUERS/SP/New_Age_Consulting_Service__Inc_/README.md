@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 94ms average time it took to download each certificate
+- 348ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -22,4 +22,4 @@
 | `http://sip-proxy01.n2net.net/certs/cert-1692309910` | 16&#160;Aug&#160;24&#160;22:05&#160;UTC | true | [view](REPOS/e3c0122c2ec48ab50c0c50310d76809cc54b643e/README.md) |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

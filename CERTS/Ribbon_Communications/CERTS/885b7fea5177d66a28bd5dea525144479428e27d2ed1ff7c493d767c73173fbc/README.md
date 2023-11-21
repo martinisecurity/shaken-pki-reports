@@ -2,7 +2,7 @@
 
 ## Certificate Nuwave Communications SHAKEN 620J
 
-Tested At: 21 Nov 23 17:46 UTC\
+Tested At: 21 Nov 23 19:10 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -206 day(s)\
 Subject: CN=Nuwave Communications SHAKEN 620J, OU=Nuwave Communications, O=Nuwave Communications, C=US\
@@ -24,4 +24,4 @@ Link: https://prod001-cr.rbbnidhub.com/Jx6yR-yMgz/620J202204-2c7d5c55a20834b0316
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

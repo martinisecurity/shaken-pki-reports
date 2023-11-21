@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 952J
 
-Tested At: 21 Nov 23 17:40 UTC\
+Tested At: 21 Nov 23 18:48 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -355 day(s)\
+Remaining Validity Period: -356 day(s)\
 Subject: CN=SHAKEN 952J, OU=SHAKEN, O=Syndeo LLC dba Broadvoice, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/952J/933ae4bb-a38f-410b-9c14-38fd2f4c7893.pem
@@ -24,4 +24,4 @@ Link: https://certificates.transnexus.com/952J/933ae4bb-a38f-410b-9c14-38fd2f4c7
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

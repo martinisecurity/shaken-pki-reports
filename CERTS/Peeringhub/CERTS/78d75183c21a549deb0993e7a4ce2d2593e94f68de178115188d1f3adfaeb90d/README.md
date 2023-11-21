@@ -2,7 +2,7 @@
 
 ## Certificate Losh Communications, Inc SHAKEN 149K 2023-11-21_000001
 
-Tested At: 21 Nov 23 17:45 UTC\
+Tested At: 21 Nov 23 19:09 UTC\
 Initial Validity Period: 278 day(s)\
 Remaining Validity Period: 278 day(s)\
 Subject: CN=Losh Communications\\, Inc SHAKEN 149K 2023-11-21_000001, O=Losh Communications\\, Inc, L=Springfield, ST=MO, C=US\
@@ -16,4 +16,4 @@ Link: https://nyc01.trunks2.calldecibel.com:5000/stirshaken_certs/149K.pem
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | the Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 495K
 
-Tested At: 21 Nov 23 17:38 UTC\
+Tested At: 21 Nov 23 18:48 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -138 day(s)\
 Subject: CN=SHAKEN 495K, O=HelloSpoke, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/65eb2986-2cf7-41a9-8934-5cdb2a889627/f625
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

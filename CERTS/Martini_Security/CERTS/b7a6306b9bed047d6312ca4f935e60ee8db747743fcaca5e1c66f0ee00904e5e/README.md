@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 738J
 
-Tested At: 21 Nov 23 17:45 UTC\
+Tested At: 21 Nov 23 19:09 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: 9 day(s)\
 Subject: O=BCM One Cloud Communications\\, LLC, C=US, serialNumber=799A746735E24F607B0167939D014F3F, CN=SHAKEN 738J\
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/JlSFyxgGj-7h.pem
 160 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

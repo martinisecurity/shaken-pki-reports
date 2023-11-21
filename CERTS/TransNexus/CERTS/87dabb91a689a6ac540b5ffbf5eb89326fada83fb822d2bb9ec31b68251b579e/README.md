@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 073H
 
-Tested At: 21 Nov 23 17:40 UTC\
+Tested At: 21 Nov 23 18:48 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -102 day(s)\
+Remaining Validity Period: -103 day(s)\
 Subject: CN=SHAKEN 073H, OU=SHAKEN, O=Telnyx LCC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/073H/d89fe29a-1d12-4fe3-b002-f0dc1c09904d.pem
@@ -13,8 +13,8 @@ Link: https://certificates.transnexus.com/073H/d89fe29a-1d12-4fe3-b002-f0dc1c099
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 ### Not Effective
 
@@ -25,4 +25,4 @@ Link: https://certificates.transnexus.com/073H/d89fe29a-1d12-4fe3-b002-f0dc1c099
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

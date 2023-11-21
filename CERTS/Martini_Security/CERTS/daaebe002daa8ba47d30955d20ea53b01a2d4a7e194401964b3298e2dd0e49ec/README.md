@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 042K
 
-Tested At: 21 Nov 23 17:51 UTC\
+Tested At: 21 Nov 23 19:16 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -13 day(s)\
 Subject: O=DMCI Broadband\\, LLC, C=US, serialNumber=530997E700048D20D47A0FC7F0C0943B, CN=SHAKEN 042K\
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/UW_a2RCFDdcg.pem
 160 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

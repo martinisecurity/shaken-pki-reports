@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 074K
 
-Tested At: 21 Nov 23 17:36 UTC\
+Tested At: 21 Nov 23 18:46 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -115 day(s)\
 Subject: CN=SHAKEN 074K, O=Coztel Carrier, C=US\
@@ -24,4 +24,4 @@ Link: http://5.161.95.22/191c4c42dd7fa6115e84100637e42c99.cer
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

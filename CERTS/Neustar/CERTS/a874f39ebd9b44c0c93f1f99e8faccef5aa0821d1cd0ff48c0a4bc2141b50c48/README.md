@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 3201
 
-Tested At: 21 Nov 23 17:46 UTC\
+Tested At: 21 Nov 23 19:10 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 183 day(s)\
 Subject: C=US, ST=PR, L=Caparra, O=PRTC, OU=VOIP, CN=SHAKEN 3201\
@@ -29,4 +29,4 @@ Link: https://prod001-cr.rbbnidhub.com/9JhfutuGgz/0
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

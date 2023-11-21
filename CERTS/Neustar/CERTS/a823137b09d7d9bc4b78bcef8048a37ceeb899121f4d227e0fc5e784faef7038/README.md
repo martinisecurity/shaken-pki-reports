@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 863J
 
-Tested At: 21 Nov 23 17:46 UTC\
+Tested At: 21 Nov 23 19:11 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -261 day(s)\
 Subject: CN=SHAKEN 863J, O=Contact Center Specialists LLC, C=US\
@@ -24,4 +24,4 @@ Link: https://ssc.getsipnav.com/certs/16de0926d65be10547c26ed3417d6ffd26e3a7f3
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

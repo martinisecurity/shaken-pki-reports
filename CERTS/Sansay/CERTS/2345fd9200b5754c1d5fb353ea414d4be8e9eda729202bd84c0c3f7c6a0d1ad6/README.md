@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Primo Dialler LLC 249K
 
-Tested At: 21 Nov 23 17:46 UTC\
+Tested At: 21 Nov 23 19:10 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 340 day(s)\
 Subject: CN=SHAKEN Primo Dialler LLC 249K, OU=Service provider, O=Primo Dialler LLC, ST=Wyoming, C=US\
@@ -17,4 +17,4 @@ Link: https://primodialer.46labs.com
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 249K' |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

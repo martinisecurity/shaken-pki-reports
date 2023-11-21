@@ -19,4 +19,4 @@ No error, warning, or notice level issues were found
 | error | Telonium STI-CA Intermediate CA | [view](../../CERTS/7c701216e591c9a3b84550ff46566dd420c7f182eb3cfc5abe5739cdbe271169/README.md) | Subject DN does not contain a Country (C=) attribute |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

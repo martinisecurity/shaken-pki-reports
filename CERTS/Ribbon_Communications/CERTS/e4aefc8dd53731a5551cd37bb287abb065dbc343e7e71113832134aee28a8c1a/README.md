@@ -2,7 +2,7 @@
 
 ## Certificate Veracity SHAKEN 716D
 
-Tested At: 21 Nov 23 17:46 UTC\
+Tested At: 21 Nov 23 19:10 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 183 day(s)\
 Subject: CN=Veracity SHAKEN 716D, OU=Voice, O=Veracity Networks LLC, C=US\
@@ -17,4 +17,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/VaMEsVjGRz/0-6f633bc2813830d744b6
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

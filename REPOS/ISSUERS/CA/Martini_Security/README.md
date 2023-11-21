@@ -2,14 +2,14 @@
 
 ## Martini Security
 
-- 1437 repository URLs were included in the corpus being tested
-- 388 repository URLs in the corpus were skipped because they were duplicated
-- 1049 repository URLs being tested against the remaining rules
+- 1470 repository URLs were included in the corpus being tested
+- 415 repository URLs in the corpus were skipped because they were duplicated
+- 1055 repository URLs being tested against the remaining rules
 - 0.00 issues on average found in non-compliant certificate repository URLs
 - 0.00% of repository URLs contain one or more Error level issue
 - 0.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 84ms average time it took to download each certificate
+- 116ms average time it took to download each certificate
 
 No error, warning, or notice level issues were found
 
@@ -1024,6 +1024,7 @@ No error, warning, or notice level issues were found
 | `https://p.mtsec.me/2884/dDBRuoBL4v8f.pem` | 07&#160;Nov&#160;23&#160;22:13&#160;UTC | false | [view](REPOS/f69c93e54574f5287f8da2613fb5870ecc91cba5/README.md) |
 | `https://p.mtsec.me/2884/dGKmqd8OQwaw.pem` | 16&#160;Feb&#160;23&#160;05:00&#160;UTC | false | [view](REPOS/970ec33fc35f99ccccddafd1052bd08b45873a33/README.md) |
 | `https://p.mtsec.me/2884/dMHEEdVppqnD.pem` | 06&#160;Feb&#160;24&#160;00:00&#160;UTC | false | [view](REPOS/55a983ad54f88eec2b1f35e26a228578b534d83d/README.md) |
+| `https://p.mtsec.me/2884/dMeTOG2cNFUn.pem` | 08&#160;Feb&#160;24&#160;12:00&#160;UTC | false | [view](REPOS/68e49d401627e8155b7d7153b557d5e99b7b1106/README.md) |
 | `https://p.mtsec.me/2884/dQ8qwRRPBR9b.pem` | 02&#160;Jan&#160;24&#160;12:00&#160;UTC | false | [view](REPOS/863dde149791d39f1988330ae293001933d5d37b/README.md) |
 | `https://p.mtsec.me/2884/dQU2yqYtRqrF.pem` | 01&#160;Nov&#160;23&#160;20:14&#160;UTC | false | [view](REPOS/9473d8188a7e1fc7dd401a4d6d86bba59ac2ef40/README.md) |
 | `https://p.mtsec.me/2884/dZggMJxarfaS.pem` | 04&#160;Feb&#160;24&#160;12:00&#160;UTC | false | [view](REPOS/fedb2af164989fb03a81c591f92887be2b9f2885/README.md) |
@@ -1035,12 +1036,14 @@ No error, warning, or notice level issues were found
 | `https://p.mtsec.me/2884/e0AWRoNFEYXz.pem` | 07&#160;Feb&#160;23&#160;06:00&#160;UTC | false | [view](REPOS/b3f54908aee455b1aef0d1924b11b28f01b9e2e1/README.md) |
 | `https://p.mtsec.me/2884/e0AnwmXEtzQv.pem` | 21&#160;Nov&#160;23&#160;12:00&#160;UTC | false | [view](REPOS/2320b331ed91da7b6f7e3f83a5afc542f5931509/README.md) |
 | `https://p.mtsec.me/2884/e9H8oM9DP410.pem` | 02&#160;Nov&#160;23&#160;16:11&#160;UTC | false | [view](REPOS/0c72120bb6a2dabeb07c1f607612ab6f5a75e4a4/README.md) |
+| `https://p.mtsec.me/2884/eGbXkJjYahqh.pem` | 15&#160;Feb&#160;24&#160;00:00&#160;UTC | false | [view](REPOS/8b63d44e235b384afbc66af61e6f92f60546e624/README.md) |
 | `https://p.mtsec.me/2884/eTHu_gnKylmo.pem` | 26&#160;Dec&#160;23&#160;12:00&#160;UTC | false | [view](REPOS/fca80f8e6da5aed63153857671389a064938e7ca/README.md) |
 | `https://p.mtsec.me/2884/eY0w8a3hxnc8.pem` | 18&#160;Nov&#160;23&#160;00:00&#160;UTC | false | [view](REPOS/2b3cc03c82e08c27c865ac8c456ac434c3a349e2/README.md) |
 | `https://p.mtsec.me/2884/eZ-fWN636laN.pem` | 29&#160;Nov&#160;23&#160;12:00&#160;UTC | false | [view](REPOS/70ab12fd60ddffa149ba8992cf56b0bf1ee0140d/README.md) |
 | `https://p.mtsec.me/2884/e_35gJ0_nsCO.pem` | 02&#160;Nov&#160;23&#160;16:11&#160;UTC | false | [view](REPOS/c4a2ca43203c8266f9a2d2602afd4328518f67c1/README.md) |
 | `https://p.mtsec.me/2884/e_BVutDkvrx5.pem` | 13&#160;Dec&#160;23&#160;00:00&#160;UTC | false | [view](REPOS/0b685ec16ae039238c9b97035fd695fdf4b5cfd0/README.md) |
 | `https://p.mtsec.me/2884/ebZ69zAfQh5Y.pem` | 07&#160;Oct&#160;23&#160;00:00&#160;UTC | false | [view](REPOS/b733fd879a999468ca6f07210d7b4dd28f145779/README.md) |
+| `https://p.mtsec.me/2884/ed4Y5TN3Uz5I.pem` | 15&#160;Feb&#160;24&#160;12:00&#160;UTC | false | [view](REPOS/e0a4e6d8d916e6cc00736d4790df0d952c76a71a/README.md) |
 | `https://p.mtsec.me/2884/eej-ccfwdCb-.pem` | 22&#160;Jan&#160;24&#160;00:00&#160;UTC | false | [view](REPOS/417e9aefec9981992902693c3dd3f3fb89c76b5c/README.md) |
 | `https://p.mtsec.me/2884/efASB0KbxxmL.pem` | 01&#160;May&#160;23&#160;06:00&#160;UTC | false | [view](REPOS/4ea52bee2915d8efb0b5ed410cf78f7c1e8abb21/README.md) |
 | `https://p.mtsec.me/2884/eg2tqvUc5pTi.pem` | 02&#160;Nov&#160;23&#160;17:14&#160;UTC | false | [view](REPOS/a396e094d45166cfe3cf9c095d706b20153fa9fb/README.md) |
@@ -1057,13 +1060,16 @@ No error, warning, or notice level issues were found
 | `https://p.mtsec.me/2884/fJseuJmixktt.pem` | 30&#160;Nov&#160;23&#160;00:00&#160;UTC | false | [view](REPOS/68e53285df92b4163ad01204a1e80f89c8fca573/README.md) |
 | `https://p.mtsec.me/2884/fRcMjoKH0hmB.pem` | 13&#160;Nov&#160;23&#160;12:00&#160;UTC | false | [view](REPOS/4d4fda5ee1dc0b6c303b2f1bc15a0d1a6d6c4469/README.md) |
 | `https://p.mtsec.me/2884/fXlgmY9md_Ys.pem` | 16&#160;Jan&#160;24&#160;12:00&#160;UTC | false | [view](REPOS/8afb2d4a7f63dda2188a08ee2cffa67d8feb7d91/README.md) |
+| `https://p.mtsec.me/2884/fYHPzEep-mPa.pem` | 14&#160;Feb&#160;24&#160;00:00&#160;UTC | false | [view](REPOS/86669be7cb899d49f1a9dad77c1633b5b9a1e945/README.md) |
+| `https://p.mtsec.me/2884/fiqLPaPKd-Wi.pem` | 18&#160;Feb&#160;24&#160;12:00&#160;UTC | false | [view](REPOS/1acea3a8f7dcd421e9ddc16be13cc42085ef75d7/README.md) |
 | `https://p.mtsec.me/2884/foUUq7XnM7EY.pem` | 19&#160;Jan&#160;24&#160;12:00&#160;UTC | false | [view](REPOS/eaf45c43ffd018a7c327b9a063da9aad044a70c0/README.md) |
 | `https://p.mtsec.me/2884/fwHkHTIjd809.pem` | 30&#160;Jan&#160;24&#160;00:00&#160;UTC | false | [view](REPOS/d08fb807ba107cecd5eb056f6b05d757dcc99dbf/README.md) |
 | `https://p.mtsec.me/2884/fwMzKrir8sVy.pem` | 13&#160;Oct&#160;23&#160;00:00&#160;UTC | false | [view](REPOS/09a9bb4016064055af9bb053bdaa88cc2d0d7411/README.md) |
+| `https://p.mtsec.me/2884/pEYjU1xAW86E.pem` | 13&#160;Feb&#160;24&#160;00:00&#160;UTC | false | [view](REPOS/847ea013e1559c01359f255faa64d593816f5f20/README.md) |
 | `https://p.mtsec.me/2dd5/HANi-8RbpIVe.pem` | 27&#160;Dec&#160;22&#160;06:00&#160;UTC | false | [view](REPOS/02a7c199b5f93d10ac32f4dbfa1d4cd6ab1775eb/README.md) |
 | `https://p.mtsec.me/2dd5/KGooOP8qrCkY.pem` | 28&#160;Dec&#160;22&#160;07:00&#160;UTC | false | [view](REPOS/2c5735d29cba0cd49eec99ca56f66a619ac7c343/README.md) |
 | `https://p.mtsec.me/2dd5/O5Ul22ujxF_m.pem` | 27&#160;Dec&#160;22&#160;06:00&#160;UTC | false | [view](REPOS/881d54ce0aa9d94aada17d08e3f71c89c9a89688/README.md) |
 | `https://p.mtsec.me/2dd5/U-o0Vt0ZT1yl.pem` | 28&#160;Sep&#160;23&#160;17:45&#160;UTC | false | [view](REPOS/de15a9a3bef6c1d3ef2f6423f1ad3b83bdf02bc1/README.md) |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

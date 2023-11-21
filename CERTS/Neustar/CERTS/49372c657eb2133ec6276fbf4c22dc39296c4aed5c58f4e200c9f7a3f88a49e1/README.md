@@ -2,7 +2,7 @@
 
 ## Certificate ATT SHAKEN 4036
 
-Tested At: 21 Nov 23 17:37 UTC\
+Tested At: 21 Nov 23 18:47 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 263 day(s)\
 Subject: CN=ATT SHAKEN 4036, OU=AT&T Services\\, Inc., O=ATT SHAKEN E-E, L=Dallas, ST=Texas, C=US\
@@ -13,8 +13,8 @@ Link: https://cert2.sticr.att.net:8443/sti-cr/att-stica1691767810461-cert.crt
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

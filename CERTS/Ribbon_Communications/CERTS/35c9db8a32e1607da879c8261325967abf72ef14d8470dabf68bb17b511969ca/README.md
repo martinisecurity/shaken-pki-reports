@@ -2,9 +2,9 @@
 
 ## Certificate Etex STI SHAKEN 3196
 
-Tested At: 21 Nov 23 17:46 UTC\
+Tested At: 21 Nov 23 19:10 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -228 day(s)\
+Remaining Validity Period: -229 day(s)\
 Subject: CN=Etex STI SHAKEN 3196, O=Etex, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-cr.rbbnidhub.com/DdpJt757Rz/3196-2545b56cf6ba8ebe16fd7e049730421b
@@ -24,4 +24,4 @@ Link: https://prod001-cr.rbbnidhub.com/DdpJt757Rz/3196-2545b56cf6ba8ebe16fd7e049
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

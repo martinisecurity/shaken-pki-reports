@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 700H
 
-Tested At: 21 Nov 23 17:38 UTC\
+Tested At: 21 Nov 23 18:47 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -371 day(s)\
 Subject: CN=SHAKEN 700H, OU=SHAKEN, O=Metro Fibernet LLC, C=US\
@@ -24,4 +24,4 @@ Link: https://certificates.clearip.com/22b6cee0-8559-4c73-8092-6eee861c4b49/46c4
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

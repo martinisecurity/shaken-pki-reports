@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 361H
 
-Tested At: 21 Nov 23 17:40 UTC\
+Tested At: 21 Nov 23 18:48 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -70 day(s)\
 Subject: CN=SHAKEN 361H, O=Atlantech Online, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/361H/98b85d5f-40c9-44c0-b96f-9f9b227b0
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 305K
 
-Tested At: 21 Nov 23 17:40 UTC\
+Tested At: 21 Nov 23 18:49 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -31 day(s)\
+Remaining Validity Period: -32 day(s)\
 Subject: CN=SHAKEN 305K, O=2Talk LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/189.253
@@ -24,4 +24,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/189.253
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

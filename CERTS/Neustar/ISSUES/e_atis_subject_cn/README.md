@@ -13,6 +13,7 @@ Description: The Common Name attribute shall include the text string `SHAKEN` to
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
 | error | SHAKEN_0377 | [view](../../CERTS/a891efce3a4b35ed5111a2f8d9dbf2abef04a0e5c9ce4ea5313c0ede3e92ce26/README.md) | Common Name attribute 'SHAKEN_0377' does not contain 'SHAKEN' |
+| error | Nuvera1442 | [view](../../CERTS/393020e8fb62666d457e64532891787d8339cc1320a375505987a376b511a5f4/README.md) | Common Name attribute 'Nuvera1442' does not contain 'SHAKEN' |
 | error | Five9 | [view](../../CERTS/08087af11d90b5b7bd3519ce065262e6ec44ea1dcfbc1db3995cc1b0a08fd48e/README.md) | Common Name attribute 'Five9' does not contain 'SHAKEN' |
 | error | BigRiverTelephoneCompany | [view](../../CERTS/9efdf79a4d93cef188ca8bc8dd4ce626a21813ed665bf108d74ff1f0158caf24/README.md) | Common Name attribute 'BigRiverTelephoneCompany' does not contain 'SHAKEN' |
 | error | PioneerTelephone | [view](../../CERTS/3fc9643dd3097c4a186a141ab126e3461a8f215214d378975a1645e96322f27f/README.md) | Common Name attribute 'PioneerTelephone' does not contain 'SHAKEN' |
@@ -33,4 +34,4 @@ Description: The Common Name attribute shall include the text string `SHAKEN` to
 No error, warning, or notice level issues were found
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

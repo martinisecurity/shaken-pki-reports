@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 656K
 
-Tested At: 21 Nov 23 17:36 UTC\
+Tested At: 21 Nov 23 18:46 UTC\
 Initial Validity Period: 720 day(s)\
 Remaining Validity Period: 586 day(s)\
 Subject: serialNumber=995f8ae3-afc6-4775-b670-d2ba4c999ad5, CN=SHAKEN 656K, O=Anveo Inc, C=US\
@@ -16,4 +16,4 @@ Link: http://anv-cert.s3.amazonaws.com/anveo072023.crt
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.4.1.37476.9000.64.1 |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

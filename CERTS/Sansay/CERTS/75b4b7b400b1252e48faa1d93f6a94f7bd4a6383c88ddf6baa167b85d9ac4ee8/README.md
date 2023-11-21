@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN MagicJack 324E
 
-Tested At: 21 Nov 23 17:40 UTC\
+Tested At: 21 Nov 23 18:49 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 9 day(s)\
 Subject: CN=SHAKEN MagicJack 324E, OU=NOC, O=MagicJack, ST=Florida, C=US\
@@ -13,8 +13,8 @@ Link: https://cr-east1.sansay.com/MagicJack_324E.crt
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 324E' |
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | the Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 324E' |
 
 ### Not Effective
 
@@ -25,4 +25,4 @@ Link: https://cr-east1.sansay.com/MagicJack_324E.crt
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

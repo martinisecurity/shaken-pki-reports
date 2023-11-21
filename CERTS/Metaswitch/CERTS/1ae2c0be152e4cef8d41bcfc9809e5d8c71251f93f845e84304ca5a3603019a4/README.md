@@ -2,7 +2,7 @@
 
 ## Certificate Blackfoot Communications SHAKEN Cert 2235
 
-Tested At: 21 Nov 23 17:37 UTC\
+Tested At: 21 Nov 23 18:47 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 879 day(s)\
 Subject: CN=Blackfoot Communications SHAKEN Cert 2235, O=Blackfoot Communications, C=US\
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/73aa28faf4546c63b3b20c530d38004b43bbecd
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

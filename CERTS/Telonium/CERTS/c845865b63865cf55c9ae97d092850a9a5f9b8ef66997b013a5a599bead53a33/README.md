@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 576K
 
-Tested At: 21 Nov 23 17:36 UTC\
+Tested At: 21 Nov 23 18:46 UTC\
 Initial Validity Period: 367 day(s)\
 Remaining Validity Period: 269 day(s)\
 Subject: serialNumber=1C2F3907-DBD3-4799-B4E4-F4A62146CC63, CN=SHAKEN 576K, O=Etelix.com USA LLC, C=US\
@@ -14,4 +14,4 @@ Link: http://certs-clb-1999937273.us-east-1.elb.amazonaws.com/576K_20230815.crt
 160 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

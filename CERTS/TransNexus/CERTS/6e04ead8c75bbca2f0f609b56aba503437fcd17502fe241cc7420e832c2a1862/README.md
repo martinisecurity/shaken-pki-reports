@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 854D
 
-Tested At: 21 Nov 23 17:38 UTC\
+Tested At: 21 Nov 23 18:48 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -230 day(s)\
 Subject: CN=SHAKEN 854D, O=Xtel, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/627e4253-759f-447e-b1a0-c9cda9a6d597/a6a9
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

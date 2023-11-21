@@ -2,7 +2,7 @@
 
 ## Certificate Haviland SHAKEN 5237
 
-Tested At: 21 Nov 23 17:46 UTC\
+Tested At: 21 Nov 23 19:10 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 22 day(s)\
 Subject: CN=Haviland SHAKEN 5237, OU=Support, O=Haviland, C=US\
@@ -24,4 +24,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/9f_1JJO7Rz/STI5237-684e51f5f56b22
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

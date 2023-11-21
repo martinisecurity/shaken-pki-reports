@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 079C
 
-Tested At: 21 Nov 23 17:39 UTC\
+Tested At: 21 Nov 23 18:48 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -260 day(s)\
 Subject: CN=SHAKEN 079C, O=ValTech Enterprises, C=US\
@@ -24,4 +24,4 @@ Link: https://certificates.clearip.com/ddc9bc19-a591-4a7f-9a33-b873c7059d1d/d4e3
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

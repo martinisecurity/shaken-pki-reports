@@ -2,7 +2,7 @@
 
 ## Certificate Telonium SHAKEN Intermediate G1
 
-Tested At: 21 Nov 23 17:52 UTC\
+Tested At: 21 Nov 23 19:16 UTC\
 Initial Validity Period: 3653 day(s)\
 Remaining Validity Period: 3541 day(s)\
 Subject: CN=Telonium SHAKEN Intermediate G1, O=Telonium Communications LLC, L=Atlanta, ST=GA, C=US\
@@ -13,4 +13,4 @@ Issuer: CN=Telonium SHAKEN ROOT G1, O=Telonium Communications LLC, L=Atlanta, ST
 160 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

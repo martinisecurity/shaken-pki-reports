@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 031K
 
-Tested At: 21 Nov 23 17:40 UTC\
+Tested At: 21 Nov 23 18:48 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -376 day(s)\
+Remaining Validity Period: -377 day(s)\
 Subject: CN=SHAKEN 031K, OU=SHAKEN, O=TISD, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/031K/ba0288df-daa5-44b5-a1a3-3270140129ed.pem
@@ -25,4 +25,4 @@ Link: https://certificates.transnexus.com/031K/ba0288df-daa5-44b5-a1a3-327014012
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

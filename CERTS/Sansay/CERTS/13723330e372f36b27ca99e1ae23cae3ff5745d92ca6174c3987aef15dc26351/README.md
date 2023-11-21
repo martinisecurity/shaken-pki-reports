@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN FastCast Networks 318K
 
-Tested At: 21 Nov 23 17:45 UTC\
+Tested At: 21 Nov 23 19:09 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 214 day(s)\
+Remaining Validity Period: 213 day(s)\
 Subject: CN=SHAKEN FastCast Networks 318K, OU=Fastcast, O=FastCast Networks, ST=Nevada, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://fastcast.46labs.com
@@ -17,4 +17,4 @@ Link: https://fastcast.46labs.com
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 318K' |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

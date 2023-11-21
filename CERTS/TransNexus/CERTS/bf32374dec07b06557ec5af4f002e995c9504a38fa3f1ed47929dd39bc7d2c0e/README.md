@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 362B
 
-Tested At: 21 Nov 23 17:38 UTC\
+Tested At: 21 Nov 23 18:47 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -8 day(s)\
 Subject: CN=SHAKEN 362B, O=SyncGlobal, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/2e6b3a40-7eb0-4f17-b97f-88856f45697c/b5de
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

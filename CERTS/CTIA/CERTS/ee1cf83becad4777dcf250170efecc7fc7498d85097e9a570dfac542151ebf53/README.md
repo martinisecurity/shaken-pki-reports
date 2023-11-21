@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Root CA
 
-Tested At: 21 Nov 23 17:53 UTC\
+Tested At: 21 Nov 23 19:18 UTC\
 Initial Validity Period: 9125 day(s)\
 Remaining Validity Period: 8972 day(s)\
 Subject: CN=SHAKEN Root CA, O=CTIA, C=US\
@@ -17,4 +17,4 @@ Issuer: CN=SHAKEN Root CA, O=CTIA, C=US
 | [e_atis_ca_signature_algorithm](../../ISSUES/e_atis_ca_signature_algorithm/README.md) | error | ATIS1000080 | SignatureAlgorithm field is not 'ecdsa-with-SHA256', got 1.2.840.10045.4.3.3 |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

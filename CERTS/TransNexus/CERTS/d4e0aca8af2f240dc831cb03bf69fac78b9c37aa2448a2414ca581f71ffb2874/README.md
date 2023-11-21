@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 2311
 
-Tested At: 21 Nov 23 17:38 UTC\
+Tested At: 21 Nov 23 18:48 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -42 day(s)\
+Remaining Validity Period: -43 day(s)\
 Subject: CN=SHAKEN 2311, O=Cal-Ore Telephone, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/85ba46da-062a-4f1c-b422-17176aea6d40/4f29aeaa99bea0e2ad6327743b610912.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/85ba46da-062a-4f1c-b422-17176aea6d40/4f29
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate Peeringhub Inc SHAKEN Intermediate CA 2
 
-Tested At: 21 Nov 23 17:52 UTC\
+Tested At: 21 Nov 23 19:16 UTC\
 Initial Validity Period: 3650 day(s)\
 Remaining Validity Period: 3134 day(s)\
 Subject: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
@@ -23,4 +23,4 @@ Issuer: CN=Peeringhub Inc Root CA, OU=Certification Authorities, O=Peeringhub In
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

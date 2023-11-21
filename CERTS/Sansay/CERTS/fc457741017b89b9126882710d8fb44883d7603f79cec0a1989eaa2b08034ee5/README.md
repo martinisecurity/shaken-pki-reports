@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Drop Inc 258K
 
-Tested At: 21 Nov 23 17:36 UTC\
+Tested At: 21 Nov 23 18:46 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 19 day(s)\
 Subject: CN=SHAKEN Drop Inc 258K, OU=Drop, O=Drop Inc, ST=Illinois, C=US\
@@ -25,4 +25,4 @@ Link: http://sti.comsapi.com/258k/ca.crt
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

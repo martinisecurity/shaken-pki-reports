@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 5556
 
-Tested At: 21 Nov 23 17:38 UTC\
+Tested At: 21 Nov 23 18:48 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -13 day(s)\
 Subject: CN=SHAKEN 5556, O=Pathwayz Communications, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/86d71bc1-7c54-48c9-a93f-6b0da10581ec/d2cc
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

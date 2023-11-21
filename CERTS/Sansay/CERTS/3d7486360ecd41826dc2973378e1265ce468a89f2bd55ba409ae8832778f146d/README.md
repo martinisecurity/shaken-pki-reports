@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Townes Telecommunications 0335
 
-Tested At: 21 Nov 23 17:42 UTC\
+Tested At: 21 Nov 23 18:51 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -135 day(s)\
 Subject: emailAddress=bshafter@townes.net, CN=SHAKEN Townes Telecommunications 0335, OU=Operations, O=Townes Telecommunications, ST=Arkansas, C=US, emailAddress=bshafter@townes.net\
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/0335/order/196_0335_135
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 0335' |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 0335' |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

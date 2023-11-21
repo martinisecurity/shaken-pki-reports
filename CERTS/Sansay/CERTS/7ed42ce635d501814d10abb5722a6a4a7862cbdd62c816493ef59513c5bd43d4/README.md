@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Ace Innovative Networks, Inc. 040K
 
-Tested At: 21 Nov 23 17:42 UTC\
+Tested At: 21 Nov 23 18:51 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -93 day(s)\
 Subject: emailAddress=elevitt@1pcom.com, CN=SHAKEN Ace Innovative Networks\\, Inc. 040K, OU=NOC, O=Ace Innovative Networks\\, Inc., ST=New York, C=US, emailAddress=elevitt@1pcom.com\
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/040K/order/408_040K_84
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 040K' |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

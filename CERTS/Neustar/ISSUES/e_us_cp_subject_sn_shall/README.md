@@ -107,10 +107,13 @@ Description: The DN shall contain a serialNumber attribute.
 | error | SHAKEN 430K | [view](../../CERTS/55ba5d69e6fa27658c920d72cb199f9a15c4530d91e56c74db9f7729faf88260/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN OFT01 | [view](../../CERTS/0074ccaccf2fb1990d6c192b47364173008a5f1c25873be7c5063ad004b0579b/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN 537K | [view](../../CERTS/ef365ebe99763132b2bcac8179854ddb3a63c40e99ff292697c5b8d91f5df86d/README.md) | The DN does not contain a serialNumber attribute. |
+| error | SHAKEN 508K | [view](../../CERTS/af3ba84165f1783eb208022bee73d75726d5cbe27f4eb1e3de0a9337932cdaa5/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN 181D | [view](../../CERTS/ec1443ac270590740ae336fb7b1e49eb93793e87987eb457a3f017932c671745/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN 506J | [view](../../CERTS/aecb27bb4eeb5b51809900d358860648f41caad4e67807871a713e845190e422/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN 9555 | [view](../../CERTS/b9cae288342f8bbe68f46fd1853f3f5f8f2861b9257b388edff1a7886a5ba986/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN 7575 | [view](../../CERTS/e1355be9ce64d55f65cdf56325854a081dcc6a588f58a3472fd00d7f47f04e20/README.md) | The DN does not contain a serialNumber attribute. |
+| error | SHAKEN 782J | [view](../../CERTS/8408053ed34c756b214c00f5cdde40eee1cceaf48a094e277f4a17f338a7bec3/README.md) | The DN does not contain a serialNumber attribute. |
+| error | SHAKEN 775J | [view](../../CERTS/22b5fab5795330c9d8e3f859d1433361ea6eb0d56f407b2206769e2a3f03beb5/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN 804J | [view](../../CERTS/1441f59ba3cc930468486aa57cf974990dcaa9818bb7ef6c4b0384de7cd1538e/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN 844J | [view](../../CERTS/a7ef3c96a24628283c98e8919901d3759cd519f93713c5442225c81bccbd60eb/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN 049K | [view](../../CERTS/47b82e9130c50e4c2f313bc5bfb183d76f6a73b93df2a6bb36ada7554514b722/README.md) | The DN does not contain a serialNumber attribute. |
@@ -130,7 +133,6 @@ Description: The DN shall contain a serialNumber attribute.
 | error | SHAKEN 869J | [view](../../CERTS/d827d78eee1794b02205387ff0e32270c9c38f3a1870cb691a9008b8f094683d/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN 597F | [view](../../CERTS/60f18673867347c3986fd3a6e45e07dc85f1fc2a0137b836d3633e3dc16c8bf0/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN 525K | [view](../../CERTS/3e9c61f0e5e87d7f60638dfe2e50fa27220c1370d07cc1cdea317b1c18aec2d0/README.md) | The DN does not contain a serialNumber attribute. |
-| error | SHAKEN 782J | [view](../../CERTS/8408053ed34c756b214c00f5cdde40eee1cceaf48a094e277f4a17f338a7bec3/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN 899J | [view](../../CERTS/5a4ff0a70a41cd82a090a2153380b441113444ccc15c2312a25119f01f775b09/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN 261H | [view](../../CERTS/1218a4fc3a09a5b50fe3f9db0a51602302929a023c080cfbf17e6379847b7209/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN 964J | [view](../../CERTS/f11c23c8e811d23be78ddb50d7bff10b9ccc40065e20b3fca89907338c9e0eeb/README.md) | The DN does not contain a serialNumber attribute. |
@@ -141,6 +143,7 @@ Description: The DN shall contain a serialNumber attribute.
 | error | SHAKEN 502E | [view](../../CERTS/1273ffd08a646d060eb8a642da40518417e565144f635f1065c21dc56ed64d3e/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN 067K | [view](../../CERTS/c8577ceb93ee27fac570967b55a9aad8826ca97e2c709b08925f445494d723ef/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN 939H | [view](../../CERTS/575afdc6d8ddae553b4b4afddbe4b92ecaef5142aebd9ea1a5d9d76219cf0600/README.md) | The DN does not contain a serialNumber attribute. |
+| error | SHAKEN 436J | [view](../../CERTS/07e63b47922a725d6a5f5f30d687c9ccce1ee29fc71f100fcea8a5b931711e24/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN 951J | [view](../../CERTS/364eb4b1c2247d7a676f8e833c74c1e023847f1c81b8db0135aee4b2b439a936/README.md) | The DN does not contain a serialNumber attribute. |
 
 ### CA Certificates
@@ -148,4 +151,4 @@ Description: The DN shall contain a serialNumber attribute.
 No error, warning, or notice level issues were found
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

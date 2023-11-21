@@ -2,7 +2,7 @@
 
 ## Certificate Telonium STI-CA Intermediate CA
 
-Tested At: 21 Nov 23 17:52 UTC\
+Tested At: 21 Nov 23 19:16 UTC\
 Initial Validity Period: 3650 day(s)\
 Remaining Validity Period: 3393 day(s)\
 Subject: CN=Telonium STI-CA Intermediate CA, O=Telonium STI-CA\
@@ -12,12 +12,12 @@ Issuer: CN=Telonium STI-CA Root1, O=Telonium, C=US
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_ext_crl_distribution_ca](../../ISSUES/e_atis_ext_crl_distribution_ca/README.md) | error | ATIS1000080 | STI End-Entity certificates shall contain a CRL Distribution Points extension |
-| [e_atis_ext_certificate_policies_ca](../../ISSUES/e_atis_ext_certificate_policies_ca/README.md) | error | ATIS1000080 | the Certificate Policies extension is not present |
-| [e_atis_ca_subject_c_iso](../../ISSUES/e_atis_ca_subject_c_iso/README.md) | error | ATIS1000080 | Subject MUST be present and MUST contain exactly one value for Country (C=). |
-| [e_shaken_certificate_policies_id_ca](../../ISSUES/e_shaken_certificate_policies_id_ca/README.md) | error | US_SHAKEN_CP | the Certificate Policies extension does not contain a single OID value that identifies the SHAKEN Certificate Policy established by the STI-PA |
-| [e_atis_subject_cn_ca](../../ISSUES/e_atis_subject_cn_ca/README.md) | error | ATIS1000080 | Common Name attribute 'Telonium STI-CA Intermediate CA' does not contain 'SHAKEN' |
 | [e_atis_ca_subject_dn](../../ISSUES/e_atis_ca_subject_dn/README.md) | error | ATIS1000080 | Subject DN does not contain a Country (C=) attribute |
+| [e_shaken_certificate_policies_id_ca](../../ISSUES/e_shaken_certificate_policies_id_ca/README.md) | error | US_SHAKEN_CP | the Certificate Policies extension does not contain a single OID value that identifies the SHAKEN Certificate Policy established by the STI-PA |
+| [e_atis_ca_subject_c_iso](../../ISSUES/e_atis_ca_subject_c_iso/README.md) | error | ATIS1000080 | Subject MUST be present and MUST contain exactly one value for Country (C=). |
+| [e_atis_ext_certificate_policies_ca](../../ISSUES/e_atis_ext_certificate_policies_ca/README.md) | error | ATIS1000080 | the Certificate Policies extension is not present |
+| [e_atis_subject_cn_ca](../../ISSUES/e_atis_subject_cn_ca/README.md) | error | ATIS1000080 | Common Name attribute 'Telonium STI-CA Intermediate CA' does not contain 'SHAKEN' |
+| [e_atis_ext_crl_distribution_ca](../../ISSUES/e_atis_ext_crl_distribution_ca/README.md) | error | ATIS1000080 | STI End-Entity certificates shall contain a CRL Distribution Points extension |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

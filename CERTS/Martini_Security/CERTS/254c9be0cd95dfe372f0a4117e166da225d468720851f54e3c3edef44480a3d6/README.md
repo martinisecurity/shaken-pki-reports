@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 709J
 
-Tested At: 21 Nov 23 17:51 UTC\
+Tested At: 21 Nov 23 19:16 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: -306 day(s)\
 Subject: O=LOW LATENCY COMMUNICATIONS LLC, C=US, serialNumber=AA4537753DEF4DCFF1CF17CB8A2A715D, CN=SHAKEN 709J\
@@ -22,4 +22,4 @@ Link: https://p.mtsec.me/2884/U1zkSXg2qmMj.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

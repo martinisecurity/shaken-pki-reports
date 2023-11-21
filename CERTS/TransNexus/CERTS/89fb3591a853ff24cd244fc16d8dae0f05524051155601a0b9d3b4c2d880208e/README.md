@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 0664
 
-Tested At: 21 Nov 23 17:39 UTC\
+Tested At: 21 Nov 23 18:48 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -129 day(s)\
 Subject: CN=SHAKEN 0664, O=Com Net Inc, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/cb66305d-96b1-49ed-82e9-9afdc4c88c40/51cc
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

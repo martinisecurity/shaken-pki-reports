@@ -9,29 +9,29 @@
 
 #### Leaf Certificates
 
-- 42 certificates were included in the corpus being tested
+- 43 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
 - 37 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 5 certificates being tested against the remaining rules
-- 3.80 issues on average found in unexpired, trusted, and non-compliant certificates
+- 6 certificates being tested against the remaining rules
+- 4.00 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 139 days is the average remaining validity for the certificates in the corpus
-- 164 days is the average initial validity for the certificates in the corpus
-- 3 certificates expire in the next 30 days
-- 1.00 average number of unexpired certificates per OCN observed
+- 124 days is the average remaining validity for the certificates in the corpus
+- 142 days is the average initial validity for the certificates in the corpus
+- 4 certificates expire in the next 30 days
+- 1.20 average number of unexpired certificates per OCN observed
 - 5 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 5 | [e_atis_ext_certificate_policies](ISSUES/e_atis_ext_certificate_policies/README.md) | ATIS1000080 |
-| 2 | [e_atis_ext_crl_distribution](ISSUES/e_atis_ext_crl_distribution/README.md) | ATIS1000080 |
-| 2 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
-| 5 | [e_atis_subject_cn_spc](ISSUES/e_atis_subject_cn_spc/README.md) | ATIS1000080 |
-| 5 | [e_shaken_certificate_policies_id](ISSUES/e_shaken_certificate_policies_id/README.md) | US_SHAKEN_CP |
+| 6 | [e_atis_ext_certificate_policies](ISSUES/e_atis_ext_certificate_policies/README.md) | ATIS1000080 |
+| 3 | [e_atis_ext_crl_distribution](ISSUES/e_atis_ext_crl_distribution/README.md) | ATIS1000080 |
+| 3 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
+| 6 | [e_atis_subject_cn_spc](ISSUES/e_atis_subject_cn_spc/README.md) | ATIS1000080 |
+| 6 | [e_shaken_certificate_policies_id](ISSUES/e_shaken_certificate_policies_id/README.md) | US_SHAKEN_CP |
 
 #### CA Certificates
 
@@ -67,6 +67,7 @@
 | 02&#160;Nov&#160;23&#160;00:00&#160;UTC | HD CARRIER LLC | 01&#160;Dec&#160;23&#160;23:59&#160;UTC | true | [view](CERTS/6ef9411ec5edc9f845f657e1e4b6adffe0c6a76b4f5e3f9d0b84c2ce9be651e4/README.md) |
 | 06&#160;Nov&#160;23&#160;00:02&#160;UTC | Google SHAKEN cert 969H | 06&#160;Dec&#160;23&#160;00:02&#160;UTC | true | [view](CERTS/16f320d1971e6da38e8a26433b6d8006ff2144912ff1f128c51da37cfc2bd6c3/README.md) |
 | 10&#160;Nov&#160;23&#160;15:00&#160;UTC | Baltimore-Washington Telephone Company SHAKEN cert 8697 | 10&#160;Dec&#160;23&#160;14:59&#160;UTC | true | [view](CERTS/51eb29697930a6d431253e26deaa7889ea127741637e06c87eabfc2d55f55457/README.md) |
+| 16&#160;Nov&#160;23&#160;00:00&#160;UTC | HD CARRIER LLC | 15&#160;Dec&#160;23&#160;23:59&#160;UTC | true | [view](CERTS/bef6faeb484fb93900c6e5c2d3988ab99efaae26939259683f81b3031aa15713/README.md) |
 
 #### CA Certificates
 
@@ -77,4 +78,4 @@
 | 29&#160;Sep&#160;21&#160;13:22&#160;UTC | NetNumber SHAKEN Root Intermediate CA 1 | 26&#160;Sep&#160;33&#160;13:22&#160;UTC | true | [view](CERTS/e449803766edf02ab50b034dd7e89e54efd332cce87688a032f89b340d039878/README.md) |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

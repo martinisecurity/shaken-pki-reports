@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN IPSBS Managed Services LLC 828J
 
-Tested At: 21 Nov 23 17:44 UTC\
+Tested At: 21 Nov 23 19:02 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -311 day(s)\
+Remaining Validity Period: -312 day(s)\
 Subject: emailAddress=iconectiv-hmc@hostmycalls.com, CN=SHAKEN IPSBS Managed Services LLC 828J, OU=NOC, O=IPSBS Managed Services LLC, ST=Tennessee, C=US, emailAddress=iconectiv-hmc@hostmycalls.com\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/828J/order/151_828J_86
@@ -25,4 +25,4 @@ Link: https://cr.sansay.com/828J/order/151_828J_86
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

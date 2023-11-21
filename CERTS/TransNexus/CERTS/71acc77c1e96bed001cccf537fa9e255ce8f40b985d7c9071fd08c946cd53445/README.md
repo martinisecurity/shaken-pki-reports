@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 738J
 
-Tested At: 21 Nov 23 17:37 UTC\
+Tested At: 21 Nov 23 18:47 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -185 day(s)\
 Subject: CN=SHAKEN 738J, O=SIP.US LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/2185f3c0-09fe-4171-ac47-5f28eb0ef48e/0371
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

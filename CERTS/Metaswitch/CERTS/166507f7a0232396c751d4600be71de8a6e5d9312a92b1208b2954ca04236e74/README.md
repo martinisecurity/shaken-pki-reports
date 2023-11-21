@@ -2,9 +2,9 @@
 
 ## Certificate Duo Broadband SHAKEN Cert 0401
 
-Tested At: 21 Nov 23 17:37 UTC\
+Tested At: 21 Nov 23 18:47 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 124 day(s)\
+Remaining Validity Period: 123 day(s)\
 Subject: CN=Duo Broadband SHAKEN Cert 0401, O=Duo Broadband, C=us\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/54a54551e139f777dcad69a463d282d8b6b9dade
@@ -28,4 +28,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/54a54551e139f777dcad69a463d282d8b6b9dad
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

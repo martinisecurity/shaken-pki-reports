@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Doylestown Communications, Inc 849C
 
-Tested At: 21 Nov 23 17:44 UTC\
+Tested At: 21 Nov 23 19:03 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -81 day(s)\
 Subject: emailAddress=jclarke@heritagetelephone.com, CN=SHAKEN Doylestown Communications\\, Inc 849C, OU=Operations, O=Doylestown Communications\\, Inc, ST=Ohio, C=US, emailAddress=jclarke@heritagetelephone.com\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/849C/order/487_849C_78
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

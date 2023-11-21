@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 350ms average time it took to download each certificate
+- 301ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://sscerts.accessline.com/sscerts/Cert-US-04-2023.crt` | 06&#160;Apr&#160;24&#160;20:40&#160;UTC | true | [view](REPOS/468093ea903a667c39a85d0b438762bc5cf67d45/README.md) |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

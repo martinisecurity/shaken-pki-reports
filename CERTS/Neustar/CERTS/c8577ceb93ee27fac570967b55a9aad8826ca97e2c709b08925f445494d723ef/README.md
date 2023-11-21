@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 067K
 
-Tested At: 21 Nov 23 17:49 UTC\
+Tested At: 21 Nov 23 19:14 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 193 day(s)\
 Subject: CN=SHAKEN 067K, O=Junction Networks Inc, C=US\
@@ -16,4 +16,4 @@ Link: https://stir-shaken.jnctn.net/onsip-stir-shaken.pem
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

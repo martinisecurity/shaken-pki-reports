@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 597F
 
-Tested At: 21 Nov 23 17:46 UTC\
+Tested At: 21 Nov 23 19:11 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 81 day(s)\
 Subject: CN=SHAKEN 597F, O=VoIP Innovations LLC, C=US\
@@ -24,4 +24,4 @@ Link: https://ssc.getsipnav.com/certs/4271238eaebdb4a770896e8a3a4d18618f648cb6
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

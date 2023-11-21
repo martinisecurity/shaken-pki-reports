@@ -2,7 +2,7 @@
 
 ## Certificate Hawaiian Telcom SHAKEN Cert 009G
 
-Tested At: 21 Nov 23 17:37 UTC\
+Tested At: 21 Nov 23 18:47 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 216 day(s)\
 Subject: CN=Hawaiian Telcom SHAKEN Cert 009G, O=Hawaiian Telcom, C=US\
@@ -28,4 +28,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/3e5c8831f88b085823dc347977abc7c3b3c4ae7
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

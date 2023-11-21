@@ -2,7 +2,7 @@
 
 ## Certificate TransNexus Issuing CA G2
 
-Tested At: 21 Nov 23 17:52 UTC\
+Tested At: 21 Nov 23 19:16 UTC\
 Initial Validity Period: 4383 day(s)\
 Remaining Validity Period: 3271 day(s)\
 Subject: CN=TransNexus Issuing CA G2, OU=Certification Authorities, O=TransNexus, C=US\
@@ -12,8 +12,8 @@ Issuer: CN=TransNexus Root CA G2, OU=Certification Authorities, O=TransNexus, C=
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_ca](../../ISSUES/e_atis_subject_cn_ca/README.md) | error | ATIS1000080 | Common Name attribute 'TransNexus Issuing CA G2' does not contain 'SHAKEN' |
 | [e_atis_ext_crl_distribution_ca](../../ISSUES/e_atis_ext_crl_distribution_ca/README.md) | error | ATIS1000080 | STI End-Entity certificates shall contain a CRL Distribution Points extension |
+| [e_atis_subject_cn_ca](../../ISSUES/e_atis_subject_cn_ca/README.md) | error | ATIS1000080 | Common Name attribute 'TransNexus Issuing CA G2' does not contain 'SHAKEN' |
 
 ### Not Effective
 
@@ -28,4 +28,4 @@ Issuer: CN=TransNexus Root CA G2, OU=Certification Authorities, O=TransNexus, C=
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

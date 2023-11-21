@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 0305
 
-Tested At: 21 Nov 23 17:38 UTC\
+Tested At: 21 Nov 23 18:48 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -84 day(s)\
 Subject: CN=SHAKEN 0305, O=Mon-Cre Telephone Co-op, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/4e953173-3f55-4eb8-96b1-dbc2c7b25a35/ef6d
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

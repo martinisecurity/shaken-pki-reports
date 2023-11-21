@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 64ms average time it took to download each certificate
+- 269ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://cert2.sticr.att.net:8443/sti-cr/att-stica1691767810461-cert.crt` | 10&#160;Aug&#160;24&#160;15:15&#160;UTC | true | [view](REPOS/e927f896f26103d706a2a5a669617a09cb847758/README.md) |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

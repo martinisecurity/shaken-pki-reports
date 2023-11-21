@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Quality Voice & Data Inc. 548J
 
-Tested At: 21 Nov 23 17:43 UTC\
+Tested At: 21 Nov 23 18:58 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -352 day(s)\
 Subject: emailAddress=kelsey@qualityvoicedata.com, CN=SHAKEN Quality Voice & Data Inc. 548J, OU=Quality Voice & Data, O=Quality Voice & Data Inc., ST=Nebraska, C=US, emailAddress=kelsey@qualityvoicedata.com\
@@ -25,4 +25,4 @@ Link: https://cr.sansay.com/548J/order/176_548J_67
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

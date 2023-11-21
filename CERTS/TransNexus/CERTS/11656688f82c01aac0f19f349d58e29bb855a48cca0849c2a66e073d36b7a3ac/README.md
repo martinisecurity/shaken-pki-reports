@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 035K
 
-Tested At: 21 Nov 23 17:39 UTC\
+Tested At: 21 Nov 23 18:48 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -254 day(s)\
 Subject: CN=SHAKEN 035K, O=NetDiverse\\, LLC, C=US\
@@ -24,4 +24,4 @@ Link: https://certificates.clearip.com/ba9a1ccc-cb72-4d11-a5b3-b1211e6dea1b/4e75
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

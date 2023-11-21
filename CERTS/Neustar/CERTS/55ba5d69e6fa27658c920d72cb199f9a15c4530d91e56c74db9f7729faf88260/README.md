@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 430K
 
-Tested At: 21 Nov 23 17:42 UTC\
+Tested At: 21 Nov 23 18:50 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 212 day(s)\
+Remaining Validity Period: 211 day(s)\
 Subject: CN=SHAKEN 430K, O=France Telecom Long Distance USA LLC dba Orange Carriers USA, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11581.10243.pem
@@ -16,4 +16,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11581.10243.pem
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

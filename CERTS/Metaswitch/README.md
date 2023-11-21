@@ -9,8 +9,8 @@
 
 #### Leaf Certificates
 
-- 110 certificates were included in the corpus being tested
-- 39 certificates in the corpus were skipped because they are duplicates
+- 111 certificates were included in the corpus being tested
+- 40 certificates in the corpus were skipped because they are duplicates
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
 - 71 certificates being tested against the remaining rules
@@ -145,4 +145,4 @@
 | 10&#160;Feb&#160;23&#160;14:38&#160;UTC | Metaswitch STI-CA SHAKEN Issuing 1 | 07&#160;Feb&#160;35&#160;14:38&#160;UTC | true | [view](CERTS/8a7fb50e95b8c43a63d19e2f279de565fa611ae3f24a14f82394e3208782be7a/README.md) |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

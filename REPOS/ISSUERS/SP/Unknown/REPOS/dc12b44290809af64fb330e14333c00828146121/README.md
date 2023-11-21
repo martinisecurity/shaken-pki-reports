@@ -3,11 +3,13 @@
 ## Unknown
 
 Name: `https://cert.sticr.att.net:8443/certs/att/f498a068-56c3-49ad-80bc-4d0bf6fb9dab`\
-Tested At: 21 Nov 23 17:37 UTC\
-Time: 3000ms
+Tested At: 21 Nov 23 18:47 UTC\
+Time: 48ms
 
 ### Issues
 
-no warning, or error, or notice date level issues were found
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "https://cert.sticr.att.net:8443/certs/att/f498a068-56c3-49ad-80bc-4d0bf6fb9dab": net/http: HTTP/1.x transport connection broken: too many transfer encodings: ["chunked" "chunked"] |
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

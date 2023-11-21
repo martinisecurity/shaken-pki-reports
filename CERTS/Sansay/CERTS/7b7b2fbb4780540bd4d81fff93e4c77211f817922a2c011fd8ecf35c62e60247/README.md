@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1stPoint Communications, LLC 463G
 
-Tested At: 21 Nov 23 17:43 UTC\
+Tested At: 21 Nov 23 18:58 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -234 day(s)\
 Subject: emailAddress=elevitt@1pcom.com, CN=SHAKEN 1stPoint Communications\\, LLC 463G, OU=NOC, O=1stPoint Communications\\, LLC, ST=New York, C=US, emailAddress=elevitt@1pcom.com\
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/463G/order/578_463G_53
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 463G' |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 ### Not Effective
 
@@ -25,4 +25,4 @@ Link: https://cr.sansay.com/463G/order/578_463G_53
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

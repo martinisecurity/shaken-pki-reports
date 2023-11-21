@@ -3,8 +3,8 @@
 ## Telcast Networks
 
 Name: `https://ssc.getsipnav.com/certs/2ae1590ba7b804c703e2af2842d1290fe9a70fc0`\
-Tested At: 21 Nov 23 17:46 UTC\
-Time: 191ms
+Tested At: 21 Nov 23 19:11 UTC\
+Time: 45ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 191ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 052K
 
-Tested At: 21 Nov 23 17:38 UTC\
+Tested At: 21 Nov 23 18:48 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -331 day(s)\
 Subject: CN=SHAKEN 052K, O=KassNet\\, Inc., C=US\
@@ -24,4 +24,4 @@ Link: https://certificates.clearip.com/6814c282-6a92-4f7e-8103-d6485933d76b/0fc0
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

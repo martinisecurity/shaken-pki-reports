@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN-925C
 
-Tested At: 21 Nov 23 17:40 UTC\
+Tested At: 21 Nov 23 18:49 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 126 day(s)\
 Subject: C=US, ST=MN, L=Brainerd, O=Consolidated Telephone Company, OU=CTC VOIP, CN=SHAKEN-925C\
@@ -29,4 +29,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/25.196
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

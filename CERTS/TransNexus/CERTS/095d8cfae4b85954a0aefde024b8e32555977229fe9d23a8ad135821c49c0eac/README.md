@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 179K
 
-Tested At: 21 Nov 23 17:38 UTC\
+Tested At: 21 Nov 23 18:47 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -395 day(s)\
+Remaining Validity Period: -396 day(s)\
 Subject: CN=SHAKEN 179K, OU=SHAKEN, O=The Tech Consultants\\, LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/2d93d07b-20ff-4289-a40d-959976cc0595/acc7328684bd54f2b672b0988753cf96.pem
@@ -13,8 +13,8 @@ Link: https://certificates.clearip.com/2d93d07b-20ff-4289-a40d-959976cc0595/acc7
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 ### Not Effective
 
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/2d93d07b-20ff-4289-a40d-959976cc0595/acc7
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

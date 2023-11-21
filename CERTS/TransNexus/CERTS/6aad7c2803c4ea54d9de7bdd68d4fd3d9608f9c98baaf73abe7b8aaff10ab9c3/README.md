@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 014E
 
-Tested At: 21 Nov 23 17:37 UTC\
+Tested At: 21 Nov 23 18:47 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -77 day(s)\
 Subject: CN=SHAKEN 014E, O=IdeaTek Telcom, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/1d654fd0-a496-463d-87c0-7fef44ec35c9/8b20
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

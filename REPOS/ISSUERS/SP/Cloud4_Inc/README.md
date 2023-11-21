@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 260ms average time it took to download each certificate
+- 250ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://cloud4.46labs.com` | 31&#160;Jan&#160;24&#160;16:13&#160;UTC | true | [view](REPOS/b2d87de07342027ac2892fb9302adae7f7ea6277/README.md) |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

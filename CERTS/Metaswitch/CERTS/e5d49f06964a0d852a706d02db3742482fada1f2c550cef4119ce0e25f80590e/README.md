@@ -2,7 +2,7 @@
 
 ## Certificate Union Telephone Company SHAKEN Cert 2297
 
-Tested At: 21 Nov 23 17:37 UTC\
+Tested At: 21 Nov 23 18:47 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 195 day(s)\
 Subject: CN=Union Telephone Company SHAKEN Cert 2297, O=Union Telephone Company, C=US\
@@ -28,4 +28,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/79b04ced7278d55340ae248b065543b91d3c6ed
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

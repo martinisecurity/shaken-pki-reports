@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1772
 
-Tested At: 21 Nov 23 17:37 UTC\
+Tested At: 21 Nov 23 18:47 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -89 day(s)\
 Subject: CN=SHAKEN 1772, O=RINA Wireless, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/1fa8e9a2-9040-49b3-b26e-02625ac785b8/3436
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 856H
+
+Tested At: 21 Nov 23 18:47 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -5 day(s)\
+Subject: CN=SHAKEN 856H, O=Mix Networks Inc., C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/357a731f-0148-4a23-9fdf-41c8734c23a7/f5bcd4cfc446998fef95fadfa15cf7fa.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC0TCCAnegAwIBAgIQRvEl0RZNK5LnA1SNQHjObjAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMxMTA4MjA1NjIxWhcNMjMxMTE1MjA1NjIwWjA%2FMQswCQYDVQQGEwJVUzEaMBgGA1UEChMRTWl4IE5ldHdvcmtzIEluYy4xFDASBgNVBAMTC1NIQUtFTiA4NTZIMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEeoBzATzgcHWkIzUkK4kDOyJvTyKJ53Q2%2BN%2Btsb2kWzRIEXwmcB2kgch48O2Swv5x%2FmQNgA5vwJ3nj8ZBK%2B5COaOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBTG39SuxwdIAKfsgFIPYKDIH0D0RDAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ4NTZIMAoGCCqGSM49BAMCA0gAMEUCIQD2SMTpBNW3%2BPUtlOiYG6e6%2BFTsKnyE3BaQEPWdImB1oAIgPrhi4TETTM2lT49LTFo5j3PP9HOXNlWK2hScI7%2B3wU8%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 21 Nov 23 19:18 UTC

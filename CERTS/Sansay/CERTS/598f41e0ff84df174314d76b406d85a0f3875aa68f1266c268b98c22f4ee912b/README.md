@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Call Hub Inc. 688K
 
-Tested At: 21 Nov 23 17:37 UTC\
+Tested At: 21 Nov 23 18:47 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 263 day(s)\
 Subject: CN=SHAKEN Call Hub Inc. 688K, OU=Technical, O=Call Hub Inc., ST=Wyoming, C=US\
@@ -17,4 +17,4 @@ Link: https://callhub.46labs.com/callhub.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 688K' |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

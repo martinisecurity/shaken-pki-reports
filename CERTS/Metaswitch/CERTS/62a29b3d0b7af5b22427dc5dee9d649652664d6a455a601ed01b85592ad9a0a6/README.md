@@ -2,7 +2,7 @@
 
 ## Certificate West Kentucky Rural SHAKEN Cert 0421
 
-Tested At: 21 Nov 23 17:37 UTC\
+Tested At: 21 Nov 23 18:47 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 866 day(s)\
 Subject: CN=West Kentucky Rural SHAKEN Cert 0421, O=West Kentucky Rural Telephone Cooperative, C=US\
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/fecae0c1f85acf27b0d6f8afbe4c90593fd6ecc
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

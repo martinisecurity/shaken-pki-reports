@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN i3 Broadband 5800
 
-Tested At: 21 Nov 23 17:44 UTC\
+Tested At: 21 Nov 23 19:08 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -190 day(s)\
 Subject: CN=SHAKEN i3 Broadband 5800, OU=NOC, O=i3 Broadband, ST=Illinois, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/i3_Broadband_5800
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 5800' |
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC

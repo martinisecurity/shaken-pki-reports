@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 738J
 
-Tested At: 21 Nov 23 17:39 UTC\
+Tested At: 21 Nov 23 18:48 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -425 day(s)\
 Subject: CN=SHAKEN 738J, OU=SHAKEN, O=SIP.US LLC, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/d581
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:53 UTC
+Generated: 21 Nov 23 19:18 UTC
