@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0172
 
-Tested At: 15 Nov 23 18:01 UTC\
+Tested At: 21 Nov 23 17:39 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -233 day(s)\
+Remaining Validity Period: -239 day(s)\
 Subject: CN=SHAKEN 0172, O=CallTower, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/0172/30b9a097-2e25-4f5f-95c8-5495fbd5721a.pem
@@ -13,7 +13,7 @@ Link: https://certificates.transnexus.com/0172/30b9a097-2e25-4f5f-95c8-5495fbd57
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 15 Nov 23 18:10 UTC
+Generated: 21 Nov 23 17:53 UTC

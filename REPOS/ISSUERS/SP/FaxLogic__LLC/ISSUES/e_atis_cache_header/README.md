@@ -12,4 +12,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://cdn.pgxn.net/sti/20240701.cer` | 28&#160;Jun&#160;24&#160;21:51&#160;UTC | true | [view](../../REPOS/b2c48d0d9716073d2b682e69ff384955a0ae8437/README.md) |
 
 
-Generated: 15 Nov 23 18:10 UTC
+Generated: 21 Nov 23 17:53 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 577F
 
-Tested At: 15 Nov 23 18:01 UTC\
+Tested At: 21 Nov 23 17:40 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -130 day(s)\
+Remaining Validity Period: -136 day(s)\
 Subject: CN=SHAKEN 577F, O=Ringsquared, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/577F/a5a3f7e9-21ac-4a5c-9161-77c8163c2b5d.pem
@@ -13,7 +13,7 @@ Link: https://certificates.transnexus.com/577F/a5a3f7e9-21ac-4a5c-9161-77c8163c2
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 15 Nov 23 18:10 UTC
+Generated: 21 Nov 23 17:53 UTC

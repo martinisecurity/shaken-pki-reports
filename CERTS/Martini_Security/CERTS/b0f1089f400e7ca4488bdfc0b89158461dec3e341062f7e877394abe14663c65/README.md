@@ -2,16 +2,16 @@
 
 ## Certificate SHAKEN 738J
 
-Tested At: 15 Nov 23 18:09 UTC\
+Tested At: 21 Nov 23 17:50 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: 65 day(s)\
+Remaining Validity Period: 59 day(s)\
 Subject: O=BCM One Cloud Communications\\, LLC, C=US, serialNumber=FAE58E053D77E3B93FF1FAC94DD8FA8A, CN=SHAKEN 738J\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/KXzwB-gy3xnu.pem
 
 [View certificate details](https://understandingwebpki.com/?cert=MIICyjCCAm%2BgAwIBAgIUKXzwB%2Bgy3xnu3UZdHauiV3D%2F5mQwCgYIKoZIzj0EAwIwcTELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAldBMRAwDgYDVQQHEwdTZWF0dGxlMR4wHAYDVQQKExVNYXJ0aW5pIFNlY3VyaXR5LCBMTEMxIzAhBgNVBAMTGk1hcnRpbmkgU2VjdXJpdHkgU0hBS0VOIEcyMB4XDTIzMTAyMTAwMDAzN1oXDTI0MDExOTAwMDAzN1owejEUMBIGA1UEAxMLU0hBS0VOIDczOEoxKTAnBgNVBAUTIEZBRTU4RTA1M0Q3N0UzQjkzRkYxRkFDOTRERDhGQThBMQswCQYDVQQGEwJVUzEqMCgGA1UEChMhQkNNIE9uZSBDbG91ZCBDb21tdW5pY2F0aW9ucywgTExDMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAENyVm4GLWskc%2B0e0pYakw297iaJQfluMEf1tApt43m%2F7gC27%2BsX8FJBtR09RDqrti49ENcGJ2xIeFiFmCaPaweaOB2zCB2DAOBgNVHQ8BAf8EBAMCB4AwDAYDVR0TAQH%2FBAIwADAdBgNVHQ4EFgQUiDvNqKVa6rOPPVMhM5sfJVJvBqIwHwYDVR0jBBgwFoAUKIRQXuRDeCzQc7OLG%2F2kzBZimBgwFgYIKwYBBQUHARoECjAIoAYWBDczOEowRwYDVR0fBEAwPjA8oDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzAKBggqhkjOPQQDAgNJADBGAiEA32gtTtRmZh4i3EaOqdlSQH9fwkfKhVqcscFqOjZ7wfgCIQDMPLL9GhUZdEjA24YkokTwDCrdf%2BHwDVym1bg0KhxTAw%3D%3D)
 
-149 tests were ran and no error, warning, or notice level issues were found
+160 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 15 Nov 23 18:10 UTC
+Generated: 21 Nov 23 17:53 UTC

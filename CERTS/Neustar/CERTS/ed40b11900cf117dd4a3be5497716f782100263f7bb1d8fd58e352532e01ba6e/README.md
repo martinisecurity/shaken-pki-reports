@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 772J
 
-Tested At: 15 Nov 23 18:05 UTC\
+Tested At: 21 Nov 23 17:46 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 156 day(s)\
+Remaining Validity Period: 150 day(s)\
 Subject: CN=SHAKEN 772J, O=VOIP ESSENTIAL LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/150ed90442e147b17a8647c157e6a00e195f87df
@@ -13,7 +13,7 @@ Link: https://ssc.getsipnav.com/certs/150ed90442e147b17a8647c157e6a00e195f87df
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 15 Nov 23 18:10 UTC
+Generated: 21 Nov 23 17:53 UTC

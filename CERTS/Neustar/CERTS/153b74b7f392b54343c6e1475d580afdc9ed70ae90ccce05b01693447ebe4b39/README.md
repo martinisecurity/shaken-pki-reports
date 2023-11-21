@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 154E
 
-Tested At: 15 Nov 23 18:07 UTC\
+Tested At: 21 Nov 23 17:48 UTC\
 Initial Validity Period: 398 day(s)\
-Remaining Validity Period: 274 day(s)\
+Remaining Validity Period: 268 day(s)\
 Subject: CN=SHAKEN 154E, O=IRISTEL, C=CA\
 Issuer: CN=Neustar Canada Certified Caller ID SHAKEN CA-2, OU=www.ca.ccid.neustar, O=Neustar Information Services Inc, C=CA\
 Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/a93fb04b9d4d2e9384352d32f7830cb2.crt
@@ -13,8 +13,7 @@ Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/a93fb04b9d4d2e9384352d
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | the Certificate Policies extension contains an invalid OID value: 1.3.6.1.4.1.56223.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
 
 
-Generated: 15 Nov 23 18:10 UTC
+Generated: 21 Nov 23 17:53 UTC

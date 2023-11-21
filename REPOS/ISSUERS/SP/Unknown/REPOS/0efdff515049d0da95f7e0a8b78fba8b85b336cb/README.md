@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://stirshaken.ellianz.com:5000/stirshaken_certs/sp-cert.pem`\
-Tested At: 15 Nov 23 18:09 UTC\
-Time: 166ms
+Tested At: 21 Nov 23 17:49 UTC\
+Time: 190ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 166ms
 |------|------|--------|---------|
 | [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "https://stirshaken.ellianz.com:5000/stirshaken_certs/sp-cert.pem": dial tcp 88.99.252.103:5000: connect: connection refused |
 
-Generated: 15 Nov 23 18:10 UTC
+Generated: 21 Nov 23 17:53 UTC

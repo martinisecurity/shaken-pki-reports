@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 2254
 
-Tested At: 15 Nov 23 18:01 UTC\
+Tested At: 21 Nov 23 17:39 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -116 day(s)\
+Remaining Validity Period: -121 day(s)\
 Subject: CN=SHAKEN 2254, O=Vision Net Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/ffc181ba-cdd1-4018-a290-bfe3363eabf1/9e8a39325b88f3bfe3c8132fa63f74fd.pem
@@ -13,7 +13,7 @@ Link: https://certificates.clearip.com/ffc181ba-cdd1-4018-a290-bfe3363eabf1/9e8a
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 15 Nov 23 18:10 UTC
+Generated: 21 Nov 23 17:53 UTC

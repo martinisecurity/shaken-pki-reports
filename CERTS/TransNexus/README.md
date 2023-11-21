@@ -9,25 +9,25 @@
 
 #### Leaf Certificates
 
-- 4923 certificates were included in the corpus being tested
+- 4922 certificates were included in the corpus being tested
 - 3 certificates in the corpus were skipped because they are duplicates
-- 4435 certificates in the corpus were skipped because they are expired
+- 4438 certificates in the corpus were skipped because they are expired
 - 458 certificates in the corpus were skipped because they are not currently trusted
-- 27 certificates being tested against the remaining rules
+- 23 certificates being tested against the remaining rules
 - 1.00 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
-- 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 201 days is the average remaining validity for the certificates in the corpus
-- 203 days is the average initial validity for the certificates in the corpus
-- 12 certificates expire in the next 30 days
-- 1.08 average number of unexpired certificates per OCN observed
-- 25 unique OCNs observed in unexpired and valid certificate corpus
+- 13.04% of certificates are too old to be assessed against currently enforced expectations
+- 230 days is the average remaining validity for the certificates in the corpus
+- 235 days is the average initial validity for the certificates in the corpus
+- 9 certificates expire in the next 30 days
+- 1.10 average number of unexpired certificates per OCN observed
+- 21 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 27 | [e_us_cp_subject_sn](ISSUES/e_us_cp_subject_sn/README.md) | US_SHAKEN_CP |
+| 23 | [e_us_cp_subject_sn_shall](ISSUES/e_us_cp_subject_sn_shall/README.md) | US_SHAKEN_CP |
 
 #### CA Certificates
 
@@ -40,8 +40,8 @@
 - 0.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
-- 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 5959 days is the average remaining validity for the certificates in the corpus
+- 100.00% of certificates are too old to be assessed against currently enforced expectations
+- 5957 days is the average remaining validity for the certificates in the corpus
 - 5479 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -71,15 +71,11 @@ No error, warning, or notice level issues were found
 | 07&#160;Oct&#160;23&#160;20:53&#160;UTC | SHAKEN 815G | 05&#160;Jan&#160;24&#160;20:53&#160;UTC | true | [view](CERTS/5e3f087377972cddbfa28ad890648c64ac3f5826d73bc03376633716bdaf0b43/README.md) |
 | 11&#160;Oct&#160;23&#160;07:59&#160;UTC | SHAKEN 193E | 10&#160;Dec&#160;23&#160;07:59&#160;UTC | true | [view](CERTS/24ff7ba8e2a7f3cc30f93197bc836d803e9016fc34fb1bd69c67f9753e1c4613/README.md) |
 | 16&#160;Oct&#160;23&#160;15:00&#160;UTC | SHAKEN 4036 | 13&#160;Apr&#160;24&#160;15:00&#160;UTC | true | [view](CERTS/906907e82fc83e435a762a6274c36c5ea6c88d6f933ba0ae03fe167912cc8429/README.md) |
-| 19&#160;Oct&#160;23&#160;15:04&#160;UTC | SHAKEN 366G | 18&#160;Nov&#160;23&#160;15:04&#160;UTC | true | [view](CERTS/93f71378f0458e843b11a39f58aaad03b242c38073f00b2924b7369b4ac2933c/README.md) |
-| 20&#160;Oct&#160;23&#160;17:24&#160;UTC | SHAKEN 722J | 19&#160;Nov&#160;23&#160;17:24&#160;UTC | true | [view](CERTS/64036e8056b83d3d7eb40e835f1e59d950fa20d818bea3ce3a22e465944e5fa4/README.md) |
 | 21&#160;Oct&#160;23&#160;03:43&#160;UTC | SHAKEN 807J | 20&#160;Dec&#160;23&#160;03:43&#160;UTC | true | [view](CERTS/87b436606e63deb46efe2eb19aefbadb9d8485e0c414b6ee71d9419e745871fd/README.md) |
 | 31&#160;Oct&#160;23&#160;17:32&#160;UTC | SHAKEN 551G | 30&#160;Nov&#160;23&#160;17:32&#160;UTC | true | [view](CERTS/747ce012af7cb00c17e5563d6884f6bd7297438b9452de5a92ab26ec7cd6c66d/README.md) |
 | 01&#160;Nov&#160;23&#160;20:04&#160;UTC | SHAKEN 952J | 01&#160;Dec&#160;23&#160;20:04&#160;UTC | true | [view](CERTS/a35ea0c896a2916f3eb992cc7854fd4937e66659b1872c1711f27e6513aafd84/README.md) |
-| 02&#160;Nov&#160;23&#160;12:20&#160;UTC | SHAKEN 841J | 16&#160;Nov&#160;23&#160;12:20&#160;UTC | true | [view](CERTS/04854c12723e418d45a10dc8fa603b300042288a3ad5215e643e50021f3e65ca/README.md) |
 | 04&#160;Nov&#160;23&#160;05:33&#160;UTC | SHAKEN 345J | 04&#160;Dec&#160;23&#160;05:33&#160;UTC | true | [view](CERTS/123ab627570a450aceb599243861d6f75ed0c40993f6d4f563db5b80dc88b61d/README.md) |
 | 06&#160;Nov&#160;23&#160;09:42&#160;UTC | SHAKEN 8526 | 05&#160;Nov&#160;24&#160;09:42&#160;UTC | true | [view](CERTS/4c86bf33be8b4189a469827d24c257723b4e5e3236981d9666d04de493b5cb6a/README.md) |
-| 06&#160;Nov&#160;23&#160;21:14&#160;UTC | SHAKEN 738J | 15&#160;Nov&#160;23&#160;21:14&#160;UTC | true | [view](CERTS/72a0d465c1eae48f8b4a88ef826210b6d12853145efe56474bbadad604149d2b/README.md) |
 
 #### CA Certificates
 
@@ -89,4 +85,4 @@ No error, warning, or notice level issues were found
 | 24&#160;Oct&#160;22&#160;00:00&#160;UTC | TransNexus, Inc. SHAKEN Root CA2 | 23&#160;Oct&#160;42&#160;23:59&#160;UTC | false | [view](CERTS/a26e04fc786ab70b8085236b2c53f8cfbf5d0c6a5c2c9c3e9f91669fbb8ea4d5/README.md) |
 
 
-Generated: 15 Nov 23 18:10 UTC
+Generated: 21 Nov 23 17:53 UTC

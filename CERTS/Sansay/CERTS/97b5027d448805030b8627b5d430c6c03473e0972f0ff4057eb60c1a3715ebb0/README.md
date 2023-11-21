@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Sansay Intermediate CA Canada 1
 
-Tested At: 15 Nov 23 18:10 UTC\
+Tested At: 21 Nov 23 17:52 UTC\
 Initial Validity Period: 3285 day(s)\
-Remaining Validity Period: 2691 day(s)\
+Remaining Validity Period: 2685 day(s)\
 Subject: CN=SHAKEN Sansay Intermediate CA Canada 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Issuer: CN=SHAKEN Sansay Root CA Canada, OU=Sansay CA, O=Sansay Corporation, L=San Diego, ST=California, C=US
 
@@ -12,9 +12,15 @@ Issuer: CN=SHAKEN Sansay Root CA Canada, OU=Sansay CA, O=Sansay Corporation, L=S
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_ca_certificate_policies](../../ISSUES/e_atis_ca_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| [w_shaken_ca_subject_rdn_unknown](../../ISSUES/w_shaken_ca_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
-| [e_atis_ca_serial_number](../../ISSUES/e_atis_ca_serial_number/README.md) | error | ATIS1000080 | STI certificates shall include a Serial Number field containing an integer greater than zero. The serial number shall contain at least 64 bits of output from a Cryptographically Secure PseudoRandom Number Generator (CSPRNG) |
+| [e_shaken_certificate_policies_id_ca](../../ISSUES/e_shaken_certificate_policies_id_ca/README.md) | error | US_SHAKEN_CP | the Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
+
+### Not Effective
+
+- e_atis_ca_ext_not_specified
+- e_atis_ca_serial_number_size
+- e_atis_ca_subject_c_iso
+
+\* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 15 Nov 23 18:10 UTC
+Generated: 21 Nov 23 17:53 UTC

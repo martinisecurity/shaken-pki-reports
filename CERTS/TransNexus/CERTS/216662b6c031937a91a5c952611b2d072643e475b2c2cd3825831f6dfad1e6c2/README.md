@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0305
 
-Tested At: 15 Nov 23 17:59 UTC\
+Tested At: 21 Nov 23 17:38 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -78 day(s)\
+Remaining Validity Period: -84 day(s)\
 Subject: CN=SHAKEN 0305, O=Mon-Cre Telephone Co-op, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/4e953173-3f55-4eb8-96b1-dbc2c7b25a35/ef6d980e9f56d8b0e5633b9c3c4eb8f5.pem
@@ -13,7 +13,7 @@ Link: https://certificates.clearip.com/4e953173-3f55-4eb8-96b1-dbc2c7b25a35/ef6d
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 15 Nov 23 18:10 UTC
+Generated: 21 Nov 23 17:53 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 627K
 
-Tested At: 15 Nov 23 18:01 UTC\
+Tested At: 21 Nov 23 17:40 UTC\
 Initial Validity Period: 357 day(s)\
-Remaining Validity Period: 229 day(s)\
+Remaining Validity Period: 223 day(s)\
 Subject: serialNumber=bd92caa9-e7d5-46cc-b3da-daf96a2fbe3c, CN=SHAKEN 627K, O=Come 2 LLC, C=US\
 Issuer: CN=Telonium STI-CA Intermediate CA, O=Telonium STI-CA\
 Link: https://certs.telonium.net/23/5b3de5bc.crt
@@ -13,8 +13,7 @@ Link: https://certs.telonium.net/23/5b3de5bc.crt
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_extension_unknown](../../ISSUES/e_atis_extension_unknown/README.md) | error | ATIS1000080 | STI certificate shall not include extensions that are not specified |
-| [e_atis_issuer_dn](../../ISSUES/e_atis_issuer_dn/README.md) | error | ATIS1000080 | The DN shall contain a Country (C=) attribute, a Common Name (CN=) attribute and an Organization (O=) attribute |
+| [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.4.1.37476.9000.64.1 |
 
 
-Generated: 15 Nov 23 18:10 UTC
+Generated: 21 Nov 23 17:53 UTC

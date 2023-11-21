@@ -2,9 +2,9 @@
 
 ## Certificate On Air Telecom LLC SHAKEN 861J
 
-Tested At: 15 Nov 23 18:04 UTC\
+Tested At: 21 Nov 23 17:45 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 234 day(s)\
+Remaining Validity Period: 228 day(s)\
 Subject: CN=On Air Telecom LLC SHAKEN 861J, O=On Air Telecom LLC, L=Owings Mills, ST=MD, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://onairtel.46labs.com
@@ -13,9 +13,7 @@ Link: https://onairtel.46labs.com
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn](../../ISSUES/e_us_cp_subject_sn/README.md) | error | US_SHAKEN_CP | STI certificate shall include a ‘serialNumber’ attribute along with the CN |
-| [e_atis_certificate_policies](../../ISSUES/e_atis_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| [e_us_cp_ambiguous_identifier](../../ISSUES/e_us_cp_ambiguous_identifier/README.md) | error | US_SHAKEN_CP | Names used in the STI certificates shall represent an unambiguous identifier for the SP Subject |
+| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | the Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
 
 
-Generated: 15 Nov 23 18:10 UTC
+Generated: 21 Nov 23 17:53 UTC

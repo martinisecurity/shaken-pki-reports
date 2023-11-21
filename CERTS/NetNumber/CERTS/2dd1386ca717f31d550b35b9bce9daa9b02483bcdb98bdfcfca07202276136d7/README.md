@@ -2,9 +2,9 @@
 
 ## Certificate NetNumber SHAKEN Root CA 1
 
-Tested At: 15 Nov 23 18:10 UTC\
+Tested At: 21 Nov 23 17:53 UTC\
 Initial Validity Period: 9125 day(s)\
-Remaining Validity Period: 8347 day(s)\
+Remaining Validity Period: 8341 day(s)\
 Subject: L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN Root CA 1\
 Issuer: L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN Root CA 1
 
@@ -12,18 +12,21 @@ Issuer: L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber 
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_ca_signature_algorithm](../../ISSUES/e_atis_ca_signature_algorithm/README.md) | error | ATIS1000080 | STI certificates shall contain a Signature Algorithm field with the value 'ecdsa-with-SHA256' |
-| [e_atis_ca_subject_public_key](../../ISSUES/e_atis_ca_subject_public_key/README.md) | error | ATIS1000080 | STI certificates shall contain a Subject Public Key Info field specifying a Public Key Algorithm of "id-ecPublicKey" and containing a 256-bit public key |
-| [w_shaken_ca_subject_rdn_unknown](../../ISSUES/w_shaken_ca_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| [e_atis_ca_subject_public_key](../../ISSUES/e_atis_ca_subject_public_key/README.md) | error | ATIS1000080 | Subject Public Key Info field contains a public key that is not 256 bits |
+| [e_atis_ca_signature_algorithm](../../ISSUES/e_atis_ca_signature_algorithm/README.md) | error | ATIS1000080 | SignatureAlgorithm field is not 'ecdsa-with-SHA256', got 1.2.840.10045.4.3.4 |
 
 ### Not Effective
 
-- e_atis_ca_serial_number
-- e_atis_ca_subject_cn
-- e_atis_root_certificate_policies
-- e_atis_root_extension_unknown
+- e_atis_ca_ext_not_specified
+- e_atis_ca_serial_number_size
+- e_atis_ca_subject_c_iso
+- e_atis_ca_subject_key_identifier_size
+- e_atis_ca_subject_o_required
+- e_atis_ext_certificate_policies_root
+- e_atis_ext_crl_distribution_root
+- e_atis_subject_cn_root
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 15 Nov 23 18:10 UTC
+Generated: 21 Nov 23 17:53 UTC

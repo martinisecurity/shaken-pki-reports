@@ -2,14 +2,14 @@
 
 ## Unknown
 
-- 72 repository URLs were included in the corpus being tested
+- 75 repository URLs were included in the corpus being tested
 - 0 repository URLs in the corpus were skipped because they were duplicated
-- 72 repository URLs being tested against the remaining rules
-- 3.51 issues on average found in non-compliant certificate repository URLs
-- 98.61% of repository URLs contain one or more Error level issue
-- 80.56% of repository URLs contain one or more Warning level issue
+- 75 repository URLs being tested against the remaining rules
+- 3.41 issues on average found in non-compliant certificate repository URLs
+- 98.67% of repository URLs contain one or more Error level issue
+- 77.33% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 686ms average time it took to download each certificate
+- 719ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -17,7 +17,7 @@
 | 1 | [e_atis_redirect](ISSUES/e_atis_redirect/README.md) | ATIS-1000074 |
 | 5 | [e_bad_url](ISSUES/e_bad_url/README.md) | System |
 | 53 | [e_http_status_200](ISSUES/e_http_status_200/README.md) | HTTP |
-| 8 | [e_request_timeout](ISSUES/e_request_timeout/README.md) | System |
+| 11 | [e_request_timeout](ISSUES/e_request_timeout/README.md) | System |
 | 2 | [e_tls_transport](ISSUES/e_tls_transport/README.md) | System |
 | 56 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 | 58 | [w_atis_pem_certificate_chain](ISSUES/w_atis_pem_certificate_chain/README.md) | ATIS-1000080 |
@@ -45,14 +45,17 @@
 | `https://cdn.cnxcdn.com/shaken/56.crt` |  | true | [view](REPOS/a17ec771899dcd07579180ee08a50cfd40f6e7db/README.md) |
 | `https://cdn.cnxcdn.com/shaken/87ccf8b69e.crt` |  | true | [view](REPOS/9452dee11fc5b3df125a8bdb8e571d96e2de9abd/README.md) |
 | `https://cdn.cnxcdn.com/shaken/bedb8d0781.crt` |  | true | [view](REPOS/1d7d8d651012d03c21fb929a89b400c5bed3bff9/README.md) |
+| `https://cert.sticr.att.net:8443/certs/att/0e6ca793-8797-40fe-9fde-c25af249bc12` |  | true | [view](REPOS/08f7d2dcacfcbb8616f4ac3110eea47343b4f5fb/README.md) |
 | `https://cert.sticr.att.net:8443/certs/att/6d021e67-e6a1-4821-bf7a-19491029a6ca` |  | true | [view](REPOS/7f767f2c2970329aedcdc118e431cdea5f195d14/README.md) |
-| `https://cert.sticr.att.net:8443/certs/att/abbf5398-e1e1-42af-96a7-092303b168ba` |  | false | [view](REPOS/9d33ae45de037e49b96d1cc6d2c4f29b1115c7ed/README.md) |
+| `https://cert.sticr.att.net:8443/certs/att/abbf5398-e1e1-42af-96a7-092303b168ba` |  | true | [view](REPOS/9d33ae45de037e49b96d1cc6d2c4f29b1115c7ed/README.md) |
 | `https://cert.sticr.att.net:8443/certs/att/e4089cf9-5fbb-4536-825a-ac516611ac45` |  | true | [view](REPOS/8522a795165f224911916bf8feb0ea9f138d6223/README.md) |
-| `https://cert.sticr.att.net:8443/certs/att/f498a068-56c3-49ad-80bc-4d0bf6fb9dab` |  | true | [view](REPOS/dc12b44290809af64fb330e14333c00828146121/README.md) |
+| `https://cert.sticr.att.net:8443/certs/att/f498a068-56c3-49ad-80bc-4d0bf6fb9dab` |  | false | [view](REPOS/dc12b44290809af64fb330e14333c00828146121/README.md) |
 | `https://cert2.sticr.att.net:8443/sti-cr/att-stica1661870921294-cert.crt` |  | true | [view](REPOS/1b1e3533177b65b2ec075ce13f8cb1ab77d996f6/README.md) |
 | `https://cert2.sticr.att.net:8443/sti-cr/att-stica1669224827804-cert.crt` |  | true | [view](REPOS/65bce14026acb07043fb1f2bce936071e23bebd8/README.md) |
+| `https://cert2.sticr.att.net:8443/sti-cr/att-stica1683567574984-cert.crt` |  | true | [view](REPOS/4f3540566a280856005a2a2784a22866ff8bd10d/README.md) |
 | `https://certs.sip.wtsky.net/prod/shaken-7-2024.cer` |  | true | [view](REPOS/ea4b2040120552c99b81d12bd391377525a380dc/README.md) |
 | `https://commtrunks.46labs.com/cert.pem` |  | true | [view](REPOS/93169ed4244a2f0b6f9ab8fd7deb44f4d2571207/README.md) |
+| `https://cr.veriswitch.com/amcom/0cc11d4d5142b1e7ef5957eb4c9020c8.cer` |  | true | [view](REPOS/ca1e2bc52ebde398b40cf82029249f3b74363437/README.md) |
 | `https://cr.veriswitch.com/amcom/cd3746aff04fc44f7b93bc7000d311e2.cer` |  | true | [view](REPOS/2ce9a86d155867d4f02f7880fa4f2809bff1e7e0/README.md) |
 | `https://cr.veriswitch.com/aovatalk/fec4886535446208f3cc70af63ea2aec.cer` |  | true | [view](REPOS/986766096560d6f9dd76090ee65e176e5d812555/README.md) |
 | `https://cr.veriswitch.com/voipstir/8d7e958f764ada6ff8c2bff406568db3.cer` |  | true | [view](REPOS/11b13ab2797658b5c07372e286e40858afa207c0/README.md) |
@@ -88,9 +91,9 @@
 | `https://primodialer.46labs.com/primodialer.pem/` |  | true | [view](REPOS/9b1d46a9e63867c6a22819ce7488e675076f44d3/README.md) |
 | `https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/goto-2022-09` |  | true | [view](REPOS/28a6eaf4d52af268d2354802a3c6a6e7f8f568a4/README.md) |
 | `https://pvx1.s3.us-east-2.amazonaws.com/stirshaken/8448cc7eb8424d6ad5d2e6d71bcf6629.cer` |  | true | [view](REPOS/26f062c01a1c228b83b16b48345d3c0bcf6114b7/README.md) |
+| `https://shaken.spectrum.com/0f9d8a67c3047902bffab77edf2e246f.cer` |  | true | [view](REPOS/db132053f61d4ba8b4e509a349df3718a418bdb1/README.md) |
 | `https://shaken.spectrum.com/4d65efdb8a1ca366e9576c8fda747fa4.pem` |  | true | [view](REPOS/18cdd5acaf4706a8bff59aa0338843318ac4e3c1/README.md) |
 | `https://shaken.spectrum.com/cf1b3d3d-7f2b-42fd-a161-ebe61cd6565a.pem` |  | true | [view](REPOS/6512ce3f54c9208d018698f6aa3d26cc1eede387/README.md) |
-| `https://ssc.fractel.net/ssc/fractelssc.pem` |  | true | [view](REPOS/43cef8ecc75c42a157f4a770680c7bc638e02617/README.md) |
 | `https://sticr-cstga.ccid.neustar/api/v1/certificate/0581cac7b4b7ade97255fef02601f295.crt` |  | true | [view](REPOS/edfda09261223fb71b6ce9d93cb459fa90758fef/README.md) |
 | `https://sticr-cstga.ccid.neustar/api/v1/certificate/3f7be0c667b2f3c24546cf26629eb906.crt` |  | true | [view](REPOS/6cc197a230692738160b25ccee626e38948c6854/README.md) |
 | `https://stirshaken.ellianz.com:5000/stirshaken_certs/sp-cert.pem` |  | true | [view](REPOS/0efdff515049d0da95f7e0a8b78fba8b85b336cb/README.md) |
@@ -99,4 +102,4 @@
 | `https://www.voipessential.com/shaken/DFE323WW43Q656QWLMD` |  | true | [view](REPOS/89dcb49688a6eb12e01582bbe7639fb54faa2802/README.md) |
 
 
-Generated: 15 Nov 23 18:10 UTC
+Generated: 21 Nov 23 17:53 UTC

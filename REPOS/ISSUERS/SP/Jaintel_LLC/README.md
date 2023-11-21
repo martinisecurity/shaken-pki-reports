@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 250ms average time it took to download each certificate
+- 159ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://jaintel.46labs.com` | 11&#160;Sep&#160;24&#160;18:41&#160;UTC | true | [view](REPOS/05c9aa500f1d77754f921ac23c24fd4fb86a0873/README.md) |
 
 
-Generated: 15 Nov 23 18:10 UTC
+Generated: 21 Nov 23 17:53 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate TransNexus Issuing CA G2
 
-Tested At: 15 Nov 23 18:10 UTC\
+Tested At: 21 Nov 23 17:52 UTC\
 Initial Validity Period: 4383 day(s)\
-Remaining Validity Period: 3277 day(s)\
+Remaining Validity Period: 3271 day(s)\
 Subject: CN=TransNexus Issuing CA G2, OU=Certification Authorities, O=TransNexus, C=US\
 Issuer: CN=TransNexus Root CA G2, OU=Certification Authorities, O=TransNexus, C=US
 
@@ -12,20 +12,20 @@ Issuer: CN=TransNexus Root CA G2, OU=Certification Authorities, O=TransNexus, C=
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_ca_key_usage_crl_sign](../../ISSUES/e_us_cp_ca_key_usage_crl_sign/README.md) | error | US_SHAKEN_CP | The model for managing and communicating the status of revoked certificates is in the form of a distributed Certificate Revocation List (CRL) that is maintained by the STI-PA as described in ATIS-1000080 |
-| [w_shaken_ca_subject_rdn_unknown](../../ISSUES/w_shaken_ca_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
+| [e_atis_subject_cn_ca](../../ISSUES/e_atis_subject_cn_ca/README.md) | error | ATIS1000080 | Common Name attribute 'TransNexus Issuing CA G2' does not contain 'SHAKEN' |
+| [e_atis_ext_crl_distribution_ca](../../ISSUES/e_atis_ext_crl_distribution_ca/README.md) | error | ATIS1000080 | STI End-Entity certificates shall contain a CRL Distribution Points extension |
 
 ### Not Effective
 
-- e_atis_ca_certificate_policies
-- e_atis_ca_crl_distribution
-- e_atis_ca_extension_unknown
-- e_atis_ca_issuer_dn
+- e_atis_ca_ext_not_specified
 - e_atis_ca_serial_number
-- e_atis_ca_subject_cn
-- n_atis_ca_certificate_policy_critical
+- e_atis_ca_serial_number_size
+- e_atis_ca_subject_c_iso
+- e_atis_ca_subject_key_identifier_size
+- e_atis_ca_subject_o_required
+- e_shaken_certificate_policies_id_ca
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 15 Nov 23 18:10 UTC
+Generated: 21 Nov 23 17:53 UTC

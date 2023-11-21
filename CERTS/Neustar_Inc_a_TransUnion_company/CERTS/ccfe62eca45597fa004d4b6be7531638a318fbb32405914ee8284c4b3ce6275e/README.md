@@ -2,9 +2,9 @@
 
 ## Certificate Neustar UAT Enterprise Certified Caller Intermediate CA1
 
-Tested At: 15 Nov 23 18:10 UTC\
+Tested At: 21 Nov 23 17:53 UTC\
 Initial Validity Period: 3653 day(s)\
-Remaining Validity Period: 2995 day(s)\
+Remaining Validity Period: 2989 day(s)\
 Subject: CN=Neustar UAT Enterprise Certified Caller Intermediate CA1, OU=www.ccid-uat.neustar, O=Neustar Inc a TransUnion company, C=US\
 Issuer: CN=Neustar UAT Enterprise Certified Caller Root CA, OU=www.ccid-uat.neustar, O=Neustar Inc a TransUnion company, C=US
 
@@ -12,10 +12,16 @@ Issuer: CN=Neustar UAT Enterprise Certified Caller Root CA, OU=www.ccid-uat.neus
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [w_shaken_ca_subject_rdn_unknown](../../ISSUES/w_shaken_ca_subject_rdn_unknown/README.md) | warn | SHAKEN_PKI_BEST_PRACTICES | Only CN, C, L, and O should be included. Additional RNDs may introduce ambiguity and may not be verifiable |
-| [e_atis_ca_certificate_policies](../../ISSUES/e_atis_ca_certificate_policies/README.md) | error | ATIS1000080 | STI certificate shall contain '2.16.840.1.114569.1.1.3' policy |
-| [e_atis_ca_subject_cn](../../ISSUES/e_atis_ca_subject_cn/README.md) | error | ATIS1000080 | The Common Name attribute shall include the text string "SHAKEN" |
-| [e_us_cp_ca_key_usage_crl_sign](../../ISSUES/e_us_cp_ca_key_usage_crl_sign/README.md) | error | US_SHAKEN_CP | The model for managing and communicating the status of revoked certificates is in the form of a distributed Certificate Revocation List (CRL) that is maintained by the STI-PA as described in ATIS-1000080 |
+| [e_shaken_certificate_policies_id_ca](../../ISSUES/e_shaken_certificate_policies_id_ca/README.md) | error | US_SHAKEN_CP | the Certificate Policies extension contains an invalid OID value: 1.3.6.1.4.1.13568.100. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
+| [e_atis_subject_cn_ca](../../ISSUES/e_atis_subject_cn_ca/README.md) | error | ATIS1000080 | Common Name attribute 'Neustar UAT Enterprise Certified Caller Intermediate CA1' does not contain 'SHAKEN' |
+
+### Not Effective
+
+- e_atis_ca_ext_not_specified
+- e_atis_ca_serial_number_size
+- e_atis_ca_subject_c_iso
+
+\* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 15 Nov 23 18:10 UTC
+Generated: 21 Nov 23 17:53 UTC

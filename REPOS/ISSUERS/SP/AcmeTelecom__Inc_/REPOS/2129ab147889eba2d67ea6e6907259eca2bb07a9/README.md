@@ -3,8 +3,8 @@
 ## AcmeTelecom, Inc.
 
 Name: `https://65.108.80.93/cert.pem`\
-Tested At: 15 Nov 23 17:58 UTC\
-Time: 538ms
+Tested At: 21 Nov 23 17:37 UTC\
+Time: 349ms
 
 ### Issues
 
@@ -14,4 +14,4 @@ Time: 538ms
 | [e_tls_transport](../../ISSUES/e_tls_transport/README.md) | error | System | Get "https://65.108.80.93/cert.pem": x509: cannot validate certificate for 65.108.80.93 because it doesn't contain any IP SANs |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 15 Nov 23 18:10 UTC
+Generated: 21 Nov 23 17:53 UTC
