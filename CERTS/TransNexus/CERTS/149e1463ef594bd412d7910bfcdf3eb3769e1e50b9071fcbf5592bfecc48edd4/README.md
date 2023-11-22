@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 521G
 
-Tested At: 21 Nov 23 18:48 UTC\
+Tested At: 22 Nov 23 03:20 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -126 day(s)\
 Subject: CN=SHAKEN 521G, O=Allied Telecom, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/aa455865-a43b-4a5a-a355-ba1666ed6023/aeea
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

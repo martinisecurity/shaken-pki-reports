@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 122ms average time it took to download each certificate
+- 114ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://stsh.dish-wireless.com/pubsti.pem` | 24&#160;Oct&#160;24&#160;15:48&#160;UTC | true | [view](REPOS/7c4da71a88284f4fa7783625ec446bd5272064e7/README.md) |
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

@@ -3,8 +3,8 @@
 ## Twin Lakes
 
 Name: `https://cdn-cr.cgah.tnsi.com/certs/230562ee4f78391a4f429776b840b730947bb2f6`\
-Tested At: 21 Nov 23 18:47 UTC\
-Time: 8ms
+Tested At: 22 Nov 23 03:16 UTC\
+Time: 64ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 8ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

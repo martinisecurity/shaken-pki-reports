@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Midwest Telecom of America 919A
 
-Tested At: 21 Nov 23 19:08 UTC\
+Tested At: 22 Nov 23 03:31 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 185 day(s)\
 Subject: CN=SHAKEN Midwest Telecom of America 919A, OU=Midwest, O=Midwest Telecom of America, ST=Indiana, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Midwest_Telecom_919A
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 919A' |
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

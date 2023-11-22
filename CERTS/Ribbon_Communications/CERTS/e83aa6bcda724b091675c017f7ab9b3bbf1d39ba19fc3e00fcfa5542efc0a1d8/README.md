@@ -2,7 +2,7 @@
 
 ## Certificate Surrytel STI SHAKEN 0503
 
-Tested At: 21 Nov 23 19:10 UTC\
+Tested At: 22 Nov 23 03:32 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 162 day(s)\
 Subject: CN=Surrytel STI SHAKEN 0503, OU=Voice, O=Surrytel, C=US\
@@ -17,4 +17,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/x9lB3qynRz/STI-202305-0503-1a0133
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

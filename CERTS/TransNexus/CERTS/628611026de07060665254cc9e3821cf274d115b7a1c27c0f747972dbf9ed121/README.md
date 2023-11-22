@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 551G
 
-Tested At: 21 Nov 23 18:48 UTC\
+Tested At: 22 Nov 23 03:22 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -285 day(s)\
 Subject: CN=SHAKEN 551G, O=Brightlink Communications LLC, C=US\
@@ -24,4 +24,4 @@ Link: https://certificates.transnexus.com/551G/d3e13b15-bca2-420b-976f-9aee2db6d
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

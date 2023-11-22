@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN PNG Telecommunications Inc 3395
 
-Tested At: 21 Nov 23 19:08 UTC\
+Tested At: 22 Nov 23 03:31 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 16 day(s)\
 Subject: CN=SHAKEN PNG Telecommunications Inc 3395, OU=NOC, O=PNG Telecommunications Inc, ST=Ohio, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/PowerNetGlobal_3395
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 3395' |
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

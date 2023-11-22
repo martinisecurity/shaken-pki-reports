@@ -2,7 +2,7 @@
 
 ## Certificate Voiceterm Inc SHAKEN 240K
 
-Tested At: 21 Nov 23 18:48 UTC\
+Tested At: 22 Nov 23 03:22 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 256 day(s)\
 Subject: CN=Voiceterm Inc SHAKEN 240K, O=Voiceterm Inc, L=Cheyenne, ST=WY, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.peeringhub.io/240K/240K.crt
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | the Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

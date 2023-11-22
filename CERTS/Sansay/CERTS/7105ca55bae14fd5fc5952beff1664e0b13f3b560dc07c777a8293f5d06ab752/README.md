@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Kloud 7 LLC 214K
 
-Tested At: 21 Nov 23 19:08 UTC\
+Tested At: 22 Nov 23 03:31 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 319 day(s)\
 Subject: CN=SHAKEN Kloud 7 LLC 214K, OU=Kloud 7 LLC, O=Kloud 7 LLC, ST=Alabama, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Kloud_7_LLC_214K
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 214K' |
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

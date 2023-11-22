@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://cr.veriswitch.com/amcom/cd3746aff04fc44f7b93bc7000d311e2.cer`\
-Tested At: 21 Nov 23 19:08 UTC\
-Time: 406ms
+Tested At: 22 Nov 23 03:31 UTC\
+Time: 200ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 406ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

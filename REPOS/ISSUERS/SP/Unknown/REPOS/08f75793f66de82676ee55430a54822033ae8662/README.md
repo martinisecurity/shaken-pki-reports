@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://187.174.68.251:8080/7075515eb2d150fc98c43e794c07bbca.cer`\
-Tested At: 21 Nov 23 18:47 UTC\
-Time: 285ms
+Tested At: 22 Nov 23 03:16 UTC\
+Time: 193ms
 
 ### Issues
 
@@ -17,4 +17,4 @@ Time: 285ms
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 | [w_atis_protocol](../../ISSUES/w_atis_protocol/README.md) | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

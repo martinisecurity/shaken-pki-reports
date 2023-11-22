@@ -2,7 +2,7 @@
 
 ## Certificate Encore Communications SHAKEN Cert 956H
 
-Tested At: 21 Nov 23 18:47 UTC\
+Tested At: 22 Nov 23 03:16 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 619 day(s)\
 Subject: CN=Encore Communications SHAKEN Cert 956H, O=Encore Communications, C=US\
@@ -26,4 +26,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/a1b25708d639f93a043a23170376e6bc24aea56
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

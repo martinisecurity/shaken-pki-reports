@@ -2,9 +2,9 @@
 
 ## Certificate Netfortris SHAKEN 8886
 
-Tested At: 21 Nov 23 19:10 UTC\
+Tested At: 22 Nov 23 03:32 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 199 day(s)\
+Remaining Validity Period: 198 day(s)\
 Subject: CN=Netfortris SHAKEN 8886, OU=VOIP, O=Netfortris, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/t0CiOIjnRz/NFJune072023-3a5cc337262fa27b6e6a3d8948fc365e
@@ -17,4 +17,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/t0CiOIjnRz/NFJune072023-3a5cc3372
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | the Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

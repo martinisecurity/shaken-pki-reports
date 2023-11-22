@@ -17,7 +17,6 @@ Description: STI intermediate and end-entity certificates shall include a Certif
 | error | SHAKEN | [view](../../CERTS/7752d4df6a574e73e764cf1a692db8155b579210455ed6ab1faa6992a5fd3d95/README.md) | the Certificate Policies extension is not present |
 | error | SHAKEN | [view](../../CERTS/160e7e9069366204de585183cc7d551f387a86f3f24159c7c5ae60775c3b7642/README.md) | the Certificate Policies extension is not present |
 | error | SHAKEN | [view](../../CERTS/8da7d29c58b5bec64c1c66fdc95b41d77afb06a22f1a91366e3e10341d250558/README.md) | the Certificate Policies extension is not present |
-| error | SHAKEN | [view](../../CERTS/212b0797178fa925cf3bac2f025a1d4c6ed6d5bfe38bda2876331e00a456dd44/README.md) | the Certificate Policies extension is not present |
 | error | SHAKEN | [view](../../CERTS/dfb5e692fde572d2e39724b7d0a84e452b33e57b1629b50ae66d6014b93a2d78/README.md) | the Certificate Policies extension is not present |
 | error | SHAKEN | [view](../../CERTS/fbdf6f212f5d3f401e5a2d0f1beda961b5e4092b682aff97f7f6899df1a260ed/README.md) | the Certificate Policies extension is not present |
 | error | SHAKEN | [view](../../CERTS/0ccbc22db458b7fe8172ce42fd2aabed02abf5d368c8a5bc0fc49086708af179/README.md) | the Certificate Policies extension is not present |
@@ -43,4 +42,4 @@ Description: STI intermediate and end-entity certificates shall include a Certif
 No error, warning, or notice level issues were found
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

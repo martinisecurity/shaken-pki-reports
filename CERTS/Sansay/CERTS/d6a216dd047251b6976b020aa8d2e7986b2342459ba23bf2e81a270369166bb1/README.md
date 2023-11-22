@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Zito Media Voice 624G
 
-Tested At: 21 Nov 23 19:08 UTC\
+Tested At: 22 Nov 23 03:31 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: -57 day(s)\
 Subject: CN=SHAKEN Zito Media Voice 624G, OU=Voice, O=Zito Media Voice, ST=Pennsylvania, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Zito_Media_Voice_624G
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

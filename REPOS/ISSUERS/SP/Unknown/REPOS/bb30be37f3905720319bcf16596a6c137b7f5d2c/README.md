@@ -3,7 +3,7 @@
 ## Unknown
 
 Name: `https://www.talkasiavoip.com/198K.pem`\
-Tested At: 21 Nov 23 19:14 UTC\
+Tested At: 22 Nov 23 03:35 UTC\
 Time: 3000ms
 
 ### Issues
@@ -12,4 +12,4 @@ Time: 3000ms
 |------|------|--------|---------|
 | [e_request_timeout](../../ISSUES/e_request_timeout/README.md) | error | System | Request timed out (3s) |
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 226K
 
-Tested At: 21 Nov 23 18:47 UTC\
+Tested At: 22 Nov 23 03:18 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -341 day(s)\
 Subject: CN=SHAKEN 226K, O=Big Fish Voice\\, LLC, C=US\
@@ -24,4 +24,4 @@ Link: https://certificates.clearip.com/2e6d4126-e711-41e1-ab9a-1fcdf4f21aec/f14a
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

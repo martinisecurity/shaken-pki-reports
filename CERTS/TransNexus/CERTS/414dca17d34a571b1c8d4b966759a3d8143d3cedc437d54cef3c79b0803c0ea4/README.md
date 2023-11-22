@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 9726
 
-Tested At: 21 Nov 23 18:47 UTC\
+Tested At: 22 Nov 23 03:18 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -129 day(s)\
+Remaining Validity Period: -130 day(s)\
 Subject: CN=SHAKEN 9726, O=WorldNet Telecommunications LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/37439287-383f-4cfa-aea6-45010d651a5e/acf1571fb209ce11010379401e55e059.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/37439287-383f-4cfa-aea6-45010d651a5e/acf1
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 0378
 
-Tested At: 21 Nov 23 18:48 UTC\
+Tested At: 22 Nov 23 03:22 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: 5 day(s)\
 Subject: CN=SHAKEN 0378, O=Planters Telephone Cooperative, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/f507fa5d-72b5-4f0a-b979-cfcea471d6fa/349f
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

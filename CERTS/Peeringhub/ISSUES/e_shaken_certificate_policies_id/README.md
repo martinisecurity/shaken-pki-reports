@@ -23,7 +23,7 @@ Description: The Certificate Policies extension MUST contain a single OID value 
 | error | Teleinx LLC SHAKEN 744J | [view](../../CERTS/21f551ad9783b07beb40b5096a12e5fc37845b5f354b81ed89bde51f070404d6/README.md) | the Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
 | error | MAQSSolutions SHAKEN 255K | [view](../../CERTS/39eedca0fda366ccd88fc4140394b807ea5dbae5a5bd4fc130958d6855f93948/README.md) | the Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
 | error | Jaintel SHAKEN 586K | [view](../../CERTS/35aa37027485bf13ef7ad46d4c344e563d22a765975a62e193ecfc94841a3d27/README.md) | the Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
-| error | Losh Communications, Inc SHAKEN 149K 2023-11-21_000001 | [view](../../CERTS/78d75183c21a549deb0993e7a4ce2d2593e94f68de178115188d1f3adfaeb90d/README.md) | the Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
+| error | Losh Communications, Inc SHAKEN 149K 2023-11-22_000001 | [view](../../CERTS/13a1f38408101bdf50bf757c38a2a62d27ae974458bd201634562da6baa2050b/README.md) | the Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
 | error | On Air Telecom LLC SHAKEN 861J | [view](../../CERTS/c339bf7c529ac881591c7f1564e98d85608719029f9a467ca3683b007041b677/README.md) | the Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
 | error | SHAKEN 088K 2023-05 | [view](../../CERTS/1d7fe7341654ec5e2f3f89be1d2e410b4b1d979acb0b0b6b3ff6db0c9382eccb/README.md) | the Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
 | error | VOCALTRANSIT SHAKEN 783J | [view](../../CERTS/e8c92f75c60632193af34b988570281cbbcbafce7a9c3ae534b8406d62aab179/README.md) | the Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
@@ -36,4 +36,4 @@ Description: The Certificate Policies extension MUST contain a single OID value 
 No error, warning, or notice level issues were found
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

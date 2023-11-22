@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 2894
 
-Tested At: 21 Nov 23 18:48 UTC\
+Tested At: 22 Nov 23 03:22 UTC\
 Initial Validity Period: 3 day(s)\
 Remaining Validity Period: -341 day(s)\
 Subject: CN=SHAKEN 2894, O=Missouri Telecom Inc, C=US\
@@ -24,4 +24,4 @@ Link: https://certificates.transnexus.com/2894/735cf26f-07a1-4dc9-a843-4d7a2b0c7
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

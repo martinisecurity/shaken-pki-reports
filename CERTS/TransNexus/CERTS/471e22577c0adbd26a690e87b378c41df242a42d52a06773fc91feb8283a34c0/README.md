@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 737J
 
-Tested At: 21 Nov 23 19:12 UTC\
+Tested At: 22 Nov 23 03:34 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 240 day(s)\
 Subject: CN=SHAKEN 737J, O=US Internet Corp, C=US\
@@ -16,4 +16,4 @@ Link: https://sti.ravon.net/c/737J_2023-07-19
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

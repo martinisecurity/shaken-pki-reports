@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Bulk Solutions, LLC 644J
 
-Tested At: 21 Nov 23 18:46 UTC\
+Tested At: 22 Nov 23 03:16 UTC\
 Initial Validity Period: 350 day(s)\
 Remaining Validity Period: 51 day(s)\
 Subject: CN=SHAKEN Bulk Solutions\\, LLC 644J, OU=608070, O=Bulk Solutions\\, LLC, ST=Delaware, C=US\
@@ -13,8 +13,8 @@ Link: http://mango.voipplus.net/cert.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 644J' |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 ### Not Effective
 
@@ -25,4 +25,4 @@ Link: http://mango.voipplus.net/cert.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN
 
-Tested At: 21 Nov 23 19:14 UTC\
+Tested At: 22 Nov 23 03:35 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: 21 day(s)\
+Remaining Validity Period: 20 day(s)\
 Subject: CN=SHAKEN, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US\
 Issuer: CN=Comcast SHAKEN Intermediate CA, O=Comcast, ST=Pennsylvania, C=US\
 Link: https://sticr.stir.comcast.com/a92ea33d-fda7-4934-be0b-f37cc7a4f31a.cer
@@ -21,4 +21,4 @@ Link: https://sticr.stir.comcast.com/a92ea33d-fda7-4934-be0b-f37cc7a4f31a.cer
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | the Certificate Policies extension does not contain a single OID value that identifies the SHAKEN Certificate Policy established by the STI-PA |
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

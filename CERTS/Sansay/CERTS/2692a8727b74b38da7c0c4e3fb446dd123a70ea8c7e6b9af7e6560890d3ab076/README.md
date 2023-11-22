@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN ACS Technologies 488K
 
-Tested At: 21 Nov 23 19:07 UTC\
+Tested At: 22 Nov 23 03:30 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 73 day(s)\
+Remaining Validity Period: 72 day(s)\
 Subject: CN=SHAKEN ACS Technologies 488K, OU=ACS Technologies, O=ACS Technologies, ST=South Carolina, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/ACS_Technologies_488K
@@ -25,4 +25,4 @@ Link: https://cr.sansay.com/ACS_Technologies_488K
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

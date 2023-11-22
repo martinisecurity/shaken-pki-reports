@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 322K
 
-Tested At: 21 Nov 23 18:47 UTC\
+Tested At: 22 Nov 23 03:18 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -224 day(s)\
 Subject: CN=SHAKEN 322K, O=Extended Office Solutions Inc., C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/37ceef8b-2c31-45d5-adbf-c97bb5bc9e3b/1985
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

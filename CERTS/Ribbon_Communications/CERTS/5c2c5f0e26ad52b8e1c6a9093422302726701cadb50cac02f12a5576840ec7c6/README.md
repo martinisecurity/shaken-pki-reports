@@ -2,9 +2,9 @@
 
 ## Certificate Eastex SHAKEN 2068
 
-Tested At: 21 Nov 23 19:10 UTC\
+Tested At: 22 Nov 23 03:32 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 57 day(s)\
+Remaining Validity Period: 56 day(s)\
 Subject: CN=Eastex SHAKEN 2068, OU=Voice, O=Eastex, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/T0ezuXpngz/STI-2023-2068-3d0b382600afa29c04bd4fc3edfe2038
@@ -24,4 +24,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/T0ezuXpngz/STI-2023-2068-3d0b3826
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

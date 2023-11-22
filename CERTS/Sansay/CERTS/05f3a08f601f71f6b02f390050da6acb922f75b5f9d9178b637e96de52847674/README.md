@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Comtalk Telecom 705K
 
-Tested At: 21 Nov 23 19:07 UTC\
+Tested At: 22 Nov 23 03:30 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 336 day(s)\
 Subject: CN=SHAKEN Comtalk Telecom 705K, OU=SUPPORT, O=Comtalk Telecom, ST=Florida, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Comtalk_Telecom_705K
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

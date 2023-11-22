@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 657K
 
-Tested At: 21 Nov 23 19:14 UTC\
+Tested At: 22 Nov 23 03:35 UTC\
 Initial Validity Period: 367 day(s)\
-Remaining Validity Period: 262 day(s)\
+Remaining Validity Period: 261 day(s)\
 Subject: serialNumber=F77BB926-2B97-4BE5-8189-CF7808596E99, CN=SHAKEN 657K, O=Exitty Inc, C=US\
 Issuer: CN=Telonium SHAKEN Intermediate G1, O=Telonium Communications LLC, L=Atlanta, ST=GA, C=US\
 Link: https://voice.onepbxcloud.com/657K-20230808.crt
@@ -14,4 +14,4 @@ Link: https://voice.onepbxcloud.com/657K-20230808.crt
 160 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

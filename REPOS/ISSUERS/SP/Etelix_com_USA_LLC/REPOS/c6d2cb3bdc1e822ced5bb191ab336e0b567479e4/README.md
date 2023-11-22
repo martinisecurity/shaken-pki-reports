@@ -3,8 +3,8 @@
 ## Etelix.com USA LLC
 
 Name: `http://certs-clb-1999937273.us-east-1.elb.amazonaws.com/576K_20230815.crt`\
-Tested At: 21 Nov 23 18:46 UTC\
-Time: 169ms
+Tested At: 22 Nov 23 03:16 UTC\
+Time: 68ms
 
 ### Issues
 
@@ -14,4 +14,4 @@ Time: 169ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_protocol](../../ISSUES/w_atis_protocol/README.md) | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

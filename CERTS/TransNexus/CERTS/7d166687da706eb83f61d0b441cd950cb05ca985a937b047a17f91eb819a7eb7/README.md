@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 182K
 
-Tested At: 21 Nov 23 18:48 UTC\
+Tested At: 22 Nov 23 03:19 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -76 day(s)\
 Subject: CN=SHAKEN 182K, O=IP Consulting\\, Inc., C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/63d9d67d-6470-433a-b890-1c1901beaa76/c016
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN-6744
 
-Tested At: 21 Nov 23 19:10 UTC\
+Tested At: 22 Nov 23 03:32 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 111 day(s)\
 Subject: C=US, ST=GA, L=Atlanta, O=Southern Linc, OU=Voice and Signaling, CN=SHAKEN-6744\
@@ -29,4 +29,4 @@ Link: https://prod001-cr.rbbnidhub.com/frvFJbsMgz/sign-cert3
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

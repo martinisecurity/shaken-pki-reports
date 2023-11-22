@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 964J
 
-Tested At: 21 Nov 23 19:11 UTC\
+Tested At: 22 Nov 23 03:32 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 197 day(s)\
 Subject: CN=SHAKEN 964J, O=AllClear Connect Inc, C=US\
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/b4ec00e21e2d97c0707f1c726d5358dd1ae3903b
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

@@ -170,7 +170,6 @@ Description: For end-entity certificate, the Common Name attribute shall contain
 | error | SHAKEN Ytel Inc. 703J | [view](../../CERTS/1abf91916a7c83ff53e58fdaf8fab1e6f6c232bc2aa2b1903c76c37d7a6984a6/README.md) | Common name shall contain the text string 'SHAKEN 703J' |
 | error | SHAKEN Go Voip Dialing LLC 704K | [view](../../CERTS/645767c01de0509deb545953141dbf2e136665480917cc8c4ecc73a45608af68/README.md) | Common name shall contain the text string 'SHAKEN 704K' |
 | error | SHAKEN Telxio Networks 492K | [view](../../CERTS/010c6a74330323c20ceb343b1de3a1e3248b4a3926c9ad2ed53f02b02399d241/README.md) | Common name shall contain the text string 'SHAKEN 492K' |
-| error | SHAKEN Star2Star Communications, LLC 590J | [view](../../CERTS/9bc9dde8921387803d93036c7d2f8085af32b028fca8f17336d2e22ab51fd278/README.md) | Common name shall contain the text string 'SHAKEN 590J' |
 | error | SHAKEN Star2Star Communications, LLC 590J | [view](../../CERTS/d8197ed17be0c4415c77edbda2946e9c03f29dd67299927e8ecc654794c83951/README.md) | Common name shall contain the text string 'SHAKEN 590J' |
 | error | SHAKEN Telxio Networks 492K | [view](../../CERTS/1baf0e5fedd50fb55ff4e07366c5eb4f8d849b760739ffb8a0df4eb4828d7944/README.md) | Common name shall contain the text string 'SHAKEN 492K' |
 | error | SHAKEN XCast Labs 689J | [view](../../CERTS/f364b4d3290509430aa72f92e06f47b2e4b92112d9eecde416c184bab8c3abbc/README.md) | Common name shall contain the text string 'SHAKEN 689J' |
@@ -186,4 +185,4 @@ Description: For end-entity certificate, the Common Name attribute shall contain
 No error, warning, or notice level issues were found
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

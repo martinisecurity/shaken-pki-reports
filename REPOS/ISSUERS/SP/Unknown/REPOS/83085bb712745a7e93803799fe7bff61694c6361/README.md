@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://textme-stirshaken.s3.us-west-2.amazonaws.com/textme-bundle_10-12-2024.cer`\
-Tested At: 21 Nov 23 19:14 UTC\
-Time: 145ms
+Tested At: 22 Nov 23 03:35 UTC\
+Time: 308ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 145ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

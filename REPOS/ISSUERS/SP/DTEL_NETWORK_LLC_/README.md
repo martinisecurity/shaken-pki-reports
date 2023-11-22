@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 31ms average time it took to download each certificate
+- 116ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -22,4 +22,4 @@
 | `http://5.78.73.44/system/sp-cert.pem` | 15&#160;Dec&#160;25&#160;13:55&#160;UTC | true | [view](REPOS/b0374bbc02468fce87fb9e2571c88d76469f3119/README.md) |
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

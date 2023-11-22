@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 663J
 
-Tested At: 21 Nov 23 18:48 UTC\
+Tested At: 22 Nov 23 03:22 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 158 day(s)\
 Subject: CN=SHAKEN 663J, O=CCI, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/663J/0b2ad5b1-ec49-4b61-bebd-415b30f45
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

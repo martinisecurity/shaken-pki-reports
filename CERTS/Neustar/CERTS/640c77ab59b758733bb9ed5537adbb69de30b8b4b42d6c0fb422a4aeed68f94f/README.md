@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 8821
 
-Tested At: 21 Nov 23 19:12 UTC\
+Tested At: 22 Nov 23 03:34 UTC\
 Initial Validity Period: 398 day(s)\
 Remaining Validity Period: 272 day(s)\
 Subject: CN=SHAKEN 8821, O=Rogers Communications Inc, C=CA\
@@ -16,4 +16,4 @@ Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/1da6faf697ce57fff21bed
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | the Certificate Policies extension contains an invalid OID value: 1.3.6.1.4.1.56223.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

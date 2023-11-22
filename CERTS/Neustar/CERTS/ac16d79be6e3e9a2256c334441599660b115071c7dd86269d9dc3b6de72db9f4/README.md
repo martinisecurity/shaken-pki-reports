@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 063E
 
-Tested At: 21 Nov 23 18:49 UTC\
+Tested At: 22 Nov 23 03:23 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 16 day(s)\
+Remaining Validity Period: 15 day(s)\
 Subject: CN=SHAKEN 063E, O=Peerless Network, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11032.10214.pem
@@ -24,4 +24,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11032.10214.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

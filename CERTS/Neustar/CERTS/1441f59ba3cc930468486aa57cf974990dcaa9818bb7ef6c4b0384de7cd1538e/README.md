@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 804J
 
-Tested At: 21 Nov 23 19:08 UTC\
+Tested At: 22 Nov 23 03:31 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 73 day(s)\
+Remaining Validity Period: 72 day(s)\
 Subject: CN=SHAKEN 804J, O=QuestBlue Systems Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://customer.questblue.com/assets/questblue_shaken.cer
@@ -24,4 +24,4 @@ Link: https://customer.questblue.com/assets/questblue_shaken.cer
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC

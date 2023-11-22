@@ -2,9 +2,9 @@
 
 ## Certificate Meta-lynk Telecom SHAKEN 442K
 
-Tested At: 21 Nov 23 18:47 UTC\
+Tested At: 22 Nov 23 03:16 UTC\
 Initial Validity Period: 223 day(s)\
-Remaining Validity Period: 70 day(s)\
+Remaining Validity Period: 69 day(s)\
 Subject: CN=Meta-lynk Telecom SHAKEN 442K, O=Meta-lynk, L=Phoenix, ST=AZ, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://cdn.cnxcdn.com/shaken/5a9877f6c8.crt
@@ -16,4 +16,4 @@ Link: https://cdn.cnxcdn.com/shaken/5a9877f6c8.crt
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | the Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
 
 
-Generated: 21 Nov 23 19:18 UTC
+Generated: 22 Nov 23 03:38 UTC
