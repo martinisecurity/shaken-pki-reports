@@ -15,4 +15,4 @@ require (
 	golang.org/x/text v0.3.7 // indirect
 )
 
-replace github.com/zmap/zlint/v3 => github.com/martinisecurity/zlint/v3 v3.0.0-20231121011155-9e061b25b489
+replace github.com/zmap/zlint/v3 => github.com/martinisecurity/zlint/v3 v3.0.0-20231124105127-85fa530cb89e
