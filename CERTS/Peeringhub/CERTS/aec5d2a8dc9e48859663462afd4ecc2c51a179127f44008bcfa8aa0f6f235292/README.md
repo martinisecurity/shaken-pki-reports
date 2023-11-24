@@ -2,9 +2,9 @@
 
 ## Certificate Instacall SHAKEN 281K
 
-Tested At: 21 Nov 23 16:45 UTC\
+Tested At: 24 Nov 23 11:05 UTC\
 Initial Validity Period: 35 day(s)\
-Remaining Validity Period: 34 day(s)\
+Remaining Validity Period: 31 day(s)\
 Subject: CN=Instacall SHAKEN 281K, O=Instacall, L=Wilmington, ST=DE, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://certificates.peeringhub.io/281K/281K.crt
@@ -13,7 +13,7 @@ Link: https://certificates.peeringhub.io/281K/281K.crt
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | the Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
+| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

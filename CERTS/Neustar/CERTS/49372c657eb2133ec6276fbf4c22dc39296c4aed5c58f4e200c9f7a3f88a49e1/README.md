@@ -2,9 +2,9 @@
 
 ## Certificate ATT SHAKEN 4036
 
-Tested At: 21 Nov 23 16:42 UTC\
+Tested At: 24 Nov 23 11:00 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 263 day(s)\
+Remaining Validity Period: 261 day(s)\
 Subject: CN=ATT SHAKEN 4036, OU=AT&T Services\\, Inc., O=ATT SHAKEN E-E, L=Dallas, ST=Texas, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cert.sticr.att.net:8443/certs/att/0e6ca793-8797-40fe-9fde-c25af249bc12
@@ -13,8 +13,9 @@ Link: https://cert.sticr.att.net:8443/certs/att/0e6ca793-8797-40fe-9fde-c25af249
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

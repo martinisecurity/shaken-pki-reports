@@ -2,9 +2,9 @@
 
 ## Certificate Orange
 
-Tested At: 21 Nov 23 16:47 UTC\
+Tested At: 24 Nov 23 11:07 UTC\
 Initial Validity Period: 1096 day(s)\
-Remaining Validity Period: 139 day(s)\
+Remaining Validity Period: 136 day(s)\
 Subject: C=US, ST=VA, L=Courbevoie, O=Orange, OU=Orange Business Services, CN=Orange\
 Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11180.10184.pem
@@ -13,14 +13,16 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11180.10184.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_signature_algorithm](../../ISSUES/e_atis_signature_algorithm/README.md) | error | ATIS1000080 | SignatureAlgorithm field is not 'ecdsa-with-SHA256', got 1.2.840.113549.1.1.11 |
-| [e_atis_ext_certificate_policies](../../ISSUES/e_atis_ext_certificate_policies/README.md) | error | ATIS1000080 | the Certificate Policies extension is not present |
+| [e_atis_ext_certificate_policies](../../ISSUES/e_atis_ext_certificate_policies/README.md) | error | ATIS1000080 | The Certificate Policies extension is not present |
 | [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common Name attribute 'Orange' does not contain 'SHAKEN' |
+| [e_atis_signature_algorithm](../../ISSUES/e_atis_signature_algorithm/README.md) | error | ATIS1000080 | SignatureAlgorithm field is not 'ecdsa-with-SHA256', got 1.2.840.113549.1.1.11 |
 
 ### Not Effective
 
+- e_atis_ext_crl_distribution_struct
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_subject_cn_spc
 - e_atis_subject_key_identifier_size
 - e_atis_subject_o_required
@@ -30,4 +32,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11180.10184.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

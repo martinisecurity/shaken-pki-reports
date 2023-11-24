@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 633K
 
-Tested At: 21 Nov 23 16:46 UTC\
+Tested At: 24 Nov 23 11:06 UTC\
 Initial Validity Period: 352 day(s)\
-Remaining Validity Period: 219 day(s)\
+Remaining Validity Period: 217 day(s)\
 Subject: serialNumber=8a891650-13fc-483f-8ecb-de579f6b3998, CN=SHAKEN 633K, O=Telkart LLC, C=US\
 Issuer: CN=Telonium STI-CA Intermediate CA, O=Telonium STI-CA\
 Link: https://certs.telonium.net/23/545f628e.crt
@@ -13,7 +13,8 @@ Link: https://certs.telonium.net/23/545f628e.crt
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.4.1.37476.9000.64.1 |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

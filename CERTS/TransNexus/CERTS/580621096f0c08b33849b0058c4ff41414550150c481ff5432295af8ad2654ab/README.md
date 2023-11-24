@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 726J
 
-Tested At: 21 Nov 23 16:44 UTC\
+Tested At: 24 Nov 23 11:03 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -371 day(s)\
+Remaining Validity Period: -374 day(s)\
 Subject: CN=SHAKEN 726J, OU=SHAKEN, O=Votacall Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/88dbb645-62bf-4d40-960c-4e8e3223880f/69b0d26ffdfea695ce7cfe3464135ee0.pem
@@ -19,9 +19,10 @@ Link: https://certificates.clearip.com/88dbb645-62bf-4d40-960c-4e8e3223880f/69b0
 
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_tn_auth_list_spc_format
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

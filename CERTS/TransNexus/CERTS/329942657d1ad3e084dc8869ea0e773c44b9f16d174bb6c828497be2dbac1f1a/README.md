@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 763J
 
-Tested At: 21 Nov 23 16:45 UTC\
+Tested At: 24 Nov 23 11:05 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -345 day(s)\
+Remaining Validity Period: -347 day(s)\
 Subject: CN=SHAKEN 763J, O=InfoWest Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/f12e1928-6745-4bda-b71c-42eaf0738bce/a45a3d5e91da3e3a34bb09e01a6d29a8.pem
@@ -19,9 +19,10 @@ Link: https://certificates.clearip.com/f12e1928-6745-4bda-b71c-42eaf0738bce/a45a
 
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_tn_auth_list_spc_format
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

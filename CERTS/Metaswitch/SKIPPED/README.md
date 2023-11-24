@@ -36,6 +36,7 @@
 | 05&#160;May&#160;22&#160;14:14&#160;UTC | Kaplan Telephone SHAKEN cert 0432 | 04&#160;May&#160;25&#160;14:14&#160;UTC | true | [view](../CERTS/24c1b7c4dc4aeda21b5d1c5ff7f059903693c4a8b67ecc054ef05542a2ff4c35/README.md) |
 | 07&#160;Jun&#160;22&#160;12:24&#160;UTC | Avid Communication SHAKEN Cert 742D | 06&#160;Jun&#160;25&#160;12:24&#160;UTC | true | [view](../CERTS/b63d54026dfcdfd16495ad6fdda8993de182c86b4aa870784177c38c53842cba/README.md) |
 | 02&#160;Dec&#160;22&#160;17:33&#160;UTC | Ritter Communications SHAKEN cert 095A | 01&#160;Dec&#160;25&#160;17:33&#160;UTC | true | [view](../CERTS/28f471821d4f6e3c04d12ffc72c29afe143a2998efbd6fb4f4f55a42d8d594c2/README.md) |
+| 22&#160;Feb&#160;23&#160;20:45&#160;UTC | GVTC SHAKEN Cert 2083 | 21&#160;Feb&#160;26&#160;20:45&#160;UTC | true | [view](../CERTS/7d497f315d42dc54f854e8711b1873ac16c8966916434b58c8c02c003fb0c1f5/README.md) |
 | 02&#160;Mar&#160;23&#160;17:57&#160;UTC | Summit Broadband SHAKEN Cert 7857 | 01&#160;Mar&#160;26&#160;17:57&#160;UTC | true | [view](../CERTS/ed3e9cefca8e2fd0c60362a76618f89faafe7d12ea8979620b402eb887a53531/README.md) |
 | 26&#160;Mar&#160;23&#160;22:56&#160;UTC | Eatel SHAKEN Cert 8839 | 25&#160;Mar&#160;26&#160;22:56&#160;UTC | true | [view](../CERTS/a28d2c246508e2e6cff13fe388c7553b5490afb448d03437142aaea9ddc8d439/README.md) |
 | 31&#160;Mar&#160;23&#160;16:08&#160;UTC | Twin Lakes SHAKEN Cert 0579 | 30&#160;Mar&#160;26&#160;16:08&#160;UTC | true | [view](../CERTS/863baf457cc2e6cbf29ba1bee6b324fb5546c206a8f279094b4ab189ec2a1b5f/README.md) |
@@ -47,4 +48,4 @@
 | 08&#160;Jun&#160;23&#160;16:02&#160;UTC | Whidbey Telephone Company SHAKEN Cert 2452 | 07&#160;Jun&#160;26&#160;16:02&#160;UTC | true | [view](../CERTS/11a8d77aa46349b365d5740e537d242f906b2729b3a16dcc5008297a8a7e3a3c/README.md) |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

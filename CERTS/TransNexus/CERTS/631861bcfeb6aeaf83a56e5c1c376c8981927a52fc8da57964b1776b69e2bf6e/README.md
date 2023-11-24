@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 115K
 
-Tested At: 21 Nov 23 16:45 UTC\
+Tested At: 24 Nov 23 11:05 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -376 day(s)\
+Remaining Validity Period: -379 day(s)\
 Subject: CN=SHAKEN 115K, OU=SHAKEN, O=RenterNET, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/115K/fc9eb1ec-7be6-4ebc-b2ac-d1727482970c.pem
@@ -20,9 +20,10 @@ Link: https://certificates.transnexus.com/115K/fc9eb1ec-7be6-4ebc-b2ac-d17274829
 
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_tn_auth_list_spc_format
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

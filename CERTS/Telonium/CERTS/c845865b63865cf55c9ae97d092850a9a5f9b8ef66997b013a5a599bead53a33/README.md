@@ -2,16 +2,18 @@
 
 ## Certificate SHAKEN 576K
 
-Tested At: 21 Nov 23 16:41 UTC\
+Tested At: 24 Nov 23 11:00 UTC\
 Initial Validity Period: 367 day(s)\
-Remaining Validity Period: 269 day(s)\
+Remaining Validity Period: 266 day(s)\
 Subject: serialNumber=1C2F3907-DBD3-4799-B4E4-F4A62146CC63, CN=SHAKEN 576K, O=Etelix.com USA LLC, C=US\
 Issuer: CN=Telonium SHAKEN Intermediate G1, O=Telonium Communications LLC, L=Atlanta, ST=GA, C=US\
 Link: http://certs-clb-1999937273.us-east-1.elb.amazonaws.com/576K_20230815.crt
 
 [View certificate details](https://understandingwebpki.com/?cert=MIICxDCCAmugAwIBAgIQEJkCJJN74n0YRAb%2BeTUkJjAKBggqhkjOPQQDAjB8MQswCQYDVQQGEwJVUzELMAkGA1UECAwCR0ExEDAOBgNVBAcMB0F0bGFudGExJDAiBgNVBAoMG1RlbG9uaXVtIENvbW11bmljYXRpb25zIExMQzEoMCYGA1UEAwwfVGVsb25pdW0gU0hBS0VOIEludGVybWVkaWF0ZSBHMTAeFw0yMzA4MTUxOTM5MTNaFw0yNDA4MTUxOTQwMTNaMG8xCzAJBgNVBAYTAlVTMRswGQYDVQQKExJFdGVsaXguY29tIFVTQSBMTEMxFDASBgNVBAMTC1NIQUtFTiA1NzZLMS0wKwYDVQQFEyQxQzJGMzkwNy1EQkQzLTQ3OTktQjRFNC1GNEE2MjE0NkNDNjMwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQttzYpRgtWK7kS387R%2B1LGkn9ZlUrFCKCHYcr3tKIPWI9HXdI9uMvL%2Bt0axjqc2rc3FxrB6zhJk3ZJJGIPLPlao4HbMIHYMA4GA1UdDwEB%2FwQEAwIHgDAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQOLHCBXxmlncgAi8wuqbDbuoR%2BPzAfBgNVHSMEGDAWgBSqJLv%2FFHVAeS2Hb%2BgNQXfKu82IsDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwRwYDVR0fBEAwPjA8oDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsMBYGCCsGAQUFBwEaBAowCKAGFgQ1NzZLMAoGCCqGSM49BAMCA0cAMEQCIEFjPQzdJwrkax23Kr9lWskWN41daKqjf%2BN%2FPRRd9AQ0AiBftEgSaYYozMfLJuwDkZ3sMRXc6fIzQjfaHPz1vA%2B4Cg%3D%3D)
 
-160 tests were ran and no error, warning, or notice level issues were found
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 106ms average time it took to download each certificate
+- 336ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://textme-stirshaken.s3.us-west-2.amazonaws.com/textme-bundle_10-26-2023.cer` | 26&#160;Oct&#160;23&#160;15:49&#160;UTC | true | [view](REPOS/621232f51ab68bf6bb7f9c4bec333bd78d289224/README.md) |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

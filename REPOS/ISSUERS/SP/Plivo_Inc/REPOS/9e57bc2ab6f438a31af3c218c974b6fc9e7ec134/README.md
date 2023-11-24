@@ -3,8 +3,8 @@
 ## Plivo Inc
 
 Name: `https://certificate.zt.plivo.com/cert20240517.crt`\
-Tested At: 21 Nov 23 16:42 UTC\
-Time: 17ms
+Tested At: 24 Nov 23 11:01 UTC\
+Time: 9ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 17ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

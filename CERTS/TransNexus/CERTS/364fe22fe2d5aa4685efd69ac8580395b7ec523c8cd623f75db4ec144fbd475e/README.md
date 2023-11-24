@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 856H
 
-Tested At: 21 Nov 23 16:43 UTC\
+Tested At: 24 Nov 23 11:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -302 day(s)\
+Remaining Validity Period: -305 day(s)\
 Subject: CN=SHAKEN 856H, O=Mix Networks Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/357a731f-0148-4a23-9fdf-41c8734c23a7/ddd6c24494952a207c41f75337ed7d00.pem
@@ -19,9 +19,10 @@ Link: https://certificates.clearip.com/357a731f-0148-4a23-9fdf-41c8734c23a7/ddd6
 
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_tn_auth_list_spc_format
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

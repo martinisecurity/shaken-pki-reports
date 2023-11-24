@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 361H
 
-Tested At: 21 Nov 23 16:46 UTC\
+Tested At: 24 Nov 23 11:05 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -301 day(s)\
+Remaining Validity Period: -304 day(s)\
 Subject: CN=SHAKEN 361H, O=Atlantech Online, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/361H/4da7f889-122c-4232-94f5-bdaf2a1a067d.pem
@@ -19,9 +19,10 @@ Link: https://certificates.transnexus.com/361H/4da7f889-122c-4232-94f5-bdaf2a1a0
 
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_tn_auth_list_spc_format
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

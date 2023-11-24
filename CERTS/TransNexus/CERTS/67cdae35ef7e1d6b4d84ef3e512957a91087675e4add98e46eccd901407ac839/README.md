@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 777J
 
-Tested At: 21 Nov 23 16:43 UTC\
+Tested At: 24 Nov 23 11:03 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -226 day(s)\
+Remaining Validity Period: -229 day(s)\
 Subject: CN=SHAKEN 777J, O=USIPCOM, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/5ca47a02-af59-435d-8b32-755af4b90d9f/ce9edd412b16657e3b765c36b307f220.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/5ca47a02-af59-435d-8b32-755af4b90d9f/ce9e
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

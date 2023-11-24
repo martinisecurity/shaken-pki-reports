@@ -2,24 +2,25 @@
 
 ## Certificate SHAKEN 709J
 
-Tested At: 21 Nov 23 17:14 UTC\
+Tested At: 24 Nov 23 11:16 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: -306 day(s)\
+Remaining Validity Period: -309 day(s)\
 Subject: O=LOW LATENCY COMMUNICATIONS LLC, C=US, serialNumber=27E681E41B39FDDADA26A9950A0CA570, CN=SHAKEN 709J\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/XRr_J7CCF-zW.pem
 
 [View certificate details](https://understandingwebpki.com/?cert=MIIDKTCCAs6gAwIBAgIUXRr%2FJ7CCF%2BzWprqA1vZQf2Hyr98wCgYIKoZIzj0EAwIwcTELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAldBMRAwDgYDVQQHEwdTZWF0dGxlMR4wHAYDVQQKExVNYXJ0aW5pIFNlY3VyaXR5LCBMTEMxIzAhBgNVBAMTGk1hcnRpbmkgU2VjdXJpdHkgU0hBS0VOIEcyMB4XDTIyMTAyMTE3MzgxNFoXDTIzMDExOTA2MDAwMFowdzEUMBIGA1UEAxMLU0hBS0VOIDcwOUoxKTAnBgNVBAUTIDI3RTY4MUU0MUIzOUZEREFEQTI2QTk5NTBBMENBNTcwMQswCQYDVQQGEwJVUzEnMCUGA1UEChMeTE9XIExBVEVOQ1kgQ09NTVVOSUNBVElPTlMgTExDMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEaGoO20hFT0o0i6a5aJen%2BaoOxq4FOSmFo1CLalix9FR5JV6CFABjtWL2pAlhLGr4mPzbQHR9EU%2FA55I32kR58aOCATwwggE4MA4GA1UdDwEB%2FwQEAwIHgDAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQhVDpMp%2F2wucRvdQY%2Fjjllv55AkjAfBgNVHSMEGDAWgBQohFBe5EN4LNBzs4sb%2FaTMFmKYGDAWBggrBgEFBQcBGgQKMAigBhYENzA5SjCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHEwtCcmlkZ2V3YXRlcjELMAkGA1UECBMCTkoxEzARBgNVBAMTClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKEwZTVEktUEEwFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEDMAoGCCqGSM49BAMCA0kAMEYCIQD4DUNiWfi%2FDj60QA7%2Fm4l1RRHKYmuSC9beShmeBD%2FyHQIhAI4UMEi%2FOP23qqRsWy07AGIPV7p24dCtv4QY7djqa5Ce)
 
-160 tests were ran and no error, warning, or notice level issues were found
+163 tests were ran and no error, warning, or notice level issues were found
 
 ### Not Effective
 
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_tn_auth_list_spc_format
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

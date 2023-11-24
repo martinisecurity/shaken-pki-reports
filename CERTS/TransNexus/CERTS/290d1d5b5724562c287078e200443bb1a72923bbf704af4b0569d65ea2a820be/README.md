@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 274K
 
-Tested At: 21 Nov 23 16:42 UTC\
+Tested At: 24 Nov 23 11:01 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -113 day(s)\
+Remaining Validity Period: -116 day(s)\
 Subject: CN=SHAKEN 274K, O=Axxess Networks, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/16ee3de7-0486-474d-8091-08a7f37461ad/b7c36711fff23dfc33a8716b316ce10b.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/16ee3de7-0486-474d-8091-08a7f37461ad/b7c3
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 157C
 
-Tested At: 21 Nov 23 16:44 UTC\
+Tested At: 24 Nov 23 11:03 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -400 day(s)\
+Remaining Validity Period: -403 day(s)\
 Subject: CN=SHAKEN 157C, OU=SHAKEN, O=DigitalSpeed Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/82d97ecb-9b38-4926-9062-8e21b8986930/28ec7e97780e7ae26bbe623cc083537c.pem
@@ -20,9 +20,10 @@ Link: https://certificates.clearip.com/82d97ecb-9b38-4926-9062-8e21b8986930/28ec
 
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_tn_auth_list_spc_format
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

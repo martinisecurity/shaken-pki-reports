@@ -9,7 +9,7 @@
 - 50.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 321ms average time it took to download each certificate
+- 47ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -22,4 +22,4 @@
 | `https://bw-shaken-cert-pub.s3.amazonaws.com/bw-shaken_20240429.cer` | 29&#160;Apr&#160;24&#160;22:24&#160;UTC | true | [view](REPOS/231b9512b09ea7203980cdd6e1c9db07f1709457/README.md) |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

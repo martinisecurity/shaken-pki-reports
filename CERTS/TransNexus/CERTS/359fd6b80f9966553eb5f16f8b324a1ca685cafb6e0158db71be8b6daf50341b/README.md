@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1826
 
-Tested At: 21 Nov 23 16:43 UTC\
+Tested At: 24 Nov 23 11:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -78 day(s)\
+Remaining Validity Period: -81 day(s)\
 Subject: CN=SHAKEN 1826, O=Nex-Tech\\, LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/2fb590ef-1300-4481-b00c-164b447c8c08/8621be62648bf9564868c039378a2457.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/2fb590ef-1300-4481-b00c-164b447c8c08/8621
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 833J
 
-Tested At: 21 Nov 23 16:44 UTC\
+Tested At: 24 Nov 23 11:04 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -81 day(s)\
+Remaining Validity Period: -84 day(s)\
 Subject: CN=SHAKEN 833J, O=PressONE, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/b6b24cc6-4f92-4a6b-a293-f52579c0d95a/d5e7a427949a077519d49ad6751bb0a3.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/b6b24cc6-4f92-4a6b-a293-f52579c0d95a/d5e7
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 775J
+
+Tested At: 24 Nov 23 11:09 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 351 day(s)\
+Subject: CN=SHAKEN 775J, O=VoIP Stir PR LLC, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://cr.veriswitch.com/voipstir/b50788d49d9978e2a5df93656e4c5bb6.cer
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIDBTCCAqqgAwIBAgIUfHNFaFovWjUVL%2Fn32Kl362hENHYwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTIzMTEwOTIyNDU1N1oXDTI0MTEwODIyNDU1N1owPjELMAkGA1UEBhMCVVMxGTAXBgNVBAoMEFZvSVAgU3RpciBQUiBMTEMxFDASBgNVBAMMC1NIQUtFTiA3NzVKMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAErDCCSKdquNBVq4TZRAFjAgENoF4KqY3I2EGr8yz6Ahqsa7qzutfYqEW%2FTvsbxlPHqWVNrataJkKZSkGOLx%2Fx%2B6OCATwwggE4MBYGCCsGAQUFBwEaBAowCKAGFgQ3NzVKMAwGA1UdEwEB%2FwQCMAAwHwYDVR0jBBgwFoAUgk4V%2F%2F6famdR5MiXx210w%2FxlRXgwFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEDMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAdBgNVHQ4EFgQUKPKloTPV9EKvlKUIHewCGf%2BZ5pswDgYDVR0PAQH%2FBAQDAgeAMAoGCCqGSM49BAMCA0kAMEYCIQCyHQOQtWwYMHtnDh2x3Wz3GJ9IbyKtKhwS4ZUe6ThRnAIhAN46BBFCFFdE5ypkhHLhMAjND8Yn92Z459NCHCZJfwkS)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 24 Nov 23 11:17 UTC

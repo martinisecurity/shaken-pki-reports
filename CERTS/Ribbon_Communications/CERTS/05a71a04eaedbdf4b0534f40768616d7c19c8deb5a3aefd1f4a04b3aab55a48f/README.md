@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Ribbon Issuing CA
 
-Tested At: 21 Nov 23 17:15 UTC\
+Tested At: 24 Nov 23 11:17 UTC\
 Initial Validity Period: 4383 day(s)\
-Remaining Validity Period: 3461 day(s)\
+Remaining Validity Period: 3458 day(s)\
 Subject: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Issuer: CN=SHAKEN Ribbon Root CA, OU=Certification Authority, O=Ribbon Communications, C=US
 
@@ -16,14 +16,14 @@ Issuer: CN=SHAKEN Ribbon Root CA, OU=Certification Authority, O=Ribbon Communica
 
 ### Not Effective
 
-- e_atis_ca_ext_not_specified
-- e_atis_ca_serial_number_size
-- e_atis_ca_subject_c_iso
-- e_atis_ca_subject_key_identifier_size
-- e_atis_ca_subject_o_required
+- e_atis_ext_not_specified_ca
+- e_atis_serial_number_size_ca
+- e_atis_subject_c_iso_ca
+- e_atis_subject_key_identifier_size_ca
+- e_atis_subject_o_required_ca
 - e_shaken_certificate_policies_id_ca
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

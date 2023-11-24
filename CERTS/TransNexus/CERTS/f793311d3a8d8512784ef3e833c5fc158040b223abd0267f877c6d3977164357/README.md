@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0299
 
-Tested At: 21 Nov 23 16:45 UTC\
+Tested At: 24 Nov 23 11:04 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -48 day(s)\
+Remaining Validity Period: -51 day(s)\
 Subject: CN=SHAKEN 0299, O=Hayneville Fiber Transport DBA Camellia Communications\\ , C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/cae854e4-b385-4c98-830f-e4843cedf993/a0a53cd38c7b8533740f985948a996e1.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/cae854e4-b385-4c98-830f-e4843cedf993/a0a5
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate Metaswitch STI-CA SHAKEN Issuing 1
 
-Tested At: 21 Nov 23 17:14 UTC\
+Tested At: 24 Nov 23 11:16 UTC\
 Initial Validity Period: 4380 day(s)\
-Remaining Validity Period: 4096 day(s)\
+Remaining Validity Period: 4094 day(s)\
 Subject: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Issuer: CN=Metaswitch STI-CA SHAKEN Root
 
@@ -12,10 +12,10 @@ Issuer: CN=Metaswitch STI-CA SHAKEN Root
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_ca_subject_dn](../../ISSUES/e_atis_ca_subject_dn/README.md) | error | ATIS1000080 | Subject DN does not contain a Country (C=) attribute |
-| [e_atis_ca_subject_c_iso](../../ISSUES/e_atis_ca_subject_c_iso/README.md) | error | ATIS1000080 | Subject MUST be present and MUST contain exactly one value for Country (C=). |
-| [e_atis_ca_subject_o_required](../../ISSUES/e_atis_ca_subject_o_required/README.md) | error | ATIS1000080 | The DN does not contain exactly one Organization (O=) attribute. |
-| [e_shaken_certificate_policies_id_ca](../../ISSUES/e_shaken_certificate_policies_id_ca/README.md) | error | US_SHAKEN_CP | the Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
+| [e_atis_subject_c_iso_ca](../../ISSUES/e_atis_subject_c_iso_ca/README.md) | error | ATIS1000080 | Subject MUST be present and MUST contain exactly one value for Country (C=). |
+| [e_shaken_certificate_policies_id_ca](../../ISSUES/e_shaken_certificate_policies_id_ca/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
+| [e_atis_subject_o_required_ca](../../ISSUES/e_atis_subject_o_required_ca/README.md) | error | ATIS1000080 | The DN does not contain exactly one Organization (O=) attribute. |
+| [e_atis_subject_dn_ca](../../ISSUES/e_atis_subject_dn_ca/README.md) | error | ATIS1000080 | Subject DN does not contain a Country (C=) attribute |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

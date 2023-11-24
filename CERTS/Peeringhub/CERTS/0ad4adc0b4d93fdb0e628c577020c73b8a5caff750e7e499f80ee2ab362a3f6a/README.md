@@ -2,9 +2,9 @@
 
 ## Certificate Peeringhub Inc Root CA
 
-Tested At: 21 Nov 23 17:16 UTC\
+Tested At: 24 Nov 23 11:17 UTC\
 Initial Validity Period: 7300 day(s)\
-Remaining Validity Period: 6231 day(s)\
+Remaining Validity Period: 6229 day(s)\
 Subject: CN=Peeringhub Inc Root CA, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Issuer: CN=Peeringhub Inc Root CA, OU=Certification Authorities, O=Peeringhub Inc, C=US
 
@@ -16,16 +16,16 @@ Issuer: CN=Peeringhub Inc Root CA, OU=Certification Authorities, O=Peeringhub In
 
 ### Not Effective
 
-- e_atis_ca_ext_not_specified
-- e_atis_ca_serial_number_size
-- e_atis_ca_subject_c_iso
-- e_atis_ca_subject_key_identifier_size
-- e_atis_ca_subject_o_required
 - e_atis_ext_certificate_policies_root
 - e_atis_ext_crl_distribution_root
+- e_atis_ext_not_specified_ca
+- e_atis_serial_number_size_ca
+- e_atis_subject_c_iso_ca
 - e_atis_subject_cn_root
+- e_atis_subject_key_identifier_size_ca
+- e_atis_subject_o_required_ca
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate TMOBILE-PROD-SUB-STIRSHAKEN-EC
 
-Tested At: 21 Nov 23 17:16 UTC\
+Tested At: 24 Nov 23 11:17 UTC\
 Initial Validity Period: 1826 day(s)\
-Remaining Validity Period: 1436 day(s)\
+Remaining Validity Period: 1433 day(s)\
 Subject: CN=TMOBILE-PROD-SUB-STIRSHAKEN-EC, O=TMOBILE-USA, C=US\
 Issuer: CN=TMOBILE-PROD-ROOT-STIRSHAKEN-EC, O=TMOBILE-USA, C=US
 
@@ -13,14 +13,15 @@ Issuer: CN=TMOBILE-PROD-ROOT-STIRSHAKEN-EC, O=TMOBILE-USA, C=US
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_atis_subject_cn_ca](../../ISSUES/e_atis_subject_cn_ca/README.md) | error | ATIS1000080 | Common Name attribute 'TMOBILE-PROD-SUB-STIRSHAKEN-EC' does not contain 'SHAKEN' |
+| [e_atis_ext_crl_distribution_struct_ca](../../ISSUES/e_atis_ext_crl_distribution_struct_ca/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 ### Not Effective
 
-- e_atis_ca_ext_not_specified
-- e_atis_ca_serial_number_size
-- e_atis_ca_subject_c_iso
+- e_atis_ext_not_specified_ca
+- e_atis_serial_number_size_ca
+- e_atis_subject_c_iso_ca
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 029K
+
+Tested At: 24 Nov 23 11:03 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -4 day(s)\
+Subject: CN=SHAKEN 029K, O=VoIPConsultants.biz LLC, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/7f0be90c-4263-43fc-b425-53c54b34cd5a/1e91a41b04dd664ee0b93365d4482d62.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC1zCCAn2gAwIBAgIQbsyj6LvS9xaaUfoaX8VZ9zAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMxMTEzMDUzNjE2WhcNMjMxMTIwMDUzNjE1WjBFMQswCQYDVQQGEwJVUzEgMB4GA1UEChMXVm9JUENvbnN1bHRhbnRzLmJpeiBMTEMxFDASBgNVBAMTC1NIQUtFTiAwMjlLMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEZYF2ku6n7ArB0D%2FGOovGRZmn%2FHtI9YgRYgglMzt5oAh38K6kXP0%2FszaToxUu%2FCPPK%2FOrgW2qM6hIDlQBf5wRzKOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBRknSkrxGSjo%2FHUO7WPjP8ngTrE4zAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQwMjlLMAoGCCqGSM49BAMCA0gAMEUCIHypIwt8m%2BFUBFk5E4Nhqb2FBQ9zQipnVCi%2BWNNQNP4DAiEA97bnXaRkFLpPV01jIo%2BysuXgtkgZRsCO4arN6knYdVM%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 24 Nov 23 11:17 UTC

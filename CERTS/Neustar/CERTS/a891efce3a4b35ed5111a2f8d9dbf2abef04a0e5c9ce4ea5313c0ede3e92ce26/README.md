@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN_0377
 
-Tested At: 21 Nov 23 16:41 UTC\
+Tested At: 24 Nov 23 11:00 UTC\
 Initial Validity Period: 1096 day(s)\
-Remaining Validity Period: 168 day(s)\
+Remaining Validity Period: 166 day(s)\
 Subject: C=US, ST=Georgia, L=Metter, O=Pineland Telephone Cooperative, OU=Service, CN=SHAKEN_0377\
 Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1\
 Link: http://prod001-cr.rbbnidhub.com/MU7B8iqMRz/sign-cert1
@@ -13,14 +13,16 @@ Link: http://prod001-cr.rbbnidhub.com/MU7B8iqMRz/sign-cert1
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_ext_certificate_policies](../../ISSUES/e_atis_ext_certificate_policies/README.md) | error | ATIS1000080 | the Certificate Policies extension is not present |
+| [e_atis_ext_certificate_policies](../../ISSUES/e_atis_ext_certificate_policies/README.md) | error | ATIS1000080 | The Certificate Policies extension is not present |
 | [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common Name attribute 'SHAKEN_0377' does not contain 'SHAKEN' |
 | [e_atis_signature_algorithm](../../ISSUES/e_atis_signature_algorithm/README.md) | error | ATIS1000080 | SignatureAlgorithm field is not 'ecdsa-with-SHA256', got 1.2.840.113549.1.1.11 |
 
 ### Not Effective
 
+- e_atis_ext_crl_distribution_struct
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_subject_cn_spc
 - e_atis_subject_key_identifier_size
 - e_atis_subject_o_required
@@ -30,4 +32,4 @@ Link: http://prod001-cr.rbbnidhub.com/MU7B8iqMRz/sign-cert1
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

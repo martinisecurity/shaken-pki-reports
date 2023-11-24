@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 734J
 
-Tested At: 21 Nov 23 16:45 UTC\
+Tested At: 24 Nov 23 11:04 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -349 day(s)\
+Remaining Validity Period: -351 day(s)\
 Subject: CN=SHAKEN 734J, O=TELINTEL LTD, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/cf29335b-1257-4ff4-9882-94a76a244c20/54d56ece45f52b6d0f474b7d296cb798.pem
@@ -19,9 +19,10 @@ Link: https://certificates.clearip.com/cf29335b-1257-4ff4-9882-94a76a244c20/54d5
 
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_tn_auth_list_spc_format
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

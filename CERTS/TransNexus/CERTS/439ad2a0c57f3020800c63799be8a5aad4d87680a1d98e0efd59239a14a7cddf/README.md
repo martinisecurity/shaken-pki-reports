@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 7453
 
-Tested At: 21 Nov 23 16:43 UTC\
+Tested At: 24 Nov 23 11:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -212 day(s)\
+Remaining Validity Period: -215 day(s)\
 Subject: CN=SHAKEN 7453, O=TPx, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/2a26bd25-8973-44ba-9b94-a8e4716b3888/78c567f4f65f19eb33acef1217e2a6a2.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/2a26bd25-8973-44ba-9b94-a8e4716b3888/78c5
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

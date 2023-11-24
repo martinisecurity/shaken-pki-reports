@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 261H
 
-Tested At: 21 Nov 23 17:08 UTC\
+Tested At: 24 Nov 23 11:11 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 200 day(s)\
+Remaining Validity Period: 197 day(s)\
 Subject: CN=SHAKEN 261H, O=Voyce, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/b1f83b2a8803ca5297ced7cb375cc6f5e2b44f85
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/b1f83b2a8803ca5297ced7cb375cc6f5e2b44f85
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

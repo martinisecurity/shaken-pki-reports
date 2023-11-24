@@ -3,8 +3,8 @@
 ## Telkart LLC
 
 Name: `https://certs.telonium.net/23/545f628e.crt`\
-Tested At: 21 Nov 23 16:46 UTC\
-Time: 31ms
+Tested At: 24 Nov 23 11:06 UTC\
+Time: 33ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 31ms
 |------|------|--------|---------|
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

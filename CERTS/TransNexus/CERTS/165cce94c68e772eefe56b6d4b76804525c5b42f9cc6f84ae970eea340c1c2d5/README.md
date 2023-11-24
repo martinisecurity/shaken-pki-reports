@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 769J
+
+Tested At: 24 Nov 23 11:02 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -2 day(s)\
+Subject: CN=SHAKEN 769J, O=Affiliated Technology Solutions LLC, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/471a46b3-3de4-4aa2-964b-2ff03ddbc8fe/77e3d1d389605dec76a49dcbc3b42c25.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC4zCCAomgAwIBAgIQWowmWHs2DvKd4I6yG4w0MzAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMxMTE0MjEwNDE0WhcNMjMxMTIxMjEwNDEzWjBRMQswCQYDVQQGEwJVUzEsMCoGA1UEChMjQWZmaWxpYXRlZCBUZWNobm9sb2d5IFNvbHV0aW9ucyBMTEMxFDASBgNVBAMTC1NIQUtFTiA3NjlKMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEQV1TPaza4kGrW2lvR4RSiw2%2BZbvZWFGB%2FTo%2FGBVwIzOO%2BUOYA%2BuTJ8ocz6JaVNO%2BV4iE1kcY%2Fn3g6OTi0V7MRKOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBRmCfT7HNSLY5mBsSQLZh7WV7R04jAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ3NjlKMAoGCCqGSM49BAMCA0gAMEUCIQCTIdCaP%2BWKnh0LV5OrcSp%2BmsfFpK0pXB84whjoqE2AgQIgL6Om%2BYPHex5LI6ahu2YI0fhc7BdY506sODTAD%2FDkLr8%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 24 Nov 23 11:17 UTC

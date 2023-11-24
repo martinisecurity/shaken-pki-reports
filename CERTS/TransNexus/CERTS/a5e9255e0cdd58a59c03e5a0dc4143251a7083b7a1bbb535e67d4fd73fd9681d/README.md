@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 056K
 
-Tested At: 21 Nov 23 16:45 UTC\
+Tested At: 24 Nov 23 11:04 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -254 day(s)\
+Remaining Validity Period: -257 day(s)\
 Subject: CN=SHAKEN 056K, O=Logista Solutions, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/d673a99f-ad2d-4256-8d65-e20ff91adba4/f4c098c436bcf6331cb11371779d9c71.pem
@@ -19,9 +19,10 @@ Link: https://certificates.clearip.com/d673a99f-ad2d-4256-8d65-e20ff91adba4/f4c0
 
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_tn_auth_list_spc_format
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

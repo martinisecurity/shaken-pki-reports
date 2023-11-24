@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 421K
 
-Tested At: 21 Nov 23 17:12 UTC\
+Tested At: 24 Nov 23 11:14 UTC\
 Initial Validity Period: 711 day(s)\
-Remaining Validity Period: 578 day(s)\
+Remaining Validity Period: 575 day(s)\
 Subject: serialNumber=e8d90de4-aae5-4c27-9c76-b6a17853030f, CN=SHAKEN 421K, O=Q5 Networks, C=US\
 Issuer: CN=Telonium STI-CA Intermediate CA, O=Telonium STI-CA\
 Link: https://www.q5networks.com/stirshaken/q5networks2025.pem
@@ -13,7 +13,8 @@ Link: https://www.q5networks.com/stirshaken/q5networks2025.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.4.1.37476.9000.64.1 |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

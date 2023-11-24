@@ -3,11 +3,11 @@
 ## Martini Security
 
 Name: `https://p.mtsec.me/2884/DiFFOm4uSOB4.pem`\
-Tested At: 21 Nov 23 17:12 UTC\
-Time: 129ms
+Tested At: 24 Nov 23 11:14 UTC\
+Time: 36ms
 
 ### Issues
 
 no warning, or error, or notice date level issues were found
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

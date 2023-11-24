@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 805J
 
-Tested At: 21 Nov 23 16:43 UTC\
+Tested At: 24 Nov 23 11:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -96 day(s)\
+Remaining Validity Period: -99 day(s)\
 Subject: CN=SHAKEN 805J, O=Fastmetrics, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/47fb6c89-4f44-4e6f-93a0-7aaff0469420/9b4e9caeff0c5d4134fd3868593a3bdc.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/47fb6c89-4f44-4e6f-93a0-7aaff0469420/9b4e
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

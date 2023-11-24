@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 3013
 
-Tested At: 21 Nov 23 16:42 UTC\
+Tested At: 24 Nov 23 11:01 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -200 day(s)\
+Remaining Validity Period: -203 day(s)\
 Subject: CN=SHAKEN 3013, O=KPU, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/0ada2752-2d93-4fb9-a726-4cc783aa01d5/220e4283dd77dc2fd4d93032aa798823.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/0ada2752-2d93-4fb9-a726-4cc783aa01d5/220e
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

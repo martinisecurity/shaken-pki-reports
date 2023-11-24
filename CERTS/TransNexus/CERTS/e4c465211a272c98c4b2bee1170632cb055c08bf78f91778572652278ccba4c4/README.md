@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 8526
 
-Tested At: 21 Nov 23 16:46 UTC\
+Tested At: 24 Nov 23 11:06 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -386 day(s)\
+Remaining Validity Period: -389 day(s)\
 Subject: CN=SHAKEN 8526, OU=SHAKEN, O=MetTel, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/8526/ce6a0107-6101-4a05-9a81-ae55b304f8f0.pem
@@ -20,9 +20,10 @@ Link: https://certificates.transnexus.com/8526/ce6a0107-6101-4a05-9a81-ae55b304f
 
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_tn_auth_list_spc_format
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

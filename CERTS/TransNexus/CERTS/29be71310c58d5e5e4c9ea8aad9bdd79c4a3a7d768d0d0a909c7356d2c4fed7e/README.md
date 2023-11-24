@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 577F
 
-Tested At: 21 Nov 23 16:46 UTC\
+Tested At: 24 Nov 23 11:05 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -226 day(s)\
+Remaining Validity Period: -229 day(s)\
 Subject: CN=SHAKEN 577F, O=Ringsquared, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/577F/66f311e2-78af-4289-b024-3fd22df8041e.pem
@@ -19,9 +19,10 @@ Link: https://certificates.transnexus.com/577F/66f311e2-78af-4289-b024-3fd22df80
 
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_tn_auth_list_spc_format
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

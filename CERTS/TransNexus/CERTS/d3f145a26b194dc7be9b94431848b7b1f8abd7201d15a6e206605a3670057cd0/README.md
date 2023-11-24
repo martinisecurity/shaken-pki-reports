@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1555
 
-Tested At: 21 Nov 23 16:42 UTC\
+Tested At: 24 Nov 23 11:01 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -230 day(s)\
+Remaining Validity Period: -232 day(s)\
 Subject: CN=SHAKEN 1555, O=Hamilton Telecommunications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/1236e074-20ca-4639-9a13-6f26ef83f424/88694e812b44611d5335f5c02939be0b.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/1236e074-20ca-4639-9a13-6f26ef83f424/8869
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 340E
 
-Tested At: 21 Nov 23 16:43 UTC\
+Tested At: 24 Nov 23 11:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -77 day(s)\
+Remaining Validity Period: -79 day(s)\
 Subject: CN=SHAKEN 340E, O=Andrew Ward Consulting LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/279dc589-a721-4af6-9d8e-18175dffcb69/86882f91c2b442e942bf73300de94240.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/279dc589-a721-4af6-9d8e-18175dffcb69/8688
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

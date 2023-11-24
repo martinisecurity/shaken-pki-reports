@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 284K
 
-Tested At: 21 Nov 23 16:42 UTC\
+Tested At: 24 Nov 23 11:01 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -34 day(s)\
+Remaining Validity Period: -36 day(s)\
 Subject: CN=SHAKEN 284K, O=VoiceLift\\, Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/21415d15-f5d7-4c58-abe7-c434ef2bae36/5c080c87145c811ae3ac783ddb0522aa.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/21415d15-f5d7-4c58-abe7-c434ef2bae36/5c08
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

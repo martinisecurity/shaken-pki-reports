@@ -2,9 +2,9 @@
 
 ## Certificate Twin Lakes SHAKEN Cert 0579
 
-Tested At: 21 Nov 23 16:42 UTC\
+Tested At: 24 Nov 23 11:00 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 860 day(s)\
+Remaining Validity Period: 858 day(s)\
 Subject: CN=Twin Lakes SHAKEN Cert 0579, O=Twin Lakes, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/230562ee4f78391a4f429776b840b730947bb2f6
@@ -13,9 +13,10 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/230562ee4f78391a4f429776b840b730947bb2f
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 0579' |
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 0579', but common name is 'Twin Lakes SHAKEN Cert 0579' |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate Polar SHAKEN 1630
 
-Tested At: 21 Nov 23 17:08 UTC\
+Tested At: 24 Nov 23 11:11 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 171 day(s)\
+Remaining Validity Period: 168 day(s)\
 Subject: CN=Polar SHAKEN 1630, OU=Voice, O=Polar Communications Mutual Aid Corporation, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/87rmTaP4gz/10000-5f466faa9cc3dae51dd87191dd1f78b4
@@ -14,7 +14,8 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/87rmTaP4gz/10000-5f466faa9cc3dae5
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
-| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | the Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate CTS Telecom, Inc SHAKEN Cert 8331
 
-Tested At: 21 Nov 23 16:42 UTC\
+Tested At: 24 Nov 23 11:00 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 299 day(s)\
+Remaining Validity Period: 297 day(s)\
 Subject: CN=CTS Telecom\\, Inc SHAKEN Cert 8331, O=CTS Telecom\\, Inc, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/6db90427e977d872d1d8aa0a64c3760b043f7edb
@@ -17,8 +17,10 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/6db90427e977d872d1d8aa0a64c3760b043f7ed
 
 ### Not Effective
 
+- e_atis_ext_crl_distribution_struct
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_subject_cn_spc
 - e_atis_subject_key_identifier_size
 - e_atis_subject_o_required
@@ -28,4 +30,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/6db90427e977d872d1d8aa0a64c3760b043f7ed
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

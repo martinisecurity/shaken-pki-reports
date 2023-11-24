@@ -2,24 +2,25 @@
 
 ## Certificate SHAKEN 042K
 
-Tested At: 21 Nov 23 17:13 UTC\
+Tested At: 24 Nov 23 11:15 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: -204 day(s)\
+Remaining Validity Period: -207 day(s)\
 Subject: O=DMCI Broadband\\, LLC, C=US, serialNumber=7840B243D2BAF00993F3E447770C10EF, CN=SHAKEN 042K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/W8WJASZDS23H.pem
 
 [View certificate details](https://understandingwebpki.com/?cert=MIIDHDCCAsOgAwIBAgIUW8WJASZDS23He0Wzoo4VLExD2NIwCgYIKoZIzj0EAwIwcTELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAldBMRAwDgYDVQQHEwdTZWF0dGxlMR4wHAYDVQQKExVNYXJ0aW5pIFNlY3VyaXR5LCBMTEMxIzAhBgNVBAMTGk1hcnRpbmkgU2VjdXJpdHkgU0hBS0VOIEcyMB4XDTIzMDEzMTIxMTUwMFoXDTIzMDUwMTA0MDAwMFowbDEUMBIGA1UEAxMLU0hBS0VOIDA0MksxKTAnBgNVBAUTIDc4NDBCMjQzRDJCQUYwMDk5M0YzRTQ0Nzc3MEMxMEVGMQswCQYDVQQGEwJVUzEcMBoGA1UEChMTRE1DSSBCcm9hZGJhbmQsIExMQzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABKc2Q2yaXyjkzZLXcGbYEYo6aUzqfKrMZPAiNjDZHYlXHYzC5lbQJHf%2BO3I6vEZiVl65pqjtjMXoTjhDCBiJYHKjggE8MIIBODAOBgNVHQ8BAf8EBAMCB4AwDAYDVR0TAQH%2FBAIwADAdBgNVHQ4EFgQUWmZh4%2BA9SJkpjCx2dIed4j2vaO0wHwYDVR0jBBgwFoAUKIRQXuRDeCzQc7OLG%2F2kzBZimBgwFgYIKwYBBQUHARoECjAIoAYWBDA0MkswgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBxMLQnJpZGdld2F0ZXIxCzAJBgNVBAgTAk5KMRMwEQYDVQQDEwpTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UEChMGU1RJLVBBMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzAKBggqhkjOPQQDAgNHADBEAiAQCHQqDdIdMBusNqpE%2BcwYPDWNdprSZtUniJr5V%2Fz83wIgKL9Umc9Zt0HyJfK9YFNZVD9AFSF17fhsh5kE417WPWY%3D)
 
-160 tests were ran and no error, warning, or notice level issues were found
+163 tests were ran and no error, warning, or notice level issues were found
 
 ### Not Effective
 
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_tn_auth_list_spc_format
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

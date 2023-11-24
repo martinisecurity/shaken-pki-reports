@@ -2,9 +2,9 @@
 
 ## Certificate Etex STI SHAKEN 3196
 
-Tested At: 21 Nov 23 17:08 UTC\
+Tested At: 24 Nov 23 11:11 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 134 day(s)\
+Remaining Validity Period: 131 day(s)\
 Subject: CN=Etex STI SHAKEN 3196, OU=Etex, O=Etex, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/DdpJt757Rz/STI-202304-3196-17c4d8150bc3db2f710070278713bc57
@@ -14,7 +14,8 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/DdpJt757Rz/STI-202304-3196-17c4d8
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
-| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | the Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
+| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

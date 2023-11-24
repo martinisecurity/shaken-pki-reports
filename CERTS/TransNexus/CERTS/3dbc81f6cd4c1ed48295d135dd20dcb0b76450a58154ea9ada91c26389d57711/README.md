@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 725J
 
-Tested At: 21 Nov 23 16:45 UTC\
+Tested At: 24 Nov 23 11:05 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -89 day(s)\
+Remaining Validity Period: -92 day(s)\
 Subject: CN=SHAKEN 725J, O=Advantage Telecom, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/f5e87528-0457-4329-89e6-40751b5b1a0c/2f5866e2b3d8119e045cad4b73d6bc23.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/f5e87528-0457-4329-89e6-40751b5b1a0c/2f58
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

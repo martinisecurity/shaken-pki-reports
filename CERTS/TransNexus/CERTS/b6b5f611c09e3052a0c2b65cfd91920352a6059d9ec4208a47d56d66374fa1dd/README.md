@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 733J
 
-Tested At: 21 Nov 23 16:43 UTC\
+Tested At: 24 Nov 23 11:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -248 day(s)\
+Remaining Validity Period: -251 day(s)\
 Subject: CN=SHAKEN 733J, O=Wiretap Telecom, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/257dc117-4652-4444-9058-fceb2d81e92c/c8a1cb74b64a7219dc2a21399df0b040.pem
@@ -19,9 +19,10 @@ Link: https://certificates.clearip.com/257dc117-4652-4444-9058-fceb2d81e92c/c8a1
 
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_tn_auth_list_spc_format
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

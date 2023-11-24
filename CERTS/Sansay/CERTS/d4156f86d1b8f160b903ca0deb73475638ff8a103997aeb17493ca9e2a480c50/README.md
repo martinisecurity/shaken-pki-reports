@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN NTC International, INC 016K
 
-Tested At: 21 Nov 23 16:49 UTC\
+Tested At: 24 Nov 23 11:07 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: 4 day(s)\
+Remaining Validity Period: 2 day(s)\
 Subject: emailAddress=billing@ntcinternationalinc.com, CN=SHAKEN NTC International\\, INC 016K, OU=Operations, O=NTC International\\, INC, ST=Delaware, C=US, emailAddress=billing@ntcinternationalinc.com\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/016K/order/441_016K_115
@@ -13,8 +13,9 @@ Link: https://cr.sansay.com/016K/order/441_016K_115
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 016K' |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 016K', but common name is 'SHAKEN NTC International, INC 016K' |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

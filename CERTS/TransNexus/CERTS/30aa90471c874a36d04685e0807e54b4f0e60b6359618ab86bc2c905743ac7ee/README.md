@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 056J
 
-Tested At: 21 Nov 23 16:43 UTC\
+Tested At: 24 Nov 23 11:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -219 day(s)\
+Remaining Validity Period: -221 day(s)\
 Subject: CN=SHAKEN 056J, O=Telco Experts, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/384afe84-56e7-4f0a-a8f8-9be6e100ab3e/1342da4daacf7d080abee68dd1bfa35a.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/384afe84-56e7-4f0a-a8f8-9be6e100ab3e/1342
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

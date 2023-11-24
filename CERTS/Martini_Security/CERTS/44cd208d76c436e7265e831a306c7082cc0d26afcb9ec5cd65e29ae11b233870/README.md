@@ -2,16 +2,18 @@
 
 ## Certificate SHAKEN 685K
 
-Tested At: 21 Nov 23 17:12 UTC\
+Tested At: 24 Nov 23 11:14 UTC\
 Initial Validity Period: 14 day(s)\
-Remaining Validity Period: -69 day(s)\
+Remaining Validity Period: -72 day(s)\
 Subject: O=Net Speak Pro LLC, C=US, serialNumber=DCB401458A91CCB6AA634FE00169183B, CN=SHAKEN 685K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/CJ4hqjr5u7ao.pem
 
 [View certificate details](https://understandingwebpki.com/?cert=MIICujCCAl%2BgAwIBAgIUCJ4hqjr5u7aoMXRE6kyEeZkswlkwCgYIKoZIzj0EAwIwcTELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAldBMRAwDgYDVQQHEwdTZWF0dGxlMR4wHAYDVQQKExVNYXJ0aW5pIFNlY3VyaXR5LCBMTEMxIzAhBgNVBAMTGk1hcnRpbmkgU2VjdXJpdHkgU0hBS0VOIEcyMB4XDTIzMDgyOTIyMDkyMFoXDTIzMDkxMjIxNTI1M1owajEUMBIGA1UEAxMLU0hBS0VOIDY4NUsxKTAnBgNVBAUTIERDQjQwMTQ1OEE5MUNDQjZBQTYzNEZFMDAxNjkxODNCMQswCQYDVQQGEwJVUzEaMBgGA1UEChMRTmV0IFNwZWFrIFBybyBMTEMwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATkDLXk9FNvA3zmjjn%2FLL57BDQd88ezgl2evzi%2BzZbGQ9%2FaiabijX6xB0c08YPEuL6EIcajD%2Fz4JfNDzIIVJd1Zo4HbMIHYMA4GA1UdDwEB%2FwQEAwIHgDAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBS2xN5l%2BDBea5Vs%2FobqyZ2%2B5UgSijAfBgNVHSMEGDAWgBQohFBe5EN4LNBzs4sb%2FaTMFmKYGDAWBggrBgEFBQcBGgQKMAigBhYENjg1SzBHBgNVHR8EQDA%2BMDygOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmwwFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEDMAoGCCqGSM49BAMCA0kAMEYCIQDqz4tfYS%2Bmmvgdo8BHmB7EC%2B2VasEu2%2Fdaz7QokuF70AIhAJ41%2FSvERcEELLqqy%2FtaF9ODVNFatelnshKyGKuxMzXh)
 
-160 tests were ran and no error, warning, or notice level issues were found
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

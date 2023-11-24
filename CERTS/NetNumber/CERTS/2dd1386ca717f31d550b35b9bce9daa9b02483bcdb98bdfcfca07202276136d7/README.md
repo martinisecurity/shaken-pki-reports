@@ -2,9 +2,9 @@
 
 ## Certificate NetNumber SHAKEN Root CA 1
 
-Tested At: 21 Nov 23 17:16 UTC\
+Tested At: 24 Nov 23 11:17 UTC\
 Initial Validity Period: 9125 day(s)\
-Remaining Validity Period: 8341 day(s)\
+Remaining Validity Period: 8338 day(s)\
 Subject: L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN Root CA 1\
 Issuer: L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN Root CA 1
 
@@ -12,21 +12,21 @@ Issuer: L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber 
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_ca_subject_public_key](../../ISSUES/e_atis_ca_subject_public_key/README.md) | error | ATIS1000080 | Subject Public Key Info field contains a public key that is not 256 bits |
-| [e_atis_ca_signature_algorithm](../../ISSUES/e_atis_ca_signature_algorithm/README.md) | error | ATIS1000080 | SignatureAlgorithm field is not 'ecdsa-with-SHA256', got 1.2.840.10045.4.3.4 |
+| [e_atis_subject_public_key_ca](../../ISSUES/e_atis_subject_public_key_ca/README.md) | error | ATIS1000080 | Subject Public Key Info field contains a public key that is not 256 bits |
+| [e_atis_signature_algorithm_ca](../../ISSUES/e_atis_signature_algorithm_ca/README.md) | error | ATIS1000080 | SignatureAlgorithm field is not 'ecdsa-with-SHA256', got 1.2.840.10045.4.3.4 |
 
 ### Not Effective
 
-- e_atis_ca_ext_not_specified
-- e_atis_ca_serial_number_size
-- e_atis_ca_subject_c_iso
-- e_atis_ca_subject_key_identifier_size
-- e_atis_ca_subject_o_required
 - e_atis_ext_certificate_policies_root
 - e_atis_ext_crl_distribution_root
+- e_atis_ext_not_specified_ca
+- e_atis_serial_number_size_ca
+- e_atis_subject_c_iso_ca
 - e_atis_subject_cn_root
+- e_atis_subject_key_identifier_size_ca
+- e_atis_subject_o_required_ca
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

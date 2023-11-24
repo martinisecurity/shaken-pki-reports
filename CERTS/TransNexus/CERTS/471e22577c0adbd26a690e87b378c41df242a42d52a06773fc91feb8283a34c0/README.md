@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 737J
+
+Tested At: 24 Nov 23 11:13 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 238 day(s)\
+Subject: CN=SHAKEN 737J, O=US Internet Corp, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://sti.ravon.net/c/737J_2023-07-19
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC0DCCAnagAwIBAgIQSlN%2Bx3Cr4XB%2BcAhTFlGiazAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwNzE5MTUxOTA4WhcNMjQwNzE4MTUxOTA3WjA%2BMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVVMgSW50ZXJuZXQgQ29ycDEUMBIGA1UEAxMLU0hBS0VOIDczN0owWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQm1i0gyvJGVk9RGEy4XJ%2FpbVK1bnxuCdZX1liR5xWIc8VE6PFV2xjR9kEFiKkk9kj2l4IIAADg2kIyjk03rufDo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFGGImxK9aDNq3Yviyy1S2EqgUr%2BJMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDczN0owCgYIKoZIzj0EAwIDSAAwRQIhANUHb0Q1c6SIY3Xm1QSEOjADlR6ZWr7wfdIeUQvcZwk%2FAiAFPAQDwQiX%2BIB5F7IFOYJU6PjXIrL4rU%2BzDQohisdpaA%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 24 Nov 23 11:17 UTC

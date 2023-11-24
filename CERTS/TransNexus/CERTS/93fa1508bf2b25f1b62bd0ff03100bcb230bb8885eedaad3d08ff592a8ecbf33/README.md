@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0753
 
-Tested At: 21 Nov 23 16:43 UTC\
+Tested At: 24 Nov 23 11:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -56 day(s)\
+Remaining Validity Period: -59 day(s)\
 Subject: CN=SHAKEN 0753, O=Endeavor Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/426afef5-4cac-437d-817b-671ec10e028a/b8b455f91914f854c9eec89ef4f86001.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/426afef5-4cac-437d-817b-671ec10e028a/b8b4
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

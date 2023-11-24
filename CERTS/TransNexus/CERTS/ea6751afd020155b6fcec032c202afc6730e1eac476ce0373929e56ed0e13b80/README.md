@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 806J
 
-Tested At: 21 Nov 23 16:43 UTC\
+Tested At: 24 Nov 23 11:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -197 day(s)\
+Remaining Validity Period: -200 day(s)\
 Subject: CN=SHAKEN 806J, O=Converged Networks, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/50f33dd9-032e-4c8b-8683-e4125228e2b8/603a99d5336bb27b5968832c53c4b76b.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/50f33dd9-032e-4c8b-8683-e4125228e2b8/603a
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

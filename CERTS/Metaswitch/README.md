@@ -9,12 +9,12 @@
 
 #### Leaf Certificates
 
-- 110 certificates were included in the corpus being tested
-- 39 certificates in the corpus were skipped because they are duplicates
+- 111 certificates were included in the corpus being tested
+- 40 certificates in the corpus were skipped because they are duplicates
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
 - 71 certificates being tested against the remaining rules
-- 1.85 issues on average found in unexpired, trusted, and non-compliant certificates
+- 2.25 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
@@ -27,8 +27,8 @@
 
 | Instances | Test | Source |
 |-----------|------|--------|
+| 30 | [e_atis_ext_crl_distribution_struct](ISSUES/e_atis_ext_crl_distribution_struct/README.md) | ATIS1000080 |
 | 71 | [e_atis_ext_key_usage_ee](ISSUES/e_atis_ext_key_usage_ee/README.md) | ATIS1000080 |
-| 1 | [e_atis_subject](ISSUES/e_atis_subject/README.md) | ATIS1000080 |
 | 3 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
 | 26 | [e_atis_subject_cn_spc](ISSUES/e_atis_subject_cn_spc/README.md) | ATIS1000080 |
 | 30 | [e_us_cp_subject_sn_shall](ISSUES/e_us_cp_subject_sn_shall/README.md) | US_SHAKEN_CP |
@@ -51,11 +51,11 @@
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 1 | [e_atis_ca_subject_c_iso](ISSUES/e_atis_ca_subject_c_iso/README.md) | ATIS1000080 |
-| 3 | [e_atis_ca_subject_dn](ISSUES/e_atis_ca_subject_dn/README.md) | ATIS1000080 |
-| 1 | [e_atis_ca_subject_o_required](ISSUES/e_atis_ca_subject_o_required/README.md) | ATIS1000080 |
 | 1 | [e_atis_ext_certificate_policies_ca](ISSUES/e_atis_ext_certificate_policies_ca/README.md) | ATIS1000080 |
 | 1 | [e_atis_ext_crl_distribution_ca](ISSUES/e_atis_ext_crl_distribution_ca/README.md) | ATIS1000080 |
+| 1 | [e_atis_subject_c_iso_ca](ISSUES/e_atis_subject_c_iso_ca/README.md) | ATIS1000080 |
+| 3 | [e_atis_subject_dn_ca](ISSUES/e_atis_subject_dn_ca/README.md) | ATIS1000080 |
+| 1 | [e_atis_subject_o_required_ca](ISSUES/e_atis_subject_o_required_ca/README.md) | ATIS1000080 |
 | 1 | [e_shaken_certificate_policies_id_ca](ISSUES/e_shaken_certificate_policies_id_ca/README.md) | US_SHAKEN_CP |
 
 ### Details
@@ -145,4 +145,4 @@
 | 10&#160;Feb&#160;23&#160;14:38&#160;UTC | Metaswitch STI-CA SHAKEN Issuing 1 | 07&#160;Feb&#160;35&#160;14:38&#160;UTC | true | [view](CERTS/8a7fb50e95b8c43a63d19e2f279de565fa611ae3f24a14f82394e3208782be7a/README.md) |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

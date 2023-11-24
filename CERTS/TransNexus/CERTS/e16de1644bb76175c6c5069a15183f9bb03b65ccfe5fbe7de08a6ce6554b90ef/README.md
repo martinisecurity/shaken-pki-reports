@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 014E
 
-Tested At: 21 Nov 23 16:42 UTC\
+Tested At: 24 Nov 23 11:01 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -62 day(s)\
+Remaining Validity Period: -65 day(s)\
 Subject: CN=SHAKEN 014E, O=IdeaTek Telcom, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/1d654fd0-a496-463d-87c0-7fef44ec35c9/c75992d3027433a466ed12ada6cdcbb8.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/1d654fd0-a496-463d-87c0-7fef44ec35c9/c759
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC

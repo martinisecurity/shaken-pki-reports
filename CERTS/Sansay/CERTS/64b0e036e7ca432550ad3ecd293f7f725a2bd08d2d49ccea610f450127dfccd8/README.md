@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN SouthPoint Communications 205k
 
-Tested At: 21 Nov 23 16:49 UTC\
+Tested At: 24 Nov 23 11:07 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -208 day(s)\
+Remaining Validity Period: -210 day(s)\
 Subject: emailAddress=chris.duncan@soundcurve.com, CN=SHAKEN SouthPoint Communications 205k, OU=Operations, O=SouthPoint Communications, ST=California, C=US, emailAddress=chris.duncan@soundcurve.com\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/205k/order/247_205k_99
@@ -13,9 +13,10 @@ Link: https://cr.sansay.com/205k/order/247_205k_99
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 205k' |
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 | [e_atis_tn_auth_list_spc_format](../../ISSUES/e_atis_tn_auth_list_spc_format/README.md) | error | ATIS1000080 | the SPC value '205k' contains characters other than uppercase letters and numbers |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 205k', but common name is 'SHAKEN SouthPoint Communications 205k' |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 21 Nov 23 17:16 UTC
+Generated: 24 Nov 23 11:17 UTC
