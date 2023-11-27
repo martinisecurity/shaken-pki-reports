@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 219ms average time it took to download each certificate
+- 297ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://sip.alinephonesystems.com/stirshaken/644K.chain.crt.pem` | 26&#160;Sep&#160;24&#160;17:50&#160;UTC | true | [view](REPOS/8fc018f927a44b3af08c8268ca9353a45591f7c9/README.md) |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

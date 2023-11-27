@@ -2,18 +2,16 @@
 
 ## Certificate SHAKEN 738J
 
-Tested At: 24 Nov 23 11:15 UTC\
+Tested At: 27 Nov 23 22:54 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: -44 day(s)\
+Remaining Validity Period: -48 day(s)\
 Subject: O=BCM One Cloud Communications\\, LLC, C=US, serialNumber=453DF86530E69FA5DAE57F610A35DBA3, CN=SHAKEN 738J\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/TpySfOz56Ot7.pem
 
 [View certificate details](https://understandingwebpki.com/?cert=MIICyTCCAm%2BgAwIBAgIUTpySfOz56Ot7itSdqslMk4yDIDMwCgYIKoZIzj0EAwIwcTELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAldBMRAwDgYDVQQHEwdTZWF0dGxlMR4wHAYDVQQKExVNYXJ0aW5pIFNlY3VyaXR5LCBMTEMxIzAhBgNVBAMTGk1hcnRpbmkgU2VjdXJpdHkgU0hBS0VOIEcyMB4XDTIzMDcxMjEyMDAyN1oXDTIzMTAxMDEyMDAyN1owejEUMBIGA1UEAxMLU0hBS0VOIDczOEoxKTAnBgNVBAUTIDQ1M0RGODY1MzBFNjlGQTVEQUU1N0Y2MTBBMzVEQkEzMQswCQYDVQQGEwJVUzEqMCgGA1UEChMhQkNNIE9uZSBDbG91ZCBDb21tdW5pY2F0aW9ucywgTExDMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEjjxFQYvGPcTa0Jg%2FUi3NBeAnu2ZDZwcVl0Rfp4IPFxPdpuDTBaJDwyKHH4GE%2Fqh6fU0B0zSH40dl0BSpfPzLkKOB2zCB2DAOBgNVHQ8BAf8EBAMCB4AwDAYDVR0TAQH%2FBAIwADAdBgNVHQ4EFgQUcuTuIxdm4LR5ZIWUKR0WSgDR1JwwHwYDVR0jBBgwFoAUKIRQXuRDeCzQc7OLG%2F2kzBZimBgwFgYIKwYBBQUHARoECjAIoAYWBDczOEowRwYDVR0fBEAwPjA8oDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzAKBggqhkjOPQQDAgNIADBFAiACxe7hQ%2BcaDNu8i%2FF1ddwYIXhOXZlMlSLa3cS%2BkA6IxQIhANmOHZMU0rR0oWYlkRv2KXLQ08fu0tU%2FqzopiFX%2FQ8yN)
 
-| Code | Type | Source | Details |
-|------|------|--------|---------|
-| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

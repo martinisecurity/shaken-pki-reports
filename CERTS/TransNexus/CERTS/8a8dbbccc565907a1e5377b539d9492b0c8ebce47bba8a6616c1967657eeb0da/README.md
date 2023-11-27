@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 314K
 
-Tested At: 24 Nov 23 11:04 UTC\
+Tested At: 27 Nov 23 22:24 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -340 day(s)\
+Remaining Validity Period: -344 day(s)\
 Subject: CN=SHAKEN 314K, O=Proclaim Voip, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/af41d000-7fb7-42d7-83f7-9686b67ecb60/d2e58b902ef605acb1a307d9f5f026ca.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/af41d000-7fb7-42d7-83f7-9686b67ecb60/d2e5
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

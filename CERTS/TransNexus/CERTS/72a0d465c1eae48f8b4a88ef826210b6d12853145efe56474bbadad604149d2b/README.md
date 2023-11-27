@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 738J
 
-Tested At: 24 Nov 23 11:06 UTC\
+Tested At: 27 Nov 23 22:26 UTC\
 Initial Validity Period: 9 day(s)\
-Remaining Validity Period: -8 day(s)\
+Remaining Validity Period: -12 day(s)\
 Subject: CN=SHAKEN 738J, O=SkySwitch, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/738J/04b31108-601c-44f1-b035-1328ea49d767.pem
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/738J/04b31108-601c-44f1-b035-1328ea49d
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 991T
 
-Tested At: 24 Nov 23 11:06 UTC\
+Tested At: 27 Nov 23 22:27 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 100 day(s)\
+Remaining Validity Period: 96 day(s)\
 Subject: CN=SHAKEN 991T, OU=VOIP, O=kmsUScertco, L=RESTON, ST=US, C=US\
 Issuer: CN=Neustar UAT Certified Caller ID SHAKEN CA-2, OU=www.ccid-uat.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-uat.ccid.neustar.biz/ccid/authn/v2/certs/11646.10221.pem
@@ -25,4 +25,4 @@ Link: https://cr-uat.ccid.neustar.biz/ccid/authn/v2/certs/11646.10221.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate TransNexus, Inc. SHAKEN Issuing CA3
 
-Tested At: 24 Nov 23 11:16 UTC\
+Tested At: 27 Nov 23 22:55 UTC\
 Initial Validity Period: 3652 day(s)\
-Remaining Validity Period: 2826 day(s)\
+Remaining Validity Period: 2823 day(s)\
 Subject: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Root CA1, OU=SHAKEN, O=TransNexus\\, Inc., C=US
 
@@ -16,7 +16,6 @@ Issuer: CN=TransNexus\\, Inc. SHAKEN Root CA1, OU=SHAKEN, O=TransNexus\\, Inc., 
 
 ### Not Effective
 
-- e_atis_ext_crl_distribution_struct_ca
 - e_atis_ext_not_specified_ca
 - e_atis_serial_number_size_ca
 - e_atis_subject_c_iso_ca
@@ -26,4 +25,4 @@ Issuer: CN=TransNexus\\, Inc. SHAKEN Root CA1, OU=SHAKEN, O=TransNexus\\, Inc., 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

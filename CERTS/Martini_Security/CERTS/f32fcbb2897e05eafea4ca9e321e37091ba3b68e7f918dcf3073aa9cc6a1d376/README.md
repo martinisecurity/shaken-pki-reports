@@ -2,16 +2,16 @@
 
 ## Certificate SHAKEN 073K
 
-Tested At: 24 Nov 23 11:15 UTC\
+Tested At: 27 Nov 23 22:53 UTC\
 Initial Validity Period: 27 day(s)\
-Remaining Validity Period: -29 day(s)\
+Remaining Validity Period: -33 day(s)\
 Subject: O=ACS Business Systems\\, Inc., C=US, serialNumber=2B6CC8DE884C926DAD71326773AA8BE4, CN=SHAKEN 073K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/N4W-FosYbjR0.pem
 
 [View certificate details](https://understandingwebpki.com/?cert=MIIDIzCCAsqgAwIBAgIUN4W%2BFosYbjR0PetbRptnYCvogg0wCgYIKoZIzj0EAwIwcTELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAldBMRAwDgYDVQQHEwdTZWF0dGxlMR4wHAYDVQQKExVNYXJ0aW5pIFNlY3VyaXR5LCBMTEMxIzAhBgNVBAMTGk1hcnRpbmkgU2VjdXJpdHkgU0hBS0VOIEcyMB4XDTIzMDkyODIxMDgzOVoXDTIzMTAyNTIwNDYxOFowczEUMBIGA1UEAxMLU0hBS0VOIDA3M0sxKTAnBgNVBAUTIDJCNkNDOERFODg0QzkyNkRBRDcxMzI2NzczQUE4QkU0MQswCQYDVQQGEwJVUzEjMCEGA1UEChMaQUNTIEJ1c2luZXNzIFN5c3RlbXMsIEluYy4wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASw0wSm9uKm3oDhuQyOPmdGeyWRsOCesPH0SLsmgJVc8jMDhV8V5t6m9fGpPuAT7cMjOw7lDAGfH43CiQ13DKWuo4IBPDCCATgwDgYDVR0PAQH%2FBAQDAgeAMAwGA1UdEwEB%2FwQCMAAwHQYDVR0OBBYEFI%2FZ3skc1XQvaDwPvxrHvMjyit4oMB8GA1UdIwQYMBaAFCiEUF7kQ3gs0HOzixv9pMwWYpgYMBYGCCsGAQUFBwEaBAowCKAGFgQwNzNLMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcTC0JyaWRnZXdhdGVyMQswCQYDVQQIEwJOSjETMBEGA1UEAxMKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoTBlNUSS1QQTAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwCgYIKoZIzj0EAwIDRwAwRAIgTdd4CTBPOFZmAI33pAgbmI6r0jRuYgT9%2BqcP5F%2Bzy8QCIBLtu4dSfkkX6%2BcqLYval%2FPf3jE7obB5AvQTJO73IGZC)
 
-163 tests were ran and no error, warning, or notice level issues were found
+164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

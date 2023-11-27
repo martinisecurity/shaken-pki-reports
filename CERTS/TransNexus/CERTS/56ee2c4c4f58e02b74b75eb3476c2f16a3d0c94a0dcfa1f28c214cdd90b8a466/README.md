@@ -2,9 +2,9 @@
 
 ## Certificate TransNexus Issuing CA G2
 
-Tested At: 24 Nov 23 11:16 UTC\
+Tested At: 27 Nov 23 22:55 UTC\
 Initial Validity Period: 4383 day(s)\
-Remaining Validity Period: 3268 day(s)\
+Remaining Validity Period: 3265 day(s)\
 Subject: CN=TransNexus Issuing CA G2, OU=Certification Authorities, O=TransNexus, C=US\
 Issuer: CN=TransNexus Root CA G2, OU=Certification Authorities, O=TransNexus, C=US
 
@@ -27,4 +27,4 @@ Issuer: CN=TransNexus Root CA G2, OU=Certification Authorities, O=TransNexus, C=
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

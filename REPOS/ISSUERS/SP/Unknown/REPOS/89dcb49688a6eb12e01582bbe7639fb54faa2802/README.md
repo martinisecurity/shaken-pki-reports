@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://www.voipessential.com/shaken/DFE323WW43Q656QWLMD`\
-Tested At: 24 Nov 23 11:14 UTC\
-Time: 305ms
+Tested At: 27 Nov 23 22:52 UTC\
+Time: 138ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 305ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

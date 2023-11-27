@@ -2,9 +2,9 @@
 
 ## Certificate MAQSolutions SHAKEN 255K
 
-Tested At: 24 Nov 23 11:10 UTC\
+Tested At: 27 Nov 23 22:47 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -21 day(s)\
+Remaining Validity Period: -25 day(s)\
 Subject: CN=MAQSolutions SHAKEN 255K, O=MAQS SOLUTIONS LLC, L=Delaware, ST=DE, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://dial.maqssolution.live/255KON23.pem
@@ -16,4 +16,4 @@ Link: https://dial.maqssolution.live/255KON23.pem
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

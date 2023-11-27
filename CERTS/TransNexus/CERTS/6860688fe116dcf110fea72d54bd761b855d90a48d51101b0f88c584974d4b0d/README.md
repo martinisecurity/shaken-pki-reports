@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 749J
 
-Tested At: 24 Nov 23 11:04 UTC\
+Tested At: 27 Nov 23 22:25 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -367 day(s)\
+Remaining Validity Period: -371 day(s)\
 Subject: CN=SHAKEN 749J, OU=SHAKEN, O=iTalkGlobal, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/d7bfa171-ff4f-483d-849b-3f987c919d43/1df6267275cf78943a25d7cfe8e44f62.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/d7bfa171-ff4f-483d-849b-3f987c919d43/1df6
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

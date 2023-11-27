@@ -2,15 +2,15 @@
 
 ## Certificate SHAKEN Sansay Root CA US
 
-Tested At: 24 Nov 23 11:17 UTC\
+Tested At: 27 Nov 23 22:56 UTC\
 Initial Validity Period: 7300 day(s)\
-Remaining Validity Period: 6110 day(s)\
+Remaining Validity Period: 6107 day(s)\
 Subject: CN=SHAKEN Sansay Root CA US, OU=Sansay CA, O=Sansay Corporation, L=San Diego, ST=California, C=US\
 Issuer: CN=SHAKEN Sansay Root CA US, OU=Sansay CA, O=Sansay Corporation, L=San Diego, ST=California, C=US
 
 [View certificate details](https://understandingwebpki.com/?cert=MIICUDCCAfWgAwIBAgIJAJkgyGgxR4kNMAoGCCqGSM49BAMCMIGKMQswCQYDVQQGEwJVUzETMBEGA1UECAwKQ2FsaWZvcm5pYTESMBAGA1UEBwwJU2FuIERpZWdvMRswGQYDVQQKDBJTYW5zYXkgQ29ycG9yYXRpb24xEjAQBgNVBAsMCVNhbnNheSBDQTEhMB8GA1UEAwwYU0hBS0VOIFNhbnNheSBSb290IENBIFVTMB4XDTIwMDgyMTAxMjIwNFoXDTQwMDgxNjAxMjIwNFowgYoxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9ybmlhMRIwEAYDVQQHDAlTYW4gRGllZ28xGzAZBgNVBAoMElNhbnNheSBDb3Jwb3JhdGlvbjESMBAGA1UECwwJU2Fuc2F5IENBMSEwHwYDVQQDDBhTSEFLRU4gU2Fuc2F5IFJvb3QgQ0EgVVMwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASOkTqogGQs88fIZEkSWFOrBiQHhV10YenZr86BmkYb131nPE8AJVF3diojafQYMKKFdP8qA4hssBxW9yW9iG8Po0IwQDAdBgNVHQ4EFgQUCq7%2FlvCbQaO9332%2FbdpFqOgEG7kwDwYDVR0TAQH%2FBAUwAwEB%2FzAOBgNVHQ8BAf8EBAMCAgQwCgYIKoZIzj0EAwIDSQAwRgIhAPTTm0wwyVjLrrwl20kbOgNMNVjAwLtcv6CnxWhoT20uAiEAuc9rBh4u%2Bs9GBKU6R2PXFnQ7ViZsZyZ5uyrP8VY%2Fdjo%3D)
 
-163 tests were ran and no error, warning, or notice level issues were found
+164 tests were ran and no error, warning, or notice level issues were found
 
 ### Not Effective
 
@@ -38,4 +38,4 @@ Issuer: CN=SHAKEN Sansay Root CA US, OU=Sansay CA, O=Sansay Corporation, L=San D
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

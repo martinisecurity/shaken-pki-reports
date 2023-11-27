@@ -2,15 +2,15 @@
 
 ## Certificate Comcast SHAKEN Intermediate CA
 
-Tested At: 24 Nov 23 11:17 UTC\
+Tested At: 27 Nov 23 22:56 UTC\
 Initial Validity Period: 7000 day(s)\
-Remaining Validity Period: 5674 day(s)\
+Remaining Validity Period: 5670 day(s)\
 Subject: CN=Comcast SHAKEN Intermediate CA, O=Comcast, ST=Pennsylvania, C=US\
 Issuer: CN=Comcast SHAKEN Root CA, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US
 
 [View certificate details](https://understandingwebpki.com/?cert=MIICIDCCAcagAwIBAgICEAIwCgYIKoZIzj0EAwIwbjELMAkGA1UEBhMCVVMxFTATBgNVBAgMDFBlbm5zeWx2YW5pYTEVMBMGA1UEBwwMUGhpbGFkZWxwaGlhMRAwDgYDVQQKDAdDb21jYXN0MR8wHQYDVQQDDBZDb21jYXN0IFNIQUtFTiBSb290IENBMB4XDTIwMDQwNjEzNDgzMFoXDTM5MDYwNjEzNDgzMFowXzELMAkGA1UEBhMCVVMxFTATBgNVBAgMDFBlbm5zeWx2YW5pYTEQMA4GA1UECgwHQ29tY2FzdDEnMCUGA1UEAwweQ29tY2FzdCBTSEFLRU4gSW50ZXJtZWRpYXRlIENBMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEFm8KIZEQBTAyvtTSQGrhSLUteUroEc7BOk8jjsnRK68HJiJRnNF%2BymUObx8t0zQ89YTrIu8Kdn91JEIBBtfwK6NjMGEwHQYDVR0OBBYEFL%2BOHGBVJMURSM9CRUS%2FsPQ6K%2BYoMB8GA1UdIwQYMBaAFJGQyrGGDk8WXr61N1E%2FaXnlIxscMA8GA1UdEwEB%2FwQFMAMBAf8wDgYDVR0PAQH%2FBAQDAgIEMAoGCCqGSM49BAMCA0gAMEUCIQCDqdriNDQQRzliTU%2FManJXY74z2NMQjmrRn4Uld180LQIgJDpxoJ3uHAH833qoy%2FacrVxSaegS9Em8Mc3h8AwXXuM%3D)
 
-163 tests were ran and no error, warning, or notice level issues were found
+164 tests were ran and no error, warning, or notice level issues were found
 
 ### Not Effective
 
@@ -38,4 +38,4 @@ Issuer: CN=Comcast SHAKEN Root CA, O=Comcast, L=Philadelphia, ST=Pennsylvania, C
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

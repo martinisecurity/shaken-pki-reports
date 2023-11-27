@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN VOICE1 LLC 265K
 
-Tested At: 24 Nov 23 11:09 UTC\
+Tested At: 27 Nov 23 22:46 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 329 day(s)\
+Remaining Validity Period: 325 day(s)\
 Subject: CN=SHAKEN VOICE1 LLC 265K, OU=SYSOPS, O=VOICE1 LLC, ST=Oregon, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/VOICE1_LLC_265K
@@ -13,9 +13,8 @@ Link: https://cr.sansay.com/VOICE1_LLC_265K
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 265K', but common name is 'SHAKEN VOICE1 LLC 265K' |
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

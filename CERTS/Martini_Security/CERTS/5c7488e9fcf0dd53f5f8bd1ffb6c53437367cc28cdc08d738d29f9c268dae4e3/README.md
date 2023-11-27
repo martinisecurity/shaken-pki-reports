@@ -2,18 +2,16 @@
 
 ## Certificate SHAKEN 709J
 
-Tested At: 24 Nov 23 11:14 UTC\
+Tested At: 27 Nov 23 22:53 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: -116 day(s)\
+Remaining Validity Period: -120 day(s)\
 Subject: O=LOW LATENCY COMMUNICATIONS LLC, C=US, serialNumber=010AB111E86828C72B450E97A828825E, CN=SHAKEN 709J\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/DQigDzrz-J4D.pem
 
 [View certificate details](https://understandingwebpki.com/?cert=MIICxjCCAmygAwIBAgIUDQigDzrz%2BJ4DJdPMBpQs8K%2B%2FI2gwCgYIKoZIzj0EAwIwcTELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAldBMRAwDgYDVQQHEwdTZWF0dGxlMR4wHAYDVQQKExVNYXJ0aW5pIFNlY3VyaXR5LCBMTEMxIzAhBgNVBAMTGk1hcnRpbmkgU2VjdXJpdHkgU0hBS0VOIEcyMB4XDTIzMDUwMTE5MDIwNVoXDTIzMDczMDE5MDIwNVowdzEUMBIGA1UEAxMLU0hBS0VOIDcwOUoxKTAnBgNVBAUTIDAxMEFCMTExRTg2ODI4QzcyQjQ1MEU5N0E4Mjg4MjVFMQswCQYDVQQGEwJVUzEnMCUGA1UEChMeTE9XIExBVEVOQ1kgQ09NTVVOSUNBVElPTlMgTExDMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOwekWWRcwaeYJTQw%2BpmbgZyQDNMCgq6jL5Iln7v92jeur%2F1CkpAWRMKYLzoTJkYZp1nKHo6GuN%2FJzsv0A%2F942qOB2zCB2DAOBgNVHQ8BAf8EBAMCB4AwDAYDVR0TAQH%2FBAIwADAdBgNVHQ4EFgQUsznKnug3pfWuXpSPpTudgWCQo4IwHwYDVR0jBBgwFoAUKIRQXuRDeCzQc7OLG%2F2kzBZimBgwFgYIKwYBBQUHARoECjAIoAYWBDcwOUowRwYDVR0fBEAwPjA8oDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzAKBggqhkjOPQQDAgNIADBFAiEAr47b3p9lJqh9MnllmH%2F9PK2UU52GwqqC05eUnQ%2BTnZUCICBXsjtUTHd3sxx2B91urhCE1YyzmSH0Y8cVdsDnkVzF)
 
-| Code | Type | Source | Details |
-|------|------|--------|---------|
-| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 866J
 
-Tested At: 24 Nov 23 11:06 UTC\
+Tested At: 27 Nov 23 22:26 UTC\
 Initial Validity Period: 180 day(s)\
-Remaining Validity Period: -278 day(s)\
+Remaining Validity Period: -281 day(s)\
 Subject: CN=SHAKEN 866J, OU=SHAKEN, O=VocalIP, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/866J/6442b809-7dbd-4be7-9b98-a8ec96d005ea.pem
@@ -26,4 +26,4 @@ Link: https://certificates.transnexus.com/866J/6442b809-7dbd-4be7-9b98-a8ec96d00
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Sansay Intermediate CA Canada 1
 
-Tested At: 24 Nov 23 11:16 UTC\
+Tested At: 27 Nov 23 22:55 UTC\
 Initial Validity Period: 3285 day(s)\
-Remaining Validity Period: 2683 day(s)\
+Remaining Validity Period: 2679 day(s)\
 Subject: CN=SHAKEN Sansay Intermediate CA Canada 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Issuer: CN=SHAKEN Sansay Root CA Canada, OU=Sansay CA, O=Sansay Corporation, L=San Diego, ST=California, C=US
 
@@ -13,7 +13,6 @@ Issuer: CN=SHAKEN Sansay Root CA Canada, OU=Sansay CA, O=Sansay Corporation, L=S
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_shaken_certificate_policies_id_ca](../../ISSUES/e_shaken_certificate_policies_id_ca/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
-| [e_atis_ext_crl_distribution_struct_ca](../../ISSUES/e_atis_ext_crl_distribution_struct_ca/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 ### Not Effective
 
@@ -24,4 +23,4 @@ Issuer: CN=SHAKEN Sansay Root CA Canada, OU=Sansay CA, O=Sansay Corporation, L=S
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

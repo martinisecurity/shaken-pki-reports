@@ -2,9 +2,9 @@
 
 ## Certificate Apex Telecom LLC SHAKEN 288K
 
-Tested At: 24 Nov 23 11:11 UTC\
+Tested At: 27 Nov 23 22:48 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -22 day(s)\
+Remaining Validity Period: -25 day(s)\
 Subject: CN=Apex Telecom LLC SHAKEN 288K, O=Apex Telecom LLC, L=SALEM, ST=MA, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://s3.amazonaws.com/certificates.peeringhub.io/288K/288K.crt
@@ -25,4 +25,4 @@ Link: https://s3.amazonaws.com/certificates.peeringhub.io/288K/288K.crt
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

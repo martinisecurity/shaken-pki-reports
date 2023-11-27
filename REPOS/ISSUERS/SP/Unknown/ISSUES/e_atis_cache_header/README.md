@@ -25,7 +25,6 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://cdn.cnxcdn.com/shaken/bedb8d0781.crt` |  | true | [view](../../REPOS/1d7d8d651012d03c21fb929a89b400c5bed3bff9/README.md) |
 | `https://cert2.sticr.att.net:8443/sti-cr/att-stica1661870921294-cert.crt` |  | true | [view](../../REPOS/1b1e3533177b65b2ec075ce13f8cb1ab77d996f6/README.md) |
 | `https://cert2.sticr.att.net:8443/sti-cr/att-stica1669224827804-cert.crt` |  | true | [view](../../REPOS/65bce14026acb07043fb1f2bce936071e23bebd8/README.md) |
-| `https://cert2.sticr.att.net:8443/sti-cr/att-stica1683567574984-cert.crt` |  | true | [view](../../REPOS/4f3540566a280856005a2a2784a22866ff8bd10d/README.md) |
 | `https://certs.sip.wtsky.net/prod/shaken-7-2024.cer` |  | true | [view](../../REPOS/ea4b2040120552c99b81d12bd391377525a380dc/README.md) |
 | `https://commtrunks.46labs.com/cert.pem` |  | true | [view](../../REPOS/93169ed4244a2f0b6f9ab8fd7deb44f4d2571207/README.md) |
 | `https://cr.veriswitch.com/amcom/cd3746aff04fc44f7b93bc7000d311e2.cer` |  | true | [view](../../REPOS/2ce9a86d155867d4f02f7880fa4f2809bff1e7e0/README.md) |
@@ -59,6 +58,7 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://netnumber-sti-cr.s3.amazonaws.com/certs/df3c165a-1571-4114-81c5-82e8266bb857` |  | true | [view](../../REPOS/8c05a67e8aa4a4c31fa22f018b4532307d5f7507/README.md) |
 | `https://netnumber-sti-cr.s3.amazonaws.com/certs/f4fc911b-5676-4cdc-9722-cbcae0cbb55f` |  | true | [view](../../REPOS/32299d797966c0e4a84336069669767e64eaaf92/README.md) |
 | `https://primodialer.46labs.com/primodialer.pem/` |  | true | [view](../../REPOS/9b1d46a9e63867c6a22819ce7488e675076f44d3/README.md) |
+| `https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/gh-2022-12` |  | true | [view](../../REPOS/799823f17d04465ecde1c750b0ff457d62baa494/README.md) |
 | `https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/goto-2022-09` |  | true | [view](../../REPOS/28a6eaf4d52af268d2354802a3c6a6e7f8f568a4/README.md) |
 | `https://pvx1.s3.us-east-2.amazonaws.com/stirshaken/8448cc7eb8424d6ad5d2e6d71bcf6629.cer` |  | true | [view](../../REPOS/26f062c01a1c228b83b16b48345d3c0bcf6114b7/README.md) |
 | `https://shaken.spectrum.com/4d65efdb8a1ca366e9576c8fda747fa4.pem` |  | true | [view](../../REPOS/18cdd5acaf4706a8bff59aa0338843318ac4e3c1/README.md) |
@@ -70,4 +70,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://www.voipessential.com/shaken/DFE323WW43Q656QWLMD` |  | true | [view](../../REPOS/89dcb49688a6eb12e01582bbe7639fb54faa2802/README.md) |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

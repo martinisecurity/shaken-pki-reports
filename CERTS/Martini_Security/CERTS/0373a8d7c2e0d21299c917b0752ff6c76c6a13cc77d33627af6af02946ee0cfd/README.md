@@ -2,16 +2,16 @@
 
 ## Certificate SHAKEN 039K
 
-Tested At: 24 Nov 23 11:15 UTC\
+Tested At: 27 Nov 23 22:54 UTC\
 Initial Validity Period: 9 day(s)\
-Remaining Validity Period: -21 day(s)\
+Remaining Validity Period: -25 day(s)\
 Subject: O=Bluebird Wireless Broadband Services\\, LLC., C=US, serialNumber=C264D1B4BE6B7C7DBE44AB5EE8EC1053, CN=SHAKEN 039K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/Qhmpq5usUmdX.pem
 
 [View certificate details](https://understandingwebpki.com/?cert=MIIDNDCCAtugAwIBAgIUQhmpq5usUmdXO3okl%2FmccCFKQQowCgYIKoZIzj0EAwIwcTELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAldBMRAwDgYDVQQHEwdTZWF0dGxlMR4wHAYDVQQKExVNYXJ0aW5pIFNlY3VyaXR5LCBMTEMxIzAhBgNVBAMTGk1hcnRpbmkgU2VjdXJpdHkgU0hBS0VOIEcyMB4XDTIzMTAyNTA4NDkxMVoXDTIzMTEwMjE2MTExN1owgYMxFDASBgNVBAMTC1NIQUtFTiAwMzlLMSkwJwYDVQQFEyBDMjY0RDFCNEJFNkI3QzdEQkU0NEFCNUVFOEVDMTA1MzELMAkGA1UEBhMCVVMxMzAxBgNVBAoTKkJsdWViaXJkIFdpcmVsZXNzIEJyb2FkYmFuZCBTZXJ2aWNlcywgTExDLjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABM1Gv5breb%2ByQrBuaLTGr4pwPP%2BURoGy3FLfmb2pg8g4zhmxwq9yVi7fHu2qhVyhuSVJrPUdJoN%2FvaWCW87e1BOjggE8MIIBODAOBgNVHQ8BAf8EBAMCB4AwDAYDVR0TAQH%2FBAIwADAdBgNVHQ4EFgQU%2BWTvKIMRmMnnu3aZr4hN7ifT0gcwHwYDVR0jBBgwFoAUKIRQXuRDeCzQc7OLG%2F2kzBZimBgwFgYIKwYBBQUHARoECjAIoAYWBDAzOUswgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBxMLQnJpZGdld2F0ZXIxCzAJBgNVBAgTAk5KMRMwEQYDVQQDEwpTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UEChMGU1RJLVBBMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzAKBggqhkjOPQQDAgNHADBEAiAsRaEO1A87w0xtmrfoFoEl4BgShY76LmoLr1XWN1uyAgIgFcPadjA5C7xkF6EhRQyFdQkPOyj4yVP4kUneWaYzx%2FM%3D)
 
-163 tests were ran and no error, warning, or notice level issues were found
+164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 847J
 
-Tested At: 24 Nov 23 11:11 UTC\
+Tested At: 27 Nov 23 22:49 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 42 day(s)\
+Remaining Validity Period: 38 day(s)\
 Subject: CN=SHAKEN 847J, O=LP Telecom, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/f78ed183727bad58dd63a5a477a0deb116b83623
@@ -25,4 +25,4 @@ Link: https://ssc.getsipnav.com/certs/f78ed183727bad58dd63a5a477a0deb116b83623
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

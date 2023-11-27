@@ -13,4 +13,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://cdn.commpeak.com/sti/cmmpkusns.cer` | 07&#160;Sep&#160;23&#160;17:53&#160;UTC | true | [view](../../REPOS/ae6cc1da05e533ea437633b7834d991a47ef79df/README.md) |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

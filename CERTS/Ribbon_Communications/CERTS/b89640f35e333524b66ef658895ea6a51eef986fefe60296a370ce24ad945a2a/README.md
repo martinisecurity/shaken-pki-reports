@@ -2,9 +2,9 @@
 
 ## Certificate Haviland SHAKEN 5237
 
-Tested At: 24 Nov 23 11:11 UTC\
+Tested At: 27 Nov 23 22:48 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 20 day(s)\
+Remaining Validity Period: 16 day(s)\
 Subject: CN=Haviland SHAKEN 5237, OU=Support, O=Haviland, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/9f_1JJO7Rz/STI5237-684e51f5f56b220ae2d2a29a99fc377a
@@ -13,7 +13,6 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/9f_1JJO7Rz/STI5237-684e51f5f56b22
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 ### Not Effective
@@ -26,4 +25,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/9f_1JJO7Rz/STI5237-684e51f5f56b22
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

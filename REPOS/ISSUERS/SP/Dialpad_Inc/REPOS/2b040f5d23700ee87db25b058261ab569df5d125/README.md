@@ -3,8 +3,8 @@
 ## Dialpad Inc
 
 Name: `https://fst-20230823-3-dot-fstelephony.appspot.com/static/cert/shaken_identity_2023_1.cer`\
-Tested At: 24 Nov 23 11:10 UTC\
-Time: 64ms
+Tested At: 27 Nov 23 22:47 UTC\
+Time: 151ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 64ms
 |------|------|--------|---------|
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

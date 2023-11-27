@@ -2,9 +2,9 @@
 
 ## Certificate Telonium STI-CA Root2
 
-Tested At: 24 Nov 23 11:17 UTC\
+Tested At: 27 Nov 23 22:56 UTC\
 Initial Validity Period: 5478 day(s)\
-Remaining Validity Period: 5218 day(s)\
+Remaining Validity Period: 5214 day(s)\
 Subject: CN=Telonium STI-CA Root2, O=Telonium, C=US\
 Issuer: CN=Telonium STI-CA Root2, O=Telonium, C=US
 
@@ -17,4 +17,4 @@ Issuer: CN=Telonium STI-CA Root2, O=Telonium, C=US
 | [e_atis_subject_cn_ca](../../ISSUES/e_atis_subject_cn_ca/README.md) | error | ATIS1000080 | Common Name attribute 'Telonium STI-CA Root2' does not contain 'SHAKEN' |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

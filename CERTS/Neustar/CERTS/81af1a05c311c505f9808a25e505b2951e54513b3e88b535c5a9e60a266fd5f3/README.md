@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 036k
 
-Tested At: 24 Nov 23 11:06 UTC\
+Tested At: 27 Nov 23 22:26 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 233 day(s)\
+Remaining Validity Period: 229 day(s)\
 Subject: CN=SHAKEN 036k, O=Executive Telephony Solutions Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/160.416
@@ -17,4 +17,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/160.416
 | [e_atis_tn_auth_list_spc_format](../../ISSUES/e_atis_tn_auth_list_spc_format/README.md) | error | ATIS1000080 | the SPC value '036k' contains characters other than uppercase letters and numbers |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

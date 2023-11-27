@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 647K
 
-Tested At: 24 Nov 23 11:03 UTC\
+Tested At: 27 Nov 23 22:23 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -16 day(s)\
+Remaining Validity Period: -20 day(s)\
 Subject: CN=SHAKEN 647K, O=Zella Technologies, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/56bd35c5-7410-4a1d-9bf9-731e147e6d3d/80f7fcb46bc38f5e421b065030e41cfa.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/56bd35c5-7410-4a1d-9bf9-731e147e6d3d/80f7
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

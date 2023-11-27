@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 805J
 
-Tested At: 24 Nov 23 11:02 UTC\
+Tested At: 27 Nov 23 22:23 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -309 day(s)\
+Remaining Validity Period: -313 day(s)\
 Subject: CN=SHAKEN 805J, O=Fastmetrics, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/47fb6c89-4f44-4e6f-93a0-7aaff0469420/76febdda10d6c338c6b535fbe6f0a3fc.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/47fb6c89-4f44-4e6f-93a0-7aaff0469420/76fe
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

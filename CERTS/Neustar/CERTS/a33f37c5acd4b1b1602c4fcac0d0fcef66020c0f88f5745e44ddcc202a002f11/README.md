@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 473G
 
-Tested At: 24 Nov 23 11:07 UTC\
+Tested At: 27 Nov 23 22:28 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 135 day(s)\
+Remaining Validity Period: 131 day(s)\
 Subject: CN=SHAKEN 473G, O=Telengy LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11538.10154
@@ -16,4 +16,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11538.10154
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

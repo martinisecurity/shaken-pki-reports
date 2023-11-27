@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 2016
 
-Tested At: 24 Nov 23 11:11 UTC\
+Tested At: 27 Nov 23 22:48 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -77 day(s)\
+Remaining Validity Period: -81 day(s)\
 Subject: CN=SHAKEN 2016, O=Panhandle Telephone Cooperative Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Inc a TransUnion company, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/n3MWYpL4gz/PTCI-2016-2023
@@ -25,4 +25,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/n3MWYpL4gz/PTCI-2016-2023
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

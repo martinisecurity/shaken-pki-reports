@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN TeleVoIPs 138K
 
-Tested At: 24 Nov 23 11:09 UTC\
+Tested At: 27 Nov 23 22:46 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 313 day(s)\
+Remaining Validity Period: 309 day(s)\
 Subject: CN=SHAKEN TeleVoIPs 138K, OU=Corp, O=TeleVoIPs, ST=Florida, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/TeleVoIPs_138K
@@ -14,8 +14,7 @@ Link: https://cr.sansay.com/TeleVoIPs_138K
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 138K', but common name is 'SHAKEN TeleVoIPs 138K' |
-| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

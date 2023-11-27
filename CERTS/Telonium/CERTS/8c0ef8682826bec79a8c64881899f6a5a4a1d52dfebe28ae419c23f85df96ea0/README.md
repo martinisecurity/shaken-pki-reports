@@ -2,17 +2,15 @@
 
 ## Certificate Telonium SHAKEN Intermediate G1
 
-Tested At: 24 Nov 23 11:16 UTC\
+Tested At: 27 Nov 23 22:55 UTC\
 Initial Validity Period: 3653 day(s)\
-Remaining Validity Period: 3539 day(s)\
+Remaining Validity Period: 3535 day(s)\
 Subject: CN=Telonium SHAKEN Intermediate G1, O=Telonium Communications LLC, L=Atlanta, ST=GA, C=US\
 Issuer: CN=Telonium SHAKEN ROOT G1, O=Telonium Communications LLC, L=Atlanta, ST=GA, C=US
 
 [View certificate details](https://understandingwebpki.com/?cert=MIICrjCCAlSgAwIBAgIJAItvIPpgEtm5MAoGCCqGSM49BAMCMHQxCzAJBgNVBAYTAlVTMQswCQYDVQQIDAJHQTEQMA4GA1UEBwwHQXRsYW50YTEkMCIGA1UECgwbVGVsb25pdW0gQ29tbXVuaWNhdGlvbnMgTExDMSAwHgYDVQQDDBdUZWxvbml1bSBTSEFLRU4gUk9PVCBHMTAeFw0yMzA4MDExNjM2MjNaFw0zMzA4MDExNjM2MjNaMHwxCzAJBgNVBAYTAlVTMQswCQYDVQQIDAJHQTEQMA4GA1UEBwwHQXRsYW50YTEkMCIGA1UECgwbVGVsb25pdW0gQ29tbXVuaWNhdGlvbnMgTExDMSgwJgYDVQQDDB9UZWxvbml1bSBTSEFLRU4gSW50ZXJtZWRpYXRlIEcxMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEykMQezeIoSQVFbfQYUfMXmXIFIw9TxIN4WBlfatJD274CmGfds8JGxBNBxTRNIKetrlwLu84RtIr5yTxkBgTmaOBxjCBwzAPBgNVHRMBAf8EBTADAQH%2FMB0GA1UdDgQWBBSqJLv%2FFHVAeS2Hb%2BgNQXfKu82IsDAfBgNVHSMEGDAWgBQQogXr4agct5Yi2Teu9uwT2hfOVzAOBgNVHQ8BAf8EBAMCAgQwRwYDVR0fBEAwPjA8oDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzAKBggqhkjOPQQDAgNIADBFAiEA2fgFF89TVkxLh2b44YB3LlOLwnhGOblkp1v9pQ4wnz4CIFgodI2fzGb0%2Fdfmk32%2FXohGEas2n6TSzWw3yGP6TXBC)
 
-| Code | Type | Source | Details |
-|------|------|--------|---------|
-| [e_atis_ext_crl_distribution_struct_ca](../../ISSUES/e_atis_ext_crl_distribution_struct_ca/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

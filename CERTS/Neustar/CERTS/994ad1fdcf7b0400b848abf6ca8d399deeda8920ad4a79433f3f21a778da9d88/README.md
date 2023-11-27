@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 7914
 
-Tested At: 24 Nov 23 11:06 UTC\
+Tested At: 27 Nov 23 22:27 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 187 day(s)\
+Remaining Validity Period: 183 day(s)\
 Subject: CN=SHAKEN 7914, O=Easton Telecom Services LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/81.164
@@ -16,4 +16,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/81.164
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

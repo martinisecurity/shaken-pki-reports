@@ -2,9 +2,9 @@
 
 ## Certificate prod SHAKEN 811J
 
-Tested At: 24 Nov 23 11:00 UTC\
+Tested At: 27 Nov 23 22:21 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 78 day(s)\
+Remaining Validity Period: 74 day(s)\
 Subject: CN=prod SHAKEN 811J, OU=Alianza, O=CaptionCall, L=Salt Lake City, ST=Utah, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://api.alianza.com/v2/stir-shaken/certs/2dd72c30-5e06-49a5-bbec-fff3cdf9444b/key.crt
@@ -25,4 +25,4 @@ Link: https://api.alianza.com/v2/stir-shaken/certs/2dd72c30-5e06-49a5-bbec-fff3c
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 079C
 
-Tested At: 24 Nov 23 11:05 UTC\
+Tested At: 27 Nov 23 22:25 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -257 day(s)\
+Remaining Validity Period: -261 day(s)\
 Subject: CN=SHAKEN 079C, O=ValTech Enterprises, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/ddc9bc19-a591-4a7f-9a33-b873c7059d1d/8f706936ce726c6452426437f52b032e.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/ddc9bc19-a591-4a7f-9a33-b873c7059d1d/8f70
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

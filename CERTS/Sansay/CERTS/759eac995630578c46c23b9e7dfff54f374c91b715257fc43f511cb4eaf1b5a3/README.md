@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Terra Nova Telecom 382G
 
-Tested At: 24 Nov 23 11:08 UTC\
+Tested At: 27 Nov 23 22:36 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: 14 day(s)\
+Remaining Validity Period: 10 day(s)\
 Subject: CN=SHAKEN Terra Nova Telecom 382G, OU=NOC, O=Terra Nova Telecom, ST=Florida, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/382G_TERRANOVA_STIR_SHAKEN.crt
@@ -15,7 +15,6 @@ Link: https://cr.sansay.com/382G_TERRANOVA_STIR_SHAKEN.crt
 |------|------|--------|---------|
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 382G', but common name is 'SHAKEN Terra Nova Telecom 382G' |
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
-| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

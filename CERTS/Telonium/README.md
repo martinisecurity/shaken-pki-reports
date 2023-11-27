@@ -14,8 +14,8 @@
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
 - 20 certificates being tested against the remaining rules
-- 2.95 issues on average found in unexpired, trusted, and non-compliant certificates
-- 100.00% of certificates contain one or more Error level issue
+- 2.60 issues on average found in unexpired, trusted, and non-compliant certificates
+- 75.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
@@ -27,7 +27,6 @@
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 20 | [e_atis_ext_crl_distribution_struct](ISSUES/e_atis_ext_crl_distribution_struct/README.md) | ATIS1000080 |
 | 15 | [e_atis_ext_not_specified](ISSUES/e_atis_ext_not_specified/README.md) | ATIS1000080 |
 | 1 | [e_atis_subject_c_iso](ISSUES/e_atis_subject_c_iso/README.md) | ATIS1000080 |
 | 1 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
@@ -45,8 +44,8 @@
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
 - 5 certificates being tested against the remaining rules
-- 3.25 issues on average found in unexpired, trusted, and non-compliant certificates
-- 80.00% of certificates contain one or more Error level issue
+- 4.00 issues on average found in unexpired, trusted, and non-compliant certificates
+- 60.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
@@ -58,7 +57,6 @@
 |-----------|------|--------|
 | 1 | [e_atis_ext_certificate_policies_ca](ISSUES/e_atis_ext_certificate_policies_ca/README.md) | ATIS1000080 |
 | 1 | [e_atis_ext_crl_distribution_ca](ISSUES/e_atis_ext_crl_distribution_ca/README.md) | ATIS1000080 |
-| 1 | [e_atis_ext_crl_distribution_struct_ca](ISSUES/e_atis_ext_crl_distribution_struct_ca/README.md) | ATIS1000080 |
 | 2 | [e_atis_ext_key_usage](ISSUES/e_atis_ext_key_usage/README.md) | ATIS1000080 |
 | 1 | [e_atis_subject_c_iso_ca](ISSUES/e_atis_subject_c_iso_ca/README.md) | ATIS1000080 |
 | 3 | [e_atis_subject_cn_ca](ISSUES/e_atis_subject_cn_ca/README.md) | ATIS1000080 |
@@ -87,11 +85,11 @@
 | 11&#160;Jul&#160;23&#160;18:45&#160;UTC | SHAKEN 421K | 21&#160;Jun&#160;25&#160;04:00&#160;UTC | true | [view](CERTS/cfaa04fe3747df8c203aa057940d1d7b1b455b15c8da2ba73cf7384797edfad8/README.md) |
 | 11&#160;Jul&#160;23&#160;18:48&#160;UTC | SHAKEN 622K | 15&#160;Jun&#160;24&#160;18:34&#160;UTC | true | [view](CERTS/55851a261d59fda3e570cabe18693d44936ef44de75156c69b6b26bb7f0eeb6f/README.md) |
 | 13&#160;Jul&#160;23&#160;05:56&#160;UTC | SHAKEN 651K | 13&#160;Jul&#160;24&#160;05:57&#160;UTC | true | [view](CERTS/df89a5a49894ef3f9991e3ec4c98e0b3df7ad85ac81dfbe2e11b5bfc815da364/README.md) |
-| 08&#160;Aug&#160;23&#160;19:59&#160;UTC | SHAKEN 657K | 08&#160;Aug&#160;24&#160;20:00&#160;UTC | true | [view](CERTS/a638f97f284568ed5ae037d94aa6f57e6abf1b983aa7d9eedf381df669377657/README.md) |
-| 15&#160;Aug&#160;23&#160;19:39&#160;UTC | SHAKEN 576K | 15&#160;Aug&#160;24&#160;19:40&#160;UTC | true | [view](CERTS/c845865b63865cf55c9ae97d092850a9a5f9b8ef66997b013a5a599bead53a33/README.md) |
-| 25&#160;Aug&#160;23&#160;20:58&#160;UTC | SHAKEN 709K | 25&#160;Aug&#160;24&#160;20:59&#160;UTC | true | [view](CERTS/50f6d51678c38fc547c53e5e649ae55172323da164c4fa76036ede9290544532/README.md) |
-| 08&#160;Sep&#160;23&#160;23:10&#160;UTC | SHAKEN 721K | 08&#160;Sep&#160;24&#160;23:11&#160;UTC | true | [view](CERTS/a3988074881dad0e96799028c8f312ec3dd145810a538e92747761cc0cc344a9/README.md) |
-| 11&#160;Sep&#160;23&#160;18:29&#160;UTC | SHAKEN 715K | 11&#160;Sep&#160;24&#160;18:30&#160;UTC | true | [view](CERTS/4fff4a5b8e1fa4b044b1a7c631472b346a43ca3ccbb0c3ef7a6258a0efbbb21d/README.md) |
+| 08&#160;Aug&#160;23&#160;19:59&#160;UTC | SHAKEN 657K | 08&#160;Aug&#160;24&#160;20:00&#160;UTC | false | [view](CERTS/a638f97f284568ed5ae037d94aa6f57e6abf1b983aa7d9eedf381df669377657/README.md) |
+| 15&#160;Aug&#160;23&#160;19:39&#160;UTC | SHAKEN 576K | 15&#160;Aug&#160;24&#160;19:40&#160;UTC | false | [view](CERTS/c845865b63865cf55c9ae97d092850a9a5f9b8ef66997b013a5a599bead53a33/README.md) |
+| 25&#160;Aug&#160;23&#160;20:58&#160;UTC | SHAKEN 709K | 25&#160;Aug&#160;24&#160;20:59&#160;UTC | false | [view](CERTS/50f6d51678c38fc547c53e5e649ae55172323da164c4fa76036ede9290544532/README.md) |
+| 08&#160;Sep&#160;23&#160;23:10&#160;UTC | SHAKEN 721K | 08&#160;Sep&#160;24&#160;23:11&#160;UTC | false | [view](CERTS/a3988074881dad0e96799028c8f312ec3dd145810a538e92747761cc0cc344a9/README.md) |
+| 11&#160;Sep&#160;23&#160;18:29&#160;UTC | SHAKEN 715K | 11&#160;Sep&#160;24&#160;18:30&#160;UTC | false | [view](CERTS/4fff4a5b8e1fa4b044b1a7c631472b346a43ca3ccbb0c3ef7a6258a0efbbb21d/README.md) |
 
 #### CA Certificates
 
@@ -101,7 +99,7 @@
 | 08&#160;Mar&#160;23&#160;18:40&#160;UTC | Telonium STI-CA Root2 | 07&#160;Mar&#160;38&#160;18:40&#160;UTC | true | [view](CERTS/a58b27999411d3d54121d4eadc82aa128be1fef96cda3029b2015677188ea40b/README.md) |
 | 09&#160;Mar&#160;23&#160;15:18&#160;UTC | Telonium STI-CA Intermediate CA | 06&#160;Mar&#160;33&#160;15:18&#160;UTC | true | [view](CERTS/7c701216e591c9a3b84550ff46566dd420c7f182eb3cfc5abe5739cdbe271169/README.md) |
 | 21&#160;Jul&#160;23&#160;00:49&#160;UTC | Telonium SHAKEN ROOT G1 | 21&#160;Jul&#160;35&#160;00:49&#160;UTC | false | [view](CERTS/37e1a126fc5d84ff59f332b2fe8196205bd0e4f7353be497ad17770d9ca6cea5/README.md) |
-| 01&#160;Aug&#160;23&#160;16:36&#160;UTC | Telonium SHAKEN Intermediate G1 | 01&#160;Aug&#160;33&#160;16:36&#160;UTC | true | [view](CERTS/8c0ef8682826bec79a8c64881899f6a5a4a1d52dfebe28ae419c23f85df96ea0/README.md) |
+| 01&#160;Aug&#160;23&#160;16:36&#160;UTC | Telonium SHAKEN Intermediate G1 | 01&#160;Aug&#160;33&#160;16:36&#160;UTC | false | [view](CERTS/8c0ef8682826bec79a8c64881899f6a5a4a1d52dfebe28ae419c23f85df96ea0/README.md) |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

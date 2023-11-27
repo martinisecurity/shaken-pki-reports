@@ -3,8 +3,8 @@
 ## Anveo Inc
 
 Name: `http://anv-cert.s3.amazonaws.com/anveo072023.crt`\
-Tested At: 24 Nov 23 11:00 UTC\
-Time: 36ms
+Tested At: 27 Nov 23 22:21 UTC\
+Time: 194ms
 
 ### Issues
 
@@ -14,4 +14,4 @@ Time: 36ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_protocol](../../ISSUES/w_atis_protocol/README.md) | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

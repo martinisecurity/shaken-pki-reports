@@ -2,16 +2,16 @@
 
 ## Certificate SHAKEN 148K
 
-Tested At: 24 Nov 23 11:15 UTC\
+Tested At: 27 Nov 23 22:54 UTC\
 Initial Validity Period: 18 day(s)\
-Remaining Validity Period: -21 day(s)\
+Remaining Validity Period: -25 day(s)\
 Subject: O=Orange County REMC, C=US, serialNumber=288FD3B0520CC2639E6839B07987404E, CN=SHAKEN 148K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/PWQLawt57l3z.pem
 
 [View certificate details](https://understandingwebpki.com/?cert=MIIDHDCCAsKgAwIBAgIUPWQLawt57l3zlHQqxcUB8h2GOxEwCgYIKoZIzj0EAwIwcTELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAldBMRAwDgYDVQQHEwdTZWF0dGxlMR4wHAYDVQQKExVNYXJ0aW5pIFNlY3VyaXR5LCBMTEMxIzAhBgNVBAMTGk1hcnRpbmkgU2VjdXJpdHkgU0hBS0VOIEcyMB4XDTIzMTAxNTIxMTgwMVoXDTIzMTEwMjE3MTQxNFowazEUMBIGA1UEAxMLU0hBS0VOIDE0OEsxKTAnBgNVBAUTIDI4OEZEM0IwNTIwQ0MyNjM5RTY4MzlCMDc5ODc0MDRFMQswCQYDVQQGEwJVUzEbMBkGA1UEChMST3JhbmdlIENvdW50eSBSRU1DMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEcw%2FxvfUcYoh78fKKXbQFAswnLZTjomDnmHGqSPP%2BfpSuo%2BRvZ6cwIHoo96YbgliOb9JmJ1krwcUfvUiOkIf9haOCATwwggE4MA4GA1UdDwEB%2FwQEAwIHgDAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRGxEGBtXDdrzgsc84%2FMo7rs3I6EDAfBgNVHSMEGDAWgBQohFBe5EN4LNBzs4sb%2FaTMFmKYGDAWBggrBgEFBQcBGgQKMAigBhYEMTQ4SzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHEwtCcmlkZ2V3YXRlcjELMAkGA1UECBMCTkoxEzARBgNVBAMTClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKEwZTVEktUEEwFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEDMAoGCCqGSM49BAMCA0gAMEUCIDJuqz4%2FLBNZldmHUu2PmkTIkYlBBLurJ9ssPsUO5elsAiEAnUnIXhg5iyMoxhY0nrafd8TXHpVrpVi5m3v3o4Wa%2FAg%3D)
 
-163 tests were ran and no error, warning, or notice level issues were found
+164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

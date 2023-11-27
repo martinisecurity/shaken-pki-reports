@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0378
 
-Tested At: 24 Nov 23 11:05 UTC\
+Tested At: 27 Nov 23 22:25 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: 2 day(s)\
+Remaining Validity Period: -1 day(s)\
 Subject: CN=SHAKEN 0378, O=Planters Telephone Cooperative, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/f507fa5d-72b5-4f0a-b979-cfcea471d6fa/349fb8725f8618f1aba02bfe3805b66f.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/f507fa5d-72b5-4f0a-b979-cfcea471d6fa/349f
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

@@ -3,8 +3,8 @@
 ## Sansay
 
 Name: `https://cr.sansay.com/210J/order/318_210J_63`\
-Tested At: 24 Nov 23 11:07 UTC\
-Time: 35ms
+Tested At: 27 Nov 23 22:30 UTC\
+Time: 322ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 35ms
 |------|------|--------|---------|
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

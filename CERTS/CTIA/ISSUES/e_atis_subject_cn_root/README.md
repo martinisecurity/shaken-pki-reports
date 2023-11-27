@@ -15,4 +15,4 @@ Description: For root certificates, the Common Name attribute shall include the 
 | error | SHAKEN Root CA | [view](../../CERTS/ee1cf83becad4777dcf250170efecc7fc7498d85097e9a570dfac542151ebf53/README.md) | Common Name attribute 'SHAKEN Root CA' does not include the text string 'ROOT' (case insensitive). |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

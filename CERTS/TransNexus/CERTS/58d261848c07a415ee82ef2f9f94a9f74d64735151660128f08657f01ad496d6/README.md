@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 283K
 
-Tested At: 24 Nov 23 11:01 UTC\
+Tested At: 27 Nov 23 22:22 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -289 day(s)\
+Remaining Validity Period: -293 day(s)\
 Subject: CN=SHAKEN 283K, O=CCI Voice, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/076af2e8-ea86-4b26-b350-cda606ecb199/b58305a92325890bf07131f8523aca5e.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/076af2e8-ea86-4b26-b350-cda606ecb199/b583
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

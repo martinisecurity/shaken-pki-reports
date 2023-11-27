@@ -19,4 +19,4 @@ No error, warning, or notice level issues were found
 | error | TMOBILE-PROD-SUB-STIRSHAKEN-EC | [view](../../CERTS/a22dda815630c32b2fa32fb3483ded024fe4d333b6865bf47dbb00a5194472ad/README.md) | Common Name attribute 'TMOBILE-PROD-SUB-STIRSHAKEN-EC' does not contain 'SHAKEN' |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

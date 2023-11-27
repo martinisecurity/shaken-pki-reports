@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 196ms average time it took to download each certificate
+- 305ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://onairtel.46labs.com` | 05&#160;Jul&#160;24&#160;23:22&#160;UTC | true | [view](REPOS/6c191e1608b921df9b334795414b01f105ef9d85/README.md) |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

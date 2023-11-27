@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 269K
 
-Tested At: 24 Nov 23 11:02 UTC\
+Tested At: 27 Nov 23 22:23 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -267 day(s)\
+Remaining Validity Period: -271 day(s)\
 Subject: CN=SHAKEN 269K, O=Ultimate Internet Access\\, Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/462ca8e6-d9d3-4fa1-85b7-d0f712423ee7/9744fb692db910a49370ca7ad96df70b.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/462ca8e6-d9d3-4fa1-85b7-d0f712423ee7/9744
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 963J
 
-Tested At: 24 Nov 23 11:00 UTC\
+Tested At: 27 Nov 23 22:21 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -231 day(s)\
+Remaining Validity Period: -235 day(s)\
 Subject: CN=SHAKEN 963J, O=Freevoice, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: http://sip.phx.dlr.freevoicepbx.com/Freevoice_963J
@@ -14,7 +14,6 @@ Link: http://sip.phx.dlr.freevoicepbx.com/Freevoice_963J
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
-| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 ### Not Effective
 
@@ -26,4 +25,4 @@ Link: http://sip.phx.dlr.freevoicepbx.com/Freevoice_963J
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

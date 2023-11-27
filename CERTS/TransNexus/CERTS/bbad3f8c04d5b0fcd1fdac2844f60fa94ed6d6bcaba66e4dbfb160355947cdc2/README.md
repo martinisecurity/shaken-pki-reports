@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 660C
 
-Tested At: 24 Nov 23 11:04 UTC\
+Tested At: 27 Nov 23 22:24 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -143 day(s)\
+Remaining Validity Period: -147 day(s)\
 Subject: CN=SHAKEN 660C, O=Hunter Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/a541dde9-cb96-4612-bb82-7884c3a4d18b/57b6d10d54f0b740456192942047aa78.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/a541dde9-cb96-4612-bb82-7884c3a4d18b/57b6
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

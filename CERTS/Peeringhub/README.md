@@ -19,9 +19,9 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 227 days is the average remaining validity for the certificates in the corpus
+- 226 days is the average remaining validity for the certificates in the corpus
 - 238 days is the average initial validity for the certificates in the corpus
-- 5 certificates expire in the next 30 days
+- 6 certificates expire in the next 30 days
 - 1.00 average number of unexpired certificates per OCN observed
 - 19 unique OCNs observed in unexpired and valid certificate corpus
 
@@ -41,7 +41,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 5726 days is the average remaining validity for the certificates in the corpus
+- 5725 days is the average remaining validity for the certificates in the corpus
 - 5475 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -74,7 +74,7 @@
 | 09&#160;Nov&#160;23&#160;15:52&#160;UTC | TeleVoip ESC LLC_1699545121983 SHAKEN 438K | 14&#160;Dec&#160;23&#160;23:12&#160;UTC | true | [view](CERTS/a53411bd2a726406e794b9e75af0fd65f4361739103e2fed7ee879a208a8d8ef/README.md) |
 | 18&#160;Nov&#160;23&#160;14:10&#160;UTC | INTENEXT TELECOM LLC SHAKEN 650K | 20&#160;Dec&#160;23&#160;18:40&#160;UTC | true | [view](CERTS/b5168e6d610f4a88f263e9c7607146eae96c7a72e47e404cec78505fec1c7715/README.md) |
 | 20&#160;Nov&#160;23&#160;15:41&#160;UTC | Instacall SHAKEN 281K | 24&#160;Dec&#160;23&#160;18:44&#160;UTC | true | [view](CERTS/aec5d2a8dc9e48859663462afd4ecc2c51a179127f44008bcfa8aa0f6f235292/README.md) |
-| 24&#160;Nov&#160;23&#160;00:00&#160;UTC | Losh Communications, Inc SHAKEN 149K 2023-11-24_000001 | 24&#160;Aug&#160;24&#160;19:56&#160;UTC | false | [view](CERTS/a375013428b378112f6ea30010eb9c598493dedeb1f1c7f17d1251b06ed25d10/README.md) |
+| 27&#160;Nov&#160;23&#160;00:00&#160;UTC | Losh Communications, Inc SHAKEN 149K 2023-11-27_000001 | 24&#160;Aug&#160;24&#160;19:56&#160;UTC | false | [view](CERTS/3e52f0f033a8b13f14cd408d2b1c903f3fa22f5d01dde433033cc2124e217d5c/README.md) |
 
 #### CA Certificates
 
@@ -84,4 +84,4 @@
 | 22&#160;Jun&#160;22&#160;22:45&#160;UTC | Peeringhub Inc SHAKEN Intermediate CA 2 | 19&#160;Jun&#160;32&#160;22:45&#160;UTC | true | [view](CERTS/f00871963a40b04269c4b019968e42f9f40964cbfb512ff5342307e9942874ce/README.md) |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

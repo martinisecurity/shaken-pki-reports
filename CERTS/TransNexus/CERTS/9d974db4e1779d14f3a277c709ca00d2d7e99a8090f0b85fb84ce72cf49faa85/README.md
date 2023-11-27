@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 150G
 
-Tested At: 24 Nov 23 11:05 UTC\
+Tested At: 27 Nov 23 22:25 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -71 day(s)\
+Remaining Validity Period: -75 day(s)\
 Subject: CN=SHAKEN 150G, O=Jackson Energy Authority, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/e6d2beb3-5c59-42eb-81f4-a314665d2da5/8b0a16c39a597e9aacd87700ea23dbbd.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/e6d2beb3-5c59-42eb-81f4-a314665d2da5/8b0a
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

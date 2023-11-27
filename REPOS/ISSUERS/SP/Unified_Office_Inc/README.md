@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 95ms average time it took to download each certificate
+- 223ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://downloads.uotcn.net/certs/uo-shaken-cert-20230222.pem` | 22&#160;Feb&#160;24&#160;21:42&#160;UTC | true | [view](REPOS/31ea6fedb86188091df498993e3c7ef5282512e6/README.md) |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

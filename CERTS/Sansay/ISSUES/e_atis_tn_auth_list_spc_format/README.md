@@ -12,7 +12,6 @@ Description: The SPC value in the TNAuthList extension shall contain only number
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | SHAKEN Socket Telecom LLC 554a | [view](../../CERTS/0fdb0bfa6c4aa43de1164f148f8f8aaee0aac0c1bc4820255498ca8cce922fe0/README.md) | the SPC value '554a' contains characters other than uppercase letters and numbers |
 | error | SHAKEN Broadband Dynamics LLC 583j | [view](../../CERTS/e72cdb3f7f157a4c1c2f077ee961b97059b68167af770679273defefaf137cc7/README.md) | the SPC value '583j' contains characters other than uppercase letters and numbers |
 
 ### CA Certificates
@@ -20,4 +19,4 @@ Description: The SPC value in the TNAuthList extension shall contain only number
 No error, warning, or notice level issues were found
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

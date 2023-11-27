@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 195K
 
-Tested At: 24 Nov 23 11:05 UTC\
+Tested At: 27 Nov 23 22:25 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -129 day(s)\
+Remaining Validity Period: -133 day(s)\
 Subject: CN=SHAKEN 195K, O=903 Broadband, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/f300bcde-296b-4834-98b0-873616066853/383620c6bf4eadd8649ca24952722ee1.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/f300bcde-296b-4834-98b0-873616066853/3836
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

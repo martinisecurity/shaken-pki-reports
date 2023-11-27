@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 377G
 
-Tested At: 24 Nov 23 11:01 UTC\
+Tested At: 27 Nov 23 22:22 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -3 day(s)\
+Remaining Validity Period: -7 day(s)\
 Subject: CN=SHAKEN 377G, O=Peace Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/0a7395d3-b91d-40c1-b036-bf48813797fb/c7983aa3c5e79d7c2a00af7bd38e0f4c.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/0a7395d3-b91d-40c1-b036-bf48813797fb/c798
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

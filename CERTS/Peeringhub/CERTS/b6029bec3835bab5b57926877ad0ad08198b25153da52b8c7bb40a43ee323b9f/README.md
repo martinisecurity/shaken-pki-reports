@@ -2,9 +2,9 @@
 
 ## Certificate Voipedia SHAKEN 712K
 
-Tested At: 24 Nov 23 11:14 UTC\
+Tested At: 27 Nov 23 22:52 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 335 day(s)\
+Remaining Validity Period: 331 day(s)\
 Subject: CN=Voipedia SHAKEN 712K, O=Voipedia, L=Mountain View, ST=CA, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://voipedia.46labs.com/voipedia.pem
@@ -16,4 +16,4 @@ Link: https://voipedia.46labs.com/voipedia.pem
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

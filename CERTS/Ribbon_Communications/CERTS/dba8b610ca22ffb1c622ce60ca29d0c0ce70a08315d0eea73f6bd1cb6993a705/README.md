@@ -2,9 +2,9 @@
 
 ## Certificate Peoples SHAKEN 2130
 
-Tested At: 24 Nov 23 11:11 UTC\
+Tested At: 27 Nov 23 22:48 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 203 day(s)\
+Remaining Validity Period: 199 day(s)\
 Subject: CN=Peoples SHAKEN 2130, OU=STI, O=Peoples, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/R3kZfzj7gz/STI-202306-2130-3e01a84e6a320c2e0d9baf5cbeb11f38
@@ -14,8 +14,7 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/R3kZfzj7gz/STI-202306-2130-3e01a8
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
-| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

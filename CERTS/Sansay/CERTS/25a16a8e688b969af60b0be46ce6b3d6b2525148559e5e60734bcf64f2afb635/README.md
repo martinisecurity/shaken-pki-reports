@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Xchange Telecom LLC 325B
 
-Tested At: 24 Nov 23 11:08 UTC\
+Tested At: 27 Nov 23 22:32 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 357 day(s)\
+Remaining Validity Period: 353 day(s)\
 Subject: CN=SHAKEN Xchange Telecom LLC 325B, OU=Bulk Solutions STI-AS, O=Xchange Telecom LLC, ST=New York, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/325B_20211101.pem
@@ -14,8 +14,7 @@ Link: https://cr.sansay.com/325B_20211101.pem
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
-| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 325B', but common name is 'SHAKEN Xchange Telecom LLC 325B' |
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

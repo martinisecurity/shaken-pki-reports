@@ -3,8 +3,8 @@
 ## Swift Telco LLC
 
 Name: `https://cdn.cnxcdn.com/shaken/55.crt`\
-Tested At: 24 Nov 23 11:00 UTC\
-Time: 24ms
+Tested At: 27 Nov 23 22:21 UTC\
+Time: 47ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 24ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header has 'max-age' directive but it's value is less than 24 hours |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

@@ -16,7 +16,6 @@ Description: STI certificates shall have a serial number that contains at least 
 | error | SHAKEN | [view](../../CERTS/20bd9caf838f46d12dbfed0e7556f753331413e9c7672896a1f9af19760bbb50/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 61 |
 | error | SHAKEN | [view](../../CERTS/7752d4df6a574e73e764cf1a692db8155b579210455ed6ab1faa6992a5fd3d95/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 62 |
 | error | SHAKEN | [view](../../CERTS/160e7e9069366204de585183cc7d551f387a86f3f24159c7c5ae60775c3b7642/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
-| error | SHAKEN | [view](../../CERTS/8da7d29c58b5bec64c1c66fdc95b41d77afb06a22f1a91366e3e10341d250558/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
 | error | SHAKEN | [view](../../CERTS/dfb5e692fde572d2e39724b7d0a84e452b33e57b1629b50ae66d6014b93a2d78/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
 | error | SHAKEN | [view](../../CERTS/fbdf6f212f5d3f401e5a2d0f1beda961b5e4092b682aff97f7f6899df1a260ed/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
 | error | SHAKEN | [view](../../CERTS/0ccbc22db458b7fe8172ce42fd2aabed02abf5d368c8a5bc0fc49086708af179/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
@@ -31,7 +30,6 @@ Description: STI certificates shall have a serial number that contains at least 
 | error | SHAKEN | [view](../../CERTS/7dd1a2da240e0bf0891878831ca3a68687ce956ddf7541a4fd69b131c4e1fdf1/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
 | error | SHAKEN | [view](../../CERTS/5cf26f20d4db827f0455dc1334bcdee6befa22506530b49a1b45ca1505a37119/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
 | error | SHAKEN | [view](../../CERTS/d4384fb980d32402ed4b38df254a5a589a72a72f9ddd070a3114fd6acf3570a4/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 61 |
-| error | SHAKEN | [view](../../CERTS/35aa06e8a904ac94a056685aab8c313c7c14c2588fc98345dc12fcb7ea2966b1/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
 | error | SHAKEN | [view](../../CERTS/0c9ba6095a8184fbaf5cf7e9b22f7b1840a071b570e30ba2d2cfb9cd33c96577/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
 | error | SHAKEN | [view](../../CERTS/0268cf16a382d8ad7faa4d0484583fd4b1d04d5a2c4957c853f7a6ff80a6e8d0/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
 
@@ -40,4 +38,4 @@ Description: STI certificates shall have a serial number that contains at least 
 No error, warning, or notice level issues were found
 
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC

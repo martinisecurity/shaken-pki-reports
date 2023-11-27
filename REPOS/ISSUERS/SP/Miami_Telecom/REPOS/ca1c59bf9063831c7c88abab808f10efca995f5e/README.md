@@ -3,8 +3,8 @@
 ## Miami Telecom
 
 Name: `https://certs.telonium.net/23/9cf6c6b9.crt`\
-Tested At: 24 Nov 23 11:06 UTC\
-Time: 25ms
+Tested At: 27 Nov 23 22:26 UTC\
+Time: 26ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 25ms
 |------|------|--------|---------|
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 24 Nov 23 11:17 UTC
+Generated: 27 Nov 23 22:56 UTC
