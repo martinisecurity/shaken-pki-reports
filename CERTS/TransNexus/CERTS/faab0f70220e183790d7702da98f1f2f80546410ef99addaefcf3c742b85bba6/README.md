@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 157C
 
-Tested At: 22 Nov 23 03:19 UTC\
+Tested At: 27 Nov 23 23:13 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: 4 day(s)\
+Remaining Validity Period: -2 day(s)\
 Subject: CN=SHAKEN 157C, O=DigitalSpeed Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/82d97ecb-9b38-4926-9062-8e21b8986930/2e07f85bcd9824d12a50357af0606f24.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/82d97ecb-9b38-4926-9062-8e21b8986930/2e07
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

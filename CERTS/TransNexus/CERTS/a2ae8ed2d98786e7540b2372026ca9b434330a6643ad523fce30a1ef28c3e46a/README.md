@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 589J
 
-Tested At: 22 Nov 23 03:19 UTC\
+Tested At: 27 Nov 23 23:12 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -351 day(s)\
+Remaining Validity Period: -357 day(s)\
 Subject: CN=SHAKEN 589J, O=Simplicity VoIP, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/4ca62cb9-03b5-42f8-8fc3-67cecf1feeb2/10935ccd6af6077d72ecafadbd8ef9da.pem
@@ -19,9 +19,10 @@ Link: https://certificates.clearip.com/4ca62cb9-03b5-42f8-8fc3-67cecf1feeb2/1093
 
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_tn_auth_list_spc_format
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

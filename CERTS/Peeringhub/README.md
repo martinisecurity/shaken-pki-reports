@@ -9,21 +9,21 @@
 
 #### Leaf Certificates
 
-- 33 certificates were included in the corpus being tested
+- 34 certificates were included in the corpus being tested
 - 7 certificates in the corpus were skipped because they are duplicates
 - 8 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 18 certificates being tested against the remaining rules
+- 19 certificates being tested against the remaining rules
 - 1.00 issues on average found in unexpired, trusted, and non-compliant certificates
-- 100.00% of certificates contain one or more Error level issue
+- 94.74% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 254 days is the average remaining validity for the certificates in the corpus
-- 249 days is the average initial validity for the certificates in the corpus
-- 4 certificates expire in the next 30 days
+- 226 days is the average remaining validity for the certificates in the corpus
+- 238 days is the average initial validity for the certificates in the corpus
+- 6 certificates expire in the next 30 days
 - 1.00 average number of unexpired certificates per OCN observed
-- 18 unique OCNs observed in unexpired and valid certificate corpus
+- 19 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -41,7 +41,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 5727 days is the average remaining validity for the certificates in the corpus
+- 5725 days is the average remaining validity for the certificates in the corpus
 - 5475 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -69,11 +69,12 @@
 | 24&#160;Oct&#160;23&#160;22:46&#160;UTC | Voipedia SHAKEN 712K | 23&#160;Oct&#160;24&#160;22:46&#160;UTC | true | [view](CERTS/b6029bec3835bab5b57926877ad0ad08198b25153da52b8c7bb40a43ee323b9f/README.md) |
 | 26&#160;Oct&#160;23&#160;03:41&#160;UTC | DIDCentral LLC SHAKEN 756J | 29&#160;Nov&#160;23&#160;00:09&#160;UTC | true | [view](CERTS/3b65594410560dea8db7ce3252e037a78a1989cabdc3031d81043856ef7b02a5/README.md) |
 | 30&#160;Oct&#160;23&#160;00:00&#160;UTC | VOCALTRANSIT SHAKEN 783J | 22&#160;May&#160;24&#160;00:00&#160;UTC | true | [view](CERTS/e8c92f75c60632193af34b988570281cbbcbafce7a9c3ae534b8406d62aab179/README.md) |
+| 30&#160;Oct&#160;23&#160;10:16&#160;UTC | TalkAsiaVoip LLC SHAKEN 198K | 07&#160;Dec&#160;23&#160;07:31&#160;UTC | true | [view](CERTS/7e7a5de2d0a8c98a58e98c631283e52e48b18bae23449d74e3e8f3f3807bb24b/README.md) |
 | 01&#160;Nov&#160;23&#160;01:05&#160;UTC | MAQSSolutions SHAKEN 255K | 03&#160;Dec&#160;23&#160;20:13&#160;UTC | true | [view](CERTS/39eedca0fda366ccd88fc4140394b807ea5dbae5a5bd4fc130958d6855f93948/README.md) |
 | 09&#160;Nov&#160;23&#160;15:52&#160;UTC | TeleVoip ESC LLC_1699545121983 SHAKEN 438K | 14&#160;Dec&#160;23&#160;23:12&#160;UTC | true | [view](CERTS/a53411bd2a726406e794b9e75af0fd65f4361739103e2fed7ee879a208a8d8ef/README.md) |
 | 18&#160;Nov&#160;23&#160;14:10&#160;UTC | INTENEXT TELECOM LLC SHAKEN 650K | 20&#160;Dec&#160;23&#160;18:40&#160;UTC | true | [view](CERTS/b5168e6d610f4a88f263e9c7607146eae96c7a72e47e404cec78505fec1c7715/README.md) |
 | 20&#160;Nov&#160;23&#160;15:41&#160;UTC | Instacall SHAKEN 281K | 24&#160;Dec&#160;23&#160;18:44&#160;UTC | true | [view](CERTS/aec5d2a8dc9e48859663462afd4ecc2c51a179127f44008bcfa8aa0f6f235292/README.md) |
-| 22&#160;Nov&#160;23&#160;00:00&#160;UTC | Losh Communications, Inc SHAKEN 149K 2023-11-22_000001 | 24&#160;Aug&#160;24&#160;19:56&#160;UTC | true | [view](CERTS/13a1f38408101bdf50bf757c38a2a62d27ae974458bd201634562da6baa2050b/README.md) |
+| 27&#160;Nov&#160;23&#160;00:00&#160;UTC | Losh Communications, Inc SHAKEN 149K 2023-11-27_000001 | 24&#160;Aug&#160;24&#160;19:56&#160;UTC | false | [view](CERTS/3e52f0f033a8b13f14cd408d2b1c903f3fa22f5d01dde433033cc2124e217d5c/README.md) |
 
 #### CA Certificates
 
@@ -83,4 +84,4 @@
 | 22&#160;Jun&#160;22&#160;22:45&#160;UTC | Peeringhub Inc SHAKEN Intermediate CA 2 | 19&#160;Jun&#160;32&#160;22:45&#160;UTC | true | [view](CERTS/f00871963a40b04269c4b019968e42f9f40964cbfb512ff5342307e9942874ce/README.md) |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

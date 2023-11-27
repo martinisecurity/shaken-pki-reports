@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 609J
 
-Tested At: 22 Nov 23 03:21 UTC\
+Tested At: 27 Nov 23 23:15 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -108 day(s)\
+Remaining Validity Period: -114 day(s)\
 Subject: CN=SHAKEN 609J, O=Voxtell, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/c8e6a65e-b490-4ee9-bf32-7da584733d4d/a17f2806f68253651869c79f3fd7432e.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/c8e6a65e-b490-4ee9-bf32-7da584733d4d/a17f
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

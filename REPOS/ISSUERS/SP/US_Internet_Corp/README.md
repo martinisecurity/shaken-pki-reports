@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 65ms average time it took to download each certificate
+- 191ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -22,4 +22,4 @@
 | `https://sti.ravon.net/c/737J_2023-07-19` | 18&#160;Jul&#160;24&#160;15:19&#160;UTC | true | [view](REPOS/943d547783253f98be6300ca1f29597a928d870d/README.md) |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

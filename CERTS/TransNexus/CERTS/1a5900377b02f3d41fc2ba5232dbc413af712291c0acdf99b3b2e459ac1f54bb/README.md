@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 946H
 
-Tested At: 22 Nov 23 03:21 UTC\
+Tested At: 27 Nov 23 23:15 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -206 day(s)\
+Remaining Validity Period: -212 day(s)\
 Subject: CN=SHAKEN 946H, O=BROADBAND OFFICE SOLUTIONS, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/d2789b6d-14b9-40f7-8d4e-39896547bfbf/64c8a9fd57290adc8bfc4f5a3fecf4c3.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/d2789b6d-14b9-40f7-8d4e-39896547bfbf/64c8
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

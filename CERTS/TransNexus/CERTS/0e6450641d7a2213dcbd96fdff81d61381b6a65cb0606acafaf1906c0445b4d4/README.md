@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 723J
 
-Tested At: 22 Nov 23 03:17 UTC\
+Tested At: 27 Nov 23 23:11 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -127 day(s)\
+Remaining Validity Period: -133 day(s)\
 Subject: CN=SHAKEN 723J, O=TRACI.net, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/0f1766a8-5beb-4396-9c92-b0ca02bfa565/dc6fc7a5743317535be476852a575e13.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/0f1766a8-5beb-4396-9c92-b0ca02bfa565/dc6f
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

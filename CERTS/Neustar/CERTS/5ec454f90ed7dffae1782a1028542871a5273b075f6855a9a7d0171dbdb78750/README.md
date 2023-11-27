@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 813J
 
-Tested At: 22 Nov 23 03:32 UTC\
+Tested At: 27 Nov 23 23:22 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -81 day(s)\
+Remaining Validity Period: -87 day(s)\
 Subject: CN=SHAKEN 813J, O=Rscom LTD, C=CA\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Inc a TransUnion company, C=US\
 Link: https://ssc.getsipnav.com/certs/2e7995d25837c174efaf63e3ff1b1d69456e6412
@@ -19,9 +19,10 @@ Link: https://ssc.getsipnav.com/certs/2e7995d25837c174efaf63e3ff1b1d69456e6412
 
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_tn_auth_list_spc_format
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

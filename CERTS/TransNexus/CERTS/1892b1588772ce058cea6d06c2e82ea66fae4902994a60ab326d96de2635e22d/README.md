@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 6628
 
-Tested At: 22 Nov 23 03:22 UTC\
+Tested At: 27 Nov 23 23:16 UTC\
 Initial Validity Period: 180 day(s)\
-Remaining Validity Period: 12 day(s)\
+Remaining Validity Period: 6 day(s)\
 Subject: CN=SHAKEN 6628, O=Merryville Investments LTD Inc dba ClarityTel, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/6628/eae56241-c0c5-41a2-ae95-5e28cd46db05.pem
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/6628/eae56241-c0c5-41a2-ae95-5e28cd46d
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

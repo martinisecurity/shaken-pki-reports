@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 594J
 
-Tested At: 22 Nov 23 03:17 UTC\
+Tested At: 27 Nov 23 23:11 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -372 day(s)\
+Remaining Validity Period: -378 day(s)\
 Subject: CN=SHAKEN 594J, OU=SHAKEN, O=Carolina Digital, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/14652271-f2ba-4197-87c0-704f8c618e4b/b300b62578044f83350c02da994e07c6.pem
@@ -19,9 +19,10 @@ Link: https://certificates.clearip.com/14652271-f2ba-4197-87c0-704f8c618e4b/b300
 
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_tn_auth_list_spc_format
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

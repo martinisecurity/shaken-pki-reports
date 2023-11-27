@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 759J
 
-Tested At: 22 Nov 23 03:22 UTC\
+Tested At: 27 Nov 23 23:15 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -66 day(s)\
+Remaining Validity Period: -72 day(s)\
 Subject: CN=SHAKEN 759J, O=Rhode Island Telephone, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/f8262ffd-801f-403a-9ee9-ec811abe5a5e/0c67ee706ab9c0f27df14df8eb445c0b.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/f8262ffd-801f-403a-9ee9-ec811abe5a5e/0c67
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

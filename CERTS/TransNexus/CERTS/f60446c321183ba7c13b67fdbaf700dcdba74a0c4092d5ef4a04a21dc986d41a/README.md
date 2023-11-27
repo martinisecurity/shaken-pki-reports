@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1653
 
-Tested At: 22 Nov 23 03:20 UTC\
+Tested At: 27 Nov 23 23:14 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -27 day(s)\
+Remaining Validity Period: -33 day(s)\
 Subject: CN=SHAKEN 1653, O=SDN, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/94e8be6a-1aa1-495b-b634-7e2fb18f0327/c9e20edaeba93dd584f0c9d8f0498866.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/94e8be6a-1aa1-495b-b634-7e2fb18f0327/c9e2
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

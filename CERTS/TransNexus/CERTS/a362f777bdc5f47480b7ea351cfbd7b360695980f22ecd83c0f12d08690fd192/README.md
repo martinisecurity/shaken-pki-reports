@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 155F
 
-Tested At: 22 Nov 23 03:17 UTC\
+Tested At: 27 Nov 23 23:11 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -23 day(s)\
+Remaining Validity Period: -29 day(s)\
 Subject: CN=SHAKEN 155F, O=Super-Net Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/037240bc-315a-4975-b8f0-2a4ec2b5a0aa/de354eedd093cb7b12469988ab77c3cb.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/037240bc-315a-4975-b8f0-2a4ec2b5a0aa/de35
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

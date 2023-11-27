@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 848J
 
-Tested At: 22 Nov 23 03:19 UTC\
+Tested At: 27 Nov 23 23:13 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -337 day(s)\
+Remaining Validity Period: -343 day(s)\
 Subject: CN=SHAKEN 848J, O=Invision Technologies LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/84d348e0-ce86-4b5b-b14c-8419e12eea57/687964869db7f037f1cf4f96a8c070f2.pem
@@ -19,9 +19,10 @@ Link: https://certificates.clearip.com/84d348e0-ce86-4b5b-b14c-8419e12eea57/6879
 
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_tn_auth_list_spc_format
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

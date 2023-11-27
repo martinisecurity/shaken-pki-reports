@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 2393
 
-Tested At: 22 Nov 23 03:19 UTC\
+Tested At: 27 Nov 23 23:12 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -51 day(s)\
+Remaining Validity Period: -57 day(s)\
 Subject: CN=SHAKEN 2393, O=Pioneer Telephone Cooperative, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/491f1fcd-b011-49b1-bf64-9e7a82639064/5c73e7874408ac1ee983c9caab2ad1a5.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/491f1fcd-b011-49b1-bf64-9e7a82639064/5c73
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

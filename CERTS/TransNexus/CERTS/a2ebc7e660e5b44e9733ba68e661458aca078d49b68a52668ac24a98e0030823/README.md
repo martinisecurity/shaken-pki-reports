@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 079C
 
-Tested At: 22 Nov 23 03:21 UTC\
+Tested At: 27 Nov 23 23:15 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -228 day(s)\
+Remaining Validity Period: -234 day(s)\
 Subject: CN=SHAKEN 079C, O=ValTech Enterprises, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/ddc9bc19-a591-4a7f-9a33-b873c7059d1d/d4ae4c78a801df3777c00e867aaae9c6.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/ddc9bc19-a591-4a7f-9a33-b873c7059d1d/d4ae
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

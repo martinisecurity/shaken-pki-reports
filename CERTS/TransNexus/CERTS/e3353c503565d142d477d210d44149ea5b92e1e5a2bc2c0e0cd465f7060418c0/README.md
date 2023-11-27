@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1817
 
-Tested At: 22 Nov 23 03:18 UTC\
+Tested At: 27 Nov 23 23:11 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -51 day(s)\
+Remaining Validity Period: -57 day(s)\
 Subject: CN=SHAKEN 1817, O=Pioneer Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/202ef213-00c8-4905-808e-d7705054d57d/d5714277422d6ce53c16fded491b36a4.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/202ef213-00c8-4905-808e-d7705054d57d/d571
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

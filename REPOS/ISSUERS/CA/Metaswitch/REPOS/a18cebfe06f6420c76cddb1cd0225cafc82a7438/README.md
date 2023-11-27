@@ -3,8 +3,8 @@
 ## Metaswitch
 
 Name: `https://sti-cr.cgah.tnsi.com/certs/6c54d88f5669c28848983d4572f11c0b896342ac`\
-Tested At: 22 Nov 23 03:33 UTC\
-Time: 3001ms
+Tested At: 27 Nov 23 23:23 UTC\
+Time: 3000ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 3001ms
 |------|------|--------|---------|
 | [e_request_timeout](../../ISSUES/e_request_timeout/README.md) | error | System | Request timed out (3s) |
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

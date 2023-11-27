@@ -2,16 +2,16 @@
 
 ## Certificate SHAKEN 683G
 
-Tested At: 22 Nov 23 03:35 UTC\
+Tested At: 27 Nov 23 23:25 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: -74 day(s)\
+Remaining Validity Period: -79 day(s)\
 Subject: O=BCM One Cloud Communications\\, LLC, C=US, serialNumber=9D75658E499C35F692064606219E89CF, CN=SHAKEN 683G\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/B7FwNfP2j4XQ.pem
 
 [View certificate details](https://understandingwebpki.com/?cert=MIICyTCCAm%2BgAwIBAgIUB7FwNfP2j4XQdd60YvgrJT%2FJst4wCgYIKoZIzj0EAwIwcTELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAldBMRAwDgYDVQQHEwdTZWF0dGxlMR4wHAYDVQQKExVNYXJ0aW5pIFNlY3VyaXR5LCBMTEMxIzAhBgNVBAMTGk1hcnRpbmkgU2VjdXJpdHkgU0hBS0VOIEcyMB4XDTIzMDYxMTAwMDAyM1oXDTIzMDkwOTAwMDAyM1owejEUMBIGA1UEAxMLU0hBS0VOIDY4M0cxKTAnBgNVBAUTIDlENzU2NThFNDk5QzM1RjY5MjA2NDYwNjIxOUU4OUNGMQswCQYDVQQGEwJVUzEqMCgGA1UEChMhQkNNIE9uZSBDbG91ZCBDb21tdW5pY2F0aW9ucywgTExDMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEzJQgazM2%2BNx6IGBPjc3sCBpvOXfeIwqShNFXTXOYcDeepH3Ou3z9SKXXw9LblbRj7Tylr2MSGeuIdz7GaXbtAqOB2zCB2DAOBgNVHQ8BAf8EBAMCB4AwDAYDVR0TAQH%2FBAIwADAdBgNVHQ4EFgQU1KJtxYo%2BC6DFvJAUn9JJj4V9MlcwHwYDVR0jBBgwFoAUKIRQXuRDeCzQc7OLG%2F2kzBZimBgwFgYIKwYBBQUHARoECjAIoAYWBDY4M0cwRwYDVR0fBEAwPjA8oDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzAKBggqhkjOPQQDAgNIADBFAiEAgUTkFquSnRbbF7PqdmjrZ47sPg7UGAeIl7iceGj9t3gCIGzAdH9bivDl5xZeLQgHBdjHB4nlf8vVu0R5TCDBp8T7)
 
-160 tests were ran and no error, warning, or notice level issues were found
+164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

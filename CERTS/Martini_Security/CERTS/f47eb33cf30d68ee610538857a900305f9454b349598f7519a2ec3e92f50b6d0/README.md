@@ -2,16 +2,16 @@
 
 ## Certificate SHAKEN 685K
 
-Tested At: 22 Nov 23 03:36 UTC\
+Tested At: 27 Nov 23 23:26 UTC\
 Initial Validity Period: 14 day(s)\
-Remaining Validity Period: -70 day(s)\
+Remaining Validity Period: -76 day(s)\
 Subject: O=Net Speak Pro LLC, C=US, serialNumber=18A80698DCE0806FF5244DFD617761E9, CN=SHAKEN 685K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/VUshcTwaM9Fx.pem
 
 [View certificate details](https://understandingwebpki.com/?cert=MIICuTCCAl%2BgAwIBAgIUVUshcTwaM9FxWOuSvp9hc0K9cOAwCgYIKoZIzj0EAwIwcTELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAldBMRAwDgYDVQQHEwdTZWF0dGxlMR4wHAYDVQQKExVNYXJ0aW5pIFNlY3VyaXR5LCBMTEMxIzAhBgNVBAMTGk1hcnRpbmkgU2VjdXJpdHkgU0hBS0VOIEcyMB4XDTIzMDgyOTIxNTI1M1oXDTIzMDkxMjIxNTI1M1owajEUMBIGA1UEAxMLU0hBS0VOIDY4NUsxKTAnBgNVBAUTIDE4QTgwNjk4RENFMDgwNkZGNTI0NERGRDYxNzc2MUU5MQswCQYDVQQGEwJVUzEaMBgGA1UEChMRTmV0IFNwZWFrIFBybyBMTEMwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASQkkKG8xiarEJhjvb21x00X29VOU4LLVihGHOqCIa58KsMCm5Azou29kGbViv8Mmt55oBhQ0eeRPWAQMbiwAM6o4HbMIHYMA4GA1UdDwEB%2FwQEAwIHgDAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQ04s7V4WUHJDuttW8EOsgfWtRcKzAfBgNVHSMEGDAWgBQohFBe5EN4LNBzs4sb%2FaTMFmKYGDAWBggrBgEFBQcBGgQKMAigBhYENjg1SzBHBgNVHR8EQDA%2BMDygOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmwwFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEDMAoGCCqGSM49BAMCA0gAMEUCIQDAz5Cko4hTWrqdzQI8NruBD9lNTwcb9wOU7hEgC7E6rwIgR80yXkOpYhvfDBmdlKa6tdOqLNu81uERLH89%2BIPMvmM%3D)
 
-160 tests were ran and no error, warning, or notice level issues were found
+164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

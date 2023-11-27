@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 2251
 
-Tested At: 22 Nov 23 03:21 UTC\
+Tested At: 27 Nov 23 23:15 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -110 day(s)\
+Remaining Validity Period: -116 day(s)\
 Subject: CN=SHAKEN 2251, O=Range Telephone Cooperative Inc. dba Range, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/d22c9a26-2556-4fd2-a3cd-fe92b871a5eb/9a61abf53306d7ee26b81e4c36e33f23.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/d22c9a26-2556-4fd2-a3cd-fe92b871a5eb/9a61
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

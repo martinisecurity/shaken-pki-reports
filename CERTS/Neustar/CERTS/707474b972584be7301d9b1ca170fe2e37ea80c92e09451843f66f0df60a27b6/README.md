@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 821J
 
-Tested At: 22 Nov 23 03:24 UTC\
+Tested At: 27 Nov 23 23:18 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 154 day(s)\
+Remaining Validity Period: 148 day(s)\
 Subject: CN=SHAKEN 821J, O=Bluerock Communications LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11535.10153
@@ -16,4 +16,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11535.10153
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

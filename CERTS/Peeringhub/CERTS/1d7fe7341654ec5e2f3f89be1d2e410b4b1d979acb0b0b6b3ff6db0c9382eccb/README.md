@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 088K 2023-05
 
-Tested At: 22 Nov 23 03:32 UTC\
+Tested At: 27 Nov 23 23:22 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 185 day(s)\
+Remaining Validity Period: 179 day(s)\
 Subject: CN=SHAKEN 088K 2023-05, O=SmartTel Inc, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://prov.smarttelinc.net/shaken/cert.pem
@@ -13,7 +13,7 @@ Link: https://prov.smarttelinc.net/shaken/cert.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | the Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
+| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

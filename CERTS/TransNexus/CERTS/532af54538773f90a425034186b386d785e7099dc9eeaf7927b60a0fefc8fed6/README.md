@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 721J
 
-Tested At: 22 Nov 23 03:20 UTC\
+Tested At: 27 Nov 23 23:14 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -297 day(s)\
+Remaining Validity Period: -303 day(s)\
 Subject: CN=SHAKEN 721J, O=True IP Solutions, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/a1df4bf4-8858-47bb-9388-835c5c7cb5c4/4d184a5c37a7c01a4e92b800c732978f.pem
@@ -19,9 +19,10 @@ Link: https://certificates.clearip.com/a1df4bf4-8858-47bb-9388-835c5c7cb5c4/4d18
 
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_tn_auth_list_spc_format
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

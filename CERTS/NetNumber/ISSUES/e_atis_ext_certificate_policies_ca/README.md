@@ -16,7 +16,7 @@ No error, warning, or notice level issues were found
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | NetNumber SHAKEN Root Intermediate CA 1 | [view](../../CERTS/e449803766edf02ab50b034dd7e89e54efd332cce87688a032f89b340d039878/README.md) | the Certificate Policies extension is marked as critical |
+| error | NetNumber SHAKEN Root Intermediate CA 1 | [view](../../CERTS/e449803766edf02ab50b034dd7e89e54efd332cce87688a032f89b340d039878/README.md) | The Certificate Policies extension is marked as critical |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

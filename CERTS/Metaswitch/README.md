@@ -14,7 +14,7 @@
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
 - 71 certificates being tested against the remaining rules
-- 1.85 issues on average found in unexpired, trusted, and non-compliant certificates
+- 1.83 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
@@ -28,7 +28,6 @@
 | Instances | Test | Source |
 |-----------|------|--------|
 | 71 | [e_atis_ext_key_usage_ee](ISSUES/e_atis_ext_key_usage_ee/README.md) | ATIS1000080 |
-| 1 | [e_atis_subject](ISSUES/e_atis_subject/README.md) | ATIS1000080 |
 | 3 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
 | 26 | [e_atis_subject_cn_spc](ISSUES/e_atis_subject_cn_spc/README.md) | ATIS1000080 |
 | 30 | [e_us_cp_subject_sn_shall](ISSUES/e_us_cp_subject_sn_shall/README.md) | US_SHAKEN_CP |
@@ -45,17 +44,17 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 66.67% of certificates are too old to be assessed against currently enforced expectations
-- 5567 days is the average remaining validity for the certificates in the corpus
+- 5566 days is the average remaining validity for the certificates in the corpus
 - 5353 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 1 | [e_atis_ca_subject_c_iso](ISSUES/e_atis_ca_subject_c_iso/README.md) | ATIS1000080 |
-| 3 | [e_atis_ca_subject_dn](ISSUES/e_atis_ca_subject_dn/README.md) | ATIS1000080 |
-| 1 | [e_atis_ca_subject_o_required](ISSUES/e_atis_ca_subject_o_required/README.md) | ATIS1000080 |
 | 1 | [e_atis_ext_certificate_policies_ca](ISSUES/e_atis_ext_certificate_policies_ca/README.md) | ATIS1000080 |
 | 1 | [e_atis_ext_crl_distribution_ca](ISSUES/e_atis_ext_crl_distribution_ca/README.md) | ATIS1000080 |
+| 1 | [e_atis_subject_c_iso_ca](ISSUES/e_atis_subject_c_iso_ca/README.md) | ATIS1000080 |
+| 3 | [e_atis_subject_dn_ca](ISSUES/e_atis_subject_dn_ca/README.md) | ATIS1000080 |
+| 1 | [e_atis_subject_o_required_ca](ISSUES/e_atis_subject_o_required_ca/README.md) | ATIS1000080 |
 | 1 | [e_shaken_certificate_policies_id_ca](ISSUES/e_shaken_certificate_policies_id_ca/README.md) | US_SHAKEN_CP |
 
 ### Details
@@ -145,4 +144,4 @@
 | 10&#160;Feb&#160;23&#160;14:38&#160;UTC | Metaswitch STI-CA SHAKEN Issuing 1 | 07&#160;Feb&#160;35&#160;14:38&#160;UTC | true | [view](CERTS/8a7fb50e95b8c43a63d19e2f279de565fa611ae3f24a14f82394e3208782be7a/README.md) |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

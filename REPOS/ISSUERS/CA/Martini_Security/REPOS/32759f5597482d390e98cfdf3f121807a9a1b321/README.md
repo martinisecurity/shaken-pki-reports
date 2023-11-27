@@ -3,11 +3,11 @@
 ## Martini Security
 
 Name: `https://p.mtsec.me/2884/Zyum_c2p3Vu-.pem`\
-Tested At: 22 Nov 23 03:37 UTC\
-Time: 157ms
+Tested At: 27 Nov 23 23:27 UTC\
+Time: 95ms
 
 ### Issues
 
 no warning, or error, or notice date level issues were found
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

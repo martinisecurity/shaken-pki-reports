@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 695G
 
-Tested At: 22 Nov 23 03:21 UTC\
+Tested At: 27 Nov 23 23:15 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -32 day(s)\
+Remaining Validity Period: -38 day(s)\
 Subject: CN=SHAKEN 695G, O=ImOn Communications LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/cbb08c21-d354-4f21-9e97-141fc880ebca/c75211e0de39e6bf59de86aaa7878c72.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/cbb08c21-d354-4f21-9e97-141fc880ebca/c752
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

@@ -4,7 +4,7 @@
 
 Name: e_atis_subject_cn_root\
 Source: ATIS1000080\
-Citation: ATIS-1000080.v004 / 6.4.1 STI Certificate Requirements\
+Citation: ATIS-1000080.v005 / 6.4.1 STI Certificate Requirements\
 Effective Date: 12 Dec 22 00:00 UTC\
 Description: For root certificates, the Common Name attribute shall include the text string `ROOT` (case insensitive).
 
@@ -15,4 +15,4 @@ Description: For root certificates, the Common Name attribute shall include the 
 | error | SHAKEN Root CA | [view](../../CERTS/ee1cf83becad4777dcf250170efecc7fc7498d85097e9a570dfac542151ebf53/README.md) | Common Name attribute 'SHAKEN Root CA' does not include the text string 'ROOT' (case insensitive). |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

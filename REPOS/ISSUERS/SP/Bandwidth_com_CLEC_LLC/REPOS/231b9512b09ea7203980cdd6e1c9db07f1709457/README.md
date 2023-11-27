@@ -3,8 +3,8 @@
 ## Bandwidth.com CLEC LLC
 
 Name: `https://bw-shaken-cert-pub.s3.amazonaws.com/bw-shaken_20240429.cer`\
-Tested At: 22 Nov 23 03:16 UTC\
-Time: 107ms
+Tested At: 27 Nov 23 23:10 UTC\
+Time: 36ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 107ms
 |------|------|--------|---------|
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

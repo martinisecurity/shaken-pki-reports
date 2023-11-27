@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 193C
 
-Tested At: 22 Nov 23 03:18 UTC\
+Tested At: 27 Nov 23 23:11 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -120 day(s)\
+Remaining Validity Period: -126 day(s)\
 Subject: CN=SHAKEN 193C, O=Atlas Connectivity\\, LLC., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/298f6abc-fc4f-4a03-aa26-fd7a7b3866ee/154160820f65dba85204515fc11b9493.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/298f6abc-fc4f-4a03-aa26-fd7a7b3866ee/1541
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

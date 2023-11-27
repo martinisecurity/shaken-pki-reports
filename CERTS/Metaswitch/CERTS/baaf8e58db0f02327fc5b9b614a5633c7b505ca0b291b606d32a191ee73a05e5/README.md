@@ -2,9 +2,9 @@
 
 ## Certificate Fidelity Communications SHAKEN Cert 1882
 
-Tested At: 22 Nov 23 03:16 UTC\
+Tested At: 27 Nov 23 23:10 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 19 day(s)\
+Remaining Validity Period: 14 day(s)\
 Subject: CN=Fidelity Communications SHAKEN Cert 1882, O=Fidelity Communications, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/54ea30a0105002d9a139f34e6297f0d2fdf88fca
@@ -19,6 +19,7 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/54ea30a0105002d9a139f34e6297f0d2fdf88fc
 
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_subject_cn_spc
 - e_atis_subject_key_identifier_size
 - e_atis_subject_o_required
@@ -28,4 +29,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/54ea30a0105002d9a139f34e6297f0d2fdf88fc
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

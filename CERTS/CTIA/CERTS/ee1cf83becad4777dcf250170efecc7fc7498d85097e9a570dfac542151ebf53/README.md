@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Root CA
 
-Tested At: 22 Nov 23 03:38 UTC\
+Tested At: 27 Nov 23 23:28 UTC\
 Initial Validity Period: 9125 day(s)\
-Remaining Validity Period: 8972 day(s)\
+Remaining Validity Period: 8966 day(s)\
 Subject: CN=SHAKEN Root CA, O=CTIA, C=US\
 Issuer: CN=SHAKEN Root CA, O=CTIA, C=US
 
@@ -12,9 +12,8 @@ Issuer: CN=SHAKEN Root CA, O=CTIA, C=US
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| [e_atis_subject_public_key_ca](../../ISSUES/e_atis_subject_public_key_ca/README.md) | error | ATIS1000080 | Subject Public Key Info field contains a public key that is not 256 bits |
 | [e_atis_subject_cn_root](../../ISSUES/e_atis_subject_cn_root/README.md) | error | ATIS1000080 | Common Name attribute 'SHAKEN Root CA' does not include the text string 'ROOT' (case insensitive). |
-| [e_atis_ca_subject_public_key](../../ISSUES/e_atis_ca_subject_public_key/README.md) | error | ATIS1000080 | Subject Public Key Info field contains a public key that is not 256 bits |
-| [e_atis_ca_signature_algorithm](../../ISSUES/e_atis_ca_signature_algorithm/README.md) | error | ATIS1000080 | SignatureAlgorithm field is not 'ecdsa-with-SHA256', got 1.2.840.10045.4.3.3 |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

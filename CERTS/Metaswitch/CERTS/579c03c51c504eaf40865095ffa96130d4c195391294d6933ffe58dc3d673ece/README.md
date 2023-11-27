@@ -2,9 +2,9 @@
 
 ## Certificate EPB Telecom SHAKEN Cert 4645
 
-Tested At: 22 Nov 23 03:16 UTC\
+Tested At: 27 Nov 23 23:10 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 940 day(s)\
+Remaining Validity Period: 934 day(s)\
 Subject: CN=EPB Telecom SHAKEN Cert 4645, O=Electric Power Board of Chattanooga dba EPB Telecom, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/245819f978821d3e211a6956b9e0d09fd3fed483
@@ -15,7 +15,7 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/245819f978821d3e211a6956b9e0d09fd3fed48
 |------|------|--------|---------|
 | [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 4645' |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 4645', but common name is 'EPB Telecom SHAKEN Cert 4645' |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

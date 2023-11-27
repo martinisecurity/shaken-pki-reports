@@ -2,25 +2,25 @@
 
 ## Unknown
 
-- 72 repository URLs were included in the corpus being tested
+- 74 repository URLs were included in the corpus being tested
 - 0 repository URLs in the corpus were skipped because they were duplicated
-- 72 repository URLs being tested against the remaining rules
-- 3.51 issues on average found in non-compliant certificate repository URLs
-- 98.61% of repository URLs contain one or more Error level issue
-- 80.56% of repository URLs contain one or more Warning level issue
+- 74 repository URLs being tested against the remaining rules
+- 3.45 issues on average found in non-compliant certificate repository URLs
+- 100.00% of repository URLs contain one or more Error level issue
+- 79.73% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 608ms average time it took to download each certificate
+- 578ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 58 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
+| 59 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
 | 1 | [e_atis_redirect](ISSUES/e_atis_redirect/README.md) | ATIS-1000074 |
-| 4 | [e_bad_url](ISSUES/e_bad_url/README.md) | System |
-| 53 | [e_http_status_200](ISSUES/e_http_status_200/README.md) | HTTP |
+| 6 | [e_bad_url](ISSUES/e_bad_url/README.md) | System |
+| 54 | [e_http_status_200](ISSUES/e_http_status_200/README.md) | HTTP |
 | 9 | [e_request_timeout](ISSUES/e_request_timeout/README.md) | System |
 | 2 | [e_tls_transport](ISSUES/e_tls_transport/README.md) | System |
-| 56 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
-| 58 | [w_atis_pem_certificate_chain](ISSUES/w_atis_pem_certificate_chain/README.md) | ATIS-1000080 |
+| 57 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 59 | [w_atis_pem_certificate_chain](ISSUES/w_atis_pem_certificate_chain/README.md) | ATIS-1000080 |
 | 8 | [w_atis_protocol](ISSUES/w_atis_protocol/README.md) | ATIS-1000080 |
 
 | Repository URLs | Not After |  Problems | Link |
@@ -47,10 +47,11 @@
 | `https://cdn.cnxcdn.com/shaken/bedb8d0781.crt` |  | true | [view](REPOS/1d7d8d651012d03c21fb929a89b400c5bed3bff9/README.md) |
 | `https://cert.sticr.att.net:8443/certs/att/6d021e67-e6a1-4821-bf7a-19491029a6ca` |  | true | [view](REPOS/7f767f2c2970329aedcdc118e431cdea5f195d14/README.md) |
 | `https://cert.sticr.att.net:8443/certs/att/abbf5398-e1e1-42af-96a7-092303b168ba` |  | true | [view](REPOS/9d33ae45de037e49b96d1cc6d2c4f29b1115c7ed/README.md) |
-| `https://cert.sticr.att.net:8443/certs/att/e4089cf9-5fbb-4536-825a-ac516611ac45` |  | false | [view](REPOS/8522a795165f224911916bf8feb0ea9f138d6223/README.md) |
+| `https://cert.sticr.att.net:8443/certs/att/e4089cf9-5fbb-4536-825a-ac516611ac45` |  | true | [view](REPOS/8522a795165f224911916bf8feb0ea9f138d6223/README.md) |
 | `https://cert.sticr.att.net:8443/certs/att/f498a068-56c3-49ad-80bc-4d0bf6fb9dab` |  | true | [view](REPOS/dc12b44290809af64fb330e14333c00828146121/README.md) |
 | `https://cert2.sticr.att.net:8443/sti-cr/att-stica1661870921294-cert.crt` |  | true | [view](REPOS/1b1e3533177b65b2ec075ce13f8cb1ab77d996f6/README.md) |
 | `https://cert2.sticr.att.net:8443/sti-cr/att-stica1669224827804-cert.crt` |  | true | [view](REPOS/65bce14026acb07043fb1f2bce936071e23bebd8/README.md) |
+| `https://cert2.sticr.att.net:8443/sti-cr/att-stica1683567574984-cert.crt` |  | true | [view](REPOS/4f3540566a280856005a2a2784a22866ff8bd10d/README.md) |
 | `https://certs.sip.wtsky.net/prod/shaken-7-2024.cer` |  | true | [view](REPOS/ea4b2040120552c99b81d12bd391377525a380dc/README.md) |
 | `https://commtrunks.46labs.com/cert.pem` |  | true | [view](REPOS/93169ed4244a2f0b6f9ab8fd7deb44f4d2571207/README.md) |
 | `https://cr.veriswitch.com/amcom/cd3746aff04fc44f7b93bc7000d311e2.cer` |  | true | [view](REPOS/2ce9a86d155867d4f02f7880fa4f2809bff1e7e0/README.md) |
@@ -78,6 +79,7 @@
 | `https://dial.maqssolution.live/255KMA23.pem` |  | true | [view](REPOS/2bfc70843721ca7908406b2ac802741de7a97535/README.md) |
 | `https://dial.maqssolution.live/255KMJ23.pem` |  | true | [view](REPOS/70b5cb3dd94aece08c9bab23e43b18b6dd5313d7/README.md) |
 | `https://dial.maqssolution.live/255KN22.pem` |  | true | [view](REPOS/6c2ad4e98b5e0f7170cc4a7688cdf6377eeafddc/README.md) |
+| `https://ecms.securetransit.net/certs/410bad9e05a57353f0d8739a421be619.cer` |  | true | [view](REPOS/6034f9862b22502cb879614b1690e2d94043ecb9/README.md) |
 | `https://netnumber-sti-cr.s3.amazonaws.com/certs/041091ff-fdf3-400e-b212-fe7f448439bd` |  | true | [view](REPOS/3f80acf71fbda8fe1254afd4f664052a5cd965fa/README.md) |
 | `https://netnumber-sti-cr.s3.amazonaws.com/certs/181b6f5c-4887-433f-9a7d-3b57dd78a801` |  | true | [view](REPOS/d8325e5938d1df4bbc00012336c626b220d22ce1/README.md) |
 | `https://netnumber-sti-cr.s3.amazonaws.com/certs/419b6f62-c79c-404d-9253-36db8012193f` |  | true | [view](REPOS/8fb317f71e947d5485b504967c8331fafb04abb4/README.md) |
@@ -85,6 +87,7 @@
 | `https://netnumber-sti-cr.s3.amazonaws.com/certs/df3c165a-1571-4114-81c5-82e8266bb857` |  | true | [view](REPOS/8c05a67e8aa4a4c31fa22f018b4532307d5f7507/README.md) |
 | `https://netnumber-sti-cr.s3.amazonaws.com/certs/f4fc911b-5676-4cdc-9722-cbcae0cbb55f` |  | true | [view](REPOS/32299d797966c0e4a84336069669767e64eaaf92/README.md) |
 | `https://primodialer.46labs.com/primodialer.pem/` |  | true | [view](REPOS/9b1d46a9e63867c6a22819ce7488e675076f44d3/README.md) |
+| `https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/gh-2022-12` |  | true | [view](REPOS/799823f17d04465ecde1c750b0ff457d62baa494/README.md) |
 | `https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/goto-2022-09` |  | true | [view](REPOS/28a6eaf4d52af268d2354802a3c6a6e7f8f568a4/README.md) |
 | `https://pvx1.s3.us-east-2.amazonaws.com/stirshaken/8448cc7eb8424d6ad5d2e6d71bcf6629.cer` |  | true | [view](REPOS/26f062c01a1c228b83b16b48345d3c0bcf6114b7/README.md) |
 | `https://shaken.spectrum.com/0f9d8a67c3047902bffab77edf2e246f.cer` |  | true | [view](REPOS/db132053f61d4ba8b4e509a349df3718a418bdb1/README.md) |
@@ -95,8 +98,7 @@
 | `https://stirshaken.ellianz.com:5000/stirshaken_certs/sp-cert.pem` |  | true | [view](REPOS/0efdff515049d0da95f7e0a8b78fba8b85b336cb/README.md) |
 | `https://textme-stirshaken.s3.us-west-2.amazonaws.com/textme-bundle_10-12-2024.cer` |  | true | [view](REPOS/83085bb712745a7e93803799fe7bff61694c6361/README.md) |
 | `https://www.hadlotechnologies.com/ss_certs/hadlo_stirshaken.public.crt` |  | true | [view](REPOS/93bdc96988e271115ebedc66c31f128575604c1a/README.md) |
-| `https://www.talkasiavoip.com/198K.pem` |  | true | [view](REPOS/bb30be37f3905720319bcf16596a6c137b7f5d2c/README.md) |
 | `https://www.voipessential.com/shaken/DFE323WW43Q656QWLMD` |  | true | [view](REPOS/89dcb49688a6eb12e01582bbe7639fb54faa2802/README.md) |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

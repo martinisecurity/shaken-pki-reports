@@ -1,6 +1,7 @@
 OCN,Org Name,CN,Cert
 "088K","SmartTel Inc","SHAKEN 088K 2023-05","https://prov.smarttelinc.net/shaken/cert.pem"
-"149K","Losh Communications, Inc","Losh Communications, Inc SHAKEN 149K 2023-11-22_000001","https://nyc01.trunks2.calldecibel.com:5000/stirshaken_certs/149K.pem"
+"149K","Losh Communications, Inc","Losh Communications, Inc SHAKEN 149K 2023-11-27_000001","https://nyc01.trunks2.calldecibel.com:5000/stirshaken_certs/149K.pem"
+"198K","TalkAsiaVoip LLC","TalkAsiaVoip LLC SHAKEN 198K","https://www.talkasiavoip.com/198K.pem"
 "240K","Voiceterm Inc","Voiceterm Inc SHAKEN 240K","https://certificates.peeringhub.io/240K/240K.crt"
 "255K","MAQS SOLUTIONS LLC","MAQSSolutions SHAKEN 255K","https://dial.maqssolution.live/255KND23.pem"
 "281K","Instacall","Instacall SHAKEN 281K","https://certificates.peeringhub.io/281K/281K.crt"

@@ -2,9 +2,9 @@
 
 ## Certificate Valley Telephone Cooperative Inc / VTX1 SHAKEN 2159
 
-Tested At: 22 Nov 23 03:16 UTC\
+Tested At: 27 Nov 23 23:10 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 466 day(s)\
+Remaining Validity Period: 460 day(s)\
 Subject: CN=Valley Telephone Cooperative Inc / VTX1 SHAKEN 2159, O=Valley Telephone Cooperative Inc / VTX1, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/4cd5b91a833e4ccd9c7f4dabacdd26e85cddf71d
@@ -20,9 +20,10 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/4cd5b91a833e4ccd9c7f4dabacdd26e85cddf71
 
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_tn_auth_list_spc_format
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

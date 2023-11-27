@@ -28,7 +28,7 @@
 | Instances | Test | Source |
 |-----------|------|--------|
 | 15 | [e_atis_ext_not_specified](ISSUES/e_atis_ext_not_specified/README.md) | ATIS1000080 |
-| 1 | [e_atis_subject](ISSUES/e_atis_subject/README.md) | ATIS1000080 |
+| 1 | [e_atis_subject_c_iso](ISSUES/e_atis_subject_c_iso/README.md) | ATIS1000080 |
 | 1 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
 | 5 | [e_atis_subject_cn_spc](ISSUES/e_atis_subject_cn_spc/README.md) | ATIS1000080 |
 | 1 | [e_atis_subject_dn](ISSUES/e_atis_subject_dn/README.md) | ATIS1000080 |
@@ -55,13 +55,13 @@
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 1 | [e_atis_ca_subject_c_iso](ISSUES/e_atis_ca_subject_c_iso/README.md) | ATIS1000080 |
-| 1 | [e_atis_ca_subject_dn](ISSUES/e_atis_ca_subject_dn/README.md) | ATIS1000080 |
 | 1 | [e_atis_ext_certificate_policies_ca](ISSUES/e_atis_ext_certificate_policies_ca/README.md) | ATIS1000080 |
 | 1 | [e_atis_ext_crl_distribution_ca](ISSUES/e_atis_ext_crl_distribution_ca/README.md) | ATIS1000080 |
 | 2 | [e_atis_ext_key_usage](ISSUES/e_atis_ext_key_usage/README.md) | ATIS1000080 |
+| 1 | [e_atis_subject_c_iso_ca](ISSUES/e_atis_subject_c_iso_ca/README.md) | ATIS1000080 |
 | 3 | [e_atis_subject_cn_ca](ISSUES/e_atis_subject_cn_ca/README.md) | ATIS1000080 |
 | 2 | [e_atis_subject_cn_root](ISSUES/e_atis_subject_cn_root/README.md) | ATIS1000080 |
+| 1 | [e_atis_subject_dn_ca](ISSUES/e_atis_subject_dn_ca/README.md) | ATIS1000080 |
 | 1 | [e_shaken_certificate_policies_id_ca](ISSUES/e_shaken_certificate_policies_id_ca/README.md) | US_SHAKEN_CP |
 
 ### Details
@@ -102,4 +102,4 @@
 | 01&#160;Aug&#160;23&#160;16:36&#160;UTC | Telonium SHAKEN Intermediate G1 | 01&#160;Aug&#160;33&#160;16:36&#160;UTC | false | [view](CERTS/8c0ef8682826bec79a8c64881899f6a5a4a1d52dfebe28ae419c23f85df96ea0/README.md) |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

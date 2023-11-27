@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 406K
 
-Tested At: 22 Nov 23 03:21 UTC\
+Tested At: 27 Nov 23 23:14 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -44 day(s)\
+Remaining Validity Period: -50 day(s)\
 Subject: CN=SHAKEN 406K, O=CommandLink, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/c1c27f53-dd56-44ca-9bba-45ce603a05d9/16f85bea33a1ce6d5a7c52183ae94982.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/c1c27f53-dd56-44ca-9bba-45ce603a05d9/16f8
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

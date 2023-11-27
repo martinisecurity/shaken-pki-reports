@@ -2,16 +2,16 @@
 
 ## Certificate SHAKEN 223K
 
-Tested At: 22 Nov 23 03:36 UTC\
+Tested At: 27 Nov 23 23:26 UTC\
 Initial Validity Period: 19 day(s)\
-Remaining Validity Period: -20 day(s)\
+Remaining Validity Period: -26 day(s)\
 Subject: O=Consolidated Smart Broadband Systems\\, LLC, C=US, serialNumber=90926C02B31FBBD8F2E01A1D22EE5A5A, CN=SHAKEN 223K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/RbqXk12TK-yF.pem
 
 [View certificate details](https://understandingwebpki.com/?cert=MIIDNTCCAtqgAwIBAgIURbqXk12TK%2ByFe0HpeJJiL3rW2XAwCgYIKoZIzj0EAwIwcTELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAldBMRAwDgYDVQQHEwdTZWF0dGxlMR4wHAYDVQQKExVNYXJ0aW5pIFNlY3VyaXR5LCBMTEMxIzAhBgNVBAMTGk1hcnRpbmkgU2VjdXJpdHkgU0hBS0VOIEcyMB4XDTIzMTAxMzIxMTIzN1oXDTIzMTEwMTIwMTQzNVowgYIxFDASBgNVBAMTC1NIQUtFTiAyMjNLMSkwJwYDVQQFEyA5MDkyNkMwMkIzMUZCQkQ4RjJFMDFBMUQyMkVFNUE1QTELMAkGA1UEBhMCVVMxMjAwBgNVBAoTKUNvbnNvbGlkYXRlZCBTbWFydCBCcm9hZGJhbmQgU3lzdGVtcywgTExDMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEdeiQNjAJBdooO4M99NYSu%2F5v19ish3ixA1qsIxSlGQ5wUgqU4byfRFK600P7Ewz4BeytLa3DleUcUCnYvcNN%2BaOCATwwggE4MA4GA1UdDwEB%2FwQEAwIHgDAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTXypYT8la3rAmRNRl5i0W4CPG8nzAfBgNVHSMEGDAWgBQohFBe5EN4LNBzs4sb%2FaTMFmKYGDAWBggrBgEFBQcBGgQKMAigBhYEMjIzSzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHEwtCcmlkZ2V3YXRlcjELMAkGA1UECBMCTkoxEzARBgNVBAMTClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKEwZTVEktUEEwFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEDMAoGCCqGSM49BAMCA0kAMEYCIQDUgAX9FGK7WR%2FjmcmYVC1mih9ATtj7qYuWcmviJz7aqgIhANfomQkDmXB%2B9%2Bc0aaypa7oDtj4ze0cJELNgKvBlTSi%2B)
 
-160 tests were ran and no error, warning, or notice level issues were found
+164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

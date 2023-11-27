@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 734J
 
-Tested At: 22 Nov 23 03:21 UTC\
+Tested At: 27 Nov 23 23:15 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -229 day(s)\
+Remaining Validity Period: -235 day(s)\
 Subject: CN=SHAKEN 734J, O=TELINTEL LTD, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/cf29335b-1257-4ff4-9882-94a76a244c20/fc935eeb5d1ddc2e1458e802cddae9da.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/cf29335b-1257-4ff4-9882-94a76a244c20/fc93
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

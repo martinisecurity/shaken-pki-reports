@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 423G
 
-Tested At: 22 Nov 23 03:19 UTC\
+Tested At: 27 Nov 23 23:13 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -21 day(s)\
+Remaining Validity Period: -27 day(s)\
 Subject: CN=SHAKEN 423G, O=Voxbeam, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/6e308e2f-b328-4f35-8a08-1f71bd1e078b/33a05c4d19a6cb0ae26f741ab6506276.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/6e308e2f-b328-4f35-8a08-1f71bd1e078b/33a0
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

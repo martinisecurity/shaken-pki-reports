@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 3013
 
-Tested At: 22 Nov 23 03:17 UTC\
+Tested At: 27 Nov 23 23:11 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -345 day(s)\
+Remaining Validity Period: -351 day(s)\
 Subject: CN=SHAKEN 3013, O=KPU, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/0ada2752-2d93-4fb9-a726-4cc783aa01d5/c3a35f8a5589fdf16fd3da5a1cf61ab1.pem
@@ -19,9 +19,10 @@ Link: https://certificates.clearip.com/0ada2752-2d93-4fb9-a726-4cc783aa01d5/c3a3
 
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_tn_auth_list_spc_format
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

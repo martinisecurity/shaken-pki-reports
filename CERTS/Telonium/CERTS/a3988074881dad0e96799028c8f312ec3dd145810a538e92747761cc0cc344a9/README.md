@@ -2,16 +2,16 @@
 
 ## Certificate SHAKEN 721K
 
-Tested At: 22 Nov 23 03:32 UTC\
+Tested At: 27 Nov 23 23:22 UTC\
 Initial Validity Period: 367 day(s)\
-Remaining Validity Period: 292 day(s)\
+Remaining Validity Period: 286 day(s)\
 Subject: serialNumber=1D6AE2B1-BFD7-4560-9EFE-9ACFC46295B7, CN=SHAKEN 721K, O=KonnectTel LLC, C=US\
 Issuer: CN=Telonium SHAKEN Intermediate G1, O=Telonium Communications LLC, L=Atlanta, ST=GA, C=US\
 Link: https://sadmin.konnecttel.com/KonnectTel.pem
 
 [View certificate details](https://understandingwebpki.com/?cert=MIICwTCCAmigAwIBAgIRAJVHtenTQPgunazXLxYUeJgwCgYIKoZIzj0EAwIwfDELMAkGA1UEBhMCVVMxCzAJBgNVBAgMAkdBMRAwDgYDVQQHDAdBdGxhbnRhMSQwIgYDVQQKDBtUZWxvbml1bSBDb21tdW5pY2F0aW9ucyBMTEMxKDAmBgNVBAMMH1RlbG9uaXVtIFNIQUtFTiBJbnRlcm1lZGlhdGUgRzEwHhcNMjMwOTA4MjMxMDI1WhcNMjQwOTA4MjMxMTI1WjBrMQswCQYDVQQGEwJVUzEXMBUGA1UEChMOS29ubmVjdFRlbCBMTEMxFDASBgNVBAMTC1NIQUtFTiA3MjFLMS0wKwYDVQQFEyQxRDZBRTJCMS1CRkQ3LTQ1NjAtOUVGRS05QUNGQzQ2Mjk1QjcwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARuyfcj7OFmTImspdyc2NUAwxYX%2FiFmXvrlxHruHyyzvT6IzNvYXa%2F%2Bm3%2F%2Fh6a1uPSZ6NRlNXkt6uZ9cWS8MeNko4HbMIHYMA4GA1UdDwEB%2FwQEAwIHgDAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSzFJ3hm31z%2BhitM3VXZZO2TZhaezAfBgNVHSMEGDAWgBSqJLv%2FFHVAeS2Hb%2BgNQXfKu82IsDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwRwYDVR0fBEAwPjA8oDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsMBYGCCsGAQUFBwEaBAowCKAGFgQ3MjFLMAoGCCqGSM49BAMCA0cAMEQCIFmSU3Uc6M0KyyLWSNsPLm5hJLGQsL3iErkuJopGdYrkAiAtw34fBZFHYBjY9qXNpOyUESM5dTX7mDKQ%2BipUyWE6Uw%3D%3D)
 
-160 tests were ran and no error, warning, or notice level issues were found
+164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 682C
 
-Tested At: 22 Nov 23 03:19 UTC\
+Tested At: 27 Nov 23 23:13 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -27 day(s)\
+Remaining Validity Period: -33 day(s)\
 Subject: CN=SHAKEN 682C, O=SDN, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/8254cad1-d2a7-451f-93c0-044633904df3/2deb5ce35e51863b59e1ecbdc99fc46f.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/8254cad1-d2a7-451f-93c0-044633904df3/2deb
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

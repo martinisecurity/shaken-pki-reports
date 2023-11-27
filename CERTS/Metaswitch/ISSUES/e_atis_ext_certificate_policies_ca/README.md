@@ -16,7 +16,7 @@ No error, warning, or notice level issues were found
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | Metaswitch STI-CA SHAKEN Issuing 1 | [view](../../CERTS/b91a9874fbefc3feda9d5f9bd336e8b999c9b15b25aae7fe3c61d87373a5d1a1/README.md) | the Certificate Policies extension is not present |
+| error | Metaswitch STI-CA SHAKEN Issuing 1 | [view](../../CERTS/b91a9874fbefc3feda9d5f9bd336e8b999c9b15b25aae7fe3c61d87373a5d1a1/README.md) | The Certificate Policies extension is not present |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

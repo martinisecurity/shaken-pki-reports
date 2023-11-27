@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `http://stirshaken.flashtelco.com:8077/cert1.pem`\
-Tested At: 22 Nov 23 03:16 UTC\
-Time: 121ms
+Tested At: 27 Nov 23 23:10 UTC\
+Time: 73ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 121ms
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 | [w_atis_protocol](../../ISSUES/w_atis_protocol/README.md) | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

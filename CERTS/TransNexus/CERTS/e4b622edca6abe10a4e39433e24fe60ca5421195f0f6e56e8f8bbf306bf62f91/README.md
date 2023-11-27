@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 208K
 
-Tested At: 22 Nov 23 03:17 UTC\
+Tested At: 27 Nov 23 23:11 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -35 day(s)\
+Remaining Validity Period: -41 day(s)\
 Subject: CN=SHAKEN 208K, O=Vested Networks, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/000b56ea-b4c8-46f2-89e0-ac03650b1b97/a28e210d24bff36406312ec5d8e8ebaa.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/000b56ea-b4c8-46f2-89e0-ac03650b1b97/a28e
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

@@ -2,16 +2,16 @@
 
 ## Certificate SHAKEN 066K
 
-Tested At: 22 Nov 23 03:36 UTC\
+Tested At: 27 Nov 23 23:26 UTC\
 Initial Validity Period: 3 day(s)\
-Remaining Validity Period: -12 day(s)\
+Remaining Validity Period: -18 day(s)\
 Subject: O=Upchurch Telecom & Data\\, Inc., C=US, serialNumber=5657A468B773221DE1128221275C6983, CN=SHAKEN 066K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/JW0zO9aTRQjM.pem
 
 [View certificate details](https://understandingwebpki.com/?cert=MIIDJzCCAs2gAwIBAgIUJW0zO9aTRQjMg%2Fkgami%2BinZpbCEwCgYIKoZIzj0EAwIwcTELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAldBMRAwDgYDVQQHEwdTZWF0dGxlMR4wHAYDVQQKExVNYXJ0aW5pIFNlY3VyaXR5LCBMTEMxIzAhBgNVBAMTGk1hcnRpbmkgU2VjdXJpdHkgU0hBS0VOIEcyMB4XDTIzMTEwNjIxMDYzM1oXDTIzMTEwOTIwMDUzN1owdjEUMBIGA1UEAxMLU0hBS0VOIDA2NksxKTAnBgNVBAUTIDU2NTdBNDY4Qjc3MzIyMURFMTEyODIyMTI3NUM2OTgzMQswCQYDVQQGEwJVUzEmMCQGA1UECgwdVXBjaHVyY2ggVGVsZWNvbSAmIERhdGEsIEluYy4wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARkLu6HZMyM%2Bplr0XVROWLCkgcBMvoGVxEwEUaxJZA%2Be4%2F8zgEd3HHpjhIYKuqv8shoZnnk3LF0lX7Csv%2BkXkZHo4IBPDCCATgwDgYDVR0PAQH%2FBAQDAgeAMAwGA1UdEwEB%2FwQCMAAwHQYDVR0OBBYEFLIkwtQCjfCMHMRDOfHmS9%2Fb5vUyMB8GA1UdIwQYMBaAFCiEUF7kQ3gs0HOzixv9pMwWYpgYMBYGCCsGAQUFBwEaBAowCKAGFgQwNjZLMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcTC0JyaWRnZXdhdGVyMQswCQYDVQQIEwJOSjETMBEGA1UEAxMKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoTBlNUSS1QQTAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwCgYIKoZIzj0EAwIDSAAwRQIhANxlXzbRb%2B02d3anyA0vZe9Oypo4ZHquCPxudIlNdXzIAiA7YeknzH1sYg8IvfN3cKNXx6jjBvdXuZ4%2Big3xv0Wuxg%3D%3D)
 
-160 tests were ran and no error, warning, or notice level issues were found
+164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

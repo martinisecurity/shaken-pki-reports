@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 986J
 
-Tested At: 22 Nov 23 03:34 UTC\
+Tested At: 27 Nov 23 23:24 UTC\
 Initial Validity Period: 398 day(s)\
-Remaining Validity Period: 21 day(s)\
+Remaining Validity Period: 15 day(s)\
 Subject: CN=SHAKEN 986J, O=RingCentral, C=CA\
 Issuer: CN=Neustar Canada Certified Caller ID SHAKEN CA-2, OU=www.ca.ccid.neustar, O=Neustar Information Services Inc, C=CA\
 Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/815b181b29c53037f17257ba5733b2cc.crt
@@ -13,15 +13,16 @@ Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/815b181b29c53037f17257
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | the Certificate Policies extension contains an invalid OID value: 1.3.6.1.4.1.56223.1. Available OIDs: [2.16.840.1.114569.1.1.3 2.16.840.1.114569.1.1.4] |
+| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 1.3.6.1.4.1.56223.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 ### Not Effective
 
 - e_atis_ext_not_specified
 - e_atis_serial_number_size
+- e_atis_subject_c_iso
 - e_atis_tn_auth_list_spc_format
 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

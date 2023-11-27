@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 164ms average time it took to download each certificate
+- 136ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://app.batchdialer.com/shakenv2.crt` | 16&#160;May&#160;24&#160;16:18&#160;UTC | true | [view](REPOS/6fd781e3603162b54ef0b670c971d3c86db18721/README.md) |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

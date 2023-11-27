@@ -3,8 +3,8 @@
 ## MASH Telecom Inc
 
 Name: `https://ssc.getsipnav.com/certs/ba4c10c5aba67bf3db221cadcac7b67b45422720`\
-Tested At: 22 Nov 23 03:32 UTC\
-Time: 180ms
+Tested At: 27 Nov 23 23:22 UTC\
+Time: 144ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 180ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

@@ -3,8 +3,8 @@
 ## LP Telecom
 
 Name: `https://ssc.getsipnav.com/certs/f78ed183727bad58dd63a5a477a0deb116b83623`\
-Tested At: 22 Nov 23 03:33 UTC\
-Time: 118ms
+Tested At: 27 Nov 23 23:22 UTC\
+Time: 151ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 118ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

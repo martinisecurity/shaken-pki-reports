@@ -20,4 +20,4 @@ No error, warning, or notice level issues were found
 | error | Telonium STI-CA Root2 | [view](../../CERTS/a58b27999411d3d54121d4eadc82aa128be1fef96cda3029b2015677188ea40b/README.md) | Key Usage extension not found |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

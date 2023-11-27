@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 140ms average time it took to download each certificate
+- 95ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -35,4 +35,4 @@
 | `https://certificates.peeringhub.io/744J/744J.crt` | 12&#160;Sep&#160;24&#160;13:40&#160;UTC | true | [view](REPOS/3af0a5123d6850e5aa936da2adc555ea47a5274c/README.md) |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

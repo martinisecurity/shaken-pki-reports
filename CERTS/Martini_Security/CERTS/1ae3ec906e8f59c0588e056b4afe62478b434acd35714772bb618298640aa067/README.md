@@ -2,16 +2,16 @@
 
 ## Certificate SHAKEN 186K
 
-Tested At: 22 Nov 23 03:31 UTC\
+Tested At: 27 Nov 23 23:21 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 219 day(s)\
+Remaining Validity Period: 214 day(s)\
 Subject: O=Go2Uno LLC, C=US, serialNumber=FA9A064E03B1B7C5FB9EECA4DCD23325, CN=SHAKEN 186K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://go2uno.46labs.com
 
 [View certificate details](https://understandingwebpki.com/?cert=MIICszCCAligAwIBAgIUC4q6wIUws20X5XS0ndjbv0wgcUswCgYIKoZIzj0EAwIwcTELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAldBMRAwDgYDVQQHEwdTZWF0dGxlMR4wHAYDVQQKExVNYXJ0aW5pIFNlY3VyaXR5LCBMTEMxIzAhBgNVBAMTGk1hcnRpbmkgU2VjdXJpdHkgU0hBS0VOIEcyMB4XDTIzMDYyOTE4NDAyNloXDTI0MDYyODAxMjYzNlowYzEUMBIGA1UEAxMLU0hBS0VOIDE4NksxKTAnBgNVBAUTIEZBOUEwNjRFMDNCMUI3QzVGQjlFRUNBNERDRDIzMzI1MQswCQYDVQQGEwJVUzETMBEGA1UEChMKR28yVW5vIExMQzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABKfdgSE%2FD1wiO3HYEUFqW%2FbJcjPXWrYrR1vK469IgcnJYNJaiyoizztrNQ8sv3ol10lPtz00RzJ44sD%2BdwbZm1GjgdswgdgwDgYDVR0PAQH%2FBAQDAgeAMAwGA1UdEwEB%2FwQCMAAwHQYDVR0OBBYEFLCYPe6jEYlVw4zSIJ%2BOQZGSvUwAMB8GA1UdIwQYMBaAFCiEUF7kQ3gs0HOzixv9pMwWYpgYMBYGCCsGAQUFBwEaBAowCKAGFgQxODZLMEcGA1UdHwRAMD4wPKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwCgYIKoZIzj0EAwIDSQAwRgIhAIAbkvFb5BtrYDuyHMpc4DxUPpfasDjjGrA%2F57JES1ozAiEA1la2jBnaBveUCPXa%2FOIMMHbZzW2rnFji2WivNzR7m84%3D)
 
-160 tests were ran and no error, warning, or notice level issues were found
+164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

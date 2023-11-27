@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 7021
 
-Tested At: 22 Nov 23 03:18 UTC\
+Tested At: 27 Nov 23 23:12 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -127 day(s)\
+Remaining Validity Period: -133 day(s)\
 Subject: CN=SHAKEN 7021, O=Vantage Point Solutions\\ , C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/3dbc4f5d-0dd8-4787-a67d-faa7afe1595c/0a1f89f609192e52fa6106e902ecd5a5.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/3dbc4f5d-0dd8-4787-a67d-faa7afe1595c/0a1f
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC

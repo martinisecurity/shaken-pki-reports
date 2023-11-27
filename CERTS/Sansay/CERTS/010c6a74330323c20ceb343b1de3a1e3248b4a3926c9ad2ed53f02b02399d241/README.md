@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Telxio Networks 492K
 
-Tested At: 22 Nov 23 03:31 UTC\
+Tested At: 27 Nov 23 23:20 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 149 day(s)\
+Remaining Validity Period: 143 day(s)\
 Subject: CN=SHAKEN Telxio Networks 492K, OU=AS-Unit, O=Telxio Networks, ST=Nevada, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/ss-telxio
@@ -14,7 +14,7 @@ Link: https://cr.sansay.com/ss-telxio
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 492K' |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 492K', but common name is 'SHAKEN Telxio Networks 492K' |
 
 
-Generated: 22 Nov 23 03:38 UTC
+Generated: 27 Nov 23 23:28 UTC
