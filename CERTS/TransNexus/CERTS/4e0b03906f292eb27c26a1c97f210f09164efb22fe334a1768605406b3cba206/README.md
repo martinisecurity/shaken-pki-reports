@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 065J
 
-Tested At: 27 Nov 23 22:22 UTC\
+Tested At: 28 Nov 23 10:19 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -348 day(s)\
 Subject: CN=SHAKEN 065J, O=One Ring Networks, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/1de2a6c6-9b1b-4894-8c0c-0cccfdf25e8d/2e73
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

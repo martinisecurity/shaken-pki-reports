@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 366G
 
-Tested At: 27 Nov 23 22:25 UTC\
+Tested At: 28 Nov 23 10:26 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -336 day(s)\
 Subject: CN=SHAKEN 366G, O=USA Digital, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/e9497931-96b3-4ff8-8306-1b1273847a4d/dd9e
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

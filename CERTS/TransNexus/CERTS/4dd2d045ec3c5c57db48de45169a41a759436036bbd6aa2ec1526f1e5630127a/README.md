@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 177K
 
-Tested At: 27 Nov 23 22:24 UTC\
+Tested At: 28 Nov 23 10:23 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -292 day(s)\
 Subject: CN=SHAKEN 177K, O=Cytracom\\, LLC, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/8d118994-4994-4735-ac71-42c0bbb7848f/00b0
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

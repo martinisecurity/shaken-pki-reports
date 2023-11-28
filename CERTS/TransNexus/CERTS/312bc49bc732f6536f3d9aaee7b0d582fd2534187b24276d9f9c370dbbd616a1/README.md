@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 401D
 
-Tested At: 27 Nov 23 22:24 UTC\
+Tested At: 28 Nov 23 10:25 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -96 day(s)\
 Subject: CN=SHAKEN 401D, O=United Telephone Association, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/c358c640-0ab7-4bc7-b394-ebaa9bd47f88/4700
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

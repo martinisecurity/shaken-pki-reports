@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 7453
 
-Tested At: 27 Nov 23 22:22 UTC\
+Tested At: 28 Nov 23 10:20 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -183 day(s)\
 Subject: CN=SHAKEN 7453, O=TPx, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/2a26bd25-8973-44ba-9b94-a8e4716b3888/b9cb
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

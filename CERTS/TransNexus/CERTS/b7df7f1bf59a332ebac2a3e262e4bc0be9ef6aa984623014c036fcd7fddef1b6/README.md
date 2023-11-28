@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 9714
 
-Tested At: 27 Nov 23 22:23 UTC\
+Tested At: 28 Nov 23 10:21 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -306 day(s)\
 Subject: CN=SHAKEN 9714, O=Grid4 Communications, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/51a37c7a-5af2-439d-94ce-677fa750ee2f/29dd
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

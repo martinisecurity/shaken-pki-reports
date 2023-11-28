@@ -2,7 +2,7 @@
 
 ## Certificate Summit Broadband SHAKEN Cert 7857
 
-Tested At: 27 Nov 23 22:21 UTC\
+Tested At: 28 Nov 23 10:18 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 825 day(s)\
 Subject: CN=Summit Broadband SHAKEN Cert 7857, O=Summit Broadband, C=US\
@@ -27,4 +27,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/47c6d4e4af62db63cec43e632b0c057700d9704
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

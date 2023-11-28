@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Nextiva, Inc 914H
 
-Tested At: 27 Nov 23 22:46 UTC\
+Tested At: 28 Nov 23 10:43 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 178 day(s)\
 Subject: CN=SHAKEN Nextiva\\, Inc 914H, OU=UCaaS, O=Nextiva\\, Inc, ST=Arizona, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Nextiva_Shaken
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 914H', but common name is 'SHAKEN Nextiva, Inc 914H' |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 782J
 
-Tested At: 27 Nov 23 22:46 UTC\
+Tested At: 28 Nov 23 10:43 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 152 day(s)\
 Subject: CN=SHAKEN 782J, O=AM Communication Labs Inc, C=US\
@@ -16,4 +16,4 @@ Link: https://cr.veriswitch.com/amcom/0cc11d4d5142b1e7ef5957eb4c9020c8.cer
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 314K
 
-Tested At: 27 Nov 23 22:24 UTC\
+Tested At: 28 Nov 23 10:24 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -305 day(s)\
 Subject: CN=SHAKEN 314K, O=Proclaim Voip, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/af41d000-7fb7-42d7-83f7-9686b67ecb60/9ab4
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

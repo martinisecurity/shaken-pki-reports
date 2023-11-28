@@ -2,7 +2,7 @@
 
 ## Certificate Plant Telephone Company SHAKEN 0379
 
-Tested At: 27 Nov 23 22:21 UTC\
+Tested At: 28 Nov 23 10:18 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 889 day(s)\
 Subject: CN=Plant Telephone Company SHAKEN 0379, O=Plant Telephone Company, C=US\
@@ -13,8 +13,8 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/81f3a3da944c5778c3db724e7f2a7a58accbd30
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

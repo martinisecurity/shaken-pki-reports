@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 618J
 
-Tested At: 27 Nov 23 22:26 UTC\
+Tested At: 28 Nov 23 10:27 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 241 day(s)\
 Subject: CN=SHAKEN 618J, O=TampaBay DSL Inc dba KUDUCOM, C=US\
@@ -16,4 +16,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/132.133
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

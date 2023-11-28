@@ -2,7 +2,7 @@
 
 ## Certificate Ritter Communications SHAKEN cert 095A
 
-Tested At: 27 Nov 23 22:21 UTC\
+Tested At: 28 Nov 23 10:18 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 735 day(s)\
 Subject: CN=Ritter Communications SHAKEN cert 095A, O=Ritter Communications, C=US\
@@ -27,4 +27,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/7721a7f2c31bb0f15ac5d46257b8c3bee1bbae6
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

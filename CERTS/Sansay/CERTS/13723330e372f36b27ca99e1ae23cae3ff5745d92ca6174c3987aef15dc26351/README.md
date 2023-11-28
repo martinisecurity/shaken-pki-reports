@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN FastCast Networks 318K
 
-Tested At: 27 Nov 23 22:47 UTC\
+Tested At: 28 Nov 23 10:44 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 207 day(s)\
 Subject: CN=SHAKEN FastCast Networks 318K, OU=Fastcast, O=FastCast Networks, ST=Nevada, C=US\
@@ -13,8 +13,8 @@ Link: https://fastcast.46labs.com
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 318K', but common name is 'SHAKEN FastCast Networks 318K' |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 318K', but common name is 'SHAKEN FastCast Networks 318K' |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

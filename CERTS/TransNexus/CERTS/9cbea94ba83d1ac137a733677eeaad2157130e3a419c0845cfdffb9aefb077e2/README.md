@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 589J
 
-Tested At: 27 Nov 23 22:23 UTC\
+Tested At: 28 Nov 23 10:21 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -201 day(s)\
 Subject: CN=SHAKEN 589J, O=Simplicity VoIP, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/4ca62cb9-03b5-42f8-8fc3-67cecf1feeb2/8b3d
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

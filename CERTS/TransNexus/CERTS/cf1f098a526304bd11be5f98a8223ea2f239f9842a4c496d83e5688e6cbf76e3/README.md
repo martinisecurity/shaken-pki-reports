@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 747J
 
-Tested At: 27 Nov 23 22:24 UTC\
+Tested At: 28 Nov 23 10:24 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -39 day(s)\
 Subject: CN=SHAKEN 747J, O=Magic Apple, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/9e31f6fe-cfd3-49cc-b9fc-22963012a8d7/192c
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

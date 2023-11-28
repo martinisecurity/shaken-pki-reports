@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Dynalink Communications Inc 991D
 
-Tested At: 27 Nov 23 22:45 UTC\
+Tested At: 28 Nov 23 10:43 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 205 day(s)\
 Subject: CN=SHAKEN Dynalink Communications Inc 991D, OU=Voice Engineering, O=Dynalink Communications Inc, ST=New York, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/991D_20230620.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 991D', but common name is 'SHAKEN Dynalink Communications Inc 991D' |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

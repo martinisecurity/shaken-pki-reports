@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN SouthPoint Communications 205k
 
-Tested At: 27 Nov 23 22:29 UTC\
+Tested At: 28 Nov 23 10:30 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -214 day(s)\
 Subject: emailAddress=chris.duncan@soundcurve.com, CN=SHAKEN SouthPoint Communications 205k, OU=Operations, O=SouthPoint Communications, ST=California, C=US, emailAddress=chris.duncan@soundcurve.com\
@@ -18,4 +18,4 @@ Link: https://cr.sansay.com/205k/order/247_205k_99
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 205k', but common name is 'SHAKEN SouthPoint Communications 205k' |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

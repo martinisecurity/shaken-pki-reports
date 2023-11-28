@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Vumber LLC 225K
 
-Tested At: 27 Nov 23 22:46 UTC\
+Tested At: 28 Nov 23 10:43 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 352 day(s)\
 Subject: CN=SHAKEN Vumber LLC 225K, OU=VEHMP, O=Vumber LLC, ST=Pennsylvania, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Vumber_LLC_225K
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 225K', but common name is 'SHAKEN Vumber LLC 225K' |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

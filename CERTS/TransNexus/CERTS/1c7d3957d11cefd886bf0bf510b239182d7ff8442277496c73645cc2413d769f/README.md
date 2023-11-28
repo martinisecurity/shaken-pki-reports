@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 918J
 
-Tested At: 27 Nov 23 22:23 UTC\
+Tested At: 28 Nov 23 10:20 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -401 day(s)\
 Subject: CN=SHAKEN 918J, OU=SHAKEN, O=VoIPX International Inc, C=US\
@@ -26,4 +26,4 @@ Link: https://certificates.clearip.com/3bbe1f4c-3184-44ee-84f4-2f63891aa57b/a99e
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

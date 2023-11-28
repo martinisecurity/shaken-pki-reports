@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Xchange Telecom LLC 325B
 
-Tested At: 27 Nov 23 22:32 UTC\
+Tested At: 28 Nov 23 10:32 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 353 day(s)\
 Subject: CN=SHAKEN Xchange Telecom LLC 325B, OU=Bulk Solutions STI-AS, O=Xchange Telecom LLC, ST=New York, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/325B_20211101.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 325B', but common name is 'SHAKEN Xchange Telecom LLC 325B' |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

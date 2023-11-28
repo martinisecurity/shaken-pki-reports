@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 0860
 
-Tested At: 27 Nov 23 22:24 UTC\
+Tested At: 28 Nov 23 10:24 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -107 day(s)\
 Subject: CN=SHAKEN 0860, O=Norvado, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/9e58aca8-8c02-4026-ab15-4e56103c3d68/0df5
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 9627
 
-Tested At: 27 Nov 23 22:54 UTC\
+Tested At: 28 Nov 23 10:51 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: 53 day(s)\
+Remaining Validity Period: 52 day(s)\
 Subject: O=Bendtel, C=US, serialNumber=5F5D7FC5EF8B1FC5CC1A101523947F74, CN=SHAKEN 9627\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/WSum5fTS00TY.pem
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/WSum5fTS00TY.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

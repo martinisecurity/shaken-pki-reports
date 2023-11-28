@@ -2,7 +2,7 @@
 
 ## Certificate 846B
 
-Tested At: 27 Nov 23 22:48 UTC\
+Tested At: 28 Nov 23 10:45 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 174 day(s)\
 Subject: C=US, ST=Texas, L=Hallsville, O=Tim Ron Enterprises\\, LLC, OU=SHAKEN, CN=846B\
@@ -14,8 +14,8 @@ Link: https://prod001-cr.rbbnidhub.com/OaPccQ6Mgz/sign-cert2
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_atis_signature_algorithm](../../ISSUES/e_atis_signature_algorithm/README.md) | error | ATIS1000080 | SignatureAlgorithm field is not 'ecdsa-with-SHA256', got 1.2.840.113549.1.1.11 |
-| [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common Name attribute '846B' does not contain 'SHAKEN' |
 | [e_atis_ext_certificate_policies](../../ISSUES/e_atis_ext_certificate_policies/README.md) | error | ATIS1000080 | The Certificate Policies extension is not present |
+| [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common Name attribute '846B' does not contain 'SHAKEN' |
 
 ### Not Effective
 
@@ -31,4 +31,4 @@ Link: https://prod001-cr.rbbnidhub.com/OaPccQ6Mgz/sign-cert2
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

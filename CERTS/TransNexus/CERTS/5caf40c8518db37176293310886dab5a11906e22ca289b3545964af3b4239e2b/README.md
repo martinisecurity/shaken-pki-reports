@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 769J
 
-Tested At: 27 Nov 23 22:23 UTC\
+Tested At: 28 Nov 23 10:21 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -201 day(s)\
 Subject: CN=SHAKEN 769J, O=Affiliated Technology Solutions LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/471a46b3-3de4-4aa2-964b-2ff03ddbc8fe/c605
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

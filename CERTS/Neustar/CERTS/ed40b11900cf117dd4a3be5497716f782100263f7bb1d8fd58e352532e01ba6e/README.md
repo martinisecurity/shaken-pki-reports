@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 772J
 
-Tested At: 27 Nov 23 22:49 UTC\
+Tested At: 28 Nov 23 10:45 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 144 day(s)\
 Subject: CN=SHAKEN 772J, O=VOIP ESSENTIAL LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/150ed90442e147b17a8647c157e6a00e195f87df
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

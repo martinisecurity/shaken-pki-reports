@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Telcentris Inc. dba Voxox 696J
 
-Tested At: 27 Nov 23 22:52 UTC\
+Tested At: 28 Nov 23 10:49 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -11 day(s)\
 Subject: CN=SHAKEN Telcentris Inc. dba Voxox 696J, OU=NOC, O=Telcentris Inc. dba Voxox, ST=California, C=US\
@@ -17,4 +17,4 @@ Link: https://stirshaken.telcentris.sonoc.io/api/v1/certificates/Voxox_696J_1
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 696J', but common name is 'SHAKEN Telcentris Inc. dba Voxox 696J' |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

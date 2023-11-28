@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 029K
 
-Tested At: 27 Nov 23 22:23 UTC\
+Tested At: 28 Nov 23 10:22 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -236 day(s)\
 Subject: CN=SHAKEN 029K, O=VoIPConsultants.biz LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/7f0be90c-4263-43fc-b425-53c54b34cd5a/940a
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

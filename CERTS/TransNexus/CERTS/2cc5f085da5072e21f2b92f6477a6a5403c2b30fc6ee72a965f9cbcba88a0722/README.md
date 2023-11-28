@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 518J
 
-Tested At: 27 Nov 23 22:25 UTC\
+Tested At: 28 Nov 23 10:27 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -120 day(s)\
 Subject: CN=SHAKEN 518J, O=TransNexus\\, Inc., C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/transnexus/5c029f57709a5b7765b7179136d18d
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

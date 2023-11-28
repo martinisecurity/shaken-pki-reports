@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 195K
 
-Tested At: 27 Nov 23 22:25 UTC\
+Tested At: 28 Nov 23 10:26 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -133 day(s)\
 Subject: CN=SHAKEN 195K, O=903 Broadband, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/f300bcde-296b-4834-98b0-873616066853/3836
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

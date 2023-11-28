@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 763J
 
-Tested At: 27 Nov 23 22:25 UTC\
+Tested At: 28 Nov 23 10:26 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -351 day(s)\
 Subject: CN=SHAKEN 763J, O=InfoWest Inc., C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/f12e1928-6745-4bda-b71c-42eaf0738bce/a45a
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

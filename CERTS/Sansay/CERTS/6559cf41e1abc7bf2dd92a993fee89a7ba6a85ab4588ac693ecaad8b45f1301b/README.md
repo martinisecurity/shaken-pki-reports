@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Televergence Solutions Inc 779J
 
-Tested At: 27 Nov 23 22:39 UTC\
+Tested At: 28 Nov 23 10:38 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -329 day(s)\
 Subject: emailAddress=ddeutsch@televergence.com, CN=SHAKEN Televergence Solutions Inc 779J, OU=Production, O=Televergence Solutions Inc, ST=Tennessee, C=US, emailAddress=ddeutsch@televergence.com\
@@ -26,4 +26,4 @@ Link: https://cr.sansay.com/779J/order/164_779J_73
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

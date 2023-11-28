@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Cyberlynk Network, LLC 086K
 
-Tested At: 27 Nov 23 22:29 UTC\
+Tested At: 28 Nov 23 10:30 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -295 day(s)\
 Subject: emailAddress=software@cyberlynk.net, CN=SHAKEN Cyberlynk Network\\, LLC 086K, OU=NOC, O=Cyberlynk Network\\, LLC, ST=Winsconsin, C=US, emailAddress=software@cyberlynk.net\
@@ -26,4 +26,4 @@ Link: https://cr.sansay.com/086K/order/203_086K_91
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

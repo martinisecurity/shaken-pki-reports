@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 7575
 
-Tested At: 27 Nov 23 22:28 UTC\
+Tested At: 28 Nov 23 10:29 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -32 day(s)\
 Subject: CN=SHAKEN 7575, O=Lumen, C=US\
@@ -25,4 +25,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11563.10209.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

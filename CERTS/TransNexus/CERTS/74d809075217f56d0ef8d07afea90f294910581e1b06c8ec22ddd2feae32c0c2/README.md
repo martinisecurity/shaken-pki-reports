@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 242K
 
-Tested At: 27 Nov 23 22:23 UTC\
+Tested At: 28 Nov 23 10:22 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -322 day(s)\
 Subject: CN=SHAKEN 242K, O=Freshphone\\, Inc., C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/6fa91173-e74d-4426-8148-04a0cbc063c6/1636
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

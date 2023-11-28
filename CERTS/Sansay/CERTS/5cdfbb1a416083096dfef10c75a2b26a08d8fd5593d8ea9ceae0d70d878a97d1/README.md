@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Every1 Telecom 486K
 
-Tested At: 27 Nov 23 22:21 UTC\
+Tested At: 28 Nov 23 10:18 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 112 day(s)\
+Remaining Validity Period: 111 day(s)\
 Subject: CN=SHAKEN Every1 Telecom 486K, OU=President, O=Every1 Telecom, ST=Texas, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cdn.cnxcdn.com/shaken/69.crt
@@ -17,4 +17,4 @@ Link: https://cdn.cnxcdn.com/shaken/69.crt
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 486K', but common name is 'SHAKEN Every1 Telecom 486K' |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

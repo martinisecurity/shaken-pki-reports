@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Rayfield Communications, Inc. 006K
 
-Tested At: 27 Nov 23 22:46 UTC\
+Tested At: 28 Nov 23 10:43 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 365 day(s)\
 Subject: CN=SHAKEN Rayfield Communications\\, Inc. 006K, OU=VoIP, O=Rayfield Communications\\, Inc., ST=Missouri, C=US\
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/Rayfield_Communications_Inc._006K
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 006K', but common name is 'SHAKEN Rayfield Communications, Inc. 006K' |
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 006K', but common name is 'SHAKEN Rayfield Communications, Inc. 006K' |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

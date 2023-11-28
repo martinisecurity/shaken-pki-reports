@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 611J
 
-Tested At: 27 Nov 23 22:49 UTC\
+Tested At: 28 Nov 23 10:45 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -159 day(s)\
 Subject: CN=SHAKEN 611J, O=Telcast Networks, C=US\
@@ -25,4 +25,4 @@ Link: https://ssc.getsipnav.com/certs/9861b7e493ab608182e57524671889bf94cd2fc8
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

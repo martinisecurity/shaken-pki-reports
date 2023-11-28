@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 983J
 
-Tested At: 27 Nov 23 22:23 UTC\
+Tested At: 28 Nov 23 10:21 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -269 day(s)\
 Subject: CN=SHAKEN 983J, O=ESI, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/9e9b
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

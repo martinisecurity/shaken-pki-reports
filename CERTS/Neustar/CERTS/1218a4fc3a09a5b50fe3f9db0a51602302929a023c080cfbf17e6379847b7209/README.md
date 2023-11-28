@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 261H
 
-Tested At: 27 Nov 23 22:49 UTC\
+Tested At: 28 Nov 23 10:45 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 193 day(s)\
 Subject: CN=SHAKEN 261H, O=Voyce, C=US\
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/b1f83b2a8803ca5297ced7cb375cc6f5e2b44f85
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

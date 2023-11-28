@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 848J
 
-Tested At: 27 Nov 23 22:24 UTC\
+Tested At: 28 Nov 23 10:22 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -130 day(s)\
 Subject: CN=SHAKEN 848J, O=Invision Technologies LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/84d348e0-ce86-4b5b-b14c-8419e12eea57/73f7
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

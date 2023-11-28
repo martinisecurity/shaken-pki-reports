@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN GIP Technology 434K
 
-Tested At: 27 Nov 23 22:47 UTC\
+Tested At: 28 Nov 23 10:44 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 149 day(s)\
 Subject: CN=SHAKEN GIP Technology 434K, OU=GIPT, O=GIP Technology, ST=California, C=US\
@@ -17,4 +17,4 @@ Link: https://gip.46labs.com
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 434K', but common name is 'SHAKEN GIP Technology 434K' |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

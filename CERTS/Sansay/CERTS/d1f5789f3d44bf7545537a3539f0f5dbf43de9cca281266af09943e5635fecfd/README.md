@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Connexum LLC 203K
 
-Tested At: 27 Nov 23 22:45 UTC\
+Tested At: 28 Nov 23 10:43 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 207 day(s)\
 Subject: CN=SHAKEN Connexum LLC 203K, OU=Connexum LLC, O=Connexum LLC, ST=California, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Connexum_LLC_203K
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 203K', but common name is 'SHAKEN Connexum LLC 203K' |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

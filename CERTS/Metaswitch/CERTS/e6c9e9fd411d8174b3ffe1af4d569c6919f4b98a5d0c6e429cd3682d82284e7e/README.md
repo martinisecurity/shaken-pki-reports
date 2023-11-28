@@ -2,7 +2,7 @@
 
 ## Certificate Mediacom 846F
 
-Tested At: 27 Nov 23 22:48 UTC\
+Tested At: 28 Nov 23 10:45 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 181 day(s)\
 Subject: CN=Mediacom 846F, O=Mediacom Communications Corporation, L=Chester, ST=New York, C=US\
@@ -30,4 +30,4 @@ Link: https://shaken.stir.mediacomcc.com/certs/mediacomcertchain.crt
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

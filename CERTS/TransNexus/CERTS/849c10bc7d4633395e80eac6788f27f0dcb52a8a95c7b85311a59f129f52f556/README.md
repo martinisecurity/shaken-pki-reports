@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 157C
 
-Tested At: 27 Nov 23 22:23 UTC\
+Tested At: 28 Nov 23 10:22 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -155 day(s)\
 Subject: CN=SHAKEN 157C, O=DigitalSpeed Communications, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/82d97ecb-9b38-4926-9062-8e21b8986930/49f8
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Broadband Dynamics Canada Telecom and Software ULC 884J
 
-Tested At: 27 Nov 23 22:21 UTC\
+Tested At: 28 Nov 23 10:18 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 171 day(s)\
 Subject: CN=SHAKEN Broadband Dynamics Canada Telecom and Software ULC 884J, OU=Engineering, O=Broadband Dynamics Canada Telecom and Software ULC, ST=Arizona, C=US\
@@ -17,4 +17,4 @@ Link: https://canada-cr.sansay.com/Broadband_Dynamics_Canada_Telecom_and_Softwar
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

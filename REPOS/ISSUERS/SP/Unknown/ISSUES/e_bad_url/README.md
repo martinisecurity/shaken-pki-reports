@@ -11,7 +11,10 @@ Description: Subscribers shall provide unrestricted access to its repositories a
 |-----------------|-----------|-----------|------|
 | `http://5.161.181.254/ec256-public.pem` |  | true | [view](../../REPOS/229c4bf3bf2dd5948654e7a4e354b7cd78d85647/README.md) |
 | `https://cert.sticr.att.net:8443/certs/att/6d021e67-e6a1-4821-bf7a-19491029a6ca` |  | true | [view](../../REPOS/7f767f2c2970329aedcdc118e431cdea5f195d14/README.md) |
+| `https://cert.sticr.att.net:8443/certs/att/abbf5398-e1e1-42af-96a7-092303b168ba` |  | true | [view](../../REPOS/9d33ae45de037e49b96d1cc6d2c4f29b1115c7ed/README.md) |
+| `https://cert.sticr.att.net:8443/certs/att/e4089cf9-5fbb-4536-825a-ac516611ac45` |  | true | [view](../../REPOS/8522a795165f224911916bf8feb0ea9f138d6223/README.md) |
+| `https://cert.sticr.att.net:8443/certs/att/f498a068-56c3-49ad-80bc-4d0bf6fb9dab` |  | true | [view](../../REPOS/dc12b44290809af64fb330e14333c00828146121/README.md) |
 | `https://stirshaken.ellianz.com:5000/stirshaken_certs/sp-cert.pem` |  | true | [view](../../REPOS/0efdff515049d0da95f7e0a8b78fba8b85b336cb/README.md) |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

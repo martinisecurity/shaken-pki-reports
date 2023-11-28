@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 299K
 
-Tested At: 27 Nov 23 22:26 UTC\
+Tested At: 28 Nov 23 10:27 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 10 day(s)\
+Remaining Validity Period: 9 day(s)\
 Subject: CN=SHAKEN 299K, O=Weave, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/299K/f00781dd-8bbb-4b7b-9d94-81e1db293eb5.pem
@@ -25,4 +25,4 @@ Link: https://certificates.transnexus.com/299K/f00781dd-8bbb-4b7b-9d94-81e1db293
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

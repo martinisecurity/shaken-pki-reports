@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1556
 
-Tested At: 27 Nov 23 22:23 UTC\
+Tested At: 28 Nov 23 10:22 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -111 day(s)\
 Subject: CN=SHAKEN 1556, O=Hartington Telecommunications Co.\\, Inc., C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/820c0b95-d7e5-4d9f-9844-27969b2aa0ee/e963
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN IP Link Telecom Inc. 902J
 
-Tested At: 27 Nov 23 22:44 UTC\
+Tested At: 28 Nov 23 10:42 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: -48 day(s)\
 Subject: emailAddress=ops@iplinktelecom.com, CN=SHAKEN IP Link Telecom Inc. 902J, OU=IP Link Telecom Inc., O=IP Link Telecom Inc., ST=Oregon, C=US, emailAddress=ops@iplinktelecom.com\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/902J/order/53_902J_68
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

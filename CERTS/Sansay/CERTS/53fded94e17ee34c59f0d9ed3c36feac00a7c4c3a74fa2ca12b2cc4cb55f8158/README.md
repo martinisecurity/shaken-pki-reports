@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Doylestown Communications, Inc 0609
 
-Tested At: 27 Nov 23 22:29 UTC\
+Tested At: 28 Nov 23 10:30 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -131 day(s)\
+Remaining Validity Period: -132 day(s)\
 Subject: emailAddress=jclarke@heritagetelephone.com, CN=SHAKEN Doylestown Communications\\, Inc 0609, OU=Operations, O=Doylestown Communications\\, Inc, ST=Ohio, C=US, emailAddress=jclarke@heritagetelephone.com\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/0609/order/426_849C_78
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/0609/order/426_849C_78
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

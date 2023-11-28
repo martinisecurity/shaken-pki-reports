@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Impulse 250G
 
-Tested At: 27 Nov 23 22:46 UTC\
+Tested At: 28 Nov 23 10:43 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 10 day(s)\
 Subject: CN=SHAKEN Impulse 250G, OU=NOC, O=Impulse, ST=California, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Impulse_250G
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 250G', but common name is 'SHAKEN Impulse 250G' |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

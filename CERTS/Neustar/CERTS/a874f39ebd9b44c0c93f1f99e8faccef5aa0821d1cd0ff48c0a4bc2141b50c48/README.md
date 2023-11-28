@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 3201
 
-Tested At: 27 Nov 23 22:48 UTC\
+Tested At: 28 Nov 23 10:45 UTC\
 Initial Validity Period: 1096 day(s)\
-Remaining Validity Period: 177 day(s)\
+Remaining Validity Period: 176 day(s)\
 Subject: C=US, ST=PR, L=Caparra, O=PRTC, OU=VOIP, CN=SHAKEN 3201\
 Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1\
 Link: https://prod001-cr.rbbnidhub.com/9JhfutuGgz/0
@@ -13,8 +13,8 @@ Link: https://prod001-cr.rbbnidhub.com/9JhfutuGgz/0
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_signature_algorithm](../../ISSUES/e_atis_signature_algorithm/README.md) | error | ATIS1000080 | SignatureAlgorithm field is not 'ecdsa-with-SHA256', got 1.2.840.113549.1.1.11 |
 | [e_atis_ext_certificate_policies](../../ISSUES/e_atis_ext_certificate_policies/README.md) | error | ATIS1000080 | The Certificate Policies extension is not present |
+| [e_atis_signature_algorithm](../../ISSUES/e_atis_signature_algorithm/README.md) | error | ATIS1000080 | SignatureAlgorithm field is not 'ecdsa-with-SHA256', got 1.2.840.113549.1.1.11 |
 
 ### Not Effective
 
@@ -30,4 +30,4 @@ Link: https://prod001-cr.rbbnidhub.com/9JhfutuGgz/0
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1680
 
-Tested At: 27 Nov 23 22:24 UTC\
+Tested At: 28 Nov 23 10:24 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -357 day(s)\
 Subject: CN=SHAKEN 1680, O=SDN, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/a86393e3-972a-4710-a013-a1440e509889/87fd
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

@@ -21,4 +21,4 @@ No error, warning, or notice level issues were found
 | error | Telonium STI-CA Root2 | [view](../../CERTS/a58b27999411d3d54121d4eadc82aa128be1fef96cda3029b2015677188ea40b/README.md) | Common Name attribute 'Telonium STI-CA Root2' does not contain 'SHAKEN' |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

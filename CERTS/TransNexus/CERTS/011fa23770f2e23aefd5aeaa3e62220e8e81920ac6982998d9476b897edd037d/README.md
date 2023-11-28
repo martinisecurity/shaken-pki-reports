@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 848J
 
-Tested At: 27 Nov 23 22:24 UTC\
+Tested At: 28 Nov 23 10:22 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -316 day(s)\
 Subject: CN=SHAKEN 848J, O=Invision Technologies LLC, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/84d348e0-ce86-4b5b-b14c-8419e12eea57/4386
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

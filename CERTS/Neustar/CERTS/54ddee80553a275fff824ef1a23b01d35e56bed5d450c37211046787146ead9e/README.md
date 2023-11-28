@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 625H
 
-Tested At: 27 Nov 23 22:27 UTC\
+Tested At: 28 Nov 23 10:28 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 178 day(s)\
 Subject: CN=SHAKEN 625H, O=Gardonville Cooperative Telephone Association, C=US\
@@ -16,4 +16,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/45.207
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

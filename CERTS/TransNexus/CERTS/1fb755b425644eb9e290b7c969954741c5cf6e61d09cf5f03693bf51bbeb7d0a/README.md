@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 3013
 
-Tested At: 27 Nov 23 22:22 UTC\
+Tested At: 28 Nov 23 10:18 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -288 day(s)\
 Subject: CN=SHAKEN 3013, O=KPU, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/0ada2752-2d93-4fb9-a726-4cc783aa01d5/e24a
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

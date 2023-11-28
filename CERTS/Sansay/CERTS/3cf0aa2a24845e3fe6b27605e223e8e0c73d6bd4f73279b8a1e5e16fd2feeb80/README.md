@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Bulk Solutions, LLC 644J
 
-Tested At: 27 Nov 23 22:21 UTC\
+Tested At: 28 Nov 23 10:17 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 8 day(s)\
 Subject: CN=SHAKEN Bulk Solutions\\, LLC 644J, OU=Voice Engineering, O=Bulk Solutions\\, LLC, ST=Delaware, C=US\
@@ -26,4 +26,4 @@ Link: https://bulkvs-cr.s3.amazonaws.com/608300.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

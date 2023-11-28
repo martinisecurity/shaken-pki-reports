@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 283K
 
-Tested At: 27 Nov 23 22:22 UTC\
+Tested At: 28 Nov 23 10:18 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -224 day(s)\
 Subject: CN=SHAKEN 283K, O=CCI Voice, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/076af2e8-ea86-4b26-b350-cda606ecb199/b4ad
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

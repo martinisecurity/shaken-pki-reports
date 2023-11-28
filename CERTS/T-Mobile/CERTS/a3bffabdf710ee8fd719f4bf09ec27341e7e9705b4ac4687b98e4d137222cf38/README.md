@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 6529
 
-Tested At: 27 Nov 23 22:52 UTC\
+Tested At: 28 Nov 23 10:49 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: -26 day(s)\
 Subject: CN=SHAKEN 6529, OU=Core Network Engineering, O=T-Mobile USA\\, Inc., L=Bellevue, ST=Washington, C=US\
@@ -25,4 +25,4 @@ Link: https://t-mobile-sticr.fosrvt.com/d1ed2fcf74511801e3df6deffbf762b764221487
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

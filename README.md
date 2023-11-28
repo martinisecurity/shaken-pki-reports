@@ -10,9 +10,9 @@ This report is broken int two parts:
 
 ### Leaf Certificates
 
-- 9066 certificates were included in the corpus being tested
-- 753 certificates in the corpus were skipped because they are duplicates
-- 7021 certificates in the corpus were skipped because they are expired
+- 9015 certificates were included in the corpus being tested
+- 752 certificates in the corpus were skipped because they are duplicates
+- 6971 certificates in the corpus were skipped because they are expired
 - 474 certificates in the corpus were skipped because they are not currently trusted
 - 818 certificates being tested against the remaining rules
 - 1.92 issues on average found in unexpired, trusted, and non-compliant certificates
@@ -22,9 +22,9 @@ This report is broken int two parts:
 - 14.06% of certificates are too old to be assessed against currently enforced expectations
 - 291 days is the average remaining validity for the certificates in the corpus
 - 291 days is the average initial validity for the certificates in the corpus
-- 223 certificates expire in the next 30 days
-- 13.72 average number of unexpired certificates per OCN observed
-- 661 unique OCNs observed in unexpired and valid certificate corpus
+- 224 certificates expire in the next 30 days
+- 13.62 average number of unexpired certificates per OCN observed
+- 662 unique OCNs observed in unexpired and valid certificate corpus
 
 ### CA Certificates
 
@@ -33,7 +33,7 @@ This report is broken int two parts:
 - 0 certificates in the corpus were skipped because they are expired
 - 8 certificates in the corpus were skipped because they are not currently trusted
 - 36 certificates being tested against the remaining rules
-- 2.53 issues on average found in unexpired, trusted, and non-compliant certificates
+- 2.47 issues on average found in unexpired, trusted, and non-compliant certificates
 - 41.67% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
@@ -44,8 +44,8 @@ This report is broken int two parts:
 
 ## Certificate Repository URL
 
-- 39.36% of certificate repository URLs contain one or more Error level issue
-- 54.40% of certificates repository URLs contain one or more Warning level issue
+- 37.04% of certificate repository URLs contain one or more Error level issue
+- 51.96% of certificates repository URLs contain one or more Warning level issue
 - 0.00% of certificates repository URLs contain one or more Notice level issue
 
 ## Details
@@ -101,4 +101,4 @@ This report is broken int two parts:
 | Not Effective | Tests that exist in the current specifications but were not in effect at the time of issuance. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

@@ -21,7 +21,7 @@
 - 0.29% of certificates are too old to be assessed against currently enforced expectations
 - 93 days is the average remaining validity for the certificates in the corpus
 - 93 days is the average initial validity for the certificates in the corpus
-- 110 certificates expire in the next 30 days
+- 111 certificates expire in the next 30 days
 - 38.33 average number of unexpired certificates per OCN observed
 - 9 unique OCNs observed in unexpired and valid certificate corpus
 
@@ -53,7 +53,6 @@ No error, warning, or notice level issues were found
 |------------|---------|-----------|----------|------|
 | 03&#160;Mar&#160;23&#160;15:17&#160;UTC | SHAKEN 473K | 02&#160;Mar&#160;24&#160;15:17&#160;UTC | false | [view](CERTS/0eb7d483fd17cb0f1c65b68302dcfe25acbfa599174977835e04fc37784795bb/README.md) |
 | 29&#160;Jun&#160;23&#160;18:40&#160;UTC | SHAKEN 186K | 28&#160;Jun&#160;24&#160;01:26&#160;UTC | false | [view](CERTS/1ae3ec906e8f59c0588e056b4afe62478b434acd35714772bb618298640aa067/README.md) |
-| 30&#160;Aug&#160;23&#160;00:00&#160;UTC | SHAKEN 738J | 28&#160;Nov&#160;23&#160;00:00&#160;UTC | false | [view](CERTS/956af64d4c90b2bf992884fbe22264a4896f90213ab6807a170e3eff5c97c618/README.md) |
 | 30&#160;Aug&#160;23&#160;12:00&#160;UTC | SHAKEN 683G | 28&#160;Nov&#160;23&#160;12:00&#160;UTC | false | [view](CERTS/f4d2a2c9f7e0bd083e74b31d6dc2a76ea257395e1e226814c3b050d85d18cfc6/README.md) |
 | 30&#160;Aug&#160;23&#160;12:00&#160;UTC | SHAKEN 738J | 28&#160;Nov&#160;23&#160;12:00&#160;UTC | false | [view](CERTS/b934ef9516f5b9c7d64fb1340fb66796e02a7d85459c12502817b199c5bad06a/README.md) |
 | 31&#160;Aug&#160;23&#160;00:00&#160;UTC | SHAKEN 738J | 29&#160;Nov&#160;23&#160;00:00&#160;UTC | false | [view](CERTS/c973bd3b9b82d26a590f4c8881de5010e71df153ffcac177c80214c95db84f80/README.md) |
@@ -396,6 +395,7 @@ No error, warning, or notice level issues were found
 | 27&#160;Nov&#160;23&#160;00:00&#160;UTC | SHAKEN 683G | 25&#160;Feb&#160;24&#160;00:00&#160;UTC | false | [view](CERTS/b3b4ea25e95bb2f70bbea5996b6d1889d7616bdc524f8430097560bccc59e115/README.md) |
 | 27&#160;Nov&#160;23&#160;00:00&#160;UTC | SHAKEN 738J | 25&#160;Feb&#160;24&#160;00:00&#160;UTC | false | [view](CERTS/1ad336a496addf5fd9d07f075d9f1e7b56c442187beab01200b0c36044fb0212/README.md) |
 | 27&#160;Nov&#160;23&#160;12:00&#160;UTC | SHAKEN 683G | 25&#160;Feb&#160;24&#160;12:00&#160;UTC | false | [view](CERTS/815d5bf3883dbd42173ae57ff98670c8b7a5dae130dd33ce428043527441c1b4/README.md) |
+| 28&#160;Nov&#160;23&#160;00:00&#160;UTC | SHAKEN 738J | 26&#160;Feb&#160;24&#160;00:00&#160;UTC | false | [view](CERTS/b2922a40b62caa7f8ec7792bfe0d5a2273c8f8d7704c2f711980f77c49d0f2ff/README.md) |
 
 #### CA Certificates
 
@@ -405,4 +405,4 @@ No error, warning, or notice level issues were found
 | 02&#160;Oct&#160;22&#160;10:40&#160;UTC | Martini Security SHAKEN G2 | 01&#160;Oct&#160;27&#160;10:40&#160;UTC | false | [view](CERTS/bf818ddbd3ae492e4a85331b85b52f4d2cdef8287bf910b59e247b6c132fa7fd/README.md) |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

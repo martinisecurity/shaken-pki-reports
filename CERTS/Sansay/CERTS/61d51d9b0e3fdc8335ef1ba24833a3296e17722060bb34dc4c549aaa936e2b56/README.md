@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Lightspeed Voice 557F
 
-Tested At: 27 Nov 23 22:39 UTC\
+Tested At: 28 Nov 23 10:38 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: 4 day(s)\
+Remaining Validity Period: 3 day(s)\
 Subject: emailAddress=level5@lightspeedvoice.com, CN=SHAKEN Lightspeed Voice 557F, OU=Operations, O=Lightspeed Voice, ST=Florida, C=US, emailAddress=level5@lightspeedvoice.com\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/557F/order/8_557F_83
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/557F/order/8_557F_83
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

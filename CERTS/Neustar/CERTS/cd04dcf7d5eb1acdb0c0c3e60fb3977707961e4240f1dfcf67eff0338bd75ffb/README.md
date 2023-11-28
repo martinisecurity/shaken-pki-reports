@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 962J
 
-Tested At: 27 Nov 23 22:22 UTC\
+Tested At: 28 Nov 23 10:18 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -137 day(s)\
 Subject: CN=SHAKEN 962J, O=Versatel LLC, C=US\
@@ -25,4 +25,4 @@ Link: https://cert.46labs.com/cert.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

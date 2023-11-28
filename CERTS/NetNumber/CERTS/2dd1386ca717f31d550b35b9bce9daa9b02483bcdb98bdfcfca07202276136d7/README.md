@@ -2,7 +2,7 @@
 
 ## Certificate NetNumber SHAKEN Root CA 1
 
-Tested At: 27 Nov 23 22:56 UTC\
+Tested At: 28 Nov 23 10:53 UTC\
 Initial Validity Period: 9125 day(s)\
 Remaining Validity Period: 8334 day(s)\
 Subject: L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN Root CA 1\
@@ -12,8 +12,8 @@ Issuer: L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber 
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_public_key_ca](../../ISSUES/e_atis_subject_public_key_ca/README.md) | error | ATIS1000080 | Subject Public Key Info field contains a public key that is not 256 bits |
 | [e_atis_signature_algorithm_ca](../../ISSUES/e_atis_signature_algorithm_ca/README.md) | error | ATIS1000080 | SignatureAlgorithm field is not 'ecdsa-with-SHA256', got 1.2.840.10045.4.3.4 |
+| [e_atis_subject_public_key_ca](../../ISSUES/e_atis_subject_public_key_ca/README.md) | error | ATIS1000080 | Subject Public Key Info field contains a public key that is not 256 bits |
 
 ### Not Effective
 
@@ -29,4 +29,4 @@ Issuer: L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate PioneerTelephone
 
-Tested At: 27 Nov 23 22:27 UTC\
+Tested At: 28 Nov 23 10:28 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 69 day(s)\
 Subject: C=US, ST=OK, L=Kingfisher, O=Central Office Switching, OU=ptci, CN=PioneerTelephone\
@@ -31,4 +31,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11144.10173.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

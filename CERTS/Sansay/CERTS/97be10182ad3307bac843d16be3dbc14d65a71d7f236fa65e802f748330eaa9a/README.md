@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Mercury Network Corporation 046K
 
-Tested At: 27 Nov 23 22:46 UTC\
+Tested At: 28 Nov 23 10:43 UTC\
 Initial Validity Period: 260 day(s)\
 Remaining Validity Period: 198 day(s)\
 Subject: CN=SHAKEN Mercury Network Corporation 046K, OU=Phone Pro, O=Mercury Network Corporation, ST=Michigan, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Mercury_Network_Corporation_046K
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 046K', but common name is 'SHAKEN Mercury Network Corporation 046K' |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

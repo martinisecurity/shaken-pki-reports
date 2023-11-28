@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 056K
 
-Tested At: 27 Nov 23 22:25 UTC\
+Tested At: 28 Nov 23 10:25 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -237 day(s)\
 Subject: CN=SHAKEN 056K, O=Logista Solutions, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/d673a99f-ad2d-4256-8d65-e20ff91adba4/8dc9
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

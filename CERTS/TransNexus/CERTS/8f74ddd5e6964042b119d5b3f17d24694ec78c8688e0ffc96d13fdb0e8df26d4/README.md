@@ -2,7 +2,7 @@
 
 ## Certificate MobileSphere SHAKEN 873J
 
-Tested At: 27 Nov 23 22:26 UTC\
+Tested At: 28 Nov 23 10:27 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -318 day(s)\
 Subject: CN=MobileSphere SHAKEN 873J, OU=MobileSphere, O=TransNexus, C=US\
@@ -29,4 +29,4 @@ Link: https://certificates.transnexus.com/873J/ac03ff61-e0df-456a-b2b1-d4a8d57af
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

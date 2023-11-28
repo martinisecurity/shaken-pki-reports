@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 963J
 
-Tested At: 27 Nov 23 22:21 UTC\
+Tested At: 28 Nov 23 10:17 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 96 day(s)\
 Subject: CN=SHAKEN 963J, O=Freevoice, C=US\
@@ -25,4 +25,4 @@ Link: http://freevoiceusa.com/963J_23
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

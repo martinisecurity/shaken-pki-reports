@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 281ms average time it took to download each certificate
+- 336ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://choicetel.net/084E.crt` | 28&#160;Jun&#160;24&#160;15:28&#160;UTC | true | [view](REPOS/a717ba10aeeecb6868e77860165a46c1347619d1/README.md) |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

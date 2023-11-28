@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 951J
 
-Tested At: 27 Nov 23 22:52 UTC\
+Tested At: 28 Nov 23 10:49 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -230 day(s)\
 Subject: CN=SHAKEN 951J, O=Zultys Inc, C=US\
@@ -25,4 +25,4 @@ Link: https://zultys-pem-cert-2022.s3.amazonaws.com/89179fa533bbaf0aea20a9f31aa0
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC

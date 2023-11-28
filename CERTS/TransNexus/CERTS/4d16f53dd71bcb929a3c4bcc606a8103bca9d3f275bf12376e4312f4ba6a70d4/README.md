@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 497K
 
-Tested At: 27 Nov 23 22:23 UTC\
+Tested At: 28 Nov 23 10:20 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -37 day(s)\
 Subject: CN=SHAKEN 497K, O=Allegiant, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/3f331bc8-22e6-4a32-8b59-58d7c03763a3/1a79
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 22:56 UTC
+Generated: 28 Nov 23 10:53 UTC
