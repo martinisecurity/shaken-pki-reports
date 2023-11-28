@@ -20,4 +20,4 @@ No error, warning, or notice level issues were found
 | error | NetNumber SHAKEN Root CA 1 | [view](../../CERTS/2dd1386ca717f31d550b35b9bce9daa9b02483bcdb98bdfcfca07202276136d7/README.md) | Subject Public Key Info field contains a public key that is not 256 bits |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate Aeneas Communications SHAKEN Cert 2891
 
-Tested At: 27 Nov 23 23:10 UTC\
+Tested At: 28 Nov 23 15:59 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 873 day(s)\
+Remaining Validity Period: 872 day(s)\
 Subject: CN=Aeneas Communications SHAKEN Cert 2891, O=Aeneas Communications\\ , C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/25d9b4b15a9c7d0d8358bd9eb307a6ebbd8b7d00
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/25d9b4b15a9c7d0d8358bd9eb307a6ebbd8b7d0
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 2891', but common name is 'Aeneas Communications SHAKEN Cert 2891' |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

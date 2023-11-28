@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 815G
 
-Tested At: 27 Nov 23 23:16 UTC\
+Tested At: 28 Nov 23 16:02 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: -231 day(s)\
+Remaining Validity Period: -232 day(s)\
 Subject: CN=SHAKEN 815G, O=382 Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/815G/57d5ff38-4ded-4bca-a725-05e7e9c80b02.pem
@@ -25,4 +25,4 @@ Link: https://certificates.transnexus.com/815G/57d5ff38-4ded-4bca-a725-05e7e9c80
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 223K
 
-Tested At: 27 Nov 23 23:25 UTC\
+Tested At: 28 Nov 23 16:12 UTC\
 Initial Validity Period: 18 day(s)\
 Remaining Validity Period: -26 day(s)\
 Subject: O=Consolidated Smart Broadband Systems\\, LLC, C=US, serialNumber=3152E5BC0807EBA11268A86FEAB74AA0, CN=SHAKEN 223K\
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/GdhHsRXHw5p2.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

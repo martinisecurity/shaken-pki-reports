@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 622K
 
-Tested At: 27 Nov 23 23:16 UTC\
+Tested At: 28 Nov 23 16:02 UTC\
 Initial Validity Period: 340 day(s)\
 Remaining Validity Period: 201 day(s)\
 Subject: serialNumber=42cb91c2-a9a5-4541-abb0-f04e76217417, CN=SHAKEN 622K, O=COMMTRUNKS LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://commtrunks.46labs.com
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.4.1.37476.9000.64.1 |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

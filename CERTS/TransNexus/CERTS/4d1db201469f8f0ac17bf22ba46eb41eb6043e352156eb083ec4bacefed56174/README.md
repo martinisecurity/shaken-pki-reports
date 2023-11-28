@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 721J
 
-Tested At: 27 Nov 23 23:14 UTC\
+Tested At: 28 Nov 23 16:01 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -138 day(s)\
 Subject: CN=SHAKEN 721J, O=True IP Solutions, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/a1df4bf4-8858-47bb-9388-835c5c7cb5c4/ab6b
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

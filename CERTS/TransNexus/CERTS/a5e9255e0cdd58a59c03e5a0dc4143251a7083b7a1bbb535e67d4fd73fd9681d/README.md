@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 056K
 
-Tested At: 27 Nov 23 23:15 UTC\
+Tested At: 28 Nov 23 16:01 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -261 day(s)\
 Subject: CN=SHAKEN 056K, O=Logista Solutions, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/d673a99f-ad2d-4256-8d65-e20ff91adba4/f4c0
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

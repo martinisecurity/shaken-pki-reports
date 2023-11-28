@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 148K
 
-Tested At: 27 Nov 23 23:25 UTC\
+Tested At: 28 Nov 23 16:11 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -25 day(s)\
 Subject: O=Orange County REMC, C=US, serialNumber=51673D5AC77C9BE4FB8067BBED7A82C2, CN=SHAKEN 148K\
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/D1HK9u0vloV7.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

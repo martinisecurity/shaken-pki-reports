@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 110K
 
-Tested At: 27 Nov 23 23:26 UTC\
+Tested At: 28 Nov 23 16:12 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -6 day(s)\
 Subject: O=Grizzly Broadband\\, LLC, C=US, serialNumber=EA96D8D1E949A87C84896323DD72F464, CN=SHAKEN 110K\
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/KkgoQMrUoETY.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

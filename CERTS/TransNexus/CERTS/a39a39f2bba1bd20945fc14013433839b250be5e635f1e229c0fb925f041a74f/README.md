@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 849J
 
-Tested At: 27 Nov 23 23:13 UTC\
+Tested At: 28 Nov 23 16:00 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -306 day(s)\
 Subject: CN=SHAKEN 849J, O=Fuse.Cloud, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/86e241b8-9c8e-4431-b35f-4d92844a1da9/efca
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

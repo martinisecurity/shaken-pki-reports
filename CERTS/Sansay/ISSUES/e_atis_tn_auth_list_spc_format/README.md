@@ -12,11 +12,11 @@ Description: The SPC value in the TNAuthList extension shall contain only number
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | SHAKEN Broadband Dynamics LLC 583j | [view](../../CERTS/e72cdb3f7f157a4c1c2f077ee961b97059b68167af770679273defefaf137cc7/README.md) | the SPC value '583j' contains characters other than uppercase letters and numbers |
+| error | SHAKEN Broadband Dynamics LLC 583j | [view](../../CERTS/5c0b298c00f7e865d9356da20bdcd4d22daa04c18f3eec43b54530ed7bb271c9/README.md) | the SPC value '583j' contains characters other than uppercase letters and numbers |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

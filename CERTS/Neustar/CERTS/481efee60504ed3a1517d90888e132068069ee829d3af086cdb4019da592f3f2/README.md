@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 2116
 
-Tested At: 27 Nov 23 23:16 UTC\
+Tested At: 28 Nov 23 16:02 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 5 day(s)\
+Remaining Validity Period: 4 day(s)\
 Subject: CN=SHAKEN 2116, O=Nortex Communications, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/191.255
@@ -25,4 +25,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/191.255
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

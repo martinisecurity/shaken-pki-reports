@@ -2,7 +2,7 @@
 
 ## Certificate COMMTRUNKS LLC 622K
 
-Tested At: 27 Nov 23 23:16 UTC\
+Tested At: 28 Nov 23 16:01 UTC\
 Initial Validity Period: 367 day(s)\
 Remaining Validity Period: 201 day(s)\
 Subject: CN=COMMTRUNKS LLC 622K\
@@ -13,15 +13,15 @@ Link: https://certificates.peeringhub.io/622K/622K.crt
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_c_iso](../../ISSUES/e_atis_subject_c_iso/README.md) | error | ATIS1000080 | Subject MUST be present and MUST contain exactly one value for Country (C=). |
-| [e_atis_subject_o_required](../../ISSUES/e_atis_subject_o_required/README.md) | error | ATIS1000080 | The DN does not contain exactly one Organization (O=) attribute. |
-| [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.4.1.37476.9000.64.1 |
-| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 | [e_atis_subject_dn](../../ISSUES/e_atis_subject_dn/README.md) | error | ATIS1000080 | Subject DN does not contain a Country (C=) attribute |
-| [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common Name attribute 'COMMTRUNKS LLC 622K' does not contain 'SHAKEN' |
+| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
+| [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.4.1.37476.9000.64.1 |
+| [e_atis_subject_c_iso](../../ISSUES/e_atis_subject_c_iso/README.md) | error | ATIS1000080 | Subject MUST be present and MUST contain exactly one value for Country (C=). |
 | [e_atis_tn_auth_list](../../ISSUES/e_atis_tn_auth_list/README.md) | error | ATIS1000080 | TNAuthorizationList shall have only one TN Entry |
+| [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common Name attribute 'COMMTRUNKS LLC 622K' does not contain 'SHAKEN' |
 | [e_atis_tn_auth_list_spc_format](../../ISSUES/e_atis_tn_auth_list_spc_format/README.md) | error | ATIS1000080 | TNAuthorizationList shall have only one TN Entry |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Cannot get SPC value from the TNAuthList extension, TNAuthorizationList shall have only one TN Entry |
+| [e_atis_subject_o_required](../../ISSUES/e_atis_subject_o_required/README.md) | error | ATIS1000080 | The DN does not contain exactly one Organization (O=) attribute. |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

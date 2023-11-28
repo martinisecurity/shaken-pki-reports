@@ -2,9 +2,9 @@
 
 ## Certificate ATT SHAKEN 4036
 
-Tested At: 27 Nov 23 23:11 UTC\
+Tested At: 28 Nov 23 15:59 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 257 day(s)\
+Remaining Validity Period: 256 day(s)\
 Subject: CN=ATT SHAKEN 4036, OU=AT&T Services\\, Inc., O=ATT SHAKEN E-E, L=Dallas, ST=Texas, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cert.sticr.att.net:8443/certs/att/0e6ca793-8797-40fe-9fde-c25af249bc12
@@ -17,4 +17,4 @@ Link: https://cert.sticr.att.net:8443/certs/att/0e6ca793-8797-40fe-9fde-c25af249
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate Phonetime Inc SHAKEN 602K
 
-Tested At: 27 Nov 23 23:16 UTC\
+Tested At: 28 Nov 23 16:01 UTC\
 Initial Validity Period: 323 day(s)\
-Remaining Validity Period: 228 day(s)\
+Remaining Validity Period: 227 day(s)\
 Subject: CN=Phonetime Inc SHAKEN 602K, O=Phonetime Inc, L=Miami, ST=FL, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://certificates.peeringhub.io/602K/phonetime.pem
@@ -16,4 +16,4 @@ Link: https://certificates.peeringhub.io/602K/phonetime.pem
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

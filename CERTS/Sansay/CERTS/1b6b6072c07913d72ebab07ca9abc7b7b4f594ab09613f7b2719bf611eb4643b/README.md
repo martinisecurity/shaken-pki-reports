@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN CIMA Telecom, Inc 313K
 
-Tested At: 27 Nov 23 23:19 UTC\
+Tested At: 28 Nov 23 16:04 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -26 day(s)\
 Subject: emailAddress=jmedina@cimagroup.com, CN=SHAKEN CIMA Telecom\\, Inc 313K, OU=Operations, O=CIMA Telecom\\, Inc, ST=Florida, C=US, emailAddress=jmedina@cimagroup.com\
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/313K/order/168_313K_152
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 313K', but common name is 'SHAKEN CIMA Telecom, Inc 313K' |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

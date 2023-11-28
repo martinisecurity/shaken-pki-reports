@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Technology Innovation Lab 599J
 
-Tested At: 27 Nov 23 23:20 UTC\
+Tested At: 28 Nov 23 16:06 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 351 day(s)\
 Subject: CN=SHAKEN Technology Innovation Lab 599J, OU=STI, O=Technology Innovation Lab, ST=New York, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Technology_Innovation_Lab_599J
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

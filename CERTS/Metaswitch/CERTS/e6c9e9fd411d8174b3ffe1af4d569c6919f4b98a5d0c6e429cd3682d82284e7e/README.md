@@ -2,9 +2,9 @@
 
 ## Certificate Mediacom 846F
 
-Tested At: 27 Nov 23 23:22 UTC\
+Tested At: 28 Nov 23 16:08 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 181 day(s)\
+Remaining Validity Period: 180 day(s)\
 Subject: CN=Mediacom 846F, O=Mediacom Communications Corporation, L=Chester, ST=New York, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://shaken.stir.mediacomcc.com/certs/mediacomcertchain.crt
@@ -13,8 +13,8 @@ Link: https://shaken.stir.mediacomcc.com/certs/mediacomcertchain.crt
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common Name attribute 'Mediacom 846F' does not contain 'SHAKEN' |
 | [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
+| [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common Name attribute 'Mediacom 846F' does not contain 'SHAKEN' |
 
 ### Not Effective
 
@@ -30,4 +30,4 @@ Link: https://shaken.stir.mediacomcc.com/certs/mediacomcertchain.crt
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

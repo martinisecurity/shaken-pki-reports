@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Cherry Voice 506K
 
-Tested At: 27 Nov 23 23:20 UTC\
+Tested At: 28 Nov 23 16:06 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 107 day(s)\
 Subject: CN=SHAKEN Cherry Voice 506K, OU=Network Operations, O=Cherry Voice Inc, ST=Wyoming, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Cherry_Voice_506K
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

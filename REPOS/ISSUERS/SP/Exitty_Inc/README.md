@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 106ms average time it took to download each certificate
+- 38ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://voice.onepbxcloud.com/657K-20230808.crt` | 08&#160;Aug&#160;24&#160;20:00&#160;UTC | true | [view](REPOS/50ae693fa72c344cfe2a3408355d97967ddac3e0/README.md) |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

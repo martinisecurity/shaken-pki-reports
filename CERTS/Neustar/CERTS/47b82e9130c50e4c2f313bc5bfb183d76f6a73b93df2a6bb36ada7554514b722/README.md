@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 049K
 
-Tested At: 27 Nov 23 23:21 UTC\
+Tested At: 28 Nov 23 16:07 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 194 day(s)\
+Remaining Validity Period: 193 day(s)\
 Subject: CN=SHAKEN 049K, O=Dialpad Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://fst-20230823-3-dot-fstelephony.appspot.com/static/cert/shaken_identity_2023_1.cer
@@ -16,4 +16,4 @@ Link: https://fst-20230823-3-dot-fstelephony.appspot.com/static/cert/shaken_iden
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate Whidbey Telephone Company SHAKEN Cert 2452
 
-Tested At: 27 Nov 23 23:10 UTC\
+Tested At: 28 Nov 23 15:59 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 923 day(s)\
+Remaining Validity Period: 922 day(s)\
 Subject: CN=Whidbey Telephone Company SHAKEN Cert 2452, O=Whidbey Telephone Company, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/4b8c18a5a68450eb480b9727e86382fdaa4afa66
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/4b8c18a5a68450eb480b9727e86382fdaa4afa6
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

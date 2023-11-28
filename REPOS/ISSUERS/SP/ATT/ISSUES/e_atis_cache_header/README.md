@@ -12,4 +12,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://cert.sticr.att.net:8443/certs/att/ed4bb791-0bae-459e-ba4f-0f00c70c7f28` | 13&#160;Apr&#160;24&#160;15:00&#160;UTC | true | [view](../../REPOS/3b6b21f85c2470b912e14c57381665c1d1dd6ff6/README.md) |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 066K
 
-Tested At: 27 Nov 23 23:26 UTC\
+Tested At: 28 Nov 23 16:13 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: -210 day(s)\
+Remaining Validity Period: -211 day(s)\
 Subject: O=Upchurch Telecom & Data\\, Inc., C=US, serialNumber=F23146A6BE78B81CA8B48BDE77036BBE, CN=SHAKEN 066K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/Um-Rg3xJBEo0.pem
@@ -23,4 +23,4 @@ Link: https://p.mtsec.me/2884/Um-Rg3xJBEo0.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

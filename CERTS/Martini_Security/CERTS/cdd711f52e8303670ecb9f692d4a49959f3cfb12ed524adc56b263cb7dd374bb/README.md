@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 031K
 
-Tested At: 27 Nov 23 23:21 UTC\
+Tested At: 28 Nov 23 16:07 UTC\
 Initial Validity Period: 18 day(s)\
 Remaining Validity Period: -25 day(s)\
 Subject: O=TISD\\, Inc., C=US, serialNumber=C495DEBCA9CD6E7BC6E7050D7568E6F3, CN=SHAKEN 031K\
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/eirXkYuCk9sz.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

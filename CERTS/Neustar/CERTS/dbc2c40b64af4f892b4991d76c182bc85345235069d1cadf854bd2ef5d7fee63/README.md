@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 033H
 
-Tested At: 27 Nov 23 23:18 UTC\
+Tested At: 28 Nov 23 16:03 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -168 day(s)\
+Remaining Validity Period: -169 day(s)\
 Subject: CN=SHAKEN 033H, O=GetGo Communications LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11478.10162.pem
@@ -25,4 +25,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11478.10162.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

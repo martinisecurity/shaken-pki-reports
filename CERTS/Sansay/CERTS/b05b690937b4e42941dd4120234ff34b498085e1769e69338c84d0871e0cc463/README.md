@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Televergence Solutions Inc 779J
 
-Tested At: 27 Nov 23 23:19 UTC\
+Tested At: 28 Nov 23 16:05 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -157 day(s)\
+Remaining Validity Period: -158 day(s)\
 Subject: emailAddress=ddeutsch@televergence.com, CN=SHAKEN Televergence Solutions Inc 779J, OU=Production, O=Televergence Solutions Inc, ST=Tennessee, C=US, emailAddress=ddeutsch@televergence.com\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/779J/order/307_779J_73
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/779J/order/307_779J_73
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 779J', but common name is 'SHAKEN Televergence Solutions Inc 779J' |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

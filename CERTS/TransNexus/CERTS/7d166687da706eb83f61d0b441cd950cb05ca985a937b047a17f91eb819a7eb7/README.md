@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 182K
 
-Tested At: 27 Nov 23 23:13 UTC\
+Tested At: 28 Nov 23 16:00 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -82 day(s)\
+Remaining Validity Period: -83 day(s)\
 Subject: CN=SHAKEN 182K, O=IP Consulting\\, Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/63d9d67d-6470-433a-b890-1c1901beaa76/c0161e36e2b29da73de332be14a8ceb1.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/63d9d67d-6470-433a-b890-1c1901beaa76/c016
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

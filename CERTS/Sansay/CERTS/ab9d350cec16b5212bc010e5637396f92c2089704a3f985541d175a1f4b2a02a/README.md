@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Peachnet LLC 616K
 
-Tested At: 27 Nov 23 23:20 UTC\
+Tested At: 28 Nov 23 16:06 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 207 day(s)\
+Remaining Validity Period: 206 day(s)\
 Subject: CN=SHAKEN Peachnet LLC 616K, OU=Peachnet LLC, O=Peachnet LLC, ST=Georgia, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Peachnet_616K
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/Peachnet_616K
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 616K', but common name is 'SHAKEN Peachnet LLC 616K' |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

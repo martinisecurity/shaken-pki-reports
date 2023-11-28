@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Bulk Solutions, LLC 644J
 
-Tested At: 27 Nov 23 23:10 UTC\
+Tested At: 28 Nov 23 15:59 UTC\
 Initial Validity Period: 350 day(s)\
-Remaining Validity Period: 45 day(s)\
+Remaining Validity Period: 44 day(s)\
 Subject: CN=SHAKEN Bulk Solutions\\, LLC 644J, OU=608070, O=Bulk Solutions\\, LLC, ST=Delaware, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: http://mango.voipplus.net/cert.pem
@@ -26,4 +26,4 @@ Link: http://mango.voipplus.net/cert.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

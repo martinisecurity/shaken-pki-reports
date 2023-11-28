@@ -2,9 +2,9 @@
 
 ## Certificate SMU SHAKEN 3390
 
-Tested At: 27 Nov 23 23:22 UTC\
+Tested At: 28 Nov 23 16:08 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 218 day(s)\
+Remaining Validity Period: 217 day(s)\
 Subject: CN=SMU SHAKEN 3390, OU=STI, O=Spencer Municipal Utilities, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/o_W93Cgngz/STI-202307-3390-7148553e5c7080fef0ac81ea7235258e
@@ -17,4 +17,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/o_W93Cgngz/STI-202307-3390-714855
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

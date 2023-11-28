@@ -2,7 +2,7 @@
 
 ## Certificate UniVoIP SHAKEN 629J
 
-Tested At: 27 Nov 23 23:22 UTC\
+Tested At: 28 Nov 23 16:08 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -164 day(s)\
 Subject: CN=UniVoIP SHAKEN 629J, OU=STI, O=UniVoIP, C=US\
@@ -25,4 +25,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/W_HMwhNngz/629J-33da08c43c8599ca9
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

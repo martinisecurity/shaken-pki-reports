@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Kloud 7 LLC 214K
 
-Tested At: 27 Nov 23 23:20 UTC\
+Tested At: 28 Nov 23 16:06 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 313 day(s)\
+Remaining Validity Period: 312 day(s)\
 Subject: CN=SHAKEN Kloud 7 LLC 214K, OU=Kloud 7 LLC, O=Kloud 7 LLC, ST=Alabama, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Kloud_7_LLC_214K
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Kloud_7_LLC_214K
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

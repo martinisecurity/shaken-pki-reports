@@ -80,6 +80,7 @@ OCN,Org Name,CN,Cert
 "5493","Netcarrier Telecom Inc","SHAKEN 5493","https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/95.234"
 "554J","Jivetel Inc","SHAKEN 554J","https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/91.155"
 "558a","D&P Communications","SHAKEN 558a","https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11569.10207.pem"
+"5606","Charter Communications, LLC","SHAKEN 5606","https://shaken.spectrum.com/0f9d8a67c3047902bffab77edf2e246f.cer"
 "567G","Teliax Inc.","Shaken","https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11316.10181"
 "573J","Voyant Communications LLC","SHAKEN 573J","https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/49.162"
 "5917","Firstcomm","Firstcomm5917","https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11166.10183.pem"

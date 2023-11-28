@@ -2,9 +2,9 @@
 
 ## Certificate ThreeriverTelco SHAKEN 1525
 
-Tested At: 27 Nov 23 23:22 UTC\
+Tested At: 28 Nov 23 16:08 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 157 day(s)\
+Remaining Validity Period: 156 day(s)\
 Subject: CN=ThreeriverTelco SHAKEN 1525, OU=STI, O=ThreeriverTelco, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/0X3WXxsVRz/STI-202305-1525-5f4ab88c046b1cfd58ff229698fff463
@@ -17,4 +17,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/0X3WXxsVRz/STI-202305-1525-5f4ab8
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

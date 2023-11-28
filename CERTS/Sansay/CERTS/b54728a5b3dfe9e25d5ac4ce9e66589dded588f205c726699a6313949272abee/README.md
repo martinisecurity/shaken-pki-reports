@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Ace Innovative Networks, Inc. 040K
 
-Tested At: 27 Nov 23 23:18 UTC\
+Tested At: 28 Nov 23 16:03 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -234 day(s)\
 Subject: emailAddress=elevitt@1pcom.com, CN=SHAKEN Ace Innovative Networks\\, Inc. 040K, OU=NOC, O=Ace Innovative Networks\\, Inc., ST=New York, C=US, emailAddress=elevitt@1pcom.com\
@@ -26,4 +26,4 @@ Link: https://cr.sansay.com/040K/order/274_040K_84
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

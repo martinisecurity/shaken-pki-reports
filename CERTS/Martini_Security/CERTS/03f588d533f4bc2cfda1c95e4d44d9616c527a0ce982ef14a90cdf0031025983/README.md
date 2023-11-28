@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 738J
 
-Tested At: 27 Nov 23 23:25 UTC\
+Tested At: 28 Nov 23 16:12 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: -32 day(s)\
+Remaining Validity Period: -33 day(s)\
 Subject: O=BCM One Cloud Communications\\, LLC, C=US, serialNumber=B358C7DB768918DE2187D41DE1C73913, CN=SHAKEN 738J\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/GDehsn7SKLIc.pem
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/GDehsn7SKLIc.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

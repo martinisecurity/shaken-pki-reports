@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 788J 1692309910
 
-Tested At: 27 Nov 23 23:10 UTC\
+Tested At: 28 Nov 23 15:59 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 263 day(s)\
 Subject: CN=SHAKEN 788J 1692309910, O=New Age Consulting Service\\, Inc., L=Cleveland, ST=Ohio, C=US\
@@ -16,4 +16,4 @@ Link: http://sip-proxy01.n2net.net/certs/cert-1692309910
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

@@ -1,7 +1,7 @@
 Org Name,CN,Cert
 "Fibernetics","***SHAKEN***464D","https://stir.fibernetics.ca/prod-cert2022.pem"
-"RingCentral","SHAKEN 986J","https://sticr-cstga.ccid.neustar/api/v1/certificate/815b181b29c53037f17257ba5733b2cc.crt"
 "RingCentral","SHAKEN 986J","https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11565.10211.pem"
+"RingCentral","SHAKEN 986J","https://sticr-cstga.ccid.neustar/api/v1/certificate/815b181b29c53037f17257ba5733b2cc.crt"
 "Google Voice Canada Corporation","SHAKEN 969H","https://www.gstatic.com/gtp/stir/cpT9T1Zsg38JSHSBuNGgyg.pem"
 "Vonage","SHAKEN 197D","https://sticr-cstga.ccid.neustar/api/v1/certificate/56701755b64fd6472ffc065ab0dfe768.pem"
 "kmsUScertco","SHAKEN 991T","https://cr-uat.ccid.neustar.biz/ccid/authn/v2/certs/11646.10221.pem"

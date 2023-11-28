@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 40ms average time it took to download each certificate
+- 48ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -27,4 +27,4 @@
 | `https://cr.xcastlabs.net/1700784000/xclsshaken.pem` | 24&#160;Nov&#160;23&#160;00:00&#160;UTC | true | [view](REPOS/eaa2b532b5b3d7677133c697a92842c3d58d5ef9/README.md) |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

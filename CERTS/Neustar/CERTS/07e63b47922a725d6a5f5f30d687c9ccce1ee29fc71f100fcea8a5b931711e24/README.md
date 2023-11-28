@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 436J
 
-Tested At: 27 Nov 23 23:25 UTC\
+Tested At: 28 Nov 23 16:11 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 351 day(s)\
 Subject: CN=SHAKEN 436J, O=Hadlo Technologies, C=US\
@@ -16,4 +16,4 @@ Link: https://www.hadlotechnologies.com/ss_certs/hadlo_ssi_public_20231113.crt
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 973J
 
-Tested At: 27 Nov 23 23:22 UTC\
+Tested At: 28 Nov 23 16:08 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -233 day(s)\
 Subject: CN=SHAKEN 973J, O=Vibratel, C=US\
@@ -25,4 +25,4 @@ Link: https://ssc.getsipnav.com/certs/ae9ce419128be68bc5667048aae938cad247e5f3
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

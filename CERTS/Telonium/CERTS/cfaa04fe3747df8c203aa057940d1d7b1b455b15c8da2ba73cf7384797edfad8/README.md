@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 421K
 
-Tested At: 27 Nov 23 23:25 UTC\
+Tested At: 28 Nov 23 16:11 UTC\
 Initial Validity Period: 711 day(s)\
-Remaining Validity Period: 572 day(s)\
+Remaining Validity Period: 571 day(s)\
 Subject: serialNumber=e8d90de4-aae5-4c27-9c76-b6a17853030f, CN=SHAKEN 421K, O=Q5 Networks, C=US\
 Issuer: CN=Telonium STI-CA Intermediate CA, O=Telonium STI-CA\
 Link: https://www.q5networks.com/stirshaken/q5networks2025.pem
@@ -16,4 +16,4 @@ Link: https://www.q5networks.com/stirshaken/q5networks2025.pem
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.4.1.37476.9000.64.1 |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

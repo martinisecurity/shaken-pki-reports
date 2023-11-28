@@ -2,7 +2,7 @@
 
 ## Certificate Telonium STI-CA Root2
 
-Tested At: 27 Nov 23 23:28 UTC\
+Tested At: 28 Nov 23 16:15 UTC\
 Initial Validity Period: 5478 day(s)\
 Remaining Validity Period: 5214 day(s)\
 Subject: CN=Telonium STI-CA Root2, O=Telonium, C=US\
@@ -17,4 +17,4 @@ Issuer: CN=Telonium STI-CA Root2, O=Telonium, C=US
 | [e_atis_subject_cn_root](../../ISSUES/e_atis_subject_cn_root/README.md) | error | ATIS1000080 | Common Name attribute 'Telonium STI-CA Root2' does not include the text string 'ROOT' (case insensitive). |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

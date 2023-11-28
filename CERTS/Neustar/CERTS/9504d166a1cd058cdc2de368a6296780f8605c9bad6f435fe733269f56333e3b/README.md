@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 418c
 
-Tested At: 27 Nov 23 23:17 UTC\
+Tested At: 28 Nov 23 16:03 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 106 day(s)\
+Remaining Validity Period: 105 day(s)\
 Subject: CN=SHAKEN 418c, O=Armstrong Telecommunications Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11112.10192.pem
@@ -17,4 +17,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11112.10192.pem
 | [e_atis_tn_auth_list_spc_format](../../ISSUES/e_atis_tn_auth_list_spc_format/README.md) | error | ATIS1000080 | the SPC value '418c' contains characters other than uppercase letters and numbers |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Xchange Telecom LLC 325B
 
-Tested At: 27 Nov 23 23:19 UTC\
+Tested At: 28 Nov 23 16:04 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 353 day(s)\
 Subject: CN=SHAKEN Xchange Telecom LLC 325B, OU=Bulk Solutions STI-AS, O=Xchange Telecom LLC, ST=New York, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/325B_20211101.pem
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC

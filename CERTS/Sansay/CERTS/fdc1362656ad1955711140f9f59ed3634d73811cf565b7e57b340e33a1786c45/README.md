@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Lightspeed Voice 557F
 
-Tested At: 27 Nov 23 23:19 UTC\
+Tested At: 28 Nov 23 16:05 UTC\
 Initial Validity Period: 60 day(s)\
-Remaining Validity Period: -408 day(s)\
+Remaining Validity Period: -409 day(s)\
 Subject: emailAddress=level5@lightspeedvoice.com, CN=SHAKEN Lightspeed Voice 557F, OU=NOC, O=Lightspeed Voice, ST=Florida, C=US, emailAddress=level5@lightspeedvoice.com\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/557F/order/63_557F_83
@@ -26,4 +26,4 @@ Link: https://cr.sansay.com/557F/order/63_557F_83
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 27 Nov 23 23:28 UTC
+Generated: 28 Nov 23 16:15 UTC
