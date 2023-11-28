@@ -2,7 +2,7 @@
 
 ## Certificate ***SHAKEN***464D
 
-Tested At: 28 Nov 23 16:11 UTC\
+Tested At: 28 Nov 23 20:17 UTC\
 Initial Validity Period: 398 day(s)\
 Remaining Validity Period: 229 day(s)\
 Subject: CN=***SHAKEN***464D, OU=VOIP, O=Fibernetics, L=Cambridge, ST=ON, C=CA\
@@ -13,8 +13,8 @@ Link: https://stir.fibernetics.ca/prod-cert2023.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 1.3.6.1.4.1.56223.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 464D', but common name is '***SHAKEN***464D' |
+| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 1.3.6.1.4.1.56223.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

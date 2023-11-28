@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 646K
 
-Tested At: 28 Nov 23 16:01 UTC\
+Tested At: 28 Nov 23 19:55 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -13 day(s)\
+Remaining Validity Period: -14 day(s)\
 Subject: CN=SHAKEN 646K, O=IT Voice, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/dc4457ef-626e-49f6-817f-859ce6959b0b/47ae294b056230f6cc7d9cd0b702b0ca.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/dc4457ef-626e-49f6-817f-859ce6959b0b/47ae
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

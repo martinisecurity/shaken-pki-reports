@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 739J
 
-Tested At: 28 Nov 23 16:02 UTC\
+Tested At: 28 Nov 23 19:56 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -157 day(s)\
 Subject: CN=SHAKEN 739J, O=Unified Global Solutions LLC, C=US\
@@ -25,4 +25,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/158.172
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

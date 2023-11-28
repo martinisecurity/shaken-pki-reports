@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1577
 
-Tested At: 28 Nov 23 16:00 UTC\
+Tested At: 28 Nov 23 19:54 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -67 day(s)\
 Subject: CN=SHAKEN 1577, O=Great Plains Communications, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/7c83d108-6ff5-4c02-a73c-2e1acc936871/09d6
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

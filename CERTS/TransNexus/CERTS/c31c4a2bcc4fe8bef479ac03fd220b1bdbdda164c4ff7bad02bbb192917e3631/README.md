@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 970J
 
-Tested At: 28 Nov 23 16:00 UTC\
+Tested At: 28 Nov 23 19:54 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -371 day(s)\
 Subject: CN=SHAKEN 970J, O=Procomm Online Inc, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/795acb3b-a8b6-46c4-8ba6-82b33e759e7b/9bc0
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

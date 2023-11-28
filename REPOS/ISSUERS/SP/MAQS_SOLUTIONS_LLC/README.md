@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 376ms average time it took to download each certificate
+- 598ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -22,4 +22,4 @@
 | `https://dial.maqssolution.live/255KON23.pem` | 02&#160;Nov&#160;23&#160;20:13&#160;UTC | true | [view](REPOS/98e166c1a6b06dd35c66bc4a75447617d0620803/README.md) |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

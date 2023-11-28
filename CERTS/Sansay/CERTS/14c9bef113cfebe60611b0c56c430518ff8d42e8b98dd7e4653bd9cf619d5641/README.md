@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Ytel Inc. 703J
 
-Tested At: 28 Nov 23 16:06 UTC\
+Tested At: 28 Nov 23 20:11 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 79 day(s)\
+Remaining Validity Period: 78 day(s)\
 Subject: CN=SHAKEN Ytel Inc. 703J, OU=Connect, O=Ytel Inc., ST=California, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/YtelVoice20230214
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/YtelVoice20230214
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 703J', but common name is 'SHAKEN Ytel Inc. 703J' |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 ### Not Effective
 
@@ -26,4 +26,4 @@ Link: https://cr.sansay.com/YtelVoice20230214
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

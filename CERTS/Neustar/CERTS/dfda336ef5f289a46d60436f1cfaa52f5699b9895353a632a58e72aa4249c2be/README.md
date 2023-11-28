@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 2473
 
-Tested At: 28 Nov 23 16:02 UTC\
+Tested At: 28 Nov 23 19:57 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 17 day(s)\
 Subject: CN=SHAKEN 2473, O=Frontier Communications, C=US\
@@ -25,4 +25,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11022.10175
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

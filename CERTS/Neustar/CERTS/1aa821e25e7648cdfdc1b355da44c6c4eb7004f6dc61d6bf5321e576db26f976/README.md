@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 969H
 
-Tested At: 28 Nov 23 16:11 UTC\
+Tested At: 28 Nov 23 20:17 UTC\
 Initial Validity Period: 398 day(s)\
 Remaining Validity Period: 24 day(s)\
 Subject: CN=SHAKEN 969H, O=Google Voice Canada Corporation, C=CA\
@@ -25,4 +25,4 @@ Link: https://www.gstatic.com/gtp/stir/cpT9T1Zsg38JSHSBuNGgyg.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

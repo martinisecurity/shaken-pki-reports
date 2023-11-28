@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 2550
 
-Tested At: 28 Nov 23 16:00 UTC\
+Tested At: 28 Nov 23 19:53 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -299 day(s)\
 Subject: CN=SHAKEN 2550, O=123.Net\\, Inc, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/2e3276e5-a5c5-43c7-ae11-3a226bf1b5ed/c0f3
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

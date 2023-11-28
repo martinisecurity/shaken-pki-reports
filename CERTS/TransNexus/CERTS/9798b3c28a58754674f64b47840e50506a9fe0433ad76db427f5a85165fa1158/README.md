@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1640
 
-Tested At: 28 Nov 23 16:00 UTC\
+Tested At: 28 Nov 23 19:53 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -30 day(s)\
 Subject: CN=SHAKEN 1640, O=SDN, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/21ed4b39-a552-499c-9524-a18843bab43e/020e
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

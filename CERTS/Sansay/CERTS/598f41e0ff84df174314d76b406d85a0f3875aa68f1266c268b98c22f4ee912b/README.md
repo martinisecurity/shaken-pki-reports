@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Call Hub Inc. 688K
 
-Tested At: 28 Nov 23 15:59 UTC\
+Tested At: 28 Nov 23 19:52 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 256 day(s)\
 Subject: CN=SHAKEN Call Hub Inc. 688K, OU=Technical, O=Call Hub Inc., ST=Wyoming, C=US\
@@ -13,8 +13,8 @@ Link: https://callhub.46labs.com/callhub.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 688K', but common name is 'SHAKEN Call Hub Inc. 688K' |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 688K', but common name is 'SHAKEN Call Hub Inc. 688K' |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

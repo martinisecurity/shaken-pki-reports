@@ -2,7 +2,7 @@
 
 ## Certificate Teleinx LLC SHAKEN 744J
 
-Tested At: 28 Nov 23 16:01 UTC\
+Tested At: 28 Nov 23 19:55 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 289 day(s)\
 Subject: CN=Teleinx LLC SHAKEN 744J, O=Teleinx LLC, L=Boynton Beach, ST=FL, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.peeringhub.io/744J/744J.crt
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

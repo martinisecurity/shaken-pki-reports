@@ -2,7 +2,7 @@
 
 ## Certificate PioneerTelephone
 
-Tested At: 28 Nov 23 16:03 UTC\
+Tested At: 28 Nov 23 19:57 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 68 day(s)\
 Subject: C=US, ST=OK, L=Kingfisher, O=Central Office Switching, OU=ptci, CN=PioneerTelephone\
@@ -13,9 +13,9 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11144.10173.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_ext_certificate_policies](../../ISSUES/e_atis_ext_certificate_policies/README.md) | error | ATIS1000080 | The Certificate Policies extension is not present |
 | [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common Name attribute 'PioneerTelephone' does not contain 'SHAKEN' |
 | [e_atis_signature_algorithm](../../ISSUES/e_atis_signature_algorithm/README.md) | error | ATIS1000080 | SignatureAlgorithm field is not 'ecdsa-with-SHA256', got 1.2.840.113549.1.1.11 |
+| [e_atis_ext_certificate_policies](../../ISSUES/e_atis_ext_certificate_policies/README.md) | error | ATIS1000080 | The Certificate Policies extension is not present |
 
 ### Not Effective
 
@@ -31,4 +31,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11144.10173.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

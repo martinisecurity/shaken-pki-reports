@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 918J
 
-Tested At: 28 Nov 23 16:00 UTC\
+Tested At: 28 Nov 23 19:53 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -182 day(s)\
+Remaining Validity Period: -183 day(s)\
 Subject: CN=SHAKEN 918J, O=VoIPX International Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/3bbe1f4c-3184-44ee-84f4-2f63891aa57b/0cb098bdabb604245136e89a7ecdc0d3.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/3bbe1f4c-3184-44ee-84f4-2f63891aa57b/0cb0
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

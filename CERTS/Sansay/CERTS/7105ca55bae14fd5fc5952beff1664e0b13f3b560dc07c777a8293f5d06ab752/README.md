@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Kloud 7 LLC 214K
 
-Tested At: 28 Nov 23 16:06 UTC\
+Tested At: 28 Nov 23 20:11 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 312 day(s)\
 Subject: CN=SHAKEN Kloud 7 LLC 214K, OU=Kloud 7 LLC, O=Kloud 7 LLC, ST=Alabama, C=US\
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/Kloud_7_LLC_214K
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 214K', but common name is 'SHAKEN Kloud 7 LLC 214K' |
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 214K', but common name is 'SHAKEN Kloud 7 LLC 214K' |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

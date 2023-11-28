@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 594J
 
-Tested At: 28 Nov 23 16:00 UTC\
+Tested At: 28 Nov 23 19:53 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -159 day(s)\
 Subject: CN=SHAKEN 594J, O=Carolina Digital, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/14652271-f2ba-4197-87c0-704f8c618e4b/8327
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

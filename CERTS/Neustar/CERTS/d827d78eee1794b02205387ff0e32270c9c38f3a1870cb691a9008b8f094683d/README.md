@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 869J
 
-Tested At: 28 Nov 23 16:08 UTC\
+Tested At: 28 Nov 23 20:13 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 180 day(s)\
 Subject: CN=SHAKEN 869J, O=Sipnex Telecom LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/2db3a0741b6ec28d8c5db8b10d3fed456ac2b47f
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

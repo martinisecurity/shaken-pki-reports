@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 197D
 
-Tested At: 28 Nov 23 16:10 UTC\
+Tested At: 28 Nov 23 20:15 UTC\
 Initial Validity Period: 398 day(s)\
-Remaining Validity Period: 80 day(s)\
+Remaining Validity Period: 79 day(s)\
 Subject: CN=SHAKEN 197D, O=Vonage, C=US\
 Issuer: CN=Neustar Canada Certified Caller ID SHAKEN CA-2, OU=www.ca.ccid.neustar, O=Neustar Information Services Inc, C=CA\
 Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/56701755b64fd6472ffc065ab0dfe768.pem
@@ -25,4 +25,4 @@ Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/56701755b64fd6472ffc06
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

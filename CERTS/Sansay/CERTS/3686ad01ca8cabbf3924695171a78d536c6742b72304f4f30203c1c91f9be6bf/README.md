@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Telcentris Inc. dba Voxox 696J
 
-Tested At: 28 Nov 23 16:06 UTC\
+Tested At: 28 Nov 23 20:11 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -296 day(s)\
 Subject: CN=SHAKEN Telcentris Inc. dba Voxox 696J, OU=NOC, O=Telcentris Inc. dba Voxox, ST=California, C=US\
@@ -26,4 +26,4 @@ Link: https://cr.sansay.com/Voxox_696J
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate Losh Communications, Inc SHAKEN 149K 2023-11-28_000001
 
-Tested At: 28 Nov 23 16:07 UTC\
+Tested At: 28 Nov 23 20:12 UTC\
 Initial Validity Period: 271 day(s)\
-Remaining Validity Period: 271 day(s)\
+Remaining Validity Period: 270 day(s)\
 Subject: CN=Losh Communications\\, Inc SHAKEN 149K 2023-11-28_000001, O=Losh Communications\\, Inc, L=Springfield, ST=MO, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://nyc01.trunks2.calldecibel.com:5000/stirshaken_certs/149K.pem
@@ -14,4 +14,4 @@ Link: https://nyc01.trunks2.calldecibel.com:5000/stirshaken_certs/149K.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

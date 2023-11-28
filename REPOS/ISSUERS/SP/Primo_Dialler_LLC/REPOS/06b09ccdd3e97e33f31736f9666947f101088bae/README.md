@@ -3,8 +3,8 @@
 ## Primo Dialler LLC
 
 Name: `http://5.161.152.107/191c4c42dd7fa6115e84100637e42c99.cer`\
-Tested At: 28 Nov 23 15:59 UTC\
-Time: 11ms
+Tested At: 28 Nov 23 19:52 UTC\
+Time: 99ms
 
 ### Issues
 
@@ -14,4 +14,4 @@ Time: 11ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_protocol](../../ISSUES/w_atis_protocol/README.md) | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

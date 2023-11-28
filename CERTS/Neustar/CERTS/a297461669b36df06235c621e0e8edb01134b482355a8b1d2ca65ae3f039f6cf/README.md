@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 973J
 
-Tested At: 28 Nov 23 16:08 UTC\
+Tested At: 28 Nov 23 20:13 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 113 day(s)\
 Subject: CN=SHAKEN 973J, O=Vibratel, C=US\
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/2c80ab6c6b60bccb742a11f1ac57540f8ad29097
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

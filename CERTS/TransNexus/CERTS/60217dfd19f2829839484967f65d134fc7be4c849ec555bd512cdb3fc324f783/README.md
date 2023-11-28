@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 120K
 
-Tested At: 28 Nov 23 16:01 UTC\
+Tested At: 28 Nov 23 19:54 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -278 day(s)\
 Subject: CN=SHAKEN 120K, O=VC3, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/bcb89748-38e2-45ae-8b54-7efd23525de2/6adc
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

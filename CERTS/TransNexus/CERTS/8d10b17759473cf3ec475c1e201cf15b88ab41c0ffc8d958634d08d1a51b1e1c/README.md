@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 594J
 
-Tested At: 28 Nov 23 16:00 UTC\
+Tested At: 28 Nov 23 19:53 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -321 day(s)\
 Subject: CN=SHAKEN 594J, O=Carolina Digital, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/14652271-f2ba-4197-87c0-704f8c618e4b/27e9
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

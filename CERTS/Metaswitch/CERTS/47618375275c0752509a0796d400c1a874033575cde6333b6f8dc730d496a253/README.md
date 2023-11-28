@@ -2,7 +2,7 @@
 
 ## Certificate Consolidated Telcom ND SHAKEN Cert 7008
 
-Tested At: 28 Nov 23 15:59 UTC\
+Tested At: 28 Nov 23 19:52 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 837 day(s)\
 Subject: CN=Consolidated Telcom ND SHAKEN Cert 7008, O=Consolidated Telcom ND, C=US\
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/1e9efaedff05b3fc118ca5c6c413a10ce0a84b9
 | [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

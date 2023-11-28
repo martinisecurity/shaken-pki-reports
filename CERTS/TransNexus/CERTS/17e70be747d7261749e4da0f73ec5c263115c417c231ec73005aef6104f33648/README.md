@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1227
 
-Tested At: 28 Nov 23 16:01 UTC\
+Tested At: 28 Nov 23 19:55 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -70 day(s)\
+Remaining Validity Period: -71 day(s)\
 Subject: CN=SHAKEN 1227, O=Atlas Connectivity\\, LLC., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/c178055b-2042-410c-bb17-4a1ce8ad6066/80ca9e36dc3bcdb99aaaa91304e7acac.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/c178055b-2042-410c-bb17-4a1ce8ad6066/80ca
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 849J
 
-Tested At: 28 Nov 23 16:00 UTC\
+Tested At: 28 Nov 23 19:54 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -402 day(s)\
+Remaining Validity Period: -403 day(s)\
 Subject: CN=SHAKEN 849J, OU=SHAKEN, O=Fuse.Cloud, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/86e241b8-9c8e-4431-b35f-4d92844a1da9/b15fd46f0c04f43108e7920a6c521f54.pem
@@ -26,4 +26,4 @@ Link: https://certificates.clearip.com/86e241b8-9c8e-4431-b35f-4d92844a1da9/b15f
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

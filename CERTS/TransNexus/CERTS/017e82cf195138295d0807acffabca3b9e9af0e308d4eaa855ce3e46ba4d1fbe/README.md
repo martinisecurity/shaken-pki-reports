@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 3800
 
-Tested At: 28 Nov 23 16:00 UTC\
+Tested At: 28 Nov 23 19:53 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -86 day(s)\
 Subject: CN=SHAKEN 3800, O=Teleguam Holdings LLC dba GTA, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/516928e8-c971-4dd3-9678-9425a5759209/59b9
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

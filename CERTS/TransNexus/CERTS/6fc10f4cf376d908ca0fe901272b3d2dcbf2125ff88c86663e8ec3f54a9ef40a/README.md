@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 753J
 
-Tested At: 28 Nov 23 16:01 UTC\
+Tested At: 28 Nov 23 19:55 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -319 day(s)\
+Remaining Validity Period: -320 day(s)\
 Subject: CN=SHAKEN 753J, O=Senawave Communications\\, Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/ec37fdce-f409-4bc8-89e7-bd7f2679e0c8/ae4228d9b805a9c70b8050c725632c9a.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/ec37fdce-f409-4bc8-89e7-bd7f2679e0c8/ae42
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

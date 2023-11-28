@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 8407
 
-Tested At: 28 Nov 23 16:01 UTC\
+Tested At: 28 Nov 23 19:55 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -131 day(s)\
+Remaining Validity Period: -132 day(s)\
 Subject: CN=SHAKEN 8407, O=Cooperative Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/c9fd194b-ae82-4332-9482-ad1783b98c7c/8c69ad83e36467caf63ceb4c176020a2.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/c9fd194b-ae82-4332-9482-ad1783b98c7c/8c69
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

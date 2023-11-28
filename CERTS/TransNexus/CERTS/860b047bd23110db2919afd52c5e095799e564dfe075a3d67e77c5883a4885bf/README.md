@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 056J
 
-Tested At: 28 Nov 23 16:00 UTC\
+Tested At: 28 Nov 23 19:53 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -391 day(s)\
 Subject: CN=SHAKEN 056J, OU=SHAKEN, O=Telco Experts, C=US\
@@ -26,4 +26,4 @@ Link: https://certificates.clearip.com/384afe84-56e7-4f0a-a8f8-9be6e100ab3e/bd57
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

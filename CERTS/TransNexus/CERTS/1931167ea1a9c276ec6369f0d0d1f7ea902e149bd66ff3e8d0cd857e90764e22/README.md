@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1931
 
-Tested At: 28 Nov 23 16:00 UTC\
+Tested At: 28 Nov 23 19:53 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -99 day(s)\
 Subject: CN=SHAKEN 1931, O=Vantage Point Solutions\\ , C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/49f64146-cd9d-4968-9eb0-4a19b813dd36/3d3c
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

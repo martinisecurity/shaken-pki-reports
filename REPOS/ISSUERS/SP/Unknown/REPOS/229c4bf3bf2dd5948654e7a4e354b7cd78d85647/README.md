@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `http://5.161.181.254/ec256-public.pem`\
-Tested At: 28 Nov 23 15:59 UTC\
-Time: 5ms
+Tested At: 28 Nov 23 19:52 UTC\
+Time: 53ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 5ms
 |------|------|--------|---------|
 | [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "http://5.161.181.254/ec256-public.pem": dial tcp 5.161.181.254:80: connect: connection refused |
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

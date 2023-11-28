@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Threshold Communications Inc 563J
 
-Tested At: 28 Nov 23 16:06 UTC\
+Tested At: 28 Nov 23 20:11 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 30 day(s)\
 Subject: CN=SHAKEN Threshold Communications Inc 563J, OU=NOC, O=Threshold Communications Inc, ST=Washington, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Threshold_Communications_Inc_563J
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 563J', but common name is 'SHAKEN Threshold Communications Inc 563J' |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

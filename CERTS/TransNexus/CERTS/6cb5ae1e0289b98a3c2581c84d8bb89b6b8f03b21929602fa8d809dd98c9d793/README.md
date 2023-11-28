@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 186K
 
-Tested At: 28 Nov 23 16:01 UTC\
+Tested At: 28 Nov 23 19:54 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -406 day(s)\
 Subject: CN=SHAKEN 186K, OU=SHAKEN, O=Go2Uno LLC, C=US\
@@ -26,4 +26,4 @@ Link: https://certificates.clearip.com/92df566f-5229-4e9a-b7c7-ec203fc4196d/f6fd
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

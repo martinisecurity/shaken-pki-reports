@@ -2,9 +2,9 @@
 
 ## Certificate Ironton SHAKEN 1234 0175
 
-Tested At: 28 Nov 23 16:08 UTC\
+Tested At: 28 Nov 23 20:13 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 170 day(s)\
+Remaining Validity Period: 169 day(s)\
 Subject: CN=Ironton SHAKEN 1234 0175, OU=Central Office, O=Ironton Telephone, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/rOzx_GsVRz/0175-529f0eaf99604f407acaafd164cd7e9d
@@ -18,4 +18,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/rOzx_GsVRz/0175-529f0eaf99604f407
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 0175', but common name is 'Ironton SHAKEN 1234 0175' |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

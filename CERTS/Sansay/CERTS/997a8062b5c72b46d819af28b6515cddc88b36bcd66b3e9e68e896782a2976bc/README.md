@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN i3 Broadband 5800
 
-Tested At: 28 Nov 23 16:05 UTC\
+Tested At: 28 Nov 23 20:06 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -67 day(s)\
 Subject: emailAddress=doug@i3broadband.com, CN=SHAKEN i3 Broadband 5800, OU=NOC, O=i3 Broadband, ST=Illinois, C=US, emailAddress=doug@i3broadband.com\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/5800/order/122_5800_165
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

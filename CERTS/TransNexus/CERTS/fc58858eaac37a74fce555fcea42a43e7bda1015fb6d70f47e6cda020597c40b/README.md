@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 734J
 
-Tested At: 28 Nov 23 16:01 UTC\
+Tested At: 28 Nov 23 19:55 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -341 day(s)\
 Subject: CN=SHAKEN 734J, O=TELINTEL LTD, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/cf29335b-1257-4ff4-9882-94a76a244c20/064e
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

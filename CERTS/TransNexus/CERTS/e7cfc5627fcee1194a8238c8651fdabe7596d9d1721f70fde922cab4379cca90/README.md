@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 763J
 
-Tested At: 28 Nov 23 16:01 UTC\
+Tested At: 28 Nov 23 19:55 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -207 day(s)\
+Remaining Validity Period: -208 day(s)\
 Subject: CN=SHAKEN 763J, O=InfoWest Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/f12e1928-6745-4bda-b71c-42eaf0738bce/1f7775b2734e17a456b8cf5fe4f1c9a2.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/f12e1928-6745-4bda-b71c-42eaf0738bce/1f77
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

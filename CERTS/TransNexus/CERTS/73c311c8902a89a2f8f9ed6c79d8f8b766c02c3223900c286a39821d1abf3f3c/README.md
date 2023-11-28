@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 056K
 
-Tested At: 28 Nov 23 16:01 UTC\
+Tested At: 28 Nov 23 19:55 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -162 day(s)\
+Remaining Validity Period: -163 day(s)\
 Subject: CN=SHAKEN 056K, O=Logista Solutions, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/d673a99f-ad2d-4256-8d65-e20ff91adba4/426228bb24eb1f5191ef7b8fc57fe5c9.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/d673a99f-ad2d-4256-8d65-e20ff91adba4/4262
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

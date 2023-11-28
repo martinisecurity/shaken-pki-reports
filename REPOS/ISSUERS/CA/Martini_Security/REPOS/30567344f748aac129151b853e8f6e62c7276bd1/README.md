@@ -3,11 +3,11 @@
 ## Martini Security
 
 Name: `https://p.mtsec.me/2884/LoXon5J_mZEm.pem`\
-Tested At: 28 Nov 23 16:12 UTC\
-Time: 24ms
+Tested At: 28 Nov 23 20:18 UTC\
+Time: 93ms
 
 ### Issues
 
 no warning, or error, or notice date level issues were found
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

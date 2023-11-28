@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 518J
 
-Tested At: 28 Nov 23 16:01 UTC\
+Tested At: 28 Nov 23 19:55 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -297 day(s)\
 Subject: CN=SHAKEN 518J, O=TransNexus\\, Inc., C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/transnexus/0b4467560ba779ad2a01b7077a9232
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

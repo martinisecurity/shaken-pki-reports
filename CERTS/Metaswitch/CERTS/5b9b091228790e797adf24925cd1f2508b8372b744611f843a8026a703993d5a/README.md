@@ -2,9 +2,9 @@
 
 ## Certificate Syringa Networks SHAKEN Cert 5869
 
-Tested At: 28 Nov 23 15:59 UTC\
+Tested At: 28 Nov 23 19:52 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 245 day(s)\
+Remaining Validity Period: 244 day(s)\
 Subject: CN=Syringa Networks SHAKEN Cert 5869, O=Syringa Networks, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/f9a476014f036865318edcafd2156667825b4092
@@ -29,4 +29,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/f9a476014f036865318edcafd2156667825b409
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

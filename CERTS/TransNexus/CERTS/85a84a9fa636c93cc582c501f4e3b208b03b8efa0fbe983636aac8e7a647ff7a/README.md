@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 9595
 
-Tested At: 28 Nov 23 16:00 UTC\
+Tested At: 28 Nov 23 19:53 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -266 day(s)\
 Subject: CN=SHAKEN 9595, O=Douglas Fastnet, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/1bc16dfa-2270-4eb2-96b7-8a33d2ac6f42/7893
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

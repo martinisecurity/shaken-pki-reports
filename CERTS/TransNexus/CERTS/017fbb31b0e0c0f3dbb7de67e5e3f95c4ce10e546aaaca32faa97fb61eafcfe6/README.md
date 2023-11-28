@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 621J
 
-Tested At: 28 Nov 23 16:02 UTC\
+Tested At: 28 Nov 23 19:56 UTC\
 Initial Validity Period: 120 day(s)\
 Remaining Validity Period: -200 day(s)\
 Subject: CN=SHAKEN 621J, O=Voice Ring Inc, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.transnexus.com/621J/06d45ddc-1929-4ac6-93f3-dbb81534a
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

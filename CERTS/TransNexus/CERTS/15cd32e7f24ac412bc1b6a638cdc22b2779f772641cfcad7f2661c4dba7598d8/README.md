@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 549J
 
-Tested At: 28 Nov 23 16:00 UTC\
+Tested At: 28 Nov 23 19:53 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -195 day(s)\
 Subject: CN=SHAKEN 549J, O=Amplex Electric Inc, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/38d748c3-cd99-432f-ad31-1c605b65e6bd/7df6
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 916J
 
-Tested At: 28 Nov 23 16:00 UTC\
+Tested At: 28 Nov 23 19:53 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -345 day(s)\
 Subject: CN=SHAKEN 916J, O=Fusion Networks, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/48c90e4a-a2cf-4e37-bd41-4c9bf99d32ac/f139
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Momentum Telecom 1417
 
-Tested At: 28 Nov 23 16:06 UTC\
+Tested At: 28 Nov 23 20:11 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 30 day(s)\
 Subject: CN=SHAKEN Momentum Telecom 1417, OU=NOC, O=Momentum Telecom, ST=Georgia, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/MomentumTelecom_1417
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 1417', but common name is 'SHAKEN Momentum Telecom 1417' |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

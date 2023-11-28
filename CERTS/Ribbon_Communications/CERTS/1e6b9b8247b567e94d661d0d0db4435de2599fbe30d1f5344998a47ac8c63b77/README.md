@@ -2,9 +2,9 @@
 
 ## Certificate Triangle SHAKEN 2257
 
-Tested At: 28 Nov 23 16:08 UTC\
+Tested At: 28 Nov 23 20:13 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 94 day(s)\
+Remaining Validity Period: 93 day(s)\
 Subject: CN=Triangle SHAKEN 2257, OU=STI, O=Triangle, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/fh2Fl4xVgz/10000-457e9bfe46560b334453a78b38eb7826
@@ -25,4 +25,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/fh2Fl4xVgz/10000-457e9bfe46560b33
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

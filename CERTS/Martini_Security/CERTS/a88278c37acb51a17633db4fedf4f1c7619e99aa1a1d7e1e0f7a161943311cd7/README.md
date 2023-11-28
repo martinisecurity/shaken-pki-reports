@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 073K
 
-Tested At: 28 Nov 23 16:11 UTC\
+Tested At: 28 Nov 23 20:18 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: -211 day(s)\
 Subject: O=ACS Business Systems\\, Inc., C=US, serialNumber=C544B7C7774E1E858509D1859542673F, CN=SHAKEN 073K\
@@ -23,4 +23,4 @@ Link: https://p.mtsec.me/2884/CHY9f4hAH0x1.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

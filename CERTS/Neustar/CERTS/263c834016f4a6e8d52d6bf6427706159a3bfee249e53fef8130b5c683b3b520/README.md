@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 964J
 
-Tested At: 28 Nov 23 16:08 UTC\
+Tested At: 28 Nov 23 20:13 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -201 day(s)\
+Remaining Validity Period: -202 day(s)\
 Subject: CN=SHAKEN 964J, O=AllClear Connect Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/68ca8adc8e059b7ab31628a17b62bdb33a64bcfd
@@ -25,4 +25,4 @@ Link: https://ssc.getsipnav.com/certs/68ca8adc8e059b7ab31628a17b62bdb33a64bcfd
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

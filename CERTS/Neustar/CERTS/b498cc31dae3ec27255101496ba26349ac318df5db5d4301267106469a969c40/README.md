@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 0377
 
-Tested At: 28 Nov 23 16:08 UTC\
+Tested At: 28 Nov 23 20:13 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 60 day(s)\
 Subject: CN=SHAKEN 0377, O=Pineland Telephone Cooperative Inc, C=US\
@@ -25,4 +25,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/MU7B8iqMRz/STI0377
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN NTC International, INC 016K
 
-Tested At: 28 Nov 23 16:03 UTC\
+Tested At: 28 Nov 23 19:58 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -240 day(s)\
+Remaining Validity Period: -241 day(s)\
 Subject: emailAddress=billing@ntcinternationalinc.com, CN=SHAKEN NTC International\\, INC 016K, OU=Operations, O=NTC International\\, INC, ST=Delaware, C=US, emailAddress=billing@ntcinternationalinc.com\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/016K/order/204_016K_115
@@ -26,4 +26,4 @@ Link: https://cr.sansay.com/016K/order/204_016K_115
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

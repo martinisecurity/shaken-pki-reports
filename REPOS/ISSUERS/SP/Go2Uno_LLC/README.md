@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 188ms average time it took to download each certificate
+- 226ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://go2uno.46labs.com` | 28&#160;Jun&#160;24&#160;01:26&#160;UTC | true | [view](REPOS/c241b578178f75e34f07d8738b3b6b6b0e4f0ecd/README.md) |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

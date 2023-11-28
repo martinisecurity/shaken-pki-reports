@@ -89,4 +89,4 @@ Description: The Key Usage extension for STI end-entity certificates shall conta
 No error, warning, or notice level issues were found
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

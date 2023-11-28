@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 982J
 
-Tested At: 28 Nov 23 16:02 UTC\
+Tested At: 28 Nov 23 19:56 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -294 day(s)\
 Subject: CN=SHAKEN 982J, O=IPROT Inc, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.transnexus.com/982J/b5d91983-f640-4dda-8ef5-11f784df6
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

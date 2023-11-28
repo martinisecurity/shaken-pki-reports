@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Terra Nova Telecom 382G
 
-Tested At: 28 Nov 23 16:04 UTC\
+Tested At: 28 Nov 23 20:03 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 30 day(s)\
 Subject: CN=SHAKEN Terra Nova Telecom 382G, OU=NOC, O=Terra Nova Telecom, ST=Florida, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/382G_TERRANOVA_STIR_SHAKEN.crt
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 186K
 
-Tested At: 28 Nov 23 16:02 UTC\
+Tested At: 28 Nov 23 19:55 UTC\
 Initial Validity Period: 1 day(s)\
 Remaining Validity Period: -271 day(s)\
 Subject: CN=SHAKEN 186K, O=Go2Uno LLC, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.transnexus.com/186K/5b57add9-8ed0-461c-bb82-9cee055d2
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

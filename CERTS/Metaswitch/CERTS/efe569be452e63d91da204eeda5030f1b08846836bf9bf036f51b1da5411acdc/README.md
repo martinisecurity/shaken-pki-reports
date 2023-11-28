@@ -2,9 +2,9 @@
 
 ## Certificate Nex-Tech Wireless SHAKEN Cert 122D
 
-Tested At: 28 Nov 23 15:59 UTC\
+Tested At: 28 Nov 23 19:52 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 154 day(s)\
+Remaining Validity Period: 153 day(s)\
 Subject: CN=Nex-Tech Wireless SHAKEN Cert 122D, O=Nex-Tech Wireless, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/211845364ec11f9349b1d056e2f7bdfc490fefe0
@@ -29,4 +29,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/211845364ec11f9349b1d056e2f7bdfc490fefe
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

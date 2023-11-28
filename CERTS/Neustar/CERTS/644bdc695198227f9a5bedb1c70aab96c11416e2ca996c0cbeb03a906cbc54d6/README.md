@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 772J
 
-Tested At: 28 Nov 23 16:08 UTC\
+Tested At: 28 Nov 23 20:13 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -190 day(s)\
 Subject: CN=SHAKEN 772J, O=VOIP ESSENTIAL INC, C=US\
@@ -25,4 +25,4 @@ Link: https://ssc.getsipnav.com/certs/261746773a206497f0aba08cf010ad423bffade9
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

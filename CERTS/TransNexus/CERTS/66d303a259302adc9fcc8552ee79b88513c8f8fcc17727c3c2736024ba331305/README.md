@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 140K
 
-Tested At: 28 Nov 23 16:01 UTC\
+Tested At: 28 Nov 23 19:55 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -358 day(s)\
+Remaining Validity Period: -359 day(s)\
 Subject: CN=SHAKEN 140K, O=IP Communications\\, LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/ded2dd05-658d-4b95-9554-d30e2f15e26b/f35cb1ff91ff65354e457a427caed553.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/ded2dd05-658d-4b95-9554-d30e2f15e26b/f35c
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

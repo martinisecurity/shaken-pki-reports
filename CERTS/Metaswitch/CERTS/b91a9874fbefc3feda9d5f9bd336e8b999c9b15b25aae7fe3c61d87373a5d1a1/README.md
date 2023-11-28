@@ -2,7 +2,7 @@
 
 ## Certificate Metaswitch STI-CA SHAKEN Issuing 1
 
-Tested At: 28 Nov 23 16:13 UTC\
+Tested At: 28 Nov 23 20:19 UTC\
 Initial Validity Period: 4380 day(s)\
 Remaining Validity Period: 3282 day(s)\
 Subject: CN=Metaswitch STI-CA SHAKEN Issuing 1\
@@ -12,8 +12,8 @@ Issuer: CN=Metaswitch STI-CA SHAKEN Root
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_ext_crl_distribution_ca](../../ISSUES/e_atis_ext_crl_distribution_ca/README.md) | error | ATIS1000080 | STI End-Entity certificates shall contain a CRL Distribution Points extension |
 | [e_atis_ext_certificate_policies_ca](../../ISSUES/e_atis_ext_certificate_policies_ca/README.md) | error | ATIS1000080 | The Certificate Policies extension is not present |
+| [e_atis_ext_crl_distribution_ca](../../ISSUES/e_atis_ext_crl_distribution_ca/README.md) | error | ATIS1000080 | STI End-Entity certificates shall contain a CRL Distribution Points extension |
 | [e_atis_subject_dn_ca](../../ISSUES/e_atis_subject_dn_ca/README.md) | error | ATIS1000080 | Subject DN does not contain a Country (C=) attribute |
 
 ### Not Effective
@@ -28,4 +28,4 @@ Issuer: CN=Metaswitch STI-CA SHAKEN Root
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

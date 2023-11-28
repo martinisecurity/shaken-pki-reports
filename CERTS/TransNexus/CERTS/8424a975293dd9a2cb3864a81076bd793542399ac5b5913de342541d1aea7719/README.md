@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 749J
 
-Tested At: 28 Nov 23 16:01 UTC\
+Tested At: 28 Nov 23 19:55 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -95 day(s)\
+Remaining Validity Period: -96 day(s)\
 Subject: CN=SHAKEN 749J, O=iTalkGlobal, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/d7bfa171-ff4f-483d-849b-3f987c919d43/2e1f08b6c6fbee956ba24f0be5672f38.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/d7bfa171-ff4f-483d-849b-3f987c919d43/2e1f
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

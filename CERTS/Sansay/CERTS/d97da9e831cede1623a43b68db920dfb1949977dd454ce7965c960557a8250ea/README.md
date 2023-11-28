@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN InteractiveTel, LLC 920J
 
-Tested At: 28 Nov 23 16:06 UTC\
+Tested At: 28 Nov 23 20:10 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -201 day(s)\
 Subject: emailAddress=jfindley@interactivetel.com, CN=SHAKEN InteractiveTel\\, LLC 920J, OU=NOC, O=InteractiveTel\\, LLC, ST=Texas, C=US, emailAddress=jfindley@interactivetel.com\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/920J/order/298_920J_66
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

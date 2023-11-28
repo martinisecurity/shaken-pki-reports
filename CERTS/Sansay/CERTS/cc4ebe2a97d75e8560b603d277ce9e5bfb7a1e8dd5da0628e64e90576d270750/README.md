@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Godaddy 463K
 
-Tested At: 28 Nov 23 16:06 UTC\
+Tested At: 28 Nov 23 20:11 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 351 day(s)\
 Subject: CN=SHAKEN Godaddy 463K, OU=ENM-OPS, O=Godaddy, ST=Arizona, C=US\
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/Godaddy_463K
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 463K', but common name is 'SHAKEN Godaddy 463K' |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

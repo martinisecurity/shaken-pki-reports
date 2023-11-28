@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 0759
 
-Tested At: 28 Nov 23 16:00 UTC\
+Tested At: 28 Nov 23 19:53 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -84 day(s)\
 Subject: CN=SHAKEN 0759, O=Andrew Ward Consulting LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/3446023b-a4a3-4abb-a8fd-dbbd08f4a4d2/06b3
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

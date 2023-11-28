@@ -2,7 +2,7 @@
 
 ## Certificate American Broadband SHAKEN Cert 355D
 
-Tested At: 28 Nov 23 15:59 UTC\
+Tested At: 28 Nov 23 19:52 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 159 day(s)\
 Subject: CN=American Broadband SHAKEN Cert 355D, O=American Broadband, C=US\
@@ -29,4 +29,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/f786e53509092c8a45b19b7dcd6886b5316d333
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

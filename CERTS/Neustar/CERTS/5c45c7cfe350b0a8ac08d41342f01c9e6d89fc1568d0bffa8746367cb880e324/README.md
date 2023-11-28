@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 224C
 
-Tested At: 28 Nov 23 16:10 UTC\
+Tested At: 28 Nov 23 20:15 UTC\
 Initial Validity Period: 398 day(s)\
-Remaining Validity Period: 287 day(s)\
+Remaining Validity Period: 286 day(s)\
 Subject: CN=SHAKEN 224C, OU=Voice Services, O=Onvoy LLC, L=Chicago, ST=IL, C=US\
 Issuer: CN=Neustar Canada Certified Caller ID SHAKEN CA-2, OU=www.ca.ccid.neustar, O=Neustar Information Services Inc, C=CA\
 Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/925f707cc3de6c01ae333d764bdc21ae.pem
@@ -16,4 +16,4 @@ Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/925f707cc3de6c01ae333d
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 1.3.6.1.4.1.56223.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

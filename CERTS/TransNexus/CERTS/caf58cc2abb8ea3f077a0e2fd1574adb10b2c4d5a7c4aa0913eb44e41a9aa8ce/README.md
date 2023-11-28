@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 291K
 
-Tested At: 28 Nov 23 16:01 UTC\
+Tested At: 28 Nov 23 19:54 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -110 day(s)\
+Remaining Validity Period: -111 day(s)\
 Subject: CN=SHAKEN 291K, O=Hypercore Networks\\, Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/b66a7496-cdd4-46e3-b219-cb0ecdc80d22/f6dd8757260cae7676c8e790cafae285.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/b66a7496-cdd4-46e3-b219-cb0ecdc80d22/f6dd
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

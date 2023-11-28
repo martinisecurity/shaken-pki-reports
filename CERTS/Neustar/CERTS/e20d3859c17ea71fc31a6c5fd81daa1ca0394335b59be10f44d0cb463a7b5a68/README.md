@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 917J
 
-Tested At: 28 Nov 23 16:08 UTC\
+Tested At: 28 Nov 23 20:13 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -248 day(s)\
+Remaining Validity Period: -249 day(s)\
 Subject: CN=SHAKEN 917J, O=Avid Telecom, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/d29187037eabb3b60e24baba5c0b3dc424e004b9
@@ -25,4 +25,4 @@ Link: https://ssc.getsipnav.com/certs/d29187037eabb3b60e24baba5c0b3dc424e004b9
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

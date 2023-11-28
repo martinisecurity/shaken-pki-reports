@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 4632
 
-Tested At: 28 Nov 23 16:02 UTC\
+Tested At: 28 Nov 23 19:56 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -54 day(s)\
 Subject: CN=SHAKEN 4632, O=TelNet Worldwide Inc, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/4632/35ea9936-48a8-4cc0-84fd-d961c393d
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 106ms average time it took to download each certificate
+- 306ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -22,4 +22,4 @@
 | `https://stir.fibernetics.ca/prod-cert2023.pem` | 14&#160;Jul&#160;24&#160;15:59&#160;UTC | true | [view](REPOS/0396892389a6a60d6749ed1f98091ca732461f60/README.md) |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

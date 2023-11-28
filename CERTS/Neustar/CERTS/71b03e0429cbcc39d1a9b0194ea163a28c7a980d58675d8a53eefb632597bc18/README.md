@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 502E
 
-Tested At: 28 Nov 23 16:08 UTC\
+Tested At: 28 Nov 23 20:13 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -219 day(s)\
 Subject: CN=SHAKEN 502E, O=Accessline Communications Corp., C=US\
@@ -25,4 +25,4 @@ Link: https://sscerts.accessline.com/sscerts/Cert-US-04-2022.crt
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

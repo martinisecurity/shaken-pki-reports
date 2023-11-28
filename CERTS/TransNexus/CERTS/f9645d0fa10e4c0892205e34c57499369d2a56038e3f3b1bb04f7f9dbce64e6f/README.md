@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 297K
 
-Tested At: 28 Nov 23 16:00 UTC\
+Tested At: 28 Nov 23 19:54 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -111 day(s)\
+Remaining Validity Period: -112 day(s)\
 Subject: CN=SHAKEN 297K, O=Clarity Voice, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/859299ca-4c86-4dfd-9785-6c758bee1b37/0ea9adc6a9b14daef7115e118b5d9d26.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/859299ca-4c86-4dfd-9785-6c758bee1b37/0ea9
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

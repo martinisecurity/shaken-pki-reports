@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Cherry Voice 506K
 
-Tested At: 28 Nov 23 16:06 UTC\
+Tested At: 28 Nov 23 20:11 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 107 day(s)\
 Subject: CN=SHAKEN Cherry Voice 506K, OU=Network Operations, O=Cherry Voice Inc, ST=Wyoming, C=US\
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/Cherry_Voice_506K
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 506K', but common name is 'SHAKEN Cherry Voice 506K' |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 506K', but common name is 'SHAKEN Cherry Voice 506K' |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

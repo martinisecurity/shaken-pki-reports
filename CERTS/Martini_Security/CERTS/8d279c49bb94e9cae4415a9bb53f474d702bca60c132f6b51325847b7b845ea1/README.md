@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 9627
 
-Tested At: 28 Nov 23 16:13 UTC\
+Tested At: 28 Nov 23 20:19 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: 52 day(s)\
 Subject: O=Bendtel, C=US, serialNumber=5F5D7FC5EF8B1FC5CC1A101523947F74, CN=SHAKEN 9627\
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/WSum5fTS00TY.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

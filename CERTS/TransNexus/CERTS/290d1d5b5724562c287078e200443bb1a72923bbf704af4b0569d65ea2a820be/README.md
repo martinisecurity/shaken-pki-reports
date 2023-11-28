@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 274K
 
-Tested At: 28 Nov 23 16:00 UTC\
+Tested At: 28 Nov 23 19:53 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -120 day(s)\
 Subject: CN=SHAKEN 274K, O=Axxess Networks, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/16ee3de7-0486-474d-8091-08a7f37461ad/b7c3
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC

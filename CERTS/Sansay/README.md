@@ -9,9 +9,9 @@
 
 #### Leaf Certificates
 
-- 1752 certificates were included in the corpus being tested
+- 1751 certificates were included in the corpus being tested
 - 17 certificates in the corpus were skipped because they are duplicates
-- 1609 certificates in the corpus were skipped because they are expired
+- 1608 certificates in the corpus were skipped because they are expired
 - 1 certificates in the corpus were skipped because they are not currently trusted
 - 125 certificates being tested against the remaining rules
 - 2.01 issues on average found in unexpired, trusted, and non-compliant certificates
@@ -190,4 +190,4 @@ No error, warning, or notice level issues were found
 | 02&#160;Sep&#160;22&#160;20:53&#160;UTC | SHAKEN Sansay Intermediate CA US WEST 1 | 31&#160;Aug&#160;29&#160;20:53&#160;UTC | false | [view](CERTS/4b1dfdba2b1e4bbffbf900a20f1f6f7befbef0008b963e4922a64469cb97d24b/README.md) |
 
 
-Generated: 28 Nov 23 16:15 UTC
+Generated: 28 Nov 23 20:21 UTC
