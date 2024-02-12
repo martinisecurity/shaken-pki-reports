@@ -2,9 +2,9 @@
 
 ## Certificate 846B
 
-Tested At: 28 Nov 23 20:13 UTC\
+Tested At: 12 Feb 24 16:55 UTC\
 Initial Validity Period: 1096 day(s)\
-Remaining Validity Period: 173 day(s)\
+Remaining Validity Period: 97 day(s)\
 Subject: C=US, ST=Texas, L=Hallsville, O=Tim Ron Enterprises\\, LLC, OU=SHAKEN, CN=846B\
 Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1\
 Link: https://prod001-cr.rbbnidhub.com/OaPccQ6Mgz/sign-cert2
@@ -31,4 +31,4 @@ Link: https://prod001-cr.rbbnidhub.com/OaPccQ6Mgz/sign-cert2
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

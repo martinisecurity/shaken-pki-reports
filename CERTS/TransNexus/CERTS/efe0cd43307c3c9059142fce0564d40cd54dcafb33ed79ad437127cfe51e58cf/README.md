@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 738J
 
-Tested At: 28 Nov 23 19:55 UTC\
+Tested At: 12 Feb 24 16:30 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -294 day(s)\
+Remaining Validity Period: -370 day(s)\
 Subject: CN=SHAKEN 738J, O=SIP.US LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/a1dbb805fd1b9a3164df6910a443a44b.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/a1db
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

@@ -19,4 +19,4 @@ No error, warning, or notice level issues were found
 | error | Metaswitch STI-CA SHAKEN Issuing 1 | [view](../../CERTS/b91a9874fbefc3feda9d5f9bd336e8b999c9b15b25aae7fe3c61d87373a5d1a1/README.md) | STI End-Entity certificates shall contain a CRL Distribution Points extension |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

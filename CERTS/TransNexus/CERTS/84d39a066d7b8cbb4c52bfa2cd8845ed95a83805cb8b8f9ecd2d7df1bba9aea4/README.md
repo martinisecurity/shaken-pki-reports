@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 854D
 
-Tested At: 28 Nov 23 19:54 UTC\
+Tested At: 12 Feb 24 16:28 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -345 day(s)\
+Remaining Validity Period: -421 day(s)\
 Subject: CN=SHAKEN 854D, O=Xtel, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/627e4253-759f-447e-b1a0-c9cda9a6d597/9a433a10d4f0d6132ee0d48193853b98.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/627e4253-759f-447e-b1a0-c9cda9a6d597/9a43
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

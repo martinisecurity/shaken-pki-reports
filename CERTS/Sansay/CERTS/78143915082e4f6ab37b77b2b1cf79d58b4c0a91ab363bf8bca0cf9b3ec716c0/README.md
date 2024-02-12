@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN BareTelecom 864J
 
-Tested At: 28 Nov 23 20:08 UTC\
+Tested At: 12 Feb 24 16:48 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -219 day(s)\
+Remaining Validity Period: -295 day(s)\
 Subject: emailAddress=chris@baretelecom.com, CN=SHAKEN BareTelecom 864J, OU=Operations, O=BareTelecom, ST=California, C=US, emailAddress=chris@baretelecom.com\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/864J/order/10_864J_159
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/864J/order/10_864J_159
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

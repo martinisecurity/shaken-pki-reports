@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 625J
+
+Tested At: 12 Feb 24 16:30 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -28 day(s)\
+Subject: CN=SHAKEN 625J, O=Victory Telecom Inc., C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/b7343686-5ed8-402c-89a3-8bf1a3d48975/5118460bfe12cd34cb78cc79e42aa6e7.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC1TCCAnqgAwIBAgIQaCyKEOQqHHzxHhVVsiLZTTAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjQwMTA3MjExMTU5WhcNMjQwMTE0MjExMTU4WjBCMQswCQYDVQQGEwJVUzEdMBsGA1UEChMUVmljdG9yeSBUZWxlY29tIEluYy4xFDASBgNVBAMTC1NIQUtFTiA2MjVKMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEC8ubwkSfn0UABKWb5Na6DcRMi8gRMSp5uSTz51VLsb4YU%2F8JUuI4%2BXWQIxTgtdzP0X9X0fqU3rx7xdpHQ5GOd6OCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBQWkxBbp5HVrsBeMPZ8H9kakrGlXzAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ2MjVKMAoGCCqGSM49BAMCA0kAMEYCIQCU4vl2hDEgr0Ww5Yg6v95CdJki%2F6zWTT6FlQGAp5VUzgIhAPnvRTMtN5G8oJyKZtbA1eXtcu0lUYGnoVcxTrE6bjUd)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 12 Feb 24 17:02 UTC

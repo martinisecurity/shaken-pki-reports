@@ -2,9 +2,9 @@
 
 ## Certificate Veracity SHAKEN 716D
 
-Tested At: 28 Nov 23 20:13 UTC\
+Tested At: 12 Feb 24 16:55 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 176 day(s)\
+Remaining Validity Period: 100 day(s)\
 Subject: CN=Veracity SHAKEN 716D, OU=Voice, O=Veracity Networks LLC, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/VaMEsVjGRz/0-6f633bc2813830d744b6236fe4d3b741
@@ -17,4 +17,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/VaMEsVjGRz/0-6f633bc2813830d744b6
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

@@ -3,11 +3,11 @@
 ## Google Voice Inc.
 
 Name: `https://www.gstatic.com/gtp/stir/uHWlFUNDwXbqniKntdRafQ.pem`\
-Tested At: 28 Nov 23 20:17 UTC\
-Time: 73ms
+Tested At: 12 Feb 24 16:58 UTC\
+Time: 34ms
 
 ### Issues
 
 no warning, or error, or notice date level issues were found
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

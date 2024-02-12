@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 727J
 
-Tested At: 28 Nov 23 19:54 UTC\
+Tested At: 12 Feb 24 16:28 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -51 day(s)\
+Remaining Validity Period: -127 day(s)\
 Subject: CN=SHAKEN 727J, O=SumoFiber, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/60e08b8b-2fd4-455e-9e9a-faa0470820d8/77ab4298944e1687e4a82e405031ab19.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/60e08b8b-2fd4-455e-9e9a-faa0470820d8/77ab
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

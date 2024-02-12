@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Doylestown Communications, Inc 0609
 
-Tested At: 28 Nov 23 19:58 UTC\
+Tested At: 12 Feb 24 16:34 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -132 day(s)\
+Remaining Validity Period: -208 day(s)\
 Subject: emailAddress=jclarke@heritagetelephone.com, CN=SHAKEN Doylestown Communications\\, Inc 0609, OU=Operations, O=Doylestown Communications\\, Inc, ST=Ohio, C=US, emailAddress=jclarke@heritagetelephone.com\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/0609/order/426_849C_78
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/0609/order/426_849C_78
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 0609', but common name is 'SHAKEN Doylestown Communications, Inc 0609' |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

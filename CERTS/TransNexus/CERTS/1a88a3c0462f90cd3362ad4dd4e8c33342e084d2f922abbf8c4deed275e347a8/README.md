@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 345J
 
-Tested At: 28 Nov 23 19:55 UTC\
+Tested At: 12 Feb 24 16:31 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: 17 day(s)\
+Remaining Validity Period: -59 day(s)\
 Subject: CN=SHAKEN 345J, O=Ooma Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/345J/8c63aa56-9df5-4d19-83fe-fc9bcfe6bdce.pem
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/345J/8c63aa56-9df5-4d19-83fe-fc9bcfe6b
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

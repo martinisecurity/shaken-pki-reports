@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1772
 
-Tested At: 28 Nov 23 19:53 UTC\
+Tested At: 12 Feb 24 16:27 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -141 day(s)\
+Remaining Validity Period: -217 day(s)\
 Subject: CN=SHAKEN 1772, O=RINA Wireless, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/1fa8e9a2-9040-49b3-b26e-02625ac785b8/86b18041dda4c1b249aa597268bbe7f7.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/1fa8e9a2-9040-49b3-b26e-02625ac785b8/86b1
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

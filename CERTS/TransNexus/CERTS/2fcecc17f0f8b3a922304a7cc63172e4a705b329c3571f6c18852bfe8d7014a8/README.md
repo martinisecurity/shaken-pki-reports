@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 674J
+
+Tested At: 12 Feb 24 16:27 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -4 day(s)\
+Subject: CN=SHAKEN 674J, O=Panterra Networks Inc., C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/0b98ecf4-0a43-4b89-8fc0-8e029d8258fa/defd3dd163b76d8b47d91a6291f258e2.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC1zCCAnygAwIBAgIQd%2BQNW5Q4g7HUTi6IlEgVIjAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjQwMTMxMjA1ODMwWhcNMjQwMjA3MjA1ODI5WjBEMQswCQYDVQQGEwJVUzEfMB0GA1UEChMWUGFudGVycmEgTmV0d29ya3MgSW5jLjEUMBIGA1UEAxMLU0hBS0VOIDY3NEowWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQlqC9Wl1cHHzzMpO6f7CYAUtpuzVBVUBfoAuZ8W8VNhHOjLZPgota3795dTOHpg3qzGfoHt1JEm%2BpAU2XDX6MBo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFGh35hJT9djQNK9B8WruDuI0cGShMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDY3NEowCgYIKoZIzj0EAwIDSQAwRgIhALA3oM%2FUAy1i5sAfz0%2F7UMuTHD7mCk3pL8DqpTY8LdBzAiEA%2FjChlJmltgz3JlBb0a1L3XAB4FEYvVZgPlEP0nhOVB4%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 12 Feb 24 17:02 UTC

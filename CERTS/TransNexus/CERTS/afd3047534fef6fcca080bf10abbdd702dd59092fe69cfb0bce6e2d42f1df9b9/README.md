@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 060K
+
+Tested At: 12 Feb 24 16:27 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -28 day(s)\
+Subject: CN=SHAKEN 060K, O=Telware, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/0c4e235f-3e3e-4dd3-bbfc-2f15badab180/f3935e43bec1601151856598df56e7b7.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICyDCCAm2gAwIBAgIQdPTc9oZnv%2Fywcz%2F2g9pr9zAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjQwMTA3MTg0ODIxWhcNMjQwMTE0MTg0ODIwWjA1MQswCQYDVQQGEwJVUzEQMA4GA1UEChMHVGVsd2FyZTEUMBIGA1UEAxMLU0hBS0VOIDA2MEswWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASEf1KigFi%2FM8h2819qSGqlXAzqIDc5Utzu%2Fz0MU%2BCV02Ilpe0INyepQfvY2N6W3I5qijnz7G8ViEvufrdJKXCRo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFOxB6NsJfqrD0oOCEZGrO0Bw06USMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDA2MEswCgYIKoZIzj0EAwIDSQAwRgIhAKkJUoZOV4Rm77d5Lazchc5IUUczqi1b1w3s51SsckuuAiEAz2H90NHml3n9w0iggXL38StrMGYMmuxv67GLtaAcXg4%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 12 Feb 24 17:02 UTC

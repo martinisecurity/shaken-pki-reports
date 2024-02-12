@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 7453
 
-Tested At: 28 Nov 23 19:53 UTC\
+Tested At: 12 Feb 24 16:27 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -406 day(s)\
+Remaining Validity Period: -481 day(s)\
 Subject: CN=SHAKEN 7453, OU=SHAKEN, O=TPx, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/2a26bd25-8973-44ba-9b94-a8e4716b3888/4233b34c3e024e119fb3d3f22b2a780c.pem
@@ -26,4 +26,4 @@ Link: https://certificates.clearip.com/2a26bd25-8973-44ba-9b94-a8e4716b3888/4233
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

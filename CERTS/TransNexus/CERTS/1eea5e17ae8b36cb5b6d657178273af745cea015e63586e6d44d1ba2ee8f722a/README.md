@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 706J
 
-Tested At: 28 Nov 23 19:56 UTC\
+Tested At: 12 Feb 24 16:31 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -76 day(s)\
+Remaining Validity Period: -151 day(s)\
 Subject: CN=SHAKEN 706J, OU=SHAKEN, O=TCN, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/706J/fdb13f3d-0f05-47c8-a047-af2f9e2f7af5.pem
@@ -26,4 +26,4 @@ Link: https://certificates.transnexus.com/706J/fdb13f3d-0f05-47c8-a047-af2f9e2f7
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

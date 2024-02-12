@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Nextiva, Inc 914H
 
-Tested At: 28 Nov 23 20:11 UTC\
+Tested At: 12 Feb 24 16:52 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 177 day(s)\
+Remaining Validity Period: 101 day(s)\
 Subject: CN=SHAKEN Nextiva\\, Inc 914H, OU=UCaaS, O=Nextiva\\, Inc, ST=Arizona, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Nextiva_Shaken
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/Nextiva_Shaken
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 914H', but common name is 'SHAKEN Nextiva, Inc 914H' |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 914H', but common name is 'SHAKEN Nextiva, Inc 914H' |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

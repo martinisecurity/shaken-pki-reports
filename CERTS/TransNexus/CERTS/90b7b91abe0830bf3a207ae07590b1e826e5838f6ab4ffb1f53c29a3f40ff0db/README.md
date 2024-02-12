@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 0127
+
+Tested At: 12 Feb 24 16:28 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -76 day(s)\
+Subject: CN=SHAKEN 0127, O=Andrew Ward Consulting LLC, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/649d9560-7197-4132-94b4-40da224ec372/37f2c90b8fa7ef36619a96bd202aa348.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC2zCCAoCgAwIBAgIQT5m8wRsedjbOgMyWCY%2FRBjAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMxMTIwMjEwNDU3WhcNMjMxMTI3MjEwNDU2WjBIMQswCQYDVQQGEwJVUzEjMCEGA1UEChMaQW5kcmV3IFdhcmQgQ29uc3VsdGluZyBMTEMxFDASBgNVBAMTC1NIQUtFTiAwMTI3MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEZ7QSnzhCrYl5%2Br7ZgN%2FZMp65kFHwfi1bVSPdjJyzpmA2sEwylVSotXVUjSDHXiFqQrsCtk50%2F2x7C80DJbbNhaOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBQ3SjbRqsQ%2FQkevzpgFRtGhUOO4SDAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQwMTI3MAoGCCqGSM49BAMCA0kAMEYCIQCzG%2BIUUswfb7OIItgxLbQ0ryM6r4mYrLyzG3fYaGKs%2BQIhAP8mcdpV2OUHI%2F%2FXn9Sk%2FHaqBQffL%2FKKywgPcH%2F5npEz)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 12 Feb 24 17:02 UTC

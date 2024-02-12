@@ -9,21 +9,21 @@
 
 #### Leaf Certificates
 
-- 23 certificates were included in the corpus being tested
+- 24 certificates were included in the corpus being tested
 - 3 certificates in the corpus were skipped because they are duplicates
 - 0 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 20 certificates being tested against the remaining rules
+- 21 certificates being tested against the remaining rules
 - 2.60 issues on average found in unexpired, trusted, and non-compliant certificates
-- 75.00% of certificates contain one or more Error level issue
+- 71.43% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 422 days is the average remaining validity for the certificates in the corpus
-- 414 days is the average initial validity for the certificates in the corpus
+- 432 days is the average remaining validity for the certificates in the corpus
+- 429 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
-- 1.25 average number of unexpired certificates per OCN observed
-- 16 unique OCNs observed in unexpired and valid certificate corpus
+- 1.24 average number of unexpired certificates per OCN observed
+- 17 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -49,7 +49,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 4300 days is the average remaining validity for the certificates in the corpus
+- 4287 days is the average remaining validity for the certificates in the corpus
 - 4309 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -85,6 +85,7 @@
 | 11&#160;Jul&#160;23&#160;18:45&#160;UTC | SHAKEN 421K | 21&#160;Jun&#160;25&#160;04:00&#160;UTC | true | [view](CERTS/cfaa04fe3747df8c203aa057940d1d7b1b455b15c8da2ba73cf7384797edfad8/README.md) |
 | 11&#160;Jul&#160;23&#160;18:48&#160;UTC | SHAKEN 622K | 15&#160;Jun&#160;24&#160;18:34&#160;UTC | true | [view](CERTS/55851a261d59fda3e570cabe18693d44936ef44de75156c69b6b26bb7f0eeb6f/README.md) |
 | 13&#160;Jul&#160;23&#160;05:56&#160;UTC | SHAKEN 651K | 13&#160;Jul&#160;24&#160;05:57&#160;UTC | true | [view](CERTS/df89a5a49894ef3f9991e3ec4c98e0b3df7ad85ac81dfbe2e11b5bfc815da364/README.md) |
+| 01&#160;Aug&#160;23&#160;17:17&#160;UTC | SHAKEN 143K | 31&#160;Jul&#160;25&#160;17:18&#160;UTC | false | [view](CERTS/7888e1431475305a982a18f6722eca01f235f420b9968f2f30f49937dbb6ed00/README.md) |
 | 08&#160;Aug&#160;23&#160;19:59&#160;UTC | SHAKEN 657K | 08&#160;Aug&#160;24&#160;20:00&#160;UTC | false | [view](CERTS/a638f97f284568ed5ae037d94aa6f57e6abf1b983aa7d9eedf381df669377657/README.md) |
 | 15&#160;Aug&#160;23&#160;19:39&#160;UTC | SHAKEN 576K | 15&#160;Aug&#160;24&#160;19:40&#160;UTC | false | [view](CERTS/c845865b63865cf55c9ae97d092850a9a5f9b8ef66997b013a5a599bead53a33/README.md) |
 | 25&#160;Aug&#160;23&#160;20:58&#160;UTC | SHAKEN 709K | 25&#160;Aug&#160;24&#160;20:59&#160;UTC | false | [view](CERTS/50f6d51678c38fc547c53e5e649ae55172323da164c4fa76036ede9290544532/README.md) |
@@ -102,4 +103,4 @@
 | 01&#160;Aug&#160;23&#160;16:36&#160;UTC | Telonium SHAKEN Intermediate G1 | 01&#160;Aug&#160;33&#160;16:36&#160;UTC | false | [view](CERTS/8c0ef8682826bec79a8c64881899f6a5a4a1d52dfebe28ae419c23f85df96ea0/README.md) |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

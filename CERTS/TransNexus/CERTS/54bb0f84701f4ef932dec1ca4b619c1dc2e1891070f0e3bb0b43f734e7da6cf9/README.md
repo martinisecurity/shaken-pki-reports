@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 345J
+
+Tested At: 12 Feb 24 16:31 UTC\
+Initial Validity Period: 30 day(s)\
+Remaining Validity Period: 4 day(s)\
+Subject: CN=SHAKEN 345J, O=Ooma Inc, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.transnexus.com/345J/6094e6c2-a4e6-4a1f-8014-c6a7ae737b36.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICyDCCAm6gAwIBAgIQV46k80nrF%2FuZQEHoiLm1lzAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjQwMTE3MDMyMDMxWhcNMjQwMjE2MDMyMDMwWjA2MQswCQYDVQQGEwJVUzERMA8GA1UEChMIT29tYSBJbmMxFDASBgNVBAMTC1NIQUtFTiAzNDVKMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEz4j%2Fmp4IkwenrRzdTtTa3CbKEkm4QLNPmdt%2FxwGeFhxkjUpQWS0I0lD5B9WS6SBiutT7pGQ1gEf9VQ8s8Vq36KOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBQbJXKC08VF%2BTCt%2B8mcxA1X21u%2FeTAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQzNDVKMAoGCCqGSM49BAMCA0gAMEUCIQD1rX7Xl2L%2BGUK4yzhdF%2FP4695%2B%2BJCKc48F%2B44BKZT1WgIgW%2Bg6lRpUFfojNeQxC4gXhXH8%2FMBmJ0TKr5WjKGOPNsM%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 12 Feb 24 17:02 UTC

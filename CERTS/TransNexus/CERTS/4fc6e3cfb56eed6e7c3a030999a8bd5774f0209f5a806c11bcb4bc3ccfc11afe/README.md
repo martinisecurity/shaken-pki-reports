@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 854D
 
-Tested At: 28 Nov 23 19:54 UTC\
+Tested At: 12 Feb 24 16:28 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -243 day(s)\
+Remaining Validity Period: -319 day(s)\
 Subject: CN=SHAKEN 854D, O=Xtel, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/627e4253-759f-447e-b1a0-c9cda9a6d597/4da6bb23d20c34c6b35273bdedfc8f5b.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/627e4253-759f-447e-b1a0-c9cda9a6d597/4da6
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

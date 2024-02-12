@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 718J
 
-Tested At: 28 Nov 23 19:53 UTC\
+Tested At: 12 Feb 24 16:28 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -48 day(s)\
+Remaining Validity Period: -124 day(s)\
 Subject: CN=SHAKEN 718J, O=Ringaro Telecom, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/3d84bb39-82a2-4f50-ad77-b75c2d311a27/6090f6de64d8c056c34afdcd157b1ab8.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/3d84bb39-82a2-4f50-ad77-b75c2d311a27/6090
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

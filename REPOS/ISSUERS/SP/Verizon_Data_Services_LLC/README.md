@@ -2,22 +2,23 @@
 
 ## Verizon Data Services LLC
 
-- 2 repository URLs were included in the corpus being tested
+- 3 repository URLs were included in the corpus being tested
 - 1 repository URLs in the corpus were skipped because they were duplicated
-- 1 repository URLs being tested against the remaining rules
+- 2 repository URLs being tested against the remaining rules
 - 1.00 issues on average found in non-compliant certificate repository URLs
 - 0.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 304ms average time it took to download each certificate
+- 81ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 1 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 2 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
+| `https://sti.verizon.com/vzwcert/vzshaken-01-2027.crt` | 16&#160;Jan&#160;27&#160;11:59&#160;UTC | true | [view](REPOS/4e1e57ffe755d6538f7eaff3832128882a94efab/README.md) |
 | `https://sti.verizon.com/vzwcert/vzshaken-02-2024.crt` | 16&#160;Feb&#160;24&#160;17:30&#160;UTC | true | [view](REPOS/3c993e5ab26bb9e246ceac061b199e01aa2501c1/README.md) |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

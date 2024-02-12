@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Ytel Inc. 703J
 
-Tested At: 28 Nov 23 20:11 UTC\
+Tested At: 12 Feb 24 16:52 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 331 day(s)\
+Remaining Validity Period: 256 day(s)\
 Subject: CN=SHAKEN Ytel Inc. 703J, OU=Connect, O=Ytel Inc., ST=California, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Ytel_Inc._703J
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Ytel_Inc._703J
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 703J', but common name is 'SHAKEN Ytel Inc. 703J' |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

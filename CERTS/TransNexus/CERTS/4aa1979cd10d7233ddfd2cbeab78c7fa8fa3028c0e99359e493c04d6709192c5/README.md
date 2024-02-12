@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 848J
+
+Tested At: 12 Feb 24 16:29 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -2 day(s)\
+Subject: CN=SHAKEN 848J, O=Invision Technologies LLC, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/84d348e0-ce86-4b5b-b14c-8419e12eea57/30605980139b85aec145903778716533.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC2TCCAn%2BgAwIBAgIQbCUg3Mct9Wa4SSnJd2wV0jAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjQwMjAyMjEwNDE3WhcNMjQwMjA5MjEwNDE2WjBHMQswCQYDVQQGEwJVUzEiMCAGA1UEChMZSW52aXNpb24gVGVjaG5vbG9naWVzIExMQzEUMBIGA1UEAxMLU0hBS0VOIDg0OEowWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASxDyF5BuSFkZULw2JVkGqcCpKJACHEnR%2Bcu9vt4b4P40A%2FkytxFEFDbYF%2FGaFSINnzCSF8Qks%2FqKDef9gj97Nxo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFDH%2FiRWIUrqC398pratnPSjR5opKMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDg0OEowCgYIKoZIzj0EAwIDSAAwRQIgbbeKn72iifGDoPCEZGMwVonmSwpJIfq7c2qEW7gw0LcCIQDBpZkZsU7krKvgdG%2BKheN2oedg00oDqQIAKtXzsR3prg%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 12 Feb 24 17:02 UTC

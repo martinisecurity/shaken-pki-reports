@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN
 
-Tested At: 28 Nov 23 19:52 UTC\
+Tested At: 12 Feb 24 16:26 UTC\
 Initial Validity Period: 1096 day(s)\
-Remaining Validity Period: -135 day(s)\
+Remaining Validity Period: -211 day(s)\
 Subject: C=US, ST=NC, L=Raleigh, O=Bandwidth.com CLEC LLC, OU=Prod, CN=SHAKEN\
 Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1\
 Link: https://bw-shaken-cert-pub.s3.amazonaws.com/bandwidth-shaken-cert_20230716.pem
@@ -41,4 +41,4 @@ Link: https://bw-shaken-cert-pub.s3.amazonaws.com/bandwidth-shaken-cert_20230716
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

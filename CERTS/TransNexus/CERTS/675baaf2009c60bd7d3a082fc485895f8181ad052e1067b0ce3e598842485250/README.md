@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1026
 
-Tested At: 28 Nov 23 19:55 UTC\
+Tested At: 12 Feb 24 16:31 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -140 day(s)\
+Remaining Validity Period: -216 day(s)\
 Subject: CN=SHAKEN 1026, O=Harrisonville Telephone Company, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/f4785cfd-1576-4ec1-acce-c7b677aa332c/789733eb379d2dd3371ebeea7a04afb3.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/f4785cfd-1576-4ec1-acce-c7b677aa332c/7897
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

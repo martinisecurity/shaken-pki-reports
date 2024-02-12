@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1817
 
-Tested At: 28 Nov 23 19:53 UTC\
+Tested At: 12 Feb 24 16:27 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -351 day(s)\
+Remaining Validity Period: -427 day(s)\
 Subject: CN=SHAKEN 1817, O=Pioneer Communications (KS), C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/202ef213-00c8-4905-808e-d7705054d57d/9aca65d0555906a4e8abcd249ef678c9.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/202ef213-00c8-4905-808e-d7705054d57d/9aca
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

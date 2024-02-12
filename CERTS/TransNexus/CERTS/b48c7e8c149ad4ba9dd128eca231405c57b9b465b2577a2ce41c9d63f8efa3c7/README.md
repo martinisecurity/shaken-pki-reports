@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 423G
+
+Tested At: 12 Feb 24 16:28 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -19 day(s)\
+Subject: CN=SHAKEN 423G, O=Voxbeam, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/6e308e2f-b328-4f35-8a08-1f71bd1e078b/d24aaf44106932cde42dab73a8b56e15.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICxzCCAm2gAwIBAgIQSbqd2Gso6Vpi8sFhlxOlPDAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjQwMTE2MjExMDI3WhcNMjQwMTIzMjExMDI2WjA1MQswCQYDVQQGEwJVUzEQMA4GA1UEChMHVm94YmVhbTEUMBIGA1UEAxMLU0hBS0VOIDQyM0cwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASZX%2FDN8RZYJAR0j2NKPAOXp4BCh%2FuC%2FU5JA2wBMMIEwoUayRMwC4xrFGseuslZRGa05UceseE8%2B3Z00vBdmxnYo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFCO7GkrO8LRLhKOAHOsPEXXop8RyMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDQyM0cwCgYIKoZIzj0EAwIDSAAwRQIgK6eaucFCElXXRXPUgtsBeFvCpcWyvEGcz%2FFoMJNQbHUCIQC2WcgzaI7kbcNXIL%2BFwsq9spEW%2BucAI0U%2Fk%2FWH8qW52Q%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 12 Feb 24 17:02 UTC

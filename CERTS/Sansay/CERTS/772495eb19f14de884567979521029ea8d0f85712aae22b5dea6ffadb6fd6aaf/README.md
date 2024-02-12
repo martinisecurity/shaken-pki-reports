@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Starlinq PBX Inc. 267K
 
-Tested At: 28 Nov 23 20:11 UTC\
+Tested At: 12 Feb 24 16:52 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 339 day(s)\
+Remaining Validity Period: 263 day(s)\
 Subject: CN=SHAKEN Starlinq PBX Inc. 267K, OU=Engineering, O=Starlinq PBX Inc., ST=California, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Starlinq_PBX_Inc365._267K
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Starlinq_PBX_Inc365._267K
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 267K', but common name is 'SHAKEN Starlinq PBX Inc. 267K' |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

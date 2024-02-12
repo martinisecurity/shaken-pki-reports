@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 685K
 
-Tested At: 28 Nov 23 19:52 UTC\
+Tested At: 12 Feb 24 16:26 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 289 day(s)\
+Remaining Validity Period: 213 day(s)\
 Subject: O=Net Speak Pro LLC, C=US, serialNumber=5C840013D4003FE3851724235493FAF9, CN=SHAKEN 685K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://cdn.cnxcdn.com/shaken/3dcc52879f.crt
@@ -14,4 +14,4 @@ Link: https://cdn.cnxcdn.com/shaken/3dcc52879f.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

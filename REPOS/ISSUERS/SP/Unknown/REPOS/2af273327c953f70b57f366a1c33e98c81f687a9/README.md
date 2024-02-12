@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `http://5.161.152.107/249K.pub.key.pem`\
-Tested At: 28 Nov 23 19:52 UTC\
-Time: 107ms
+Tested At: 12 Feb 24 16:26 UTC\
+Time: 2ms
 
 ### Issues
 
@@ -14,4 +14,4 @@ Time: 107ms
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. PEM is not a certificate |
 | [w_atis_protocol](../../ISSUES/w_atis_protocol/README.md) | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

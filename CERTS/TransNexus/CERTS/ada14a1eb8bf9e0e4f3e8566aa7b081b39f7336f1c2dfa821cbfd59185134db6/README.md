@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 495K
+
+Tested At: 12 Feb 24 16:29 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -42 day(s)\
+Subject: CN=SHAKEN 495K, O=HelloSpoke, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/ae397985-0ec2-4bcf-b83f-d4a0ed9351d9/579112d84032208a9c6b1c79dec1fdf2.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICyjCCAnCgAwIBAgIQcUtuZmUfIWwMTk%2F11nY5oDAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMxMjI1MTQxODM5WhcNMjQwMTAxMTQxODM4WjA4MQswCQYDVQQGEwJVUzETMBEGA1UEChMKSGVsbG9TcG9rZTEUMBIGA1UEAxMLU0hBS0VOIDQ5NUswWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQPf4L6iNL84sl0rxYGJf%2F8fr5GcfUgpSZZFka%2FJyu0LRCsriyN1aLtgkozm%2FozlFNtpQQFlAYW5DN%2FM%2BWqYyJXo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFMDLlAkI5AZ3O%2FXFSnC1gyahXYxvMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDQ5NUswCgYIKoZIzj0EAwIDSAAwRQIgQxfdraRkVmoMP9O7Qtu03jE2oBZGGwy4Ej9PJeuCe0sCIQC6i0O%2FuG3azdsg4MAXq9Kh9pMzt40TT%2B1biIMS7RfzhQ%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 12 Feb 24 17:02 UTC

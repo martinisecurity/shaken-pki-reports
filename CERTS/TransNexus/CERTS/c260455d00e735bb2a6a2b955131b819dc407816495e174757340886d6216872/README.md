@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 130B
+
+Tested At: 12 Feb 24 16:28 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -1 day(s)\
+Subject: CN=SHAKEN 130B, O=Global Telecom, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/4efae05c-c8cd-405b-ae97-c62a52afd074/8664ff268c8fc3ac2b83c258d3b61429.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICzjCCAnSgAwIBAgIQdarF5TtWgfDaiydBAIk2WzAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjQwMjA0MTMwNzUwWhcNMjQwMjExMTMwNzQ5WjA8MQswCQYDVQQGEwJVUzEXMBUGA1UEChMOR2xvYmFsIFRlbGVjb20xFDASBgNVBAMTC1NIQUtFTiAxMzBCMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEeB3WBHklRacNLes4LPzMB55tsqdExQCTvuXo%2FbOeI75M6STe%2BeG3tcGfHThwEi%2BBbVEl9uv%2BMGUK0EXolwyb%2FqOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBQ8r%2B72Yccir%2B5cYB%2BOa9VKRJYqkzAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQxMzBCMAoGCCqGSM49BAMCA0gAMEUCIQCEzYVbsEoD3%2FSTJWrZzVVpiBWCHTdVndQG11hsHkgXpQIgTBP4ndA9W3QiYWn4Iwul8IvF7ATJz2SMh%2F0zr0%2F%2BTP8%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 12 Feb 24 17:02 UTC

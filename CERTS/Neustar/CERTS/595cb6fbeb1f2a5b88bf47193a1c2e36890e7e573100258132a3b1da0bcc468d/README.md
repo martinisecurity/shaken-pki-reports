@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 023B
+
+Tested At: 12 Feb 24 16:33 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 320 day(s)\
+Subject: CN=SHAKEN 023B, O=Big River Telephone Company, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11133.10171.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIDEDCCArWgAwIBAgIUTurUhsfRWVcZ0%2BzEWxGIdUdrVdUwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTIzMTIyODE5MTQxMFoXDTI0MTIyNzE5MTQxMFowSTELMAkGA1UEBhMCVVMxJDAiBgNVBAoMG0JpZyBSaXZlciBUZWxlcGhvbmUgQ29tcGFueTEUMBIGA1UEAwwLU0hBS0VOIDAyM0IwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQgA53xmYWwjOFt4fGpSIDWUQ2AjEBWn27IXPeodjrp0CIsFVrMca4iTUsFTFaWq4pnhW5j%2FoLSN8P1ADT98Rzko4IBPDCCATgwFgYIKwYBBQUHARoECjAIoAYWBDAyM0IwDAYDVR0TAQH%2FBAIwADAfBgNVHSMEGDAWgBSCThX%2F%2Fp9qZ1HkyJfHbXTD%2FGVFeDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMB0GA1UdDgQWBBSkl1d5kH%2FegHVSlHSI0UF64YCk6jAOBgNVHQ8BAf8EBAMCB4AwCgYIKoZIzj0EAwIDSQAwRgIhAIAwGwcMqPaXEUc1vla3JTZvrL%2BrjOFD8B%2FNJy0eov8mAiEA%2B14bo6AXZCF3ap%2FhYUP9KVHtUSYEZA0oxptBCs65hsU%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 12 Feb 24 17:02 UTC

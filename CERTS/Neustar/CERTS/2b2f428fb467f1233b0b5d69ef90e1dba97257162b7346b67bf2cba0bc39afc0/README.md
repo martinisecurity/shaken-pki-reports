@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 219K
 
-Tested At: 28 Nov 23 19:57 UTC\
+Tested At: 12 Feb 24 16:33 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 275 day(s)\
+Remaining Validity Period: 199 day(s)\
 Subject: CN=SHAKEN 219K, O=Avaya Cloud Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11553.10201
@@ -16,4 +16,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11553.10201
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

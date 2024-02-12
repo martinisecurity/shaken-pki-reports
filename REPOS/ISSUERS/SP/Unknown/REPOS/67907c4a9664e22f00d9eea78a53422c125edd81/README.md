@@ -3,16 +3,13 @@
 ## Unknown
 
 Name: `http://5.161.195.139/ec256-public.pem`\
-Tested At: 28 Nov 23 19:52 UTC\
-Time: 353ms
+Tested At: 12 Feb 24 16:26 UTC\
+Time: 3001ms
 
 ### Issues
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header has 'max-age' directive but it's value is less than 24 hours |
-| [e_atis_redirect](../../ISSUES/e_atis_redirect/README.md) | error | ATIS-1000074 | The STI-VS shall not follow HTTP redirections |
-| [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
-| [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
+| [e_request_timeout](../../ISSUES/e_request_timeout/README.md) | error | System | Request timed out (3s) |
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

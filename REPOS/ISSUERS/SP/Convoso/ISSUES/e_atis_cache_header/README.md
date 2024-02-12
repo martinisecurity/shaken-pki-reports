@@ -9,7 +9,7 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://stirshaken.s3.us-west-1.amazonaws.com/stirshaken.pem` | 21&#160;Dec&#160;23&#160;18:15&#160;UTC | true | [view](../../REPOS/6aa4ff04210277e8b82963966d5665dfb5868515/README.md) |
+| `https://stirshaken.s3.us-west-1.amazonaws.com/stirshaken.pem` | 19&#160;Feb&#160;24&#160;07:00&#160;UTC | true | [view](../../REPOS/6aa4ff04210277e8b82963966d5665dfb5868515/README.md) |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate TeleVoip ESC LLC_1699545121983 SHAKEN 438K
 
-Tested At: 28 Nov 23 20:13 UTC\
+Tested At: 12 Feb 24 16:55 UTC\
 Initial Validity Period: 36 day(s)\
-Remaining Validity Period: 17 day(s)\
+Remaining Validity Period: -59 day(s)\
 Subject: CN=TeleVoip ESC LLC_1699545121983 SHAKEN 438K, O=TeleVoip ESC LLC, L=Wilmington, ST=DE, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/f5b45519d55a49e91c66b17a24bca2c98ee8d867
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/f5b45519d55a49e91c66b17a24bca2c98ee8d867
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

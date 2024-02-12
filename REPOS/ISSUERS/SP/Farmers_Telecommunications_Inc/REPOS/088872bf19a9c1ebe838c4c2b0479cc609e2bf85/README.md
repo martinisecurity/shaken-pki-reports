@@ -3,8 +3,8 @@
 ## Farmers Telecommunications Inc
 
 Name: `https://cdn-cr.cgah.tnsi.com/certs/7cd1ca9605d897bf552d7470db39657b5b2c843b`\
-Tested At: 28 Nov 23 19:52 UTC\
-Time: 33ms
+Tested At: 12 Feb 24 16:26 UTC\
+Time: 71ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 33ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

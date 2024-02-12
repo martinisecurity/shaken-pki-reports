@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 444G
 
-Tested At: 28 Nov 23 19:55 UTC\
+Tested At: 12 Feb 24 16:30 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -99 day(s)\
+Remaining Validity Period: -175 day(s)\
 Subject: CN=SHAKEN 444G, O=Aureon, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/d61e8937-0b43-4828-9876-81561d25f1de/c850d6feb091a7664ea49b07b56b4997.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/d61e8937-0b43-4828-9876-81561d25f1de/c850
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

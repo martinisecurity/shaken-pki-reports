@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 871J
+
+Tested At: 12 Feb 24 16:55 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 299 day(s)\
+Subject: CN=SHAKEN 871J, O=Third Base International Telecom LLC, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://ssc.getsipnav.com/certs/5f9a98adbc990059414e49b5b127c63af794b2a9
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIDGDCCAr6gAwIBAgIUT0jxjYKk700BZl6RLLrdcbPBULwwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTIzMTIwNzIwNDU1M1oXDTI0MTIwNjIwNDU1M1owUjELMAkGA1UEBhMCVVMxLTArBgNVBAoMJFRoaXJkIEJhc2UgSW50ZXJuYXRpb25hbCBUZWxlY29tIExMQzEUMBIGA1UEAwwLU0hBS0VOIDg3MUowWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQmyt%2FEjJakea4bWC5mwsoaQHIzUbQKe097mw1n0zHIDwdN4xg6IfY%2F35S9nvUC%2BXVIs2Uzv56QmJyCSbHzyS1So4IBPDCCATgwFgYIKwYBBQUHARoECjAIoAYWBDg3MUowDAYDVR0TAQH%2FBAIwADAfBgNVHSMEGDAWgBSCThX%2F%2Fp9qZ1HkyJfHbXTD%2FGVFeDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMB0GA1UdDgQWBBRsRZc2yn7fnjiGVd2FTbnjvcYl%2BjAOBgNVHQ8BAf8EBAMCB4AwCgYIKoZIzj0EAwIDSAAwRQIhAITKd%2F8kQ%2BhcqgytreBmWHMjpKlf5RWVQRL56UnQ6fOCAiAlEv3vvXsxAEuV%2FTDUugvIcr87SsIs%2FNQIDseD2cQg6w%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 12 Feb 24 17:02 UTC

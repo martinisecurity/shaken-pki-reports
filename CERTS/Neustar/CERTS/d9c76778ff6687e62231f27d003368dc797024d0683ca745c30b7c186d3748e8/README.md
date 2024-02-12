@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 030J
 
-Tested At: 28 Nov 23 19:56 UTC\
+Tested At: 12 Feb 24 16:32 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -237 day(s)\
+Remaining Validity Period: -313 day(s)\
 Subject: CN=SHAKEN 030J, O=ANI Networks, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://certs.iverify-aninetworks.net/aninetworks_20220405.crt
@@ -25,4 +25,4 @@ Link: https://certs.iverify-aninetworks.net/aninetworks_20220405.crt
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

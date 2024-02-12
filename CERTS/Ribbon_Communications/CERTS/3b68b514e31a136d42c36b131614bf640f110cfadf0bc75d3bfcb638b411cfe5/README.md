@@ -2,9 +2,9 @@
 
 ## Certificate Ribbon SHAKEN 2086
 
-Tested At: 28 Nov 23 20:13 UTC\
+Tested At: 12 Feb 24 16:55 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 191 day(s)\
+Remaining Validity Period: 116 day(s)\
 Subject: CN=Ribbon SHAKEN 2086, OU=Network Operations, O=Hill Country Telephone Cooperative, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/JQApas6MRz/10000-54a5c7395fcf8ebacb0d352d1d375852
@@ -17,4 +17,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/JQApas6MRz/10000-54a5c7395fcf8eba
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

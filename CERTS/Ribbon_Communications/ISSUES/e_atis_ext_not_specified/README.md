@@ -23,7 +23,9 @@ Description: STI certificates shall not include extensions that are not specifie
 | error | Peoples SHAKEN 2130 | [view](../../CERTS/dba8b610ca22ffb1c622ce60ca29d0c0ce70a08315d0eea73f6bd1cb6993a705/README.md) | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
 | error | Thacker SHAKEN 0419 | [view](../../CERTS/b2d676e38a61cbc0ff5f46c21c1440204da25d30817d711ab5c6d294b07c8e8f/README.md) | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
 | error | Data SHAKEN 852B | [view](../../CERTS/d4f2bf344a7d269d73c368e2ab321520ee1c07acdc2477ca287b4411432af42a/README.md) | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
+| error | Eastex SHAKEN 2068 | [view](../../CERTS/edc37467b2db082bbed1e00e885cf81f7bb179ad1ac3a75fe5f82f7c284da595/README.md) | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
 | error | Veracity SHAKEN 716D | [view](../../CERTS/e4aefc8dd53731a5551cd37bb287abb065dbc343e7e71113832134aee28a8c1a/README.md) | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
+| error | Empire SHAKEN 087H | [view](../../CERTS/ff4a083ed7527187359cb180383afae989c9a1144ad498e79ad3e3e05f5091fb/README.md) | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
 | error | Bascom SHAKEN 0589 | [view](../../CERTS/b15800790c2115b033607a21ec526276d4b29615683a8a1745206fa9e164cb23/README.md) | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
 | error | PGTelco SHAKEN 1718 | [view](../../CERTS/9ea0d1b5d17dd6d9e58897a626a477a4852312bab0bc4cd85c5fd0c64bf96d28/README.md) | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
 | error | SMU SHAKEN 3390 | [view](../../CERTS/3af759966803ee6daf2e803a763ff85bc64bb51bc1cbcd1c99bf7ea09c1204b4/README.md) | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
@@ -39,4 +41,4 @@ Description: STI certificates shall not include extensions that are not specifie
 No error, warning, or notice level issues were found
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

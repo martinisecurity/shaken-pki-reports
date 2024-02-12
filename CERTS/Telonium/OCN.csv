@@ -1,5 +1,6 @@
 OCN,Org Name,CN,Cert
 "084E","ChoiceTEL","SHAKEN 084E","https://choicetel.net/084E.crt"
+"143K","Telonium Communications LLC","SHAKEN 143K","https://certs.telonium.net/23/1ee88c4a.crt"
 "159K","Trinicom Communications LLC","SHAKEN 159K","https://certs.telonium.net/23/5fbf0ada.crt"
 "421K","Q5 Networks","SHAKEN 421K","https://www.q5networks.com/stirshaken/q5networks2025.pem"
 "576K","Etelix.com USA LLC","SHAKEN 576K","http://certs-clb-1999937273.us-east-1.elb.amazonaws.com/576K_20230815.crt"

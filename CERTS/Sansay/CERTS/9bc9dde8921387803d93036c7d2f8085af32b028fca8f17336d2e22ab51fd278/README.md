@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Star2Star Communications, LLC 590J
 
-Tested At: 28 Nov 23 20:11 UTC\
+Tested At: 12 Feb 24 16:53 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -6 day(s)\
+Remaining Validity Period: -82 day(s)\
 Subject: CN=SHAKEN Star2Star Communications\\, LLC 590J, OU=BVPROD, O=Star2Star Communications\\, LLC, ST=Florida, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/star2star_stirshaken_20220922
@@ -26,4 +26,4 @@ Link: https://cr.sansay.com/star2star_stirshaken_20220922
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

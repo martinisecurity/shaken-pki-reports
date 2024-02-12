@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0348
 
-Tested At: 28 Nov 23 20:13 UTC\
+Tested At: 12 Feb 24 16:55 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 213 day(s)\
+Remaining Validity Period: 138 day(s)\
 Subject: CN=SHAKEN 0348, O=Bulloch County Rural Telephone Cooperative Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/Pl0wdQeMRz/STI20230348
@@ -16,4 +16,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/Pl0wdQeMRz/STI20230348
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

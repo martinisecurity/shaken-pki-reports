@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 314K
 
-Tested At: 28 Nov 23 19:54 UTC\
+Tested At: 12 Feb 24 16:29 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -147 day(s)\
+Remaining Validity Period: -222 day(s)\
 Subject: CN=SHAKEN 314K, O=Proclaim Voip, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/af41d000-7fb7-42d7-83f7-9686b67ecb60/cc9e1bb89e12eb292c6752bc66044590.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/af41d000-7fb7-42d7-83f7-9686b67ecb60/cc9e
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

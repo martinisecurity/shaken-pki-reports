@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN IP Link Telecom Inc. 902J
 
-Tested At: 28 Nov 23 20:10 UTC\
+Tested At: 12 Feb 24 16:50 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: 32 day(s)\
+Remaining Validity Period: -44 day(s)\
 Subject: emailAddress=ops@iplinktelecom.com, CN=SHAKEN IP Link Telecom Inc. 902J, OU=IP Link Telecom Inc., O=IP Link Telecom Inc., ST=Oregon, C=US, emailAddress=ops@iplinktelecom.com\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/902J/order/54_902J_68
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/902J/order/54_902J_68
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 902J', but common name is 'SHAKEN IP Link Telecom Inc. 902J' |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

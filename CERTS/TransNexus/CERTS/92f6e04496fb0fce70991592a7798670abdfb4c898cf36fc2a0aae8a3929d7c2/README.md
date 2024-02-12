@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 5556
+
+Tested At: 12 Feb 24 16:29 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -15 day(s)\
+Subject: CN=SHAKEN 5556, O=Pathwayz Communications, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/86d71bc1-7c54-48c9-a93f-6b0da10581ec/52944b6c6d9e78933a7b13856daa5edd.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC1zCCAn2gAwIBAgIQbmwoBzs4euxecFeJ91JrIjAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjQwMTIxMTQzNDA5WhcNMjQwMTI4MTQzNDA4WjBFMQswCQYDVQQGEwJVUzEgMB4GA1UEChMXUGF0aHdheXogQ29tbXVuaWNhdGlvbnMxFDASBgNVBAMTC1NIQUtFTiA1NTU2MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEd0rQoglvjoTZAjGJMmHPFDXi4o7lQ6Y9Y%2Bkel3Mry%2Bulm27Cq1XQWmPOzVpGsTKB0gLDO2F69UQSbSxQKSd1ZKOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBRLcQfxyArRxWo5LFRYEciPn6ajrzAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ1NTU2MAoGCCqGSM49BAMCA0gAMEUCIHGUqLKllWWohHdPFkrC%2BYfYRE%2FqCZoTl312eb6ugXuiAiEA6XJiEQQA%2B6f8ON8nUgJos4%2FmNfq%2FDNA%2BF40aWNqH0zE%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 12 Feb 24 17:02 UTC

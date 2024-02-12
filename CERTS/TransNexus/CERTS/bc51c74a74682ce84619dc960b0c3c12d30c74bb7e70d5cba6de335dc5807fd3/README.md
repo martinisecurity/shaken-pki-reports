@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 539K
 
-Tested At: 28 Nov 23 19:54 UTC\
+Tested At: 12 Feb 24 16:29 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -94 day(s)\
+Remaining Validity Period: -169 day(s)\
 Subject: CN=SHAKEN 539K, O=Seimitsu, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/8c353899-f65d-4c30-ae27-8517735d7d2d/a2bd6ac8032eae31af3f1efd4ba98198.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/8c353899-f65d-4c30-ae27-8517735d7d2d/a2bd
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

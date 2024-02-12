@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 159H
+
+Tested At: 12 Feb 24 16:31 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -54 day(s)\
+Subject: CN=SHAKEN 159H, O=Edge Communications, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.transnexus.com/159H/95705219-2523-40a3-9046-50e6fa2a589d.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIC0jCCAnmgAwIBAgIQXXT0ENQSKuIX8YsC%2FQMSbTAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMxMjEzMTIxNDUwWhcNMjMxMjIwMTIxNDQ5WjBBMQswCQYDVQQGEwJVUzEcMBoGA1UEChMTRWRnZSBDb21tdW5pY2F0aW9uczEUMBIGA1UEAxMLU0hBS0VOIDE1OUgwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASlmcFu4tJ%2FWBeI7VbY%2FpFW3e%2BFTx0pOs5tIS9KHWF%2Bx%2BUecdbKSg19ZjX9Vapphm%2FwyumXCMKvP3t1r9Niinajo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFM9lhdFf6RNnlO8JK7hISccIN%2F9fMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDE1OUgwCgYIKoZIzj0EAwIDRwAwRAIga1ubx9qOFy6IS1sIMQBKiDIDvR3gU661qjJBNnaEQAQCIC7BsVsJ1OEvxhN1kVYrjC2vBjmbN%2BiQgikA3TR1npCo)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 12 Feb 24 17:02 UTC

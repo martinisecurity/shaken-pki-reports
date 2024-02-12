@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 473K
 
-Tested At: 28 Nov 23 20:13 UTC\
+Tested At: 12 Feb 24 16:55 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 95 day(s)\
+Remaining Validity Period: 19 day(s)\
 Subject: O=United Technology Group\\, Inc, C=US, serialNumber=C3A9009283DADEFAAEACBAECDD2A74BC, CN=SHAKEN 473K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://r.stir.tel/473K/240302151748Z/cert.pem
@@ -23,4 +23,4 @@ Link: https://r.stir.tel/473K/240302151748Z/cert.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Contactivity Corp. 711K
 
-Tested At: 28 Nov 23 20:13 UTC\
+Tested At: 12 Feb 24 16:55 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 284 day(s)\
+Remaining Validity Period: 208 day(s)\
 Subject: CN=SHAKEN Contactivity Corp. 711K, OU=Technical, O=Contactivity Corp., ST=Florida, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://ssc.getsipnav.com/certs/460d005e71ab4d74e87d5c8ce56a7ef4b041aae1
@@ -13,8 +13,8 @@ Link: https://ssc.getsipnav.com/certs/460d005e71ab4d74e87d5c8ce56a7ef4b041aae1
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 711K', but common name is 'SHAKEN Contactivity Corp. 711K' |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

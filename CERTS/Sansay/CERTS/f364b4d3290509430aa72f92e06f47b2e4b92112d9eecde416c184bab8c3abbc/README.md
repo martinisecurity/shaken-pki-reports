@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN XCast Labs 689J
 
-Tested At: 28 Nov 23 20:12 UTC\
+Tested At: 12 Feb 24 16:53 UTC\
 Initial Validity Period: 32 day(s)\
-Remaining Validity Period: -4 day(s)\
+Remaining Validity Period: -80 day(s)\
 Subject: CN=SHAKEN XCast Labs 689J, OU=XCast Labs, O=XCast Labs, ST=California, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.xcastlabs.net/1700784000/xclsshaken.pem
@@ -17,4 +17,4 @@ Link: https://cr.xcastlabs.net/1700784000/xclsshaken.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 689J', but common name is 'SHAKEN XCast Labs 689J' |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

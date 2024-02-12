@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 130B
 
-Tested At: 28 Nov 23 19:53 UTC\
+Tested At: 12 Feb 24 16:28 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -285 day(s)\
+Remaining Validity Period: -361 day(s)\
 Subject: CN=SHAKEN 130B, O=Global Telecom, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/4efae05c-c8cd-405b-ae97-c62a52afd074/4ad4d3cd7093fbe9cf766945696af6f1.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/4efae05c-c8cd-405b-ae97-c62a52afd074/4ad4
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

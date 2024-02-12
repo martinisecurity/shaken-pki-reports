@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 790J
+
+Tested At: 12 Feb 24 16:29 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -22 day(s)\
+Subject: CN=SHAKEN 790J, O=Viirtue, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/a429df3a-62d2-4851-90c8-fc446859fb08/dcd35c8ca50ee1c0699058ad4166189d.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICxjCCAm2gAwIBAgIQbu2aFXgUZomeczfgUOi2vDAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjQwMTEzMjExMTE4WhcNMjQwMTIwMjExMTE3WjA1MQswCQYDVQQGEwJVUzEQMA4GA1UEChMHVmlpcnR1ZTEUMBIGA1UEAxMLU0hBS0VOIDc5MEowWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARjiO1PuZ4GOdAYlAPaPhviTJono18D94xkFCzulQ3nB6TnCkSczKoDAh%2BaeDJLQYAyMx2SKYmxo6Dqyew1VyYCo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFDti9qUvqUR0X%2BA0RsZieoOroF0KMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDc5MEowCgYIKoZIzj0EAwIDRwAwRAIgJkJZ60i1OrRbYSp49ws7LdHPlda27TKJshoLM1deCmMCIEDy8C3ZIQ38Aan2cGDg41kTgCGi4K6AVOBYP4nXdkwD)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 12 Feb 24 17:02 UTC

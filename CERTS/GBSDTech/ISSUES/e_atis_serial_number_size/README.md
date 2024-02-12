@@ -14,6 +14,7 @@ Description: STI certificates shall have a serial number that contains at least 
 |--------|---------|------|---------|
 | error | FracTEL LLC SHAKEN | [view](../../CERTS/7e9f3377c97ba96475fb319a39341fb126f4d96175b09c0ea388618ee1749e50/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 13 |
 | error | Edify SHAKEN | [view](../../CERTS/d092ee80d10eb8c6656246f9ffa3d2100319fb217c50c8cc03e4d84e654da026/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 13 |
+| error | ccctelecom.com | [view](../../CERTS/e485e7069de2a669c6cd53d3eb10263d437b1c616c03e7e2997a531d020361ad/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 13 |
 | error | MYPBXManager SHAKEN | [view](../../CERTS/ea5813855308274fae05fdcae622a159efa47cde2ccf87a9cdf09d9ef43d93f2/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 13 |
 
 ### CA Certificates
@@ -21,4 +22,4 @@ Description: STI certificates shall have a serial number that contains at least 
 No error, warning, or notice level issues were found
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

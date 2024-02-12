@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 873J
+
+Tested At: 12 Feb 24 16:32 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 354 day(s)\
+Subject: CN=SHAKEN 873J, O=MobileSphere, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.transnexus.com/873J/f73c962e-b8da-4d33-913c-0478f6d22949.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICzDCCAnKgAwIBAgIQTNYMKbnOhq1EBBWPJRpTkTAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjQwMTMxMTg1OTQ3WhcNMjUwMTMwMTg1OTQ2WjA6MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMTW9iaWxlU3BoZXJlMRQwEgYDVQQDEwtTSEFLRU4gODczSjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABBGXMv1L95SA6LngVVzdey2ZON4UP79Z%2FvJlhh2r62JY41EeV8%2B5b3ln%2FtXH7uKHz9RWV%2Bqobr8rQmZ7BmBJmIijggE8MIIBODAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAdBgNVHQ4EFgQUiMXH0YLUqPn%2BE6L8KZElCKt%2FIIQwHwYDVR0jBBgwFoAUMPX18rfhSwsPEHV9SKSQ8T2LKCowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEDMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAWBggrBgEFBQcBGgQKMAigBhYEODczSjAKBggqhkjOPQQDAgNIADBFAiEAq97oMX7Ix6wQ0lkzYASUXoUlMnrBNrTL0QfPuz1KKOQCIEjoXF07bSPkLV%2FJ0y7aCL1pP0YkU%2BQsF05Sqb2GAGiX)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 12 Feb 24 17:02 UTC

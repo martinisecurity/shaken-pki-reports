@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 777J
+
+Tested At: 12 Feb 24 16:28 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -57 day(s)\
+Subject: CN=SHAKEN 777J, O=USIPCOM, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/5ca47a02-af59-435d-8b32-755af4b90d9f/11a5ae3f6c1717762255cd4fd4aa8c96.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICxzCCAm2gAwIBAgIQTzDFPjd0NTvkoy6a2oG%2BNzAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMxMjEwMDUzODU3WhcNMjMxMjE3MDUzODU2WjA1MQswCQYDVQQGEwJVUzEQMA4GA1UEChMHVVNJUENPTTEUMBIGA1UEAxMLU0hBS0VOIDc3N0owWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASxZxBuPrUqdRLSjD7n37RoRqo7LcTP1bBNXCwKvVDoFForWGWK6doo7vILOkJdBPBvgHsap37A94wjvYWBYyAlo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFJk59W9QB6zS9KEuvZOkFJoaG%2FS%2FMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDc3N0owCgYIKoZIzj0EAwIDSAAwRQIgB76NC2RQFBrol7gI3VatkvGJeA50Zjwj%2FgR3nbKiAzQCIQDx%2BCZaG5wp1JpwOu7pOx%2FQXPgpQIDBfJp%2BkvGfuiVVqA%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 12 Feb 24 17:02 UTC

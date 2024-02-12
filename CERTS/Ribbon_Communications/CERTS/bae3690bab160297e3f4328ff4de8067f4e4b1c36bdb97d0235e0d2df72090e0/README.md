@@ -2,9 +2,9 @@
 
 ## Certificate Fulton SHAKEN 0455
 
-Tested At: 28 Nov 23 20:13 UTC\
+Tested At: 12 Feb 24 16:55 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 206 day(s)\
+Remaining Validity Period: 131 day(s)\
 Subject: CN=Fulton SHAKEN 0455, OU=STI, O=Fulton Telephone Company, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/7crfAxXVRz/STI-0455-2023-5d0904544e3802776d08740599a8aa12
@@ -17,4 +17,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/7crfAxXVRz/STI-0455-2023-5d090454
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

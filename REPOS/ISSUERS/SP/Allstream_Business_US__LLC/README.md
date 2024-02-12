@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 269ms average time it took to download each certificate
+- 345ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://cert-stir-us.allstream.com/certs/allstreamcertchain.crt` | 09&#160;Mar&#160;24&#160;20:40&#160;UTC | true | [view](REPOS/595d8b58074c68b5ca0bbddd3db52e7e1c8a829a/README.md) |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 706J
 
-Tested At: 28 Nov 23 19:56 UTC\
+Tested At: 12 Feb 24 16:31 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 303 day(s)\
+Remaining Validity Period: 227 day(s)\
 Subject: CN=SHAKEN 706J, O=TCN, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/706J/2f2c7a8a-c2e8-4ae0-95af-d68096ec00ca.pem
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/706J/2f2c7a8a-c2e8-4ae0-95af-d68096ec0
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

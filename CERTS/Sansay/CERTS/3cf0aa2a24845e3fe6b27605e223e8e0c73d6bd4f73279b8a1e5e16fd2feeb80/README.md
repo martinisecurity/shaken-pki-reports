@@ -2,12 +2,12 @@
 
 ## Certificate SHAKEN Bulk Solutions, LLC 644J
 
-Tested At: 28 Nov 23 19:52 UTC\
+Tested At: 12 Feb 24 16:26 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 8 day(s)\
+Remaining Validity Period: -68 day(s)\
 Subject: CN=SHAKEN Bulk Solutions\\, LLC 644J, OU=Voice Engineering, O=Bulk Solutions\\, LLC, ST=Delaware, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
-Link: https://bulkvs-cr.s3.amazonaws.com/608300.pem
+Link: https://bulkvs-cr.s3.amazonaws.com/644J_2022120501.pem
 
 [View certificate details](https://understandingwebpki.com/?cert=MIIC6DCCAo%2BgAwIBAgIUQpx8cHEeOCDwuOHerm%2FzJiJkV0EwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9ybmlhMRswGQYDVQQKDBJTYW5zYXkgQ29ycG9yYXRpb24xEjAQBgNVBAsMCVNhbnNheSBDQTEwMC4GA1UEAwwnU0hBS0VOIFNhbnNheSBJbnRlcm1lZGlhdGUgQ0EgVVMgV0VTVCAxMB4XDTIyMTIwNTIyMjgxOVoXDTIzMTIwNTIyMjgxOVowgYQxCzAJBgNVBAYTAlVTMREwDwYDVQQIDAhEZWxhd2FyZTEcMBoGA1UECgwTQnVsayBTb2x1dGlvbnMsIExMQzEaMBgGA1UECwwRVm9pY2UgRW5naW5lZXJpbmcxKDAmBgNVBAMMH1NIQUtFTiBCdWxrIFNvbHV0aW9ucywgTExDIDY0NEowWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATk%2B0hTZzXewsPnpEycHO8EmLHkPh16A4Jp7%2FiCZuTc%2FbHIaITlQeNNxp9j%2FXffgdoKQpsla0FGsuKGfNwvF2%2Bro4HbMIHYMBYGCCsGAQUFBwEaBAowCKAGFgQ2NDRKMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBATAdBgNVHQ4EFgQUCSTvlWp7PRxJ1qqX0CR66WC7W7YwHwYDVR0jBBgwFoAUrNOT9UNDzAq%2BRVgXE32SfNzDAUYwRwYDVR0fBEAwPjA8oDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsMAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMAoGCCqGSM49BAMCA0cAMEQCIErTM7m7%2FaMq3i8enW74tA1U39bDWdX64mY3ZeD5LmXqAiAOkVPTXkbBO%2Fd0VVZeO%2FX%2Bq2LYOSHq%2Fl3nLiQ4JT%2FZMg%3D%3D)
 
@@ -26,4 +26,4 @@ Link: https://bulkvs-cr.s3.amazonaws.com/608300.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

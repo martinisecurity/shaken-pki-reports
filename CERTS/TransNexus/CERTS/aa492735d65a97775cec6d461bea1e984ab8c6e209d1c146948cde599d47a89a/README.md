@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 2278
 
-Tested At: 28 Nov 23 19:53 UTC\
+Tested At: 12 Feb 24 16:27 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -176 day(s)\
+Remaining Validity Period: -252 day(s)\
 Subject: CN=SHAKEN 2278, O=Emery Telcom, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/3502dabb-bc1a-438a-b236-7c43d257da71/9e58ebe00b99be076599cd34ed492fed.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/3502dabb-bc1a-438a-b236-7c43d257da71/9e58
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

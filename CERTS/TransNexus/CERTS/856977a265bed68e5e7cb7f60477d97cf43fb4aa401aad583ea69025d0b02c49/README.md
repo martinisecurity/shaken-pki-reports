@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 691A
 
-Tested At: 28 Nov 23 19:54 UTC\
+Tested At: 12 Feb 24 16:29 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -270 day(s)\
+Remaining Validity Period: -346 day(s)\
 Subject: CN=SHAKEN 691A, O=DayStarr Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/853eda31-5f44-42d5-81f9-871258ee4c96/e6ed25229ce9305d92ad64ff517c43c6.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/853eda31-5f44-42d5-81f9-871258ee4c96/e6ed
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

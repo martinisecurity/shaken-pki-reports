@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN WWT INC dba VoIP Networks 053K
 
-Tested At: 28 Nov 23 20:11 UTC\
+Tested At: 12 Feb 24 16:52 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 127 day(s)\
+Remaining Validity Period: 51 day(s)\
 Subject: CN=SHAKEN WWT INC dba VoIP Networks 053K, OU=Tier3, O=WWT INC dba VoIP Networks, ST=New Jersey, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/WWT_INC_dba_VoIP_Networks_053K
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/WWT_INC_dba_VoIP_Networks_053K
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 053K', but common name is 'SHAKEN WWT INC dba VoIP Networks 053K' |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

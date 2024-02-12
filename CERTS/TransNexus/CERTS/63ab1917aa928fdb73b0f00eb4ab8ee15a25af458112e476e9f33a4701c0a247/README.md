@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 3303
 
-Tested At: 28 Nov 23 19:55 UTC\
+Tested At: 12 Feb 24 16:30 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -220 day(s)\
+Remaining Validity Period: -296 day(s)\
 Subject: CN=SHAKEN 3303, O=SRT Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/e3d7800a-6347-4f55-bb14-76054cfd91c9/70c9ed0960c09faf9fdb728f819266f1.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/e3d7800a-6347-4f55-bb14-76054cfd91c9/70c9
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

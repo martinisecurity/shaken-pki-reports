@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 8105
+
+Tested At: 12 Feb 24 16:28 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -13 day(s)\
+Subject: CN=SHAKEN 8105, O=Smart City, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/6a3c31c1-9df1-472e-b748-80f586bce971/57cd5dd19a0251933fa7653abb615baa.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICyjCCAnCgAwIBAgIQW4Lt9pmrGkPwsv8Qvug%2BpjAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjQwMTIzMTU1MTE5WhcNMjQwMTMwMTU1MTE4WjA4MQswCQYDVQQGEwJVUzETMBEGA1UEChMKU21hcnQgQ2l0eTEUMBIGA1UEAxMLU0hBS0VOIDgxMDUwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATlciMHE6UpedFT3%2BwzH736ZarAAz23UXQXrxVCFI2VsEEELN7%2FTDNjn66oYfdj2Kk9mcst36Qkyr%2BZrvkNcM5Lo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFPH8wVzckIKdVMTRGYlPKGtGSE2KMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDgxMDUwCgYIKoZIzj0EAwIDSAAwRQIhAJazdS%2BGdXREb1aFmawuCI3vCdT9d8VKBMk3g8MZeigEAiAgMvyRAK9L5ibBE6yH6yq1eQexuLau4BzV761pAc7pWQ%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 12 Feb 24 17:02 UTC

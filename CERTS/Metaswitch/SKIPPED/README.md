@@ -6,8 +6,12 @@
 
 | Created At | Subject | Not After | Problems | Link |
 |------------|---------|-----------|----------|------|
+| 11&#160;Dec&#160;20&#160;00:14&#160;UTC | Fidelity Communications SHAKEN Cert 1882 | 11&#160;Dec&#160;23&#160;00:14&#160;UTC | true | [view](../CERTS/baaf8e58db0f02327fc5b9b614a5633c7b505ca0b291b606d32a191ee73a05e5/README.md) |
+| 17&#160;Dec&#160;20&#160;15:19&#160;UTC | TDS Telecom SHAKEN Cert 7804 | 17&#160;Dec&#160;23&#160;15:19&#160;UTC | true | [view](../CERTS/a04a669738b79ff55c2b2197f72a12a112b731906e2e6a925d37ccee2fa00a11/README.md) |
 | 17&#160;Dec&#160;20&#160;15:19&#160;UTC | TDS Telecom SHAKEN Cert 7804 | 17&#160;Dec&#160;23&#160;15:19&#160;UTC | true | [view](../CERTS/a04a669738b79ff55c2b2197f72a12a112b731906e2e6a925d37ccee2fa00a11/README.md) |
 | 27&#160;Jan&#160;21&#160;17:16&#160;UTC | Telesystem SHAKEN Cert 786E | 27&#160;Jan&#160;24&#160;17:16&#160;UTC | true | [view](../CERTS/2d9aca0895c94291596161363091718089a6e7c19dfa57329ae548432533860f/README.md) |
+| 27&#160;Jan&#160;21&#160;17:16&#160;UTC | Telesystem SHAKEN Cert 786E | 27&#160;Jan&#160;24&#160;17:16&#160;UTC | true | [view](../CERTS/2d9aca0895c94291596161363091718089a6e7c19dfa57329ae548432533860f/README.md) |
+| 01&#160;Feb&#160;21&#160;16:46&#160;UTC | Rainbow Communications SHAKEN Cert 1820 | 01&#160;Feb&#160;24&#160;16:46&#160;UTC | true | [view](../CERTS/8dddc19bd59ffef92b8e34656d16d27f50cd7d2889c19a7691e00e7ba80f6acb/README.md) |
 | 16&#160;Feb&#160;21&#160;17:30&#160;UTC | Verizon SHAKEN cert 5807 | 16&#160;Feb&#160;24&#160;17:30&#160;UTC | true | [view](../CERTS/d7b413267be2d050d516af4f4a864ffdc2feacc774a1a6264b9cfe68c796f43f/README.md) |
 | 10&#160;Mar&#160;21&#160;20:50&#160;UTC | Northeast Communications of Wisconsin SHAKEN Cert 6692 | 09&#160;Mar&#160;24&#160;20:50&#160;UTC | true | [view](../CERTS/90042ab31d5de7abb64b89073a0d931ce22d864b89df13a9372887cb5db45f49/README.md) |
 | 17&#160;Mar&#160;21&#160;17:06&#160;UTC | RCN SHAKEN Cert 7615 | 16&#160;Mar&#160;24&#160;17:06&#160;UTC | true | [view](../CERTS/bbdec20ad80f4a2a8ed097204a9299566beca170460fb648c81a51d195d9b6f1/README.md) |
@@ -40,12 +44,14 @@
 | 02&#160;Mar&#160;23&#160;17:57&#160;UTC | Summit Broadband SHAKEN Cert 7857 | 01&#160;Mar&#160;26&#160;17:57&#160;UTC | true | [view](../CERTS/ed3e9cefca8e2fd0c60362a76618f89faafe7d12ea8979620b402eb887a53531/README.md) |
 | 26&#160;Mar&#160;23&#160;22:56&#160;UTC | Eatel SHAKEN Cert 8839 | 25&#160;Mar&#160;26&#160;22:56&#160;UTC | true | [view](../CERTS/a28d2c246508e2e6cff13fe388c7553b5490afb448d03437142aaea9ddc8d439/README.md) |
 | 31&#160;Mar&#160;23&#160;16:08&#160;UTC | Twin Lakes SHAKEN Cert 0579 | 30&#160;Mar&#160;26&#160;16:08&#160;UTC | true | [view](../CERTS/863baf457cc2e6cbf29ba1bee6b324fb5546c206a8f279094b4ab189ec2a1b5f/README.md) |
+| 06&#160;Apr&#160;23&#160;10:18&#160;UTC | West Kentucky Rural SHAKEN Cert 0421 | 05&#160;Apr&#160;26&#160;10:18&#160;UTC | true | [view](../CERTS/62a29b3d0b7af5b22427dc5dee9d649652664d6a455a601ed01b85592ad9a0a6/README.md) |
 | 19&#160;Apr&#160;23&#160;14:19&#160;UTC | Blackfoot Communications SHAKEN Cert 2235 | 18&#160;Apr&#160;26&#160;14:19&#160;UTC | true | [view](../CERTS/1ae2c0be152e4cef8d41bcfc9809e5d8c71251f93f845e84304ca5a3603019a4/README.md) |
 | 26&#160;Apr&#160;23&#160;23:44&#160;UTC | Point Broadband Inc Bristol SHAKEN Cert 9809 | 25&#160;Apr&#160;26&#160;23:44&#160;UTC | true | [view](../CERTS/27b46292c626954e89bb6e92e5f752fd88b1efe5a0507ed0d1f72ab9bcdee40e/README.md) |
 | 03&#160;May&#160;23&#160;16:53&#160;UTC | 3 Rivers Communications SHAKEN Cert 2255 | 02&#160;May&#160;26&#160;16:53&#160;UTC | true | [view](../CERTS/8b53182b31f279a02c6fd03f50762f1d9e3412dc8bd0d2535380627545e28a2c/README.md) |
 | 05&#160;May&#160;23&#160;15:48&#160;UTC | Crosstel Tandem Inc SEPB SHAKEN Cert 357H | 04&#160;May&#160;26&#160;15:48&#160;UTC | true | [view](../CERTS/9543f4ce9c1bfae926f9f2103ed6366cb203a6f30586c4b496c24684aa1bec6e/README.md) |
 | 12&#160;May&#160;23&#160;11:11&#160;UTC | Fastwyre Broadband SHAKEN Cert 0425 | 11&#160;May&#160;26&#160;11:11&#160;UTC | true | [view](../CERTS/2da263aa90b8ba1747cc000ba40674f5d534903d8ee0c5cd38ea276bc95f02f3/README.md) |
+| 25&#160;May&#160;23&#160;22:17&#160;UTC | Alma Tel SHAKEN 0344 | 24&#160;May&#160;26&#160;22:17&#160;UTC | true | [view](../CERTS/1008e70b562dafabfb601eb7e7706c597172afcd0728a9e7602454dd0f365a7b/README.md) |
 | 08&#160;Jun&#160;23&#160;16:02&#160;UTC | Whidbey Telephone Company SHAKEN Cert 2452 | 07&#160;Jun&#160;26&#160;16:02&#160;UTC | true | [view](../CERTS/11a8d77aa46349b365d5740e537d242f906b2729b3a16dcc5008297a8a7e3a3c/README.md) |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

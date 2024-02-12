@@ -2,14 +2,14 @@
 
 ## Digital IP Voice
 
-- 3 repository URLs were included in the corpus being tested
-- 1 repository URLs in the corpus were skipped because they were duplicated
+- 2 repository URLs were included in the corpus being tested
+- 0 repository URLs in the corpus were skipped because they were duplicated
 - 2 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 192ms average time it took to download each certificate
+- 272ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -22,4 +22,4 @@
 | `https://az.tax/3` | 16&#160;May&#160;24&#160;17:40&#160;UTC | true | [view](REPOS/2bed5caa7cad84c7c94a94d7e16022052d826b29/README.md) |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

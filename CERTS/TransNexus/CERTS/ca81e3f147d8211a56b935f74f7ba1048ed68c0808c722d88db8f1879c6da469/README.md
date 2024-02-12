@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 0172
+
+Tested At: 12 Feb 24 16:31 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -45 day(s)\
+Subject: CN=SHAKEN 0172, O=CallTower, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.transnexus.com/0172/326a68c9-4759-4833-aae7-e88a7454caa5.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICyDCCAm%2BgAwIBAgIQTcSKSRlfZXTEcOxTLEk%2BUjAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMxMjIyMTYyMjExWhcNMjMxMjI5MTYyMjEwWjA3MQswCQYDVQQGEwJVUzESMBAGA1UEChMJQ2FsbFRvd2VyMRQwEgYDVQQDEwtTSEFLRU4gMDE3MjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABGPR6XAnN%2B%2FZOUyNQGDJmvqqWAhOqNYGDWlzMT%2BpBQaChFna2x03PpEmXo2RCZFPe38KUhO2kCtdsbOCQ%2FJGlDGjggE8MIIBODAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAdBgNVHQ4EFgQULLcelEPJx%2FM%2B3wZAPD6DVkJhDOwwHwYDVR0jBBgwFoAUMPX18rfhSwsPEHV9SKSQ8T2LKCowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEDMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAWBggrBgEFBQcBGgQKMAigBhYEMDE3MjAKBggqhkjOPQQDAgNHADBEAiA3QgPJ8ZtDtTWT%2BmmSOmLaTiIw%2FuSp2PjOLBKruVL5PAIgU%2FdvEDMd03vPBbpLGD0F2uU4xAu4F%2FeyFEX%2BU%2FkEis8%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 12 Feb 24 17:02 UTC

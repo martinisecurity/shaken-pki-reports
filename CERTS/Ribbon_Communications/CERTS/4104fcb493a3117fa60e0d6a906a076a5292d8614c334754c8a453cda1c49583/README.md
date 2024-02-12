@@ -2,9 +2,9 @@
 
 ## Certificate Randolph SHAKEN 0496
 
-Tested At: 28 Nov 23 20:13 UTC\
+Tested At: 12 Feb 24 16:55 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 161 day(s)\
+Remaining Validity Period: 86 day(s)\
 Subject: CN=Randolph SHAKEN 0496, OU=STI, O=Randolph Communications, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/y7KhPDB4Rz/STI-202305-0496-4d00c291e24d5a5d5c757e8035320452
@@ -17,4 +17,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/y7KhPDB4Rz/STI-202305-0496-4d00c2
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

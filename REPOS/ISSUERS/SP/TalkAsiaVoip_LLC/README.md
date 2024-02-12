@@ -3,22 +3,18 @@
 ## TalkAsiaVoip LLC
 
 - 1 repository URLs were included in the corpus being tested
-- 0 repository URLs in the corpus were skipped because they were duplicated
-- 1 repository URLs being tested against the remaining rules
-- 2.00 issues on average found in non-compliant certificate repository URLs
-- 100.00% of repository URLs contain one or more Error level issue
-- 100.00% of repository URLs contain one or more Warning level issue
+- 1 repository URLs in the corpus were skipped because they were duplicated
+- 0 repository URLs being tested against the remaining rules
+- 0.00 issues on average found in non-compliant certificate repository URLs
+- 0.00% of repository URLs contain one or more Error level issue
+- 0.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 178ms average time it took to download each certificate
+- 0ms average time it took to download each certificate
 
-| Instances | Test | Source |
-|-----------|------|--------|
-| 1 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
-| 1 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+No error, warning, or notice level issues were found
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://www.talkasiavoip.com/198K.pem` | 07&#160;Dec&#160;23&#160;07:31&#160;UTC | true | [view](REPOS/bb30be37f3905720319bcf16596a6c137b7f5d2c/README.md) |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate CBTS Technology Solutions SHAKEN Cert 600F
 
-Tested At: 28 Nov 23 19:52 UTC\
+Tested At: 12 Feb 24 16:26 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 139 day(s)\
+Remaining Validity Period: 63 day(s)\
 Subject: CN=CBTS Technology Solutions SHAKEN Cert 600F, O=CBTS Technology Solutions LLC, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/1fa17ac42885f55c6be50d2eb8b93b2a88085fa9
@@ -29,4 +29,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/1fa17ac42885f55c6be50d2eb8b93b2a88085fa
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

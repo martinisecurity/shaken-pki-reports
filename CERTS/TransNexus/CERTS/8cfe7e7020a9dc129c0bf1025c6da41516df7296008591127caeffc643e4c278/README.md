@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 714J
 
-Tested At: 28 Nov 23 19:53 UTC\
+Tested At: 12 Feb 24 16:28 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -196 day(s)\
+Remaining Validity Period: -272 day(s)\
 Subject: CN=SHAKEN 714J, O=Cedar Wireless Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/461b73cf-c78b-42ab-a67f-2140f9c668dd/2d8435ab6b0e8c981ac117e9dfe797eb.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/461b73cf-c78b-42ab-a67f-2140f9c668dd/2d84
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

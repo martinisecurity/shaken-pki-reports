@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 389J
 
-Tested At: 28 Nov 23 20:15 UTC\
+Tested At: 12 Feb 24 16:57 UTC\
 Initial Validity Period: 398 day(s)\
-Remaining Validity Period: 148 day(s)\
+Remaining Validity Period: 73 day(s)\
 Subject: CN=SHAKEN 389J, O=Cloudli Communications, C=CA\
 Issuer: CN=Neustar Canada Certified Caller ID SHAKEN CA-2, OU=www.ca.ccid.neustar, O=Neustar Information Services Inc, C=CA\
 Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/7bdca6d62828d732c42a364bd6e6662a.pem
@@ -16,4 +16,4 @@ Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/7bdca6d62828d732c42a36
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 1.3.6.1.4.1.56223.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

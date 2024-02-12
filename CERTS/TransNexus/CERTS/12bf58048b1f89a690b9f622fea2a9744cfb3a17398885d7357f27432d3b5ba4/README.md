@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 549J
 
-Tested At: 28 Nov 23 19:53 UTC\
+Tested At: 12 Feb 24 16:27 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -126 day(s)\
+Remaining Validity Period: -202 day(s)\
 Subject: CN=SHAKEN 549J, O=Amplex Electric Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/38d748c3-cd99-432f-ad31-1c605b65e6bd/9af48f8445fcd4298a6438a1b7849d60.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/38d748c3-cd99-432f-ad31-1c605b65e6bd/9af4
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

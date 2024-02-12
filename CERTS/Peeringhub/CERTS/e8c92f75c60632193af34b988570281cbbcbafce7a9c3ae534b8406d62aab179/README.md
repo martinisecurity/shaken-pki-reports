@@ -2,9 +2,9 @@
 
 ## Certificate VOCALTRANSIT SHAKEN 783J
 
-Tested At: 28 Nov 23 20:13 UTC\
+Tested At: 12 Feb 24 16:55 UTC\
 Initial Validity Period: 205 day(s)\
-Remaining Validity Period: 176 day(s)\
+Remaining Validity Period: 100 day(s)\
 Subject: CN=VOCALTRANSIT SHAKEN 783J, OU=VOCALTRANSIT, O=IT Vocal LLC, ST=NV, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://shaken.vocaltransit.com/783J/vocaltransit-STIRSHAKEN.crt
@@ -16,4 +16,4 @@ Link: https://shaken.vocaltransit.com/783J/vocaltransit-STIRSHAKEN.crt
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 5556
 
-Tested At: 28 Nov 23 19:54 UTC\
+Tested At: 12 Feb 24 16:29 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -20 day(s)\
+Remaining Validity Period: -96 day(s)\
 Subject: CN=SHAKEN 5556, O=Pathwayz Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/86d71bc1-7c54-48c9-a93f-6b0da10581ec/d2cc4a3bcdca33dc2ee162aed5bd270d.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/86d71bc1-7c54-48c9-a93f-6b0da10581ec/d2cc
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

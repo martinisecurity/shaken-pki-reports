@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 5447
+
+Tested At: 12 Feb 24 16:33 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 355 day(s)\
+Subject: CN=SHAKEN 5447, O=Access One Inc, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11528.10146
+
+[View certificate details](https://understandingwebpki.com/?cert=MIIDAjCCAqigAwIBAgIUd5D40GUDxVJUrVuk2qIKxfk419YwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI0MDIwMjE2NDM1N1oXDTI1MDIwMTE2NDM1N1owPDELMAkGA1UEBhMCVVMxFzAVBgNVBAoMDkFjY2VzcyBPbmUgSW5jMRQwEgYDVQQDDAtTSEFLRU4gNTQ0NzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABNsOx1RdI8i2dPIzz2Pb2A7lnOr4EWwBiJ0qyEEr9%2F3A%2FRMJ1mIqf1xVgA%2FChyqN3HEAFdkJxElXfF5FTtCipaCjggE8MIIBODAWBggrBgEFBQcBGgQKMAigBhYENTQ0NzAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIJOFf%2F%2Bn2pnUeTIl8dtdMP8ZUV4MBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwHQYDVR0OBBYEFFBFI5Q%2BJ070Ot7d50J5ZzewgMYDMA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNIADBFAiEA4OUGQolPd%2B0N7y6%2B8ouvJyitst5c19PR3V4cCFW%2FOgMCID%2BoaNHmTwIGpflxW71BEiBKFIs1Cngw4XsGYkj1PE%2BG)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 12 Feb 24 17:02 UTC

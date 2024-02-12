@@ -2,22 +2,24 @@
 
 ## MagicJack
 
-- 3 repository URLs were included in the corpus being tested
+- 4 repository URLs were included in the corpus being tested
 - 2 repository URLs in the corpus were skipped because they were duplicated
-- 1 repository URLs being tested against the remaining rules
-- 1.00 issues on average found in non-compliant certificate repository URLs
-- 0.00% of repository URLs contain one or more Error level issue
+- 2 repository URLs being tested against the remaining rules
+- 1.50 issues on average found in non-compliant certificate repository URLs
+- 50.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 258ms average time it took to download each certificate
+- 94ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 1 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 1 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
+| 2 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
 | `https://cr-east1.sansay.com/MagicJack_324E.crt` | 29&#160;Nov&#160;23&#160;22:04&#160;UTC | true | [view](REPOS/4f048fcfaabf07ec664f4dd877a5470bca64d6e9/README.md) |
+| `https://sns.magicjack.com/MagicJack_2411_324E.crt` | 26&#160;Nov&#160;24&#160;18:04&#160;UTC | true | [view](REPOS/e5fae8fa25bfec9288ef669a1580649d056fc3c4/README.md) |
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 578J
 
-Tested At: 28 Nov 23 19:56 UTC\
+Tested At: 12 Feb 24 16:31 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -126 day(s)\
+Remaining Validity Period: -201 day(s)\
 Subject: CN=SHAKEN 578J, OU=SHAKEN, O=Call Tools Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/578J/8e374e10-eba0-45b0-b09a-b7086947dd7c.pem
@@ -26,4 +26,4 @@ Link: https://certificates.transnexus.com/578J/8e374e10-eba0-45b0-b09a-b7086947d
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 20:21 UTC
+Generated: 12 Feb 24 17:02 UTC

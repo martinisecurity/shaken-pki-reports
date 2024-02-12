@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 459J
+
+Tested At: 12 Feb 24 16:30 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -22 day(s)\
+Subject: CN=SHAKEN 459J, O=Altaworx, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/d3d6dbfc-2914-49c7-8f47-d0aa5bd5d764/2fcdc3d32473c5446e8dc14a6f05bc93.pem
+
+[View certificate details](https://understandingwebpki.com/?cert=MIICyDCCAm6gAwIBAgIQSzM%2FhdKPJFMtJAhIxrs3fDAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjQwMTEzMjExNDI5WhcNMjQwMTIwMjExNDI4WjA2MQswCQYDVQQGEwJVUzERMA8GA1UEChMIQWx0YXdvcngxFDASBgNVBAMTC1NIQUtFTiA0NTlKMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEm4D3hFszlVr1KIMu5kFCdV0z03PeC0Epux6V5tp7tpBZp8ZrLkaxk7yBHzAm2puZiAMj9bFtIAACKa0jDPaTaaOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBT8LsKmmLsOmXl1loUKSdP2YK4OFDAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ0NTlKMAoGCCqGSM49BAMCA0gAMEUCIQCFaLIZGTRl%2BoNUhmvBnxFaMOWTKWsQ5zR%2BKS%2FxKp7oZgIgLyamYUnLTqtMiNFXr%2FYVmXBUDmOBWbmvbrSfCU9JQzs%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 12 Feb 24 17:02 UTC
