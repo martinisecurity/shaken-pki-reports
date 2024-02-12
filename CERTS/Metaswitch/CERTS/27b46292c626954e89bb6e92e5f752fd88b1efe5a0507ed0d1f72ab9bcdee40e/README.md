@@ -2,7 +2,7 @@
 
 ## Certificate Point Broadband Inc Bristol SHAKEN Cert 9809
 
-Tested At: 12 Feb 24 16:26 UTC\
+Tested At: 12 Feb 24 18:54 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 804 day(s)\
 Subject: CN=Point Broadband Inc Bristol SHAKEN Cert 9809, O=Point Broadband Inc Bristol, C=US\
@@ -13,9 +13,9 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/2aeba0ef7bc96ec8521d519c00854a8f850ddb3
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 9809', but common name is 'Point Broadband Inc Bristol SHAKEN Cert 9809' |
-| [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 9809', but common name is 'Point Broadband Inc Bristol SHAKEN Cert 9809' |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

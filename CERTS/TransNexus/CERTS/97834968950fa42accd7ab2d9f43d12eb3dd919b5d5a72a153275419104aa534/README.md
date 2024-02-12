@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 857J
 
-Tested At: 12 Feb 24 16:32 UTC\
+Tested At: 12 Feb 24 18:56 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 125 day(s)\
+Remaining Validity Period: 124 day(s)\
 Subject: CN=SHAKEN 857J, O=IEvolve, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/857J/be296a1b-44fc-487b-88a4-de0dcca64ede.pem
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/857J/be296a1b-44fc-487b-88a4-de0dcca64
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

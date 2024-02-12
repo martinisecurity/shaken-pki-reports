@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Every1 Telecom 486K
 
-Tested At: 12 Feb 24 16:26 UTC\
+Tested At: 12 Feb 24 18:54 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 35 day(s)\
 Subject: CN=SHAKEN Every1 Telecom 486K, OU=President, O=Every1 Telecom, ST=Texas, C=US\
@@ -17,4 +17,4 @@ Link: https://cdn.cnxcdn.com/shaken/69.crt
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

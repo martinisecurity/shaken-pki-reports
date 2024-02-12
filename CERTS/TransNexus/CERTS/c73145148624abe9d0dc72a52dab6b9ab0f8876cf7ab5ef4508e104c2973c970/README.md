@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0069
 
-Tested At: 12 Feb 24 16:28 UTC\
+Tested At: 12 Feb 24 18:54 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -132 day(s)\
+Remaining Validity Period: -133 day(s)\
 Subject: CN=SHAKEN 0069, O=Green Mountain Long Distance Corp, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/6caa5359-ccee-4f90-a981-87f1d613e5e1/facec864626fa03783a838272ad83a51.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/6caa5359-ccee-4f90-a981-87f1d613e5e1/face
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

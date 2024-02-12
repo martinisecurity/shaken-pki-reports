@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 139K
 
-Tested At: 12 Feb 24 16:26 UTC\
+Tested At: 12 Feb 24 18:54 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -226 day(s)\
 Subject: CN=SHAKEN 139K, O=FaxLogic LLC, C=US\
@@ -25,4 +25,4 @@ Link: https://cdn.pgxn.net/sti/20230701.cer
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

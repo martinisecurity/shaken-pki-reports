@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 604K
 
-Tested At: 12 Feb 24 16:29 UTC\
+Tested At: 12 Feb 24 18:54 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -229 day(s)\
 Subject: CN=SHAKEN 604K, O=In-Telecom, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/7f737783-bafd-48a8-a8f8-a4781781e950/2630
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

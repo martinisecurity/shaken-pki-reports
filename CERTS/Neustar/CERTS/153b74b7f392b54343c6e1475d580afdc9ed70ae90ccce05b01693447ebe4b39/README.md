@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 154E
 
-Tested At: 12 Feb 24 16:57 UTC\
+Tested At: 12 Feb 24 19:21 UTC\
 Initial Validity Period: 398 day(s)\
 Remaining Validity Period: 185 day(s)\
 Subject: CN=SHAKEN 154E, O=IRISTEL, C=CA\
@@ -16,4 +16,4 @@ Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/a93fb04b9d4d2e9384352d
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 1.3.6.1.4.1.56223.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

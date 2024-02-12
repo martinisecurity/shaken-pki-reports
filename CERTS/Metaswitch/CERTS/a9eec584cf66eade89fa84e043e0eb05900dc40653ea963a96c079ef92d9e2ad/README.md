@@ -2,7 +2,7 @@
 
 ## Certificate Allstream SHAKEN cert 4130
 
-Tested At: 12 Feb 24 16:26 UTC\
+Tested At: 12 Feb 24 18:54 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 27 day(s)\
 Subject: CN=Allstream SHAKEN cert 4130, O=Allstream Business US\\, LLC, L=Vancouver, ST=WA, C=US\
@@ -29,4 +29,4 @@ Link: https://cert-stir-us.allstream.com/certs/allstreamcertchain.crt
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

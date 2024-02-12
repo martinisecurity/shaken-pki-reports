@@ -2,9 +2,9 @@
 
 ## Certificate Tanya David LLC SHAKEN 774K
 
-Tested At: 12 Feb 24 16:31 UTC\
+Tested At: 12 Feb 24 18:55 UTC\
 Initial Validity Period: 36 day(s)\
-Remaining Validity Period: 25 day(s)\
+Remaining Validity Period: 24 day(s)\
 Subject: CN=Tanya David LLC SHAKEN 774K, O=Tanya David LLC\\ , L=Detroit, ST=MI, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://certificates.peeringhub.io/774K/774K.crt
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/774K/774K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

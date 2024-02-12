@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN XCast Labs 689J
 
-Tested At: 12 Feb 24 16:53 UTC\
+Tested At: 12 Feb 24 19:17 UTC\
 Initial Validity Period: 32 day(s)\
 Remaining Validity Period: -80 day(s)\
 Subject: CN=SHAKEN XCast Labs 689J, OU=XCast Labs, O=XCast Labs, ST=California, C=US\
@@ -13,8 +13,8 @@ Link: https://cr.xcastlabs.net/1700784000/xclsshaken.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 689J', but common name is 'SHAKEN XCast Labs 689J' |
+| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

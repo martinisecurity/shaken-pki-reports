@@ -2,9 +2,9 @@
 
 ## Certificate Verizon SHAKEN cert 5807
 
-Tested At: 12 Feb 24 16:57 UTC\
+Tested At: 12 Feb 24 19:21 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 5 day(s)\
+Remaining Validity Period: 4 day(s)\
 Subject: CN=Verizon SHAKEN cert 5807, OU=NNO CDS, O=Verizon Data Services LLC, L=Southlake, ST=Texas, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://sti.verizon.com/vzwcert/vzshaken-02-2024.crt
@@ -29,4 +29,4 @@ Link: https://sti.verizon.com/vzwcert/vzshaken-02-2024.crt
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

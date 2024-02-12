@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0654
 
-Tested At: 12 Feb 24 16:30 UTC\
+Tested At: 12 Feb 24 18:55 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -110 day(s)\
+Remaining Validity Period: -111 day(s)\
 Subject: CN=SHAKEN 0654, O=Com Net Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/e059e18d-d2a8-49a2-922b-41f4fa042798/682ca21d79e3d14e1e472d9d823c935a.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/e059e18d-d2a8-49a2-922b-41f4fa042798/682c
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

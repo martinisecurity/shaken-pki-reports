@@ -3,11 +3,11 @@
 ## Comcast
 
 Name: `https://sticr.stir.comcast.com/76757ec2-2530-4cb2-8a09-212eec691690.pem`\
-Tested At: 12 Feb 24 16:57 UTC\
-Time: 75ms
+Tested At: 12 Feb 24 19:22 UTC\
+Time: 14ms
 
 ### Issues
 
 no warning, or error, or notice date level issues were found
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

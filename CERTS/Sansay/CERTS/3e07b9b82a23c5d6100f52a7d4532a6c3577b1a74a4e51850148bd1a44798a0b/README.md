@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Drop Inc 258K
 
-Tested At: 12 Feb 24 16:26 UTC\
+Tested At: 12 Feb 24 18:53 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 289 day(s)\
+Remaining Validity Period: 288 day(s)\
 Subject: CN=SHAKEN Drop Inc 258K, OU=Drop, O=Drop Inc, ST=Illinois, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: http://sti.comsapi.com/258k/ca.crt
@@ -13,8 +13,8 @@ Link: http://sti.comsapi.com/258k/ca.crt
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 258K', but common name is 'SHAKEN Drop Inc 258K' |
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 258K', but common name is 'SHAKEN Drop Inc 258K' |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

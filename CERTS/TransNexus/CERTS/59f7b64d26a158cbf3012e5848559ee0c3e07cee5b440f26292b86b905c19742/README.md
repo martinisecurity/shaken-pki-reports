@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 763J
 
-Tested At: 12 Feb 24 16:31 UTC\
+Tested At: 12 Feb 24 18:55 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -287 day(s)\
 Subject: CN=SHAKEN 763J, O=InfoWest Inc., C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/f12e1928-6745-4bda-b71c-42eaf0738bce/09f3
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

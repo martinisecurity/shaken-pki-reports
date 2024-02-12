@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 053G
 
-Tested At: 12 Feb 24 16:28 UTC\
+Tested At: 12 Feb 24 18:54 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -1 day(s)\
 Subject: CN=SHAKEN 053G, O=Meriplex Communications, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/44962359-54bc-4e1b-b880-3f905456f68e/230b
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

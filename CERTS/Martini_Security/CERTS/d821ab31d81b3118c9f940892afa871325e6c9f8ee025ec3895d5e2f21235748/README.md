@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 115K
 
-Tested At: 12 Feb 24 17:00 UTC\
+Tested At: 12 Feb 24 19:24 UTC\
 Initial Validity Period: 24 day(s)\
 Remaining Validity Period: -95 day(s)\
 Subject: O=Renternet\\, LLC, C=US, serialNumber=1FB5EFB312690309AFBCA29137E978CA, CN=SHAKEN 115K\
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/QFY1fE0Q49X5.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

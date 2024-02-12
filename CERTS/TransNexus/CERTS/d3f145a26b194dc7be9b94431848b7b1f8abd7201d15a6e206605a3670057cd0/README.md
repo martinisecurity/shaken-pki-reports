@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1555
 
-Tested At: 12 Feb 24 16:27 UTC\
+Tested At: 12 Feb 24 18:54 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -313 day(s)\
 Subject: CN=SHAKEN 1555, O=Hamilton Telecommunications, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/1236e074-20ca-4639-9a13-6f26ef83f424/8869
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

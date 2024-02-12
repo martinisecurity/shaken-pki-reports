@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 952J
 
-Tested At: 12 Feb 24 16:32 UTC\
+Tested At: 12 Feb 24 18:56 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 18 day(s)\
 Subject: CN=SHAKEN 952J, O=Syndeo LLC dba Broadvoice, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/952J/817d1ddc-17b6-477a-80dc-a5301d0ea
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

@@ -2,14 +2,14 @@
 
 ## Martini Security
 
-- 1650 repository URLs were included in the corpus being tested
+- 1651 repository URLs were included in the corpus being tested
 - 442 repository URLs in the corpus were skipped because they were duplicated
-- 1208 repository URLs being tested against the remaining rules
+- 1209 repository URLs being tested against the remaining rules
 - 0.00 issues on average found in non-compliant certificate repository URLs
 - 0.00% of repository URLs contain one or more Error level issue
 - 0.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 93ms average time it took to download each certificate
+- 76ms average time it took to download each certificate
 
 No error, warning, or notice level issues were found
 
@@ -1217,6 +1217,7 @@ No error, warning, or notice level issues were found
 | `https://p.mtsec.me/2e5a/IcI1FMeTzx7N.pem` | 21&#160;Mar&#160;24&#160;19:51&#160;UTC | false | [view](REPOS/bfca738de97bfa0765e6163de5ca95910d13af1e/README.md) |
 | `https://p.mtsec.me/2e5a/IvFO5HTWBK84.pem` | 21&#160;Mar&#160;24&#160;19:51&#160;UTC | false | [view](REPOS/9070cc39d07ca8770ae454bc4f477364167b40f1/README.md) |
 | `https://p.mtsec.me/2e5a/LUJTz1AchNjh.pem` | 21&#160;Mar&#160;24&#160;19:51&#160;UTC | false | [view](REPOS/d9237875b6bc40ad6b286bad76004717ae5b782a/README.md) |
+| `https://p.mtsec.me/2e5a/NFb8Rs5in0rH.pem` | 12&#160;May&#160;24&#160;05:00&#160;UTC | false | [view](REPOS/01252cc32b46e449e75caefdedbb04f27baeead8/README.md) |
 | `https://p.mtsec.me/2e5a/ORKAPfCCJ7Iu.pem` | 21&#160;Mar&#160;24&#160;19:51&#160;UTC | false | [view](REPOS/76bb23ab559f7de6a15fa63f92918eac78654823/README.md) |
 | `https://p.mtsec.me/2e5a/SeriXVqY7oMc.pem` | 21&#160;Mar&#160;24&#160;19:51&#160;UTC | false | [view](REPOS/429729e238e88730e44997cff0322d096483599f/README.md) |
 | `https://p.mtsec.me/2e5a/U9ALAKYW5xoY.pem` | 21&#160;Mar&#160;24&#160;19:51&#160;UTC | false | [view](REPOS/552e01d4f8414f59aa9ebd53d196525cac643a07/README.md) |
@@ -1225,4 +1226,4 @@ No error, warning, or notice level issues were found
 | `https://p.mtsec.me/2e5a/fwwezZCCBplR.pem` | 21&#160;Mar&#160;24&#160;19:51&#160;UTC | false | [view](REPOS/4340e492b10fe3760421b2a5812ec45cd048cbd7/README.md) |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

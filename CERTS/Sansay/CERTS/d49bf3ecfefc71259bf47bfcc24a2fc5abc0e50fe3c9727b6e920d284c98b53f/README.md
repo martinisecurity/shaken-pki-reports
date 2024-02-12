@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Cascabel Networks 536K
 
-Tested At: 12 Feb 24 16:52 UTC\
+Tested At: 12 Feb 24 19:16 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 137 day(s)\
 Subject: CN=SHAKEN Cascabel Networks 536K, OU=Cascabel, O=Cascabel Networks, ST=Texas, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Cascabel_Networks_536K
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

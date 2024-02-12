@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 704J
 
-Tested At: 12 Feb 24 16:55 UTC\
+Tested At: 12 Feb 24 19:19 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 74 day(s)\
 Subject: CN=SHAKEN 704J, O=Clearly IP, C=US\
@@ -16,4 +16,4 @@ Link: https://r.stir.tel/704J/240425211751Z/cert.pem
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

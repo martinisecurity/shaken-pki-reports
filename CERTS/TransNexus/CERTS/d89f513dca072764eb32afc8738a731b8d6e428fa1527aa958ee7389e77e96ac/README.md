@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 8407
 
-Tested At: 12 Feb 24 16:30 UTC\
+Tested At: 12 Feb 24 18:55 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -211 day(s)\
 Subject: CN=SHAKEN 8407, O=Cooperative Communications, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/c9fd194b-ae82-4332-9482-ad1783b98c7c/a0df
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

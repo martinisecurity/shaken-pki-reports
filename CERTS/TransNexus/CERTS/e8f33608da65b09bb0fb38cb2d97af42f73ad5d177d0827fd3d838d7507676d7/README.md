@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 186K
 
-Tested At: 12 Feb 24 16:31 UTC\
+Tested At: 12 Feb 24 18:55 UTC\
 Initial Validity Period: 1 day(s)\
 Remaining Validity Period: -333 day(s)\
 Subject: CN=SHAKEN 186K, O=Go2Uno LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/186K/2e0f18f6-1cd1-4f09-9da2-1e399df0f
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

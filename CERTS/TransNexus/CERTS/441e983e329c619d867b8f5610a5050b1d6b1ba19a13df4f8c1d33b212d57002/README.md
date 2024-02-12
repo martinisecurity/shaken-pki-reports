@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 721J
 
-Tested At: 12 Feb 24 16:29 UTC\
+Tested At: 12 Feb 24 18:55 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -358 day(s)\
 Subject: CN=SHAKEN 721J, O=True IP Solutions, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/a1df4bf4-8858-47bb-9388-835c5c7cb5c4/07a9
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

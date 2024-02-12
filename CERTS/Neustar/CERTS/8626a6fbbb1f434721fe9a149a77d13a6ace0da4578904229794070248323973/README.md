@@ -2,7 +2,7 @@
 
 ## Certificate WindstreamCommunication
 
-Tested At: 12 Feb 24 16:33 UTC\
+Tested At: 12 Feb 24 18:57 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 82 day(s)\
 Subject: C=US, ST=AR, L=LittleRock, O=WindstreamServices, OU=WindstreamCommunication, CN=WindstreamCommunication\
@@ -31,4 +31,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11162.10187
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

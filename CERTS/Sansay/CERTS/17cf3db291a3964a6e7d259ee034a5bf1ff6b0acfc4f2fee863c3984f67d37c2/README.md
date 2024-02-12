@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Voice SY LLC 521K
 
-Tested At: 12 Feb 24 16:55 UTC\
+Tested At: 12 Feb 24 19:19 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 309 day(s)\
 Subject: CN=SHAKEN Voice SY LLC 521K, OU=Voice SY LLC Info, O=Voice SY LLC Info, ST=Wyoming, C=US\
@@ -13,8 +13,8 @@ Link: https://primodialer2.46labs.com/primodialer2.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 521K', but common name is 'SHAKEN Voice SY LLC 521K' |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

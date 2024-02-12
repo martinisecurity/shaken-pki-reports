@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 084E
 
-Tested At: 12 Feb 24 16:32 UTC\
+Tested At: 12 Feb 24 18:56 UTC\
 Initial Validity Period: 353 day(s)\
 Remaining Validity Period: 137 day(s)\
 Subject: serialNumber=517b758b-3dd0-458d-85b5-6bc2abe1ca18, CN=SHAKEN 084E, O=ChoiceTEL, C=US\
@@ -16,4 +16,4 @@ Link: https://choicetel.net/084E.crt
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.4.1.37476.9000.64.1 |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

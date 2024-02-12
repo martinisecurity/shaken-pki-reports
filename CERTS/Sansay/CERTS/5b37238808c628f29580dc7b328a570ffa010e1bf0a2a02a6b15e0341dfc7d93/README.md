@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Global Net Holdings Inc 306K
 
-Tested At: 12 Feb 24 16:52 UTC\
+Tested At: 12 Feb 24 19:16 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 344 day(s)\
 Subject: CN=SHAKEN Global Net Holdings Inc 306K, OU=oks, O=Global Net Holdings Inc, ST=Pennsylvania, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Global_Net_Holdings_Inc_306K
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 306K', but common name is 'SHAKEN Global Net Holdings Inc 306K' |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

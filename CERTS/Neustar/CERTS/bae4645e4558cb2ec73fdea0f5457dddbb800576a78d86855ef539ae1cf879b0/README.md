@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 955G
 
-Tested At: 12 Feb 24 16:55 UTC\
+Tested At: 12 Feb 24 19:19 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 122 day(s)\
 Subject: CN=SHAKEN 955G, O=LIBERTY CABLEVISION OF PUERTO RICO LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/MudcHJqGRz/LibertyJune2024
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate Clearwave SHAKEN Cert 9915
 
-Tested At: 12 Feb 24 16:26 UTC\
+Tested At: 12 Feb 24 18:54 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 119 day(s)\
 Subject: CN=Clearwave SHAKEN Cert 9915, O=Clearwave Communications, C=US\
@@ -29,4 +29,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/3f50200812ae74381c792fbff3f17ef55608e51
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

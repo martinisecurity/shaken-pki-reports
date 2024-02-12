@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Ace Innovative Networks, Inc. 040K
 
-Tested At: 12 Feb 24 16:34 UTC\
+Tested At: 12 Feb 24 18:58 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -176 day(s)\
 Subject: emailAddress=elevitt@1pcom.com, CN=SHAKEN Ace Innovative Networks\\, Inc. 040K, OU=NOC, O=Ace Innovative Networks\\, Inc., ST=New York, C=US, emailAddress=elevitt@1pcom.com\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/040K/order/408_040K_84
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 040K', but common name is 'SHAKEN Ace Innovative Networks, Inc. 040K' |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

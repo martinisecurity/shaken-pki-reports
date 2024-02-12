@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 918J
 
-Tested At: 12 Feb 24 16:27 UTC\
+Tested At: 12 Feb 24 18:54 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -258 day(s)\
 Subject: CN=SHAKEN 918J, O=VoIPX International Inc, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/3bbe1f4c-3184-44ee-84f4-2f63891aa57b/0cb0
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

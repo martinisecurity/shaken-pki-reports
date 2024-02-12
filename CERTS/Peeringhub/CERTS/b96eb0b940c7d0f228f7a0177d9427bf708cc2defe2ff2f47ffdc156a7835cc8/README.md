@@ -2,9 +2,9 @@
 
 ## Certificate INTENEXT TELECOM LLC SHAKEN 650K 4
 
-Tested At: 12 Feb 24 16:31 UTC\
+Tested At: 12 Feb 24 18:55 UTC\
 Initial Validity Period: 28 day(s)\
-Remaining Validity Period: 9 day(s)\
+Remaining Validity Period: 8 day(s)\
 Subject: CN=INTENEXT TELECOM LLC SHAKEN 650K 4, O=INTENEXT TELECOM LLC, L=SHERIDAN, ST=WY, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://certificates.peeringhub.io/650K/650K.crt
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/650K/650K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

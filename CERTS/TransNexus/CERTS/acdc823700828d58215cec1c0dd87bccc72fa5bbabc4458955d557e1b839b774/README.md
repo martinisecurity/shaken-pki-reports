@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 7820
 
-Tested At: 12 Feb 24 16:27 UTC\
+Tested At: 12 Feb 24 18:54 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -168 day(s)\
+Remaining Validity Period: -169 day(s)\
 Subject: CN=SHAKEN 7820, O=Full Service Network LP, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/12ead110-e343-424b-89e0-60e3721260b2/0b1dd3c66ec5a7bf264e671c75fd59db.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/12ead110-e343-424b-89e0-60e3721260b2/0b1d
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

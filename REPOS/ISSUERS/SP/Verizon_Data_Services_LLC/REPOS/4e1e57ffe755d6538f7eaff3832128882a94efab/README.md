@@ -3,8 +3,8 @@
 ## Verizon Data Services LLC
 
 Name: `https://sti.verizon.com/vzwcert/vzshaken-01-2027.crt`\
-Tested At: 12 Feb 24 16:57 UTC\
-Time: 152ms
+Tested At: 12 Feb 24 19:21 UTC\
+Time: 240ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 152ms
 |------|------|--------|---------|
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

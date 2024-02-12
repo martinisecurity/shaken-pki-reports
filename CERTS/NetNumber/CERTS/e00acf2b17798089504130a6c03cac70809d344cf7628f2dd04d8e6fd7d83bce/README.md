@@ -2,7 +2,7 @@
 
 ## Certificate Google SHAKEN cert 969H
 
-Tested At: 12 Feb 24 16:58 UTC\
+Tested At: 12 Feb 24 19:22 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -160 day(s)\
 Subject: O=Google Voice Inc., C=US, CN=Google SHAKEN cert 969H\
@@ -18,4 +18,4 @@ Link: https://www.gstatic.com/gtp/stir/cWSR_17beqyw3ZRUaLjF6A.pem
 | [e_atis_ext_certificate_policies](../../ISSUES/e_atis_ext_certificate_policies/README.md) | error | ATIS1000080 | The Certificate Policies extension is marked as critical |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

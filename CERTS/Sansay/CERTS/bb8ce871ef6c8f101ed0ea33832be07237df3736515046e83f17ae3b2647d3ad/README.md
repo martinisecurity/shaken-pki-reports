@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1stPoint Communications, LLC 463G
 
-Tested At: 12 Feb 24 16:42 UTC\
+Tested At: 12 Feb 24 19:06 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -264 day(s)\
 Subject: emailAddress=elevitt@1pcom.com, CN=SHAKEN 1stPoint Communications\\, LLC 463G, OU=NOC, O=1stPoint Communications\\, LLC, ST=New York, C=US, emailAddress=elevitt@1pcom.com\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/463G/order/629_463G_53
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN IDT America, Corp 363A
 
-Tested At: 12 Feb 24 16:41 UTC\
+Tested At: 12 Feb 24 19:05 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -101 day(s)\
 Subject: emailAddress=thomas.musella@idt.net, CN=SHAKEN IDT America\\, Corp 363A, OU=NOC, O=IDT America\\, Corp, ST=New Jersey, C=US, emailAddress=thomas.musella@idt.net\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/363A/order/877_363A_17
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

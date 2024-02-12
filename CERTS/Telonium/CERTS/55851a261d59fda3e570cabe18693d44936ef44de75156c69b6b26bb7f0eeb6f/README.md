@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 622K
 
-Tested At: 12 Feb 24 16:32 UTC\
+Tested At: 12 Feb 24 18:56 UTC\
 Initial Validity Period: 340 day(s)\
-Remaining Validity Period: 125 day(s)\
+Remaining Validity Period: 124 day(s)\
 Subject: serialNumber=42cb91c2-a9a5-4541-abb0-f04e76217417, CN=SHAKEN 622K, O=COMMTRUNKS LLC, C=US\
 Issuer: CN=Telonium STI-CA Intermediate CA, O=Telonium STI-CA\
 Link: https://commtrunks.46labs.com
@@ -16,4 +16,4 @@ Link: https://commtrunks.46labs.com
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.4.1.37476.9000.64.1 |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

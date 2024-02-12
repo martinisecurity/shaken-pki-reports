@@ -2,9 +2,9 @@
 
 ## Certificate Martini Security SHAKEN ROOT R2
 
-Tested At: 12 Feb 24 17:02 UTC\
+Tested At: 12 Feb 24 19:26 UTC\
 Initial Validity Period: 9132 day(s)\
-Remaining Validity Period: 8930 day(s)\
+Remaining Validity Period: 8929 day(s)\
 Subject: O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US, CN=Martini Security SHAKEN ROOT R2\
 Issuer: O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US, CN=Martini Security SHAKEN ROOT R2
 
@@ -13,4 +13,4 @@ Issuer: O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US, CN=Martini Security S
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

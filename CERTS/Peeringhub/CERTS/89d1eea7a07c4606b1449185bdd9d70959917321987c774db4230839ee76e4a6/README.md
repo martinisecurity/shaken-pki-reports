@@ -2,7 +2,7 @@
 
 ## Certificate ARit services LLC_1706303744312 SHAKEN 827K
 
-Tested At: 12 Feb 24 16:31 UTC\
+Tested At: 12 Feb 24 18:55 UTC\
 Initial Validity Period: 38 day(s)\
 Remaining Validity Period: 21 day(s)\
 Subject: CN=ARit services LLC_1706303744312 SHAKEN 827K, O=ARit services LLC, L=Dover, ST=DE, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/827K/HtWCqJla/827K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

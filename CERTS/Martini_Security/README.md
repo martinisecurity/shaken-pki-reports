@@ -9,20 +9,20 @@
 
 #### Leaf Certificates
 
-- 1658 certificates were included in the corpus being tested
+- 1659 certificates were included in the corpus being tested
 - 447 certificates in the corpus were skipped because they are duplicates
 - 903 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 308 certificates being tested against the remaining rules
+- 309 certificates being tested against the remaining rules
 - 1.00 issues on average found in unexpired, trusted, and non-compliant certificates
-- 3.57% of certificates contain one or more Error level issue
+- 3.56% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.32% of certificates are too old to be assessed against currently enforced expectations
 - 83 days is the average remaining validity for the certificates in the corpus
 - 83 days is the average initial validity for the certificates in the corpus
 - 102 certificates expire in the next 30 days
-- 20.53 average number of unexpired certificates per OCN observed
+- 20.60 average number of unexpired certificates per OCN observed
 - 15 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
@@ -361,6 +361,7 @@ No error, warning, or notice level issues were found
 | 06&#160;Feb&#160;24&#160;12:00&#160;UTC | SHAKEN 738J | 21&#160;Mar&#160;24&#160;19:51&#160;UTC | true | [view](CERTS/46735802ebd4abdb89f30706d05f9c6c859610a3f5339992cd1362acc34cf74c/README.md) |
 | 07&#160;Feb&#160;24&#160;00:00&#160;UTC | SHAKEN 683G | 21&#160;Mar&#160;24&#160;19:51&#160;UTC | true | [view](CERTS/ec1b702efacb611643276ca926989d48535a08623d12f0cc42890fdc59a934ed/README.md) |
 | 07&#160;Feb&#160;24&#160;12:00&#160;UTC | SHAKEN 738J | 21&#160;Mar&#160;24&#160;19:51&#160;UTC | true | [view](CERTS/e0ce37cf186f93bd1255a40e4f29dc6c6213bc81df112f80b97394e68087d351/README.md) |
+| 12&#160;Feb&#160;24&#160;18:50&#160;UTC | SHAKEN 709J | 12&#160;May&#160;24&#160;05:00&#160;UTC | false | [view](CERTS/ec8891092294462ecb62cd93ef197fe0b235540ca63fd6185321b86637634c45/README.md) |
 
 #### CA Certificates
 
@@ -372,4 +373,4 @@ No error, warning, or notice level issues were found
 | 25&#160;Jul&#160;23&#160;12:13&#160;UTC | Martini Security SHAKEN G3 | 23&#160;Jul&#160;28&#160;12:13&#160;UTC | false | [view](CERTS/4991793839608f92c12b8bb6e19cb5a99077ad9dc25c073c7a95c498132257aa/README.md) |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

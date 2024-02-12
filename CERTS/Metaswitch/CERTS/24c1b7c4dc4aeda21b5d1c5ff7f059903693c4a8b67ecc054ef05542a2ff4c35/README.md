@@ -2,7 +2,7 @@
 
 ## Certificate Kaplan Telephone SHAKEN cert 0432
 
-Tested At: 12 Feb 24 16:26 UTC\
+Tested At: 12 Feb 24 18:54 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 447 day(s)\
 Subject: CN=Kaplan Telephone SHAKEN cert 0432, O=Kaplan Telephone, C=US\
@@ -27,4 +27,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/c57d0a622b6d80dae91a7391b608bcf4c3d88f7
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

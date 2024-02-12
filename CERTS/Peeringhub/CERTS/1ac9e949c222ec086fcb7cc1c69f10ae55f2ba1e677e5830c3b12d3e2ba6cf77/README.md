@@ -2,7 +2,7 @@
 
 ## Certificate MAQS SHAKEN 255K
 
-Tested At: 12 Feb 24 16:53 UTC\
+Tested At: 12 Feb 24 19:17 UTC\
 Initial Validity Period: 36 day(s)\
 Remaining Validity Period: 22 day(s)\
 Subject: CN=MAQS SHAKEN 255K, O=MAQS SOLUTIONS LLC, L=Delaware, ST=DE, C=US\
@@ -14,4 +14,4 @@ Link: https://dial.maqssolution.live/255KFM24.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

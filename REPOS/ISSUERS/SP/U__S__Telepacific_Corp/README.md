@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 349ms average time it took to download each certificate
+- 355ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://qcall.meta.tpx.net/certs/shaken_cacert.crt` | 06&#160;Apr&#160;24&#160;16:44&#160;UTC | true | [view](REPOS/135ba22af33ee37bfbe885e30a8b6e1084f02cca/README.md) |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

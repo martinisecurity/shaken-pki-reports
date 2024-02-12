@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 066K
 
-Tested At: 12 Feb 24 16:31 UTC\
+Tested At: 12 Feb 24 18:55 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -459 day(s)\
+Remaining Validity Period: -460 day(s)\
 Subject: CN=SHAKEN 066K, OU=SHAKEN, O=U Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/066K/8d407530-1355-4576-8fa1-d7ad1efe4299.pem
@@ -26,4 +26,4 @@ Link: https://certificates.transnexus.com/066K/8d407530-1355-4576-8fa1-d7ad1efe4
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

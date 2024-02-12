@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1stPoint Communications, LLC 463G
 
-Tested At: 12 Feb 24 16:42 UTC\
+Tested At: 12 Feb 24 19:06 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -340 day(s)\
 Subject: emailAddress=elevitt@1pcom.com, CN=SHAKEN 1stPoint Communications\\, LLC 463G, OU=NOC, O=1stPoint Communications\\, LLC, ST=New York, C=US, emailAddress=elevitt@1pcom.com\
@@ -26,4 +26,4 @@ Link: https://cr.sansay.com/463G/order/558_463G_53
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

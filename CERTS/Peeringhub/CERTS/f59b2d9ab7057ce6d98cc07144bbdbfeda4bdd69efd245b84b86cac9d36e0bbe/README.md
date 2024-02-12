@@ -2,7 +2,7 @@
 
 ## Certificate Losh Communications, Inc SHAKEN 149K 2024-02-12_000001
 
-Tested At: 12 Feb 24 16:53 UTC\
+Tested At: 12 Feb 24 19:18 UTC\
 Initial Validity Period: 195 day(s)\
 Remaining Validity Period: 195 day(s)\
 Subject: CN=Losh Communications\\, Inc SHAKEN 149K 2024-02-12_000001, O=Losh Communications\\, Inc, L=Springfield, ST=MO, C=US\
@@ -14,4 +14,4 @@ Link: https://nyc01.trunks2.calldecibel.com:5000/stirshaken_certs/149K.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

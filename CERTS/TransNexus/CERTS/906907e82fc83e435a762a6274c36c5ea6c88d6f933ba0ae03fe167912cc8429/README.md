@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 4036
 
-Tested At: 12 Feb 24 16:26 UTC\
+Tested At: 12 Feb 24 18:54 UTC\
 Initial Validity Period: 180 day(s)\
 Remaining Validity Period: 61 day(s)\
 Subject: CN=SHAKEN 4036, O=ATT, C=US\
@@ -16,4 +16,4 @@ Link: https://cert.sticr.att.net:8443/certs/att/ed4bb791-0bae-459e-ba4f-0f00c70c
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

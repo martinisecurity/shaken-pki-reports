@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 324K
 
-Tested At: 12 Feb 24 16:29 UTC\
+Tested At: 12 Feb 24 18:55 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -424 day(s)\
 Subject: CN=SHAKEN 324K, O=Complete Computer Solutions, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/abec0c83-e51d-4f69-927f-9ac7d5f33a5e/031a
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

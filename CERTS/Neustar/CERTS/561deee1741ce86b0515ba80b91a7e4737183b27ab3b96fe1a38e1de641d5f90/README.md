@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1591
 
-Tested At: 12 Feb 24 16:32 UTC\
+Tested At: 12 Feb 24 18:56 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 4 day(s)\
+Remaining Validity Period: 3 day(s)\
 Subject: CN=SHAKEN 1591, O=Southeast Nebraska Communications Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/199.263
@@ -25,4 +25,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/199.263
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

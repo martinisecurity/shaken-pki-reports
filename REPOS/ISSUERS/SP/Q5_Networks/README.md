@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 43ms average time it took to download each certificate
+- 97ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://www.q5networks.com/stirshaken/q5networks2025.pem` | 21&#160;Jun&#160;25&#160;04:00&#160;UTC | true | [view](REPOS/eb055ccfad1b4f2ba946fd10ed6dd5e2e06095e9/README.md) |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

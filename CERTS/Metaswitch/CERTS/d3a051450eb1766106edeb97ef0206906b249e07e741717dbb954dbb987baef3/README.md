@@ -2,9 +2,9 @@
 
 ## Certificate Buckeye SHAKEN Cert 7608
 
-Tested At: 12 Feb 24 16:26 UTC\
+Tested At: 12 Feb 24 18:54 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 1070 day(s)\
+Remaining Validity Period: 1069 day(s)\
 Subject: CN=Buckeye SHAKEN Cert 7608, O=Buckeye\\ , C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/80ac3a7475bf118d59c0c864b846ca67cf17d5e9
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/80ac3a7475bf118d59c0c864b846ca67cf17d5e
 | [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

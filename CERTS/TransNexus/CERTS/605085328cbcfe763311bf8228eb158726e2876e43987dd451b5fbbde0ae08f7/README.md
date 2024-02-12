@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 8128
 
-Tested At: 12 Feb 24 16:28 UTC\
+Tested At: 12 Feb 24 18:54 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -13 day(s)\
 Subject: CN=SHAKEN 8128, O=BCN Telecom, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/6c0344f9-59da-4a95-8f91-5ca4d2177a9a/cc3f
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

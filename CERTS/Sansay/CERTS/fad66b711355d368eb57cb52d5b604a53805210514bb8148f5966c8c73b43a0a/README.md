@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Socket Telecom LLC 554a
 
-Tested At: 12 Feb 24 16:45 UTC\
+Tested At: 12 Feb 24 19:09 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -102 day(s)\
 Subject: emailAddress=nelsonh@socket.net, CN=SHAKEN Socket Telecom LLC 554a, OU=Operations, O=Socket Telecom LLC, ST=Missouri, C=US, emailAddress=nelsonh@socket.net\
@@ -18,4 +18,4 @@ Link: https://cr.sansay.com/554a/order/125_554a_24
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

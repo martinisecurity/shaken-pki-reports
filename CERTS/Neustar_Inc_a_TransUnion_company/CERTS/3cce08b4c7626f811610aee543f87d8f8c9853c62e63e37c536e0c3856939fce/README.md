@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN PNCB
 
-Tested At: 12 Feb 24 16:33 UTC\
+Tested At: 12 Feb 24 18:57 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 123 day(s)\
+Remaining Validity Period: 122 day(s)\
 Subject: CN=SHAKEN PNCB, O=PNC Bank, C=US\
 Issuer: CN=Neustar UAT Enterprise Certified Caller Intermediate CA1, OU=www.ccid-uat.neustar, O=Neustar Inc a TransUnion company, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11617.10249.pem
@@ -16,4 +16,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11617.10249.pem
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 1.3.6.1.4.1.13568.100. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

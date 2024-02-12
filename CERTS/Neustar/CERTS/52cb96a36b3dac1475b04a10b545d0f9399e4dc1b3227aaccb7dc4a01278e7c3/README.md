@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 750J
 
-Tested At: 12 Feb 24 16:26 UTC\
+Tested At: 12 Feb 24 18:54 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -387 day(s)\
+Remaining Validity Period: -388 day(s)\
 Subject: CN=SHAKEN 750J, O=Microtalk USA\\, Inc., C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://appreg.telcoportal.com/mobileapps/neustar/Microtalk-Shaken.pem
@@ -25,4 +25,4 @@ Link: https://appreg.telcoportal.com/mobileapps/neustar/Microtalk-Shaken.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

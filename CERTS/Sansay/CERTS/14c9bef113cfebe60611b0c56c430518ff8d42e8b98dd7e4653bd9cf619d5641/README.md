@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Ytel Inc. 703J
 
-Tested At: 12 Feb 24 16:52 UTC\
+Tested At: 12 Feb 24 19:17 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 3 day(s)\
+Remaining Validity Period: 2 day(s)\
 Subject: CN=SHAKEN Ytel Inc. 703J, OU=Connect, O=Ytel Inc., ST=California, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/YtelVoice20230214
@@ -26,4 +26,4 @@ Link: https://cr.sansay.com/YtelVoice20230214
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

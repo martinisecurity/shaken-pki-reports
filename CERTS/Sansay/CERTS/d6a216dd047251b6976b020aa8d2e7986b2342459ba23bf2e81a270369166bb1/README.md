@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Zito Media Voice 624G
 
-Tested At: 12 Feb 24 16:52 UTC\
+Tested At: 12 Feb 24 19:17 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: -139 day(s)\
+Remaining Validity Period: -140 day(s)\
 Subject: CN=SHAKEN Zito Media Voice 624G, OU=Voice, O=Zito Media Voice, ST=Pennsylvania, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Zito_Media_Voice_624G
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Zito_Media_Voice_624G
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 624G', but common name is 'SHAKEN Zito Media Voice 624G' |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

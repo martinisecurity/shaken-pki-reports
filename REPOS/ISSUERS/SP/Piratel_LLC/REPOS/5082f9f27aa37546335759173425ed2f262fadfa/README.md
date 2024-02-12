@@ -3,8 +3,8 @@
 ## Piratel LLC
 
 Name: `https://certificates.piratel.com/piratel_20230907_e3b5b3828635760a.crt`\
-Tested At: 12 Feb 24 16:31 UTC\
-Time: 32ms
+Tested At: 12 Feb 24 18:55 UTC\
+Time: 19ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 32ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header has 'max-age' directive but it's value is less than 24 hours |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 691A
 
-Tested At: 12 Feb 24 16:29 UTC\
+Tested At: 12 Feb 24 18:54 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -346 day(s)\
 Subject: CN=SHAKEN 691A, O=DayStarr Communications, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/853eda31-5f44-42d5-81f9-871258ee4c96/e6ed
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

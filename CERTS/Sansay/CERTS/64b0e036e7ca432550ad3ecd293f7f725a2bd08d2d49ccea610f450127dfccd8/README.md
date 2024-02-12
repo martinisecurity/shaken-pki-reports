@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN SouthPoint Communications 205k
 
-Tested At: 12 Feb 24 16:34 UTC\
+Tested At: 12 Feb 24 18:59 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -290 day(s)\
+Remaining Validity Period: -291 day(s)\
 Subject: emailAddress=chris.duncan@soundcurve.com, CN=SHAKEN SouthPoint Communications 205k, OU=Operations, O=SouthPoint Communications, ST=California, C=US, emailAddress=chris.duncan@soundcurve.com\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/205k/order/247_205k_99
@@ -18,4 +18,4 @@ Link: https://cr.sansay.com/205k/order/247_205k_99
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

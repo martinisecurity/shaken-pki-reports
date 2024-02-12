@@ -2,7 +2,7 @@
 
 ## Certificate Empire SHAKEN 087H
 
-Tested At: 12 Feb 24 16:55 UTC\
+Tested At: 12 Feb 24 19:19 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -60 day(s)\
 Subject: CN=Empire SHAKEN 087H, OU=Network, O=Empire Telephone, C=US\
@@ -25,4 +25,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/Wlp54ZO4gz/087HNOV2023-7a28b8ee63
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

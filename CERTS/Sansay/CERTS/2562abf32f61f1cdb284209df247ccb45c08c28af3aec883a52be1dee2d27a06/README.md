@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN IDT America, Corp 363A
 
-Tested At: 12 Feb 24 16:38 UTC\
+Tested At: 12 Feb 24 19:02 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 15 day(s)\
 Subject: CN=SHAKEN IDT America\\, Corp 363A, O=IDT America\\, Corp, ST=New Jersey, C=US\
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/363A/429C7C70711E3820F0B8E1DEAE6FF32622648FA9.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 363A', but common name is 'SHAKEN IDT America, Corp 363A' |
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 363A', but common name is 'SHAKEN IDT America, Corp 363A' |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

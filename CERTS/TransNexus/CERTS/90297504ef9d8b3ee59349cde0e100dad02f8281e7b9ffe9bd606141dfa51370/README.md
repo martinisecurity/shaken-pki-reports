@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 4156
 
-Tested At: 12 Feb 24 16:31 UTC\
+Tested At: 12 Feb 24 18:55 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -49 day(s)\
 Subject: CN=SHAKEN 4156, O=Arvig, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/f0716e63-b288-44a2-8616-d4f89fc09da7/e93a
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

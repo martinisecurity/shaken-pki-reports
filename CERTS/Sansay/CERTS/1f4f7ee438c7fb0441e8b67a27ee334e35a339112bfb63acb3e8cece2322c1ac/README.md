@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 599J Technology Innovation Lab
 
-Tested At: 12 Feb 24 16:31 UTC\
+Tested At: 12 Feb 24 18:55 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 346 day(s)\
+Remaining Validity Period: 345 day(s)\
 Subject: CN=SHAKEN 599J Technology Innovation Lab, O=Technology Innovation Lab, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://certificates.smartcarrier.io/e408d99c046de505869f80e6baa30e812e24b452.cer
@@ -16,4 +16,4 @@ Link: https://certificates.smartcarrier.io/e408d99c046de505869f80e6baa30e812e24b
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

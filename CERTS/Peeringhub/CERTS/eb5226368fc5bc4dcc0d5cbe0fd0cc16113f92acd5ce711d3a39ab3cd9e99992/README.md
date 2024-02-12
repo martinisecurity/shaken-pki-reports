@@ -2,7 +2,7 @@
 
 ## Certificate Celerity Telecom SHAKEN 469K
 
-Tested At: 12 Feb 24 16:31 UTC\
+Tested At: 12 Feb 24 18:55 UTC\
 Initial Validity Period: 32 day(s)\
 Remaining Validity Period: 11 day(s)\
 Subject: CN=Celerity Telecom SHAKEN 469K, O=Celerity Telecom, L=SouthWest Ranches, ST=FL, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/469K/469K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

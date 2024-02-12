@@ -2,7 +2,7 @@
 
 ## Certificate PRD
 
-Tested At: 12 Feb 24 16:58 UTC\
+Tested At: 12 Feb 24 19:22 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 85 day(s)\
 Subject: C=US, ST=CA, L=San Francisco, O=LiveVox, OU=VOIP, CN=PRD\
@@ -31,4 +31,4 @@ Link: https://stir.na3.livevox.com/cert/2B6FU4qN
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

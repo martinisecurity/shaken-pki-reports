@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 732K Serius Network
 
-Tested At: 12 Feb 24 16:53 UTC\
+Tested At: 12 Feb 24 19:17 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 347 day(s)\
 Subject: CN=SHAKEN 732K Serius Network, O=Serius Network, C=US\
@@ -16,4 +16,4 @@ Link: https://cr.sansay.com/seriusnetwork
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

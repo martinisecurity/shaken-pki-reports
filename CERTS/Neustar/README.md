@@ -9,30 +9,30 @@
 
 #### Leaf Certificates
 
-- 523 certificates were included in the corpus being tested
+- 524 certificates were included in the corpus being tested
 - 301 certificates in the corpus were skipped because they are duplicates
 - 55 certificates in the corpus were skipped because they are expired
 - 10 certificates in the corpus were skipped because they are not currently trusted
-- 157 certificates being tested against the remaining rules
-- 1.21 issues on average found in unexpired, trusted, and non-compliant certificates
+- 158 certificates being tested against the remaining rules
+- 1.22 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
-- 16.56% of certificates are too old to be assessed against currently enforced expectations
-- 437 days is the average remaining validity for the certificates in the corpus
+- 16.46% of certificates are too old to be assessed against currently enforced expectations
+- 436 days is the average remaining validity for the certificates in the corpus
 - 439 days is the average initial validity for the certificates in the corpus
 - 14 certificates expire in the next 30 days
-- 1.01 average number of unexpired certificates per OCN observed
+- 1.02 average number of unexpired certificates per OCN observed
 - 155 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
 | 16 | [e_atis_ext_certificate_policies](ISSUES/e_atis_ext_certificate_policies/README.md) | ATIS1000080 |
-| 1 | [e_atis_ext_not_specified](ISSUES/e_atis_ext_not_specified/README.md) | ATIS1000080 |
+| 2 | [e_atis_ext_not_specified](ISSUES/e_atis_ext_not_specified/README.md) | ATIS1000080 |
 | 16 | [e_atis_signature_algorithm](ISSUES/e_atis_signature_algorithm/README.md) | ATIS1000080 |
 | 12 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
 | 4 | [e_atis_tn_auth_list_spc_format](ISSUES/e_atis_tn_auth_list_spc_format/README.md) | ATIS1000080 |
-| 141 | [e_us_cp_subject_sn_shall](ISSUES/e_us_cp_subject_sn_shall/README.md) | US_SHAKEN_CP |
+| 142 | [e_us_cp_subject_sn_shall](ISSUES/e_us_cp_subject_sn_shall/README.md) | US_SHAKEN_CP |
 
 #### CA Certificates
 
@@ -173,6 +173,7 @@
 | 09&#160;Aug&#160;23&#160;13:20&#160;UTC | SHAKEN 0347 | 08&#160;Aug&#160;24&#160;13:20&#160;UTC | true | [view](CERTS/f988ab5ee0dd4f4567b751218c74b5445d5feb2ff51b093ff22fa274a341bd0f/README.md) |
 | 10&#160;Aug&#160;23&#160;19:07&#160;UTC | SHAKEN 224C | 09&#160;Aug&#160;24&#160;19:07&#160;UTC | true | [view](CERTS/ba3da0750058fa6e250ed127b5261062c91dfbf3101e5eb4fb4ee807ec627b25/README.md) |
 | 11&#160;Aug&#160;23&#160;12:10&#160;UTC | SHAKEN 295K | 10&#160;Aug&#160;24&#160;12:10&#160;UTC | true | [view](CERTS/79ee4dcffb20bb4db21919afc2b6c875f73296161b62fe05eb8c196e176506db/README.md) |
+| 11&#160;Aug&#160;23&#160;15:15&#160;UTC | ATT SHAKEN 4036 | 10&#160;Aug&#160;24&#160;15:15&#160;UTC | true | [view](CERTS/49372c657eb2133ec6276fbf4c22dc39296c4aed5c58f4e200c9f7a3f88a49e1/README.md) |
 | 14&#160;Aug&#160;23&#160;18:29&#160;UTC | SHAKEN 710A | 13&#160;Aug&#160;24&#160;18:29&#160;UTC | true | [view](CERTS/950cfa503bc9ecd8cf39b3a5634fb12466bb4569874562943ad553cb6aa9f20a/README.md) |
 | 17&#160;Aug&#160;23&#160;03:33&#160;UTC | SHAKEN 709J | 16&#160;Aug&#160;24&#160;03:33&#160;UTC | true | [view](CERTS/301c4d7a49fe5a597c743184ea3b2be8d01702fe2368deae0a0146c1340889f7/README.md) |
 | 22&#160;Aug&#160;23&#160;03:31&#160;UTC | SHAKEN 776J | 21&#160;Aug&#160;24&#160;03:31&#160;UTC | true | [view](CERTS/c82ebdd6af8a92143b91446e782170281a1c8be67dad0faa739a3e9b84df81be/README.md) |
@@ -230,4 +231,4 @@
 | 05&#160;Oct&#160;22&#160;17:26&#160;UTC | Neustar Certified Caller ID SHAKEN CA-2 | 05&#160;Oct&#160;32&#160;17:26&#160;UTC | false | [view](CERTS/0bd95ecbb97c09de0df079ca41e10c360c4b5928ac56c496879a2c90c6bbffe4/README.md) |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

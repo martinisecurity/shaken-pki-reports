@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Convoso 758J
 
-Tested At: 12 Feb 24 16:58 UTC\
+Tested At: 12 Feb 24 19:22 UTC\
 Initial Validity Period: 35 day(s)\
 Remaining Validity Period: 7 day(s)\
 Subject: emailAddress=stir-shaken@convoso.com, CN=SHAKEN Convoso 758J, OU=Infrastructure, O=Convoso, ST=California, C=US, emailAddress=stir-shaken@convoso.com\
@@ -17,4 +17,4 @@ Link: https://stirshaken.s3.us-west-1.amazonaws.com/stirshaken.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 758J', but common name is 'SHAKEN Convoso 758J' |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

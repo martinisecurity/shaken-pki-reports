@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1RouteGroup Intermediate CA
 
-Tested At: 12 Feb 24 17:02 UTC\
+Tested At: 12 Feb 24 19:26 UTC\
 Initial Validity Period: 7300 day(s)\
 Remaining Validity Period: 7253 day(s)\
 Subject: CN=SHAKEN 1RouteGroup Intermediate CA, O=1RouteGroup, ST=Texas, C=US\
@@ -15,4 +15,4 @@ Issuer: CN=GBSDTech SHAKEN Root CA, O=GBSDTech, L=Ft Worth, ST=Texas, C=US
 | [e_atis_serial_number_size_ca](../../ISSUES/e_atis_serial_number_size_ca/README.md) | error | ATIS1000080 | STI certificates shall have a serial number that contains at least 64 bits, got 16 |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

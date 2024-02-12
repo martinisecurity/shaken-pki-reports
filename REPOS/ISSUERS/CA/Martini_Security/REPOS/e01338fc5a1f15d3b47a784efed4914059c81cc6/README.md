@@ -3,11 +3,11 @@
 ## Martini Security
 
 Name: `https://p.mtsec.me/2884/IE43lodate6H.pem`\
-Tested At: 12 Feb 24 16:59 UTC\
-Time: 84ms
+Tested At: 12 Feb 24 19:23 UTC\
+Time: 42ms
 
 ### Issues
 
 no warning, or error, or notice date level issues were found
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

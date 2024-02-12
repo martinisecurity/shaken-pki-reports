@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 745J
 
-Tested At: 12 Feb 24 16:58 UTC\
+Tested At: 12 Feb 24 19:22 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -109 day(s)\
 Subject: CN=SHAKEN 745J, O=TextMe Incorporated, C=US\
@@ -25,4 +25,4 @@ Link: https://textme-stirshaken.s3.us-west-2.amazonaws.com/textme-bundle_10-26-2
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Primo Dialler LLC 249K
 
-Tested At: 12 Feb 24 16:26 UTC\
+Tested At: 12 Feb 24 18:53 UTC\
 Initial Validity Period: 40 day(s)\
 Remaining Validity Period: -331 day(s)\
 Subject: CN=SHAKEN Primo Dialler LLC 249K, OU=Service Provider, O=Primo Dialler LLC, ST=Wyoming, C=US\
@@ -26,4 +26,4 @@ Link: http://5.161.152.107/191c4c42dd7fa6115e84100637e42c99.cer
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

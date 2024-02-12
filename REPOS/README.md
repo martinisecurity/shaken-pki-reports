@@ -4,25 +4,25 @@
 
 ### All Repository URLs
 
-- 10951 repository URLs were included in the corpus being tested
+- 10952 repository URLs were included in the corpus being tested
 - 824 repository URLs in the corpus were skipped because they were duplicated
-- 10127 repository URLs being tested against the remaining rules
+- 10128 repository URLs being tested against the remaining rules
 - 2.40 issues on average found in non-compliant certificate repository URLs
 - 31.42% of repository URLs contain one or more Error level issue
-- 30.98% of repository URLs contain one or more Warning level issue
+- 30.97% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 121ms average time it took to download each certificate
+- 99ms average time it took to download each certificate
 
 ### CA Operated Repository URLs
 
-- 10410 repository URLs were included in the corpus being tested
+- 10411 repository URLs were included in the corpus being tested
 - 689 repository URLs in the corpus were skipped because they were duplicated
-- 9721 repository URLs being tested against the remaining rules
+- 9722 repository URLs being tested against the remaining rules
 - 2.41 issues on average found in non-compliant certificate repository URLs
 - 29.01% of repository URLs contain one or more Error level issue
-- 28.58% of repository URLs contain one or more Warning level issue
+- 28.57% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 117ms average time it took to download each certificate
+- 94ms average time it took to download each certificate
 
 ### Service Provider Operated Repository URLs
 
@@ -42,15 +42,15 @@
 | Issuers | Certificates | Errors | Warnings | Notices |
 |----|--------------|--------|----------|---------|
 | [Comcast](ISSUERS/CA/Comcast/README.md) | 619 (6.37%) | 595 (96.12%) | 589 (95.15%) | 0 (0.00%) |
-| [Martini Security](ISSUERS/CA/Martini_Security/README.md) | 1208 (12.43%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Martini Security](ISSUERS/CA/Martini_Security/README.md) | 1209 (12.44%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
 | [Metaswitch](ISSUERS/CA/Metaswitch/README.md) | 36 (0.37%) | 36 (100.00%) | 0 (0.00%) | 0 (0.00%) |
 | [Neustar](ISSUERS/CA/Neustar/README.md) | 114 (1.17%) | 114 (100.00%) | 114 (100.00%) | 0 (0.00%) |
 | [Peeringhub](ISSUERS/CA/Peeringhub/README.md) | 20 (0.21%) | 20 (100.00%) | 20 (100.00%) | 0 (0.00%) |
 | [Ribbon Communications](ISSUERS/CA/Ribbon_Communications/README.md) | 49 (0.50%) | 49 (100.00%) | 49 (100.00%) | 0 (0.00%) |
 | [Sansay](ISSUERS/CA/Sansay/README.md) | 2003 (20.60%) | 2003 (100.00%) | 2003 (100.00%) | 0 (0.00%) |
 | [T-Mobile](ISSUERS/CA/T-Mobile/README.md) | 3 (0.03%) | 3 (100.00%) | 3 (100.00%) | 0 (0.00%) |
-| [TransNexus](ISSUERS/CA/TransNexus/README.md) | 5669 (58.32%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
-| **Total** | 9721 (100.00%) | 2820 (29.01%) | 2778 (28.58%) | 0 (0.00%) |
+| [TransNexus](ISSUERS/CA/TransNexus/README.md) | 5669 (58.31%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
+| **Total** | 9722 (100.00%) | 2820 (29.01%) | 2778 (28.57%) | 0 (0.00%) |
 
 ### Service Provider Operated Repository URLs
 
@@ -63,7 +63,7 @@
 | [AM Communications Labs Inc](ISSUERS/SP/AM_Communications_Labs_Inc/README.md) | 1 (0.25%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [ANI Networks](ISSUERS/SP/ANI_Networks/README.md) | 2 (0.49%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
 | [ATT](ISSUERS/SP/ATT/README.md) | 1 (0.25%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [ATT SHAKEN E-E](ISSUERS/SP/ATT_SHAKEN_E-E/README.md) | 1 (0.25%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
+| [ATT SHAKEN E-E](ISSUERS/SP/ATT_SHAKEN_E-E/README.md) | 2 (0.49%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
 | [AU TELECOM LLC](ISSUERS/SP/AU_TELECOM_LLC/README.md) | 1 (0.25%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Accessline Communications Corp](ISSUERS/SP/Accessline_Communications_Corp/README.md) | 1 (0.25%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Accessline Communications Corp.](ISSUERS/SP/Accessline_Communications_Corp_/README.md) | 1 (0.25%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -251,7 +251,7 @@
 | [Unified Office Inc](ISSUERS/SP/Unified_Office_Inc/README.md) | 1 (0.25%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Union Telephone Company](ISSUERS/SP/Union_Telephone_Company/README.md) | 1 (0.25%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [United Technology Group, Inc](ISSUERS/SP/United_Technology_Group__Inc/README.md) | 1 (0.25%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Unknown](ISSUERS/SP/Unknown/README.md) | 95 (23.40%) | 95 (100.00%) | 76 (80.00%) | 0 (0.00%) |
+| [Unknown](ISSUERS/SP/Unknown/README.md) | 94 (23.15%) | 94 (100.00%) | 75 (79.79%) | 0 (0.00%) |
 | [Utility Telecom Group, LLC](ISSUERS/SP/Utility_Telecom_Group__LLC/README.md) | 1 (0.25%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [VOIP ESSENTIAL INC](ISSUERS/SP/VOIP_ESSENTIAL_INC/README.md) | 0 (0.00%) | 0 (NaN%) | 0 (NaN%) | 0 (NaN%) |
 | [VOIP ESSENTIAL LLC](ISSUERS/SP/VOIP_ESSENTIAL_LLC/README.md) | 1 (0.25%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -292,4 +292,4 @@
 | Notices | Tests in which industry best practices are not followed. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

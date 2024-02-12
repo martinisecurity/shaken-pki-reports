@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 2116
 
-Tested At: 12 Feb 24 16:29 UTC\
+Tested At: 12 Feb 24 18:55 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -223 day(s)\
 Subject: CN=SHAKEN 2116, O=Nortex, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/9169f04b-375b-4897-b4e5-0b18e4f7f950/4b52
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

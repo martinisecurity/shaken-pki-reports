@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 651K
 
-Tested At: 12 Feb 24 16:31 UTC\
+Tested At: 12 Feb 24 18:55 UTC\
 Initial Validity Period: 367 day(s)\
 Remaining Validity Period: 152 day(s)\
 Subject: serialNumber=24094d07-6b8e-4255-80c7-e22802d15590, CN=SHAKEN 651K, O=Callsy Network LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.peeringhub.io/651K/651K.crt
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.4.1.37476.9000.64.1 |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

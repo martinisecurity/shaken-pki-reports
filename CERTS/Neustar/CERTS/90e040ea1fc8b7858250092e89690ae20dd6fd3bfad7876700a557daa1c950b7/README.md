@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 7076
 
-Tested At: 12 Feb 24 16:33 UTC\
+Tested At: 12 Feb 24 18:57 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 282 day(s)\
 Subject: CN=SHAKEN 7076, O=Midcontinent Communications, C=US\
@@ -16,4 +16,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11156.10216.pem
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

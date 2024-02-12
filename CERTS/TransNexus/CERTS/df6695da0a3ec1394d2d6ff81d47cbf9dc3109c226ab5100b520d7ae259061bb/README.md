@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1664
 
-Tested At: 12 Feb 24 16:27 UTC\
+Tested At: 12 Feb 24 18:54 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -40 day(s)\
 Subject: CN=SHAKEN 1664, O=SDN, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/2463bfed-79f7-400e-8255-0db43260a189/4700
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

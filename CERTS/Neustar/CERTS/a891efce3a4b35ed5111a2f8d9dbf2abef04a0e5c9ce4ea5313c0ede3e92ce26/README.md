@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN_0377
 
-Tested At: 12 Feb 24 16:26 UTC\
+Tested At: 12 Feb 24 18:53 UTC\
 Initial Validity Period: 1096 day(s)\
 Remaining Validity Period: 85 day(s)\
 Subject: C=US, ST=Georgia, L=Metter, O=Pineland Telephone Cooperative, OU=Service, CN=SHAKEN_0377\
@@ -31,4 +31,4 @@ Link: http://prod001-cr.rbbnidhub.com/MU7B8iqMRz/sign-cert1
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 292K
 
-Tested At: 12 Feb 24 16:55 UTC\
+Tested At: 12 Feb 24 19:19 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -150 day(s)\
 Subject: CN=SHAKEN 292K, O=Falcon Endeavors, C=US\
@@ -25,4 +25,4 @@ Link: https://ssc.getsipnav.com/certs/0ca730172b48ae249d823ea924275602b5f36450
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

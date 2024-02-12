@@ -2,7 +2,7 @@
 
 ## Certificate DiDCentral SHAKEN 756J
 
-Tested At: 12 Feb 24 16:55 UTC\
+Tested At: 12 Feb 24 19:19 UTC\
 Initial Validity Period: 35 day(s)\
 Remaining Validity Period: 17 day(s)\
 Subject: CN=DiDCentral SHAKEN 756J, O=DIDCentral LLC, ST=WY, C=US\
@@ -14,4 +14,4 @@ Link: https://ssc.getsipnav.com/certs/708a23325ba7a485c296e2ce35bd6314b9b818d5
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

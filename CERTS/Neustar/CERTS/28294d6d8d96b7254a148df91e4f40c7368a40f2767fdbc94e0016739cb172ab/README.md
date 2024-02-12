@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 750J
 
-Tested At: 12 Feb 24 16:26 UTC\
+Tested At: 12 Feb 24 18:54 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 314 day(s)\
+Remaining Validity Period: 313 day(s)\
 Subject: CN=SHAKEN 750J, O=Microtalk USA Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://appreg.telcoportal.com/mobileapps/neustar23/9c680c2b2d89e44b0a235be6685b8d.cer
@@ -16,4 +16,4 @@ Link: https://appreg.telcoportal.com/mobileapps/neustar23/9c680c2b2d89e44b0a235b
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

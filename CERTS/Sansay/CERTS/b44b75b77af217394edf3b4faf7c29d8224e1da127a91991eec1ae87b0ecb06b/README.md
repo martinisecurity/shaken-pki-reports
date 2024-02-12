@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J
 
-Tested At: 12 Feb 24 16:34 UTC\
+Tested At: 12 Feb 24 18:59 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 23 day(s)\
 Subject: CN=SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J, O=Greenfly Networks Inc dba Clearfly Communications, ST=Montana, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/210J/429C7C70711E3820F0B8E1DEAE6FF32622649096.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

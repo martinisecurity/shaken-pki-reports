@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN VOICE1 LLC 265K
 
-Tested At: 12 Feb 24 16:52 UTC\
+Tested At: 12 Feb 24 19:17 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 249 day(s)\
 Subject: CN=SHAKEN VOICE1 LLC 265K, OU=SYSOPS, O=VOICE1 LLC, ST=Oregon, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/VOICE1_LLC_265K
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

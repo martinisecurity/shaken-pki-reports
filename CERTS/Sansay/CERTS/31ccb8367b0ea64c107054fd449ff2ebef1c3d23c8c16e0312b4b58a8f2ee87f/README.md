@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Quality Voice & Data Inc. 548J
 
-Tested At: 12 Feb 24 16:42 UTC\
+Tested At: 12 Feb 24 19:06 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 18 day(s)\
 Subject: CN=SHAKEN Quality Voice & Data Inc. 548J, O=Quality Voice & Data Inc., ST=Nebraska, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/548J/429C7C70711E3820F0B8E1DEAE6FF3262264900D.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

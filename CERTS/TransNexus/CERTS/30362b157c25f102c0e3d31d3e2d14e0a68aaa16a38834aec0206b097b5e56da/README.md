@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 3303
 
-Tested At: 12 Feb 24 16:30 UTC\
+Tested At: 12 Feb 24 18:55 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -170 day(s)\
 Subject: CN=SHAKEN 3303, O=SRT Communications, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/e3d7800a-6347-4f55-bb14-76054cfd91c9/5758
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0732
 
-Tested At: 12 Feb 24 16:27 UTC\
+Tested At: 12 Feb 24 18:54 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -171 day(s)\
+Remaining Validity Period: -172 day(s)\
 Subject: CN=SHAKEN 0732, O=Michigan Broadband Services, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/10d5d33a-25e1-4ec4-8dcb-70aa26849d9f/3c884e1b55573f7026a1a3014791ff29.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/10d5d33a-25e1-4ec4-8dcb-70aa26849d9f/3c88
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

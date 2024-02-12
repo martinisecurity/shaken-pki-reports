@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 683G
 
-Tested At: 12 Feb 24 16:58 UTC\
+Tested At: 12 Feb 24 19:22 UTC\
 Initial Validity Period: 88 day(s)\
 Remaining Validity Period: 39 day(s)\
 Subject: O=BCM One Cloud Communications\\, LLC, C=US, serialNumber=B6CCEC9CC452C459C79A4C704B091790, CN=SHAKEN 683G\
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/CkqnFfGQVIgY.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

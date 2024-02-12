@@ -48,7 +48,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 66.67% of certificates are too old to be assessed against currently enforced expectations
-- 7047 days is the average remaining validity for the certificates in the corpus
+- 7046 days is the average remaining validity for the certificates in the corpus
 - 7300 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -81,4 +81,4 @@
 | 27&#160;Dec&#160;23&#160;06:18&#160;UTC | SHAKEN 1RouteGroup Intermediate CA | 22&#160;Dec&#160;43&#160;06:18&#160;UTC | true | [view](CERTS/de6fcb6ba446b8b669a53ed338795ce54b2e3f5be20320fef1644e10fe3b9c3a/README.md) |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

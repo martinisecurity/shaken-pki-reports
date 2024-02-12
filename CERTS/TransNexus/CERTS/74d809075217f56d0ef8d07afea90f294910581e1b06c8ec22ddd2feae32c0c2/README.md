@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 242K
 
-Tested At: 12 Feb 24 16:28 UTC\
+Tested At: 12 Feb 24 18:54 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -398 day(s)\
+Remaining Validity Period: -399 day(s)\
 Subject: CN=SHAKEN 242K, O=Freshphone\\, Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/6fa91173-e74d-4426-8148-04a0cbc063c6/16366530cc1fc80de4ad83e0e91963c1.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/6fa91173-e74d-4426-8148-04a0cbc063c6/1636
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

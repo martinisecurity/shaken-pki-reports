@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 807J
 
-Tested At: 12 Feb 24 16:32 UTC\
+Tested At: 12 Feb 24 18:55 UTC\
 Initial Validity Period: 60 day(s)\
 Remaining Validity Period: -172 day(s)\
 Subject: CN=SHAKEN 807J, O=SipPhony LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/807J/41a456cc-4c76-40d2-ac63-4ff93d72a
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

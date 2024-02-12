@@ -2,7 +2,7 @@
 
 ## Certificate ATT SHAKEN 4036
 
-Tested At: 12 Feb 24 16:26 UTC\
+Tested At: 12 Feb 24 18:54 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 298 day(s)\
 Subject: CN=ATT SHAKEN 4036, OU=AT&T Services\\, Inc., O=ATT SHAKEN E-E, L=Dallas, ST=Texas, C=US\
@@ -17,4 +17,4 @@ Link: https://cert.sticr.att.net:8443/certs/att/bf0e7932-fe6e-4a5a-9948-adafb133
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

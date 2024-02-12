@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 899J
 
-Tested At: 12 Feb 24 16:55 UTC\
+Tested At: 12 Feb 24 19:19 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -65 day(s)\
 Subject: CN=SHAKEN 899J, O=Telco Connection, C=US\
@@ -25,4 +25,4 @@ Link: https://ssc.getsipnav.com/certs/a1944342b1cb473c5a0df15cc7c75731d1a0e761
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

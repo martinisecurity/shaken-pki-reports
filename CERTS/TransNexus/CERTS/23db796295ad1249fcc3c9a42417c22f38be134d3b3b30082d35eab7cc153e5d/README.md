@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 737J
 
-Tested At: 12 Feb 24 16:57 UTC\
+Tested At: 12 Feb 24 19:21 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -207 day(s)\
 Subject: CN=SHAKEN 737J, OU=SHAKEN, O=US Internet Corp, C=US\
@@ -26,4 +26,4 @@ Link: https://sti.ravon.net/c/737J_2022-07-20
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

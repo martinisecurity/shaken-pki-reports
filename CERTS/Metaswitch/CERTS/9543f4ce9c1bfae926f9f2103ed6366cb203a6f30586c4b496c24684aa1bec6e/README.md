@@ -2,7 +2,7 @@
 
 ## Certificate Crosstel Tandem Inc SEPB SHAKEN Cert 357H
 
-Tested At: 12 Feb 24 16:26 UTC\
+Tested At: 12 Feb 24 18:54 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 812 day(s)\
 Subject: CN=Crosstel Tandem Inc SEPB SHAKEN Cert 357H, O=Crosstel Tandem Inc SEPB, C=US\
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/15812c8f761ade70a623766b81fb851b88f684b
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 357H', but common name is 'Crosstel Tandem Inc SEPB SHAKEN Cert 357H' |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

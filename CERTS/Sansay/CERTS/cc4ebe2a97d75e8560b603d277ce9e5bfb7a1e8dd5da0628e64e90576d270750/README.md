@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Godaddy 463K
 
-Tested At: 12 Feb 24 16:52 UTC\
+Tested At: 12 Feb 24 19:16 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 275 day(s)\
 Subject: CN=SHAKEN Godaddy 463K, OU=ENM-OPS, O=Godaddy, ST=Arizona, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Godaddy_463K
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 463K', but common name is 'SHAKEN Godaddy 463K' |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

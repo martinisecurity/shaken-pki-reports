@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 193E
 
-Tested At: 12 Feb 24 16:31 UTC\
+Tested At: 12 Feb 24 18:55 UTC\
 Initial Validity Period: 60 day(s)\
 Remaining Validity Period: -349 day(s)\
 Subject: CN=SHAKEN 193E, O=8x8 Inc, C=US\
@@ -25,4 +25,4 @@ Link: https://certificates.transnexus.com/193E/19df2172-5a30-4054-9028-c09c9c623
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

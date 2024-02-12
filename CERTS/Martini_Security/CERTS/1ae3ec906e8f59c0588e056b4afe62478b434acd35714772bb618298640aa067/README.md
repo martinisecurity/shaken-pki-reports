@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 186K
 
-Tested At: 12 Feb 24 16:53 UTC\
+Tested At: 12 Feb 24 19:18 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 137 day(s)\
 Subject: O=Go2Uno LLC, C=US, serialNumber=FA9A064E03B1B7C5FB9EECA4DCD23325, CN=SHAKEN 186K\
@@ -14,4 +14,4 @@ Link: https://go2uno.46labs.com
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

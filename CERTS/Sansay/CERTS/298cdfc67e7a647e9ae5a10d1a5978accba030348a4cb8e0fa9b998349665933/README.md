@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN CIMA Telecom, Inc 313K
 
-Tested At: 12 Feb 24 16:38 UTC\
+Tested At: 12 Feb 24 19:02 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -129 day(s)\
 Subject: emailAddress=jmedina@cimagroup.com, CN=SHAKEN CIMA Telecom\\, Inc 313K, OU=Operations, O=CIMA Telecom\\, Inc, ST=Florida, C=US, emailAddress=jmedina@cimagroup.com\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/313K/order/144_313K_152
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 313K', but common name is 'SHAKEN CIMA Telecom, Inc 313K' |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

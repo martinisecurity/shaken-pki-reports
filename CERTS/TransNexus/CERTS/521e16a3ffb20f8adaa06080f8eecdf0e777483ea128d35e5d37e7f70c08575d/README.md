@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 159H
 
-Tested At: 12 Feb 24 16:31 UTC\
+Tested At: 12 Feb 24 18:55 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -12 day(s)\
 Subject: CN=SHAKEN 159H, O=Edge Communications, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/159H/c8965a91-1e17-4289-9ccf-1b8c73e71
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

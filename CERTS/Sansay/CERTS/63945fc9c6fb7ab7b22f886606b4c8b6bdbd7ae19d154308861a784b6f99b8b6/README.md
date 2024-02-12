@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN VOIP OFFICE.COM LLC 389K
 
-Tested At: 12 Feb 24 16:53 UTC\
+Tested At: 12 Feb 24 19:18 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -108 day(s)\
 Subject: CN=SHAKEN VOIP OFFICE.COM LLC 389K, OU=Communications, O=VOIP OFFICE, ST=Michigan, C=US\
@@ -26,4 +26,4 @@ Link: https://nguc.voipoffice.com/stirshaken/VOIP_OFFICE.COM_LLC_389K
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

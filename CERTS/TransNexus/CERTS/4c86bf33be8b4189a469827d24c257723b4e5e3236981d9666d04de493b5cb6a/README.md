@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 8526
 
-Tested At: 12 Feb 24 16:32 UTC\
+Tested At: 12 Feb 24 18:56 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 267 day(s)\
 Subject: CN=SHAKEN 8526, O=MetTel, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/8526/5d8296aa-8e79-42db-b8ff-9c240cbed
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

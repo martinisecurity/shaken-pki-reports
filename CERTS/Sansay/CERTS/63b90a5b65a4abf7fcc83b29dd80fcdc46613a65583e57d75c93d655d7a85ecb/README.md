@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Socket Telecom LLC 554a
 
-Tested At: 12 Feb 24 16:45 UTC\
+Tested At: 12 Feb 24 19:09 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: 13 day(s)\
+Remaining Validity Period: 12 day(s)\
 Subject: CN=SHAKEN Socket Telecom LLC 554a, O=Socket Telecom LLC, ST=Missouri, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/554a/order/219_554a_24
@@ -18,4 +18,4 @@ Link: https://cr.sansay.com/554a/order/219_554a_24
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 554a', but common name is 'SHAKEN Socket Telecom LLC 554a' |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

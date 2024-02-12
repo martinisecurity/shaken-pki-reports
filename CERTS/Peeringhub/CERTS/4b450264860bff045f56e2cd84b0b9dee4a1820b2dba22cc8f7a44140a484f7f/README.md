@@ -2,7 +2,7 @@
 
 ## Certificate Georgialina Networks 020624 SHAKEN 665K
 
-Tested At: 12 Feb 24 16:55 UTC\
+Tested At: 12 Feb 24 19:19 UTC\
 Initial Validity Period: 32 day(s)\
 Remaining Validity Period: 25 day(s)\
 Subject: CN=Georgialina Networks 020624 SHAKEN 665K, O=Georgialina Networks, L=Martinez, ST=GA, C=US\
@@ -14,4 +14,4 @@ Link: https://sip.gnvoip.net:5000/stirshaken_certs/665K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

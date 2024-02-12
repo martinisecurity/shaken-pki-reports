@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Dalton Utilities 3139
 
-Tested At: 12 Feb 24 16:52 UTC\
+Tested At: 12 Feb 24 19:16 UTC\
 Initial Validity Period: 180 day(s)\
 Remaining Validity Period: 135 day(s)\
 Subject: CN=SHAKEN Dalton Utilities 3139, OU=Dalton Utilities 3139, O=Dalton Utilities, ST=Georgia, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Dalton_Utilities_3139
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC

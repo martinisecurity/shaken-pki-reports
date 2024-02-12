@@ -2,7 +2,7 @@
 
 ## Certificate Farmers Telecommunications Inc SHAKEN Cert 2188
 
-Tested At: 12 Feb 24 16:26 UTC\
+Tested At: 12 Feb 24 18:54 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 819 day(s)\
 Subject: CN=Farmers Telecommunications Inc SHAKEN Cert 2188, O=Farmers Telecommunications Inc, C=US\
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/7cd1ca9605d897bf552d7470db39657b5b2c843
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 2188', but common name is 'Farmers Telecommunications Inc SHAKEN Cert 2188' |
 
 
-Generated: 12 Feb 24 17:02 UTC
+Generated: 12 Feb 24 19:26 UTC
