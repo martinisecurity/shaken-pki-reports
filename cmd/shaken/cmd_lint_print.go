@@ -205,7 +205,7 @@ func PrintCertificateReport(w io.Writer, r *LintCommandItem) {
 		fmt.Fprintln(w)
 	}
 	fmt.Fprintln(w)
-	fmt.Fprintf(w, "[View certificate details](https://understandingwebpki.com/?cert=%s)\n", url.QueryEscape(base64.StdEncoding.EncodeToString(r.Certificate.Raw)))
+	fmt.Fprintf(w, "[View certificate details](https://x509.io/?cert=%s)\n", url.QueryEscape(base64.StdEncoding.EncodeToString(r.Certificate.Raw)))
 	fmt.Fprintln(w)
 
 	if r.CertificateResult.HasProblems() {
