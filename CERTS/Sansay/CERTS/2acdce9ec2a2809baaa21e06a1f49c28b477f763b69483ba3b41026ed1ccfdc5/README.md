@@ -2,19 +2,19 @@
 
 ## Certificate SHAKEN InteractiveTel, LLC 920J
 
-Tested At: 12 Feb 24 19:15 UTC\
+Tested At: 05 Apr 24 18:52 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: 23 day(s)\
+Remaining Validity Period: -30 day(s)\
 Subject: CN=SHAKEN InteractiveTel\\, LLC 920J, O=InteractiveTel\\, LLC, ST=Texas, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/920J/429C7C70711E3820F0B8E1DEAE6FF3262264908E.pem
 
-[View certificate details](https://understandingwebpki.com/?cert=MIICyjCCAm%2BgAwIBAgIUQpx8cHEeOCDwuOHerm%2FzJiJkkI4wCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9ybmlhMRswGQYDVQQKDBJTYW5zYXkgQ29ycG9yYXRpb24xEjAQBgNVBAsMCVNhbnNheSBDQTEwMC4GA1UEAwwnU0hBS0VOIFNhbnNheSBJbnRlcm1lZGlhdGUgQ0EgVVMgV0VTVCAxMB4XDTI0MDIwNDIwMjcxMloXDTI0MDMwNTIwMjcxMlowZTELMAkGA1UEBhMCVVMxDjAMBgNVBAgMBVRleGFzMRwwGgYDVQQKDBNJbnRlcmFjdGl2ZVRlbCwgTExDMSgwJgYDVQQDDB9TSEFLRU4gSW50ZXJhY3RpdmVUZWwsIExMQyA5MjBKMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEjHKQ3%2FT360Cb2diP9uObh0JqxxA1R5Dzno2vLhHsihhkJgjuWfiMnnNcp05LFh73ggwquASoWuxbeLEcecZi1KOB2zCB2DAWBggrBgEFBQcBGgQKMAigBhYEOTIwSjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQQwHQYDVR0OBBYEFEzpkbnSJVNZqafxkTPtmsYetg7aMB8GA1UdIwQYMBaAFKzTk%2FVDQ8wKvkVYFxN9knzcwwFGMEcGA1UdHwRAMD4wPKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybDAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNJADBGAiEA%2BMvdN%2FU5tEi0m%2BzWmbOxTIq3HTnlXXSIsDOr8FyhNQICIQD5yQjbZSaMSVCFkA%2BYOXJUV9sgkd015UO0tSpTDkK9Ug%3D%3D)
+[View certificate details](https://x509.io/?cert=MIICyjCCAm%2BgAwIBAgIUQpx8cHEeOCDwuOHerm%2FzJiJkkI4wCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9ybmlhMRswGQYDVQQKDBJTYW5zYXkgQ29ycG9yYXRpb24xEjAQBgNVBAsMCVNhbnNheSBDQTEwMC4GA1UEAwwnU0hBS0VOIFNhbnNheSBJbnRlcm1lZGlhdGUgQ0EgVVMgV0VTVCAxMB4XDTI0MDIwNDIwMjcxMloXDTI0MDMwNTIwMjcxMlowZTELMAkGA1UEBhMCVVMxDjAMBgNVBAgMBVRleGFzMRwwGgYDVQQKDBNJbnRlcmFjdGl2ZVRlbCwgTExDMSgwJgYDVQQDDB9TSEFLRU4gSW50ZXJhY3RpdmVUZWwsIExMQyA5MjBKMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEjHKQ3%2FT360Cb2diP9uObh0JqxxA1R5Dzno2vLhHsihhkJgjuWfiMnnNcp05LFh73ggwquASoWuxbeLEcecZi1KOB2zCB2DAWBggrBgEFBQcBGgQKMAigBhYEOTIwSjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQQwHQYDVR0OBBYEFEzpkbnSJVNZqafxkTPtmsYetg7aMB8GA1UdIwQYMBaAFKzTk%2FVDQ8wKvkVYFxN9knzcwwFGMEcGA1UdHwRAMD4wPKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybDAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNJADBGAiEA%2BMvdN%2FU5tEi0m%2BzWmbOxTIq3HTnlXXSIsDOr8FyhNQICIQD5yQjbZSaMSVCFkA%2BYOXJUV9sgkd015UO0tSpTDkK9Ug%3D%3D)
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 920J', but common name is 'SHAKEN InteractiveTel, LLC 920J' |
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 12 Feb 24 19:26 UTC
+Generated: 05 Apr 24 19:04 UTC

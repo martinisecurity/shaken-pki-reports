@@ -2,14 +2,14 @@
 
 ## Certificate SHAKEN 983J
 
-Tested At: 12 Feb 24 18:54 UTC\
+Tested At: 05 Apr 24 18:41 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -426 day(s)\
+Remaining Validity Period: -479 day(s)\
 Subject: CN=SHAKEN 983J, O=ESI, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/51308205f383cd9d5f8f4559b8078a30.pem
 
-[View certificate details](https://understandingwebpki.com/?cert=MIICwzCCAmmgAwIBAgIQScVPiEutQfWigu6YlfnLcDAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjIxMjA1MjAxODA3WhcNMjIxMjEyMjAxODA2WjAxMQswCQYDVQQGEwJVUzEMMAoGA1UEChMDRVNJMRQwEgYDVQQDEwtTSEFLRU4gOTgzSjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABLUbzHn1pytq7L5tJJvRbm8wvvPtTWfUrDkdADgLq%2BUCRoM0gsDHLKsnHk%2FHNJftP1ylbXie6oFSgvihCrkjtumjggE8MIIBODAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAdBgNVHQ4EFgQUQWRmg%2BfgpyZqaN3%2Bz09Om8iTYswwHwYDVR0jBBgwFoAUMPX18rfhSwsPEHV9SKSQ8T2LKCowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEDMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAWBggrBgEFBQcBGgQKMAigBhYEOTgzSjAKBggqhkjOPQQDAgNIADBFAiB9m0rRgVXJ1HlpCxE8WRmRMh7%2BnohbXgnCSwVAvpMuRQIhAN69tNyLPYFre6eMZg62mnPm%2FQo%2BmadCWphjpVD%2B1cXM)
+[View certificate details](https://x509.io/?cert=MIICwzCCAmmgAwIBAgIQScVPiEutQfWigu6YlfnLcDAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjIxMjA1MjAxODA3WhcNMjIxMjEyMjAxODA2WjAxMQswCQYDVQQGEwJVUzEMMAoGA1UEChMDRVNJMRQwEgYDVQQDEwtTSEFLRU4gOTgzSjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABLUbzHn1pytq7L5tJJvRbm8wvvPtTWfUrDkdADgLq%2BUCRoM0gsDHLKsnHk%2FHNJftP1ylbXie6oFSgvihCrkjtumjggE8MIIBODAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAdBgNVHQ4EFgQUQWRmg%2BfgpyZqaN3%2Bz09Om8iTYswwHwYDVR0jBBgwFoAUMPX18rfhSwsPEHV9SKSQ8T2LKCowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEDMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAWBggrBgEFBQcBGgQKMAigBhYEOTgzSjAKBggqhkjOPQQDAgNIADBFAiB9m0rRgVXJ1HlpCxE8WRmRMh7%2BnohbXgnCSwVAvpMuRQIhAN69tNyLPYFre6eMZg62mnPm%2FQo%2BmadCWphjpVD%2B1cXM)
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/5130
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 19:26 UTC
+Generated: 05 Apr 24 19:04 UTC

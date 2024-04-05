@@ -12,16 +12,13 @@ Description: STI intermediate and end-entity certificates shall include a Certif
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../../CERTS/a037bd3bca14bd52993d5449264f63b11eb8cda01885268c849b97c043444820/README.md) | The Certificate Policies extension is marked as critical |
+| error | Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../../CERTS/6d933f79b12eb44c22c5fef74073e054fa5c31aa25a75811d8a032f3d894ab24/README.md) | The Certificate Policies extension is marked as critical |
 | error | Plivo Inc | [view](../../CERTS/fed50200daa631dd0cd7b74969c780f8d456dfd31db156c6cbea276f5a9a4cbf/README.md) | The Certificate Policies extension is marked as critical |
-| error | HD CARRIER LLC | [view](../../CERTS/d61794931ed919fde06b2ea87b472356ae5b2a87476516b62bcf6c5d58a1f996/README.md) | The Certificate Policies extension is marked as critical |
 | error | DISH Wireless L.L.C.SHAKEN.490J | [view](../../CERTS/2943713c56f0705ed027ecffced5eb89cb1c36bb5386bdc36a6b8e5618ca2c9c/README.md) | The Certificate Policies extension is marked as critical |
-| error | Google SHAKEN cert 969H | [view](../../CERTS/219583be0a46879699b163cfc1c6ee25f2fae2ea6c83a5889fd211a03ce88d44/README.md) | The Certificate Policies extension is marked as critical |
-| error | Google SHAKEN cert 969H | [view](../../CERTS/bcb2b91c1a3df613ba4f9e298d10bc26c44554cf155845b60106c0aea06588cb/README.md) | The Certificate Policies extension is marked as critical |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 12 Feb 24 19:26 UTC
+Generated: 05 Apr 24 19:04 UTC

@@ -13,11 +13,10 @@ Description: The Common Name attribute shall include the text string `SHAKEN` to
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
 | error | Plivo Inc | [view](../../CERTS/fed50200daa631dd0cd7b74969c780f8d456dfd31db156c6cbea276f5a9a4cbf/README.md) | Common Name attribute 'Plivo Inc' does not contain 'SHAKEN' |
-| error | HD CARRIER LLC | [view](../../CERTS/d61794931ed919fde06b2ea87b472356ae5b2a87476516b62bcf6c5d58a1f996/README.md) | Common Name attribute 'HD CARRIER LLC' does not contain 'SHAKEN' |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 12 Feb 24 19:26 UTC
+Generated: 05 Apr 24 19:04 UTC

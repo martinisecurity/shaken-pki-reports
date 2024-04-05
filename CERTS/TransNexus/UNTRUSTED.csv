@@ -1,7 +1,6 @@
 Org Name,CN,Cert
 "TransNexus","TCN SHAKEN 706J","https://certificates.transnexus.com/706J/9a9ea71d-1c8c-424c-8109-df524a4633d8.crt"
 "TransNexus","MobileSphere SHAKEN 873J","https://certificates.transnexus.com/873J/ac03ff61-e0df-456a-b2b1-d4a8d57afcff.pem"
-"TransNexus","Fusion Connect SHAKEN 2720","https://prod001-cr.rbbnidhub.com/8ZJdVFg7gz/2"
 "TransNexus","CCI SHAKEN 663J","https://certificates.transnexus.com/663J/0b51e9f5-0e35-4d02-acef-5c91c3a6b903.pem"
 "Voxtelesys","SHAKEN 597J","https://certificates.transnexus.com/597J/6572b8e4-01de-48c3-9b11-d21cd134c569.pem"
 "CMS Internet","SHAKEN 755J","https://certificates.transnexus.com/755J/5e526fc6-7b0a-43a5-bb13-263d7edc74e3.pem"
@@ -313,8 +312,8 @@ Org Name,CN,Cert
 "SIP.US LLC","SHAKEN 738J","https://certificates.clearip.com/bd65ad46-d349-42b3-b28c-24436475d793/e054aab41422166cb18f62755c06360b.pem"
 "Altaworx","SHAKEN 459J","https://certificates.clearip.com/d3d6dbfc-2914-49c7-8f47-d0aa5bd5d764/6e0df5aab72d070417858423b3f50a35.pem"
 "USA Digital","SHAKEN 366G","https://certificates.clearip.com/e9497931-96b3-4ff8-8306-1b1273847a4d/664da3349fd259a9a51e89e03db614e0.pem"
-"SIP.US LLC","SHAKEN 738J","https://certificates.clearip.com/fa6a5cd3-a6c2-4c98-9995-b87249365948/a3af8e35746ebb41aac8afeb72e0d244.pem"
 "Lumos Networks","SHAKEN 0226","https://certificates.clearip.com/f8a68e44-8fb0-4f28-b533-c4df27ed8e1b/cdd3b511b36a1e55582d685e00872a44.pem"
+"SIP.US LLC","SHAKEN 738J","https://certificates.clearip.com/fa6a5cd3-a6c2-4c98-9995-b87249365948/a3af8e35746ebb41aac8afeb72e0d244.pem"
 "Brightlink Communications LLC","SHAKEN 551G","https://certificates.transnexus.com/551G/cda98320-b55d-4677-b2f3-771ab42f88f2.pem"
 "Hypercore Networks, Inc","SHAKEN 291K","https://certificates.clearip.com/b66a7496-cdd4-46e3-b219-cb0ecdc80d22/dd9ef96fbf98f0935e2baf5a0813aabc.pem"
 "iTalkGlobal","SHAKEN 749J","https://certificates.clearip.com/d7bfa171-ff4f-483d-849b-3f987c919d43/d231dd34f8310b359216e546f8265010.pem"

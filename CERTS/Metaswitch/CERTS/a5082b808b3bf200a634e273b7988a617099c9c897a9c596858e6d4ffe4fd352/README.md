@@ -2,14 +2,14 @@
 
 ## Certificate Sonic Telecom SHAKEN cert 433E
 
-Tested At: 12 Feb 24 19:17 UTC\
+Tested At: 05 Apr 24 18:53 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 138 day(s)\
+Remaining Validity Period: 85 day(s)\
 Subject: CN=Sonic Telecom SHAKEN cert 433E, O=Sonic Telecom, ST=CA, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://crs.qcall.sonic.net/certs/soniccertchain.crt
 
-[View certificate details](https://understandingwebpki.com/?cert=MIICYjCCAgigAwIBAgIQPCOrN3MeUy1qrCEGFArOhTAKBggqhkjOPQQDAjAtMSswKQYDVQQDDCJNZXRhc3dpdGNoIFNUSS1DQSBTSEFLRU4gSXNzdWluZyAxMB4XDTIxMDYzMDE2NTUwOVoXDTI0MDYyOTE2NTUwOVowWzELMAkGA1UEBhMCVVMxCzAJBgNVBAgMAkNBMRYwFAYDVQQKDA1Tb25pYyBUZWxlY29tMScwJQYDVQQDDB5Tb25pYyBUZWxlY29tIFNIQUtFTiBjZXJ0IDQzM0UwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQ6GeyQqFKg0VoXenwReqAbSPAUj0yc%2Fvbfb1UXbA6lGYGq%2BmgF%2FddnFitygzQwUygMVXcFwHcLVeZxl%2BtPIx1Ho4HbMIHYMAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgXgMBYGCCsGAQUFBwEaBAowCKAGFgQ0MzNFMEcGA1UdHwRAMD4wPKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQEwHQYDVR0OBBYEFAhGRE8YHUsjai5BOfmK6U7QxtQvMB8GA1UdIwQYMBaAFM0epwAQENoyHWkaOdXSRgssPIfWMAoGCCqGSM49BAMCA0gAMEUCIQD%2FtOUImTEmlFitBgjZSo4r7YVRuZrUlpvr9NfEOe3IqAIgGxrMGbQn9Ri8u8jnmfRsBE6btOt662Jtr97R9FRk63g%3D)
+[View certificate details](https://x509.io/?cert=MIICYjCCAgigAwIBAgIQPCOrN3MeUy1qrCEGFArOhTAKBggqhkjOPQQDAjAtMSswKQYDVQQDDCJNZXRhc3dpdGNoIFNUSS1DQSBTSEFLRU4gSXNzdWluZyAxMB4XDTIxMDYzMDE2NTUwOVoXDTI0MDYyOTE2NTUwOVowWzELMAkGA1UEBhMCVVMxCzAJBgNVBAgMAkNBMRYwFAYDVQQKDA1Tb25pYyBUZWxlY29tMScwJQYDVQQDDB5Tb25pYyBUZWxlY29tIFNIQUtFTiBjZXJ0IDQzM0UwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQ6GeyQqFKg0VoXenwReqAbSPAUj0yc%2Fvbfb1UXbA6lGYGq%2BmgF%2FddnFitygzQwUygMVXcFwHcLVeZxl%2BtPIx1Ho4HbMIHYMAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgXgMBYGCCsGAQUFBwEaBAowCKAGFgQ0MzNFMEcGA1UdHwRAMD4wPKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQEwHQYDVR0OBBYEFAhGRE8YHUsjai5BOfmK6U7QxtQvMB8GA1UdIwQYMBaAFM0epwAQENoyHWkaOdXSRgssPIfWMAoGCCqGSM49BAMCA0gAMEUCIQD%2FtOUImTEmlFitBgjZSo4r7YVRuZrUlpvr9NfEOe3IqAIgGxrMGbQn9Ri8u8jnmfRsBE6btOt662Jtr97R9FRk63g%3D)
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
@@ -29,4 +29,4 @@ Link: https://crs.qcall.sonic.net/certs/soniccertchain.crt
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 19:26 UTC
+Generated: 05 Apr 24 19:04 UTC

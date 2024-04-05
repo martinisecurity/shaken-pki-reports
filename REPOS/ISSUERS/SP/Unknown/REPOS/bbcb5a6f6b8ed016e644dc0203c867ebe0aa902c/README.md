@@ -3,7 +3,7 @@
 ## Unknown
 
 Name: `https://stirshaken.bts.io/api/v1/certificates/b3f8527d0c31ee0d9d9e19da01e8cf68.cer`\
-Tested At: 12 Feb 24 19:22 UTC\
+Tested At: 05 Apr 24 19:00 UTC\
 Time: 3000ms
 
 ### Issues
@@ -12,4 +12,4 @@ Time: 3000ms
 |------|------|--------|---------|
 | [e_request_timeout](../../ISSUES/e_request_timeout/README.md) | error | System | Request timed out (3s) |
 
-Generated: 12 Feb 24 19:26 UTC
+Generated: 05 Apr 24 19:04 UTC

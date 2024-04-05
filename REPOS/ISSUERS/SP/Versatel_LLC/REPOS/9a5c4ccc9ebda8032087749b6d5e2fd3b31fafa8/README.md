@@ -3,8 +3,8 @@
 ## Versatel LLC
 
 Name: `https://cert.46labs.com`\
-Tested At: 12 Feb 24 18:54 UTC\
-Time: 202ms
+Tested At: 05 Apr 24 18:39 UTC\
+Time: 240ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 202ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 12 Feb 24 19:26 UTC
+Generated: 05 Apr 24 19:04 UTC

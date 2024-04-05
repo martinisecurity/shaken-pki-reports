@@ -12,7 +12,7 @@ Description: STI certificates shall have a serial number that contains at least 
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../../CERTS/a037bd3bca14bd52993d5449264f63b11eb8cda01885268c849b97c043444820/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
+| error | Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../../CERTS/6d933f79b12eb44c22c5fef74073e054fa5c31aa25a75811d8a032f3d894ab24/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 62 |
 | error | Plivo Inc | [view](../../CERTS/fed50200daa631dd0cd7b74969c780f8d456dfd31db156c6cbea276f5a9a4cbf/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 60 |
 
 ### CA Certificates
@@ -20,4 +20,4 @@ Description: STI certificates shall have a serial number that contains at least 
 No error, warning, or notice level issues were found
 
 
-Generated: 12 Feb 24 19:26 UTC
+Generated: 05 Apr 24 19:04 UTC

@@ -2,14 +2,14 @@
 
 ## Voice SY LLC Info
 
-- 2 repository URLs were included in the corpus being tested
-- 1 repository URLs in the corpus were skipped because they were duplicated
+- 1 repository URLs were included in the corpus being tested
+- 0 repository URLs in the corpus were skipped because they were duplicated
 - 1 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 242ms average time it took to download each certificate
+- 197ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://primodialer2.46labs.com/primodialer2.pem` | 17&#160;Dec&#160;24&#160;13:02&#160;UTC | true | [view](REPOS/362f0d216e37b109465f2951e993609ce2e907c0/README.md) |
 
 
-Generated: 12 Feb 24 19:26 UTC
+Generated: 05 Apr 24 19:04 UTC

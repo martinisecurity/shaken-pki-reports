@@ -19,7 +19,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 432 days is the average remaining validity for the certificates in the corpus
+- 430 days is the average remaining validity for the certificates in the corpus
 - 429 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 - 1.24 average number of unexpired certificates per OCN observed
@@ -49,7 +49,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 4287 days is the average remaining validity for the certificates in the corpus
+- 4278 days is the average remaining validity for the certificates in the corpus
 - 4309 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -103,4 +103,4 @@
 | 01&#160;Aug&#160;23&#160;16:36&#160;UTC | Telonium SHAKEN Intermediate G1 | 01&#160;Aug&#160;33&#160;16:36&#160;UTC | false | [view](CERTS/8c0ef8682826bec79a8c64881899f6a5a4a1d52dfebe28ae419c23f85df96ea0/README.md) |
 
 
-Generated: 12 Feb 24 19:26 UTC
+Generated: 05 Apr 24 19:04 UTC

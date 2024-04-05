@@ -12,7 +12,6 @@ Description: HTTP response shall have StatusCode 200
 | `http://5.161.202.148/ec256-public.pem` |  | true | [view](../../REPOS/10cdeab73173db505c9980f673c637dce63d177f/README.md) |
 | `http://sip.ash.bmc.dlr.freevoicepbx.com/Freevoice_963J` |  | true | [view](../../REPOS/9c0c0f256674de7c64fcc7a8f58c28e19d36e8d1/README.md) |
 | `https://187.174.67.118:8080/7075515eb2d150fc98c43e794c07bbca.cer` |  | true | [view](../../REPOS/d8faee293b08466701e0b503002bc7343687408c/README.md) |
-| `https://187.174.68.251:8080/7075515eb2d150fc98c43e794c07bbca.cer` |  | true | [view](../../REPOS/08f75793f66de82676ee55430a54822033ae8662/README.md) |
 | `https://app.connexcs.com/api/stir-shaken/cert/41.crt` |  | true | [view](../../REPOS/cc2f8a40c2bfec30ddc6c0b45b770990ddcae1d7/README.md) |
 | `https://app.connexcs.com/api/stir-shaken/cert/45.crt` |  | true | [view](../../REPOS/2260b336dfad8a7a8197566bbca1f4ce46bb7dea/README.md) |
 | `https://appreg.telcoportal.com/mobileapps/neustar23/9c680c2b2d89e44b0a235be6685bbc8d.cer` |  | true | [view](../../REPOS/f4a5c2add2bd45c803d248da76f20614f50d8090/README.md) |
@@ -24,6 +23,7 @@ Description: HTTP response shall have StatusCode 200
 | `https://cert2.sticr.att.net:8443/sti-cr/att-stica1661870921294-cert.crt` |  | true | [view](../../REPOS/1b1e3533177b65b2ec075ce13f8cb1ab77d996f6/README.md) |
 | `https://cert2.sticr.att.net:8443/sti-cr/att-stica1669224827804-cert.crt` |  | true | [view](../../REPOS/65bce14026acb07043fb1f2bce936071e23bebd8/README.md) |
 | `https://cert2.sticr.att.net:8443/sti-cr/att-stica1683567574984-cert.crt` |  | true | [view](../../REPOS/4f3540566a280856005a2a2784a22866ff8bd10d/README.md) |
+| `https://cert2.sticr.att.net:8443/sti-cr/att-stica1697468675203-cert.crt` |  | true | [view](../../REPOS/238d1db9a65aad4c2c9960d1e2b9d8dbae4a7015/README.md) |
 | `https://certs.sip.wtsky.net/prod/shaken-7-2024.cer` |  | true | [view](../../REPOS/ea4b2040120552c99b81d12bd391377525a380dc/README.md) |
 | `https://commtrunks.46labs.com/cert.pem` |  | true | [view](../../REPOS/93169ed4244a2f0b6f9ab8fd7deb44f4d2571207/README.md) |
 | `https://cr.veriswitch.com/amcom/cd3746aff04fc44f7b93bc7000d311e2.cer` |  | true | [view](../../REPOS/2ce9a86d155867d4f02f7880fa4f2809bff1e7e0/README.md) |
@@ -41,6 +41,8 @@ Description: HTTP response shall have StatusCode 200
 | `https://cr.xcastlabs.net/1685577600/xclsshaken.pem` |  | true | [view](../../REPOS/27a18bec4e6bb648598618f6db4554093d6a1877/README.md) |
 | `https://cr.xcastlabs.net/1688106600/xclsshaken.pem` |  | true | [view](../../REPOS/cdadac9660d1032fbfee0ddd93e2265dceecde3f/README.md) |
 | `https://cr.xcastlabs.net/1690612200/xclsshaken.pem` |  | true | [view](../../REPOS/98514f1f2d7ae4af185548e50dc227855ef56790/README.md) |
+| `https://cr.xcastlabs.net/1693117800/xclsshaken.pem` |  | true | [view](../../REPOS/d9b351f8e4eb469fef37cb0197f8f3f7e57fc301/README.md) |
+| `https://cr.xcastlabs.net/1695623400/xclsshaken.pem` |  | true | [view](../../REPOS/55e13be263abf4dab3b93e500ae3909bdaebaa15/README.md) |
 | `https://dial.maqssolution.live/255K.pem` |  | true | [view](../../REPOS/adf028fff3c5bfdb49037b7d051913539200fab7/README.md) |
 | `https://dial.maqssolution.live/255KAM23.pem` |  | true | [view](../../REPOS/cf0b501908e53481d8d7ddfbe22f842967ceef09/README.md) |
 | `https://dial.maqssolution.live/255KAS23.pem` |  | true | [view](../../REPOS/7deb6354f052fb85936f89d97049e6c1c49a2221/README.md) |
@@ -69,17 +71,16 @@ Description: HTTP response shall have StatusCode 200
 | `https://primodialer.46labs.com/primodialer2.pem` |  | true | [view](../../REPOS/0e7852924618f3e1ec6ce77f3d1cc6b03cab0ce5/README.md) |
 | `https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/gh-2022-12` |  | true | [view](../../REPOS/799823f17d04465ecde1c750b0ff457d62baa494/README.md) |
 | `https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/goto-2022-09` |  | true | [view](../../REPOS/28a6eaf4d52af268d2354802a3c6a6e7f8f568a4/README.md) |
-| `https://pvx1.s3.us-east-2.amazonaws.com/stirshaken/8448cc7eb8424d6ad5d2e6d71bcf6629.cer` |  | true | [view](../../REPOS/26f062c01a1c228b83b16b48345d3c0bcf6114b7/README.md) |
-| `https://shaken.spectrum.com/4d65efdb8a1ca366e9576c8fda747fa4.pem` |  | true | [view](../../REPOS/18cdd5acaf4706a8bff59aa0338843318ac4e3c1/README.md) |
+| `https://qcall.meta.tpx.net/certs/shaken_cacert.crt` |  | true | [view](../../REPOS/135ba22af33ee37bfbe885e30a8b6e1084f02cca/README.md) |
 | `https://shaken.spectrum.com/cf1b3d3d-7f2b-42fd-a161-ebe61cd6565a.pem` |  | true | [view](../../REPOS/6512ce3f54c9208d018698f6aa3d26cc1eede387/README.md) |
 | `https://sticr-cstga.ccid.neustar/api/v1/certificate/0581cac7b4b7ade97255fef02601f295.crt` |  | true | [view](../../REPOS/edfda09261223fb71b6ce9d93cb459fa90758fef/README.md) |
 | `https://sticr-cstga.ccid.neustar/api/v1/certificate/3f7be0c667b2f3c24546cf26629eb906.crt` |  | true | [view](../../REPOS/6cc197a230692738160b25ccee626e38948c6854/README.md) |
+| `https://sticr-cstga.ccid.neustar/api/v1/certificate/56701755b64fd6472ffc065ab0dfe768.pem` |  | true | [view](../../REPOS/29cd25222aac6fb303613c15b360a84b8c615694/README.md) |
 | `https://sticr-cstga.ccid.neustar/api/v1/certificate/815b181b29c53037f17257ba5733b2cc.crt` |  | true | [view](../../REPOS/954745a77f7d74deb8f45462ddf233e6b547a1ea/README.md) |
 | `https://telcoportal.com/mobileapps/neustar23/9c680c2b2d89e44b0a235be6685bbc8d.cer` |  | true | [view](../../REPOS/5049feb7c5de471719790aabfb7e3ed34722a9ef/README.md) |
-| `https://textme-stirshaken.s3.us-west-2.amazonaws.com/textme-bundle_10-12-2024.cer` |  | true | [view](../../REPOS/83085bb712745a7e93803799fe7bff61694c6361/README.md) |
 | `https://www.hadlotechnologies.com/ss_certs/hadlo_stirshaken.public.crt` |  | true | [view](../../REPOS/93bdc96988e271115ebedc66c31f128575604c1a/README.md) |
 | `https://www.voipessential.com/shaken/DFE323WW43Q656QWLMD` |  | true | [view](../../REPOS/89dcb49688a6eb12e01582bbe7639fb54faa2802/README.md) |
 | `https://x1.uy/1` |  | true | [view](../../REPOS/1b3dcafc439fc0cadbf8d5552ed87972c4208785/README.md) |
 
 
-Generated: 12 Feb 24 19:26 UTC
+Generated: 05 Apr 24 19:04 UTC

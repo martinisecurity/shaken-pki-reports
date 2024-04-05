@@ -3,8 +3,8 @@
 ## Sansay
 
 Name: `https://cr.sansay.com/210J/order/395_210J_63`\
-Tested At: 12 Feb 24 19:00 UTC\
-Time: 282ms
+Tested At: 05 Apr 24 18:48 UTC\
+Time: 75ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 282ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 12 Feb 24 19:26 UTC
+Generated: 05 Apr 24 19:04 UTC

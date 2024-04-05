@@ -2,19 +2,19 @@
 
 ## Certificate SHAKEN 318J
 
-Tested At: 12 Feb 24 19:22 UTC\
+Tested At: 05 Apr 24 18:59 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: 18 day(s)\
+Remaining Validity Period: -35 day(s)\
 Subject: CN=SHAKEN 318J, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US\
 Issuer: CN=Comcast SHAKEN Intermediate CA, O=Comcast, ST=Pennsylvania, C=US\
 Link: https://sticr.stir.comcast.com/76757ec2-2530-4cb2-8a09-212eec691690.pem
 
-[View certificate details](https://understandingwebpki.com/?cert=MIIClTCCAjqgAwIBAgIIeyCQqsrX%2BPswCgYIKoZIzj0EAwIwXzELMAkGA1UEBhMCVVMxFTATBgNVBAgMDFBlbm5zeWx2YW5pYTEQMA4GA1UECgwHQ29tY2FzdDEnMCUGA1UEAwweQ29tY2FzdCBTSEFLRU4gSW50ZXJtZWRpYXRlIENBMB4XDTI0MDEzMTEwMTc1NloXDTI0MDMwMTEwMTc1NlowYzELMAkGA1UEBhMCVVMxFTATBgNVBAgTDFBlbm5zeWx2YW5pYTEVMBMGA1UEBxMMUGhpbGFkZWxwaGlhMRAwDgYDVQQKEwdDb21jYXN0MRQwEgYDVQQDEwtTSEFLRU4gMzE4SjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABHr%2BM8atJ4ZJQxLRfTLL5w1z7yhvFRKEE8O2G5VEkqSufWeQrHwwt7IdpztYuaptzfndOEvV2g71cCS1z6PghnujgdswgdgwDgYDVR0PAQH%2FBAQDAgeAMAwGA1UdEwEB%2FwQCMAAwHQYDVR0OBBYEFPk15j0bh%2Fbiojj9T39vCRe%2FtGQ1MB8GA1UdIwQYMBaAFL%2BOHGBVJMURSM9CRUS%2FsPQ6K%2BYoMEcGA1UdHwRAMD4wPKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQQwFgYIKwYBBQUHARoECjAIoAYWBDMxOEowCgYIKoZIzj0EAwIDSQAwRgIhAJ%2Fab11dwLxpxWDjqX83GPK9JHlyGH1EKzY%2B3Oih5Y%2BpAiEAmVAn5v%2Fz7WnyAougzgTAp5utsCnb8vv8lo4gCVM32Cs%3D)
+[View certificate details](https://x509.io/?cert=MIIClTCCAjqgAwIBAgIIeyCQqsrX%2BPswCgYIKoZIzj0EAwIwXzELMAkGA1UEBhMCVVMxFTATBgNVBAgMDFBlbm5zeWx2YW5pYTEQMA4GA1UECgwHQ29tY2FzdDEnMCUGA1UEAwweQ29tY2FzdCBTSEFLRU4gSW50ZXJtZWRpYXRlIENBMB4XDTI0MDEzMTEwMTc1NloXDTI0MDMwMTEwMTc1NlowYzELMAkGA1UEBhMCVVMxFTATBgNVBAgTDFBlbm5zeWx2YW5pYTEVMBMGA1UEBxMMUGhpbGFkZWxwaGlhMRAwDgYDVQQKEwdDb21jYXN0MRQwEgYDVQQDEwtTSEFLRU4gMzE4SjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABHr%2BM8atJ4ZJQxLRfTLL5w1z7yhvFRKEE8O2G5VEkqSufWeQrHwwt7IdpztYuaptzfndOEvV2g71cCS1z6PghnujgdswgdgwDgYDVR0PAQH%2FBAQDAgeAMAwGA1UdEwEB%2FwQCMAAwHQYDVR0OBBYEFPk15j0bh%2Fbiojj9T39vCRe%2FtGQ1MB8GA1UdIwQYMBaAFL%2BOHGBVJMURSM9CRUS%2FsPQ6K%2BYoMEcGA1UdHwRAMD4wPKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQQwFgYIKwYBBQUHARoECjAIoAYWBDMxOEowCgYIKoZIzj0EAwIDSQAwRgIhAJ%2Fab11dwLxpxWDjqX83GPK9JHlyGH1EKzY%2B3Oih5Y%2BpAiEAmVAn5v%2Fz7WnyAougzgTAp5utsCnb8vv8lo4gCVM32Cs%3D)
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_serial_number_size](../../ISSUES/e_atis_serial_number_size/README.md) | error | ATIS1000080 | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+| [e_atis_serial_number_size](../../ISSUES/e_atis_serial_number_size/README.md) | error | ATIS1000080 | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
 
 
-Generated: 12 Feb 24 19:26 UTC
+Generated: 05 Apr 24 19:04 UTC

@@ -2,14 +2,14 @@
 
 ## Certificate Kaplan Telephone SHAKEN cert 0432
 
-Tested At: 12 Feb 24 18:54 UTC\
+Tested At: 05 Apr 24 18:39 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 447 day(s)\
+Remaining Validity Period: 394 day(s)\
 Subject: CN=Kaplan Telephone SHAKEN cert 0432, O=Kaplan Telephone, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/c57d0a622b6d80dae91a7391b608bcf4c3d88f74
 
-[View certificate details](https://understandingwebpki.com/?cert=MIICWjCCAgGgAwIBAgIQbvTJmJG8Gb2AKsf6BdBwnzAKBggqhkjOPQQDAjAtMSswKQYDVQQDDCJNZXRhc3dpdGNoIFNUSS1DQSBTSEFLRU4gSXNzdWluZyAxMB4XDTIyMDUwNTE0MTQ0OFoXDTI1MDUwNDE0MTQ0OFowVDELMAkGA1UEBhMCVVMxGTAXBgNVBAoMEEthcGxhbiBUZWxlcGhvbmUxKjAoBgNVBAMMIUthcGxhbiBUZWxlcGhvbmUgU0hBS0VOIGNlcnQgMDQzMjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABCE9vDw81Ftfpf5oSKPGSMFDJ%2F7QVT1LDE0nHXrsk9lCDYnG3RKRQjyqw9srkLa9kg6dgLY7efM4bwyrDXdIwQWjgdswgdgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCBeAwFgYIKwYBBQUHARoECjAIoAYWBDA0MzIwRwYDVR0fBEAwPjA8oDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzAdBgNVHQ4EFgQU1o%2B2W%2B1mVn3QO1eWdG8d1dyQVjQwHwYDVR0jBBgwFoAUzR6nABAQ2jIdaRo51dJGCyw8h9YwCgYIKoZIzj0EAwIDRwAwRAIgFCVnamac8UgJxQb5LJbhZPl0gry3YfMVAQ1NmNbOPe8CIH2PJBFO33Qw%2B8qaUxpDFj7oqyKXT3Dnxu86naJW%2BIur)
+[View certificate details](https://x509.io/?cert=MIICWjCCAgGgAwIBAgIQbvTJmJG8Gb2AKsf6BdBwnzAKBggqhkjOPQQDAjAtMSswKQYDVQQDDCJNZXRhc3dpdGNoIFNUSS1DQSBTSEFLRU4gSXNzdWluZyAxMB4XDTIyMDUwNTE0MTQ0OFoXDTI1MDUwNDE0MTQ0OFowVDELMAkGA1UEBhMCVVMxGTAXBgNVBAoMEEthcGxhbiBUZWxlcGhvbmUxKjAoBgNVBAMMIUthcGxhbiBUZWxlcGhvbmUgU0hBS0VOIGNlcnQgMDQzMjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABCE9vDw81Ftfpf5oSKPGSMFDJ%2F7QVT1LDE0nHXrsk9lCDYnG3RKRQjyqw9srkLa9kg6dgLY7efM4bwyrDXdIwQWjgdswgdgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCBeAwFgYIKwYBBQUHARoECjAIoAYWBDA0MzIwRwYDVR0fBEAwPjA8oDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzAdBgNVHQ4EFgQU1o%2B2W%2B1mVn3QO1eWdG8d1dyQVjQwHwYDVR0jBBgwFoAUzR6nABAQ2jIdaRo51dJGCyw8h9YwCgYIKoZIzj0EAwIDRwAwRAIgFCVnamac8UgJxQb5LJbhZPl0gry3YfMVAQ1NmNbOPe8CIH2PJBFO33Qw%2B8qaUxpDFj7oqyKXT3Dnxu86naJW%2BIur)
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
@@ -27,4 +27,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/c57d0a622b6d80dae91a7391b608bcf4c3d88f7
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 12 Feb 24 19:26 UTC
+Generated: 05 Apr 24 19:04 UTC

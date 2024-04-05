@@ -1,12 +1,11 @@
 Org Name,CN,Cert
 "Fibernetics","***SHAKEN***464D","https://stir.fibernetics.ca/prod-cert2022.pem"
 "Google Voice Canada Corporation","SHAKEN 969H","https://www.gstatic.com/gtp/stir/cpT9T1Zsg38JSHSBuNGgyg.pem"
-"Vonage","SHAKEN 197D","https://sticr-cstga.ccid.neustar/api/v1/certificate/56701755b64fd6472ffc065ab0dfe768.pem"
 "Cloudli Communications","SHAKEN 389J","https://sticr-cstga.ccid.neustar/api/v1/certificate/7bdca6d62828d732c42a364bd6e6662a.pem"
 "TekSavvy SHAKEN 548H","TekSavvy SHAKEN 548H","https://netnumber-sti-cr.s3.amazonaws.com/certs/bbd520f5-874f-4a8f-9408-a09e2e0e76ea"
 "Fibernetics","***SHAKEN***464D","https://stir.fibernetics.ca/prod-cert2023.pem"
 "IRISTEL","SHAKEN 154E","https://sticr-cstga.ccid.neustar/api/v1/certificate/a93fb04b9d4d2e9384352d32f7830cb2.crt"
 "Rogers Communications Inc","SHAKEN 8821","https://sticr-cstga.ccid.neustar/api/v1/certificate/1da6faf697ce57fff21bed5e9105be2d.crt"
 "Onvoy LLC","SHAKEN 224C","https://sticr-cstga.ccid.neustar/api/v1/certificate/925f707cc3de6c01ae333d764bdc21ae.pem"
-"RingCentral","SHAKEN 986J","https://sticr-cstga.ccid.neustar/api/v1/certificate/86b53220a1c7dfa5ffb9fb499433dff4.pem"
 "RingCentral","SHAKEN 986J","https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11565.10211.pem"
+"RingCentral","SHAKEN 986J","https://sticr-cstga.ccid.neustar/api/v1/certificate/86b53220a1c7dfa5ffb9fb499433dff4.pem"

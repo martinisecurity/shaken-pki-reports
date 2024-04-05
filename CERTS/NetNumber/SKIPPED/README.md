@@ -7,7 +7,6 @@
 | Created At | Subject | Not After | Problems | Link |
 |------------|---------|-----------|----------|------|
 | 10&#160;Jun&#160;22&#160;00:00&#160;UTC | Plivo Inc | 09&#160;Jun&#160;23&#160;00:00&#160;UTC | true | [view](../CERTS/7dc750fb7aa68d2b67b8dbc89f65217f92db54504685058be016638011adf8bf/README.md) |
-| 09&#160;Sep&#160;22&#160;00:10&#160;UTC | Google SHAKEN cert 969H | 09&#160;Oct&#160;22&#160;00:10&#160;UTC | true | [view](../CERTS/f96afa0b55abfade7449d6e388ac0292dc5401b5c103c0e03e7c16af23d5c616/README.md) |
 | 02&#160;Oct&#160;22&#160;01:01&#160;UTC | Google SHAKEN cert 969H | 01&#160;Nov&#160;22&#160;01:01&#160;UTC | true | [view](../CERTS/857d06cf3d0d97ef0146c5c90bd1138b91f9a400a0c04a7c0f3c6851805afcb9/README.md) |
 | 25&#160;Oct&#160;22&#160;01:08&#160;UTC | Google SHAKEN cert 969H | 24&#160;Nov&#160;22&#160;01:08&#160;UTC | true | [view](../CERTS/ea9be023aa06e4b6606c9048a6ccace9a16100695fe5b5747654a521d7acfc56/README.md) |
 | 02&#160;Nov&#160;22&#160;13:58&#160;UTC | Google SHAKEN cert 969H | 02&#160;Dec&#160;22&#160;13:58&#160;UTC | true | [view](../CERTS/ac89ca8ee8dd2dad340232968a8cdcc5a613a485c108f8f14f14bd8cbbc1433e/README.md) |
@@ -51,6 +50,9 @@
 | 16&#160;Dec&#160;23&#160;00:00&#160;UTC | HD CARRIER LLC | 14&#160;Jan&#160;24&#160;23:59&#160;UTC | true | [view](../CERTS/70f308a7f011c5aee00ea4493ea41782408424eb678beb827e5d855b7d8fc8c9/README.md) |
 | 22&#160;Dec&#160;23&#160;04:03&#160;UTC | Google SHAKEN cert 969H | 21&#160;Jan&#160;24&#160;04:03&#160;UTC | true | [view](../CERTS/a9d8c985511ddde5835fb1a095ea47ba42ae8dbe64b31865423bdc439930f7f1/README.md) |
 | 02&#160;Jan&#160;24&#160;00:00&#160;UTC | HD CARRIER LLC | 31&#160;Jan&#160;24&#160;23:59&#160;UTC | true | [view](../CERTS/1edb633693315e28634bd4afeb61b491b8c72d33dbacaa45fe70b95989ee5aef/README.md) |
+| 14&#160;Jan&#160;24&#160;08:02&#160;UTC | Google SHAKEN cert 969H | 13&#160;Feb&#160;24&#160;08:02&#160;UTC | true | [view](../CERTS/219583be0a46879699b163cfc1c6ee25f2fae2ea6c83a5889fd211a03ce88d44/README.md) |
+| 16&#160;Jan&#160;24&#160;00:00&#160;UTC | HD CARRIER LLC | 14&#160;Feb&#160;24&#160;23:59&#160;UTC | true | [view](../CERTS/d61794931ed919fde06b2ea87b472356ae5b2a87476516b62bcf6c5d58a1f996/README.md) |
+| 06&#160;Feb&#160;24&#160;12:05&#160;UTC | Google SHAKEN cert 969H | 07&#160;Mar&#160;24&#160;12:05&#160;UTC | true | [view](../CERTS/bcb2b91c1a3df613ba4f9e298d10bc26c44554cf155845b60106c0aea06588cb/README.md) |
 
 
-Generated: 12 Feb 24 19:26 UTC
+Generated: 05 Apr 24 19:04 UTC

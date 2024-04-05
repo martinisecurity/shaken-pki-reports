@@ -16,7 +16,6 @@ Description: The verifier should not dereference any protocol other than https o
 | `http://stirshaken.corvitbpo.com/zg-key.pem` |  | true | [view](../../REPOS/88b8d76fa66010cc301a89a6ce1a2d44e2dc1354/README.md) |
 | `http://stirshaken.flashtelco.com:8077/cert1.pem` |  | true | [view](../../REPOS/44f5838f8f57b405d7ebf5b4ab32a551beea2863/README.md) |
 | `https://187.174.67.118:8080/7075515eb2d150fc98c43e794c07bbca.cer` |  | true | [view](../../REPOS/d8faee293b08466701e0b503002bc7343687408c/README.md) |
-| `https://187.174.68.251:8080/7075515eb2d150fc98c43e794c07bbca.cer` |  | true | [view](../../REPOS/08f75793f66de82676ee55430a54822033ae8662/README.md) |
 
 
-Generated: 12 Feb 24 19:26 UTC
+Generated: 05 Apr 24 19:04 UTC

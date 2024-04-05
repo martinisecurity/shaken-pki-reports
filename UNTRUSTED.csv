@@ -1,5 +1,4 @@
 Org Name,CN,Cert
-"DTEL NETWORK LLC.","SHAKEN","http://5.78.73.44/system/sp-cert.pem"
 "AcmeTelecom, Inc.","SHAKEN","https://65.108.80.93/cert.pem"
 "Broadband Dynamics Canada Telecom and Software ULC","SHAKEN Broadband Dynamics Canada Telecom and Software ULC 884J","https://canada-cr.sansay.com/Broadband_Dynamics_Canada_Telecom_and_Software_ULC_884J"
 "VOSLogic.com","SHAKEN","https://cdn.cnxcdn.com/shaken/59.crt"
@@ -463,10 +462,8 @@ Org Name,CN,Cert
 "RingCentral","SHAKEN 986J","https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11565.10211.pem"
 "PNC Bank","SHAKEN PNCB","https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11617.10249.pem"
 "TekSavvy SHAKEN 548H","TekSavvy SHAKEN 548H","https://netnumber-sti-cr.s3.amazonaws.com/certs/bbd520f5-874f-4a8f-9408-a09e2e0e76ea"
-"TransNexus","Fusion Connect SHAKEN 2720","https://prod001-cr.rbbnidhub.com/8ZJdVFg7gz/2"
 "US Internet Corp","SHAKEN 737J","https://sti.ravon.net/c/737J_2022-07-20"
 "Rogers Communications Inc","SHAKEN 8821","https://sticr-cstga.ccid.neustar/api/v1/certificate/1da6faf697ce57fff21bed5e9105be2d.crt"
-"Vonage","SHAKEN 197D","https://sticr-cstga.ccid.neustar/api/v1/certificate/56701755b64fd6472ffc065ab0dfe768.pem"
 "Cloudli Communications","SHAKEN 389J","https://sticr-cstga.ccid.neustar/api/v1/certificate/7bdca6d62828d732c42a364bd6e6662a.pem"
 "RingCentral","SHAKEN 986J","https://sticr-cstga.ccid.neustar/api/v1/certificate/86b53220a1c7dfa5ffb9fb499433dff4.pem"
 "Onvoy LLC","SHAKEN 224C","https://sticr-cstga.ccid.neustar/api/v1/certificate/925f707cc3de6c01ae333d764bdc21ae.pem"

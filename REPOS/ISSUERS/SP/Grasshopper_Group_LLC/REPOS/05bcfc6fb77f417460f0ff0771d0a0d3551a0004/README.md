@@ -3,8 +3,8 @@
 ## Grasshopper Group LLC
 
 Name: `https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/gh-2023-11`\
-Tested At: 12 Feb 24 19:19 UTC\
-Time: 15ms
+Tested At: 05 Apr 24 18:56 UTC\
+Time: 31ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 15ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 12 Feb 24 19:26 UTC
+Generated: 05 Apr 24 19:04 UTC

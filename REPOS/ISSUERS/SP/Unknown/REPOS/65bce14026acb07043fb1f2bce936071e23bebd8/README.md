@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://cert2.sticr.att.net:8443/sti-cr/att-stica1669224827804-cert.crt`\
-Tested At: 12 Feb 24 18:54 UTC\
-Time: 160ms
+Tested At: 05 Apr 24 18:39 UTC\
+Time: 177ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 160ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 12 Feb 24 19:26 UTC
+Generated: 05 Apr 24 19:04 UTC

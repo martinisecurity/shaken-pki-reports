@@ -9,27 +9,27 @@
 
 #### Leaf Certificates
 
-- 33 certificates were included in the corpus being tested
+- 31 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
-- 9 certificates in the corpus were skipped because they are expired
+- 12 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 24 certificates being tested against the remaining rules
-- 2.00 issues on average found in unexpired, trusted, and non-compliant certificates
+- 19 certificates being tested against the remaining rules
+- 2.05 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
-- 4.17% of certificates are too old to be assessed against currently enforced expectations
-- 355 days is the average remaining validity for the certificates in the corpus
+- 0.00% of certificates are too old to be assessed against currently enforced expectations
+- 350 days is the average remaining validity for the certificates in the corpus
 - 365 days is the average initial validity for the certificates in the corpus
-- 1 certificates expire in the next 30 days
+- 3 certificates expire in the next 30 days
 - 1.00 average number of unexpired certificates per OCN observed
-- 24 unique OCNs observed in unexpired and valid certificate corpus
+- 19 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 23 | [e_atis_ext_not_specified](ISSUES/e_atis_ext_not_specified/README.md) | ATIS1000080 |
+| 19 | [e_atis_ext_not_specified](ISSUES/e_atis_ext_not_specified/README.md) | ATIS1000080 |
 | 1 | [e_atis_subject_cn_spc](ISSUES/e_atis_subject_cn_spc/README.md) | ATIS1000080 |
-| 24 | [e_shaken_certificate_policies_id](ISSUES/e_shaken_certificate_policies_id/README.md) | US_SHAKEN_CP |
+| 19 | [e_shaken_certificate_policies_id](ISSUES/e_shaken_certificate_policies_id/README.md) | US_SHAKEN_CP |
 
 #### CA Certificates
 
@@ -43,7 +43,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 7213 days is the average remaining validity for the certificates in the corpus
+- 7196 days is the average remaining validity for the certificates in the corpus
 - 6757 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -57,11 +57,6 @@
 
 | Created At | Subject | Not After | Problems | Link |
 |------------|---------|-----------|----------|------|
-| 01&#160;Mar&#160;23&#160;19:32&#160;UTC | Triangle SHAKEN 2257 | 29&#160;Feb&#160;24&#160;19:32&#160;UTC | true | [view](CERTS/1e6b9b8247b567e94d661d0d0db4435de2599fbe30d1f5344998a47ac8c63b77/README.md) |
-| 28&#160;Mar&#160;23&#160;22:05&#160;UTC | ColoradoValley SHAKEN 2059 | 27&#160;Mar&#160;24&#160;22:05&#160;UTC | true | [view](CERTS/86e7e2161247ffa5872bef7f7bf1448baee3324d494837d918335ff37e60a70f/README.md) |
-| 30&#160;Mar&#160;23&#160;20:40&#160;UTC | PGTelco SHAKEN 1718 | 29&#160;Mar&#160;24&#160;20:40&#160;UTC | true | [view](CERTS/9ea0d1b5d17dd6d9e58897a626a477a4852312bab0bc4cd85c5fd0c64bf96d28/README.md) |
-| 03&#160;Apr&#160;23&#160;21:08&#160;UTC | Etex STI SHAKEN 3196 | 02&#160;Apr&#160;24&#160;21:08&#160;UTC | true | [view](CERTS/2accbf5ec4af27017623e3199d568c6ce9e325a47208f4ddda26734089512d29/README.md) |
-| 03&#160;Apr&#160;23&#160;22:02&#160;UTC | Nuwave Communications SHAKEN 620J | 02&#160;Apr&#160;24&#160;22:02&#160;UTC | true | [view](CERTS/a9acc6eb541548ac5f8f3aba269c00d545106957dc39e2967dd963c857f34789/README.md) |
 | 27&#160;Apr&#160;23&#160;16:22&#160;UTC | Gearheart SHAKEN 0408 | 26&#160;Apr&#160;24&#160;16:22&#160;UTC | true | [view](CERTS/82f85175421b1ee40b8a1d53b83d1ebbd8de91ca5022eddb84176e0be736edda/README.md) |
 | 02&#160;May&#160;23&#160;13:30&#160;UTC | Surrytel STI SHAKEN 0503 | 01&#160;May&#160;24&#160;13:30&#160;UTC | true | [view](CERTS/e83aa6bcda724b091675c017f7ab9b3bbf1d39ba19fc3e00fcfa5542efc0a1d8/README.md) |
 | 03&#160;May&#160;23&#160;15:18&#160;UTC | ThreeriverTelco SHAKEN 1525 | 02&#160;May&#160;24&#160;15:18&#160;UTC | true | [view](CERTS/b3e31d4de30e8a1fa6926123f646630349aa26590a364c67f2882866207cd2cf/README.md) |
@@ -90,4 +85,4 @@
 | 13&#160;May&#160;21&#160;00:00&#160;UTC | SHAKEN Ribbon Root CA | 12&#160;May&#160;46&#160;23:59&#160;UTC | false | [view](CERTS/7c2799d3642d04f04fe667c3ab251c18689af323acdc43b2fa5f3dc89e3a0f14/README.md) |
 
 
-Generated: 12 Feb 24 19:26 UTC
+Generated: 05 Apr 24 19:04 UTC

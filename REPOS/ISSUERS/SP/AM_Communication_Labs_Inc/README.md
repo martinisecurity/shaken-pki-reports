@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 141ms average time it took to download each certificate
+- 269ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://cr.veriswitch.com/amcom/0cc11d4d5142b1e7ef5957eb4c9020c8.cer` | 27&#160;Apr&#160;24&#160;22:27&#160;UTC | true | [view](REPOS/ca1e2bc52ebde398b40cf82029249f3b74363437/README.md) |
 
 
-Generated: 12 Feb 24 19:26 UTC
+Generated: 05 Apr 24 19:04 UTC
