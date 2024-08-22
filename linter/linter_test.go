@@ -1,6 +1,8 @@
 package linter_test
 
 import (
+	"net/http"
+	"net/http/httptest"
 	"net/url"
 	"reflect"
 	"testing"
@@ -10,13 +12,25 @@ import (
 )
 
 func TestLintUrl_HttpStatus404(t *testing.T) {
-	u, _ := url.Parse("https://app.connexcs.com/api/stir-shaken/cert/41.crt")
+	// Create a test server that returns a 404 status
+	ts := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		w.WriteHeader(http.StatusNotFound)
+	}))
+	defer ts.Close()
+
+	// Parse the test server URL
+	u, _ := url.Parse(ts.URL)
+
+	// Call the function under test
 	res := linter.LintUrl(u)
 
+	// Define the expected result
 	want := &lint.LintResult{
 		Status:  lint.Error,
 		Details: "HTTP response shall have StatusCode 200, but it is 404 Not Found",
 	}
+
+	// Compare the actual result with the expected result
 	if test := res.Results["e_http_status_200"]; !reflect.DeepEqual(test, want) {
 		t.Errorf("lint.LintUrl() = %v, want %v", test, want)
 	}
