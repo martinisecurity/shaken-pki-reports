@@ -19,37 +19,13 @@ const (
 	RevocationStatusRevoked
 )
 
-func CheckChainRevocation(chain []*x509.Certificate) ([]RevocationStatus, error) {
-	statuses := []RevocationStatus{}
-	for _, cert := range chain {
-		status, err := CheckCertRevocation(cert)
-		if err != nil {
-			return nil, err
-		}
-		statuses = append(statuses, status)
-	}
-
-	return statuses, nil
+type CRLFetcher interface {
+	GetCRL(crlUrl string) (*pkix.CertificateList, error)
 }
 
-func CheckCertRevocation(cert *x509.Certificate) (RevocationStatus, error) {
-	// check CRL
-	for _, crlUrl := range cert.CRLDistributionPoints {
-		crl, err := GetCRL(crlUrl)
-		if err != nil {
-			return RevocationStatusUnknown, err
-		}
+type DefaultCRLFetcher struct{}
 
-		status := CheckRevocationStatus(cert, crl)
-		if status != RevocationStatusUnknown {
-			return status, nil
-		}
-	}
-
-	return RevocationStatusUnknown, nil
-}
-
-func GetCRL(crlUrl string) (*pkix.CertificateList, error) {
+func (f *DefaultCRLFetcher) GetCRL(crlUrl string) (*pkix.CertificateList, error) {
 	// Set proxy URL
 	proxyUrl := "https://wfe.dev.martinisecurity.com/v1/stipa/proxy?url=" + crlUrl
 
@@ -106,34 +82,106 @@ func sendRequest(url string) (*pkix.CertificateList, error) {
 	return crl, nil
 }
 
-var OidExtensionDeltaCRLIndicator = asn1.ObjectIdentifier{2, 5, 29, 27}
+// CertificateRevocationStatus represents the revocation status of a certificate.
+type CertificateRevocationStatus struct {
+	Certificate *x509.Certificate
+	Status      RevocationStatus
+}
 
-func FindDeltaCrl(crl *pkix.CertificateList) (*pkix.CertificateList, error) {
-	var deltaCrlUrl string
+// CheckChainRevocation checks the revocation status of a certificate chain.
+// It takes a chain of x509 certificates and a CRLFetcher interface as input.
+// The function returns a slice of CertificateRevocationStatus and an error.
+// Each CertificateRevocationStatus in the slice represents the revocation status of a certificate in the chain.
+// The CRLFetcher interface is used to fetch the Certificate Revocation List (CRL) for each certificate in the chain.
+// If any error occurs during the process, the function returns nil for the statuses slice and the error.
+func CheckChainRevocation(chain []*x509.Certificate, fetcher CRLFetcher) ([]CertificateRevocationStatus, error) {
+	var statuses []CertificateRevocationStatus
+
+	for _, cert := range chain {
+		status, err := CheckCertRevocationWithFetcher(cert, fetcher)
+		if err != nil {
+			return nil, err
+		}
+
+		statuses = append(statuses, CertificateRevocationStatus{
+			Certificate: cert,
+			Status:      status,
+		})
+	}
+
+	return statuses, nil
+}
+
+func CheckCertRevocation(cert *x509.Certificate) (RevocationStatus, error) {
+	return CheckCertRevocationWithFetcher(cert, nil)
+}
+
+func CheckCertRevocationWithFetcher(cert *x509.Certificate, fetcher CRLFetcher) (RevocationStatus, error) {
+	if fetcher == nil {
+		fetcher = &DefaultCRLFetcher{}
+	}
+
+	// check CRL
+	for _, crlUrl := range cert.CRLDistributionPoints {
+		crl, err := fetcher.GetCRL(crlUrl)
+		if err != nil {
+			return RevocationStatusUnknown, err
+		}
+
+		status := CheckRevocationStatus(cert, crl)
+		if status == RevocationStatusRevoked {
+			return status, nil
+		}
+
+		// Check for delta CRL
+		if HasDeltaCrl(crl) {
+			deltaCrl, err := FindDeltaCrl(crl, fetcher)
+			if err != nil {
+				return RevocationStatusUnknown, err
+			}
+			status = CheckRevocationStatus(cert, deltaCrl)
+			if status == RevocationStatusRevoked {
+				return status, nil
+			}
+		}
+	}
+
+	return RevocationStatusGood, nil
+}
+
+// OidExtensionFreshestCRL is the OID for the freshest CRL extension.
+var OidExtensionFreshestCRL = asn1.ObjectIdentifier{2, 5, 29, 46}
+
+// FindDeltaCrl finds and fetches the delta CRL for a given CRL using the provided CRLFetcher.
+func FindDeltaCrl(crl *pkix.CertificateList, fetcher CRLFetcher) (*pkix.CertificateList, error) {
+	var deltaCrlUrls []string
 	for _, ext := range crl.TBSCertList.Extensions {
-		if ext.Id.Equal(OidExtensionDeltaCRLIndicator) {
-			deltaCrlUrl = string(ext.Value)
+		if ext.Id.Equal(OidExtensionFreshestCRL) {
+			_, err := asn1.Unmarshal(ext.Value, &deltaCrlUrls)
+			if err != nil {
+				return nil, fmt.Errorf("failed to unmarshal delta CRL URL: %v", err)
+			}
 			break
 		}
 	}
 
-	if deltaCrlUrl == "" {
+	if len(deltaCrlUrls) == 0 {
 		return nil, fmt.Errorf("no delta CRL found")
 	}
 
-	return GetCRL(deltaCrlUrl)
+	// Assuming the first URL is the one we need
+	deltaCrlUrl := deltaCrlUrls[0]
+	return fetcher.GetCRL(deltaCrlUrl)
 }
 
+// HasDeltaCrl checks if a given CRL has a delta CRL extension.
 func HasDeltaCrl(crl *pkix.CertificateList) bool {
-	var deltaExt *pkix.Extension
 	for _, ext := range crl.TBSCertList.Extensions {
-		if ext.Id.Equal(OidExtensionDeltaCRLIndicator) {
-			deltaExt = &ext
-			break
+		if ext.Id.Equal(OidExtensionFreshestCRL) {
+			return true
 		}
 	}
-
-	return deltaExt != nil
+	return false
 }
 
 func CheckRevocationStatus(cert *x509.Certificate, crl *pkix.CertificateList) RevocationStatus {
