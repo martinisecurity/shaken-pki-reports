@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Cyberlynk Network, LLC 086K
 
-Tested At: 05 Apr 24 18:48 UTC\
+Tested At: 22 Aug 24 15:30 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -109 day(s)\
+Remaining Validity Period: -248 day(s)\
 Subject: emailAddress=software@cyberlynk.net, CN=SHAKEN Cyberlynk Network\\, LLC 086K, OU=NOC, O=Cyberlynk Network\\, LLC, ST=Winsconsin, C=US, emailAddress=software@cyberlynk.net\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/086K/order/171_086K_91
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/086K/order/171_086K_91
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

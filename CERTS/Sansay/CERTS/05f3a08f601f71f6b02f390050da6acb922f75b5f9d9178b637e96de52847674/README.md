@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Comtalk Telecom 705K
 
-Tested At: 05 Apr 24 18:52 UTC\
+Tested At: 22 Aug 24 15:32 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 200 day(s)\
+Remaining Validity Period: 62 day(s)\
 Subject: CN=SHAKEN Comtalk Telecom 705K, OU=SUPPORT, O=Comtalk Telecom, ST=Florida, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Comtalk_Telecom_705K
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Comtalk_Telecom_705K
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 705K', but common name is 'SHAKEN Comtalk Telecom 705K' |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

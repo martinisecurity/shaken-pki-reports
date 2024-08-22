@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 065J
 
-Tested At: 05 Apr 24 18:40 UTC\
+Tested At: 22 Aug 24 15:18 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -294 day(s)\
+Remaining Validity Period: -433 day(s)\
 Subject: CN=SHAKEN 065J, O=One Ring Networks, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/1de2a6c6-9b1b-4894-8c0c-0cccfdf25e8d/a5e4106eb5278f4f37d270f08da20d72.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/1de2a6c6-9b1b-4894-8c0c-0cccfdf25e8d/a5e4
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1563
 
-Tested At: 05 Apr 24 18:46 UTC\
+Tested At: 22 Aug 24 15:28 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -28 day(s)\
+Remaining Validity Period: -167 day(s)\
 Subject: CN=SHAKEN 1563, O=Hooper Telephone Company, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/208.287
@@ -25,4 +25,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/208.287
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

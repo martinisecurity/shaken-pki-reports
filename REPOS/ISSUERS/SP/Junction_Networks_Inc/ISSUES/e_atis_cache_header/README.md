@@ -9,7 +9,7 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://stir-shaken.jnctn.net/onsip-stir-shaken.pem` | 01&#160;Jun&#160;24&#160;13:40&#160;UTC | true | [view](../../REPOS/0dcdc70177862a9d56e8223d801094e7df66e553/README.md) |
+| `https://stir-shaken.jnctn.net/onsip-stir-shaken.pem` | 22&#160;May&#160;25&#160;18:43&#160;UTC | true | [view](../../REPOS/0dcdc70177862a9d56e8223d801094e7df66e553/README.md) |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

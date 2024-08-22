@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Drop Inc 258K
 
-Tested At: 05 Apr 24 18:38 UTC\
+Tested At: 22 Aug 24 15:15 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 235 day(s)\
+Remaining Validity Period: 97 day(s)\
 Subject: CN=SHAKEN Drop Inc 258K, OU=Drop, O=Drop Inc, ST=Illinois, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: http://sti.comsapi.com/258k/ca.crt
@@ -17,4 +17,4 @@ Link: http://sti.comsapi.com/258k/ca.crt
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 258K', but common name is 'SHAKEN Drop Inc 258K' |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

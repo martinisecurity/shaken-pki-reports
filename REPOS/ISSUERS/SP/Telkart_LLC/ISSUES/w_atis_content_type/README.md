@@ -11,6 +11,7 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 |-----------------|-----------|-----------|------|
 | `https://certs.telonium.net/23/1c0d4923.crt` | 27&#160;Jun&#160;24&#160;15:31&#160;UTC | true | [view](../../REPOS/1a9b88d601bf614d44fd8b2049200750931e86d9/README.md) |
 | `https://certs.telonium.net/23/545f628e.crt` | 27&#160;Jun&#160;24&#160;15:31&#160;UTC | true | [view](../../REPOS/6b7e71689750d59f2d5f768ab00ecf8476fe2369/README.md) |
+| `https://telkart.46labs.com` | 27&#160;Dec&#160;25&#160;16:31&#160;UTC | true | [view](../../REPOS/164d641d4b8feb006177594cb78c196c21da302d/README.md) |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

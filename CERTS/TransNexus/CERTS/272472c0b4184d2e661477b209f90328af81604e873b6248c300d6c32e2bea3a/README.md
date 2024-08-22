@@ -1,0 +1,17 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 983J
+
+Tested At: 22 Aug 24 15:21 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -45 day(s)\
+Subject: CN=SHAKEN 983J, O=ESI, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/257d8823c3ea78e663ecfb3ba61d2387.pem
+
+[View certificate details](https://x509.io/?cert=MIICwjCCAmmgAwIBAgIQdaQypjjDJfm8tXL%2Fa1yjEjAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTUwHhcNMjQwNjMwMjEwNzA0WhcNMjQwNzA3MjEwNzAzWjAxMQswCQYDVQQGEwJVUzEMMAoGA1UEChMDRVNJMRQwEgYDVQQDEwtTSEFLRU4gOTgzSjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABCK9ibjobo%2F%2B0mJ1ebBBQN%2BwtqUYHE6PsJyWb%2FZhdgsv7kuPYdmmOayeFIz%2BwcQFBuMLrW6exJgITYl2vg5f4D2jggE8MIIBODAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAdBgNVHQ4EFgQUVSWZhxxbcpSKnhzfPvV2sFOvpncwHwYDVR0jBBgwFoAU2gCzh%2FiCP7%2B6IqJkY7X2L8yOdcowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEEMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAWBggrBgEFBQcBGgQKMAigBhYEOTgzSjAKBggqhkjOPQQDAgNHADBEAiA850pBXsIl%2BTNgm1Zh%2FS9WK%2FI7sp43RxrMdgLuQFd7pAIgK0poqiilyhNmU5nY2zvaPyVof%2FSzYc009ow7Xi4bwx0%3D)
+
+164 tests were ran and no error, warning, or notice level issues were found
+
+
+Generated: 22 Aug 24 15:44 UTC

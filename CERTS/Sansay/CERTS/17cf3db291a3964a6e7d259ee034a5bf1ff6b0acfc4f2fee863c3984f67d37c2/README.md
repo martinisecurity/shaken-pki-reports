@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Voice SY LLC 521K
 
-Tested At: 05 Apr 24 18:56 UTC\
+Tested At: 22 Aug 24 15:36 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 256 day(s)\
+Remaining Validity Period: 117 day(s)\
 Subject: CN=SHAKEN Voice SY LLC 521K, OU=Voice SY LLC Info, O=Voice SY LLC Info, ST=Wyoming, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://primodialer2.46labs.com/primodialer2.pem
@@ -17,4 +17,4 @@ Link: https://primodialer2.46labs.com/primodialer2.pem
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

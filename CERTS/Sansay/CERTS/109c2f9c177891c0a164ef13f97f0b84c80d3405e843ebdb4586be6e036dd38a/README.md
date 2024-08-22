@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN CIMA Telecom, Inc 313K
 
-Tested At: 05 Apr 24 18:52 UTC\
+Tested At: 22 Aug 24 15:32 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -338 day(s)\
+Remaining Validity Period: -477 day(s)\
 Subject: CN=SHAKEN CIMA Telecom\\, Inc 313K, OU=NOC, O=CIMA Telecom\\, Inc, ST=Florida, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/CIMA_Telecom_Inc_313K
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/CIMA_Telecom_Inc_313K
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 313K', but common name is 'SHAKEN CIMA Telecom, Inc 313K' |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

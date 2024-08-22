@@ -2,14 +2,14 @@
 
 ## Highland Telephone Cooperative
 
-- 1 repository URLs were included in the corpus being tested
-- 0 repository URLs in the corpus were skipped because they were duplicated
+- 2 repository URLs were included in the corpus being tested
+- 1 repository URLs in the corpus were skipped because they were duplicated
 - 1 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 30ms average time it took to download each certificate
+- 10ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://cdn-cr.cgah.tnsi.com/certs/3e401c7a84f75f433a566157ca877a2a3143ba4d` | 28&#160;Mar&#160;26&#160;18:43&#160;UTC | true | [view](REPOS/299da5a7d4ab78065147e3406c5a69a2ed14aaf1/README.md) |
+| `https://cdn-cr.cgah.tnsi.com/certs/2ea4f70250c45d8d12df4852263f77d007152f19` | 28&#160;Mar&#160;26&#160;18:43&#160;UTC | true | [view](REPOS/ab84718afc090339edd8006ff9b095514d1432b9/README.md) |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

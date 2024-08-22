@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 235K
+
+Tested At: 22 Aug 24 15:30 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 262 day(s)\
+Subject: CN=SHAKEN 235K, O=TeligentIP Inc, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11544.10197
+
+[View certificate details](https://x509.io/?cert=MIIDATCCAqigAwIBAgIUBEhtE533%2BFOC4j%2B5iPyRgbpk80cwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI0MDUxMDE3MTAwMloXDTI1MDUxMDE3MTAwMlowPDELMAkGA1UEBhMCVVMxFzAVBgNVBAoMDlRlbGlnZW50SVAgSW5jMRQwEgYDVQQDDAtTSEFLRU4gMjM1SzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABA2VR2F4eAKXF%2FPzsT9KxJRkG%2BDj17pJrSVvLa0DUGkKbDG%2F4j%2FA3GVxFhIVewADNVXBlfgcMode2SxxBdVEY8KjggE8MIIBODAWBggrBgEFBQcBGgQKMAigBhYEMjM1SzAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIJOFf%2F%2Bn2pnUeTIl8dtdMP8ZUV4MBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwHQYDVR0OBBYEFOUJBQcS8%2BgyT8g4tzyAGgbcyMZiMA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNHADBEAiBiL2KSXVdL4OfgiDF0mv%2FkXMMZFBAGi2gBV6uZfjpjDgIgZzTR2mWOI5ne3uwFTOkGbahkW7WIXoy8am3rmdxGG1k%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 22 Aug 24 15:44 UTC

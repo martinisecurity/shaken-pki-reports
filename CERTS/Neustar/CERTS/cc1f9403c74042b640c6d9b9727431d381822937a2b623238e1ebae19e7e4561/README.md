@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN
 
-Tested At: 05 Apr 24 18:39 UTC\
+Tested At: 22 Aug 24 15:16 UTC\
 Initial Validity Period: 1096 day(s)\
-Remaining Validity Period: -157 day(s)\
+Remaining Validity Period: -296 day(s)\
 Subject: C=US, ST=Tennessee, L=Spring Hill, O=Simwood Inc., CN=SHAKEN\
 Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1\
 Link: https://cdn.simwood.com/shaken/simwood.crt
@@ -39,4 +39,4 @@ Link: https://cdn.simwood.com/shaken/simwood.crt
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

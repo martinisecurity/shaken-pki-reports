@@ -2,9 +2,9 @@
 
 ## Certificate 702 Communications SHAKEN Cert 2737
 
-Tested At: 05 Apr 24 18:39 UTC\
+Tested At: 22 Aug 24 15:16 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 24 day(s)\
+Remaining Validity Period: -114 day(s)\
 Subject: CN=702 Communications SHAKEN Cert 2737, O=702 Communications, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/dd6b11ece7734be2f2b5742bfee300774c703397
@@ -29,4 +29,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/dd6b11ece7734be2f2b5742bfee300774c70339
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

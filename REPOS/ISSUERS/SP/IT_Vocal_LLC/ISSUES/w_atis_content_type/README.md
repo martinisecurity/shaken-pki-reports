@@ -9,7 +9,7 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://shaken.vocaltransit.com/783J/vocaltransit-STIRSHAKEN.crt` | 22&#160;May&#160;24&#160;00:00&#160;UTC | true | [view](../../REPOS/86e19698fc1d5b85bbffe8673c702f458fe26593/README.md) |
+| `https://shaken.vocaltransit.com/783J/vocaltransit-STIRSHAKEN.crt` | 15&#160;Oct&#160;24&#160;00:00&#160;UTC | true | [view](../../REPOS/86e19698fc1d5b85bbffe8673c702f458fe26593/README.md) |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN IDT America, Corp 363A
 
-Tested At: 05 Apr 24 18:49 UTC\
+Tested At: 22 Aug 24 15:31 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -287 day(s)\
+Remaining Validity Period: -426 day(s)\
 Subject: emailAddress=thomas.musella@idt.net, CN=SHAKEN IDT America\\, Corp 363A, OU=NOC, O=IDT America\\, Corp, ST=New Jersey, C=US, emailAddress=thomas.musella@idt.net\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/363A/order/101_363A_17
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/363A/order/101_363A_17
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 363A', but common name is 'SHAKEN IDT America, Corp 363A' |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

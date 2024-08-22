@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 295K
+
+Tested At: 22 Aug 24 15:28 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 364 day(s)\
+Subject: CN=SHAKEN 295K, O=Login LLC, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/180.235
+
+[View certificate details](https://x509.io/?cert=MIIC%2FjCCAqOgAwIBAgIUCQYgjGfxReU%2F9mvyosAGTjBwYjMwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI0MDgyMDIyMjE1MFoXDTI1MDgyMDIyMjE1MFowNzELMAkGA1UEBhMCVVMxEjAQBgNVBAoMCUxvZ2luIExMQzEUMBIGA1UEAwwLU0hBS0VOIDI5NUswWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAR%2BedwLS%2B2U6tTpAS1qNYCxhOjVRjr%2BL18iLvX8CYVaEGrdIKT0J%2Bs5R2LsMR4p1dTj4aNitRXWPtU5U0C8W2r%2Bo4IBPDCCATgwFgYIKwYBBQUHARoECjAIoAYWBDI5NUswDAYDVR0TAQH%2FBAIwADAfBgNVHSMEGDAWgBSCThX%2F%2Fp9qZ1HkyJfHbXTD%2FGVFeDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMB0GA1UdDgQWBBTYSUcwKt9RfxnJNkdP3xQA3KwbujAOBgNVHQ8BAf8EBAMCB4AwCgYIKoZIzj0EAwIDSQAwRgIhAMbXD99aW9hrYm80KCV7%2FI7jS%2F%2F0Pk04pd7fvrD7hgLnAiEApJ2fIaI7pxNq%2BQqbErJq5ir0KIggU56e0C6%2F9VyqoUg%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 22 Aug 24 15:44 UTC

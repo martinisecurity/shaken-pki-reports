@@ -3,8 +3,8 @@
 ## Coztel Carrier
 
 Name: `http://5.161.95.22/191c4c42dd7fa6115e84100637e42c99.cer`\
-Tested At: 05 Apr 24 18:38 UTC\
-Time: 114ms
+Tested At: 22 Aug 24 15:15 UTC\
+Time: 146ms
 
 ### Issues
 
@@ -14,4 +14,4 @@ Time: 114ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_protocol](../../ISSUES/w_atis_protocol/README.md) | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

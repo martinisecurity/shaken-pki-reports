@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 872J
 
-Tested At: 05 Apr 24 18:39 UTC\
+Tested At: 22 Aug 24 15:16 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -211 day(s)\
+Remaining Validity Period: -349 day(s)\
 Subject: CN=SHAKEN 872J, O=CommPeak Limited, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Inc a TransUnion company, C=US\
 Link: https://cdn.commpeak.com/sti/cmmpkusns.cer
@@ -25,4 +25,4 @@ Link: https://cdn.commpeak.com/sti/cmmpkusns.cer
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 190J
 
-Tested At: 05 Apr 24 18:43 UTC\
+Tested At: 22 Aug 24 15:24 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -279 day(s)\
+Remaining Validity Period: -418 day(s)\
 Subject: CN=SHAKEN 190J, O=C3 Complete, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/bf8313bb-432e-40a4-830b-42db8b98f489/d2b38ace20409d275cd4fd76fa6e66c3.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/bf8313bb-432e-40a4-830b-42db8b98f489/d2b3
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

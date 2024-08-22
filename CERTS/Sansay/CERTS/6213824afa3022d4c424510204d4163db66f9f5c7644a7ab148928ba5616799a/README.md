@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Global Telecom Exchange LLC 270K
 
-Tested At: 05 Apr 24 18:52 UTC\
+Tested At: 22 Aug 24 15:32 UTC\
 Initial Validity Period: 120 day(s)\
-Remaining Validity Period: 12 day(s)\
+Remaining Validity Period: -126 day(s)\
 Subject: CN=SHAKEN Global Telecom Exchange LLC 270K, OU=Global Telecom Exchange LLC, O=Global Telecom Exchange LLC, ST=Florida, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Global_Telecom_Exchange_LLC_270K
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/Global_Telecom_Exchange_LLC_270K
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 270K', but common name is 'SHAKEN Global Telecom Exchange LLC 270K' |
+| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

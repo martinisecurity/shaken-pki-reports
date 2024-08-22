@@ -2,12 +2,12 @@
 
 ## Certificate Hawaiian Telcom SHAKEN Cert 009G
 
-Tested At: 05 Apr 24 18:39 UTC\
+Tested At: 22 Aug 24 15:16 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 80 day(s)\
+Remaining Validity Period: -59 day(s)\
 Subject: CN=Hawaiian Telcom SHAKEN Cert 009G, O=Hawaiian Telcom, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
-Link: https://cdn-cr.cgah.tnsi.com/certs/3e5c8831f88b085823dc347977abc7c3b3c4ae74
+Link: https://cdn-cr.cgah.tnsi.com/certs/d9fd0052c420d93208011ac9911e79e422d0edd4
 
 [View certificate details](https://x509.io/?cert=MIICWDCCAf%2BgAwIBAgIQOQUqOZEeJjGXLniu6d23pTAKBggqhkjOPQQDAjAtMSswKQYDVQQDDCJNZXRhc3dpdGNoIFNUSS1DQSBTSEFLRU4gSXNzdWluZyAxMB4XDTIxMDYyNDIyMzMzN1oXDTI0MDYyMzIyMzMzN1owUjELMAkGA1UEBhMCVVMxGDAWBgNVBAoMD0hhd2FpaWFuIFRlbGNvbTEpMCcGA1UEAwwgSGF3YWlpYW4gVGVsY29tIFNIQUtFTiBDZXJ0IDAwOUcwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARcJg18PBO4J1HRk8b8eGIxwzSmgW3P3K0v5EUBtwGzInfo5br1N6GzxMzBADLR49cDHXhIq9qTrVab%2FZ7v4dCZo4HbMIHYMAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgXgMBYGCCsGAQUFBwEaBAowCKAGFgQwMDlHMEcGA1UdHwRAMD4wPKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQEwHQYDVR0OBBYEFPUe76ZUTXN8P8fXUWX5QnJmpNecMB8GA1UdIwQYMBaAFM0epwAQENoyHWkaOdXSRgssPIfWMAoGCCqGSM49BAMCA0cAMEQCIGI0KLpElJY3QpGIh8pEBmkDbdQp4SEtACyyHiLv1GjpAiB%2BbuEUXQfWBUZbGLFlq6j80fkNR7e%2FYzGr9pdDg3J76A%3D%3D)
 
@@ -29,4 +29,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/3e5c8831f88b085823dc347977abc7c3b3c4ae7
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

@@ -3,8 +3,8 @@
 ## United Technology Group, Inc
 
 Name: `https://r.stir.tel/473K/240302151748Z/cert.pem`\
-Tested At: 05 Apr 24 18:56 UTC\
-Time: 275ms
+Tested At: 22 Aug 24 15:37 UTC\
+Time: 198ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 275ms
 |------|------|--------|---------|
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

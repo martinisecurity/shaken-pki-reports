@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 9714
 
-Tested At: 05 Apr 24 18:41 UTC\
+Tested At: 22 Aug 24 15:21 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -505 day(s)\
+Remaining Validity Period: -643 day(s)\
 Subject: CN=SHAKEN 9714, OU=SHAKEN, O=Grid4 Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/51a37c7a-5af2-439d-94ce-677fa750ee2f/e7c413b1f4ba16046abca964d1f74da4.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/51a37c7a-5af2-439d-94ce-677fa750ee2f/e7c4
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

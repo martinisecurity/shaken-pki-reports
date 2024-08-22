@@ -1,0 +1,16 @@
+# STIR/SHAKEN Certificate Repository Compliance
+
+## ATT
+
+Name: w_atis_content_type\
+Source: ATIS-1000080\
+Description: ATIS-1000080 separately indicates that the mime type should be application/pem-certificate-chain
+### Repository URLs
+
+| Repository URLs | Not After |  Problems | Link |
+|-----------------|-----------|-----------|------|
+| `https://cert.sticr.att.net:8443/certs/att/b8b9ae20-018a-4ff1-90bd-47d436341bb8` | 29&#160;Sep&#160;24&#160;15:43&#160;UTC | true | [view](../../REPOS/10d70b647199160e6b10d40295902f7881ad7827/README.md) |
+| `https://cert.sticr.att.net:8443/certs/att/fbc87945-d8b5-4629-b44a-323d19772ca8` | 30&#160;Sep&#160;24&#160;20:54&#160;UTC | true | [view](../../REPOS/4fe6036eb127709d5ad2757e9bdc3363eb7e51cc/README.md) |
+
+
+Generated: 22 Aug 24 15:44 UTC

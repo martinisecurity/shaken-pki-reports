@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN OneStream Networks, LLC 630J
 
-Tested At: 05 Apr 24 18:52 UTC\
+Tested At: 22 Aug 24 15:32 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 222 day(s)\
+Remaining Validity Period: 83 day(s)\
 Subject: CN=SHAKEN OneStream Networks\\, LLC 630J, OU=OneStream Networks, O=OneStream Networks\\, LLC, ST=New York, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/OneStream_Networks_LLC_630J
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/OneStream_Networks_LLC_630J
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 630J', but common name is 'SHAKEN OneStream Networks, LLC 630J' |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

@@ -2,14 +2,14 @@
 
 ## Flow VOIP LLC.
 
-- 2 repository URLs were included in the corpus being tested
-- 1 repository URLs in the corpus were skipped because they were duplicated
+- 3 repository URLs were included in the corpus being tested
+- 2 repository URLs in the corpus were skipped because they were duplicated
 - 1 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 55ms average time it took to download each certificate
+- 31ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://cdn.cnxcdn.com/shaken/a3a9136d93.crt` | 12&#160;Apr&#160;24&#160;17:13&#160;UTC | true | [view](REPOS/780967989edbab2e560a9e698d8b353b3d7b887f/README.md) |
+| `https://cdn.cnxcdn.com/shaken/2cee92bfa4.crt` | 12&#160;Apr&#160;25&#160;05:52&#160;UTC | true | [view](REPOS/72b4df27099f2710120eeb68cbf7b50ab94f1395/README.md) |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

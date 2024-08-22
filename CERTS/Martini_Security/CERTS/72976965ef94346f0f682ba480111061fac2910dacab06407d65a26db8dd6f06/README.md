@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 073K
 
-Tested At: 05 Apr 24 18:55 UTC\
+Tested At: 22 Aug 24 15:36 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: -464 day(s)\
+Remaining Validity Period: -603 day(s)\
 Subject: O=ACS Business Systems\\, Inc., C=US, serialNumber=26B223248528C08FD107CA236F21268A, CN=SHAKEN 073K\
 Issuer: CN=Martini Security SHAKEN G1, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2dd5/KGooOP8qrCkY.pem
@@ -25,4 +25,4 @@ Link: https://p.mtsec.me/2dd5/KGooOP8qrCkY.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

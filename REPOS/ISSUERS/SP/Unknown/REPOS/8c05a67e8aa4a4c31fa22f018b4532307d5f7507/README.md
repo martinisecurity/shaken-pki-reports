@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://netnumber-sti-cr.s3.amazonaws.com/certs/df3c165a-1571-4114-81c5-82e8266bb857`\
-Tested At: 05 Apr 24 18:53 UTC\
-Time: 192ms
+Tested At: 22 Aug 24 15:33 UTC\
+Time: 235ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 192ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

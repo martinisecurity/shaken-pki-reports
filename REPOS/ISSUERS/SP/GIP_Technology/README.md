@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 224ms average time it took to download each certificate
+- 304ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://gip.46labs.com` | 24&#160;Apr&#160;24&#160;16:43&#160;UTC | true | [view](REPOS/08a1b9827beb6e9e8a4d1df4c6ecd1cca21420dc/README.md) |
+| `https://gip.46labs.com` | 23&#160;Apr&#160;25&#160;20:32&#160;UTC | true | [view](REPOS/08a1b9827beb6e9e8a4d1df4c6ecd1cca21420dc/README.md) |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

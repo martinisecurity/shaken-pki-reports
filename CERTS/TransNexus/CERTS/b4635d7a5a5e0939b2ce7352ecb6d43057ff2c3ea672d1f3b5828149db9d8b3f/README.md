@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 916J
 
-Tested At: 05 Apr 24 18:41 UTC\
+Tested At: 22 Aug 24 15:20 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -114 day(s)\
+Remaining Validity Period: -253 day(s)\
 Subject: CN=SHAKEN 916J, O=Fusion Networks, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/48c90e4a-a2cf-4e37-bd41-4c9bf99d32ac/e3bbdd5629d3bd970e7a7be601df0aef.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/48c90e4a-a2cf-4e37-bd41-4c9bf99d32ac/e3bb
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 8468
+
+Tested At: 22 Aug 24 15:30 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 259 day(s)\
+Subject: CN=SHAKEN 8468, O=FirstLight Fiber Inc, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11260.10189.pem
+
+[View certificate details](https://x509.io/?cert=MIIDCTCCAq6gAwIBAgIUd%2F7DLgusRPiF%2FbT3yhnxJim0McMwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI0MDUwNzE4MzAxNloXDTI1MDUwNzE4MzAxNlowQjELMAkGA1UEBhMCVVMxHTAbBgNVBAoMFEZpcnN0TGlnaHQgRmliZXIgSW5jMRQwEgYDVQQDDAtTSEFLRU4gODQ2ODBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABFs6xI7YCcufKwKt07ss6ZP2gj2nQdWQvDLCWB12w90XKHAZx6N5Y3KwHtgsapZGk5sd3G5TxegIqmF5Uk%2FgNYSjggE8MIIBODAWBggrBgEFBQcBGgQKMAigBhYEODQ2ODAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIJOFf%2F%2Bn2pnUeTIl8dtdMP8ZUV4MBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwHQYDVR0OBBYEFPFl9PEvUZCXnUh9x6AAWIhSecYLMA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNJADBGAiEAreIZ9TuK9mCf3DscJjX7YyCZX42kh2CJ9lbZSXAoW80CIQC%2FEiYMpmjMd%2B6HoyrAzkwhCifFVQwb2pPl6IKBzsQ%2BOA%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 22 Aug 24 15:44 UTC

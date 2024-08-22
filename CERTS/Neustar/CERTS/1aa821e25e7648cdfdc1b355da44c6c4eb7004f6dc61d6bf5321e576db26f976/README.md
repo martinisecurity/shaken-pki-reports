@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 969H
 
-Tested At: 05 Apr 24 19:00 UTC\
+Tested At: 22 Aug 24 15:41 UTC\
 Initial Validity Period: 398 day(s)\
-Remaining Validity Period: -105 day(s)\
+Remaining Validity Period: -244 day(s)\
 Subject: CN=SHAKEN 969H, O=Google Voice Canada Corporation, C=CA\
 Issuer: CN=Neustar Canada Certified Caller ID SHAKEN CA-2, OU=www.ca.ccid.neustar, O=Neustar Information Services Inc, C=CA\
 Link: https://www.gstatic.com/gtp/stir/cpT9T1Zsg38JSHSBuNGgyg.pem
@@ -25,4 +25,4 @@ Link: https://www.gstatic.com/gtp/stir/cpT9T1Zsg38JSHSBuNGgyg.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

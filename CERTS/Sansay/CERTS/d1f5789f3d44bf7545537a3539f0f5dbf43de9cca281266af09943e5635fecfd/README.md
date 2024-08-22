@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Connexum LLC 203K
 
-Tested At: 05 Apr 24 18:52 UTC\
+Tested At: 22 Aug 24 15:32 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 78 day(s)\
+Remaining Validity Period: -61 day(s)\
 Subject: CN=SHAKEN Connexum LLC 203K, OU=Connexum LLC, O=Connexum LLC, ST=California, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Connexum_LLC_203K
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Connexum_LLC_203K
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

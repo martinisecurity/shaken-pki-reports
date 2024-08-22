@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 755J
 
-Tested At: 05 Apr 24 18:46 UTC\
+Tested At: 22 Aug 24 15:28 UTC\
 Initial Validity Period: 348 day(s)\
-Remaining Validity Period: 78 day(s)\
+Remaining Validity Period: -60 day(s)\
 Subject: serialNumber=53265133-725a-4114-bd68-57d344d498af, CN=SHAKEN 755J, O=CMSInter.net LLC, C=US\
 Issuer: CN=Telonium STI-CA Intermediate CA, O=Telonium STI-CA\
 Link: https://certs.telonium.net/23/5b2e12ce.crt
@@ -16,4 +16,4 @@ Link: https://certs.telonium.net/23/5b2e12ce.crt
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.4.1.37476.9000.64.1 |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

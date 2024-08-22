@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 408ms average time it took to download each certificate
+- 456ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://www.ccctelecom.com/816K.pem` | 28&#160;Jan&#160;25&#160;19:17&#160;UTC | true | [view](REPOS/73f7f4f51d070ec702540abfe8dcb71a5aa3f66a/README.md) |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

@@ -12,13 +12,16 @@ Description: The Certificate Policies extension MUST contain a single OID value 
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../../CERTS/6d933f79b12eb44c22c5fef74073e054fa5c31aa25a75811d8a032f3d894ab24/README.md) | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
-| error | Plivo Inc | [view](../../CERTS/fed50200daa631dd0cd7b74969c780f8d456dfd31db156c6cbea276f5a9a4cbf/README.md) | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
+| error | Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../../CERTS/9031f36486b3f45d8ade9fc74bbad02ffc88c003c6c5507d1f77833bd0626075/README.md) | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
+| error | Plivo Inc | [view](../../CERTS/842b9c1621617feb8d70fbe7aa3008ca7d41b51cae837e7ae72f235593062e0d/README.md) | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
+| error | HD CARRIER LLC | [view](../../CERTS/d908104498da62c7320b01c47ba0c84006483971cfcaf10ecf40336551fd2c15/README.md) | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
+| error | HD CARRIER LLC | [view](../../CERTS/0778cb5231bc65aa1eb179da12669b82d11ca974da3e62e71ebc5c05abe76c4e/README.md) | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 | error | DISH Wireless L.L.C.SHAKEN.490J | [view](../../CERTS/2943713c56f0705ed027ecffced5eb89cb1c36bb5386bdc36a6b8e5618ca2c9c/README.md) | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
+| error | Google SHAKEN cert 969H | [view](../../CERTS/280809a53471d29f3ce68f5222ec5f15928109ccdf50e8aaa393b31a1b2bb991/README.md) | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 651K
 
-Tested At: 05 Apr 24 18:45 UTC\
+Tested At: 22 Aug 24 15:27 UTC\
 Initial Validity Period: 367 day(s)\
-Remaining Validity Period: 99 day(s)\
+Remaining Validity Period: -40 day(s)\
 Subject: serialNumber=24094d07-6b8e-4255-80c7-e22802d15590, CN=SHAKEN 651K, O=Callsy Network LLC, C=US\
 Issuer: CN=Telonium STI-CA Intermediate CA, O=Telonium STI-CA\
 Link: https://certificates.peeringhub.io/651K/651K.crt
@@ -16,4 +16,4 @@ Link: https://certificates.peeringhub.io/651K/651K.crt
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.4.1.37476.9000.64.1 |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

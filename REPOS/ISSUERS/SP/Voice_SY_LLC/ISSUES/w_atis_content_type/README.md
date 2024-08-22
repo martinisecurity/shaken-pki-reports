@@ -9,7 +9,8 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://voicesy.46labs.com/voicesy.pem` | 14&#160;Apr&#160;24&#160;17:02&#160;UTC | true | [view](../../REPOS/96461158e67f9387d250fc6dd1f9c642c641766f/README.md) |
+| `https://primodialer.peeredge.com/cert/w3sUjZVE.pem` | 28&#160;Jan&#160;25&#160;07:20&#160;UTC | true | [view](../../REPOS/75771a03cc90d6e5b1733f4c075ee75245a75ee9/README.md) |
+| `https://voicesy.46labs.com/voicesy.pem` | 13&#160;Jul&#160;24&#160;10:54&#160;UTC | true | [view](../../REPOS/96461158e67f9387d250fc6dd1f9c642c641766f/README.md) |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Root CA
 
-Tested At: 05 Apr 24 19:04 UTC\
+Tested At: 22 Aug 24 15:44 UTC\
 Initial Validity Period: 9125 day(s)\
-Remaining Validity Period: 8836 day(s)\
+Remaining Validity Period: 8697 day(s)\
 Subject: CN=SHAKEN Root CA, O=CTIA, C=US\
 Issuer: CN=SHAKEN Root CA, O=CTIA, C=US
 
@@ -15,4 +15,4 @@ Issuer: CN=SHAKEN Root CA, O=CTIA, C=US
 | [e_atis_subject_public_key_ca](../../ISSUES/e_atis_subject_public_key_ca/README.md) | error | ATIS1000080 | Subject Public Key Info field contains a public key that is not 256 bits |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

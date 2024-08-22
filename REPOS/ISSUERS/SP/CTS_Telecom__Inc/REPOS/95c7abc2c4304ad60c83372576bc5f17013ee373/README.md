@@ -3,8 +3,8 @@
 ## CTS Telecom, Inc
 
 Name: `https://cdn-cr.cgah.tnsi.com/certs/6db90427e977d872d1d8aa0a64c3760b043f7edb`\
-Tested At: 05 Apr 24 18:39 UTC\
-Time: 29ms
+Tested At: 22 Aug 24 15:16 UTC\
+Time: 32ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 29ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

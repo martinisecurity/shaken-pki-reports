@@ -1,0 +1,17 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 738K
+
+Tested At: 22 Aug 24 15:25 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -35 day(s)\
+Subject: CN=SHAKEN 738K, O=Skytel Digicom\\ , C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/dbc3fe51-97bc-4b64-b9c3-6460f0ca4730/deaebcba6c491d7b7668f3f6cd444035.pem
+
+[View certificate details](https://x509.io/?cert=MIICzzCCAnWgAwIBAgIQQ%2F7v%2Fj5lhmVWx5iap0x3MzAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTUwHhcNMjQwNzEwMTcwMzE5WhcNMjQwNzE3MTcwMzE4WjA9MQswCQYDVQQGEwJVUzEYMBYGA1UEChMPU2t5dGVsIERpZ2ljb20gMRQwEgYDVQQDEwtTSEFLRU4gNzM4SzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABO%2B%2FN2mBAKj7PtO84oDb%2FxXi52x1WmHfwzKDVltehcDm5zy2tq5zYzA7oxAqmbYX43IS8P2tFfteud8r8nT90lOjggE8MIIBODAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAdBgNVHQ4EFgQUcD%2BuD%2FiwBeeLPdR%2FXRk0wbmWFgMwHwYDVR0jBBgwFoAU2gCzh%2FiCP7%2B6IqJkY7X2L8yOdcowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEEMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAWBggrBgEFBQcBGgQKMAigBhYENzM4SzAKBggqhkjOPQQDAgNIADBFAiA2S7jbwUyA3nACdm1BSe6ecs141rJZ53fTlPz0VGfFxgIhAKpAZwkN6MDGKRflxfSO5offy%2Ff%2FXywt4o5haOaY3BmM)
+
+164 tests were ran and no error, warning, or notice level issues were found
+
+
+Generated: 22 Aug 24 15:44 UTC

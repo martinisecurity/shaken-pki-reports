@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 735J
 
-Tested At: 05 Apr 24 18:39 UTC\
+Tested At: 22 Aug 24 15:17 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -213 day(s)\
+Remaining Validity Period: -352 day(s)\
 Subject: CN=SHAKEN 735J, O=AVOXI Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/11124177-79f3-48b2-867a-386d4dc61c99/58a743245874c8f5f3b41896da62a227.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/11124177-79f3-48b2-867a-386d4dc61c99/58a7
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

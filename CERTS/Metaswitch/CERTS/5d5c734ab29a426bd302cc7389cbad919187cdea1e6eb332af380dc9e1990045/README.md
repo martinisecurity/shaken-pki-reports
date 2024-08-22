@@ -2,12 +2,12 @@
 
 ## Certificate Highland Telephone Cooperative SHAKEN Cert 0565
 
-Tested At: 05 Apr 24 18:39 UTC\
+Tested At: 22 Aug 24 15:16 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 722 day(s)\
+Remaining Validity Period: 584 day(s)\
 Subject: CN=Highland Telephone Cooperative SHAKEN Cert 0565, O=Highland Telephone Cooperative, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
-Link: https://cdn-cr.cgah.tnsi.com/certs/3e401c7a84f75f433a566157ca877a2a3143ba4d
+Link: https://cdn-cr.cgah.tnsi.com/certs/2ea4f70250c45d8d12df4852263f77d007152f19
 
 [View certificate details](https://x509.io/?cert=MIICdzCCAh2gAwIBAgIQepNNtqTB453JZJYwYT9B8zAKBggqhkjOPQQDAjAtMSswKQYDVQQDDCJNZXRhc3dpdGNoIFNUSS1DQSBTSEFLRU4gSXNzdWluZyAxMB4XDTIzMDMyOTE4NDMzNFoXDTI2MDMyODE4NDMzNFowcDELMAkGA1UEBhMCVVMxJzAlBgNVBAoMHkhpZ2hsYW5kIFRlbGVwaG9uZSBDb29wZXJhdGl2ZTE4MDYGA1UEAwwvSGlnaGxhbmQgVGVsZXBob25lIENvb3BlcmF0aXZlIFNIQUtFTiBDZXJ0IDA1NjUwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARmVv0eMxWl7P%2BtZd0iYVcFwvUtQ3fvYg3jtBuDcAbuHvkuk0l5ubDseXoEfXX467nB%2BbQxqra3I2XeQKLv9XyKo4HbMIHYMAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgXgMBYGCCsGAQUFBwEaBAowCKAGFgQwNTY1MEcGA1UdHwRAMD4wPKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwHQYDVR0OBBYEFBExB01F8ohnt0lBW%2B4F%2BSD%2BgkmbMB8GA1UdIwQYMBaAFM0epwAQENoyHWkaOdXSRgssPIfWMAoGCCqGSM49BAMCA0gAMEUCIH49ZcR7AHAYTEiG%2BbOf%2FTpfArkPBF22wA7UuDwoo6SIAiEA1aboFpliZP9n5eQaOMDtyvxSvhb88EsK15f12oRlIRo%3D)
 
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/3e401c7a84f75f433a566157ca877a2a3143ba4
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

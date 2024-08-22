@@ -9,8 +9,8 @@
 
 #### Leaf Certificates
 
-- 1 certificates were included in the corpus being tested
-- 0 certificates in the corpus were skipped because they are duplicates
+- 2 certificates were included in the corpus being tested
+- 1 certificates in the corpus were skipped because they are duplicates
 - 0 certificates in the corpus were skipped because they are expired
 - 1 certificates in the corpus were skipped because they are not currently trusted
 - 0 certificates being tested against the remaining rules
@@ -58,4 +58,4 @@ No error, warning, or notice level issues were found
 |------------|---------|-----------|----------|------|
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

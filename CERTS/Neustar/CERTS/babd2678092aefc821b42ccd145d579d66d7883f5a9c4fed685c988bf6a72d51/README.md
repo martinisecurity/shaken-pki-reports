@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 763H
+
+Tested At: 22 Aug 24 15:30 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 274 day(s)\
+Subject: CN=SHAKEN 763H, O=PS Lightwave\\, Inc, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11358.10161.pem
+
+[View certificate details](https://x509.io/?cert=MIIDBTCCAqugAwIBAgIUAy5Pt%2FkECS0Ik9L%2FD0CfIOL9lNYwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI0MDUyMjIwMzk1OVoXDTI1MDUyMjIwMzk1OVowPzELMAkGA1UEBhMCVVMxGjAYBgNVBAoMEVBTIExpZ2h0d2F2ZSwgSW5jMRQwEgYDVQQDDAtTSEFLRU4gNzYzSDBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABDGXwlShr20a7rY5upCaVgilMFk0jyqr9roC3ZbAfiLZsMOaNZ4CASGBwOT70g%2B1aF%2BKlqDfYAwlEYG%2BMpCRE6KjggE8MIIBODAWBggrBgEFBQcBGgQKMAigBhYENzYzSDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIJOFf%2F%2Bn2pnUeTIl8dtdMP8ZUV4MBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwHQYDVR0OBBYEFJU9R7G4DkZ%2BNf7JAajBP5csALfxMA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNIADBFAiEA7kuboSb%2BVYJdWqblEp%2F0Dff7tcer51cPQmYihUYUkRQCIBDbs0QINE%2BBrPeSkj763P69Xl%2FDWjP7kbIBPFyhKU5F)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 22 Aug 24 15:44 UTC

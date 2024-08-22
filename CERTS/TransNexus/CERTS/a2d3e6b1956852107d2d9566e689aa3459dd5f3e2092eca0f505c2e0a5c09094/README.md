@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 660C
 
-Tested At: 05 Apr 24 18:43 UTC\
+Tested At: 22 Aug 24 15:24 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -400 day(s)\
+Remaining Validity Period: -538 day(s)\
 Subject: CN=SHAKEN 660C, O=Hunter Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/a541dde9-cb96-4612-bb82-7884c3a4d18b/82a6a6c8a98262fc7d0e6bd436aa7d1b.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/a541dde9-cb96-4612-bb82-7884c3a4d18b/82a6
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

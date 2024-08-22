@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Swift Telco LLC 452K
 
-Tested At: 05 Apr 24 18:39 UTC\
+Tested At: 22 Aug 24 15:16 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -1 day(s)\
+Remaining Validity Period: -139 day(s)\
 Subject: CN=SHAKEN Swift Telco LLC 452K, OU=ST124new, O=Swift Telco LLC, ST=South Carolina, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cdn.cnxcdn.com/shaken/c015310d91.crt
@@ -17,4 +17,4 @@ Link: https://cdn.cnxcdn.com/shaken/c015310d91.crt
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 452K', but common name is 'SHAKEN Swift Telco LLC 452K' |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

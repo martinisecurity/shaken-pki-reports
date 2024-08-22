@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Swift Telco LLC 452K
 
-Tested At: 05 Apr 24 18:53 UTC\
+Tested At: 22 Aug 24 15:32 UTC\
 Initial Validity Period: 2 day(s)\
-Remaining Validity Period: -413 day(s)\
+Remaining Validity Period: -552 day(s)\
 Subject: CN=SHAKEN Swift Telco LLC 452K, OU=SWT, O=Swift Telco LLC, ST=South Carolina, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Swift_telco_2_D
@@ -26,4 +26,4 @@ Link: https://cr.sansay.com/Swift_telco_2_D
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

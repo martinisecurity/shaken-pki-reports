@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 888J
 
-Tested At: 05 Apr 24 18:44 UTC\
+Tested At: 22 Aug 24 15:25 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -428 day(s)\
+Remaining Validity Period: -567 day(s)\
 Subject: CN=SHAKEN 888J, O=LightSpar, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/e2e5ceb4-de54-4a67-8956-519eb3fd615c/43d83b17a7501148bcdbac16c9ad0ec8.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/e2e5ceb4-de54-4a67-8956-519eb3fd615c/43d8
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

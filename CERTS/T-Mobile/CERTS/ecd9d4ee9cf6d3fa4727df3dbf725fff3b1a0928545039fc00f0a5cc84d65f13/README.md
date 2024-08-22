@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 6529
 
-Tested At: 05 Apr 24 19:00 UTC\
+Tested At: 22 Aug 24 15:41 UTC\
 Initial Validity Period: 366 day(s)\
-Remaining Validity Period: 159 day(s)\
+Remaining Validity Period: 20 day(s)\
 Subject: CN=SHAKEN 6529, OU=Core Network Engineering, O=T-Mobile USA\\, Inc., L=Bellevue, ST=Washington, C=US\
 Issuer: CN=TMOBILE-PROD-SUB-STIRSHAKEN-EC, O=TMOBILE-USA, C=US\
 Link: https://t-mobile-sticr.fosrvt.com/f59530d22b839d3b50a91a6279e8b1e0510cade2b8913ff3011c89e3f3725300.pem
@@ -16,4 +16,4 @@ Link: https://t-mobile-sticr.fosrvt.com/f59530d22b839d3b50a91a6279e8b1e0510cade2
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

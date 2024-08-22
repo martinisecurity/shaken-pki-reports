@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Every1 Telecom 486K
 
-Tested At: 05 Apr 24 18:56 UTC\
+Tested At: 22 Aug 24 15:37 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -18 day(s)\
+Remaining Validity Period: -157 day(s)\
 Subject: CN=SHAKEN Every1 Telecom 486K, OU=President, O=Every1 Telecom, ST=Texas, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://ssc.getsipnav.com/certs/151999133200d5cd3cac1e5d07af806d25ef74f4
@@ -17,4 +17,4 @@ Link: https://ssc.getsipnav.com/certs/151999133200d5cd3cac1e5d07af806d25ef74f4
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

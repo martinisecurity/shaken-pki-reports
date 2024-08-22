@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 322K
 
-Tested At: 05 Apr 24 18:40 UTC\
+Tested At: 22 Aug 24 15:20 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -360 day(s)\
+Remaining Validity Period: -498 day(s)\
 Subject: CN=SHAKEN 322K, O=Extended Office Solutions Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/37ceef8b-2c31-45d5-adbf-c97bb5bc9e3b/19856ae13f7699ed9c68be5a8c15a945.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/37ceef8b-2c31-45d5-adbf-c97bb5bc9e3b/1985
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

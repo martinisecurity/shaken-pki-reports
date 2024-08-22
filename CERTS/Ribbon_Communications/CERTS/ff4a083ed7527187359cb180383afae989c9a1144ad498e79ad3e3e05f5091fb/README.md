@@ -2,9 +2,9 @@
 
 ## Certificate Empire SHAKEN 087H
 
-Tested At: 05 Apr 24 18:56 UTC\
+Tested At: 22 Aug 24 15:36 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 273 day(s)\
+Remaining Validity Period: 135 day(s)\
 Subject: CN=Empire SHAKEN 087H, OU=Network, O=Empire Telephone, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/Wlp54ZO4gz/087HJAN2024-35973a9ad21daed2759943e6a06798c3
@@ -17,4 +17,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/Wlp54ZO4gz/087HJAN2024-35973a9ad2
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate USCellular SHAKEN Cert 6349
 
-Tested At: 05 Apr 24 18:56 UTC\
+Tested At: 22 Aug 24 15:37 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: -5 day(s)\
+Remaining Validity Period: -144 day(s)\
 Subject: CN=USCellular SHAKEN Cert 6349, L=Ch, ST=IL, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://robocall.sti.uscellular.com/certs/uscc_shaken_CA.crt
@@ -29,4 +29,4 @@ Link: https://robocall.sti.uscellular.com/certs/uscc_shaken_CA.crt
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC

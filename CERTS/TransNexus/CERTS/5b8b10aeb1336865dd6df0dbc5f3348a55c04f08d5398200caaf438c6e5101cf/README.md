@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0127
 
-Tested At: 05 Apr 24 18:41 UTC\
+Tested At: 22 Aug 24 15:21 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -486 day(s)\
+Remaining Validity Period: -625 day(s)\
 Subject: CN=SHAKEN 0127, O=Andrew Ward Consulting LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/649d9560-7197-4132-94b4-40da224ec372/f3f01a543f6e4d1c3b553723ac5c4d4a.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/649d9560-7197-4132-94b4-40da224ec372/f3f0
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 05 Apr 24 19:04 UTC
+Generated: 22 Aug 24 15:44 UTC
