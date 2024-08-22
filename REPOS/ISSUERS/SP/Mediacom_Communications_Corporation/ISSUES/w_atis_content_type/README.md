@@ -9,7 +9,7 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://shaken.stir.mediacomcc.com/certs/mediacomcertchain.crt` | 26&#160;May&#160;24&#160;13:28&#160;UTC | true | [view](../../REPOS/178d90525ad3207ba870f877ac6d2b9c69bb6cfa/README.md) |
+| `https://shaken.stir.mediacomcc.com/certs/mediacom2024certchain.crt` | 03&#160;Jun&#160;27&#160;17:14&#160;UTC | true | [view](../../REPOS/dcb58738410721461a6d6f2bc09bc1b23b58858f/README.md) |
 
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

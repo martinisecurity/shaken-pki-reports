@@ -12,13 +12,11 @@ Description: STI certificates shall have a serial number that contains at least 
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | Plivo Inc | [view](../../CERTS/fed50200daa631dd0cd7b74969c780f8d456dfd31db156c6cbea276f5a9a4cbf/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 60 |
-| error | HD CARRIER LLC | [view](../../CERTS/bef6faeb484fb93900c6e5c2d3988ab99efaae26939259683f81b3031aa15713/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 61 |
-| error | Google SHAKEN cert 969H | [view](../../CERTS/16f320d1971e6da38e8a26433b6d8006ff2144912ff1f128c51da37cfc2bd6c3/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
+| error | Plivo Inc | [view](../../CERTS/842b9c1621617feb8d70fbe7aa3008ca7d41b51cae837e7ae72f235593062e0d/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

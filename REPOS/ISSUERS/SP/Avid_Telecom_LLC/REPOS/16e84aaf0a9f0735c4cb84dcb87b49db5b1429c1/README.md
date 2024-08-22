@@ -3,8 +3,8 @@
 ## Avid Telecom LLC
 
 Name: `https://ssc.getsipnav.com/certs/04f6fca4ed2cb2ba3395ab5c4de7d4573e3e6c54`\
-Tested At: 28 Nov 23 10:45 UTC\
-Time: 127ms
+Tested At: 22 Aug 24 15:59 UTC\
+Time: 183ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 127ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

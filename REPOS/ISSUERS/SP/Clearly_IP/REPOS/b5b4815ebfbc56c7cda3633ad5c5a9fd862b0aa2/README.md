@@ -3,8 +3,8 @@
 ## Clearly IP
 
 Name: `https://r.stir.tel/704J/240425211751Z/cert.pem`\
-Tested At: 28 Nov 23 10:45 UTC\
-Time: 144ms
+Tested At: 22 Aug 24 15:59 UTC\
+Time: 117ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 144ms
 |------|------|--------|---------|
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

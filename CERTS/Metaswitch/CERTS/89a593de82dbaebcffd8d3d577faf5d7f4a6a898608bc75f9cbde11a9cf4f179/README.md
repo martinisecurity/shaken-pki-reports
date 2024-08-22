@@ -2,14 +2,14 @@
 
 ## Certificate Foothills Rural Tel SHAKEN Cert 0406
 
-Tested At: 28 Nov 23 10:18 UTC\
+Tested At: 22 Aug 24 15:18 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 245 day(s)\
+Remaining Validity Period: -23 day(s)\
 Subject: CN=Foothills Rural Tel SHAKEN Cert 0406, O=Foothills Rural Tel, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/75cbed3f99e2082742446010d73f3f45e7ffbb67
 
-[View certificate details](https://understandingwebpki.com/?cert=MIICYDCCAgegAwIBAgIQZFd0eu3VCNlRoUFcegy44jAKBggqhkjOPQQDAjAtMSswKQYDVQQDDCJNZXRhc3dpdGNoIFNUSS1DQSBTSEFLRU4gSXNzdWluZyAxMB4XDTIxMDczMDE3MDQyOFoXDTI0MDcyOTE3MDQyOFowWjELMAkGA1UEBhMCVVMxHDAaBgNVBAoME0Zvb3RoaWxscyBSdXJhbCBUZWwxLTArBgNVBAMMJEZvb3RoaWxscyBSdXJhbCBUZWwgU0hBS0VOIENlcnQgMDQwNjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABNmtNTzTDvB0niDvGCq7%2F7Mk%2FocZjQHeZfKM0oTxLcAs6In%2FkBoeP7Yg2eLzYJ%2B9IHdO6wJJhfAi86WCmP2c1b2jgdswgdgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCBeAwFgYIKwYBBQUHARoECjAIoAYWBDA0MDYwRwYDVR0fBEAwPjA8oDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBATAdBgNVHQ4EFgQUZIkAHMop%2FPysHvirfxO6Rgei1bkwHwYDVR0jBBgwFoAUzR6nABAQ2jIdaRo51dJGCyw8h9YwCgYIKoZIzj0EAwIDRwAwRAIgLvWIlHbVB7o7rZnmVdKYjGpDmKQjXdsHmLbNX7pL%2BDMCIFmjq8c6lDCJJvW1F9p2Yq6MWcx2FAt%2FtAwP%2BPLPw6uj)
+[View certificate details](https://x509.io/?cert=MIICYDCCAgegAwIBAgIQZFd0eu3VCNlRoUFcegy44jAKBggqhkjOPQQDAjAtMSswKQYDVQQDDCJNZXRhc3dpdGNoIFNUSS1DQSBTSEFLRU4gSXNzdWluZyAxMB4XDTIxMDczMDE3MDQyOFoXDTI0MDcyOTE3MDQyOFowWjELMAkGA1UEBhMCVVMxHDAaBgNVBAoME0Zvb3RoaWxscyBSdXJhbCBUZWwxLTArBgNVBAMMJEZvb3RoaWxscyBSdXJhbCBUZWwgU0hBS0VOIENlcnQgMDQwNjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABNmtNTzTDvB0niDvGCq7%2F7Mk%2FocZjQHeZfKM0oTxLcAs6In%2FkBoeP7Yg2eLzYJ%2B9IHdO6wJJhfAi86WCmP2c1b2jgdswgdgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCBeAwFgYIKwYBBQUHARoECjAIoAYWBDA0MDYwRwYDVR0fBEAwPjA8oDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBATAdBgNVHQ4EFgQUZIkAHMop%2FPysHvirfxO6Rgei1bkwHwYDVR0jBBgwFoAUzR6nABAQ2jIdaRo51dJGCyw8h9YwCgYIKoZIzj0EAwIDRwAwRAIgLvWIlHbVB7o7rZnmVdKYjGpDmKQjXdsHmLbNX7pL%2BDMCIFmjq8c6lDCJJvW1F9p2Yq6MWcx2FAt%2FtAwP%2BPLPw6uj)
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
@@ -29,4 +29,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/75cbed3f99e2082742446010d73f3f45e7ffbb6
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

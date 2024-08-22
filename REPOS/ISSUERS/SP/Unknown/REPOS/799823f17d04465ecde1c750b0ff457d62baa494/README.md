@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/gh-2022-12`\
-Tested At: 28 Nov 23 10:45 UTC\
-Time: 745ms
+Tested At: 22 Aug 24 15:59 UTC\
+Time: 229ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 745ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

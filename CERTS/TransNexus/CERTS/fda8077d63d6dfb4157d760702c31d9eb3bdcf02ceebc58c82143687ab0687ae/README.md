@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 377G
+
+Tested At: 22 Aug 24 15:19 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -240 day(s)\
+Subject: CN=SHAKEN 377G, O=Peace Communications, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/0a7395d3-b91d-40c1-b036-bf48813797fb/f42436d1a31bdac23f48eb2e0988b9f1.pem
+
+[View certificate details](https://x509.io/?cert=MIIC1DCCAnqgAwIBAgIQd7ekdChbId0Kazq4Dnve%2FjAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMxMjE5MTUyNDE5WhcNMjMxMjI2MTUyNDE4WjBCMQswCQYDVQQGEwJVUzEdMBsGA1UEChMUUGVhY2UgQ29tbXVuaWNhdGlvbnMxFDASBgNVBAMTC1NIQUtFTiAzNzdHMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEryuBAHTX%2Fay2izv4V9f%2BpRVfIQvAoJAS7aJFQV5Y%2Bxy3vB%2F3YclkpXf%2FR2ScDOJuV0Z5xO6qG9q8WkT%2Bxi2YAaOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBTs1RJpWV4As8Y6rHpEJ%2BKh7WZoXTAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQzNzdHMAoGCCqGSM49BAMCA0gAMEUCIGZj2Z3hM64jsLXQjD5p2%2BsSOwXHl5nRn%2Byk96h2ALx2AiEAn1qHJR%2FQXOrs7ekSrsng7SV3f0ckrq4%2FftMri1x%2F3C4%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 22 Aug 24 16:06 UTC

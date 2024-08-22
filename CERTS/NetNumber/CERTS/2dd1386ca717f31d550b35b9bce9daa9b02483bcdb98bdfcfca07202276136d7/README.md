@@ -2,18 +2,18 @@
 
 ## Certificate NetNumber SHAKEN Root CA 1
 
-Tested At: 28 Nov 23 10:53 UTC\
+Tested At: 22 Aug 24 16:06 UTC\
 Initial Validity Period: 9125 day(s)\
-Remaining Validity Period: 8334 day(s)\
+Remaining Validity Period: 8066 day(s)\
 Subject: L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN Root CA 1\
 Issuer: L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN Root CA 1
 
-[View certificate details](https://understandingwebpki.com/?cert=MIIDTzCCArCgAwIBAgIISf7Z%2FTlgXrcwCgYIKoZIzj0EAwQwgYExIzAhBgNVBAMMGk5ldE51bWJlciBTSEFLRU4gUm9vdCBDQSAxMQswCQYDVQQGEwJVUzEWMBQGA1UECgwNTmV0TnVtYmVyIEluYzELMAkGA1UECwwCVVMxFzAVBgNVBAgMDk1hc3NhY2h1c2V0dGVzMQ8wDQYDVQQHDAZMb3dlbGwwHhcNMjEwOTI3MTk0NTU1WhcNNDYwOTIxMTk0NTU1WjCBgTEjMCEGA1UEAwwaTmV0TnVtYmVyIFNIQUtFTiBSb290IENBIDExCzAJBgNVBAYTAlVTMRYwFAYDVQQKDA1OZXROdW1iZXIgSW5jMQswCQYDVQQLDAJVUzEXMBUGA1UECAwOTWFzc2FjaHVzZXR0ZXMxDzANBgNVBAcMBkxvd2VsbDCBmzAQBgcqhkjOPQIBBgUrgQQAIwOBhgAEAdTfxsBujQ9g7Wq3w65HUq4rfsSIB1ZvmFdq37XYx6EhbhJHZqYv9JXuzgdpSb7LA4TkpvoDxRteduiSmFUfLXC8AWPudzD4upqXx1nLqI6w6QG2slldNJZhyxO%2B6PULGC8TX40zKvCFG3jE2XuxSYXVTlLi2WdsIej7T915JjwGThuso4HMMIHJMBIGA1UdEwEB%2FwQIMAYBAf8CAQMwDgYDVR0PAQH%2FBAQDAgIEMB8GA1UdIwQYMBaAFH%2FSxmcvsw47rbQTPz8vahAgvo8UMB0GA1UdDgQWBBR%2F0sZnL7MOO620Ez8%2FL2oQIL6PFDBHBgNVHR8EQDA%2BMDygOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmwwGgYDVR0gAQH%2FBBAwDjAMBgpghkgBhv8JAQEBMAoGCCqGSM49BAMEA4GMADCBiAJCAUaYZrJYA0P%2FCeus%2FlAFSp3h4zszZ8LGgVscwecmmmxYfT0eP1UH8dJLk67oNvMtQRJBbeYpNlu306rC8rF%2F%2B9NOAkIBNqlzppquQhm%2FxpT7ghMCnsqzDZ5tGM5OUsgsIIzfm489%2Br3B4bLZg9XyQkaRL4fYdjxaZbVmZyqurCINCDzQKDQ%3D)
+[View certificate details](https://x509.io/?cert=MIIDTzCCArCgAwIBAgIISf7Z%2FTlgXrcwCgYIKoZIzj0EAwQwgYExIzAhBgNVBAMMGk5ldE51bWJlciBTSEFLRU4gUm9vdCBDQSAxMQswCQYDVQQGEwJVUzEWMBQGA1UECgwNTmV0TnVtYmVyIEluYzELMAkGA1UECwwCVVMxFzAVBgNVBAgMDk1hc3NhY2h1c2V0dGVzMQ8wDQYDVQQHDAZMb3dlbGwwHhcNMjEwOTI3MTk0NTU1WhcNNDYwOTIxMTk0NTU1WjCBgTEjMCEGA1UEAwwaTmV0TnVtYmVyIFNIQUtFTiBSb290IENBIDExCzAJBgNVBAYTAlVTMRYwFAYDVQQKDA1OZXROdW1iZXIgSW5jMQswCQYDVQQLDAJVUzEXMBUGA1UECAwOTWFzc2FjaHVzZXR0ZXMxDzANBgNVBAcMBkxvd2VsbDCBmzAQBgcqhkjOPQIBBgUrgQQAIwOBhgAEAdTfxsBujQ9g7Wq3w65HUq4rfsSIB1ZvmFdq37XYx6EhbhJHZqYv9JXuzgdpSb7LA4TkpvoDxRteduiSmFUfLXC8AWPudzD4upqXx1nLqI6w6QG2slldNJZhyxO%2B6PULGC8TX40zKvCFG3jE2XuxSYXVTlLi2WdsIej7T915JjwGThuso4HMMIHJMBIGA1UdEwEB%2FwQIMAYBAf8CAQMwDgYDVR0PAQH%2FBAQDAgIEMB8GA1UdIwQYMBaAFH%2FSxmcvsw47rbQTPz8vahAgvo8UMB0GA1UdDgQWBBR%2F0sZnL7MOO620Ez8%2FL2oQIL6PFDBHBgNVHR8EQDA%2BMDygOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmwwGgYDVR0gAQH%2FBBAwDjAMBgpghkgBhv8JAQEBMAoGCCqGSM49BAMEA4GMADCBiAJCAUaYZrJYA0P%2FCeus%2FlAFSp3h4zszZ8LGgVscwecmmmxYfT0eP1UH8dJLk67oNvMtQRJBbeYpNlu306rC8rF%2F%2B9NOAkIBNqlzppquQhm%2FxpT7ghMCnsqzDZ5tGM5OUsgsIIzfm489%2Br3B4bLZg9XyQkaRL4fYdjxaZbVmZyqurCINCDzQKDQ%3D)
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_signature_algorithm_ca](../../ISSUES/e_atis_signature_algorithm_ca/README.md) | error | ATIS1000080 | SignatureAlgorithm field is not 'ecdsa-with-SHA256', got 1.2.840.10045.4.3.4 |
 | [e_atis_subject_public_key_ca](../../ISSUES/e_atis_subject_public_key_ca/README.md) | error | ATIS1000080 | Subject Public Key Info field contains a public key that is not 256 bits |
+| [e_atis_signature_algorithm_ca](../../ISSUES/e_atis_signature_algorithm_ca/README.md) | error | ATIS1000080 | SignatureAlgorithm field is not 'ecdsa-with-SHA256', got 1.2.840.10045.4.3.4 |
 
 ### Not Effective
 
@@ -29,4 +29,4 @@ Issuer: L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber 
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

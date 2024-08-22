@@ -21,4 +21,4 @@ No error, warning, or notice level issues were found
 | error | Metaswitch STI-CA SHAKEN Root | [view](../../CERTS/c27184f75f81fc119b85d51d416477bf635040e5d66ce6051799b37b9aa17485/README.md) | Subject DN does not contain a Country (C=) attribute |
 
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

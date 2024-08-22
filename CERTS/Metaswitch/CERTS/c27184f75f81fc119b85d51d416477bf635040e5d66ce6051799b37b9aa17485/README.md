@@ -2,13 +2,13 @@
 
 ## Certificate Metaswitch STI-CA SHAKEN Root
 
-Tested At: 28 Nov 23 10:53 UTC\
+Tested At: 22 Aug 24 16:06 UTC\
 Initial Validity Period: 7300 day(s)\
-Remaining Validity Period: 6203 day(s)\
+Remaining Validity Period: 5934 day(s)\
 Subject: CN=Metaswitch STI-CA SHAKEN Root\
 Issuer: CN=Metaswitch STI-CA SHAKEN Root
 
-[View certificate details](https://understandingwebpki.com/?cert=MIIBqzCCAVCgAwIBAgIJALwomIWcKYBrMAoGCCqGSM49BAMCMCgxJjAkBgNVBAMMHU1ldGFzd2l0Y2ggU1RJLUNBIFNIQUtFTiBSb290MB4XDTIwMTEyNTExMjEwM1oXDTQwMTEyMDExMjEwM1owKDEmMCQGA1UEAwwdTWV0YXN3aXRjaCBTVEktQ0EgU0hBS0VOIFJvb3QwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATyreklRBPdqnX38C%2Bhgk2SSlc0wql13TIvWTOt0sme07R9UDramRRqolR58Qz04CCtO8EPeuZKzqE0Xdb0RJQoo2MwYTAdBgNVHQ4EFgQUOVRpugxs9p9X0ZsBMUWKoPv%2FeGowHwYDVR0jBBgwFoAUOVRpugxs9p9X0ZsBMUWKoPv%2FeGowDwYDVR0TAQH%2FBAUwAwEB%2FzAOBgNVHQ8BAf8EBAMCAgQwCgYIKoZIzj0EAwIDSQAwRgIhAN%2BDEVzNLBjOsq8TbDHbkhO1MDUhvcv6Kxxaj1puvAi5AiEAtbkNa56M4Sip0yLbWTXKdXcqAC5DHxbF4ab45aor220%3D)
+[View certificate details](https://x509.io/?cert=MIIBqzCCAVCgAwIBAgIJALwomIWcKYBrMAoGCCqGSM49BAMCMCgxJjAkBgNVBAMMHU1ldGFzd2l0Y2ggU1RJLUNBIFNIQUtFTiBSb290MB4XDTIwMTEyNTExMjEwM1oXDTQwMTEyMDExMjEwM1owKDEmMCQGA1UEAwwdTWV0YXN3aXRjaCBTVEktQ0EgU0hBS0VOIFJvb3QwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATyreklRBPdqnX38C%2Bhgk2SSlc0wql13TIvWTOt0sme07R9UDramRRqolR58Qz04CCtO8EPeuZKzqE0Xdb0RJQoo2MwYTAdBgNVHQ4EFgQUOVRpugxs9p9X0ZsBMUWKoPv%2FeGowHwYDVR0jBBgwFoAUOVRpugxs9p9X0ZsBMUWKoPv%2FeGowDwYDVR0TAQH%2FBAUwAwEB%2FzAOBgNVHQ8BAf8EBAMCAgQwCgYIKoZIzj0EAwIDSQAwRgIhAN%2BDEVzNLBjOsq8TbDHbkhO1MDUhvcv6Kxxaj1puvAi5AiEAtbkNa56M4Sip0yLbWTXKdXcqAC5DHxbF4ab45aor220%3D)
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
@@ -28,4 +28,4 @@ Issuer: CN=Metaswitch STI-CA SHAKEN Root
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

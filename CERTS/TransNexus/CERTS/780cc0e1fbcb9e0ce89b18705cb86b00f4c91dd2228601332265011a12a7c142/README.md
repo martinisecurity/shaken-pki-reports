@@ -2,14 +2,14 @@
 
 ## Certificate SHAKEN 606F
 
-Tested At: 28 Nov 23 10:22 UTC\
+Tested At: 22 Aug 24 15:22 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -281 day(s)\
+Remaining Validity Period: -549 day(s)\
 Subject: CN=SHAKEN 606F, O=Global Data Systems Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/756cb700-f9d2-4a05-850e-c9dfe3e22de4/e0cf866df68a6f5b268865fc8696bca0.pem
 
-[View certificate details](https://understandingwebpki.com/?cert=MIIC2DCCAn6gAwIBAgIQTcYyasrzfvIerlXw2Bd8WzAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwMjEyMjE1MDIyWhcNMjMwMjE5MjE1MDIxWjBGMQswCQYDVQQGEwJVUzEhMB8GA1UEChMYR2xvYmFsIERhdGEgU3lzdGVtcyBJbmMuMRQwEgYDVQQDEwtTSEFLRU4gNjA2RjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJfhk9%2B1VExrklBeDkvx5wcVWmBV75rROk76b8L5Ks17fxtHWQvVWeFWi4MMe95lbksE4hyLO8d1xwrN8jjJs0KjggE8MIIBODAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAdBgNVHQ4EFgQUnZmXuSCCKIfkpTtBEu5TvWPBr1owHwYDVR0jBBgwFoAUMPX18rfhSwsPEHV9SKSQ8T2LKCowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEDMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAWBggrBgEFBQcBGgQKMAigBhYENjA2RjAKBggqhkjOPQQDAgNIADBFAiEA%2FJhUvfBQibx%2B2klh6vscVl467tqhjCkYnJEgaOHKvkoCICcnGG1axF87zkh8qpG%2BH%2Bej6om4WyKY9ihYwpdxGDus)
+[View certificate details](https://x509.io/?cert=MIIC2DCCAn6gAwIBAgIQTcYyasrzfvIerlXw2Bd8WzAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMwMjEyMjE1MDIyWhcNMjMwMjE5MjE1MDIxWjBGMQswCQYDVQQGEwJVUzEhMB8GA1UEChMYR2xvYmFsIERhdGEgU3lzdGVtcyBJbmMuMRQwEgYDVQQDEwtTSEFLRU4gNjA2RjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJfhk9%2B1VExrklBeDkvx5wcVWmBV75rROk76b8L5Ks17fxtHWQvVWeFWi4MMe95lbksE4hyLO8d1xwrN8jjJs0KjggE8MIIBODAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAdBgNVHQ4EFgQUnZmXuSCCKIfkpTtBEu5TvWPBr1owHwYDVR0jBBgwFoAUMPX18rfhSwsPEHV9SKSQ8T2LKCowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEDMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAWBggrBgEFBQcBGgQKMAigBhYENjA2RjAKBggqhkjOPQQDAgNIADBFAiEA%2FJhUvfBQibx%2B2klh6vscVl467tqhjCkYnJEgaOHKvkoCICcnGG1axF87zkh8qpG%2BH%2Bej6om4WyKY9ihYwpdxGDus)
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/756cb700-f9d2-4a05-850e-c9dfe3e22de4/e0cf
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

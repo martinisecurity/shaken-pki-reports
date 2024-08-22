@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 562ms average time it took to download each certificate
+- 68ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://nguc.voipoffice.com/stirshaken/VOIP_OFFICE.COM_LLC_389K` | 26&#160;Oct&#160;23&#160;19:54&#160;UTC | true | [view](REPOS/1822624913ca9f95eb48fb0aaa2164dce10e5a0c/README.md) |
 
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

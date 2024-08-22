@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 537K
+
+Tested At: 22 Aug 24 15:31 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 300 day(s)\
+Subject: CN=SHAKEN 537K, O=iBasis\\, Inc, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11591.10241.pem
+
+[View certificate details](https://x509.io/?cert=MIIC%2FjCCAqWgAwIBAgIUa4SJo9SLiODTiThmazsCVHRggg0wCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI0MDYxNzE3MzI1OFoXDTI1MDYxNzE3MzI1OFowOTELMAkGA1UEBhMCVVMxFDASBgNVBAoMC2lCYXNpcywgSW5jMRQwEgYDVQQDDAtTSEFLRU4gNTM3SzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJkedZqKMgRQ7MD%2FJpm1WaCIPwQG4s8AxU%2FPw2yNPFH9JwvuNlyVUtUyFz2Dxh%2FYh5gmnkqZjn0XmZQBjfC0Fb%2BjggE8MIIBODAWBggrBgEFBQcBGgQKMAigBhYENTM3SzAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIJOFf%2F%2Bn2pnUeTIl8dtdMP8ZUV4MBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwHQYDVR0OBBYEFKjQ89vbOdDCFqyHKHWZM3Gu1TUoMA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNHADBEAiA8c9EqP1EUzyMJl6u3AZK0rK%2BnKi5Z%2F35P2TXZroMBtAIgeE1tSfi9mFD99kYfnZFyynW5lhNRccXdobJIJPQREp8%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 22 Aug 24 16:06 UTC

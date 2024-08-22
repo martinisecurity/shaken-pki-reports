@@ -9,7 +9,7 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://sticr-cstga.ccid.neustar/api/v1/certificate/56701755b64fd6472ffc065ab0dfe768.pem` | 15&#160;Feb&#160;24&#160;18:40&#160;UTC | true | [view](../../REPOS/29cd25222aac6fb303613c15b360a84b8c615694/README.md) |
+| `https://sticr-cstga.ccid.neustar/api/v1/certificate/28c84da8827709c092d8ced9d19cf206.pem` | 25&#160;Feb&#160;25&#160;17:45&#160;UTC | true | [view](../../REPOS/a84259ea84942a909249b542a7f61ee8b33318c6/README.md) |
 
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

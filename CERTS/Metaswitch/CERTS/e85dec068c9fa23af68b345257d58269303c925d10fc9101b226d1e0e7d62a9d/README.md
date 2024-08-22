@@ -2,14 +2,14 @@
 
 ## Certificate Carolina West Wireless SHAKEN Cert 5932
 
-Tested At: 28 Nov 23 10:18 UTC\
+Tested At: 22 Aug 24 15:19 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 196 day(s)\
+Remaining Validity Period: -72 day(s)\
 Subject: CN=Carolina West Wireless SHAKEN Cert 5932, O=Carolina West Wireless, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
-Link: https://cdn-cr.cgah.tnsi.com/certs/35a1efb37497a631e809fad93c6ba2d86913e95c
+Link: https://cdn-cr.cgah.tnsi.com/certs/d9dd9bf73998fe328ba9447674492e8217d56dcf
 
-[View certificate details](https://understandingwebpki.com/?cert=MIICZzCCAg2gAwIBAgIQSdecT7baK5UudVRwIoNLGzAKBggqhkjOPQQDAjAtMSswKQYDVQQDDCJNZXRhc3dpdGNoIFNUSS1DQSBTSEFLRU4gSXNzdWluZyAxMB4XDTIxMDYxMTE2MTQyM1oXDTI0MDYxMDE2MTQyM1owYDELMAkGA1UEBhMCVVMxHzAdBgNVBAoMFkNhcm9saW5hIFdlc3QgV2lyZWxlc3MxMDAuBgNVBAMMJ0Nhcm9saW5hIFdlc3QgV2lyZWxlc3MgU0hBS0VOIENlcnQgNTkzMjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABKXnc%2Fv0vMyETit9O8L5foIALi7PCQLP2wf62EGVy5DBVY0rP9m5oyH2D%2FbBDPWQOmrlxDQrnKjeGJXXcVFXvYajgdswgdgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCBeAwFgYIKwYBBQUHARoECjAIoAYWBDU5MzIwRwYDVR0fBEAwPjA8oDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBATAdBgNVHQ4EFgQUg%2FAYzz%2FCbpX8tOgxBLTX72VAerMwHwYDVR0jBBgwFoAUzR6nABAQ2jIdaRo51dJGCyw8h9YwCgYIKoZIzj0EAwIDSAAwRQIgfyNcan63MjzlqUTwoWki8Wo9NsuO%2FZNSKWjeASga2EACIQDAp%2BrzAvo3mOVVfB2afaEqNpZ1lfPPxS%2B85Zp78F5pOQ%3D%3D)
+[View certificate details](https://x509.io/?cert=MIICZzCCAg2gAwIBAgIQSdecT7baK5UudVRwIoNLGzAKBggqhkjOPQQDAjAtMSswKQYDVQQDDCJNZXRhc3dpdGNoIFNUSS1DQSBTSEFLRU4gSXNzdWluZyAxMB4XDTIxMDYxMTE2MTQyM1oXDTI0MDYxMDE2MTQyM1owYDELMAkGA1UEBhMCVVMxHzAdBgNVBAoMFkNhcm9saW5hIFdlc3QgV2lyZWxlc3MxMDAuBgNVBAMMJ0Nhcm9saW5hIFdlc3QgV2lyZWxlc3MgU0hBS0VOIENlcnQgNTkzMjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABKXnc%2Fv0vMyETit9O8L5foIALi7PCQLP2wf62EGVy5DBVY0rP9m5oyH2D%2FbBDPWQOmrlxDQrnKjeGJXXcVFXvYajgdswgdgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCBeAwFgYIKwYBBQUHARoECjAIoAYWBDU5MzIwRwYDVR0fBEAwPjA8oDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBATAdBgNVHQ4EFgQUg%2FAYzz%2FCbpX8tOgxBLTX72VAerMwHwYDVR0jBBgwFoAUzR6nABAQ2jIdaRo51dJGCyw8h9YwCgYIKoZIzj0EAwIDSAAwRQIgfyNcan63MjzlqUTwoWki8Wo9NsuO%2FZNSKWjeASga2EACIQDAp%2BrzAvo3mOVVfB2afaEqNpZ1lfPPxS%2B85Zp78F5pOQ%3D%3D)
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
@@ -29,4 +29,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/35a1efb37497a631e809fad93c6ba2d86913e95
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

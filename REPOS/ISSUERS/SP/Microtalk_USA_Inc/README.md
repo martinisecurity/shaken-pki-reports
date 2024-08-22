@@ -2,14 +2,14 @@
 
 ## Microtalk USA Inc
 
-- 3 repository URLs were included in the corpus being tested
-- 2 repository URLs in the corpus were skipped because they were duplicated
+- 1 repository URLs were included in the corpus being tested
+- 0 repository URLs in the corpus were skipped because they were duplicated
 - 1 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 426ms average time it took to download each certificate
+- 247ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://appreg.telcoportal.com/mobileapps/neustar23/9c680c2b2d89e44b0a235be6685b8d.cer` | 19&#160;Dec&#160;23&#160;19:06&#160;UTC | true | [view](REPOS/c05ce11ed0c00251415721c304d7c9b94a894ac5/README.md) |
+| `https://appreg.telcoportal.com/mobileapps/neustar23/9c680c2b2d89e44b0a235be6685b8d.cer` | 21&#160;Dec&#160;24&#160;17:34&#160;UTC | true | [view](REPOS/c05ce11ed0c00251415721c304d7c9b94a894ac5/README.md) |
 
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 0315
+
+Tested At: 22 Aug 24 15:25 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -208 day(s)\
+Subject: CN=SHAKEN 0315, O=Pine Belt Telephone Co. Inc., C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/c7e51846-5f04-439a-a942-5b8110a4cbfb/6237a09c48709a9b36c823128cc77a8e.pem
+
+[View certificate details](https://x509.io/?cert=MIIC3TCCAoKgAwIBAgIQc2MrUnJ1uvb6erk%2BMidwFTAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjQwMTIwMTUzOTE4WhcNMjQwMTI3MTUzOTE3WjBKMQswCQYDVQQGEwJVUzElMCMGA1UEChMcUGluZSBCZWx0IFRlbGVwaG9uZSBDby4gSW5jLjEUMBIGA1UEAxMLU0hBS0VOIDAzMTUwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQGXXuvHQ%2B0lcLl0NKfqzISol%2FgGq6pVjeoGM7NFvRAC36JxYMUMxURuc5bLcEkgdDb86EkdnMd1QxruIfr%2By9Zo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFJ8XDjpl%2F%2Byx%2Bw02Px7AKoAkyTFNMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDAzMTUwCgYIKoZIzj0EAwIDSQAwRgIhAJDgDPu%2FXI%2BpADWGYhclcCmMKA7O6KPam59UZmhxUId4AiEAn0Hxn%2BedPjoJGBBNKvQFvavUdXnzZW%2Bqqz2O%2B9lBW3M%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 22 Aug 24 16:06 UTC

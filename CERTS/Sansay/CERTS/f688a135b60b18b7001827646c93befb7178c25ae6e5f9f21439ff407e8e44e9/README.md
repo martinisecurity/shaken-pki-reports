@@ -2,14 +2,14 @@
 
 ## Certificate SHAKEN IP Link Telecom Inc. 902J
 
-Tested At: 28 Nov 23 10:42 UTC\
+Tested At: 22 Aug 24 15:52 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: -236 day(s)\
+Remaining Validity Period: -504 day(s)\
 Subject: emailAddress=ops@iplinktelecom.com, CN=SHAKEN IP Link Telecom Inc. 902J, OU=IP Link Telecom Inc., O=IP Link Telecom Inc., ST=Oregon, C=US, emailAddress=ops@iplinktelecom.com\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/902J/order/46_902J_68
 
-[View certificate details](https://understandingwebpki.com/?cert=MIIDEjCCArigAwIBAgIUQpx8cHEeOCDwuOHerm%2FzJiJkWxcwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9ybmlhMRswGQYDVQQKDBJTYW5zYXkgQ29ycG9yYXRpb24xEjAQBgNVBAsMCVNhbnNheSBDQTEwMC4GA1UEAwwnU0hBS0VOIFNhbnNheSBJbnRlcm1lZGlhdGUgQ0EgVVMgV0VTVCAxMB4XDTIzMDEwNTIyNDgzOFoXDTIzMDQwNTIyNDgzOFowga0xCzAJBgNVBAYTAlVTMQ8wDQYDVQQIDAZPcmVnb24xHTAbBgNVBAoMFElQIExpbmsgVGVsZWNvbSBJbmMuMR0wGwYDVQQLDBRJUCBMaW5rIFRlbGVjb20gSW5jLjEpMCcGA1UEAwwgU0hBS0VOIElQIExpbmsgVGVsZWNvbSBJbmMuIDkwMkoxJDAiBgkqhkiG9w0BCQEWFW9wc0BpcGxpbmt0ZWxlY29tLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABL6w%2BsRjK9RdJbKQ%2BOomb3GbohUU8NOMYdwk2Y7CNjoxoM%2BsiLVPAGbeHQ4P4VyqtdOeC5PQkhtlYjHzM01ZEO%2BjgdswgdgwFgYIKwYBBQUHARoECjAIoAYWBDkwMkowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEBMB0GA1UdDgQWBBSxLw4TUOmdUNn5AKb5bj5RA6qnWDAfBgNVHSMEGDAWgBSs05P1Q0PMCr5FWBcTfZJ83MMBRjBHBgNVHR8EQDA%2BMDygOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmwwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwCgYIKoZIzj0EAwIDSAAwRQIhAOTzGcbBZNnJ8CssNJdP5ygt8p3v8ZQP65ElnC%2BCImhvAiBZZczGHwU%2FNIbwtqo4gk0IROFsHSIA0Q46fHUzXUP%2FoA%3D%3D)
+[View certificate details](https://x509.io/?cert=MIIDEjCCArigAwIBAgIUQpx8cHEeOCDwuOHerm%2FzJiJkWxcwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9ybmlhMRswGQYDVQQKDBJTYW5zYXkgQ29ycG9yYXRpb24xEjAQBgNVBAsMCVNhbnNheSBDQTEwMC4GA1UEAwwnU0hBS0VOIFNhbnNheSBJbnRlcm1lZGlhdGUgQ0EgVVMgV0VTVCAxMB4XDTIzMDEwNTIyNDgzOFoXDTIzMDQwNTIyNDgzOFowga0xCzAJBgNVBAYTAlVTMQ8wDQYDVQQIDAZPcmVnb24xHTAbBgNVBAoMFElQIExpbmsgVGVsZWNvbSBJbmMuMR0wGwYDVQQLDBRJUCBMaW5rIFRlbGVjb20gSW5jLjEpMCcGA1UEAwwgU0hBS0VOIElQIExpbmsgVGVsZWNvbSBJbmMuIDkwMkoxJDAiBgkqhkiG9w0BCQEWFW9wc0BpcGxpbmt0ZWxlY29tLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABL6w%2BsRjK9RdJbKQ%2BOomb3GbohUU8NOMYdwk2Y7CNjoxoM%2BsiLVPAGbeHQ4P4VyqtdOeC5PQkhtlYjHzM01ZEO%2BjgdswgdgwFgYIKwYBBQUHARoECjAIoAYWBDkwMkowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEBMB0GA1UdDgQWBBSxLw4TUOmdUNn5AKb5bj5RA6qnWDAfBgNVHSMEGDAWgBSs05P1Q0PMCr5FWBcTfZJ83MMBRjBHBgNVHR8EQDA%2BMDygOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmwwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwCgYIKoZIzj0EAwIDSAAwRQIhAOTzGcbBZNnJ8CssNJdP5ygt8p3v8ZQP65ElnC%2BCImhvAiBZZczGHwU%2FNIbwtqo4gk0IROFsHSIA0Q46fHUzXUP%2FoA%3D%3D)
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
@@ -26,4 +26,4 @@ Link: https://cr.sansay.com/902J/order/46_902J_68
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

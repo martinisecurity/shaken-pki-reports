@@ -2,19 +2,19 @@
 
 ## Certificate SHAKEN 469A
 
-Tested At: 28 Nov 23 10:23 UTC\
+Tested At: 22 Aug 24 15:22 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -393 day(s)\
+Remaining Validity Period: -661 day(s)\
 Subject: CN=SHAKEN 469A, OU=SHAKEN, O=T3 Communications Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/88814589-ad88-4c53-b3c3-47f8334afb98/0edc94c91013b6897f7e8960ef0cedc9.pem
 
-[View certificate details](https://understandingwebpki.com/?cert=MIIC9zCCAp6gAwIBAgIQQHq0hqzyNSDR2cEI7wL%2B%2BTAKBggqhkjOPQQDAjBnMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEPMA0GA1UECxMGU0hBS0VOMSwwKgYDVQQDEyNUcmFuc05leHVzLCBJbmMuIFNIQUtFTiBJc3N1aW5nIENBMzAeFw0yMjEwMjMyMDIxNDhaFw0yMjEwMzAyMDIxNDdaMFUxCzAJBgNVBAYTAlVTMR8wHQYDVQQKExZUMyBDb21tdW5pY2F0aW9ucyBJbmMuMQ8wDQYDVQQLEwZTSEFLRU4xFDASBgNVBAMTC1NIQUtFTiA0NjlBMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE%2ByWsFlThCHHEmusg%2BNjfJaq219vXxfUFr9%2FwOFw2McmXyFKHrMLHS5Vty9G3vpYp9i6Pmt%2FYtFPqVz%2BTJHTM36OCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgCAMB0GA1UdDgQWBBR4Rw3C6MM1TETAwcc2kk8toNEBfTAfBgNVHSMEGDAWgBS7lt4xEs3TlpmEpDYwYDzXUoF9JzAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ0NjlBMAoGCCqGSM49BAMCA0cAMEQCIEWtJGfsTF4SD5p8BCovplZN0ftBdWkyXgH2APtmkOJKAiBW%2FL%2BcTrbvewn6kDXZnsNOQNmgCVGFug0dISdqSZ0jDw%3D%3D)
+[View certificate details](https://x509.io/?cert=MIIC9zCCAp6gAwIBAgIQQHq0hqzyNSDR2cEI7wL%2B%2BTAKBggqhkjOPQQDAjBnMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEPMA0GA1UECxMGU0hBS0VOMSwwKgYDVQQDEyNUcmFuc05leHVzLCBJbmMuIFNIQUtFTiBJc3N1aW5nIENBMzAeFw0yMjEwMjMyMDIxNDhaFw0yMjEwMzAyMDIxNDdaMFUxCzAJBgNVBAYTAlVTMR8wHQYDVQQKExZUMyBDb21tdW5pY2F0aW9ucyBJbmMuMQ8wDQYDVQQLEwZTSEFLRU4xFDASBgNVBAMTC1NIQUtFTiA0NjlBMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE%2ByWsFlThCHHEmusg%2BNjfJaq219vXxfUFr9%2FwOFw2McmXyFKHrMLHS5Vty9G3vpYp9i6Pmt%2FYtFPqVz%2BTJHTM36OCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgCAMB0GA1UdDgQWBBR4Rw3C6MM1TETAwcc2kk8toNEBfTAfBgNVHSMEGDAWgBS7lt4xEs3TlpmEpDYwYDzXUoF9JzAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ0NjlBMAoGCCqGSM49BAMCA0cAMEQCIEWtJGfsTF4SD5p8BCovplZN0ftBdWkyXgH2APtmkOJKAiBW%2FL%2BcTrbvewn6kDXZnsNOQNmgCVGFug0dISdqSZ0jDw%3D%3D)
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 ### Not Effective
 
@@ -26,4 +26,4 @@ Link: https://certificates.clearip.com/88814589-ad88-4c53-b3c3-47f8334afb98/0edc
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

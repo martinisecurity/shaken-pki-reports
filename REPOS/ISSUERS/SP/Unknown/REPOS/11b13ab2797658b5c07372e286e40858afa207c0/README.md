@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://cr.veriswitch.com/voipstir/8d7e958f764ada6ff8c2bff406568db3.cer`\
-Tested At: 28 Nov 23 10:43 UTC\
-Time: 209ms
+Tested At: 22 Aug 24 15:54 UTC\
+Time: 77ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 209ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

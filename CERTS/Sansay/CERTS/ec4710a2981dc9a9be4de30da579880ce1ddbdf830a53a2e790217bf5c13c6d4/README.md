@@ -1,0 +1,20 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN Midwest Telecom of America 919A
+
+Tested At: 22 Aug 24 15:52 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 274 day(s)\
+Subject: CN=SHAKEN Midwest Telecom of America 919A, OU=Midwest, O=Midwest Telecom of America, ST=Indiana, C=US\
+Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
+Link: https://cr.sansay.com/919A/429C7C70711E3820F0B8E1DEAE6FF32622649D5D.pem
+
+[View certificate details](https://x509.io/?cert=MIIC7DCCApKgAwIBAgIUQpx8cHEeOCDwuOHerm%2FzJiJknV0wCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9ybmlhMRswGQYDVQQKDBJTYW5zYXkgQ29ycG9yYXRpb24xEjAQBgNVBAsMCVNhbnNheSBDQTEwMC4GA1UEAwwnU0hBS0VOIFNhbnNheSBJbnRlcm1lZGlhdGUgQ0EgVVMgV0VTVCAxMB4XDTI0MDUyMzEyMDU0OVoXDTI1MDUyMzEyMDU0OVowgYcxCzAJBgNVBAYTAlVTMRAwDgYDVQQIDAdJbmRpYW5hMSMwIQYDVQQKDBpNaWR3ZXN0IFRlbGVjb20gb2YgQW1lcmljYTEQMA4GA1UECwwHTWlkd2VzdDEvMC0GA1UEAwwmU0hBS0VOIE1pZHdlc3QgVGVsZWNvbSBvZiBBbWVyaWNhIDkxOUEwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASc%2B7rcxOTmQX%2B5Tvc%2B1en%2FE%2BjTUgUlZyNA1rZNk6o1ccOkbSthOZiQDEAAs0gsvgWaUKvpJdHx0o2HE8AbIBv9o4HbMIHYMBYGCCsGAQUFBwEaBAowCKAGFgQ5MTlBMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzAdBgNVHQ4EFgQU%2FVdAJhF8isLqTiXILq6yRXPpjWowHwYDVR0jBBgwFoAUrNOT9UNDzAq%2BRVgXE32SfNzDAUYwRwYDVR0fBEAwPjA8oDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsMAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMAoGCCqGSM49BAMCA0gAMEUCIQD7oHfPQ%2BAqf7VXNuk2GNQczcct2XAUf3ZwXaXTeRuSdwIgD1UO36e8lTeFN%2BEJGyRX%2BdWUqpL9ZKHvFsWTY2uc8K8%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 919A', but common name is 'SHAKEN Midwest Telecom of America 919A' |
+
+
+Generated: 22 Aug 24 16:06 UTC

@@ -11,6 +11,7 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 |-----------------|-----------|-----------|------|
 | `https://stir.fibernetics.ca/prod-cert2022.pem` | 06&#160;Jul&#160;23&#160;18:24&#160;UTC | true | [view](../../REPOS/f05a2bc5b325df9f44c5910b4c2c52ac3b17200d/README.md) |
 | `https://stir.fibernetics.ca/prod-cert2023.pem` | 14&#160;Jul&#160;24&#160;15:59&#160;UTC | true | [view](../../REPOS/0396892389a6a60d6749ed1f98091ca732461f60/README.md) |
+| `https://stir.fibernetics.ca/prod-cert2024.pem` | 28&#160;Jul&#160;25&#160;15:37&#160;UTC | true | [view](../../REPOS/8a9b29a4389c2a4fa7d88b9d125ab4033428aa4e/README.md) |
 
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 577F
+
+Tested At: 22 Aug 24 15:27 UTC\
+Initial Validity Period: 30 day(s)\
+Remaining Validity Period: -195 day(s)\
+Subject: CN=SHAKEN 577F, O=Ringsquared, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.transnexus.com/577F/1eb05e98-a508-4508-9c24-30f779877179.pem
+
+[View certificate details](https://x509.io/?cert=MIICzDCCAnGgAwIBAgIQX7l45eCwbVaSH4k%2FFKTNtTAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjQwMTA5MjEwMjA0WhcNMjQwMjA4MjEwMjAzWjA5MQswCQYDVQQGEwJVUzEUMBIGA1UEChMLUmluZ3NxdWFyZWQxFDASBgNVBAMTC1NIQUtFTiA1NzdGMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEHsFnafueIeB6v6HQhuSGn6%2FsCl6FKjoh79LEYabIZxr8PUhBE2yMJsgm5VrT97LP7t7pHfhMCoMq3X0M%2BYc7faOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBQOtRE1pdIrTRz88qSAWpu4m1%2BvizAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ1NzdGMAoGCCqGSM49BAMCA0kAMEYCIQDeUWzi5bsldHtF%2FG6hdyQSHSRqRziIFgg4o9KB36S1PAIhAIBbMbAmnXZbDOTHQqMlCX2zrBCjBRRESTf%2Bq%2BJsTFQ3)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 22 Aug 24 16:06 UTC

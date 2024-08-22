@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 594J
+
+Tested At: 22 Aug 24 15:19 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -262 day(s)\
+Subject: CN=SHAKEN 594J, O=Carolina Digital, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/14652271-f2ba-4197-87c0-704f8c618e4b/ca76c06c61c7141f231c29b133dee5ff.pem
+
+[View certificate details](https://x509.io/?cert=MIIC0DCCAnagAwIBAgIQde46LfZ5dsrgmWdM85nCAjAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMxMTI2MjA1NTM5WhcNMjMxMjAzMjA1NTM4WjA%2BMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQQ2Fyb2xpbmEgRGlnaXRhbDEUMBIGA1UEAxMLU0hBS0VOIDU5NEowWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATlvQrUzK49maQsrCrVWRIdkR5qBjR6GzYe6y6reZa09vUeihUUF8wawlcN%2BUlN24zuvcGQxEfG1O55UMQAIol2o4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFHKSxJv5GVAhPKqL9jQtbZ%2Bnb1xkMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDU5NEowCgYIKoZIzj0EAwIDSAAwRQIhAImLSCzWdyBmtLbKfzbgTImMOIykYGfiuW8avY%2BA6xv1AiAZyOQTWeNMn5%2FS73%2FMW1OOUqv3SUjAj5IaDy2Dxi1krA%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 22 Aug 24 16:06 UTC

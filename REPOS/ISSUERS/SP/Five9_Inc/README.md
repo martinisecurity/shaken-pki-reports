@@ -2,14 +2,14 @@
 
 ## Five9 Inc
 
-- 1 repository URLs were included in the corpus being tested
-- 0 repository URLs in the corpus were skipped because they were duplicated
+- 2 repository URLs were included in the corpus being tested
+- 1 repository URLs in the corpus were skipped because they were duplicated
 - 1 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 269ms average time it took to download each certificate
+- 56ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://cr-uat.ccid.neustar.biz/ccid/authn/v2/certs/11363.10160.pem` | 16&#160;Apr&#160;24&#160;20:26&#160;UTC | true | [view](REPOS/b9f87631d099de0b4a8b74b1ae45e7946e3c192d/README.md) |
+| `https://cr-uat.ccid.neustar.biz/ccid/authn/v2/certs/11363.10160.pem` | 05&#160;Apr&#160;25&#160;19:44&#160;UTC | true | [view](REPOS/b9f87631d099de0b4a8b74b1ae45e7946e3c192d/README.md) |
 
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

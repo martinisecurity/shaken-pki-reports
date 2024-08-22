@@ -2,14 +2,14 @@
 
 ## Certificate USCellular SHAKEN Cert 6349
 
-Tested At: 28 Nov 23 10:45 UTC\
+Tested At: 22 Aug 24 15:59 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 125 day(s)\
+Remaining Validity Period: -144 day(s)\
 Subject: CN=USCellular SHAKEN Cert 6349, L=Ch, ST=IL, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://robocall.sti.uscellular.com/certs/uscc_shaken_CA.crt
 
-[View certificate details](https://understandingwebpki.com/?cert=MIICVDCCAfqgAwIBAgIQZxVLbPqJw5UINoYY2jqr1jAKBggqhkjOPQQDAjAtMSswKQYDVQQDDCJNZXRhc3dpdGNoIFNUSS1DQSBTSEFLRU4gSXNzdWluZyAxMB4XDTIxMDQwMTE1MjgwOFoXDTI0MDMzMTE1MjgwOFowTTELMAkGA1UEBhMCVVMxCzAJBgNVBAgMAklMMQswCQYDVQQHDAJDaDEkMCIGA1UEAwwbVVNDZWxsdWxhciBTSEFLRU4gQ2VydCA2MzQ5MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEiEoISdkvzCjey078Gz%2FzNVnHeJvthSEgrK95WIXUG4yVRm%2FubkEiInh53VZlW27VHM02mWLmf5eIn8QOxmDtM6OB2zCB2DAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIF4DAWBggrBgEFBQcBGgQKMAigBhYENjM0OTBHBgNVHR8EQDA%2BMDygOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmwwFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEBMB0GA1UdDgQWBBT1FRvpTRjqLKOVkjVOuFFf1kU3ojAfBgNVHSMEGDAWgBTNHqcAEBDaMh1pGjnV0kYLLDyH1jAKBggqhkjOPQQDAgNIADBFAiEA%2BT8JXAe03JuPfBApV5psimLfX6WhkB3U2FRr0ubt7soCICZ8VWUSCjILY5ZS5sa3JZoIyh%2FiUPC2H0SO1UQPTC8p)
+[View certificate details](https://x509.io/?cert=MIICVDCCAfqgAwIBAgIQZxVLbPqJw5UINoYY2jqr1jAKBggqhkjOPQQDAjAtMSswKQYDVQQDDCJNZXRhc3dpdGNoIFNUSS1DQSBTSEFLRU4gSXNzdWluZyAxMB4XDTIxMDQwMTE1MjgwOFoXDTI0MDMzMTE1MjgwOFowTTELMAkGA1UEBhMCVVMxCzAJBgNVBAgMAklMMQswCQYDVQQHDAJDaDEkMCIGA1UEAwwbVVNDZWxsdWxhciBTSEFLRU4gQ2VydCA2MzQ5MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEiEoISdkvzCjey078Gz%2FzNVnHeJvthSEgrK95WIXUG4yVRm%2FubkEiInh53VZlW27VHM02mWLmf5eIn8QOxmDtM6OB2zCB2DAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIF4DAWBggrBgEFBQcBGgQKMAigBhYENjM0OTBHBgNVHR8EQDA%2BMDygOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmwwFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEBMB0GA1UdDgQWBBT1FRvpTRjqLKOVkjVOuFFf1kU3ojAfBgNVHSMEGDAWgBTNHqcAEBDaMh1pGjnV0kYLLDyH1jAKBggqhkjOPQQDAgNIADBFAiEA%2BT8JXAe03JuPfBApV5psimLfX6WhkB3U2FRr0ubt7soCICZ8VWUSCjILY5ZS5sa3JZoIyh%2FiUPC2H0SO1UQPTC8p)
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
@@ -29,4 +29,4 @@ Link: https://robocall.sti.uscellular.com/certs/uscc_shaken_CA.crt
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

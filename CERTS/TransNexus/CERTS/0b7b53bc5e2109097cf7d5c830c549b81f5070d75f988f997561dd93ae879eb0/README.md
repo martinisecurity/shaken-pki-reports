@@ -1,0 +1,17 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 390B
+
+Tested At: 22 Aug 24 15:22 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -30 day(s)\
+Subject: CN=SHAKEN 390B, O=Dobson Fiber, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/6df3ae82-19a8-42af-a64c-be92ded2eea6/55c3f8ce93ff61c9d1610644c9ccdfea.pem
+
+[View certificate details](https://x509.io/?cert=MIICzDCCAnKgAwIBAgIQVL6f%2FQ1I14hW8mDT2yI49zAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTUwHhcNMjQwNzE1MTgwNjIzWhcNMjQwNzIyMTgwNjIyWjA6MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRG9ic29uIEZpYmVyMRQwEgYDVQQDEwtTSEFLRU4gMzkwQjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABGSLFS%2F4l0jZikgR6xqmYyiNFccxvaf8%2Bkw52kuligr7Iwsb0xSuUUDL1MhFAgH2qsDwaHZQb7li1MnYsV6XgO6jggE8MIIBODAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAdBgNVHQ4EFgQULMiA7oKix2LqXWNrsx%2Fgc4gtcgIwHwYDVR0jBBgwFoAU2gCzh%2FiCP7%2B6IqJkY7X2L8yOdcowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEEMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAWBggrBgEFBQcBGgQKMAigBhYEMzkwQjAKBggqhkjOPQQDAgNIADBFAiB8oaljJK988AhxsFqeCyuKTE9C7uvqYr70EGopBTKtdwIhAJmEPgDk9SGxrHMCgr8l6tC72bS0ehCzqk2OEvfu3HjW)
+
+164 tests were ran and no error, warning, or notice level issues were found
+
+
+Generated: 22 Aug 24 16:06 UTC

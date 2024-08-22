@@ -2,13 +2,13 @@
 
 ## Certificate Comcast SHAKEN Root CA
 
-Tested At: 28 Nov 23 10:53 UTC\
+Tested At: 22 Aug 24 16:06 UTC\
 Initial Validity Period: 7300 day(s)\
-Remaining Validity Period: 5950 day(s)\
+Remaining Validity Period: 5681 day(s)\
 Subject: CN=Comcast SHAKEN Root CA, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US\
 Issuer: CN=Comcast SHAKEN Root CA, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US
 
-[View certificate details](https://understandingwebpki.com/?cert=MIICNzCCAdygAwIBAgIJAOKHGyEWYfhOMAoGCCqGSM49BAMCMG4xCzAJBgNVBAYTAlVTMRUwEwYDVQQIDAxQZW5uc3lsdmFuaWExFTATBgNVBAcMDFBoaWxhZGVscGhpYTEQMA4GA1UECgwHQ29tY2FzdDEfMB0GA1UEAwwWQ29tY2FzdCBTSEFLRU4gUm9vdCBDQTAeFw0yMDAzMTcxNDQ1MTVaFw00MDAzMTIxNDQ1MTVaMG4xCzAJBgNVBAYTAlVTMRUwEwYDVQQIDAxQZW5uc3lsdmFuaWExFTATBgNVBAcMDFBoaWxhZGVscGhpYTEQMA4GA1UECgwHQ29tY2FzdDEfMB0GA1UEAwwWQ29tY2FzdCBTSEFLRU4gUm9vdCBDQTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJSzZzTeNhxovLtywhdzQU109JZLkcxXjBV9XB%2Fjgfv9qy9ZJfcP7x9crjSbzBu1%2BIoG65Qgvg5FGz5W6XR1cKKjYzBhMB0GA1UdDgQWBBSRkMqxhg5PFl6%2BtTdRP2l55SMbHDAfBgNVHSMEGDAWgBSRkMqxhg5PFl6%2BtTdRP2l55SMbHDAPBgNVHRMBAf8EBTADAQH%2FMA4GA1UdDwEB%2FwQEAwIBhjAKBggqhkjOPQQDAgNJADBGAiEAgfeTR2ucIDYaJvRyWW3VBUyhbAWVrAOQ7ZhPQpJ%2BcY8CIQDYYvj3djJDGthqwmbJRyxjX3YpxuHsoHR8plf7bHN5dA%3D%3D)
+[View certificate details](https://x509.io/?cert=MIICNzCCAdygAwIBAgIJAOKHGyEWYfhOMAoGCCqGSM49BAMCMG4xCzAJBgNVBAYTAlVTMRUwEwYDVQQIDAxQZW5uc3lsdmFuaWExFTATBgNVBAcMDFBoaWxhZGVscGhpYTEQMA4GA1UECgwHQ29tY2FzdDEfMB0GA1UEAwwWQ29tY2FzdCBTSEFLRU4gUm9vdCBDQTAeFw0yMDAzMTcxNDQ1MTVaFw00MDAzMTIxNDQ1MTVaMG4xCzAJBgNVBAYTAlVTMRUwEwYDVQQIDAxQZW5uc3lsdmFuaWExFTATBgNVBAcMDFBoaWxhZGVscGhpYTEQMA4GA1UECgwHQ29tY2FzdDEfMB0GA1UEAwwWQ29tY2FzdCBTSEFLRU4gUm9vdCBDQTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJSzZzTeNhxovLtywhdzQU109JZLkcxXjBV9XB%2Fjgfv9qy9ZJfcP7x9crjSbzBu1%2BIoG65Qgvg5FGz5W6XR1cKKjYzBhMB0GA1UdDgQWBBSRkMqxhg5PFl6%2BtTdRP2l55SMbHDAfBgNVHSMEGDAWgBSRkMqxhg5PFl6%2BtTdRP2l55SMbHDAPBgNVHRMBAf8EBTADAQH%2FMA4GA1UdDwEB%2FwQEAwIBhjAKBggqhkjOPQQDAgNJADBGAiEAgfeTR2ucIDYaJvRyWW3VBUyhbAWVrAOQ7ZhPQpJ%2BcY8CIQDYYvj3djJDGthqwmbJRyxjX3YpxuHsoHR8plf7bHN5dA%3D%3D)
 
 164 tests were ran and no error, warning, or notice level issues were found
 
@@ -39,4 +39,4 @@ Issuer: CN=Comcast SHAKEN Root CA, O=Comcast, L=Philadelphia, ST=Pennsylvania, C
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

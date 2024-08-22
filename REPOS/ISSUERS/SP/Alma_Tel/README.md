@@ -2,14 +2,14 @@
 
 ## Alma Tel
 
-- 1 repository URLs were included in the corpus being tested
-- 0 repository URLs in the corpus were skipped because they were duplicated
+- 2 repository URLs were included in the corpus being tested
+- 1 repository URLs in the corpus were skipped because they were duplicated
 - 1 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 31ms average time it took to download each certificate
+- 30ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://cdn-cr.cgah.tnsi.com/certs/50fce21c2814c12146d9f3e9420b586cd6c12566` | 24&#160;May&#160;26&#160;22:17&#160;UTC | true | [view](REPOS/2742b998fe434facf9de296baaf3f2a3545b1fc6/README.md) |
 
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

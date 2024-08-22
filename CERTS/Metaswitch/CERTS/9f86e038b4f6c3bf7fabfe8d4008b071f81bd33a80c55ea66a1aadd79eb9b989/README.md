@@ -2,14 +2,14 @@
 
 ## Certificate WOW Internet Cable and Phone SHAKEN Cert 665E
 
-Tested At: 28 Nov 23 10:18 UTC\
+Tested At: 22 Aug 24 15:18 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 180 day(s)\
+Remaining Validity Period: -89 day(s)\
 Subject: CN=WOW Internet Cable and Phone SHAKEN Cert 665E, O=WOW Internet Cable and Phone, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
-Link: https://cdn-cr.cgah.tnsi.com/certs/086231fe3b29598f23fa70a5dd994ed7153040a1
+Link: https://cdn-cr.cgah.tnsi.com/certs/786c2c44c5fcfd1ed973607e3ac560ee3425d030
 
-[View certificate details](https://understandingwebpki.com/?cert=MIICczCCAhmgAwIBAgIQEqy50c5Qk3H9FMJsgHYCKDAKBggqhkjOPQQDAjAtMSswKQYDVQQDDCJNZXRhc3dpdGNoIFNUSS1DQSBTSEFLRU4gSXNzdWluZyAxMB4XDTIxMDUyNjE1Mzc0MVoXDTI0MDUyNTE1Mzc0MVowbDELMAkGA1UEBhMCVVMxJTAjBgNVBAoMHFdPVyBJbnRlcm5ldCBDYWJsZSBhbmQgUGhvbmUxNjA0BgNVBAMMLVdPVyBJbnRlcm5ldCBDYWJsZSBhbmQgUGhvbmUgU0hBS0VOIENlcnQgNjY1RTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJsCWJUT1NeLu%2B7jFplPYChdbOxoYA9WTHxYh%2BmCpUm1fUrRuM4rdjnvnPvGTzZMP%2BtIlw28hdskuw%2FqSLaDED6jgdswgdgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCBeAwFgYIKwYBBQUHARoECjAIoAYWBDY2NUUwRwYDVR0fBEAwPjA8oDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBATAdBgNVHQ4EFgQUz8RvWWhWv3epXqmwEdbU8PgS05gwHwYDVR0jBBgwFoAUzR6nABAQ2jIdaRo51dJGCyw8h9YwCgYIKoZIzj0EAwIDSAAwRQIgOw2oREqPaQxbsfsn4kYls7IZxYoik3Z4prOhT8EBI4gCIQD%2B0A8dPQz4UdqSATiDPTafBm1EFSaHYWHcaBARqLgcjQ%3D%3D)
+[View certificate details](https://x509.io/?cert=MIICczCCAhmgAwIBAgIQEqy50c5Qk3H9FMJsgHYCKDAKBggqhkjOPQQDAjAtMSswKQYDVQQDDCJNZXRhc3dpdGNoIFNUSS1DQSBTSEFLRU4gSXNzdWluZyAxMB4XDTIxMDUyNjE1Mzc0MVoXDTI0MDUyNTE1Mzc0MVowbDELMAkGA1UEBhMCVVMxJTAjBgNVBAoMHFdPVyBJbnRlcm5ldCBDYWJsZSBhbmQgUGhvbmUxNjA0BgNVBAMMLVdPVyBJbnRlcm5ldCBDYWJsZSBhbmQgUGhvbmUgU0hBS0VOIENlcnQgNjY1RTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJsCWJUT1NeLu%2B7jFplPYChdbOxoYA9WTHxYh%2BmCpUm1fUrRuM4rdjnvnPvGTzZMP%2BtIlw28hdskuw%2FqSLaDED6jgdswgdgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCBeAwFgYIKwYBBQUHARoECjAIoAYWBDY2NUUwRwYDVR0fBEAwPjA8oDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBATAdBgNVHQ4EFgQUz8RvWWhWv3epXqmwEdbU8PgS05gwHwYDVR0jBBgwFoAUzR6nABAQ2jIdaRo51dJGCyw8h9YwCgYIKoZIzj0EAwIDSAAwRQIgOw2oREqPaQxbsfsn4kYls7IZxYoik3Z4prOhT8EBI4gCIQD%2B0A8dPQz4UdqSATiDPTafBm1EFSaHYWHcaBARqLgcjQ%3D%3D)
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
@@ -29,4 +29,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/086231fe3b29598f23fa70a5dd994ed7153040a
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

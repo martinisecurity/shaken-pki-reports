@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 841J
+
+Tested At: 22 Aug 24 15:28 UTC\
+Initial Validity Period: 14 day(s)\
+Remaining Validity Period: -196 day(s)\
+Subject: CN=SHAKEN 841J, O=Securus Technologies LLC, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.transnexus.com/841J/1968c717-edae-4994-b83e-335a3760acfe.pem
+
+[View certificate details](https://x509.io/?cert=MIIC2DCCAn6gAwIBAgIQQjDv2EIPO6VvIbeKNsiO1DAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjQwMTI1MTMwMTA0WhcNMjQwMjA4MTMwMTAzWjBGMQswCQYDVQQGEwJVUzEhMB8GA1UEChMYU2VjdXJ1cyBUZWNobm9sb2dpZXMgTExDMRQwEgYDVQQDEwtTSEFLRU4gODQxSjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABBwd89%2FpImZEUTG%2F5rPr8RVV4EkmSj9SLS6EEyWdD9Xd9mN6OI20zLMbQ5Y4CMwsRzeS8jIeS2jKDS1TUoyzMLejggE8MIIBODAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAdBgNVHQ4EFgQUUT4uXF5QAOYyKpTuwqhapqWrnp8wHwYDVR0jBBgwFoAUMPX18rfhSwsPEHV9SKSQ8T2LKCowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEDMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAWBggrBgEFBQcBGgQKMAigBhYEODQxSjAKBggqhkjOPQQDAgNIADBFAiEAqF9pGBJW8GJ6vdLFO2HTVoRS0W1jS09%2FEGEXcXUiUagCIBk%2FKJGdXNINj6cQ7XMWA7lkYyyCdxbniE93bNg4mErf)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 22 Aug 24 16:06 UTC

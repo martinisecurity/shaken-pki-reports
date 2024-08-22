@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 749J
+
+Tested At: 22 Aug 24 15:25 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -219 day(s)\
+Subject: CN=SHAKEN 749J, O=iTalkGlobal, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/d7bfa171-ff4f-483d-849b-3f987c919d43/4a5be16cc350e721abc0e21a469d455a.pem
+
+[View certificate details](https://x509.io/?cert=MIICzDCCAnGgAwIBAgIQQ7OVjF%2BFzjvHnSiZllstETAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjQwMTA4MTk0MjQ4WhcNMjQwMTE1MTk0MjQ3WjA5MQswCQYDVQQGEwJVUzEUMBIGA1UEChMLaVRhbGtHbG9iYWwxFDASBgNVBAMTC1NIQUtFTiA3NDlKMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE0JvY%2FYpxmRPPLeU7jsOSfFzvP11poPB%2BFHCE4AczHyhmr%2F8d3VAEC%2F%2B8lQ7nxARULibFeJGAxF8%2FHEzzuf9M1qOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBTX970kncpqz%2B7zXYAweTCz9xE5QTAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ3NDlKMAoGCCqGSM49BAMCA0kAMEYCIQDhiXndOwTF0hjYGxeH5r7099QDxF8p2y0fxBGVTsItPQIhAK8uFr1qldQHGEywm%2FeJ9vt2TBVne506ssT6aBI7jbwi)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 22 Aug 24 16:06 UTC

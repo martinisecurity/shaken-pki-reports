@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 469A
+
+Tested At: 22 Aug 24 15:22 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -217 day(s)\
+Subject: CN=SHAKEN 469A, O=T3 Communications Inc., C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/88814589-ad88-4c53-b3c3-47f8334afb98/56f0254fcea5021aafa851b7fa246585.pem
+
+[View certificate details](https://x509.io/?cert=MIIC1TCCAnygAwIBAgIQSjLHK0G9t%2ByqkPEpbBqy4zAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjQwMTEwMjExMDAyWhcNMjQwMTE3MjExMDAxWjBEMQswCQYDVQQGEwJVUzEfMB0GA1UEChMWVDMgQ29tbXVuaWNhdGlvbnMgSW5jLjEUMBIGA1UEAxMLU0hBS0VOIDQ2OUEwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQM28nG6rVGEwiICqx48OeV5m2Vp%2FZ%2BymrjupioskXUvN1SAenH4aW7CaWvsXF2K2OFhgUjUBn8ePYONKAvWUvco4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFLs6wBsGaK9bBxXluJLinK0GkR8HMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDQ2OUEwCgYIKoZIzj0EAwIDRwAwRAIgeo45DPnFhj%2Fl9vJRYAAhvxcqYoXn2XTSc11%2FENgK2gACIE45VIheFODKDmFf%2FIGxMqYwhJBTlY80kfvg5%2FOT1eEv)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 22 Aug 24 16:06 UTC

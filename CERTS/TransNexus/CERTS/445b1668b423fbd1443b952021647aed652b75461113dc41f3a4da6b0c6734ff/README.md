@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 805J
+
+Tested At: 22 Aug 24 15:20 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -230 day(s)\
+Subject: CN=SHAKEN 805J, O=Fastmetrics, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/47fb6c89-4f44-4e6f-93a0-7aaff0469420/623a1bb74d69f811a9b63fe56bdbd4b6.pem
+
+[View certificate details](https://x509.io/?cert=MIICyzCCAnGgAwIBAgIQQARhIGo%2BdIgqo5Mpv8RKuDAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMxMjI4MjI0NDAzWhcNMjQwMTA0MjI0NDAyWjA5MQswCQYDVQQGEwJVUzEUMBIGA1UEChMLRmFzdG1ldHJpY3MxFDASBgNVBAMTC1NIQUtFTiA4MDVKMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsTJ7H5uPkjXH8E%2FDALH3smWjsq4URS%2FG7ynpSFJ%2FhipEtmitMSumEPSZzCmXxAyHW%2F6c%2B39lDsiIOIaZ6htyd6OCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBTu%2B8cugTaQfYmQzth10Y4QyAMXqDAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ4MDVKMAoGCCqGSM49BAMCA0gAMEUCIQCrE4tz9KkOYwQty2blc9%2BUi0MKY69ET1oKy24TEyDUTAIgAYRlHhs8oJRRvKJ%2B0LydpnCwk9No735d0zP4%2BMzy0xM%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 22 Aug 24 16:06 UTC

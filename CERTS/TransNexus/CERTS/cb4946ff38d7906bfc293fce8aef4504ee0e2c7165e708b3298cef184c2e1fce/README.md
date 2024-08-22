@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 747J
+
+Tested At: 22 Aug 24 15:23 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -239 day(s)\
+Subject: CN=SHAKEN 747J, O=Magic Apple, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/9e31f6fe-cfd3-49cc-b9fc-22963012a8d7/e3cc7822194202cd087b2f580d20647e.pem
+
+[View certificate details](https://x509.io/?cert=MIICyjCCAnGgAwIBAgIQSIu6Z%2BdJndWmKs1GZuEqNTAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMxMjIwMTUxNDQ3WhcNMjMxMjI3MTUxNDQ2WjA5MQswCQYDVQQGEwJVUzEUMBIGA1UEChMLTWFnaWMgQXBwbGUxFDASBgNVBAMTC1NIQUtFTiA3NDdKMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE39zx6I%2BFgT3Lw5YAu37sbmraS5zSD7pycoEkz6R%2BnnATr0cS5%2F5xc%2FIOZtWU3E5G9j%2FNe7fsrX5viAgSSgxhEqOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBSp0Mm4cTUGQkW0ID144N9bo1L1uDAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ3NDdKMAoGCCqGSM49BAMCA0cAMEQCIDtzC5Rek7aw3rXOGln3U6qPPvb6ZLH5cef7uqUK8orOAiBDVqTtSiOKFRWFPoLgwQr7BZD8qne3Xz6purP15I0Wig%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 22 Aug 24 16:06 UTC

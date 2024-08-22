@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 053G
+
+Tested At: 22 Aug 24 15:20 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -196 day(s)\
+Subject: CN=SHAKEN 053G, O=Meriplex Communications, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/44962359-54bc-4e1b-b880-3f905456f68e/3b19f4f48273822163fa5cb8389a934d.pem
+
+[View certificate details](https://x509.io/?cert=MIIC1zCCAn2gAwIBAgIQeElhiJfssyEL%2FPK8XJpAszAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjQwMTMxMjEwODIyWhcNMjQwMjA3MjEwODIxWjBFMQswCQYDVQQGEwJVUzEgMB4GA1UEChMXTWVyaXBsZXggQ29tbXVuaWNhdGlvbnMxFDASBgNVBAMTC1NIQUtFTiAwNTNHMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEQ3BS3pxCeSudl6%2Bm8jbLcH1nAxOb62HXDwoEtX%2B30DBwbUQY4t68qRKaO1uWMYoszQVkHnbyhu1JyPTZADlB0KOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBQ7XXO7pPKgwFsrAZeMMjKKwDzqrTAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQwNTNHMAoGCCqGSM49BAMCA0gAMEUCIQD1%2FbYj3xxXyGmIKriLzU2u188d2aB0GKO1WJXhG71gSAIgW1tI%2FLbiYDJopWTqjYr1gjrvXUsV7Am6KBLr%2BbDsH10%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 22 Aug 24 16:06 UTC

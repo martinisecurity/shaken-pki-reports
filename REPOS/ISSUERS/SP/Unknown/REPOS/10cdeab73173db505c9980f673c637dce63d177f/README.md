@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `http://5.161.202.148/ec256-public.pem`\
-Tested At: 28 Nov 23 10:17 UTC\
-Time: 116ms
+Tested At: 22 Aug 24 15:18 UTC\
+Time: 13ms
 
 ### Issues
 
@@ -16,4 +16,4 @@ Time: 116ms
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 | [w_atis_protocol](../../ISSUES/w_atis_protocol/README.md) | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

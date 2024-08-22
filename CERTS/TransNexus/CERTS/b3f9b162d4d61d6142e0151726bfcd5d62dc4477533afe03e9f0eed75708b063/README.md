@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 721J
+
+Tested At: 22 Aug 24 15:23 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -205 day(s)\
+Subject: CN=SHAKEN 721J, O=True IP Solutions, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/a1df4bf4-8858-47bb-9388-835c5c7cb5c4/9ed2316493214baa98f4a27f5879a69f.pem
+
+[View certificate details](https://x509.io/?cert=MIIC0DCCAnegAwIBAgIQY4K1%2FbKvQnKJ%2BDiQELKyZjAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjQwMTIyMjExMTE1WhcNMjQwMTI5MjExMTE0WjA%2FMQswCQYDVQQGEwJVUzEaMBgGA1UEChMRVHJ1ZSBJUCBTb2x1dGlvbnMxFDASBgNVBAMTC1NIQUtFTiA3MjFKMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEgbBFRGyuzABH95XOrTNTh6oMtoe%2FvVagiB27KK1I6dtofggwYWtftI9q8lTCvdXtwm7L4RZMrrce6tKe937poqOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBQqiM1plKbCM4mp5RfGshQ7OMcfnjAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ3MjFKMAoGCCqGSM49BAMCA0cAMEQCIFR8zOnduzOzVmp0SaGSUjVAfC6UOLVIlbLMaKFfnGT0AiAiCJkbVJZyygyFY989vbzKHudAInDR72OhCUkPsbK2hg%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 22 Aug 24 16:06 UTC

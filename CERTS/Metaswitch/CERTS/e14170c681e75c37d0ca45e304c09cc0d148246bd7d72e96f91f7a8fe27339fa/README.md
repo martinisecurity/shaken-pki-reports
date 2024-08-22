@@ -2,14 +2,14 @@
 
 ## Certificate Appalachian Wireless SHAKEN Cert 6940
 
-Tested At: 28 Nov 23 10:18 UTC\
+Tested At: 22 Aug 24 15:19 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 174 day(s)\
+Remaining Validity Period: -94 day(s)\
 Subject: CN=Appalachian Wireless SHAKEN Cert 6940, O=Appalachian Wireless, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
-Link: https://cdn-cr.cgah.tnsi.com/certs/590f3a17396e9e874d158eb60337f24c3ac4812b
+Link: https://cdn-cr.cgah.tnsi.com/certs/d180ac25a9b0d046adeaa25f62424c7be186c2ab
 
-[View certificate details](https://understandingwebpki.com/?cert=MIICZDCCAgmgAwIBAgIQREUxHsDn00q3Ok0S0nOG1zAKBggqhkjOPQQDAjAtMSswKQYDVQQDDCJNZXRhc3dpdGNoIFNUSS1DQSBTSEFLRU4gSXNzdWluZyAxMB4XDTIxMDUyMDIyMDQxOFoXDTI0MDUxOTIyMDQxOFowXDELMAkGA1UEBhMCVVMxHTAbBgNVBAoMFEFwcGFsYWNoaWFuIFdpcmVsZXNzMS4wLAYDVQQDDCVBcHBhbGFjaGlhbiBXaXJlbGVzcyBTSEFLRU4gQ2VydCA2OTQwMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEzMw7rc1DbIoXd7fTVbxb66o54fuYqYlZl%2FYzzsB8b1Uc%2FAbU5DcY7bD1z74yIwl1rihnxNkg0h26hyb1lCNn3KOB2zCB2DAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIF4DAWBggrBgEFBQcBGgQKMAigBhYENjk0MDBHBgNVHR8EQDA%2BMDygOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmwwFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEBMB0GA1UdDgQWBBQ7wi8ppqCiTw3RgWX669i3lxaXGTAfBgNVHSMEGDAWgBTNHqcAEBDaMh1pGjnV0kYLLDyH1jAKBggqhkjOPQQDAgNJADBGAiEA4txV1IfsMqIMdvS7l2U%2BO%2FoCNtcaSc%2BNjVi%2BWUQIwmsCIQC9TyJVBzoq4J7K6I8QU8D6pChQD8DE0IYViTLQcF%2B9mQ%3D%3D)
+[View certificate details](https://x509.io/?cert=MIICZDCCAgmgAwIBAgIQREUxHsDn00q3Ok0S0nOG1zAKBggqhkjOPQQDAjAtMSswKQYDVQQDDCJNZXRhc3dpdGNoIFNUSS1DQSBTSEFLRU4gSXNzdWluZyAxMB4XDTIxMDUyMDIyMDQxOFoXDTI0MDUxOTIyMDQxOFowXDELMAkGA1UEBhMCVVMxHTAbBgNVBAoMFEFwcGFsYWNoaWFuIFdpcmVsZXNzMS4wLAYDVQQDDCVBcHBhbGFjaGlhbiBXaXJlbGVzcyBTSEFLRU4gQ2VydCA2OTQwMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEzMw7rc1DbIoXd7fTVbxb66o54fuYqYlZl%2FYzzsB8b1Uc%2FAbU5DcY7bD1z74yIwl1rihnxNkg0h26hyb1lCNn3KOB2zCB2DAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIF4DAWBggrBgEFBQcBGgQKMAigBhYENjk0MDBHBgNVHR8EQDA%2BMDygOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmwwFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEBMB0GA1UdDgQWBBQ7wi8ppqCiTw3RgWX669i3lxaXGTAfBgNVHSMEGDAWgBTNHqcAEBDaMh1pGjnV0kYLLDyH1jAKBggqhkjOPQQDAgNJADBGAiEA4txV1IfsMqIMdvS7l2U%2BO%2FoCNtcaSc%2BNjVi%2BWUQIwmsCIQC9TyJVBzoq4J7K6I8QU8D6pChQD8DE0IYViTLQcF%2B9mQ%3D%3D)
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
@@ -29,4 +29,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/590f3a17396e9e874d158eb60337f24c3ac4812
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

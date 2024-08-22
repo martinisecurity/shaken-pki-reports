@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 0226
+
+Tested At: 22 Aug 24 15:26 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -214 day(s)\
+Subject: CN=SHAKEN 0226, O=Lumos Networks, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/f8a68e44-8fb0-4f28-b533-c4df27ed8e1b/c678a92f7205ee3ccdf5ffc135ae455a.pem
+
+[View certificate details](https://x509.io/?cert=MIICzjCCAnSgAwIBAgIQYgr%2BsZaeFuiwKjdYoQO1NDAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjQwMTEzMjExNTM4WhcNMjQwMTIwMjExNTM3WjA8MQswCQYDVQQGEwJVUzEXMBUGA1UEChMOTHVtb3MgTmV0d29ya3MxFDASBgNVBAMTC1NIQUtFTiAwMjI2MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEANDp0gOpD3pe3kSWZ0f0Kne7%2FGUp7wDKa4jzQTbaF5PgTKsg28NQUZcMGYicmxAjZ90m109%2BGuD4uvZTiiq3M6OCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBTVUaNtN%2FC4W7j5tFS6PKMHSVqkqjAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQwMjI2MAoGCCqGSM49BAMCA0gAMEUCIA%2FHN0%2FMqqNKs%2BAOYCNmdOjNEzrrD8LRtNhN06Hkc2B3AiEA36zDuCPUj%2BSlmKXlgn47GbCR0D2RH5ZuDwGSC5Fu9sw%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 22 Aug 24 16:06 UTC

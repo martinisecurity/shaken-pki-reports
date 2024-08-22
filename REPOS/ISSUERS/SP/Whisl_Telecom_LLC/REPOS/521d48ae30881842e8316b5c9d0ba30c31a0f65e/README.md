@@ -3,8 +3,8 @@
 ## Whisl Telecom LLC
 
 Name: `https://ssc.getsipnav.com/certs/d9ad751ab84fa4cdfe5089e2cc2fb9859f142429`\
-Tested At: 28 Nov 23 10:45 UTC\
-Time: 47ms
+Tested At: 22 Aug 24 15:59 UTC\
+Time: 95ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 47ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

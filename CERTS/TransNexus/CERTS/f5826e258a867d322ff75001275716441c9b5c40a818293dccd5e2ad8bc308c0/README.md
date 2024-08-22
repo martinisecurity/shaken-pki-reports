@@ -2,19 +2,19 @@
 
 ## Certificate SHAKEN 738J
 
-Tested At: 28 Nov 23 10:27 UTC\
+Tested At: 22 Aug 24 15:27 UTC\
 Initial Validity Period: 9 day(s)\
-Remaining Validity Period: -418 day(s)\
+Remaining Validity Period: -686 day(s)\
 Subject: CN=SHAKEN 738J, OU=SHAKEN, O=SkySwitch, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/738J/41fec2fb-89c5-4e97-952d-2adccd5b42b5.pem
 
-[View certificate details](https://understandingwebpki.com/?cert=MIIC6jCCApGgAwIBAgIQS8wJI7abQlu4VkYYZppzsTAKBggqhkjOPQQDAjBnMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEPMA0GA1UECxMGU0hBS0VOMSwwKgYDVQQDEyNUcmFuc05leHVzLCBJbmMuIFNIQUtFTiBJc3N1aW5nIENBMzAeFw0yMjA5MjYyMDE4MDRaFw0yMjEwMDUyMDE4MDNaMEgxCzAJBgNVBAYTAlVTMRIwEAYDVQQKEwlTa3lTd2l0Y2gxDzANBgNVBAsTBlNIQUtFTjEUMBIGA1UEAxMLU0hBS0VOIDczOEowWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATnToWSPa9qWizXCWGprlWSTx3KKpzP4uV47PJMPdtjl9nJu6NCU9rNvN9xhs4CHaKVTXmOU%2F49DEI9JIZmryu%2Fo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCAIAwHQYDVR0OBBYEFFos40vxvw9TGfEhCseW8KTC718bMB8GA1UdIwQYMBaAFLuW3jESzdOWmYSkNjBgPNdSgX0nMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDczOEowCgYIKoZIzj0EAwIDRwAwRAIgKZdvwtUzPYQLealL6HUKCC%2BJMsoDJaeR9LzoYBiRL%2BgCIFpWAV2KOdw6zjD5BxcZcJkjao7FW50jEwLdv0OM0iEI)
+[View certificate details](https://x509.io/?cert=MIIC6jCCApGgAwIBAgIQS8wJI7abQlu4VkYYZppzsTAKBggqhkjOPQQDAjBnMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEPMA0GA1UECxMGU0hBS0VOMSwwKgYDVQQDEyNUcmFuc05leHVzLCBJbmMuIFNIQUtFTiBJc3N1aW5nIENBMzAeFw0yMjA5MjYyMDE4MDRaFw0yMjEwMDUyMDE4MDNaMEgxCzAJBgNVBAYTAlVTMRIwEAYDVQQKEwlTa3lTd2l0Y2gxDzANBgNVBAsTBlNIQUtFTjEUMBIGA1UEAxMLU0hBS0VOIDczOEowWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATnToWSPa9qWizXCWGprlWSTx3KKpzP4uV47PJMPdtjl9nJu6NCU9rNvN9xhs4CHaKVTXmOU%2F49DEI9JIZmryu%2Fo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCAIAwHQYDVR0OBBYEFFos40vxvw9TGfEhCseW8KTC718bMB8GA1UdIwQYMBaAFLuW3jESzdOWmYSkNjBgPNdSgX0nMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDczOEowCgYIKoZIzj0EAwIDRwAwRAIgKZdvwtUzPYQLealL6HUKCC%2BJMsoDJaeR9LzoYBiRL%2BgCIFpWAV2KOdw6zjD5BxcZcJkjao7FW50jEwLdv0OM0iEI)
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 ### Not Effective
 
@@ -26,4 +26,4 @@ Link: https://certificates.transnexus.com/738J/41fec2fb-89c5-4e97-952d-2adccd5b4
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

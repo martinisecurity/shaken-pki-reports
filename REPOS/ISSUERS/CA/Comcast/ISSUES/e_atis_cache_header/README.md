@@ -12,21 +12,29 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/0001bda3-ee2e-46f2-badd-d60decb82444.cer` |  | true | [view](../../REPOS/09980e2e9d67d9f427eb3408a335d64282a4637c/README.md) |
 | `https://sticr.stir.comcast.com/0022c4ae-9a2d-4566-9535-f96424f75ce3.cer` |  | true | [view](../../REPOS/f0e81d1285419a0c54832346b190da6098642497/README.md) |
 | `https://sticr.stir.comcast.com/00aec434-5013-4136-9d51-04f563275d0d.cer` |  | true | [view](../../REPOS/73658ffc1f55ae879a04f6928577f8b95f8d1302/README.md) |
+| `https://sticr.stir.comcast.com/02261042-9456-438d-b232-c4efc4057822.pem` |  | true | [view](../../REPOS/c551d07f504666d0ded4bf2175f86426b279ea27/README.md) |
 | `https://sticr.stir.comcast.com/022e98a6-22e9-4aea-887b-8524b4203216.cer` |  | true | [view](../../REPOS/af99a4f862288e82c91b1344aeccf12e476e2912/README.md) |
 | `https://sticr.stir.comcast.com/02964134-b0fa-4781-8053-9ef27acb72b7.cer` |  | true | [view](../../REPOS/39bb5f32ab735570e5bfc1e16a73a613a11ba79b/README.md) |
+| `https://sticr.stir.comcast.com/03664b66-f286-4ccd-8581-7d08518f6298.pem` | 15&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/34c643db61b1306e027028523671c1fbb45f97a8/README.md) |
 | `https://sticr.stir.comcast.com/03c285c2-49a8-4be8-8211-bb75640b2112.cer` |  | true | [view](../../REPOS/2e69026718e73a93fbdb06d7ef68e3d88a5153d3/README.md) |
 | `https://sticr.stir.comcast.com/03c380f1-8721-46bb-b150-fa0524b515f3.cer` |  | true | [view](../../REPOS/1bcc49c03970a182d65a093b51b3ffe402e72f93/README.md) |
 | `https://sticr.stir.comcast.com/03ce07b4-5ab7-476a-a360-e0fdc8bf7ef0.cer` |  | true | [view](../../REPOS/9132d57f973bc7d4aa3808a6d32dd9cf8f6317f4/README.md) |
 | `https://sticr.stir.comcast.com/045bff20-7369-413e-a5d1-fd103a7f0648.cer` |  | true | [view](../../REPOS/b6e73890949b4b6e69a611aa59f0b658bcedf278/README.md) |
+| `https://sticr.stir.comcast.com/049f968a-44fb-4fa9-b514-c312db77c5d7.cer` |  | true | [view](../../REPOS/a3bd2a11300c0289ac54abb8c7d6afd65b30e84c/README.md) |
 | `https://sticr.stir.comcast.com/04a0961b-b1cf-4fb4-bb93-e698737600c3.cer` |  | true | [view](../../REPOS/ed0663487ca03f81b2aaa671d3595eab7742b05c/README.md) |
+| `https://sticr.stir.comcast.com/0519607f-941d-462e-8021-7b50e51ee1cc.pem` |  | true | [view](../../REPOS/ea700b06943715c7855d9ee89ff99806561c4908/README.md) |
 | `https://sticr.stir.comcast.com/054263df-6759-4a53-94ea-29e5b115e72e.cer` |  | true | [view](../../REPOS/d792c23b15ddd5a5489ed591a60327fdd0093da9/README.md) |
 | `https://sticr.stir.comcast.com/05cd887d-4e89-408c-895c-b39ad066b8c0.cer` |  | true | [view](../../REPOS/a9851d8fe257260cfc586e76b348dd7bdbfb0a0c/README.md) |
 | `https://sticr.stir.comcast.com/05f43dbf-74a5-4fa2-a47a-c932b1ea07c3.cer` |  | true | [view](../../REPOS/b93c08bdb8fa97a6f259f847ea1b6d5a65beae52/README.md) |
+| `https://sticr.stir.comcast.com/068a4bb3-d1b0-4b26-b14b-b6b4c99511a7.pem` |  | true | [view](../../REPOS/df14c30709ab82da6beacdde295ff17031d3348f/README.md) |
 | `https://sticr.stir.comcast.com/069f355d-c5bb-475b-9451-fee284bcd09f.cer` |  | true | [view](../../REPOS/be5a8c16a94366e1a4dbf1c654274d7422e3623c/README.md) |
+| `https://sticr.stir.comcast.com/06d13690-74f9-4b5e-9947-58c114895c82.cer` |  | true | [view](../../REPOS/b9fb66f8dbbb981e4501b8a501abbaeac4b6acae/README.md) |
 | `https://sticr.stir.comcast.com/06e1fd26-8cda-40e6-9fb3-68a8a85f0cda.cer` |  | true | [view](../../REPOS/1b977ab605e37b6fbaf824c2e636fbc5b15f9e21/README.md) |
 | `https://sticr.stir.comcast.com/06efc7d1-b979-415c-802c-ca1c0c1985c2.cer` |  | true | [view](../../REPOS/360e6525ad0f4bfa0f463454b7c7f110f9b22eb0/README.md) |
+| `https://sticr.stir.comcast.com/0726b007-7553-439a-8399-477a48514d44.pem` | 06&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/5be801d64561b4fa27e8873c429fa1151d2c32f5/README.md) |
 | `https://sticr.stir.comcast.com/07a32797-b1e6-4d20-b15e-a8bbaea0f8bb.cer` |  | true | [view](../../REPOS/b462f2d9a9bb80e20fb9588e77df7f1a97e23ef3/README.md) |
 | `https://sticr.stir.comcast.com/07dfa8eb-dc40-4d0e-a512-34f04b3dcde2.cer` |  | true | [view](../../REPOS/54673de63f09e5a44307229c8369b418d6629692/README.md) |
+| `https://sticr.stir.comcast.com/08010370-c15a-452f-b357-5ed601b49ccf.cer` |  | true | [view](../../REPOS/c6f0e1f28c3014a845793db672bca934621a337e/README.md) |
 | `https://sticr.stir.comcast.com/088eb558-4fd5-4c48-b10f-9014ac705bd7.cer` |  | true | [view](../../REPOS/2958456d8d60c7d279e4a9420101c9b3f132a58e/README.md) |
 | `https://sticr.stir.comcast.com/089faf74-8bec-4415-b136-7cc36adfdaec.cer` |  | true | [view](../../REPOS/531afd15e613200e494ff702e5666d150b0096c3/README.md) |
 | `https://sticr.stir.comcast.com/092ae12a-ae4d-4bbd-9200-5658355dcaaa.cer` |  | true | [view](../../REPOS/d25274910f3294e16856234360b9d2cd572ae89a/README.md) |
@@ -40,17 +48,23 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/0c23e5ba-d34d-4c77-b7c6-acddfa201901.cer` |  | true | [view](../../REPOS/9c5d7bb87eeb43e85591f4c09e62c0bbbd078fce/README.md) |
 | `https://sticr.stir.comcast.com/0c31a311-70a3-4d2a-af6a-1f1043c31753.cer` |  | true | [view](../../REPOS/2332d530ac5949c742a38eace5fd12e547a4695e/README.md) |
 | `https://sticr.stir.comcast.com/0c6603e1-e10b-42f1-9609-7e2c48743381.cer` |  | true | [view](../../REPOS/483e087c82f788f58fc6ae8461253e5702626a93/README.md) |
+| `https://sticr.stir.comcast.com/0c815de4-66a0-4e99-aae2-425393174a28.pem` | 14&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/2765346dad1378ec83f7adcc6db6c336fef35bdf/README.md) |
+| `https://sticr.stir.comcast.com/0da458ce-6369-4943-af3c-3366cc371339.pem` | 08&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/cacd768f70d6a65841c0675e1b39ab4d2a82f302/README.md) |
 | `https://sticr.stir.comcast.com/0e3153ed-84ad-43af-bd9c-cb84d15952a0.cer` |  | true | [view](../../REPOS/555908815ee3ab04c799e5a9c80ff782a0087df0/README.md) |
 | `https://sticr.stir.comcast.com/0e3b47b7-8212-44c9-915b-4cd35f9c4ab7.cer` |  | true | [view](../../REPOS/a1241b6227210be2c02696dffe881fcca8a0fe76/README.md) |
 | `https://sticr.stir.comcast.com/0f155561-e95f-4199-a7d6-21dc5f448a1e.cer` |  | true | [view](../../REPOS/6d3f00dcf7d7ff9bf960cd0f1f0c0e49f4226237/README.md) |
 | `https://sticr.stir.comcast.com/0f3f8a3c-501f-439b-9813-4aef6b28a497.cer` |  | true | [view](../../REPOS/a97f0e8ca0e68128cc6eb363521497abfc46fb9f/README.md) |
+| `https://sticr.stir.comcast.com/0f9964c0-c1e1-450d-86eb-2a7e57b88064.pem` | 24&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/9e2559bde6e70de2a1cb7573d965e6d11333abcb/README.md) |
 | `https://sticr.stir.comcast.com/10bc8041-6c83-4142-b2eb-905d7e63f1e5.cer` |  | true | [view](../../REPOS/b931ac1d7ae77947761670f75f939718e7bc1bd3/README.md) |
 | `https://sticr.stir.comcast.com/10cdc14b-0974-4615-a49a-fdeaf9abae07.cer` |  | true | [view](../../REPOS/5b5f8fa2a1c0841504c5d97a45e2107c823494f1/README.md) |
 | `https://sticr.stir.comcast.com/10f584ad-6b4b-405b-bbe1-04e289fadbf2.cer` |  | true | [view](../../REPOS/a3ffb826f6311218661bcdd486e78f1bdbf3b223/README.md) |
 | `https://sticr.stir.comcast.com/111647ea-d4c6-441a-8815-9702ba55dc45.cer` |  | true | [view](../../REPOS/6ad7e7467e7f9a2e43c6caa8da9fb400363336a2/README.md) |
 | `https://sticr.stir.comcast.com/11f88f2a-a53f-4788-a682-47f4c2a1d5f7.cer` |  | true | [view](../../REPOS/f55a5ebf9c8896dcaa3cd83ef05130a359002686/README.md) |
+| `https://sticr.stir.comcast.com/1226933d-c012-4cc7-a927-b12ee86d3799.pem` |  | true | [view](../../REPOS/0901ca82bb8336ac1ea0b641cc76f552c34bf685/README.md) |
 | `https://sticr.stir.comcast.com/123431d8-e66d-4fba-8a5d-a76bcfa48fec.cer` |  | true | [view](../../REPOS/2db1bba00e4ab81013b0bd1863e7e7f9c10ab887/README.md) |
 | `https://sticr.stir.comcast.com/12c98217-fe63-44cb-9ae2-268cf803fc97.cer` |  | true | [view](../../REPOS/d960bd4309fc320de16bf461eadb7ec7d9f7fce5/README.md) |
+| `https://sticr.stir.comcast.com/13684e60-bc12-4142-ba1a-b3a4d000e3d6.pem` |  | true | [view](../../REPOS/5104764725a56e1ca6d9b0c2a536703b274e5883/README.md) |
+| `https://sticr.stir.comcast.com/14173843-0064-4605-b3e1-be22f2a8cb27.pem` |  | true | [view](../../REPOS/178019b1bcd22cc1cde4dd46ccffd667fa539904/README.md) |
 | `https://sticr.stir.comcast.com/14b75ea5-1fbb-4242-ae29-557f47383c59.cer` |  | true | [view](../../REPOS/fe15a68ec53de0cb3a89e7b5691b33737ff14d6f/README.md) |
 | `https://sticr.stir.comcast.com/14e0e140-6e71-48fe-9b10-e3e632827bb4.cer` |  | true | [view](../../REPOS/fb815fb54700b15896a738b6b05e93d8b6c076ee/README.md) |
 | `https://sticr.stir.comcast.com/162c9563-7ebb-4c2a-aeb7-bbc52a8e4c0d.cer` |  | true | [view](../../REPOS/337767fdfbb62d6eb271aba4b0a15a9ec09a3154/README.md) |
@@ -61,6 +75,7 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/176ed4ed-39a4-4d7d-a671-c610a13bc8c4.cer` |  | true | [view](../../REPOS/b4aa8b517904ee2ba623e1e2ca9ce97f6b4dfff0/README.md) |
 | `https://sticr.stir.comcast.com/18057c33-939c-472a-a04d-9d5504874a78.cer` |  | true | [view](../../REPOS/ac63cefc82f5ebfa7f656083825e96351ed0e07b/README.md) |
 | `https://sticr.stir.comcast.com/1827d9ff-facd-4d30-9ccb-16cd9bc20fc6.cer` |  | true | [view](../../REPOS/8ecadb386867d4d04c94c46c1eac37118b67ccb6/README.md) |
+| `https://sticr.stir.comcast.com/183f377e-2810-4532-88a8-4402603e2133.pem` |  | true | [view](../../REPOS/cf282229601f2b3568d7e808b00b8aceb87bf257/README.md) |
 | `https://sticr.stir.comcast.com/18416b57-278d-4265-9cdd-708462247849.cer` |  | true | [view](../../REPOS/a6ec6a7b9fea6470d78ccb33b5d0a4223c49d010/README.md) |
 | `https://sticr.stir.comcast.com/18d58abc-30c0-4e0b-8978-4d23d247ed23.cer` |  | true | [view](../../REPOS/62d2f5b89f7171e85414fbe160ff78b422541d63/README.md) |
 | `https://sticr.stir.comcast.com/19e0c6d2-138e-417e-8458-12ef7d5f2645.cer` |  | true | [view](../../REPOS/7920c3aaa0d3a8d87c9d27677f1662c04c7d7545/README.md) |
@@ -71,6 +86,8 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/1a8d52ac-b951-4a58-8587-ebcc5eab35b2.cer` |  | true | [view](../../REPOS/a6b8b7e9a30b85c4e24fcdec899c1347a64bc5bf/README.md) |
 | `https://sticr.stir.comcast.com/1b8a8843-5da1-4e0d-a25a-5ba8a98ab874.cer` |  | true | [view](../../REPOS/8ff5ea31feb0be96a4af6871b0ba34a612ad7294/README.md) |
 | `https://sticr.stir.comcast.com/1c114382-254a-4dce-9b5a-215f633f602a.cer` |  | true | [view](../../REPOS/5e86aa3ade2bded729689469d8903abf96bb2441/README.md) |
+| `https://sticr.stir.comcast.com/1c33324d-dc10-4336-b207-f408e76ba8c6.pem` | 20&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/6c93709c39a0e540f4f3005fa64ad45d60abeb7e/README.md) |
+| `https://sticr.stir.comcast.com/1c42bd63-5b1a-4dec-be9a-06de06dd4700.pem` |  | true | [view](../../REPOS/f4e81309da0648c8463fd1786125022928fc14fd/README.md) |
 | `https://sticr.stir.comcast.com/1cbd36c3-f83b-483c-b75a-67351853cb35.cer` |  | true | [view](../../REPOS/48736d8a375388091a689b1e33f409bb98ec892c/README.md) |
 | `https://sticr.stir.comcast.com/1d24b4db-d73a-4e97-9feb-ec4a7f925962.cer` |  | true | [view](../../REPOS/57d06c3012a5a7a361970ee0820f3f85e5d26b2e/README.md) |
 | `https://sticr.stir.comcast.com/1e05f2a1-7235-4ffb-bf65-b210058a35db.cer` |  | true | [view](../../REPOS/6e31396ad720fef4cf69b13119edbd5e67614843/README.md) |
@@ -81,6 +98,8 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/2177017f-52cb-432c-b764-1a5d5007d7d3.cer` |  | true | [view](../../REPOS/e216722690afd86c7fc64e54a7ef661527c48299/README.md) |
 | `https://sticr.stir.comcast.com/21d3f87a-f81c-4a62-85d5-3bc90c3be691.cer` |  | true | [view](../../REPOS/df31ede0f69e3875177653709538b1af7c2ca310/README.md) |
 | `https://sticr.stir.comcast.com/221b13b1-f788-4a9f-8b94-8a98171333b9.cer` |  | true | [view](../../REPOS/7cefedd3e4b0d67075274bb76d096a50fab77cf4/README.md) |
+| `https://sticr.stir.comcast.com/22def39e-474a-4934-afb3-8e79162592b1.pem` |  | true | [view](../../REPOS/4a0678cc790fb3c175665efaa25ca32b843f4a38/README.md) |
+| `https://sticr.stir.comcast.com/2314731a-0f9f-407e-9fb2-5d2d56ecea04.cer` |  | true | [view](../../REPOS/de27b184c20bf5dc4909cf0139a703023e391a14/README.md) |
 | `https://sticr.stir.comcast.com/24052a02-8aee-4d2a-9756-33ccced9851d.cer` |  | true | [view](../../REPOS/bfd0fb2543026e822f6307404649642a3b5c3b32/README.md) |
 | `https://sticr.stir.comcast.com/252a0914-c4e8-4c20-be16-dc3475c2f152.cer` |  | true | [view](../../REPOS/29995ef81e35a618fac0f74dda7bcc272ecfa39b/README.md) |
 | `https://sticr.stir.comcast.com/25536659-3f9f-40d7-b8c8-6380dab06c46.cer` |  | true | [view](../../REPOS/3531c067a3a7333b220564008e65659831639c56/README.md) |
@@ -91,24 +110,32 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/27482ff4-ba02-4419-8562-6af6276550cd.cer` |  | true | [view](../../REPOS/11a5ca609588889a979b494ca8fb0297fd65eb28/README.md) |
 | `https://sticr.stir.comcast.com/28ad7b45-d26e-44f9-9e94-956be1447094.cer` |  | true | [view](../../REPOS/349609e72ffae1b28e5b5ee54018087598170faf/README.md) |
 | `https://sticr.stir.comcast.com/294ac917-7130-4af4-890c-1b43beb50d8b.cer` |  | true | [view](../../REPOS/597c95a66e39646c6d4b8021f03e9359abe0ea7f/README.md) |
+| `https://sticr.stir.comcast.com/29c105c7-8a9d-4be2-8f0a-c32dd14e717c.pem` |  | true | [view](../../REPOS/9a8b7183e361f4674860fa6c8312818b9d9986bc/README.md) |
+| `https://sticr.stir.comcast.com/29c5b213-b433-49f4-91b2-c665b91aa8a8.pem` |  | true | [view](../../REPOS/47fbc439018e0c1cab39261c9025514002241f5d/README.md) |
 | `https://sticr.stir.comcast.com/2a38044a-9ec2-4656-9982-a316dfc3139b.cer` |  | true | [view](../../REPOS/7e2c1a76b9af60a13bbe168175609cb30b59ee7d/README.md) |
 | `https://sticr.stir.comcast.com/2a3f24ff-d20d-491c-ae67-4d667204fbb7.cer` |  | true | [view](../../REPOS/edbaa430f80e6d4d5963adf52754cd6070f337b9/README.md) |
 | `https://sticr.stir.comcast.com/2abbc521-e3d6-4dce-a8a3-a7272c585b91.cer` |  | true | [view](../../REPOS/65fbcf6ad4d9cb652373b6e00d7069e46a5c51c5/README.md) |
 | `https://sticr.stir.comcast.com/2b7fc515-11d3-4a01-9272-3b8ce1c8e78a.cer` |  | true | [view](../../REPOS/97d76ae1f2259d59fd52bb48384414b4a3758226/README.md) |
 | `https://sticr.stir.comcast.com/2b8e6f9b-0602-418c-a9c5-f657c1d7d7f4.cer` |  | true | [view](../../REPOS/f4066973f1e6e8c561dcdb7d4efd27ba34167f68/README.md) |
+| `https://sticr.stir.comcast.com/2bb6867b-0755-4df0-8b95-d222b265f1da.pem` |  | true | [view](../../REPOS/222c91cd25ca2c3c699f808d55300b06d3732d17/README.md) |
 | `https://sticr.stir.comcast.com/2cfdc950-c248-4e89-8117-cf946517a454.cer` |  | true | [view](../../REPOS/e8963d17737a1c8a979af321685d2d2c378bc7cd/README.md) |
 | `https://sticr.stir.comcast.com/2d2bb4d3-97d4-42a2-b832-3022edcc9a31.cer` |  | true | [view](../../REPOS/38d615857a2a5979ff4ad3e92f5af8bd446f0fa1/README.md) |
+| `https://sticr.stir.comcast.com/2d417b2f-c6ff-4b20-9817-47b92191c303.pem` |  | true | [view](../../REPOS/84239b2bbfd0df38938952f21e9c5d042dcd9cb1/README.md) |
 | `https://sticr.stir.comcast.com/2e147d51-f0d3-4ba1-a983-83ef76c02417.cer` |  | true | [view](../../REPOS/9417fb45fcd6edb228c5e3ce6760f91d499a8529/README.md) |
 | `https://sticr.stir.comcast.com/2e1e72f0-750f-4a07-8cbb-ee4639edd493.cer` |  | true | [view](../../REPOS/3d98e080b4180c0e005509bf087f01bc3c1abb2a/README.md) |
 | `https://sticr.stir.comcast.com/2e3dae9f-9681-4ef5-81ee-bd4f2024efbf.cer` |  | true | [view](../../REPOS/beb21b4d823a87e9ba70374c08f3264adfd31871/README.md) |
 | `https://sticr.stir.comcast.com/2ed87483-cd76-48e2-b55d-ca40944e96c3.cer` |  | true | [view](../../REPOS/b9b16885195a7f9277fd71abbeff7badff989cb3/README.md) |
+| `https://sticr.stir.comcast.com/2ee0ee18-a237-4ec6-9258-817b0f39b50a.pem` |  | true | [view](../../REPOS/de76454e62dc6330947a8c23eecb2197e645dc48/README.md) |
 | `https://sticr.stir.comcast.com/2f5cbc5e-60cb-45c1-9a5f-2c1b7d5da52c.cer` |  | true | [view](../../REPOS/7682eeb9307c11d1c79677990a081269ab57b864/README.md) |
 | `https://sticr.stir.comcast.com/2f5e96f6-0dbb-4d80-ada5-4561c92e5e52.cer` |  | true | [view](../../REPOS/4536f54231f8d7fcd6ecb84fab7c66fe0c1aafb1/README.md) |
+| `https://sticr.stir.comcast.com/2f6f32da-74d5-464d-9b43-3c463f6dac99.pem` |  | true | [view](../../REPOS/0b6008598032eda901c21166634ddcbbef4ac2b9/README.md) |
 | `https://sticr.stir.comcast.com/2f9a70b9-e914-441c-8b80-9c233ad370c6.cer` |  | true | [view](../../REPOS/fb46f7305e8cbbd2bdecf16cae135682c7e201ff/README.md) |
+| `https://sticr.stir.comcast.com/2f9f9838-5f96-4ae6-8c68-8fdc3e9a5b0f.pem` |  | true | [view](../../REPOS/6588789c3d85fb3ace3f49cfa40eb8572d966886/README.md) |
 | `https://sticr.stir.comcast.com/2fb1f7fc-7b6d-45f3-be9d-42e86bb08c46.cer` |  | true | [view](../../REPOS/4a5da45caf14882d3ac869f9da700d3442888a64/README.md) |
 | `https://sticr.stir.comcast.com/307bbf0e-29f2-463e-bb39-d9486d417aaf.cer` |  | true | [view](../../REPOS/e24621d1b9e5ff168df6c4153ef6c6c1d18b6434/README.md) |
 | `https://sticr.stir.comcast.com/307fe7ba-4dc0-414e-a845-84c38258a43a.cer` |  | true | [view](../../REPOS/584ef98bd81e164d824e764ba351e732589e391f/README.md) |
 | `https://sticr.stir.comcast.com/30f3ec66-d05a-4e7f-b985-4d5746f0ef56.cer` |  | true | [view](../../REPOS/03f149533f216646c9636ef54fceda53b3d3757c/README.md) |
+| `https://sticr.stir.comcast.com/31c000df-1cf5-4a47-b5d1-3e2af2c49a75.cer` |  | true | [view](../../REPOS/f40b442521bb11569ad9140a301b8b66a6dce2e2/README.md) |
 | `https://sticr.stir.comcast.com/32566080-1a16-494f-8d02-8c8e961e86e6.cer` |  | true | [view](../../REPOS/2296c2ee67eecbdf3baea09b13a93319f05a96b8/README.md) |
 | `https://sticr.stir.comcast.com/32780845-7305-4c38-b97b-e613e8cfb314.cer` |  | true | [view](../../REPOS/1a3e7166f8f6672939a6d1984d674fce7b24436f/README.md) |
 | `https://sticr.stir.comcast.com/32984e0d-7213-4e37-b07f-8f80b0103253.cer` |  | true | [view](../../REPOS/e4b09391e6a5d8e4983d897782aa78573164402e/README.md) |
@@ -116,6 +143,7 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/32a6b643-9271-4478-a054-f12aa8d8a4e8.cer` |  | true | [view](../../REPOS/973291069b6e1dc3520de0c6079b7e53dc2aaf38/README.md) |
 | `https://sticr.stir.comcast.com/32d3787e-f4db-4e53-a7ae-73c19e139d1f.cer` |  | true | [view](../../REPOS/377c23f8d713812dc66d779a732d93e296f8d942/README.md) |
 | `https://sticr.stir.comcast.com/32fd111f-5dd5-4aab-b646-ca5a0bc3dcd1.cer` |  | true | [view](../../REPOS/92a99a18009d8c65c95dd70ee18a3e916355dc4f/README.md) |
+| `https://sticr.stir.comcast.com/33725930-2033-4831-9a1b-a5e7a0f205fe.pem` | 22&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/58976876375b0448a2b039f301e1b727f6f6ce5b/README.md) |
 | `https://sticr.stir.comcast.com/33e0ef77-5895-44a6-925f-a78e3140d552.cer` |  | true | [view](../../REPOS/68f9399fc9d55267114c99cfb6142f9a7d71efdd/README.md) |
 | `https://sticr.stir.comcast.com/346670f0-c463-4c91-b0f3-8008a3f0102c.cer` |  | true | [view](../../REPOS/ed18a96d96a2d42a69500d9e54cd0402105e5d86/README.md) |
 | `https://sticr.stir.comcast.com/346ce899-5786-4fc1-90c1-bfd1d612a1d0.cer` |  | true | [view](../../REPOS/1d82a8226f8691485d07e9709bc8e60c33a236d6/README.md) |
@@ -123,28 +151,39 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/35710dd8-bb2a-4d84-9fbf-2dfdd9054b57.cer` |  | true | [view](../../REPOS/94436f0c04b8d2dd21367673e1755a180407059a/README.md) |
 | `https://sticr.stir.comcast.com/361e067e-f536-4977-8031-a0001c84cf65.cer` |  | true | [view](../../REPOS/ee5524098e3de1ee8678a5a20d6e37f6a15c4505/README.md) |
 | `https://sticr.stir.comcast.com/363c2e6b-c80c-4293-a635-52cb6aa28902.cer` |  | true | [view](../../REPOS/1b0b08fdae84933c9df215f24135230325ddc5ea/README.md) |
+| `https://sticr.stir.comcast.com/389c25ee-94c9-4093-861b-cc59c64773dc.pem` |  | true | [view](../../REPOS/3dabcd07fa83f684b07505e056967eaf2f761a23/README.md) |
 | `https://sticr.stir.comcast.com/38ab530d-fac6-44f1-9ceb-8b03ad067555.cer` |  | true | [view](../../REPOS/f34362b62cafea72512b7fcbc83dc334f0a3c47b/README.md) |
+| `https://sticr.stir.comcast.com/38b6d391-f446-4f69-9611-277bcaa6eda6.pem` | 03&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/3612378c6a00b1483befbdd85c702ead24a645fc/README.md) |
+| `https://sticr.stir.comcast.com/3948799c-f9ac-4e31-8b58-28967b793141.pem` | 02&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/1ac9fb3fd9387ba7accaec427a771f4be3fb02e2/README.md) |
 | `https://sticr.stir.comcast.com/394b6449-5326-41d9-a22f-203a950ae295.cer` |  | true | [view](../../REPOS/6827298d4877a496a4b3ced95f53684eb943bc7e/README.md) |
+| `https://sticr.stir.comcast.com/39830c37-18b2-4120-b0a8-af2d6b883ef5.pem` | 03&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/4c8e13d0da0de77ebb78d7d3b1af184d7a1db197/README.md) |
 | `https://sticr.stir.comcast.com/39a30b20-6636-45de-abbd-38f2a4a1da8f.cer` |  | true | [view](../../REPOS/8006da20461fef9072c098e3ea4f14e858197fb2/README.md) |
 | `https://sticr.stir.comcast.com/39f48e26-2e26-42a8-8816-150688ced7c4.cer` |  | true | [view](../../REPOS/b89fa03ccf866d7ac9f3ff4776167f31cf15a2f3/README.md) |
+| `https://sticr.stir.comcast.com/3a0a30cf-c362-4cb0-96e9-26e2ec0471ee.cer` |  | true | [view](../../REPOS/7b6a3c5bd9604dcb2b08414abb5714998e082c9d/README.md) |
 | `https://sticr.stir.comcast.com/3a4407fb-c4c3-400b-aab8-58a54635c656.cer` |  | true | [view](../../REPOS/4a29c7e33c9cf5e6cd550318989db11e345300b6/README.md) |
 | `https://sticr.stir.comcast.com/3a64f413-9751-406d-8a6b-e4509b490552.cer` |  | true | [view](../../REPOS/d6affb03bf09f5ca54110c6bddd18b6d60c5ccd3/README.md) |
 | `https://sticr.stir.comcast.com/3a718ec2-02f6-4b04-83c5-467ad7311014.cer` |  | true | [view](../../REPOS/5cb743958282ee495cfdce7339b5bdb31cb75f8f/README.md) |
 | `https://sticr.stir.comcast.com/3a8d6f05-a96c-4ea6-a80a-0d892c2bdeae.cer` |  | true | [view](../../REPOS/16a83c78ab97d22240750816f261d6741df60512/README.md) |
 | `https://sticr.stir.comcast.com/3b75ea5f-bb02-48f1-9c97-0c2ad476e451.cer` |  | true | [view](../../REPOS/508822526657083d109fd2cb8f51bb471cc4ae77/README.md) |
+| `https://sticr.stir.comcast.com/3bb20b6b-a37a-4350-8847-12856a5b9008.pem` |  | true | [view](../../REPOS/764a782bf33f689dbbea5f0d876c60b62835f655/README.md) |
+| `https://sticr.stir.comcast.com/3be7b5b2-d8f5-4a02-8c7e-c6b466a0accf.cer` |  | true | [view](../../REPOS/79c32b66fd56d4beae1976859ce42223120c158e/README.md) |
 | `https://sticr.stir.comcast.com/3cca4126-b22a-4d44-bd15-792e6bb7864f.cer` |  | true | [view](../../REPOS/cba732aaad3d510dfde5f46c9bb1947650410fa1/README.md) |
 | `https://sticr.stir.comcast.com/3d45a02b-d226-4119-a839-b7d0a1653b40.cer` |  | true | [view](../../REPOS/3d1191c5b71a58217a06281a57dc53a84bc2ce82/README.md) |
 | `https://sticr.stir.comcast.com/3dfea335-0ada-462c-956b-2a5a65a1c133.cer` |  | true | [view](../../REPOS/15980bee6e3c1034e83f5adcc087313e3829cd08/README.md) |
 | `https://sticr.stir.comcast.com/3e11c578-a2bb-4bc7-b525-68da68875c73.cer` |  | true | [view](../../REPOS/5926355f9d797f62e2a153abe26ebd2820ad33df/README.md) |
 | `https://sticr.stir.comcast.com/3e3514c9-38cf-4850-8cc6-b702c2430649.cer` |  | true | [view](../../REPOS/2d9ca5b7e2824bec4d32e9470cf5b81e41f42614/README.md) |
+| `https://sticr.stir.comcast.com/3e79d09f-bbcc-4341-aa6d-bb1aba377aaa.pem` |  | true | [view](../../REPOS/f08631c2c5419f77e1c4f94af3e2a566695aeef0/README.md) |
 | `https://sticr.stir.comcast.com/3e8ed931-c0fb-4a61-a165-cec936d7e916.cer` |  | true | [view](../../REPOS/729773e67af7a739a0154f5147d0e04631ae15ef/README.md) |
 | `https://sticr.stir.comcast.com/3f8d2081-98af-4be0-903e-66107b12e4e1.cer` |  | true | [view](../../REPOS/84f349e161ed1b6ccd83b277fa30dc25a48479b1/README.md) |
+| `https://sticr.stir.comcast.com/4052ebb4-3a03-4402-bdba-49f42e9da8bb.pem` |  | true | [view](../../REPOS/35656db2132aacf3d96be5f13508fb587e144f43/README.md) |
 | `https://sticr.stir.comcast.com/40afa5ac-e15b-4be7-91fe-f354e509c01c.cer` |  | true | [view](../../REPOS/1d02e5d1e9a91975ba340b5f674d08697ebc5931/README.md) |
 | `https://sticr.stir.comcast.com/4113c105-2afb-4975-85bd-708d20cc2dc8.cer` |  | true | [view](../../REPOS/6fce42d1ee4a0f4b25cc7cb51d05aac488573d9b/README.md) |
 | `https://sticr.stir.comcast.com/41bae503-1216-45c1-b880-7ffdeccc3a24.cer` |  | true | [view](../../REPOS/ea78abf5dbfbabf9977d87cd200886258bf4c5bb/README.md) |
 | `https://sticr.stir.comcast.com/41d2e743-8ee8-4f37-95ae-0484546ad2ce.cer` |  | true | [view](../../REPOS/b7ff6c059001c366112c86c10b655d3ca118ab26/README.md) |
 | `https://sticr.stir.comcast.com/41e852ab-30e2-4a8c-9aa7-45cf0e6d7eec.cer` |  | true | [view](../../REPOS/ec915641c06caeac71fdf254a3e86bbb54673791/README.md) |
 | `https://sticr.stir.comcast.com/420abd4d-938e-44b0-b4c3-872fdc40c6a6.cer` |  | true | [view](../../REPOS/e4f401540deaa27c1f28b459cf5dc1191c7dfaaa/README.md) |
+| `https://sticr.stir.comcast.com/4241959e-060f-457e-90ca-b7cb55419f3b.cer` |  | true | [view](../../REPOS/5b825618ce861471ecf79e68b3d431e5da4a9731/README.md) |
+| `https://sticr.stir.comcast.com/4244a23c-d07e-4894-9447-4930791486ca.pem` | 14&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/a1c5f687575c20bbf113e254f0b82b34a799d82b/README.md) |
 | `https://sticr.stir.comcast.com/42514954-1d48-435c-8b89-288cea14b536.cer` |  | true | [view](../../REPOS/c3c8faf953bad06edc1ce018c62e6f31a71a89e4/README.md) |
 | `https://sticr.stir.comcast.com/42f919d9-ad3d-48c9-ac7a-5a20c1d02d02.cer` |  | true | [view](../../REPOS/1a14a12274216e877588d8ebd1a25617f579e315/README.md) |
 | `https://sticr.stir.comcast.com/43f65f99-f274-46f6-93c6-ac9bd8a32af0.cer` |  | true | [view](../../REPOS/e01620ff168ebfe6623f44c416f094f3b0aa06fa/README.md) |
@@ -155,57 +194,85 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/46330114-1c23-4d81-85c1-c74f8a443aec.cer` |  | true | [view](../../REPOS/f07d8fc77beac0e4863fd992e7563fe09b5846ef/README.md) |
 | `https://sticr.stir.comcast.com/46580100-96a6-491e-8781-80fd6dd9aec2.cer` |  | true | [view](../../REPOS/5b16bacf119a500416e2f2ba6ca11af1f893215f/README.md) |
 | `https://sticr.stir.comcast.com/468c51f0-e865-42f9-8864-c03791adabbd.cer` |  | true | [view](../../REPOS/83df694d9980db55ad17d86a89f50cfb7d3af465/README.md) |
+| `https://sticr.stir.comcast.com/4710476b-6549-418f-9934-a3c03ee1a14a.pem` | 15&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/783b0f25bbe43c661bdd1a0dc43cc2b20dee19c7/README.md) |
+| `https://sticr.stir.comcast.com/47593443-fe3f-41e4-8e28-8d5948c5e6fc.pem` |  | true | [view](../../REPOS/24b34eab9b59f1f3123bfaa9237431bcfcf01d31/README.md) |
 | `https://sticr.stir.comcast.com/47c3a416-3373-4f63-b2b2-b44395901b53.cer` |  | true | [view](../../REPOS/7920722ffacb38e7644535d538602ff21dbf4d52/README.md) |
 | `https://sticr.stir.comcast.com/4802ee82-af75-45b9-a830-7ebc29f74927.cer` |  | true | [view](../../REPOS/f27344700b5b4b06f30858728cfe7c3c1b0eb774/README.md) |
 | `https://sticr.stir.comcast.com/48a8cf2d-17ad-4f84-9133-7f66cb61c330.cer` |  | true | [view](../../REPOS/d7b7e433f1ec575b1e5e2fedd438b11804aea58a/README.md) |
 | `https://sticr.stir.comcast.com/49241c1a-4e4a-4bf8-9a6a-3de6850c21ac.cer` |  | true | [view](../../REPOS/c05fabd69650786a5c242dc9a90209706e89be75/README.md) |
+| `https://sticr.stir.comcast.com/494da7d8-999c-419d-9dc0-7f0f2954af48.pem` |  | true | [view](../../REPOS/3a32a9db53f83d884787e55d734c303760970614/README.md) |
 | `https://sticr.stir.comcast.com/4996fd7f-9478-4fb7-8754-f8f13fa3407a.cer` |  | true | [view](../../REPOS/26fef3304dde35a9c0f9be79daa0adb6d3ff1643/README.md) |
 | `https://sticr.stir.comcast.com/4999757e-3f55-4b92-a030-67419b6d124c.cer` |  | true | [view](../../REPOS/0012b0dcac36c39af9743a4a7ecea336bcda9ef8/README.md) |
 | `https://sticr.stir.comcast.com/4a71f96d-eb98-432e-b6e7-ee609be1a78d.cer` |  | true | [view](../../REPOS/e51b1318c1dcdcc1726d495927c7c2b0a948e477/README.md) |
 | `https://sticr.stir.comcast.com/4a763597-300f-46ed-940b-ef3e990cfdad.cer` |  | true | [view](../../REPOS/5acb6c66fc0febd16d59a57d7da854f3ecd3210e/README.md) |
 | `https://sticr.stir.comcast.com/4ac6f6d3-4254-4b11-b079-8fa8722b75c4.cer` |  | true | [view](../../REPOS/cbff88875a4160892d62c031533e3110a9604c68/README.md) |
+| `https://sticr.stir.comcast.com/4b494207-1935-4e43-b3fd-15ce4eea6098.pem` | 23&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/7079f35c7e906c88653a56234eb32369e03ebdb5/README.md) |
+| `https://sticr.stir.comcast.com/4b595a03-5d55-4c0a-ad6f-25089475f2b3.pem` |  | true | [view](../../REPOS/8666d07f4325d2be3b710ffacd5212dd9eb0d044/README.md) |
 | `https://sticr.stir.comcast.com/4b8fdb52-9c97-4e55-92e2-e70b0b7e9e76.cer` |  | true | [view](../../REPOS/2b23b78077148df5ec00b2f11b2ce42e22a93032/README.md) |
 | `https://sticr.stir.comcast.com/4bfe0e56-0314-4d7a-b12b-27fd16a8664b.cer` |  | true | [view](../../REPOS/2bc86f04435dce604a3b6040762dfc43da200f1e/README.md) |
+| `https://sticr.stir.comcast.com/4c13e4b5-80f3-479e-9aa3-4c65f959cd3f.pem` |  | true | [view](../../REPOS/568b0b193484abf835164df64877f95ee4e9e3f6/README.md) |
 | `https://sticr.stir.comcast.com/4c15d7c7-affc-45ae-a19e-e7686b8fd660.cer` |  | true | [view](../../REPOS/d87a8dc9e6e596ceb20fc56643dfe52b4a1b1713/README.md) |
 | `https://sticr.stir.comcast.com/4c35897d-c028-41a4-b5d8-6fb95ed1bee3.cer` |  | true | [view](../../REPOS/baccac90f2c76e79b31937a29cc453b76297b25d/README.md) |
+| `https://sticr.stir.comcast.com/4cd71f76-5173-4216-8bd9-b07c97fcafb1.cer` |  | true | [view](../../REPOS/c2e767ec6c602ba61ccd3f3e39b04cd4005724ba/README.md) |
 | `https://sticr.stir.comcast.com/4cead844-61c9-4d46-b744-e05758738b57.cer` |  | true | [view](../../REPOS/c889d252523e7cf621a2141b29a4231dfb9f1a2a/README.md) |
+| `https://sticr.stir.comcast.com/4d8de29d-ef7e-4a9b-b130-8028221a464b.pem` | 13&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/2dfc2d541c3a406915551cf44283479f653b459e/README.md) |
 | `https://sticr.stir.comcast.com/4d9c26fc-2b75-4716-b02d-8aea6614d514.cer` |  | true | [view](../../REPOS/71682ce99f2c12501d1bd27f26fce418c54ba3d6/README.md) |
+| `https://sticr.stir.comcast.com/4db18c22-c715-40f3-a775-d2c9289d02d3.pem` | 28&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/edf9fc37e05f3e31b29bf7482611a08a7d4f88ee/README.md) |
 | `https://sticr.stir.comcast.com/4dbdad4d-9283-4d96-9ff4-2b6383950fd5.cer` |  | true | [view](../../REPOS/ab87b73ab1ab7ad3077f7bfec0e7138348524fd8/README.md) |
 | `https://sticr.stir.comcast.com/4de84414-f530-4e82-ae46-40a9bb9f7408.cer` |  | true | [view](../../REPOS/05525ca6b56ba9660052acc599dd3a4df9bb86d4/README.md) |
 | `https://sticr.stir.comcast.com/4df1c1e9-6d20-4bbc-9d85-c7084081a77e.cer` |  | true | [view](../../REPOS/8915e37c9938d3d2f593a78b5d8d1cd3e135a0e7/README.md) |
 | `https://sticr.stir.comcast.com/4f259555-e75c-4a24-ab00-1e6820b6ac6b.cer` |  | true | [view](../../REPOS/1bdd9097ecbdf0857fa4fee9c15120d288cf048c/README.md) |
+| `https://sticr.stir.comcast.com/4fb48efc-cece-4314-bbe6-082a33a3ea6c.cer` |  | true | [view](../../REPOS/fd70f6df0f2395c72053f61d693508e991ba61d6/README.md) |
 | `https://sticr.stir.comcast.com/503ffc0b-3b0f-42b3-a759-5d151c0ea96b.cer` |  | true | [view](../../REPOS/547829232e0a91699a0f76838ccb1ad64c7b59ec/README.md) |
 | `https://sticr.stir.comcast.com/50c7a58d-a438-40ea-a340-92149a160d70.cer` |  | true | [view](../../REPOS/8cd7d6de918ba092c2b446e69e3183284b68c6c7/README.md) |
 | `https://sticr.stir.comcast.com/516e7545-25b2-4eef-ad7f-e5bcac2e6d4f.cer` |  | true | [view](../../REPOS/98b396350463ef1b615f8a84886fde42eb66a29d/README.md) |
+| `https://sticr.stir.comcast.com/521e7b00-7b82-405a-88b2-f9d2a04e6574.cer` |  | true | [view](../../REPOS/59d3ec69cf702177adb652fdad66051cb0a240ca/README.md) |
 | `https://sticr.stir.comcast.com/5233c9ad-ed39-40c2-9802-8f561bb12e0c.cer` |  | true | [view](../../REPOS/26ba2e47156d0419d4369abaed0634777b13e74d/README.md) |
 | `https://sticr.stir.comcast.com/52478fc0-661a-4625-89f5-a49ccb52ef2a.cer` |  | true | [view](../../REPOS/1d322328360c7d2bc983cfc94ce90f49935f84a1/README.md) |
+| `https://sticr.stir.comcast.com/52722805-7480-45ed-943d-ddb646a4cfc1.pem` | 05&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/3140e4064c920f01dc53efbe49d983320c77d50c/README.md) |
 | `https://sticr.stir.comcast.com/52b1f3f2-abcd-430c-a47c-6d43829e875d.cer` |  | true | [view](../../REPOS/d24f929c69859a9eabc070768686b142b658e1d4/README.md) |
 | `https://sticr.stir.comcast.com/52d85597-1e1c-4365-99be-049a803f0a31.cer` |  | true | [view](../../REPOS/0d02b127e3cd69431f363f6b68267fcfb280bd21/README.md) |
 | `https://sticr.stir.comcast.com/52ffc4cc-6266-49e0-90c5-6803b2f5601b.cer` |  | true | [view](../../REPOS/008a6adc2c70626e4bd0d3e78780bf3017592746/README.md) |
+| `https://sticr.stir.comcast.com/53a33cea-2134-494a-a50d-9668cd3bf516.pem` | 04&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/292c0fd50f6159354c6e788d9333f4b54abe7ba6/README.md) |
 | `https://sticr.stir.comcast.com/53f8a9c9-0dfe-49fb-a396-d0f30b5eeb5d.cer` |  | true | [view](../../REPOS/45fc9d10fcaca6001ab435c1d7bdaafa7e0f968d/README.md) |
+| `https://sticr.stir.comcast.com/54572174-4f4a-47a8-afae-aa904996a25c.cer` |  | true | [view](../../REPOS/478d150e0fc1b76e72cc2c70c6a4d0e9b948652d/README.md) |
+| `https://sticr.stir.comcast.com/548fca5d-160d-45d0-8da2-3d056392d7c5.pem` | 19&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/558d016e124ca4908ddea51df8d2a9794a9fea1a/README.md) |
 | `https://sticr.stir.comcast.com/5566380e-8824-463b-a4f7-8a933e45d24d.cer` |  | true | [view](../../REPOS/d6b79afd9f829984a6089d20c7cd81dd4517bb65/README.md) |
+| `https://sticr.stir.comcast.com/557a58ba-c2a2-45a6-be8a-5feac3922f05.pem` |  | true | [view](../../REPOS/c90509e3afe614a04e9ebfed54dc29ccef1c21ee/README.md) |
+| `https://sticr.stir.comcast.com/55ff1ef3-3684-45e9-9b62-6887649221ef.cer` |  | true | [view](../../REPOS/3de5b89ae232d04d3bc49a9bf5896d0f955004e8/README.md) |
 | `https://sticr.stir.comcast.com/5606184d-7841-4721-a9e6-01bf77260b71.cer` |  | true | [view](../../REPOS/7171843c26bb43f2a0ffdd651700634aa42247d6/README.md) |
 | `https://sticr.stir.comcast.com/5660d890-4aa1-4bdc-9ecc-2fe0ec13b9bd.cer` |  | true | [view](../../REPOS/7a4fe27ab75d6ccc46f4a40399054db4edcffd33/README.md) |
+| `https://sticr.stir.comcast.com/56b2d297-1da4-4d19-b6a4-7ce0efef6d16.pem` |  | true | [view](../../REPOS/565c1d95f0366742ddc0262da74878d5b3096b14/README.md) |
 | `https://sticr.stir.comcast.com/576cf7d5-e093-4c8d-8557-8dc36434c606.cer` |  | true | [view](../../REPOS/e68347e03e45ea6b03d52b175805d3a094f6ed47/README.md) |
 | `https://sticr.stir.comcast.com/585a2efa-9cb6-4b4c-9c2e-0864259a611a.cer` |  | true | [view](../../REPOS/bb137fe7e58a24d8b7ef208735532cb221ad11bc/README.md) |
 | `https://sticr.stir.comcast.com/58c6198b-a08b-479f-a3aa-5bac2fb83a02.cer` |  | true | [view](../../REPOS/ce2db3085ff3d4ea5b7f28945701a94f79faabf9/README.md) |
 | `https://sticr.stir.comcast.com/594adba6-2a95-4047-b678-1f5f463e5920.cer` |  | true | [view](../../REPOS/5ee0d2bb7b8df968926cc648e5a7126a059afb7d/README.md) |
 | `https://sticr.stir.comcast.com/5a1bc8c8-daff-4f1a-ae6a-2fb24ff1223e.cer` |  | true | [view](../../REPOS/1a2f66e85697de8e8dfaa2b01c58e5237f9561ce/README.md) |
+| `https://sticr.stir.comcast.com/5a50381d-bcb0-441b-9053-9b71d43d5cfe.pem` |  | true | [view](../../REPOS/0b261f6204fea662e21ad0cc809f486190cc4341/README.md) |
 | `https://sticr.stir.comcast.com/5aa70553-2e58-4f7b-99dd-807dc5fb6e0c.cer` |  | true | [view](../../REPOS/f6c6b60ddf9e76a00fc738a8d36d24f02480cfb6/README.md) |
 | `https://sticr.stir.comcast.com/5bbc8a90-4420-47b6-9e5e-bc9b3514ee8a.cer` |  | true | [view](../../REPOS/3c508300695b4326d7d6ff6e63de6612de1ceb95/README.md) |
 | `https://sticr.stir.comcast.com/5bdac75c-aa55-4482-9240-af0ad9280901.cer` |  | true | [view](../../REPOS/89f93ae6136d1f12a8767ca0661465293b90f99d/README.md) |
 | `https://sticr.stir.comcast.com/5cd2a71d-5720-4b1d-9f82-6068d3eb49bf.cer` |  | true | [view](../../REPOS/cc60523285b472565bb02d61cfef8b7496965b2d/README.md) |
+| `https://sticr.stir.comcast.com/5db871f3-5f73-418d-a326-f3768cc225b7.cer` |  | true | [view](../../REPOS/ebea209d64005b45aefb1791d540455c407a68fc/README.md) |
+| `https://sticr.stir.comcast.com/5f08cc2e-d664-42ff-97f7-b7b44c2f9ab5.pem` |  | true | [view](../../REPOS/0ac0353445a879d678e3a0b76e863fcf6323942f/README.md) |
 | `https://sticr.stir.comcast.com/5f1c30ac-452f-489b-b116-c0549aa4ce85.cer` |  | true | [view](../../REPOS/795014180c5b9ea5e02bd68cbca73a662b5ebc0e/README.md) |
 | `https://sticr.stir.comcast.com/5f485340-15fc-49ce-b838-7d1aa97b864a.cer` |  | true | [view](../../REPOS/56da421be13ee3a7268699020e8f6486f8078c04/README.md) |
 | `https://sticr.stir.comcast.com/5f66b3b8-3b33-46c4-9a6b-a6bb040ac809.cer` |  | true | [view](../../REPOS/715066ef253d976b706e9e96034dc22bce526c60/README.md) |
 | `https://sticr.stir.comcast.com/5fb1111d-d497-4a04-9eba-81256055d90f.cer` |  | true | [view](../../REPOS/c2a433e40d839399fcbcfbaf0a9a3ddebc7c8655/README.md) |
 | `https://sticr.stir.comcast.com/605501c9-17a2-4ffd-9e79-524223dcb14c.cer` |  | true | [view](../../REPOS/7a2c59c59587014e5e88ff9d36ab04d3868f1c3b/README.md) |
+| `https://sticr.stir.comcast.com/606abe48-3570-44c7-a380-4d86ab9e66cb.pem` |  | true | [view](../../REPOS/6d453ab4edd7ca42d82676e17c16500f722501a9/README.md) |
 | `https://sticr.stir.comcast.com/60cbee4c-2d2e-4127-b82e-8374d1868bf3.cer` |  | true | [view](../../REPOS/b9398326e7c59f2a9a489fbeb9aa9131fff7a870/README.md) |
+| `https://sticr.stir.comcast.com/6106cd44-c0a9-42e6-9e45-a8edcbeadf74.pem` |  | true | [view](../../REPOS/5c4d69c3c2d6cd375dc02dcecf8055fb73d44790/README.md) |
 | `https://sticr.stir.comcast.com/6112b3cc-2770-4e09-bcd7-cabae7c43c86.cer` |  | true | [view](../../REPOS/b980d371a9c69a148afe74fa7b6ae9bb19deae17/README.md) |
+| `https://sticr.stir.comcast.com/62b33eee-369f-491f-9fa2-c475db42253c.pem` | 31&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/27b1c8b0f6dc3ffe1aff8b900bb2f1a54375feba/README.md) |
 | `https://sticr.stir.comcast.com/62f9330e-f1aa-4a3a-8e74-287a492de931.cer` |  | true | [view](../../REPOS/bff179ad5c4238f8201a87cebd90701354e51d1c/README.md) |
+| `https://sticr.stir.comcast.com/6324da95-2618-4abd-a934-bc2bf370f97e.cer` |  | true | [view](../../REPOS/e955bbeda0b7fad4acdbcccb622e0a8bf2a2536a/README.md) |
+| `https://sticr.stir.comcast.com/63512d31-11dd-4324-8a58-36a02352a7b7.cer` |  | true | [view](../../REPOS/071cfa0c65c055a45e2670d7d8ba1b192d32e723/README.md) |
 | `https://sticr.stir.comcast.com/65387454-f67f-475a-b676-d73b24abb031.cer` |  | true | [view](../../REPOS/28e1daa0761013f5f9b23814efded07704a73263/README.md) |
+| `https://sticr.stir.comcast.com/65b7769a-6096-4a62-bfd6-72488e386e30.pem` |  | true | [view](../../REPOS/7850cf9861f2771a6172273f3fa5a39c7c3426fa/README.md) |
 | `https://sticr.stir.comcast.com/66244453-3b57-480f-9f6c-ded43d671544.cer` |  | true | [view](../../REPOS/a73bd0a8f55048e0eae44663b511e98683c61802/README.md) |
 | `https://sticr.stir.comcast.com/6624807a-2792-4263-90da-93d25b29c617.cer` |  | true | [view](../../REPOS/86f72f9d48d67a97744858a051863069b6d961ec/README.md) |
+| `https://sticr.stir.comcast.com/66930224-89df-47bf-917f-04c3517aabd2.pem` | 12&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/90ede7d15d5d981951da3a0be8cb7290cf4cd54a/README.md) |
 | `https://sticr.stir.comcast.com/66b9dac4-f95e-47dc-a637-749094377b6b.cer` |  | true | [view](../../REPOS/3660063c14720a8b6219f9ed3edb6e72ebd51e5d/README.md) |
 | `https://sticr.stir.comcast.com/66e47725-357a-4c75-8fcb-e8ab054f4d17.cer` |  | true | [view](../../REPOS/a67fe96d1ecf998f48e8c6176c68632c8a79eea6/README.md) |
 | `https://sticr.stir.comcast.com/674fbc4a-93fc-40f5-bc67-3c535491e569.cer` |  | true | [view](../../REPOS/0f298698d0ac30da5511835627991110d29131b8/README.md) |
@@ -214,10 +281,17 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/68aa04d7-80cf-4522-82c8-acbd0571c8e1.cer` |  | true | [view](../../REPOS/dcda6c91d1fdf5e03c4a84dc19d78d51eab9f38d/README.md) |
 | `https://sticr.stir.comcast.com/68f6ed4a-0951-45ed-ad96-0944e8d46d23.cer` |  | true | [view](../../REPOS/8b0783b2971fd6d0cf0d40818fc9dbf610a92775/README.md) |
 | `https://sticr.stir.comcast.com/6923f39a-d006-406c-97de-96d86be10e82.cer` |  | true | [view](../../REPOS/0363b7e2dcc98294e0c1ab1b5ed49d4e7d29e883/README.md) |
+| `https://sticr.stir.comcast.com/69a40ca0-440e-4562-aac8-d802cd83f676.pem` | 02&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/491076c1950ab216f9d4b609ea012b0725749e5c/README.md) |
 | `https://sticr.stir.comcast.com/6a39d067-650f-4c17-a3b9-dd3a63964889.cer` |  | true | [view](../../REPOS/5b62f14b440075733bdc2ea148a8b553c6184918/README.md) |
+| `https://sticr.stir.comcast.com/6a6e06ee-8c8a-444b-a54b-d158e3b29e76.pem` |  | true | [view](../../REPOS/72661a20a50b6d5762501f9d88f6b15148d07d99/README.md) |
 | `https://sticr.stir.comcast.com/6ac885db-cafd-4f26-ad4b-f05ba8728fac.cer` |  | true | [view](../../REPOS/162289d93846e8dca038515367bbfa60391a5a0f/README.md) |
 | `https://sticr.stir.comcast.com/6b5b4beb-a922-4a38-b864-6c4f29afdc96.cer` |  | true | [view](../../REPOS/4d556f978b373cc59d7fe839d7fc8b552226981f/README.md) |
+| `https://sticr.stir.comcast.com/6b920dfc-2aea-4863-ba0a-e95eb7a9c0bd.cer` |  | true | [view](../../REPOS/8ab1ecfd9bee7edd28705b00305856d896b637b7/README.md) |
 | `https://sticr.stir.comcast.com/6ba3cbe5-600f-4300-8a2b-d1364a642837.cer` |  | true | [view](../../REPOS/235d4e84e982379f963f5eb5c6dd7c3b12b37d6b/README.md) |
+| `https://sticr.stir.comcast.com/6ba9a91c-e8f7-424d-935c-0c818b333778.pem` | 27&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/476d1878eac65aaa29fd59927876bbcabb5b6670/README.md) |
+| `https://sticr.stir.comcast.com/6bf4b6e7-bd98-4a10-8dfe-d6ec36b59546.cer` |  | true | [view](../../REPOS/fad6b5f1ffc40a210507487d4821637e2a71548a/README.md) |
+| `https://sticr.stir.comcast.com/6c1e1505-9836-4e50-b858-ece0ca66fe43.pem` | 17&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/2bfb90911629deb615383476ba04478648e6f521/README.md) |
+| `https://sticr.stir.comcast.com/6c212606-c653-46a9-b4e1-edf81656133e.pem` |  | true | [view](../../REPOS/020d7643e8e3ad635a44c39fad6041ff5dba6780/README.md) |
 | `https://sticr.stir.comcast.com/6dc3dfa6-4af3-4f16-a3b3-dd1ab745f571.cer` |  | true | [view](../../REPOS/14383f00ca66b87e0171a5f0baff64faf965fc77/README.md) |
 | `https://sticr.stir.comcast.com/6dcc4566-0328-4400-8205-16efb6b3510d.cer` |  | true | [view](../../REPOS/41ac2e8adb9905eb54d327abe082706f092ab98d/README.md) |
 | `https://sticr.stir.comcast.com/6df0848c-adec-4a0f-913b-55566c155db3.cer` |  | true | [view](../../REPOS/fe0063ef4465776802451fc7ab357ab9658c0c75/README.md) |
@@ -226,6 +300,7 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/6f2060ed-316c-48fd-b1b2-7bc9f8dcbb60.cer` |  | true | [view](../../REPOS/99cc344999e50bded0b70c58d6e8e9e869bab2a4/README.md) |
 | `https://sticr.stir.comcast.com/6f57c22d-8aa1-4d6c-9995-2c9043854e97.cer` |  | true | [view](../../REPOS/47c1c9e09513026531b02866d1ef2678222a112c/README.md) |
 | `https://sticr.stir.comcast.com/6fbf5eef-8c40-4451-ae21-c85decacc5d8.cer` |  | true | [view](../../REPOS/8b45b2239bdbab50e4a61ff468cbe570124adece/README.md) |
+| `https://sticr.stir.comcast.com/6fd06c8e-ae2f-40e0-9e47-d4abbaa2b0ca.pem` |  | true | [view](../../REPOS/76e27a63a0712b850ab0f995459d7b3f15f39d50/README.md) |
 | `https://sticr.stir.comcast.com/6fdf8484-5946-403c-85af-436fcf4ce663.cer` |  | true | [view](../../REPOS/e0fa89018e5f9fb5b1ee32274afd02b2111064e5/README.md) |
 | `https://sticr.stir.comcast.com/6ff56fa9-adb3-4deb-849f-22c6de9fa6f3.cer` |  | true | [view](../../REPOS/87fd8f4c35030921815f28b008811c0f1af1c090/README.md) |
 | `https://sticr.stir.comcast.com/706cd651-ba77-4934-bd19-8bfc4fc0dcda.cer` |  | true | [view](../../REPOS/28ae5d09093645fdbaa4ae85c5a2eee1483d15c8/README.md) |
@@ -233,9 +308,11 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/70ac811c-8cf3-470c-90a4-96a58ac6d862.cer` |  | true | [view](../../REPOS/158d755dbdb1cb29cbf8c5065fe0fafbbf543ba0/README.md) |
 | `https://sticr.stir.comcast.com/70f6a42b-2666-44b3-99f0-c777bb1f2513.cer` |  | true | [view](../../REPOS/0826a5ea62fe87151fe48d6f600183fe78aded5c/README.md) |
 | `https://sticr.stir.comcast.com/70fabf15-432e-4653-b887-ece4d56fe295.cer` |  | true | [view](../../REPOS/85a16b6b7525b250135bf6a13657b199e9c0da6e/README.md) |
+| `https://sticr.stir.comcast.com/7204954e-1eaf-4240-92ea-9540d453dc10.pem` |  | true | [view](../../REPOS/f8d9b86d17c7de973adc528f2be2b6bd55affa6e/README.md) |
 | `https://sticr.stir.comcast.com/7206dd7f-3332-4c31-ac45-6fb6d3099336.cer` |  | true | [view](../../REPOS/382f2eed8091b9b7ed65e36b60d641bc752a0eb3/README.md) |
 | `https://sticr.stir.comcast.com/72160b1e-56b4-4ef9-90ad-1959c593fe07.cer` |  | true | [view](../../REPOS/0d4db993d97cd307d1d5c320b5d5e7770f26b7ab/README.md) |
 | `https://sticr.stir.comcast.com/729dc0fe-861e-406c-97b5-4a4388a25eb1.cer` |  | true | [view](../../REPOS/0af4a332328bd0f8458318599147c536ff387fed/README.md) |
+| `https://sticr.stir.comcast.com/72a846b7-6ca6-44c1-ad37-56e556685ceb.pem` |  | true | [view](../../REPOS/36ce0ab2de669cdad17f3c3353c251c036bf78a1/README.md) |
 | `https://sticr.stir.comcast.com/72c26bfe-601f-477b-a4e0-9bbf587d48a9.cer` |  | true | [view](../../REPOS/10eda99b0c589e9a877e5aaddb1e64b26ca69a6a/README.md) |
 | `https://sticr.stir.comcast.com/72d8c55c-d9fd-4a6b-b95f-ec288a001418.cer` |  | true | [view](../../REPOS/2824bf17829e702f6337b9e88ec79c1af8a60792/README.md) |
 | `https://sticr.stir.comcast.com/72d9a41b-2eda-43bf-852e-b9fbe9142302.cer` |  | true | [view](../../REPOS/880bb4d8dddd6d4fb26a70921d640a1e66b3c50c/README.md) |
@@ -244,8 +321,10 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/7536d951-ac94-48dc-b5d4-e0591d7d9898.cer` |  | true | [view](../../REPOS/b3d7d454cde5f9c9f55dbd4222ef33ec2c1f1169/README.md) |
 | `https://sticr.stir.comcast.com/75c89f71-5a08-4290-aee9-10df577508c9.cer` |  | true | [view](../../REPOS/8800521d857974711ba420c15aa34d7d469a9bd9/README.md) |
 | `https://sticr.stir.comcast.com/76002b34-c704-41fc-9061-e48aecf3c032.cer` |  | true | [view](../../REPOS/944fee08f55694b460d57d27f21668a1689614fd/README.md) |
+| `https://sticr.stir.comcast.com/76757ec2-2530-4cb2-8a09-212eec691690.pem` |  | true | [view](../../REPOS/5b9310fde4dd990799702f26e287f43af9052bf0/README.md) |
 | `https://sticr.stir.comcast.com/76798962-07d6-46dc-bd4b-cf95a9966dce.cer` |  | true | [view](../../REPOS/f812acf5c7db018398ca2aad94ea8b0dcd9ab639/README.md) |
 | `https://sticr.stir.comcast.com/77098042-3c28-4775-8262-cea6d22c9c7c.cer` |  | true | [view](../../REPOS/5018598715b937d0e6819832945c4de18feec9ff/README.md) |
+| `https://sticr.stir.comcast.com/770da88d-12be-4ff5-852e-6ab653017ead.pem` |  | true | [view](../../REPOS/b85a23e3c7861574b3c60dd91f1f4c6388f878e5/README.md) |
 | `https://sticr.stir.comcast.com/77d57518-fc0b-46f5-adb6-2fb7501a2628.cer` |  | true | [view](../../REPOS/0212634ce4d3dc7e1bf212a26cc03775308a9744/README.md) |
 | `https://sticr.stir.comcast.com/77e82533-25e7-4b29-85d9-5cadf72ace70.cer` |  | true | [view](../../REPOS/de8c4577e48c915248441f7d24b78d0348214bfe/README.md) |
 | `https://sticr.stir.comcast.com/78751b49-8d0d-4a3e-aa82-0d1baba37539.cer` |  | true | [view](../../REPOS/a5aa90a778739cc7e4d4942359421949aa6d1cca/README.md) |
@@ -258,6 +337,8 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/7b92772f-9f54-441e-9e61-4ab13a2c0f05.cer` |  | true | [view](../../REPOS/aa3ef19de8c737ddfb540a958229aba40d03db1c/README.md) |
 | `https://sticr.stir.comcast.com/7c793529-63f6-4bc8-92d1-4ef443c06a57.cer` |  | true | [view](../../REPOS/4cda7d35c09e5b8335066915b8bda5bbefa24020/README.md) |
 | `https://sticr.stir.comcast.com/7cccc9fb-8578-4753-a311-cd476ec5f8c7.cer` |  | true | [view](../../REPOS/506d44375ad15409828de2a235efe58672c8473e/README.md) |
+| `https://sticr.stir.comcast.com/7d846fcb-1792-4820-a58b-41dc7a4cb715.pem` |  | true | [view](../../REPOS/ff6cbef36b1aec6dbdd03712bef7e641dace4a8c/README.md) |
+| `https://sticr.stir.comcast.com/7e93c2c4-ccaa-40a8-a318-2ee1e742247d.pem` |  | true | [view](../../REPOS/ef9a2fc0d67795b36e1b5a4e40414b494e3e7591/README.md) |
 | `https://sticr.stir.comcast.com/7e9ed16c-03ca-40bf-b975-8f094c07e0e5.cer` |  | true | [view](../../REPOS/2a1e022ab309e9cb6ede48c05c61c42cd17ccb41/README.md) |
 | `https://sticr.stir.comcast.com/7f6c9c36-86e2-4ed2-a6a3-12ef9522eba2.cer` |  | true | [view](../../REPOS/8fefe0a8e3237110352b6d6bade0da1106c642a2/README.md) |
 | `https://sticr.stir.comcast.com/7f83b88d-22db-4fac-85a6-54d8f2e13e4a.cer` |  | true | [view](../../REPOS/60fda58ec26d456878ade3950643adbcda8aba09/README.md) |
@@ -268,16 +349,20 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/8088a9c5-e2be-4ce1-8cab-03d11731f3fb.cer` |  | true | [view](../../REPOS/454d4a5585d298047e59e856e9159a1e0a80d81e/README.md) |
 | `https://sticr.stir.comcast.com/80fce85e-f601-4c6a-9413-8d9f75a9a450.cer` |  | true | [view](../../REPOS/5d5a5cc81e3963c1794c710ba93cf768be339004/README.md) |
 | `https://sticr.stir.comcast.com/811ee897-aa66-45ed-9509-02a92e8811de.cer` |  | true | [view](../../REPOS/e437618dd253ce141e5d9f875782af74694b06b6/README.md) |
+| `https://sticr.stir.comcast.com/81804ed0-d647-4a4a-b63a-956deec9fe72.pem` |  | true | [view](../../REPOS/31976be21b3c10a98a6dcf73909d59837049d4b1/README.md) |
 | `https://sticr.stir.comcast.com/8191c601-a19c-45ee-8486-74655d93bee3.cer` |  | true | [view](../../REPOS/abdd7297f02d1ecadda097559295b472271cad3b/README.md) |
 | `https://sticr.stir.comcast.com/81969cfa-815a-47ef-a2a6-8f87c5ddbfe6.cer` |  | true | [view](../../REPOS/9aa894a0cccaf58a3dd3a450ce1593a7c90441df/README.md) |
+| `https://sticr.stir.comcast.com/822ab091-c15d-4599-91b8-60004ea2af58.cer` |  | true | [view](../../REPOS/f099d6b1714e2720cfa6a10d4b78d250c2a1dcf4/README.md) |
 | `https://sticr.stir.comcast.com/8249a0ee-22a3-4ce1-98be-cfb9694a7e56.cer` |  | true | [view](../../REPOS/64afa21485f03b1cfa911de4f67fe6c057d997f1/README.md) |
 | `https://sticr.stir.comcast.com/82cd452f-e3e7-4ce1-a57e-cc68fd45cfe8.cer` |  | true | [view](../../REPOS/a1baecfd320cd31abffe84979aef6dd6e142e435/README.md) |
 | `https://sticr.stir.comcast.com/832a860f-2a54-433f-bbc1-22db6a06537f.cer` |  | true | [view](../../REPOS/f91860038097b2260235bc09954bde55e08b792a/README.md) |
 | `https://sticr.stir.comcast.com/83cddd5c-1cfa-4cf4-8d41-d0bbcb33b172.cer` |  | true | [view](../../REPOS/17abd9444feef6df7ba3d5278614bbeacac805ef/README.md) |
 | `https://sticr.stir.comcast.com/83e5cddf-6126-4600-be8a-ed928b9cefa2.cer` |  | true | [view](../../REPOS/98da3e6a3c15505ad63bb70d2f000146f2c2e8b1/README.md) |
+| `https://sticr.stir.comcast.com/844f1df9-3e36-481d-b711-7ec142dd16c5.cer` |  | true | [view](../../REPOS/c8684f4f5e21ea8c1b4c9830135a61cfbe425094/README.md) |
 | `https://sticr.stir.comcast.com/84d65804-5dd8-480d-9f0f-b83ca0a4cef5.cer` |  | true | [view](../../REPOS/0d9a53fd1506cebf1590715eb03c8c64af0fe217/README.md) |
 | `https://sticr.stir.comcast.com/84fe263d-bf0e-4453-bf17-af226dfb84f9.cer` |  | true | [view](../../REPOS/cc4844599132947a69d2266761defd41db09db22/README.md) |
 | `https://sticr.stir.comcast.com/852af15d-2778-4fec-a40b-7de1b9dc9290.cer` |  | true | [view](../../REPOS/6e2e7ceaed3e9bdc8bad70f6736f3376c78d0d00/README.md) |
+| `https://sticr.stir.comcast.com/85906fa7-36f3-4deb-80d2-dea29646f7fb.pem` |  | true | [view](../../REPOS/0d447537be9018d182b55173f1c96ee5f3349bd1/README.md) |
 | `https://sticr.stir.comcast.com/85a5f119-77fa-4c48-bede-a876e87b386b.cer` |  | true | [view](../../REPOS/7dbdfbb3cacff241c71733fde9233bb6edb0d725/README.md) |
 | `https://sticr.stir.comcast.com/85dfa65b-d375-4f2d-a8a0-c859e6644f92.cer` |  | true | [view](../../REPOS/b39cd63ec5981fa3389d7aa3dff37f6ceda65a70/README.md) |
 | `https://sticr.stir.comcast.com/86299d8e-e71e-4baa-93fd-7036e9e5e91a.cer` |  | true | [view](../../REPOS/e31b0b22215111dfd89d65447c26551f459cce92/README.md) |
@@ -287,10 +372,13 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/8840a6f8-bd3e-4adc-bd4b-40357666b11f.cer` |  | true | [view](../../REPOS/7b30fbbff82c5c26414d12c6c6a7f9b444f03c59/README.md) |
 | `https://sticr.stir.comcast.com/8850a181-dd51-4267-a217-93e5a6f3ac43.cer` |  | true | [view](../../REPOS/7656d7a38bb97f076553faed747216b58859bf34/README.md) |
 | `https://sticr.stir.comcast.com/886f2999-9cfb-47b5-88b6-7219456f9f00.cer` |  | true | [view](../../REPOS/224e058769c67ec9ccd153cee852a348e258e767/README.md) |
+| `https://sticr.stir.comcast.com/88c69b07-792c-4eb8-a626-5587062f3f99.cer` |  | true | [view](../../REPOS/dcd4d390a0bad55f8b455e5eb06ef94ee74513f4/README.md) |
 | `https://sticr.stir.comcast.com/88c6aae8-1a6c-41f9-a4f1-7ec70ca01401.cer` |  | true | [view](../../REPOS/4a72973297b10469b1f9549381bcea5bd87d218b/README.md) |
 | `https://sticr.stir.comcast.com/894fab28-c119-4d74-8091-3983d5679145.cer` |  | true | [view](../../REPOS/331af024762e2cb95c0dcecd9a48b647eecc0a42/README.md) |
 | `https://sticr.stir.comcast.com/8954d7d3-c08b-473c-bdca-8dc0f13138da.cer` |  | true | [view](../../REPOS/a8d23f31f33504ef827a43cdffef387bdd058a35/README.md) |
 | `https://sticr.stir.comcast.com/8967e45c-35ee-4bd2-b64d-f60c0550fe87.cer` |  | true | [view](../../REPOS/ddf4918d70c20f05ba63cf2d4ad8a47e3174c007/README.md) |
+| `https://sticr.stir.comcast.com/89ba77e5-86fd-4cf6-ac35-5f78dcf9df58.cer` |  | true | [view](../../REPOS/3d6afe3970b0a1b112dd52ef0697fa2a6a010806/README.md) |
+| `https://sticr.stir.comcast.com/89c79a82-9d03-480e-b95e-677d1f402283.pem` | 04&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/ba9eaf7bf7e71e2168d8762fa5a7b50eb97b13c0/README.md) |
 | `https://sticr.stir.comcast.com/89e158d9-6a01-4631-8d20-5bf98a3e4d83.cer` |  | true | [view](../../REPOS/e415827435f9a142a7a933222ec7a450f3f624f9/README.md) |
 | `https://sticr.stir.comcast.com/8a1217c8-5cf8-485f-a830-e3f0746fb845.cer` |  | true | [view](../../REPOS/0349aaa31a669e0c963a76b32d6d7824396dc658/README.md) |
 | `https://sticr.stir.comcast.com/8ae11b3b-a7ec-4ed8-a328-c9168994dd50.cer` |  | true | [view](../../REPOS/3d4cbad9bfd03b661f596aba765297d94774054b/README.md) |
@@ -309,17 +397,20 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/8ed54c39-124f-491b-a004-06ff92b5202a.cer` |  | true | [view](../../REPOS/c4fe5a10dbe44ad151dcae03ccc636c6696376ac/README.md) |
 | `https://sticr.stir.comcast.com/8f22a8b2-e5bd-4a62-8c90-f349a59da6cc.cer` |  | true | [view](../../REPOS/8bb306adcb42e3bf2180dd8dcf444e132f3912bd/README.md) |
 | `https://sticr.stir.comcast.com/90264a05-f132-45dc-9e93-26718774e9c4.cer` |  | true | [view](../../REPOS/baf6014cc3af4c280cde2a830ff2d39883a005e7/README.md) |
+| `https://sticr.stir.comcast.com/902ed8bc-3db8-4638-ac0b-d4604d187be1.cer` |  | true | [view](../../REPOS/b9acdc5c6ed76955c7756084040512fd18755b8e/README.md) |
 | `https://sticr.stir.comcast.com/90940256-f9f3-4429-8085-e3d13c81b229.cer` |  | true | [view](../../REPOS/a6e05f396be6b5f414676486e69da283057e3665/README.md) |
 | `https://sticr.stir.comcast.com/9105acbb-eedb-4338-a175-aacab3b1193c.cer` |  | true | [view](../../REPOS/af6ba5683452999ff7e135ec578278aaf70ab5b4/README.md) |
 | `https://sticr.stir.comcast.com/91a00771-ad79-4610-9f27-7f8d07760e2b.cer` |  | true | [view](../../REPOS/e755ad0e74ac0c029563d5f2005b58bf9d4b8204/README.md) |
 | `https://sticr.stir.comcast.com/91b3007e-99c7-4ac5-b45c-d0a2daf88199.cer` |  | true | [view](../../REPOS/c0298ee01a08fed9e0c1cddae384188be11d8624/README.md) |
 | `https://sticr.stir.comcast.com/91e6619b-d2e5-4d66-b451-0a064b2c418b.cer` |  | true | [view](../../REPOS/adf5058180dfd873c847320e1cdef0c3831bfd44/README.md) |
 | `https://sticr.stir.comcast.com/927ec5e8-207a-4b4b-89a3-6eceb0d51bc5.cer` |  | true | [view](../../REPOS/b9bd145a22d9628d4a47bd9688a244cd96305721/README.md) |
+| `https://sticr.stir.comcast.com/92852d79-3955-443e-ae5a-9162ab8ad634.pem` |  | true | [view](../../REPOS/f2e54fce75f62f8b053bd4d9eb9e27a18776dd77/README.md) |
 | `https://sticr.stir.comcast.com/92991e0b-9e46-467f-9feb-039ae2f6fa85.cer` |  | true | [view](../../REPOS/f2902751c2ad5bed42d8d85dd3753b5872eae784/README.md) |
 | `https://sticr.stir.comcast.com/92d65433-ec51-4408-a2f0-5e0555ad8905.cer` |  | true | [view](../../REPOS/a87c7a1ea9cd36e04a8fa3f194bd11292300b774/README.md) |
 | `https://sticr.stir.comcast.com/93ad3d02-6be3-4069-8e5d-4297ce892308.cer` |  | true | [view](../../REPOS/11b54b57e1beb648ba8dad3aacb55f26b5746596/README.md) |
 | `https://sticr.stir.comcast.com/93b74f38-b0d3-4785-8c90-18101ac2cb8a.cer` |  | true | [view](../../REPOS/d604438f82134b8be0204ec92e77cca2e431fd54/README.md) |
 | `https://sticr.stir.comcast.com/93ddc760-9b30-4605-851b-e906e9ab7928.cer` |  | true | [view](../../REPOS/a6bdbf6e55eaa986a89ed8cf7d9069786eb4f545/README.md) |
+| `https://sticr.stir.comcast.com/9411371c-9901-44f8-a94f-237f3e4ac103.pem` | 13&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/d8a1aea3a9eba47c97c55b0db0636e5e0f6005f3/README.md) |
 | `https://sticr.stir.comcast.com/9461259f-ca64-4047-81eb-88cf311d1e6d.cer` |  | true | [view](../../REPOS/8563ddb71db16f935f20875048b5a29d90be78b2/README.md) |
 | `https://sticr.stir.comcast.com/948e48e5-e990-4f25-ac43-08c34e2934f2.cer` |  | true | [view](../../REPOS/b130c60397bb2d131015f05f4b462d53101586b3/README.md) |
 | `https://sticr.stir.comcast.com/951e5006-a006-4c34-b0a9-74e133550678.cer` |  | true | [view](../../REPOS/62c136e51b45d23736b192fad97e2d1728350d81/README.md) |
@@ -333,33 +424,43 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/96aec707-bd63-495a-8312-26c1d80a78da.cer` |  | true | [view](../../REPOS/fc3cbba200594fbdfef3932d409b4553c661ec59/README.md) |
 | `https://sticr.stir.comcast.com/96d3d864-bf68-4352-84b9-a360f9972f98.cer` |  | true | [view](../../REPOS/096632fbbbbc7a0960624e1dd83b680b775c5d91/README.md) |
 | `https://sticr.stir.comcast.com/972449cb-d4fb-4a18-9deb-df0776ed2f2f.cer` |  | true | [view](../../REPOS/09d428a9d1af076e021a02557059205e04e44850/README.md) |
+| `https://sticr.stir.comcast.com/974fca08-81f9-4917-91d5-8edeea67c86e.pem` |  | true | [view](../../REPOS/e40fe7235544d0e7ee81aa7f481367edfc2b33f4/README.md) |
 | `https://sticr.stir.comcast.com/9852f248-e981-40a8-b07c-0220f9713050.cer` |  | true | [view](../../REPOS/70e02acd21df9d3e943279107535d5f1a028a98d/README.md) |
 | `https://sticr.stir.comcast.com/9902ee9b-b2e8-431a-b035-cb88b2b0db9b.cer` |  | true | [view](../../REPOS/2fee09a8e27ff1690c8b4127e56055d0c0936076/README.md) |
+| `https://sticr.stir.comcast.com/9919e39a-ab59-4c36-b972-e91bff4050dc.cer` |  | true | [view](../../REPOS/d4062b71b4ab2450cdcc7aeda50d6c95857616c8/README.md) |
 | `https://sticr.stir.comcast.com/9a64c0f4-a0c8-4db5-9840-9f4744a20476.cer` |  | true | [view](../../REPOS/b3a60161eda93aa736179b2c0d6e40f4c89566c5/README.md) |
 | `https://sticr.stir.comcast.com/9ab55202-de7b-4352-9ba3-9a684565f09d.cer` |  | true | [view](../../REPOS/390a711bc3df5c70dd13c63700286131339224b9/README.md) |
 | `https://sticr.stir.comcast.com/9b94630c-c220-4f42-85d4-9cdb6d6c3302.cer` |  | true | [view](../../REPOS/374c06d0aa8a3fac8da7409bd376cdcee984950f/README.md) |
 | `https://sticr.stir.comcast.com/9bf2dbb8-78c4-4a31-a3f4-97ffe85e2ce0.cer` |  | true | [view](../../REPOS/e8f59437852376d13fe3872c849b23d9dd59f525/README.md) |
 | `https://sticr.stir.comcast.com/9c1bf285-1c2e-43e3-a94c-bb65c2d653e9.cer` |  | true | [view](../../REPOS/5934bed313dacd9c66fa333684d8deba581fbf75/README.md) |
 | `https://sticr.stir.comcast.com/9c655097-b866-4a09-adcc-e42b2f7443b5.cer` |  | true | [view](../../REPOS/4f03f82b2b69b2bee69f98ea9b645056cc0f16b6/README.md) |
+| `https://sticr.stir.comcast.com/9cd8021d-9561-42f6-aab0-73b4b7fcd86f.pem` | 26&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/fbe35fb1f55aae8859463498b862607edb9206fe/README.md) |
 | `https://sticr.stir.comcast.com/9d09d127-c176-4e25-95eb-3b355b874fae.cer` |  | true | [view](../../REPOS/7cef289faccf8fd8f6491cd0f6701b92eaf5d58f/README.md) |
 | `https://sticr.stir.comcast.com/9d5fab60-910d-49d6-b920-d713e45af120.cer` |  | true | [view](../../REPOS/e5aae01b863c5f32b06498536a3c4270731f82e2/README.md) |
+| `https://sticr.stir.comcast.com/9dfe58dd-8173-4535-ba57-2b9d9997f7f2.pem` |  | true | [view](../../REPOS/4414425816fc3d237cb825716e295bb0dd1da47a/README.md) |
 | `https://sticr.stir.comcast.com/9e008546-14e6-4cf1-b8df-195918f4185e.cer` |  | true | [view](../../REPOS/a455238606bee940a7ad222922da4c076053339c/README.md) |
 | `https://sticr.stir.comcast.com/9e0db76b-f612-49bb-bec4-028afec04073.cer` |  | true | [view](../../REPOS/911858053cd9c40a74189eda8d2c3fda27c5dab5/README.md) |
 | `https://sticr.stir.comcast.com/9e3b1f4d-eb57-4680-8b9a-39c1e9b9eb8a.cer` |  | true | [view](../../REPOS/da92dd37026a1004667e7ae8c247b7c3fdcaa882/README.md) |
 | `https://sticr.stir.comcast.com/9ebc4330-9035-433f-8901-8113a98d940c.cer` |  | true | [view](../../REPOS/da45af1dac75fba46e0996753f7d18b2e05e93b4/README.md) |
+| `https://sticr.stir.comcast.com/9ed5d3ea-2648-4248-b966-f30da837d10e.pem` |  | true | [view](../../REPOS/913d180cee51a9e6c289f723eb7437789b4e78b2/README.md) |
 | `https://sticr.stir.comcast.com/9f516443-f347-4dd0-b4f2-fbf05abe3f7e.cer` |  | true | [view](../../REPOS/250b9b9f814d96153fa9bb088fc54e77382225d8/README.md) |
+| `https://sticr.stir.comcast.com/9fb0ceb9-3920-44aa-90e4-5f1b546210f5.pem` |  | true | [view](../../REPOS/867f433af66702c4e6233eb43869a2a50422a38e/README.md) |
 | `https://sticr.stir.comcast.com/9fbe1632-5a68-4957-9a82-c64079a3ffba.cer` |  | true | [view](../../REPOS/111cc10e0d79d07dc75866997e0253861e2c3a1c/README.md) |
 | `https://sticr.stir.comcast.com/9fd6f604-d4f3-4adc-ad39-b8abd31d0ffa.cer` |  | true | [view](../../REPOS/9d47e193a255b9746309c0d747901cc59bd0fc75/README.md) |
 | `https://sticr.stir.comcast.com/a08aaa95-a740-4271-9688-966b04d17b57.cer` |  | true | [view](../../REPOS/9c4d63614ae54ba000ec6058bf03a9d8c968617f/README.md) |
-| `https://sticr.stir.comcast.com/a0933606-9b8c-4ff9-9688-695d731e511d.cer` | 29&#160;Nov&#160;23&#160;02:38&#160;UTC | true | [view](../../REPOS/665974a805f46c5af4987f7cd4ea23261d057c24/README.md) |
+| `https://sticr.stir.comcast.com/a0933606-9b8c-4ff9-9688-695d731e511d.cer` |  | true | [view](../../REPOS/665974a805f46c5af4987f7cd4ea23261d057c24/README.md) |
 | `https://sticr.stir.comcast.com/a126dcf7-0e88-4826-851e-104f304fc08f.cer` |  | true | [view](../../REPOS/80d85226e6513b1154f54d6637c9edeed8bbf712/README.md) |
 | `https://sticr.stir.comcast.com/a178dd35-f3ff-4671-98b7-11d95cff2bbd.cer` |  | true | [view](../../REPOS/e0e83470571dfeadc96d82e2d55e13ff38fe55b9/README.md) |
+| `https://sticr.stir.comcast.com/a2565bfe-9b59-4ad9-9e4d-8936aaf516f4.pem` | 08&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/84e9d2b9fcec5c2e22658188730cb1250b2c12a9/README.md) |
 | `https://sticr.stir.comcast.com/a2a4c943-6c68-4099-8bff-e4713f27956f.cer` |  | true | [view](../../REPOS/71c051e6f74c73754a86546c04e01660df0b77af/README.md) |
 | `https://sticr.stir.comcast.com/a38e76f4-57f1-4d8c-aed5-bd73f1b71c09.cer` |  | true | [view](../../REPOS/4cf85d0adb02d90d40b43f58f7996d9d799eea47/README.md) |
+| `https://sticr.stir.comcast.com/a46c09a5-ca63-442b-9ee1-f9789cba52a3.pem` |  | true | [view](../../REPOS/ae350aec5ae8c9d8690178e3d1d34c821b1ffb30/README.md) |
 | `https://sticr.stir.comcast.com/a48b4800-d5ca-4ad4-ac62-05b8cce15b30.cer` |  | true | [view](../../REPOS/1f2c5ecd51078b8f2785da0041bfc2624a81ab68/README.md) |
 | `https://sticr.stir.comcast.com/a4ce57a8-3605-4740-bdac-258c110b9741.cer` |  | true | [view](../../REPOS/01364b8d840896fdb119f8eded3b2bf672ad929f/README.md) |
 | `https://sticr.stir.comcast.com/a4e76cc7-ee95-44e1-804c-156afe197be6.cer` |  | true | [view](../../REPOS/53d0c93b498190c61dbb23b8bc7c2677aad062ff/README.md) |
 | `https://sticr.stir.comcast.com/a4f07bc3-5a92-4dfb-b781-2eda0ab5e4c6.cer` |  | true | [view](../../REPOS/318a54de8f9fbe08e553d52b56138638d4439988/README.md) |
+| `https://sticr.stir.comcast.com/a539558c-e537-41a8-b0c8-8df530f4e0dd.pem` |  | true | [view](../../REPOS/f4537a40c53fc8fb270ccc7deecc3c5c4c929f6c/README.md) |
+| `https://sticr.stir.comcast.com/a5845c69-6184-4e40-9b67-779d54fe7c00.pem` |  | true | [view](../../REPOS/745dab6a7bfb67cf96904962c4cfde6e7a66d3d1/README.md) |
 | `https://sticr.stir.comcast.com/a5ab6d2b-2262-4415-8293-602761683da5.cer` |  | true | [view](../../REPOS/c7c84226e1ad726c8c9707b4a7d019aad09c2699/README.md) |
 | `https://sticr.stir.comcast.com/a5c7f45c-189a-4c9d-aa5d-f87d20bff2e6.cer` |  | true | [view](../../REPOS/e54e74816748d09d3a343873f89d30a66006fa80/README.md) |
 | `https://sticr.stir.comcast.com/a5dacf0d-a04e-4077-8422-d6b68b2bc3e5.cer` |  | true | [view](../../REPOS/c0b345251c55136aa503211c6983accced074116/README.md) |
@@ -369,12 +470,16 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/a66e1f80-21c0-4abf-a897-d5e8611656cf.cer` |  | true | [view](../../REPOS/f5da05b1a476133cf9023e9ffd243c234452cc25/README.md) |
 | `https://sticr.stir.comcast.com/a6c58f92-32c2-4f34-b357-51d0544ebaf2.cer` |  | true | [view](../../REPOS/037305ee7249ef91f5a5d89efd9487211c396a8a/README.md) |
 | `https://sticr.stir.comcast.com/a6c760a4-af36-4429-9192-a9d85badf456.cer` |  | true | [view](../../REPOS/e415a9024a92803163340346edd13f70c4799497/README.md) |
+| `https://sticr.stir.comcast.com/a7bbbcc5-a020-4dab-b4ff-12ef5b16d0dd.cer` |  | true | [view](../../REPOS/188ec3bb9ce478c37165e1aed0479c2c5056dbee/README.md) |
 | `https://sticr.stir.comcast.com/a8412a41-71c1-4744-9047-dd3c11f3b67e.cer` |  | true | [view](../../REPOS/0a50cb331d79d8850bc2219cbd328feac4b9e66a/README.md) |
 | `https://sticr.stir.comcast.com/a88f00e8-3c1c-4d14-a3f7-bf432240f8aa.cer` |  | true | [view](../../REPOS/e0e067c10434276d74a7cd8c5ce4249f37103244/README.md) |
 | `https://sticr.stir.comcast.com/a8cc7342-7a38-4015-9d78-6319af80a212.cer` |  | true | [view](../../REPOS/3c93ba5f8aa7f0b1ad105f7450ab8d16254632e3/README.md) |
 | `https://sticr.stir.comcast.com/a9295aac-d7cf-48d9-9cd5-8a614980c28e.cer` |  | true | [view](../../REPOS/42df227d5159f952a28c381dcc8ce19d9e591186/README.md) |
+| `https://sticr.stir.comcast.com/a92ea33d-fda7-4934-be0b-f37cc7a4f31a.cer` |  | true | [view](../../REPOS/034a708d7a96e2b62bc032e161776a9a1286be82/README.md) |
+| `https://sticr.stir.comcast.com/a978a557-24e6-4eca-8481-3c11d07b97ab.pem` |  | true | [view](../../REPOS/24c94b0dc3734425525fb69d7953645bd74f5617/README.md) |
 | `https://sticr.stir.comcast.com/aa3d23d0-f8d6-422c-afd4-4ac8d0ecaf7b.cer` |  | true | [view](../../REPOS/e7ca0af61928d65b863da7da0260e47c690d69fa/README.md) |
 | `https://sticr.stir.comcast.com/aa78138c-09eb-4cb9-8f3e-e2df9ca61c97.cer` |  | true | [view](../../REPOS/5c90dd668d778987fa67edf548820153562105e0/README.md) |
+| `https://sticr.stir.comcast.com/aaa95df5-4304-409b-a81b-613ed81cbc17.pem` |  | true | [view](../../REPOS/9b56d4ff76ff9781bc15c2176f74312ba01fb0db/README.md) |
 | `https://sticr.stir.comcast.com/aac02bf5-cea8-4712-a0e2-f3f34cfbc3bd.cer` |  | true | [view](../../REPOS/7c70cdb79db3cef408ebbcec11c2310057819b2f/README.md) |
 | `https://sticr.stir.comcast.com/ab29430a-4f11-436a-8638-c49212c100d8.cer` |  | true | [view](../../REPOS/b132417e590d0e2cbca9b1596d2b5d7fd14c6bd7/README.md) |
 | `https://sticr.stir.comcast.com/ab5ccc85-afe6-4966-8c97-22daf388cfbd.cer` |  | true | [view](../../REPOS/e535c71b213603b7594b35c95be077132a12990c/README.md) |
@@ -382,23 +487,36 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/abc89058-7be3-4802-b8e1-b37e25feb4c5.cer` |  | true | [view](../../REPOS/c9651b11a1dc4847feb2bd295fa9aab42dd54768/README.md) |
 | `https://sticr.stir.comcast.com/ac10c75e-9855-456d-be4b-9708b5944939.cer` |  | true | [view](../../REPOS/eef54cbb61326376e5a1698543cc1a3cf80a9edf/README.md) |
 | `https://sticr.stir.comcast.com/ac2882fe-e0fe-43cd-bf43-e973c752d433.cer` |  | true | [view](../../REPOS/09ced341f3017d3b729ca60d49a2d9d7c9853aa4/README.md) |
+| `https://sticr.stir.comcast.com/ac47789b-a047-4037-ba36-e2cfc0280602.pem` | 12&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/f696bf7462b4bb4ac6bc7bec3b45ac49b885e163/README.md) |
 | `https://sticr.stir.comcast.com/ac52609c-fc5a-44be-9bb4-7313d174831c.cer` |  | true | [view](../../REPOS/40f6e1a4884b3899b60eb512ad88aeaa2ddd758e/README.md) |
 | `https://sticr.stir.comcast.com/aca611f6-7199-4bbf-a431-17859c346e52.cer` |  | true | [view](../../REPOS/2ccbac2d518c4916f321391ae46232eeca20ce9a/README.md) |
+| `https://sticr.stir.comcast.com/acd898ea-8230-4da7-bb84-3795004f2048.pem` | 29&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/d65722425c46dcbc2633d2b5dd1d053399b74bbb/README.md) |
 | `https://sticr.stir.comcast.com/acfcc810-fd84-439a-b316-2edb38fdc1fd.cer` |  | true | [view](../../REPOS/c294c032bec1b8dd550de8d87c1f1df767c8146a/README.md) |
 | `https://sticr.stir.comcast.com/ad360942-968e-4ce6-9261-23c53c6d0652.cer` |  | true | [view](../../REPOS/ce39744d45f074a36da9d4b267df7017e252c2b5/README.md) |
+| `https://sticr.stir.comcast.com/ad62a8d3-4c0a-4ea2-959d-67db19464aa5.pem` | 09&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/069d06295a6f05a9f59bce89cc37a70499ef8d75/README.md) |
 | `https://sticr.stir.comcast.com/ae29b741-e66d-4105-87a1-7b45c5c2b9b0.cer` |  | true | [view](../../REPOS/cf5aa03e9a23d7228e6632d7d108cc6d30fea380/README.md) |
+| `https://sticr.stir.comcast.com/aed96b2b-21d7-43d6-8f2e-f10b2dd0d50b.cer` |  | true | [view](../../REPOS/be7de14dfa9f30f6fd05823ba4c9b29199854c81/README.md) |
+| `https://sticr.stir.comcast.com/af19bf65-ad06-4be9-b520-c2db4f45780c.pem` |  | true | [view](../../REPOS/1c2d33ed9a12f9753db45b1c2b683c837b5b90d7/README.md) |
+| `https://sticr.stir.comcast.com/af3ee2c0-c233-453f-8efb-1146e90f2cce.cer` |  | true | [view](../../REPOS/967350436a56704a8cc242fac0add9e3890ad799/README.md) |
 | `https://sticr.stir.comcast.com/af6941c1-37b8-4bdc-95df-652ebb5bd576.cer` |  | true | [view](../../REPOS/cd13a9397ac227092649ecb16c4cc9068ed9a155/README.md) |
 | `https://sticr.stir.comcast.com/b03e46ae-6877-4e8e-8c1e-7c531e04ef59.cer` |  | true | [view](../../REPOS/c1eaec81d9d7f1d1080472b5fa2b124604a86938/README.md) |
 | `https://sticr.stir.comcast.com/b082470b-df9c-487c-b0af-885e723c0996.cer` |  | true | [view](../../REPOS/9273eff3637ff59d24ac01fd41e1070d9149af76/README.md) |
+| `https://sticr.stir.comcast.com/b0ea1364-1427-4e5c-b820-753bb0187219.pem` |  | true | [view](../../REPOS/2ce9639ad0522f794e47036d68bf96e6cd13eccf/README.md) |
 | `https://sticr.stir.comcast.com/b0f817b0-41c8-47c0-8aca-9f1ff896c7ef.cer` |  | true | [view](../../REPOS/db56eebd6bc0627a344dd7d8ecd0913ca8c2a308/README.md) |
 | `https://sticr.stir.comcast.com/b0ffce20-fc45-48ce-80ee-7363d9ece88e.cer` |  | true | [view](../../REPOS/ea9f53fa90047fc5a13ba24ed28d97a57b67808b/README.md) |
+| `https://sticr.stir.comcast.com/b105cd2c-1916-48d4-8539-4f73bb758e34.pem` |  | true | [view](../../REPOS/1ef0e3fb5800d8c67b9a50260ae8dfc59da30635/README.md) |
 | `https://sticr.stir.comcast.com/b15b00e7-ac13-45d1-8297-204b9c0be099.cer` |  | true | [view](../../REPOS/ab2a1b9651022d5c3873b666f4bef2a9bd92b08a/README.md) |
 | `https://sticr.stir.comcast.com/b3631367-f457-494f-bacc-6a8a72489aa5.cer` |  | true | [view](../../REPOS/0cad08c0315739aab4a0f73bb6b0e79e2c108542/README.md) |
 | `https://sticr.stir.comcast.com/b3632cc9-fffa-4549-ab3c-4b907f158822.cer` |  | true | [view](../../REPOS/48403d6140e8fd8986c89646f809a66bc3284812/README.md) |
+| `https://sticr.stir.comcast.com/b39977b0-53c5-4116-9030-1e1d3badcfb1.pem` | 21&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/a227f5bb274364ba3926877736f9d5872a74cc01/README.md) |
 | `https://sticr.stir.comcast.com/b4564c2b-fb65-45b4-9aa4-6ec899b30c21.cer` |  | true | [view](../../REPOS/24f7f8a7e04d62804c45fc38c34492e7f399a01f/README.md) |
 | `https://sticr.stir.comcast.com/b4b78357-21d4-4c4b-813c-ef218fcd1232.cer` |  | true | [view](../../REPOS/ae447a480007252601786fc08e16a254f14ce4cf/README.md) |
+| `https://sticr.stir.comcast.com/b4b90571-9356-4226-bf1b-9ebc4172a427.pem` | 07&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/49f2676d25b76544ef47568731b17e194b5264c4/README.md) |
+| `https://sticr.stir.comcast.com/b4f17808-61af-41f9-960e-03fd602fb54e.pem` | 18&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/a2ae8d9022315eca2e465ca62320e24ef37c6e89/README.md) |
 | `https://sticr.stir.comcast.com/b51976bd-cc19-4104-8fcb-e0b8f3650680.cer` |  | true | [view](../../REPOS/665656ecc54be604e669fe9bcb99c7921801ac96/README.md) |
 | `https://sticr.stir.comcast.com/b53217df-ce49-48f9-9fa6-743dcb5bb417.cer` |  | true | [view](../../REPOS/e429e877d5fed0795cdce6ea066698eae7e1b371/README.md) |
+| `https://sticr.stir.comcast.com/b5587cfb-f018-40c0-a6ac-975aa39db5fb.cer` |  | true | [view](../../REPOS/d1c9431d84d5c4f7d20c0594691d29136742d24d/README.md) |
+| `https://sticr.stir.comcast.com/b613f2fc-92b1-4c7c-a428-0e6858fa76b9.cer` |  | true | [view](../../REPOS/5d6aa6141f6728591d1ad56a2b6207764f43f53e/README.md) |
 | `https://sticr.stir.comcast.com/b6303717-99f9-4cac-9244-be5eba894185.cer` |  | true | [view](../../REPOS/4da3f5d963c9559eb2f7d75521a6d5bd8d5f347d/README.md) |
 | `https://sticr.stir.comcast.com/b63162ba-e5d9-4a31-938a-5cd68303c22d.cer` |  | true | [view](../../REPOS/4e63b1ea580b994817abc367c276b1d3ac0df98e/README.md) |
 | `https://sticr.stir.comcast.com/b684a05a-017b-48e2-8428-a31abc8bf6dd.cer` |  | true | [view](../../REPOS/5886dbc4834a376c63a419bb9ca2d2530e5c9c06/README.md) |
@@ -410,19 +528,26 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/b93731bf-3816-4733-af22-3c908430e2fa.cer` |  | true | [view](../../REPOS/82f537b3a49a92ec83ea768478b2a05c7915bcd5/README.md) |
 | `https://sticr.stir.comcast.com/b9638b6c-0d32-401c-92a2-3a5d1bad6fde.cer` |  | true | [view](../../REPOS/e7bcb289ba03eb2e20af7eadd3b28438999237ec/README.md) |
 | `https://sticr.stir.comcast.com/b993c7f4-dfe8-405a-9cbd-89b734c038d3.cer` |  | true | [view](../../REPOS/9339faeda2e25fcefd541e8f025d1fec81711701/README.md) |
+| `https://sticr.stir.comcast.com/ba62ec20-6319-4501-ad1a-086b6911f177.pem` |  | true | [view](../../REPOS/72c683acfd1339f99a9d1c060a34a1bffc93b968/README.md) |
+| `https://sticr.stir.comcast.com/ba9ea00d-2a4b-4fdb-848b-c76ea7858cf3.cer` |  | true | [view](../../REPOS/c50488349a56dac150693af16016337adbe6dbbd/README.md) |
+| `https://sticr.stir.comcast.com/bab483f5-14f7-45c6-b47b-7f7f72b74085.pem` | 01&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/0ed3670544ff78241c28bed7fea341e77ee36c01/README.md) |
 | `https://sticr.stir.comcast.com/baf54601-4cd3-427b-a3e2-442f35629634.cer` |  | true | [view](../../REPOS/65e6ddb9d2b894f82e028431c897189a6af811b0/README.md) |
 | `https://sticr.stir.comcast.com/bb236843-8433-4fbd-9b50-5e8e156aa634.cer` |  | true | [view](../../REPOS/a25044b630e6ffedce28dc934dfa8ea75dfd33b4/README.md) |
 | `https://sticr.stir.comcast.com/bb4e31dd-c71a-44ac-b2e0-045bafac9d4d.cer` |  | true | [view](../../REPOS/30c54dd7ce3d81e3be545fba799f2e77960b7319/README.md) |
+| `https://sticr.stir.comcast.com/bb55a129-319d-4a4b-8c50-70083a852986.pem` | 11&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/280fee4ed65a15c884de71e06671822a0fddddb2/README.md) |
 | `https://sticr.stir.comcast.com/bbffbe3d-9d60-472b-bf47-1b7cf52afb69.cer` |  | true | [view](../../REPOS/e9f51bd78d5c8eb6dd97fc505829458b49e333ee/README.md) |
 | `https://sticr.stir.comcast.com/bc0aa822-1a4f-42ad-8105-de8c5707d4f3.cer` |  | true | [view](../../REPOS/4a8e8dbbec18ec51f8c59186d30ff4e20fa2f3a9/README.md) |
 | `https://sticr.stir.comcast.com/bc6768e3-db72-4ae2-9151-e2a88a5b69d4.cer` |  | true | [view](../../REPOS/b5164f5e43e755dda4bd16c47ae12c7ff8e63949/README.md) |
 | `https://sticr.stir.comcast.com/bcb15a23-b8ad-4fa0-bab5-0e223146f3bd.cer` |  | true | [view](../../REPOS/0d02bb6c71fbaaae7116e9203eb255c29beb91b8/README.md) |
 | `https://sticr.stir.comcast.com/bd2d07a2-012f-45ae-b3af-eb47a4b4f6d5.cer` |  | true | [view](../../REPOS/2f61a7a33defe815ad3de14b6bf84706a8113e83/README.md) |
+| `https://sticr.stir.comcast.com/be160c13-c161-45d5-95d8-35d52e569e74.pem` | 16&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/8ab790304e1be96f9da57a6eeab4af988216a4bc/README.md) |
 | `https://sticr.stir.comcast.com/be498b15-d50b-4665-aec2-cbfbba35d37b.cer` |  | true | [view](../../REPOS/52d8955e5ad41d0a2dcac7b58cbb8cb99675cc59/README.md) |
 | `https://sticr.stir.comcast.com/becb49c2-add5-4221-a545-6a533727ff4d.cer` |  | true | [view](../../REPOS/3458f681b772a9f79b3084a18cf90dd107db3f5d/README.md) |
 | `https://sticr.stir.comcast.com/beeb04df-7a7e-436e-ae7a-f793816108ca.cer` |  | true | [view](../../REPOS/d91173111d893da147ed2134856eea904ac0fbdc/README.md) |
 | `https://sticr.stir.comcast.com/bf428840-d767-43fe-9753-bc5e392ba652.cer` |  | true | [view](../../REPOS/03a6fbc62c7f08e630d08d9261987e75c07bfe65/README.md) |
 | `https://sticr.stir.comcast.com/bf720d86-b816-4ec2-bab0-37620c2a99d1.cer` |  | true | [view](../../REPOS/cb1ef245ecf2f4bf610a968143a9f50480ba6e9c/README.md) |
+| `https://sticr.stir.comcast.com/c0ad3544-c731-4cb4-8cf5-c65c1dc08876.pem` | 16&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/2e3ced4aed85fbbbae83448fe86c37c875c9b1e6/README.md) |
+| `https://sticr.stir.comcast.com/c1268e48-37c2-4cd3-ab97-99b4359ef62f.pem` |  | true | [view](../../REPOS/631715e97f6fd8cff1ddfed7b22c0b973ec85c18/README.md) |
 | `https://sticr.stir.comcast.com/c1359ab2-e4d5-425e-99ee-0495325c28ea.cer` |  | true | [view](../../REPOS/64f284f771e872e4c421528e42465c42e4b093a6/README.md) |
 | `https://sticr.stir.comcast.com/c1ba3151-0e7a-425c-ae17-439373136401.cer` |  | true | [view](../../REPOS/18084f839cbc0a3435f83ea72fbb46b8055f717d/README.md) |
 | `https://sticr.stir.comcast.com/c1d028ab-22b4-4bfb-92b1-b965b36d1b44.cer` |  | true | [view](../../REPOS/3778a775dc7a53ba589dc461dab46cdf89296ff2/README.md) |
@@ -435,16 +560,23 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/c56cbab6-41d8-4ca1-bdef-0b209d699a5e.cer` |  | true | [view](../../REPOS/95e01106ee93db380a8b3463f71f957535b7670f/README.md) |
 | `https://sticr.stir.comcast.com/c6ccb7a6-1259-46f1-8e7f-421276058b62.cer` |  | true | [view](../../REPOS/bbd0c61cfb49712fc9f750b704fc098202abfbb7/README.md) |
 | `https://sticr.stir.comcast.com/c7296f2b-d5df-4eb2-aa68-269287fe4b9b.cer` |  | true | [view](../../REPOS/77d70e0a5bfd1d38c5e764946de8aefaa4a31a4f/README.md) |
+| `https://sticr.stir.comcast.com/c7620c83-44d1-4780-a34e-33449f217cb1.cer` |  | true | [view](../../REPOS/7043439662ce9de97ffe8ee5af08682dc3e805d3/README.md) |
+| `https://sticr.stir.comcast.com/c7a1c129-e913-4eac-929a-791c430c6ef0.cer` |  | true | [view](../../REPOS/db099069f8386ca1a566e12803a99bee10db7acd/README.md) |
 | `https://sticr.stir.comcast.com/c8bc5ac7-7944-467a-8468-acaa914559eb.cer` |  | true | [view](../../REPOS/1f4e6472f66f6cdedc3c098895bf4442f9ddd437/README.md) |
+| `https://sticr.stir.comcast.com/c91540c6-6d9b-4405-8dce-71679977dc25.pem` | 10&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/3c237e565e2824fee885c08c0516a4702087be19/README.md) |
 | `https://sticr.stir.comcast.com/c959d407-cb86-4348-bcf5-6e6a48719aa5.cer` |  | true | [view](../../REPOS/ede2a933bd29f0d4a291a4785f5b6028468963e0/README.md) |
 | `https://sticr.stir.comcast.com/ca2dddb2-ee46-4638-b899-97bbcdadea62.cer` |  | true | [view](../../REPOS/5bd46bf4009f2be9a4757ffe600073da64fe9dc1/README.md) |
+| `https://sticr.stir.comcast.com/ca5c1f84-401a-4415-9f1a-37a78142ae4c.pem` | 09&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/b7e30ab88baf36583c9daeb101373eb46cd8b2a6/README.md) |
 | `https://sticr.stir.comcast.com/cb90dec6-3c0e-4db9-9ce6-f2670e722221.cer` |  | true | [view](../../REPOS/3b2aab122b673f7073674b0433a146883925f64c/README.md) |
 | `https://sticr.stir.comcast.com/cbcc7884-e19e-47e7-b190-8e9d83e99550.cer` |  | true | [view](../../REPOS/739d27af13a8cb5edb7f783b804686d23faa3ac0/README.md) |
 | `https://sticr.stir.comcast.com/cc1657f6-11b6-4bff-a484-42e34f46c624.cer` |  | true | [view](../../REPOS/856d3754a2d075e1ba9a792d54826a5acec312f1/README.md) |
+| `https://sticr.stir.comcast.com/cc7f33ba-d870-4ce8-9c2d-49b42bca6441.pem` |  | true | [view](../../REPOS/f47255c2e893c9366196838a878ac5ae5ff1f19b/README.md) |
 | `https://sticr.stir.comcast.com/ccb02655-11bd-4833-b822-26caf1cea26e.cer` |  | true | [view](../../REPOS/cc1892fb582f3fb68823505e8cf9eab5a5c07cb1/README.md) |
 | `https://sticr.stir.comcast.com/cdcaf51a-69f5-4193-a99c-d31481772637.cer` |  | true | [view](../../REPOS/f638cc8e1494d9ca7b2993c71bcbbc66594e17b9/README.md) |
 | `https://sticr.stir.comcast.com/cdcd3514-1781-4d4d-b322-e4e4d111d9bc.cer` |  | true | [view](../../REPOS/5309d04855bc239c98fe8bec42ff44d86bcce165/README.md) |
+| `https://sticr.stir.comcast.com/cdcd74e1-9e8f-49a5-84a9-7d00677f0963.pem` |  | true | [view](../../REPOS/9d0c7f945e2198e194107bef04bc42e38383b591/README.md) |
 | `https://sticr.stir.comcast.com/ce207572-806a-4d43-b008-efddf1435b64.cer` |  | true | [view](../../REPOS/dfdd76b25fa19998eb0cbb009487b3e67b90f180/README.md) |
+| `https://sticr.stir.comcast.com/ce643921-456f-4091-af67-afa118bfd828.pem` |  | true | [view](../../REPOS/6e6d1c71a6c63b6b850644e753ba1fe36d041905/README.md) |
 | `https://sticr.stir.comcast.com/ce9b6b05-620e-4f16-844e-d798311684c9.cer` |  | true | [view](../../REPOS/61c95bea597c39640e90b080edd32df9d9089070/README.md) |
 | `https://sticr.stir.comcast.com/cec048bd-e2c4-4192-99d3-368c36c94f8c.cer` |  | true | [view](../../REPOS/c4df7d0187ea0f40a058050fba266a98bc0313a7/README.md) |
 | `https://sticr.stir.comcast.com/cf33999d-a8cc-4a5d-af65-32d377cda413.cer` |  | true | [view](../../REPOS/fdb8c942e87751486814bf908cdbce969863ce54/README.md) |
@@ -462,10 +594,12 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/d278346d-67c4-4102-a6ec-19c743364373.cer` |  | true | [view](../../REPOS/ae41840f482672fed4bdc5ba7ecf7d2828449980/README.md) |
 | `https://sticr.stir.comcast.com/d31ef667-5cb8-4931-a162-09f59b9e188a.cer` |  | true | [view](../../REPOS/f1c1928593b5c7d991cd3f07003a9492df7ac156/README.md) |
 | `https://sticr.stir.comcast.com/d385d2f5-2df9-4477-92c4-15c699acbad3.cer` |  | true | [view](../../REPOS/1382d3acfa53899e882f418059bfbdeaf2e4c007/README.md) |
+| `https://sticr.stir.comcast.com/d3a3853c-9d20-4d5f-b587-d79e15c5675b.pem` | 17&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/eb9aa2fc14dd03440570fecee2a105d828f80807/README.md) |
 | `https://sticr.stir.comcast.com/d3e5cdb5-5d9b-4445-b043-eb852c414bcf.cer` |  | true | [view](../../REPOS/45e80418740f802431324a5f4e9e34c4df7c42c1/README.md) |
 | `https://sticr.stir.comcast.com/d3f29d47-19de-4a66-9bc6-c4de17e27d2a.cer` |  | true | [view](../../REPOS/cd9524670dab74b628487e458d1d590d0382f86e/README.md) |
 | `https://sticr.stir.comcast.com/d4120375-4c04-4681-b7d1-38084fed3756.cer` |  | true | [view](../../REPOS/bd9b99e135668936a1eca6f74ab1cbaf752edf1a/README.md) |
 | `https://sticr.stir.comcast.com/d430773b-745b-463c-95d3-2901b6995352.cer` |  | true | [view](../../REPOS/45324b67016c61a61689ac43444da923cac2d4ba/README.md) |
+| `https://sticr.stir.comcast.com/d49c0ea6-e304-4283-8278-3e3a8217a23d.pem` |  | true | [view](../../REPOS/7c69c7bfcfb2c0c0291b63bf524907a04d80051b/README.md) |
 | `https://sticr.stir.comcast.com/d4c12bba-f355-480b-960a-1f59f89909fd.cer` |  | true | [view](../../REPOS/89f6aa8a67c6d245b7787d460f0da13a6aec1303/README.md) |
 | `https://sticr.stir.comcast.com/d51318b6-4c7c-4356-8aab-26a76270b844.cer` |  | true | [view](../../REPOS/e2247df0fdd171fcac0a62e59ffa20169402e696/README.md) |
 | `https://sticr.stir.comcast.com/d525df9c-ac19-48be-9ae6-aecb8d35050e.cer` |  | true | [view](../../REPOS/2e7ebbb7eaedbbb9d46e786d21cb431a80ac5d9a/README.md) |
@@ -474,14 +608,17 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/d64b27eb-8cf6-4660-a0dd-747542bc4f8d.cer` |  | true | [view](../../REPOS/f2d13f29ab03f6fc7434b541c896883eaf321184/README.md) |
 | `https://sticr.stir.comcast.com/d65aa996-fbfb-4e00-b24a-54d8ae9ce0ca.cer` |  | true | [view](../../REPOS/b6c08e840e446fdf7b4ab3068ac2b0b719d212f5/README.md) |
 | `https://sticr.stir.comcast.com/d6c885e5-67db-4f24-a069-0677e75bd32d.cer` |  | true | [view](../../REPOS/774a35b1dbd411cfb8f317e09c992e422196dfe2/README.md) |
+| `https://sticr.stir.comcast.com/d6df7c30-7bcc-41f5-b6aa-2e7fbd8aefd6.pem` |  | true | [view](../../REPOS/0288a77f0422f47fcf23196fac4fd03772149c16/README.md) |
 | `https://sticr.stir.comcast.com/d7bd25d5-a76b-4df5-8d61-a3891ead5f23.cer` |  | true | [view](../../REPOS/f47b5fa76ac49d53fffc5fbb95d547bc4fa6fa05/README.md) |
 | `https://sticr.stir.comcast.com/d7f3c292-ee42-4669-9a58-0de5adddba6a.cer` |  | true | [view](../../REPOS/58118f3c8704a26f909b83d45ea811956ce68209/README.md) |
 | `https://sticr.stir.comcast.com/d83711d8-0175-455e-900a-27ac9d39df01.cer` |  | true | [view](../../REPOS/73b4374f320038c4711a53b593fea38dda8f07d8/README.md) |
+| `https://sticr.stir.comcast.com/d83a2079-e973-4ef5-9011-b37913acf63c.pem` | 18&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/bbe020c3efe1a6eb0712b6109cc7ada803e1ed93/README.md) |
 | `https://sticr.stir.comcast.com/d844c809-e1c8-436d-b637-81fda9fae40d.cer` |  | true | [view](../../REPOS/f41b67c516f8e7a14d71fd3955f33ae79d4ccd01/README.md) |
 | `https://sticr.stir.comcast.com/d871fd5c-639b-4ab4-bfdf-629182480f0d.cer` |  | true | [view](../../REPOS/95c5fbd8aa68bfaeaa6dd268f63d52843cbd83fe/README.md) |
 | `https://sticr.stir.comcast.com/d926b087-09a5-4b97-b21c-90e5e3a0863c.cer` |  | true | [view](../../REPOS/99ff35a6c5d0b727dce14ff55acff9b4dd7e3dc2/README.md) |
 | `https://sticr.stir.comcast.com/d9538069-374d-4a95-b29e-c0541a431c24.cer` |  | true | [view](../../REPOS/73b40c0c3f06af5b3163eb1dc2b3c2705907d516/README.md) |
 | `https://sticr.stir.comcast.com/d9a7da5e-8f09-4f43-9f63-b49625f9e0c2.cer` |  | true | [view](../../REPOS/9645e331a437c15ed77551e264849d0c103196ab/README.md) |
+| `https://sticr.stir.comcast.com/da68b32c-c5aa-414f-952b-490445d2d771.pem` | 06&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/60e654d61587e8c33fde516eb83715d5e5c398ed/README.md) |
 | `https://sticr.stir.comcast.com/db0d70d6-b551-4918-925e-1765bee46212.cer` |  | true | [view](../../REPOS/8fd7f69508424fa2305ca32fcead6614fe026cfc/README.md) |
 | `https://sticr.stir.comcast.com/db7341ca-f0c8-43e1-b645-9fc67403b34e.cer` |  | true | [view](../../REPOS/527b8f0119ab4f8b7bb389fcb65e2c1a763fd81e/README.md) |
 | `https://sticr.stir.comcast.com/dbc5ffd2-998d-4701-8be4-a10ff69ce097.cer` |  | true | [view](../../REPOS/ba5b2e4490c3140371fc3269130ed3174e40c8e8/README.md) |
@@ -491,9 +628,12 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/dc0d453c-8a0e-40b6-a245-8f727cfe9bcf.cer` |  | true | [view](../../REPOS/442e97de2ba4db27bd2d78408673b2da0167ed99/README.md) |
 | `https://sticr.stir.comcast.com/dc64f6ba-8993-483f-acfe-5bc16f1afec5.cer` |  | true | [view](../../REPOS/6054a50318f45a321d17b1d18b825e3d2a1b6aec/README.md) |
 | `https://sticr.stir.comcast.com/dc8f37b9-04b2-4eb5-9599-c33eb306b864.cer` |  | true | [view](../../REPOS/f75b239d9527988ffe1b253460df35cb7f280e0f/README.md) |
+| `https://sticr.stir.comcast.com/dca6a141-5218-40f6-bac3-0f1eb045c4c8.pem` | 05&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/7b3c312242dd49c9c6b77cdd999e4572fc027c72/README.md) |
 | `https://sticr.stir.comcast.com/dcc927bc-9742-440a-9ae9-92d74efc653b.cer` |  | true | [view](../../REPOS/c2a8c4fd7b97645e29a806664e22625018260ffb/README.md) |
 | `https://sticr.stir.comcast.com/dd212449-b35d-42d2-a8f5-56eb531e7f82.cer` |  | true | [view](../../REPOS/40038f6ccad686e16faabdf6a565a99e464651af/README.md) |
 | `https://sticr.stir.comcast.com/dd828d92-6d0e-4a84-a71f-4a5f33949437.cer` |  | true | [view](../../REPOS/c9c5641a5eee73290202ad7687019db4b944f151/README.md) |
+| `https://sticr.stir.comcast.com/ddc919c6-cd58-4232-9e1f-8c2c5d911504.pem` |  | true | [view](../../REPOS/e81fde8162e631667c84b6039c68b8df0f0454e6/README.md) |
+| `https://sticr.stir.comcast.com/ddc9a199-c913-46dd-9eb6-09dc995dac1a.pem` | 10&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/41f2b962709fa1ad7a862b1622b1a2f77e508d9f/README.md) |
 | `https://sticr.stir.comcast.com/de2ad6c6-23c3-484c-9d4c-adcfe2c21283.cer` |  | true | [view](../../REPOS/a2f37688b4782c6f4d4009071b7fc44005164f84/README.md) |
 | `https://sticr.stir.comcast.com/de3c7224-4d92-42aa-ad87-29cf07b3e19c.cer` |  | true | [view](../../REPOS/9ae9247cd3fb4c187df5681fb92e6f314837e6a7/README.md) |
 | `https://sticr.stir.comcast.com/de895f84-ce26-48cf-9320-f042f4315cda.cer` |  | true | [view](../../REPOS/d97151eb0c651fb1906f5366f0d10821d8bba8a9/README.md) |
@@ -504,19 +644,29 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/e0638eae-9c9b-4306-a321-09314543085b.cer` |  | true | [view](../../REPOS/26629894bc349470dab2225f2b5f80dd1e5997fb/README.md) |
 | `https://sticr.stir.comcast.com/e14128fb-a480-4be3-9433-6ca2a4dfc1ea.cer` |  | true | [view](../../REPOS/2f002a489695ecd9aa32b3bb77e4d1629bdda8ec/README.md) |
 | `https://sticr.stir.comcast.com/e1fb5dfb-d956-4773-b772-66954124794c.cer` |  | true | [view](../../REPOS/c0dfd0e1848ebb5c1fdb5a2ba82862482981266a/README.md) |
+| `https://sticr.stir.comcast.com/e248d798-1cc3-4c6d-8935-c02b3eb819ed.pem` | 22&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/7d95932db0b024d9100e3be0327fa0230c88dd1f/README.md) |
+| `https://sticr.stir.comcast.com/e26fef73-53e1-4b37-ad87-4b7e7ea854b0.pem` | 11&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/7515e0fdca9780cae1f953372a92ec0a159cbe9c/README.md) |
+| `https://sticr.stir.comcast.com/e291b0cd-38ab-4df3-804d-75bcb1d50f9e.cer` |  | true | [view](../../REPOS/5c26b69ef180d02071dc03546bb61e11f8a9b83c/README.md) |
 | `https://sticr.stir.comcast.com/e302e3d1-8de4-4c0c-abcb-52813f3b7f2c.cer` |  | true | [view](../../REPOS/d333dc15eb0c7fa12799c38cbaedaa42a8b90452/README.md) |
 | `https://sticr.stir.comcast.com/e3338925-a31f-4d73-a0e2-43ef3dc14aad.cer` |  | true | [view](../../REPOS/08348c574e6e59a00484c49c88c5fc5b6ec2b627/README.md) |
+| `https://sticr.stir.comcast.com/e345ec40-dc0e-4485-81e0-61c2b12cd982.cer` |  | true | [view](../../REPOS/94fdede99af3071fee17df643dd8d7c08610ede0/README.md) |
 | `https://sticr.stir.comcast.com/e34eb8e2-2253-41ef-859d-47510bc324e4.cer` |  | true | [view](../../REPOS/88e0cd546776d3d775bde92ce7139c49ac822bca/README.md) |
 | `https://sticr.stir.comcast.com/e3535499-d849-40ff-9813-37428a276d9e.cer` |  | true | [view](../../REPOS/454f679716082f6a3b4d824c3f3ccc8e9b4a7ef7/README.md) |
 | `https://sticr.stir.comcast.com/e3791757-fd3d-4a23-b9c9-c4b0195cb46d.cer` |  | true | [view](../../REPOS/3f51ef7fcc5f4b272852297ba96b87ebb4f3a0b6/README.md) |
+| `https://sticr.stir.comcast.com/e3aceb84-ec75-4f3b-bf3b-14f417fcb478.cer` |  | true | [view](../../REPOS/c5ae7fcdf81bb317897cf4dafbdec73ff26be8cf/README.md) |
+| `https://sticr.stir.comcast.com/e482694b-6dab-408f-860a-04447ac9e887.pem` |  | true | [view](../../REPOS/6dc057757425326291068272326371f143a600b9/README.md) |
+| `https://sticr.stir.comcast.com/e4a6a24b-4984-4f18-ab7b-c051af26a6b8.cer` |  | true | [view](../../REPOS/3e917484b4cfe93c1c52cb87c6d39e431edf3a1a/README.md) |
 | `https://sticr.stir.comcast.com/e4c56871-4c89-4679-8e53-df87a72da75a.cer` |  | true | [view](../../REPOS/8d75a71fe792680837a080fe88f67e86eef1f020/README.md) |
 | `https://sticr.stir.comcast.com/e560a30a-116a-47f0-8eff-caac3cfd7a06.cer` |  | true | [view](../../REPOS/640e2a9ef8d004537b455fefa663bd17d4cd3312/README.md) |
+| `https://sticr.stir.comcast.com/e59d1449-986c-42bd-a200-d4b9f31ce93a.pem` |  | true | [view](../../REPOS/3cb0d6b25a4a1cba2e29f6185a29c6c16f157a9f/README.md) |
 | `https://sticr.stir.comcast.com/e63a493f-7f2f-465e-b37a-651db7397153.cer` |  | true | [view](../../REPOS/73eb71010c5b295bf0681e502a90e6ca9f058be0/README.md) |
 | `https://sticr.stir.comcast.com/e690bddd-cadb-4e52-984c-03c7210bdfa7.cer` |  | true | [view](../../REPOS/b6da9ef582f37511707cafa61d203d327bf4c5f6/README.md) |
+| `https://sticr.stir.comcast.com/e757d9b5-2889-4778-9399-2ccb129081b3.pem` | 07&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/c893560bf32df6ff8114bc5b8f2b9c4ab55243ce/README.md) |
 | `https://sticr.stir.comcast.com/e7a2d3a3-8940-4e19-90e9-596786310889.cer` |  | true | [view](../../REPOS/30e5930687a278be5581af8c822aaef4760258e6/README.md) |
 | `https://sticr.stir.comcast.com/e813d358-9f95-49ba-82c8-d97bd0a59a81.cer` |  | true | [view](../../REPOS/edc9214a8434474a74ab2b08bca059d0c6af8821/README.md) |
 | `https://sticr.stir.comcast.com/e8bc5b18-dc87-4a3f-bad7-795ca3e3e583.cer` |  | true | [view](../../REPOS/6e4763b79757b16cdd76084be38ced117732bc5e/README.md) |
 | `https://sticr.stir.comcast.com/e930184a-d683-44e2-84c7-5daec2469046.cer` |  | true | [view](../../REPOS/fe9156f9631501f41799ddbe8910a65776d28ab3/README.md) |
+| `https://sticr.stir.comcast.com/e9472065-d34f-4bba-8d73-3a9332b24261.cer` |  | true | [view](../../REPOS/446ea06da351da230251490947be5386f826f0cd/README.md) |
 | `https://sticr.stir.comcast.com/e9b9c567-4baf-4096-8e91-e4d9b23493a3.cer` |  | true | [view](../../REPOS/58d35c092215281a2d89fd2ae559d842f6fdcd7f/README.md) |
 | `https://sticr.stir.comcast.com/ea73c140-0be5-42aa-bf76-907a96ad5ee6.cer` |  | true | [view](../../REPOS/766bd846d05fbd7a02c8a87818a0568b6255a512/README.md) |
 | `https://sticr.stir.comcast.com/ea8a28d7-29e3-4656-8a9b-6ab7fea42a6e.cer` |  | true | [view](../../REPOS/d2aa6b50931883de842081f65243b3e2b2de4b72/README.md) |
@@ -528,29 +678,42 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/ee2015ab-0244-491e-b1a9-eb3ed892bdb8.cer` |  | true | [view](../../REPOS/e9fcb60220d34fd50b4c84299c27ef0228fb41f7/README.md) |
 | `https://sticr.stir.comcast.com/ee55e201-74e1-42f7-8145-0e48c0e20484.cer` |  | true | [view](../../REPOS/eea10ea4a90f157c11fcf7ca8da23589a7d44776/README.md) |
 | `https://sticr.stir.comcast.com/f0462cfc-e5ea-4324-9164-e9ec5add6886.cer` |  | true | [view](../../REPOS/373bd5c0beb8de8565de887ceeaa95e56a90eb5f/README.md) |
+| `https://sticr.stir.comcast.com/f0d1693b-4f06-4256-b343-cf327f3b5073.pem` | 21&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/a5df7ce1689fbd0517afe4d3f4454f4e3dd78488/README.md) |
 | `https://sticr.stir.comcast.com/f14e383a-15f8-4eb1-ae80-7030f79d2bf9.cer` |  | true | [view](../../REPOS/e76424f4521b0cd2d4955cfeb4b201479bb0f421/README.md) |
+| `https://sticr.stir.comcast.com/f14ffeb2-1bd7-4d79-9489-0cb6c953f0a7.pem` |  | true | [view](../../REPOS/4844ea6a039127f1663ccb04b5d01ed66538baa8/README.md) |
 | `https://sticr.stir.comcast.com/f173e057-ce18-4715-8498-d47365ecb823.cer` |  | true | [view](../../REPOS/94bd7091b4e3196e921559512784f754c3901061/README.md) |
 | `https://sticr.stir.comcast.com/f186b96c-d202-45bc-892d-ca96e4d2e0f8.cer` |  | true | [view](../../REPOS/90163ed1f4800f5d044feaa42a5562b49cba740b/README.md) |
 | `https://sticr.stir.comcast.com/f1b7f522-854f-4334-ae46-46ed7959ac56.cer` |  | true | [view](../../REPOS/4bfcfdf8fcdd79fc62cc712feee0d7c7ac805e24/README.md) |
 | `https://sticr.stir.comcast.com/f1d3cd56-744c-4dbd-bc77-579e1b80fd1f.cer` |  | true | [view](../../REPOS/7b2818369bd95c6a6e67c862916086101bad9b11/README.md) |
 | `https://sticr.stir.comcast.com/f203a64e-0c1b-4159-a974-d2c9d0acb36a.cer` |  | true | [view](../../REPOS/7d7c0e56066cc890f99d89775e83f41d7e403368/README.md) |
 | `https://sticr.stir.comcast.com/f2d2092d-1ebb-4848-b673-ae41717126fc.cer` |  | true | [view](../../REPOS/2bce1a251e4f90af12e9d3afa7325fdc876616c2/README.md) |
+| `https://sticr.stir.comcast.com/f2db6ae6-cbc3-4182-952a-1dea310ab8b8.pem` | 30&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/81a26531116a6e897ea4148427706360d2051296/README.md) |
 | `https://sticr.stir.comcast.com/f39184bf-f2fe-4dba-8a68-bc706ad82330.cer` |  | true | [view](../../REPOS/06c146ee24b81ccb25aca16c28b8864eb186fa15/README.md) |
 | `https://sticr.stir.comcast.com/f4bede55-525c-46ed-aea6-04c7e72ab522.cer` |  | true | [view](../../REPOS/b981a2d94a091c0bc5cf87e83233080ffae0b4c5/README.md) |
 | `https://sticr.stir.comcast.com/f4ec7c17-2014-4c8e-aa54-5150fade9ca5.cer` |  | true | [view](../../REPOS/10b5593b441d0c56af8535d4f10f6c6b1157d497/README.md) |
 | `https://sticr.stir.comcast.com/f53fd9d6-dd45-45b7-90a5-0b46226ee8c5.cer` |  | true | [view](../../REPOS/83bddff38bd1130de907f85615faed5958235883/README.md) |
+| `https://sticr.stir.comcast.com/f64e3e78-57cc-47b9-8296-ad325d433381.cer` |  | true | [view](../../REPOS/33908c4f9d64265f99083c85475774ee3fb77df6/README.md) |
+| `https://sticr.stir.comcast.com/f68c0bc1-d11a-4b49-a51f-a4d663361f86.pem` |  | true | [view](../../REPOS/176624dd08a22e26b21881b03a61c4ec101a4e85/README.md) |
 | `https://sticr.stir.comcast.com/f6b606df-c2ca-42ab-bf6d-8f38ba0532c2.cer` |  | true | [view](../../REPOS/651df824fa8badc101d48f84b6405157dd74bde3/README.md) |
+| `https://sticr.stir.comcast.com/f7534e15-e2ee-4bf8-a432-8fd77d876041.pem` | 19&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/40f44705688dab49d7f2d99d09019dcec2e75e5a/README.md) |
 | `https://sticr.stir.comcast.com/f7572c3a-c17d-4e5a-8cc8-3936759257b0.cer` |  | true | [view](../../REPOS/10f6e8934e75aefc9b4ca9a97a4b50e77b38782c/README.md) |
 | `https://sticr.stir.comcast.com/f8173592-2ba8-419e-a9fe-92733579be72.cer` |  | true | [view](../../REPOS/7068c44d083cde8862cb56adc12ebfbf6b22c793/README.md) |
 | `https://sticr.stir.comcast.com/f85a7948-3ffe-4c17-8f77-41ef3d090000.cer` |  | true | [view](../../REPOS/4fc5b6be64323da630af54f728046ef243be8a4d/README.md) |
 | `https://sticr.stir.comcast.com/f8d54386-af21-402b-bfe2-140595ce5ac9.cer` |  | true | [view](../../REPOS/dd9c4a1d47519873673a4f4ff78239d83e9f8e3b/README.md) |
 | `https://sticr.stir.comcast.com/f99a40f0-ee5f-4918-b508-30e0196873d0.cer` |  | true | [view](../../REPOS/02c15374876259b996b37753a9a5aaab6989afbf/README.md) |
+| `https://sticr.stir.comcast.com/f9c54bf4-5ef4-4992-aa9c-15ded4a0062a.pem` | 01&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/c4bec34a11732764c7ae0fe6d102909eb76ba964/README.md) |
 | `https://sticr.stir.comcast.com/f9d22fe1-158c-4648-abbb-86113a3e0c4f.cer` |  | true | [view](../../REPOS/390a3c30d7a470ef212ee42fbb22d7e4fbd033e6/README.md) |
 | `https://sticr.stir.comcast.com/f9eee5bd-e036-45e3-96e6-2d8d7bce25d1.cer` |  | true | [view](../../REPOS/7de7aea813af2e9692fd23b3ca70253ad4584b26/README.md) |
+| `https://sticr.stir.comcast.com/fa437389-6a73-4f70-a15d-a8cf41045ba2.pem` | 25&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/c2ec1d8548d15ebea7f1ae6cdc8f17e3e8e1e49d/README.md) |
 | `https://sticr.stir.comcast.com/fa974ae1-9581-4b2a-b4a1-ab8f94a53d0a.cer` |  | true | [view](../../REPOS/c45b1b42b7e4c6063328eb1b4c0100d6e37b0a5e/README.md) |
 | `https://sticr.stir.comcast.com/faae82e5-192b-4742-9b09-fac2726b737e.cer` |  | true | [view](../../REPOS/b536d56a06e9c73cc876656d5a25a153fb56b6f2/README.md) |
+| `https://sticr.stir.comcast.com/fb05b704-28a2-4112-a581-994c9c0ea911.pem` |  | true | [view](../../REPOS/9169fa01c2df330cb8926e23b989f245f81d830f/README.md) |
+| `https://sticr.stir.comcast.com/fb0cbe90-a4af-4fa3-909e-84bfc0a6921b.pem` |  | true | [view](../../REPOS/03c87d59f270a47f434ba94f76b686a1a6d24e2a/README.md) |
 | `https://sticr.stir.comcast.com/fb425bb1-7646-4729-8bdc-add5b1f9c928.cer` |  | true | [view](../../REPOS/78282abfdadb044ffe2ae6d665454ce410ccd8af/README.md) |
 | `https://sticr.stir.comcast.com/fbaf0921-745b-46c5-b7c5-e0c8e50a1e6b.cer` |  | true | [view](../../REPOS/b05f591049f61df39a19124c631c0ef2662d63ac/README.md) |
+| `https://sticr.stir.comcast.com/fbb1d7fc-a2b9-4fa5-8745-c0cc68e81080.pem` | 20&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](../../REPOS/e6ca202fdefdd891bb69cf4c64afb98ee5bbdf5f/README.md) |
+| `https://sticr.stir.comcast.com/fca2d664-e318-4823-8d6c-94923a2cb30b.pem` |  | true | [view](../../REPOS/f25424e78c14dd5e50a87499b6d2caa267e18844/README.md) |
+| `https://sticr.stir.comcast.com/fcb016b6-121c-4c2e-a718-8ff4ffe8329e.pem` |  | true | [view](../../REPOS/a5e1c5955c9a29118c7553b2131d468cd6a59aaa/README.md) |
 | `https://sticr.stir.comcast.com/fd279434-e4e8-4335-baca-c46e4c78aefc.cer` |  | true | [view](../../REPOS/84a66491d5ae193f33ee6f47415528a5ae03e293/README.md) |
 | `https://sticr.stir.comcast.com/fd36683c-6292-4ab0-879d-e59fe379bfbf.cer` |  | true | [view](../../REPOS/e7bdb7695e33ee0a3c2b1816f9daf2933de929e5/README.md) |
 | `https://sticr.stir.comcast.com/fd55c3b9-c5c2-4eea-8c44-5689f92d1611.cer` |  | true | [view](../../REPOS/8fc2da5b047de5db665f85f31b01f0e1c871d6da/README.md) |
@@ -561,4 +724,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sticr.stir.comcast.com/ff4f3455-b2b0-4f18-9435-ef5fa9a58b9f.cer` |  | true | [view](../../REPOS/abb5d20577a6b6bfd7727965fd4a8466601d4de0/README.md) |
 
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

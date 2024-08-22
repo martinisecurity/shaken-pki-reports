@@ -2,14 +2,14 @@
 
 ## Certificate Hunter Communications Shaken Cert 660C
 
-Tested At: 28 Nov 23 10:18 UTC\
+Tested At: 22 Aug 24 15:19 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 154 day(s)\
+Remaining Validity Period: -114 day(s)\
 Subject: CN=Hunter Communications Shaken Cert 660C, O=Hunter Communications, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
-Link: https://cdn-cr.cgah.tnsi.com/certs/7fba9a7fc8b3131f6fcea50e668939fd26bbd4a3
+Link: https://cdn-cr.cgah.tnsi.com/certs/f9f2d87b2253e0410fd2752c4f63bd582c46c1a8
 
-[View certificate details](https://understandingwebpki.com/?cert=MIICZTCCAgugAwIBAgIQfVPt3WU6F26qGtt5qesiYDAKBggqhkjOPQQDAjAtMSswKQYDVQQDDCJNZXRhc3dpdGNoIFNUSS1DQSBTSEFLRU4gSXNzdWluZyAxMB4XDTIxMDQzMDE3MDUxMFoXDTI0MDQyOTE3MDUxMFowXjELMAkGA1UEBhMCVVMxHjAcBgNVBAoMFUh1bnRlciBDb21tdW5pY2F0aW9uczEvMC0GA1UEAwwmSHVudGVyIENvbW11bmljYXRpb25zIFNoYWtlbiBDZXJ0IDY2MEMwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARM45tp3De0tSfhLpV5qWcJAr2ht1WfGxCYtpmz%2FBTHJQghRu%2BNCePgGnfJlVbwtLIbEjOzqg%2BUgjbiCTW4j8xko4HbMIHYMAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgXgMBYGCCsGAQUFBwEaBAowCKAGFgQ2NjBDMEcGA1UdHwRAMD4wPKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQEwHQYDVR0OBBYEFEhp9NlJqOUGdNOISNUL%2FpuLqDKkMB8GA1UdIwQYMBaAFM0epwAQENoyHWkaOdXSRgssPIfWMAoGCCqGSM49BAMCA0gAMEUCIC395ONlYIT71KYVos5kRbg6H%2BdFI13gFiZRdqg8Rl1%2FAiEAiPSGuwiajPR9udIJYSP%2FlN3CFxjpf4i04Yq9GOPgIto%3D)
+[View certificate details](https://x509.io/?cert=MIICZTCCAgugAwIBAgIQfVPt3WU6F26qGtt5qesiYDAKBggqhkjOPQQDAjAtMSswKQYDVQQDDCJNZXRhc3dpdGNoIFNUSS1DQSBTSEFLRU4gSXNzdWluZyAxMB4XDTIxMDQzMDE3MDUxMFoXDTI0MDQyOTE3MDUxMFowXjELMAkGA1UEBhMCVVMxHjAcBgNVBAoMFUh1bnRlciBDb21tdW5pY2F0aW9uczEvMC0GA1UEAwwmSHVudGVyIENvbW11bmljYXRpb25zIFNoYWtlbiBDZXJ0IDY2MEMwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARM45tp3De0tSfhLpV5qWcJAr2ht1WfGxCYtpmz%2FBTHJQghRu%2BNCePgGnfJlVbwtLIbEjOzqg%2BUgjbiCTW4j8xko4HbMIHYMAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgXgMBYGCCsGAQUFBwEaBAowCKAGFgQ2NjBDMEcGA1UdHwRAMD4wPKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQEwHQYDVR0OBBYEFEhp9NlJqOUGdNOISNUL%2FpuLqDKkMB8GA1UdIwQYMBaAFM0epwAQENoyHWkaOdXSRgssPIfWMAoGCCqGSM49BAMCA0gAMEUCIC395ONlYIT71KYVos5kRbg6H%2BdFI13gFiZRdqg8Rl1%2FAiEAiPSGuwiajPR9udIJYSP%2FlN3CFxjpf4i04Yq9GOPgIto%3D)
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
@@ -30,4 +30,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/7fba9a7fc8b3131f6fcea50e668939fd26bbd4a
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC

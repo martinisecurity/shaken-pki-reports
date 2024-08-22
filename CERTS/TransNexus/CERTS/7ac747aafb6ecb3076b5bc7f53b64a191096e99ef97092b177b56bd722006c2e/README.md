@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 769J
+
+Tested At: 22 Aug 24 15:20 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -262 day(s)\
+Subject: CN=SHAKEN 769J, O=Affiliated Technology Solutions LLC, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/471a46b3-3de4-4aa2-964b-2ff03ddbc8fe/56b2c523d195056664cc52fe7c7fa9ef.pem
+
+[View certificate details](https://x509.io/?cert=MIIC4jCCAomgAwIBAgIQbA70SS%2Bqz4BkbfqgilsteTAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjMxMTI2MjEwNTMxWhcNMjMxMjAzMjEwNTMwWjBRMQswCQYDVQQGEwJVUzEsMCoGA1UEChMjQWZmaWxpYXRlZCBUZWNobm9sb2d5IFNvbHV0aW9ucyBMTEMxFDASBgNVBAMTC1NIQUtFTiA3NjlKMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEiEjZNy0ARduNQ1Y%2BiXGBJtPoYu1SqYAJqLaG196dUNEP5B61fMh4akBGtLVR217RbsYX%2FjhL0zDs7Amg9lSIEqOCATwwggE4MAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMB0GA1UdDgQWBBR9OUvpC0PBvDO85U6M5%2Bn2YYWOlDAfBgNVHSMEGDAWgBQw9fXyt%2BFLCw8QdX1IpJDxPYsoKjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMBYGCCsGAQUFBwEaBAowCKAGFgQ3NjlKMAoGCCqGSM49BAMCA0cAMEQCIECU%2Bdu3y02T73zENHH%2F2Ref56x8nR4Q76%2B8DVTorqrVAiB35Pfk4yQxPL98zUcyWZiuX93AFBGZMU1rhaovrsWnig%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 22 Aug 24 16:06 UTC

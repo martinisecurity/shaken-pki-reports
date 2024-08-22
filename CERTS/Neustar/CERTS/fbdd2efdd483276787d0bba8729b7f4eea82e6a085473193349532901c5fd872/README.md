@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 030J
+
+Tested At: 22 Aug 24 15:28 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 198 day(s)\
+Subject: CN=SHAKEN 030J, O=ANI Networks, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://certs.iverify-aninetworks.net/aninetworks_20250307.crt
+
+[View certificate details](https://x509.io/?cert=MIIDADCCAqagAwIBAgIUE76zKkSiXPoi9S6CmS4j260pfnQwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI0MDMwNzE4Mzc0NFoXDTI1MDMwNzE4Mzc0NFowOjELMAkGA1UEBhMCVVMxFTATBgNVBAoMDEFOSSBOZXR3b3JrczEUMBIGA1UEAwwLU0hBS0VOIDAzMEowWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASuNRWMxm2jTcsJSpwrD3QAy7hqyNDzrD89QASek0MWqhtFgVZTpwvn23psLZgx8CAM4DPgQeXFrbrWuYjCvJlxo4IBPDCCATgwFgYIKwYBBQUHARoECjAIoAYWBDAzMEowDAYDVR0TAQH%2FBAIwADAfBgNVHSMEGDAWgBSCThX%2F%2Fp9qZ1HkyJfHbXTD%2FGVFeDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMB0GA1UdDgQWBBTCfTfQW3s%2FLeC6NWKb56eejVme3zAOBgNVHQ8BAf8EBAMCB4AwCgYIKoZIzj0EAwIDSAAwRQIhAL2XoE8yXc%2FTYkVftNDfo8v2oaH03UJjdOMd%2FCcKPpYdAiBJm0LrfP33nmP784R26E1lSjSkWnFR9tQFEJLnrINu%2FA%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 22 Aug 24 16:06 UTC

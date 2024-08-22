@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 735J
+
+Tested At: 22 Aug 24 15:19 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -202 day(s)\
+Subject: CN=SHAKEN 735J, O=AVOXI Inc., C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/11124177-79f3-48b2-867a-386d4dc61c99/b96c6ab993b93e21aca41df45d1e1f93.pem
+
+[View certificate details](https://x509.io/?cert=MIICyjCCAnCgAwIBAgIQYBFA%2B8OOWEp0YvexGUYtcTAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTQwHhcNMjQwMTI1MjA1OTIxWhcNMjQwMjAxMjA1OTIwWjA4MQswCQYDVQQGEwJVUzETMBEGA1UEChMKQVZPWEkgSW5jLjEUMBIGA1UEAxMLU0hBS0VOIDczNUowWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQ6B4K4yYrLIZsmrUm5PPygRRKAIbjR3kjRzcMI5bM7sOb85KcqnUWBoZHVRpOmVYmJRmeLThcq7g8ZPX9%2FzycEo4IBPDCCATgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFK%2BA8de4zHLPK5FoEDm84FVg8eoDMB8GA1UdIwQYMBaAFDD19fK34UsLDxB1fUikkPE9iygqMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwFgYIKwYBBQUHARoECjAIoAYWBDczNUowCgYIKoZIzj0EAwIDSAAwRQIgJxHXxZ3BlPlVPPsmoGgk5tPcdPnY1vqosWBztTxph3sCIQDRmJWaRY694zFnBdRiCuG2PyvHhPjLwm3EElq8gDKa4Q%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 22 Aug 24 16:06 UTC

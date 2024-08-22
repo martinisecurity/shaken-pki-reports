@@ -12,8 +12,6 @@ Description: STI End-Entity certificates shall contain a CRL Distribution Points
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | FracTEL LLC SHAKEN | [view](../../CERTS/7e9f3377c97ba96475fb319a39341fb126f4d96175b09c0ea388618ee1749e50/README.md) | STI End-Entity certificates shall contain a CRL Distribution Points extension |
-| error | Edify SHAKEN | [view](../../CERTS/d092ee80d10eb8c6656246f9ffa3d2100319fb217c50c8cc03e4d84e654da026/README.md) | STI End-Entity certificates shall contain a CRL Distribution Points extension |
 | error | MYPBXManager SHAKEN | [view](../../CERTS/ea5813855308274fae05fdcae622a159efa47cde2ccf87a9cdf09d9ef43d93f2/README.md) | STI End-Entity certificates shall contain a CRL Distribution Points extension |
 
 ### CA Certificates
@@ -21,4 +19,4 @@ Description: STI End-Entity certificates shall contain a CRL Distribution Points
 No error, warning, or notice level issues were found
 
 
-Generated: 28 Nov 23 10:53 UTC
+Generated: 22 Aug 24 16:06 UTC
