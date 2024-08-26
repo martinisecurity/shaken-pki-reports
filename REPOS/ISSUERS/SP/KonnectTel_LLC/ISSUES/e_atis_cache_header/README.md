@@ -12,4 +12,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sadmin.konnecttel.com/KonnectTel.pem` | 08&#160;Sep&#160;24&#160;23:11&#160;UTC | true | [view](../../REPOS/b06f6ca3a82fe6c167195b1d7aa2c5ef43e67ae1/README.md) |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 318J
 
-Tested At: 22 Aug 24 15:40 UTC\
+Tested At: 26 Aug 24 18:00 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -23 day(s)\
+Remaining Validity Period: -27 day(s)\
 Subject: CN=SHAKEN 318J, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US\
 Issuer: CN=Comcast SHAKEN Intermediate CA, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US\
 Link: https://sticr.stir.comcast.com/acd898ea-8230-4da7-bb84-3795004f2048.pem
@@ -17,4 +17,4 @@ Link: https://sticr.stir.comcast.com/acd898ea-8230-4da7-bb84-3795004f2048.pem
 | [e_atis_serial_number_size](../../ISSUES/e_atis_serial_number_size/README.md) | error | ATIS1000080 | STI certificates shall have a serial number that contains at least 64 bits, got 59 |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

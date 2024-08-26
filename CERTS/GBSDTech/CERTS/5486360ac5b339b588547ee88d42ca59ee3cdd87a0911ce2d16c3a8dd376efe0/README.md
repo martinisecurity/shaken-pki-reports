@@ -2,9 +2,9 @@
 
 ## Certificate alluretelecom.com
 
-Tested At: 22 Aug 24 15:41 UTC\
+Tested At: 26 Aug 24 18:01 UTC\
 Initial Validity Period: 364 day(s)\
-Remaining Validity Period: 243 day(s)\
+Remaining Validity Period: 239 day(s)\
 Subject: CN=alluretelecom.com, OU=VOIP, O=Allure Telecom Inc., ST=TX, C=US\
 Issuer: CN=SHAKEN 1RouteGroup Intermediate CA, O=1RouteGroup, ST=Texas, C=US\
 Link: https://stir.alluretelecom.com/static/846K-cert.pem
@@ -13,9 +13,9 @@ Link: https://stir.alluretelecom.com/static/846K-cert.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| [e_atis_serial_number_size](../../ISSUES/e_atis_serial_number_size/README.md) | error | ATIS1000080 | STI certificates shall have a serial number that contains at least 64 bits, got 13 |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 846K', but common name is 'alluretelecom.com' |
 | [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common Name attribute 'alluretelecom.com' does not contain 'SHAKEN' |
-| [e_atis_serial_number_size](../../ISSUES/e_atis_serial_number_size/README.md) | error | ATIS1000080 | STI certificates shall have a serial number that contains at least 64 bits, got 13 |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

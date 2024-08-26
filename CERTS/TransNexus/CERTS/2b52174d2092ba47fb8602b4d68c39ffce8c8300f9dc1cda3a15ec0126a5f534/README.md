@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 029K
 
-Tested At: 22 Aug 24 15:22 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -528 day(s)\
+Remaining Validity Period: -532 day(s)\
 Subject: CN=SHAKEN 029K, O=VoIPConsultants.biz LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/7f0be90c-4263-43fc-b425-53c54b34cd5a/b65c313277a577bc113032a22efe8f2f.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/7f0be90c-4263-43fc-b425-53c54b34cd5a/b65c
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

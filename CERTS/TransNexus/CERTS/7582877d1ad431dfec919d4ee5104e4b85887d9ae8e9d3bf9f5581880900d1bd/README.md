@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 727J
 
-Tested At: 22 Aug 24 15:21 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -550 day(s)\
+Remaining Validity Period: -554 day(s)\
 Subject: CN=SHAKEN 727J, O=SumoFiber, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/60e08b8b-2fd4-455e-9e9a-faa0470820d8/951ba1bfdaf147eb245d42441dc28d18.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/60e08b8b-2fd4-455e-9e9a-faa0470820d8/951b
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

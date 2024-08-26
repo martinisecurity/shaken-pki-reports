@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 759J
 
-Tested At: 22 Aug 24 15:26 UTC\
+Tested At: 26 Aug 24 17:44 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -58 day(s)\
+Remaining Validity Period: -62 day(s)\
 Subject: CN=SHAKEN 759J, O=Rhode Island Telephone, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/f8262ffd-801f-403a-9ee9-ec811abe5a5e/f9fb38235ea2882b53828a50fc563e33.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/f8262ffd-801f-403a-9ee9-ec811abe5a5e/f9fb
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

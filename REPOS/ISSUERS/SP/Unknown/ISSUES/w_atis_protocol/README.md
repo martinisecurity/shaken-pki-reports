@@ -20,4 +20,4 @@ Description: The verifier should not dereference any protocol other than https o
 | `https://sip.gnvoip.net:5000/stirshaken_certs/665K.crt` |  | true | [view](../../REPOS/6120c9c9e0969c758c0dbab9cd7449c03439ba25/README.md) |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

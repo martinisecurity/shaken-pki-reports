@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 120K
 
-Tested At: 22 Aug 24 15:24 UTC\
+Tested At: 26 Aug 24 17:44 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -522 day(s)\
+Remaining Validity Period: -526 day(s)\
 Subject: CN=SHAKEN 120K, O=VC3, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/bcb89748-38e2-45ae-8b54-7efd23525de2/a4ec3deb74cc1c3f47ef9919bed19f06.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/bcb89748-38e2-45ae-8b54-7efd23525de2/a4ec
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

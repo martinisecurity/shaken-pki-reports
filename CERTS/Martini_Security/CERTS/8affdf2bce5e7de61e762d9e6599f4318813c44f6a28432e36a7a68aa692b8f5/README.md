@@ -1,0 +1,26 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 709J
+
+Tested At: 26 Aug 24 17:54 UTC\
+Initial Validity Period: 90 day(s)\
+Remaining Validity Period: -566 day(s)\
+Subject: O=LOW LATENCY COMMUNICATIONS LLC, C=US, serialNumber=5A1C6A5FDA767172CC1DE82ADCE8D42D, CN=SHAKEN 709J\
+Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
+Link: https://p.mtsec.me/2884/eKFPoFs5gfUW.pem
+
+[View certificate details](https://x509.io/?cert=MIIDKDCCAs6gAwIBAgIUeKFPoFs5gfUWnBDOP0klpDiNoQkwCgYIKoZIzj0EAwIwcTELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAldBMRAwDgYDVQQHEwdTZWF0dGxlMR4wHAYDVQQKExVNYXJ0aW5pIFNlY3VyaXR5LCBMTEMxIzAhBgNVBAMTGk1hcnRpbmkgU2VjdXJpdHkgU0hBS0VOIEcyMB4XDTIyMTEwOTIyMzQ0NloXDTIzMDIwNzA2MDAwMFowdzEUMBIGA1UEAxMLU0hBS0VOIDcwOUoxKTAnBgNVBAUTIDVBMUM2QTVGREE3NjcxNzJDQzFERTgyQURDRThENDJEMQswCQYDVQQGEwJVUzEnMCUGA1UEChMeTE9XIExBVEVOQ1kgQ09NTVVOSUNBVElPTlMgTExDMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEBUJrD8NdWev0lfo8DnYBzGrkeo1H4%2BnfuyCtnUo48IG8YGvpgf%2BpJECi%2BbzuzAOdWSnZdd%2F%2FBKFxWC3rPaAtTqOCATwwggE4MA4GA1UdDwEB%2FwQEAwIHgDAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBT7CtcPLMyWtd0eWwVGB1INLSq3mDAfBgNVHSMEGDAWgBQohFBe5EN4LNBzs4sb%2FaTMFmKYGDAWBggrBgEFBQcBGgQKMAigBhYENzA5SjCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHEwtCcmlkZ2V3YXRlcjELMAkGA1UECBMCTkoxEzARBgNVBAMTClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKEwZTVEktUEEwFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEDMAoGCCqGSM49BAMCA0gAMEUCICbl%2F%2FmaoQDtAgiBpQMXuTruVfuLqJsKgCT8hulubkR%2FAiEAvmS235JY46u8U6BfKXap4nb9VMxz9VHmtnbvNUaHifA%3D)
+
+164 tests were ran and no error, warning, or notice level issues were found
+
+### Not Effective
+
+- e_atis_ext_not_specified
+- e_atis_serial_number_size
+- e_atis_subject_c_iso
+- e_atis_tn_auth_list_spc_format
+
+\* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
+
+
+Generated: 26 Aug 24 18:03 UTC

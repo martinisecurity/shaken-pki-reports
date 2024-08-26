@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 4036
 
-Tested At: 22 Aug 24 15:16 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 180 day(s)\
-Remaining Validity Period: 38 day(s)\
+Remaining Validity Period: 34 day(s)\
 Subject: CN=SHAKEN 4036, O=ATT, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://cert.sticr.att.net:8443/certs/att/b8b9ae20-018a-4ff1-90bd-47d436341bb8
@@ -14,4 +14,4 @@ Link: https://cert.sticr.att.net:8443/certs/att/b8b9ae20-018a-4ff1-90bd-47d43634
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 683G
+
+Tested At: 26 Aug 24 17:54 UTC\
+Initial Validity Period: 28 day(s)\
+Remaining Validity Period: -157 day(s)\
+Subject: O=BCM One Cloud Communications\\, LLC, C=US, serialNumber=5A58503D114D8DF4DC16E8B664AC2819, CN=SHAKEN 683G\
+Issuer: CN=Martini Security SHAKEN G3, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
+Link: https://p.mtsec.me/2e5a/Baq0QriY1HRP.pem
+
+[View certificate details](https://x509.io/?cert=MIICyjCCAm%2BgAwIBAgIUBaq0QriY1HRPY4Z2R825WLOA%2BlgwCgYIKoZIzj0EAwIwcTELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAldBMRAwDgYDVQQHEwdTZWF0dGxlMR4wHAYDVQQKExVNYXJ0aW5pIFNlY3VyaXR5LCBMTEMxIzAhBgNVBAMTGk1hcnRpbmkgU2VjdXJpdHkgU0hBS0VOIEczMB4XDTI0MDIyMzEyMDAyNloXDTI0MDMyMTE5NTEyOVowejEUMBIGA1UEAxMLU0hBS0VOIDY4M0cxKTAnBgNVBAUTIDVBNTg1MDNEMTE0RDhERjREQzE2RThCNjY0QUMyODE5MQswCQYDVQQGEwJVUzEqMCgGA1UEChMhQkNNIE9uZSBDbG91ZCBDb21tdW5pY2F0aW9ucywgTExDMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE860xe%2F2jl2al1jOYmIxsMOEg5SCwdZRH1J%2BBPpIEI6mS4JjsfC6fmGszZo%2BpOWDSKUv6UctBQK5bbhnKAZ%2FpsqOB2zCB2DAOBgNVHQ8BAf8EBAMCB4AwDAYDVR0TAQH%2FBAIwADAdBgNVHQ4EFgQUunYv5Sj6P8UTLJDt0F7bIMBjETcwHwYDVR0jBBgwFoAULlpBUybicKpsAcDmdvDuIvczDxwwFgYIKwYBBQUHARoECjAIoAYWBDY4M0cwRwYDVR0fBEAwPjA8oDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBBDAKBggqhkjOPQQDAgNJADBGAiEAkcB98VUgjQ382dCIkpZOssIiz9GnHZvIdy3GORsi9VUCIQDg7Pf1ycb2CefvSv74aMQ02GMWbjnMVTKymaQuebiPLw%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+
+
+Generated: 26 Aug 24 18:03 UTC

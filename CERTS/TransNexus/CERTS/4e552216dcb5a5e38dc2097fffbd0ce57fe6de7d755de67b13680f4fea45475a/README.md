@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 733J
 
-Tested At: 22 Aug 24 15:19 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -289 day(s)\
+Remaining Validity Period: -293 day(s)\
 Subject: CN=SHAKEN 733J, O=Wiretap Telecom, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/257dc117-4652-4444-9058-fceb2d81e92c/9eaf40815c847209b04950eec9b4dee3.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/257dc117-4652-4444-9058-fceb2d81e92c/9eaf
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

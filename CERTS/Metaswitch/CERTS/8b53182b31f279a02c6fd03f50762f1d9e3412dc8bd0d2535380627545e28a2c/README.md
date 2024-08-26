@@ -2,9 +2,9 @@
 
 ## Certificate 3 Rivers Communications SHAKEN Cert 2255
 
-Tested At: 22 Aug 24 15:16 UTC\
+Tested At: 26 Aug 24 17:42 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 619 day(s)\
+Remaining Validity Period: 614 day(s)\
 Subject: CN=3 Rivers Communications SHAKEN Cert 2255, O=3 Rivers Communications, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/3f3c33b7470f849766844b4a9a3ccc61f15c944a
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/3f3c33b7470f849766844b4a9a3ccc61f15c944
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 2255', but common name is '3 Rivers Communications SHAKEN Cert 2255' |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

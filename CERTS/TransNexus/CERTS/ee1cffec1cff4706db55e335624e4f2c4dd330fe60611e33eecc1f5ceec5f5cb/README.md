@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 551G
 
-Tested At: 22 Aug 24 15:27 UTC\
+Tested At: 26 Aug 24 17:45 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -349 day(s)\
+Remaining Validity Period: -354 day(s)\
 Subject: CN=SHAKEN 551G, O=Brightlink Communications LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/551G/91e13e95-3ed2-4e78-ab98-634bde44b08d.pem
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/551G/91e13e95-3ed2-4e78-ab98-634bde44b
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

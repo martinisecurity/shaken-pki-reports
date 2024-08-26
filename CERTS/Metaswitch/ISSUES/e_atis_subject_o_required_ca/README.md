@@ -19,4 +19,4 @@ No error, warning, or notice level issues were found
 | error | Metaswitch STI-CA SHAKEN Issuing 1 | [view](../../CERTS/8a7fb50e95b8c43a63d19e2f279de565fa611ae3f24a14f82394e3208782be7a/README.md) | The DN does not contain exactly one Organization (O=) attribute. |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

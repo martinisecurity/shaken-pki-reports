@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 193E
 
-Tested At: 22 Aug 24 15:27 UTC\
+Tested At: 26 Aug 24 17:45 UTC\
 Initial Validity Period: 60 day(s)\
-Remaining Validity Period: -74 day(s)\
+Remaining Validity Period: -78 day(s)\
 Subject: CN=SHAKEN 193E, O=8x8 Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/193E/069f7967-5fef-4635-a345-3c96608e1143.pem
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/193E/069f7967-5fef-4635-a345-3c96608e1
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

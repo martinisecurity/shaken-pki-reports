@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 2252
 
-Tested At: 22 Aug 24 15:24 UTC\
+Tested At: 26 Aug 24 17:44 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -402 day(s)\
+Remaining Validity Period: -406 day(s)\
 Subject: CN=SHAKEN 2252, O=Vantage Point Solutions\\ , C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/b0b715fe-25e1-4ac9-97a4-c4334ef5ae19/7c095c15f08f7fece98857c4d7e59e7c.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/b0b715fe-25e1-4ac9-97a4-c4334ef5ae19/7c09
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

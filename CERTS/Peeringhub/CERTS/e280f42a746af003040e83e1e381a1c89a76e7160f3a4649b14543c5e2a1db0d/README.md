@@ -2,9 +2,9 @@
 
 ## Certificate Instacall SHAKEN 281K
 
-Tested At: 22 Aug 24 15:27 UTC\
+Tested At: 26 Aug 24 17:44 UTC\
 Initial Validity Period: 349 day(s)\
-Remaining Validity Period: 154 day(s)\
+Remaining Validity Period: 150 day(s)\
 Subject: CN=Instacall SHAKEN 281K, O=Instacall, L=Wilmington, ST=DE, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://certificates.peeringhub.io/281K/281K.crt
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/281K/281K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

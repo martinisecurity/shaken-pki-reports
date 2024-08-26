@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 284K
 
-Tested At: 22 Aug 24 15:18 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -2 day(s)\
+Remaining Validity Period: -7 day(s)\
 Subject: CN=SHAKEN 284K, O=VoiceLift\\, Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/21415d15-f5d7-4c58-abe7-c434ef2bae36/2ba4e687a1b8b92e5b7498e01575d93b.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/21415d15-f5d7-4c58-abe7-c434ef2bae36/2ba4
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

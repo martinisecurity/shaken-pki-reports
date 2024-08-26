@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 726J
 
-Tested At: 22 Aug 24 15:23 UTC\
+Tested At: 26 Aug 24 17:44 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -394 day(s)\
+Remaining Validity Period: -398 day(s)\
 Subject: CN=SHAKEN 726J, O=Votacall Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/88dbb645-62bf-4d40-960c-4e8e3223880f/36603858864ab8dd29091307645fb927.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/88dbb645-62bf-4d40-960c-4e8e3223880f/3660
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

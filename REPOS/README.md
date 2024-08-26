@@ -4,36 +4,36 @@
 
 ### All Repository URLs
 
-- 13086 repository URLs were included in the corpus being tested
-- 932 repository URLs in the corpus were skipped because they were duplicated
-- 12154 repository URLs being tested against the remaining rules
-- 2.30 issues on average found in non-compliant certificate repository URLs
-- 32.46% of repository URLs contain one or more Error level issue
-- 30.99% of repository URLs contain one or more Warning level issue
+- 14720 repository URLs were included in the corpus being tested
+- 1503 repository URLs in the corpus were skipped because they were duplicated
+- 13217 repository URLs being tested against the remaining rules
+- 2.32 issues on average found in non-compliant certificate repository URLs
+- 30.10% of repository URLs contain one or more Error level issue
+- 28.92% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 110ms average time it took to download each certificate
+- 62ms average time it took to download each certificate
 
 ### CA Operated Repository URLs
 
-- 12410 repository URLs were included in the corpus being tested
-- 781 repository URLs in the corpus were skipped because they were duplicated
-- 11629 repository URLs being tested against the remaining rules
+- 14036 repository URLs were included in the corpus being tested
+- 1348 repository URLs in the corpus were skipped because they were duplicated
+- 12688 repository URLs being tested against the remaining rules
 - 2.33 issues on average found in non-compliant certificate repository URLs
-- 29.91% of repository URLs contain one or more Error level issue
-- 28.78% of repository URLs contain one or more Warning level issue
+- 27.64% of repository URLs contain one or more Error level issue
+- 26.58% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 99ms average time it took to download each certificate
+- 55ms average time it took to download each certificate
 
 ### Service Provider Operated Repository URLs
 
-- 676 repository URLs were included in the corpus being tested
-- 151 repository URLs in the corpus were skipped because they were duplicated
-- 525 repository URLs being tested against the remaining rules
-- 2.10 issues on average found in non-compliant certificate repository URLs
-- 88.95% of repository URLs contain one or more Error level issue
-- 79.81% of repository URLs contain one or more Warning level issue
+- 684 repository URLs were included in the corpus being tested
+- 155 repository URLs in the corpus were skipped because they were duplicated
+- 529 repository URLs being tested against the remaining rules
+- 2.24 issues on average found in non-compliant certificate repository URLs
+- 89.04% of repository URLs contain one or more Error level issue
+- 85.07% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 371ms average time it took to download each certificate
+- 234ms average time it took to download each certificate
 
 ## Details
 
@@ -41,16 +41,16 @@
 
 | Issuers | Certificates | Errors | Warnings | Notices |
 |----|--------------|--------|----------|---------|
-| [Comcast](ISSUERS/CA/Comcast/README.md) | 741 (6.37%) | 713 (96.22%) | 619 (83.54%) | 0 (0.00%) |
-| [Martini Security](ISSUERS/CA/Martini_Security/README.md) | 1443 (12.41%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Metaswitch](ISSUERS/CA/Metaswitch/README.md) | 36 (0.31%) | 36 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Neustar](ISSUERS/CA/Neustar/README.md) | 121 (1.04%) | 121 (100.00%) | 121 (100.00%) | 0 (0.00%) |
-| [Peeringhub](ISSUERS/CA/Peeringhub/README.md) | 48 (0.41%) | 48 (100.00%) | 48 (100.00%) | 0 (0.00%) |
-| [Ribbon Communications](ISSUERS/CA/Ribbon_Communications/README.md) | 62 (0.53%) | 62 (100.00%) | 62 (100.00%) | 0 (0.00%) |
-| [Sansay](ISSUERS/CA/Sansay/README.md) | 2494 (21.45%) | 2494 (100.00%) | 2493 (99.96%) | 0 (0.00%) |
+| [Comcast](ISSUERS/CA/Comcast/README.md) | 747 (5.89%) | 717 (95.98%) | 619 (82.86%) | 0 (0.00%) |
+| [Martini Security](ISSUERS/CA/Martini_Security/README.md) | 2384 (18.79%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Metaswitch](ISSUERS/CA/Metaswitch/README.md) | 36 (0.28%) | 36 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Neustar](ISSUERS/CA/Neustar/README.md) | 121 (0.95%) | 121 (100.00%) | 121 (100.00%) | 0 (0.00%) |
+| [Peeringhub](ISSUERS/CA/Peeringhub/README.md) | 49 (0.39%) | 49 (100.00%) | 49 (100.00%) | 0 (0.00%) |
+| [Ribbon Communications](ISSUERS/CA/Ribbon_Communications/README.md) | 62 (0.49%) | 62 (100.00%) | 62 (100.00%) | 0 (0.00%) |
+| [Sansay](ISSUERS/CA/Sansay/README.md) | 2518 (19.85%) | 2518 (100.00%) | 2518 (100.00%) | 0 (0.00%) |
 | [T-Mobile](ISSUERS/CA/T-Mobile/README.md) | 4 (0.03%) | 4 (100.00%) | 4 (100.00%) | 0 (0.00%) |
-| [TransNexus](ISSUERS/CA/TransNexus/README.md) | 6680 (57.44%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
-| **Total** | 11629 (100.00%) | 3478 (29.91%) | 3347 (28.78%) | 0 (0.00%) |
+| [TransNexus](ISSUERS/CA/TransNexus/README.md) | 6767 (53.33%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
+| **Total** | 12688 (100.00%) | 3507 (27.64%) | 3373 (26.58%) | 0 (0.00%) |
 
 ### Service Provider Operated Repository URLs
 
@@ -64,8 +64,8 @@
 | [AM Communications Labs Inc](ISSUERS/SP/AM_Communications_Labs_Inc/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [ANI Networks](ISSUERS/SP/ANI_Networks/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [AT&T Services, Inc.](ISSUERS/SP/AT&T_Services__Inc_/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [ATT](ISSUERS/SP/ATT/README.md) | 2 (0.38%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
-| [ATT SHAKEN E-E](ISSUERS/SP/ATT_SHAKEN_E-E/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
+| [ATT](ISSUERS/SP/ATT/README.md) | 3 (0.57%) | 3 (100.00%) | 3 (100.00%) | 0 (0.00%) |
+| [ATT SHAKEN E-E](ISSUERS/SP/ATT_SHAKEN_E-E/README.md) | 2 (0.38%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
 | [AU TELECOM LLC](ISSUERS/SP/AU_TELECOM_LLC/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [AU Telecom](ISSUERS/SP/AU_Telecom/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [AccessLine Communications Inc](ISSUERS/SP/AccessLine_Communications_Inc/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -104,10 +104,11 @@
 | [Business Telecommunications Services Inc](ISSUERS/SP/Business_Telecommunications_Services_Inc/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [CAS Cable](ISSUERS/SP/CAS_Cable/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [CBTS Technology Solutions LLC](ISSUERS/SP/CBTS_Technology_Solutions_LLC/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
+| [CH22082024 688K](ISSUERS/SP/CH22082024_688K/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [CMSInter.net LLC](ISSUERS/SP/CMSInter_net_LLC/README.md) | 2 (0.38%) | 0 (0.00%) | 2 (100.00%) | 0 (0.00%) |
 | [COMMTRUNK LLC](ISSUERS/SP/COMMTRUNK_LLC/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [CTS Telecom, Inc](ISSUERS/SP/CTS_Telecom__Inc/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [Call Hub Inc.](ISSUERS/SP/Call_Hub_Inc_/README.md) | 3 (0.57%) | 3 (100.00%) | 3 (100.00%) | 0 (0.00%) |
+| [Call Hub Inc.](ISSUERS/SP/Call_Hub_Inc_/README.md) | 2 (0.38%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
 | [Carolina West Wireless](ISSUERS/SP/Carolina_West_Wireless/README.md) | 2 (0.38%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
 | [Carrier Connect Corp](ISSUERS/SP/Carrier_Connect_Corp/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Cebod Technologies LLC](ISSUERS/SP/Cebod_Technologies_LLC/README.md) | 1 (0.19%) | 0 (0.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -117,12 +118,12 @@
 | [Charter Communications, LLC](ISSUERS/SP/Charter_Communications__LLC/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [ChoiceTEL](ISSUERS/SP/ChoiceTEL/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Clearly IP](ISSUERS/SP/Clearly_IP/README.md) | 2 (0.38%) | 2 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Clearly IP Inc](ISSUERS/SP/Clearly_IP_Inc/README.md) | 1 (0.19%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Clearly IP Inc](ISSUERS/SP/Clearly_IP_Inc/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Clearwave Communications](ISSUERS/SP/Clearwave_Communications/README.md) | 2 (0.38%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
 | [Cloud Connect LLC](ISSUERS/SP/Cloud_Connect_LLC/README.md) | 0 (0.00%) | 0 (NaN%) | 0 (NaN%) | 0 (NaN%) |
 | [Coastal Redwood Networks LLC](ISSUERS/SP/Coastal_Redwood_Networks_LLC/README.md) | 1 (0.19%) | 0 (0.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Come 2 LLC](ISSUERS/SP/Come_2_LLC/README.md) | 2 (0.38%) | 0 (0.00%) | 2 (100.00%) | 0 (0.00%) |
-| [CommPeak Limited](ISSUERS/SP/CommPeak_Limited/README.md) | 2 (0.38%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
+| [CommPeak Limited](ISSUERS/SP/CommPeak_Limited/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Commio](ISSUERS/SP/Commio/README.md) | 2 (0.38%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
 | [Consolidated Telcom ND](ISSUERS/SP/Consolidated_Telcom_ND/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Contact Center Specialists LLC](ISSUERS/SP/Contact_Center_Specialists_LLC/README.md) | 3 (0.57%) | 3 (100.00%) | 3 (100.00%) | 0 (0.00%) |
@@ -134,7 +135,7 @@
 | [Crosstel Tandem Inc Holston](ISSUERS/SP/Crosstel_Tandem_Inc_Holston/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Crosstel Tandem Inc SEPB](ISSUERS/SP/Crosstel_Tandem_Inc_SEPB/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Cspire](ISSUERS/SP/Cspire/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [DIDCentral LLC](ISSUERS/SP/DIDCentral_LLC/README.md) | 11 (2.10%) | 11 (100.00%) | 11 (100.00%) | 0 (0.00%) |
+| [DIDCentral LLC](ISSUERS/SP/DIDCentral_LLC/README.md) | 11 (2.08%) | 11 (100.00%) | 11 (100.00%) | 0 (0.00%) |
 | [Dialect LLC](ISSUERS/SP/Dialect_LLC/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Dialpad Inc](ISSUERS/SP/Dialpad_Inc/README.md) | 1 (0.19%) | 0 (0.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Dialpad Inc.](ISSUERS/SP/Dialpad_Inc_/README.md) | 1 (0.19%) | 0 (0.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -144,6 +145,7 @@
 | [Drop Inc](ISSUERS/SP/Drop_Inc/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Duo Broadband](ISSUERS/SP/Duo_Broadband/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [ENA](ISSUERS/SP/ENA/README.md) | 2 (0.38%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
+| [EON Telecom Inc.](ISSUERS/SP/EON_Telecom_Inc_/README.md) | 0 (0.00%) | 0 (NaN%) | 0 (NaN%) | 0 (NaN%) |
 | [Eatel](ISSUERS/SP/Eatel/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Edify](ISSUERS/SP/Edify/README.md) | 2 (0.38%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
 | [Electric Power Board of Chattanooga dba EPB Telecom](ISSUERS/SP/Electric_Power_Board_of_Chattanooga_dba_EPB_Telecom/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -161,7 +163,7 @@
 | [Fibernetics](ISSUERS/SP/Fibernetics/README.md) | 3 (0.57%) | 3 (100.00%) | 3 (100.00%) | 0 (0.00%) |
 | [Fidelity Communications](ISSUERS/SP/Fidelity_Communications/README.md) | 2 (0.38%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
 | [Five Area Telephone Cooperative](ISSUERS/SP/Five_Area_Telephone_Cooperative/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [Five9 Inc](ISSUERS/SP/Five9_Inc/README.md) | 2 (0.38%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
+| [Five9 Inc](ISSUERS/SP/Five9_Inc/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Flow VOIP LLC.](ISSUERS/SP/Flow_VOIP_LLC_/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Foothills Rural Tel](ISSUERS/SP/Foothills_Rural_Tel/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [FracTEL LLC](ISSUERS/SP/FracTEL_LLC/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -174,10 +176,10 @@
 | [GoTo Communication](ISSUERS/SP/GoTo_Communication/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Google](ISSUERS/SP/Google/README.md) | 4 (0.76%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
 | [Google Voice Canada Corporation](ISSUERS/SP/Google_Voice_Canada_Corporation/README.md) | 1 (0.19%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Google Voice Inc.](ISSUERS/SP/Google_Voice_Inc_/README.md) | 26 (4.95%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
+| [Google Voice Inc.](ISSUERS/SP/Google_Voice_Inc_/README.md) | 26 (4.91%) | 0 (0.00%) | 0 (0.00%) | 0 (0.00%) |
 | [Grasshopper Group LLC](ISSUERS/SP/Grasshopper_Group_LLC/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [HAZTEL INC.](ISSUERS/SP/HAZTEL_INC_/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [HD CARRIER LLC](ISSUERS/SP/HD_CARRIER_LLC/README.md) | 23 (4.38%) | 23 (100.00%) | 23 (100.00%) | 0 (0.00%) |
+| [HAZTEL INC.](ISSUERS/SP/HAZTEL_INC_/README.md) | 2 (0.38%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
+| [HD CARRIER LLC](ISSUERS/SP/HD_CARRIER_LLC/README.md) | 23 (4.35%) | 23 (100.00%) | 23 (100.00%) | 0 (0.00%) |
 | [Hadlo Technologies](ISSUERS/SP/Hadlo_Technologies/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Hawaiian Telcom](ISSUERS/SP/Hawaiian_Telcom/README.md) | 2 (0.38%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
 | [Highland Telephone Cooperative](ISSUERS/SP/Highland_Telephone_Cooperative/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -195,6 +197,7 @@
 | [Kaplan Telephone](ISSUERS/SP/Kaplan_Telephone/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [KonnectTel LLC](ISSUERS/SP/KonnectTel_LLC/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [LP Telecom](ISSUERS/SP/LP_Telecom/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
+| [Latam Telecommunications LLC](ISSUERS/SP/Latam_Telecommunications_LLC/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [LiveVox Inc](ISSUERS/SP/LiveVox_Inc/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Losh Communications, Inc](ISSUERS/SP/Losh_Communications__Inc/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Lynktel](ISSUERS/SP/Lynktel/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -210,10 +213,10 @@
 | [Miami Telecom](ISSUERS/SP/Miami_Telecom/README.md) | 2 (0.38%) | 0 (0.00%) | 2 (100.00%) | 0 (0.00%) |
 | [Microtalk USA Inc](ISSUERS/SP/Microtalk_USA_Inc/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Microtalk USA, Inc.](ISSUERS/SP/Microtalk_USA__Inc_/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [NGN LATAM Corp](ISSUERS/SP/NGN_LATAM_Corp/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
+| [NGN LATAM Corp](ISSUERS/SP/NGN_LATAM_Corp/README.md) | 2 (0.38%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
 | [Nemont](ISSUERS/SP/Nemont/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Net Speak Pro LLC](ISSUERS/SP/Net_Speak_Pro_LLC/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [New Age Consulting Service, Inc.](ISSUERS/SP/New_Age_Consulting_Service__Inc_/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
+| [New Age Consulting Service, Inc.](ISSUERS/SP/New_Age_Consulting_Service__Inc_/README.md) | 2 (0.38%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
 | [New Horizon](ISSUERS/SP/New_Horizon/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [New Horizon Communications](ISSUERS/SP/New_Horizon_Communications/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Nex-Tech Wireless](ISSUERS/SP/Nex-Tech_Wireless/README.md) | 2 (0.38%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
@@ -243,9 +246,10 @@
 | [Range Telecom](ISSUERS/SP/Range_Telecom/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [RingCentral](ISSUERS/SP/RingCentral/README.md) | 0 (0.00%) | 0 (NaN%) | 0 (NaN%) | 0 (NaN%) |
 | [Ritter Communications](ISSUERS/SP/Ritter_Communications/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [Rogers Communications Inc](ISSUERS/SP/Rogers_Communications_Inc/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
+| [Rogers Communications Inc](ISSUERS/SP/Rogers_Communications_Inc/README.md) | 2 (0.38%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
 | [Rscom LTD](ISSUERS/SP/Rscom_LTD/README.md) | 2 (0.38%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
 | [SHAKEN 6349](ISSUERS/SP/SHAKEN_6349/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
+| [SIP Crew LLC](ISSUERS/SP/SIP_Crew_LLC/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [SIPNEX Telecom LLC](ISSUERS/SP/SIPNEX_Telecom_LLC/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Segra](ISSUERS/SP/Segra/README.md) | 2 (0.38%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
 | [Simwood Inc](ISSUERS/SP/Simwood_Inc/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -286,8 +290,8 @@
 | [USCC](ISSUERS/SP/USCC/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Unified Office Inc](ISSUERS/SP/Unified_Office_Inc/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Union Telephone Company](ISSUERS/SP/Union_Telephone_Company/README.md) | 2 (0.38%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
-| [United Technology Group, Inc](ISSUERS/SP/United_Technology_Group__Inc/README.md) | 1 (0.19%) | 1 (100.00%) | 0 (0.00%) | 0 (0.00%) |
-| [Unknown](ISSUERS/SP/Unknown/README.md) | 136 (25.90%) | 136 (100.00%) | 66 (48.53%) | 0 (0.00%) |
+| [United Technology Group, Inc](ISSUERS/SP/United_Technology_Group__Inc/README.md) | 0 (0.00%) | 0 (NaN%) | 0 (NaN%) | 0 (NaN%) |
+| [Unknown](ISSUERS/SP/Unknown/README.md) | 130 (24.57%) | 130 (100.00%) | 85 (65.38%) | 0 (0.00%) |
 | [Utility Telecom Group, LLC](ISSUERS/SP/Utility_Telecom_Group__LLC/README.md) | 2 (0.38%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
 | [VOIP ESSENTIAL INC](ISSUERS/SP/VOIP_ESSENTIAL_INC/README.md) | 0 (0.00%) | 0 (NaN%) | 0 (NaN%) | 0 (NaN%) |
 | [VOIP ESSENTIAL LLC](ISSUERS/SP/VOIP_ESSENTIAL_LLC/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -318,11 +322,12 @@
 | [Whidbey Telephone Company](ISSUERS/SP/Whidbey_Telephone_Company/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Whisl Telecom LLC](ISSUERS/SP/Whisl_Telecom_LLC/README.md) | 2 (0.38%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
 | [Whitesky Communications LLC](ISSUERS/SP/Whitesky_Communications_LLC/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
+| [XCast Labs](ISSUERS/SP/XCast_Labs/README.md) | 5 (0.95%) | 5 (100.00%) | 5 (100.00%) | 0 (0.00%) |
 | [Yelcot](ISSUERS/SP/Yelcot/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Ytel Inc.](ISSUERS/SP/Ytel_Inc_/README.md) | 0 (0.00%) | 0 (NaN%) | 0 (NaN%) | 0 (NaN%) |
 | [Zultys Inc](ISSUERS/SP/Zultys_Inc/README.md) | 3 (0.57%) | 3 (100.00%) | 3 (100.00%) | 0 (0.00%) |
 | [commio](ISSUERS/SP/commio/README.md) | 1 (0.19%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| **Total** | 525 (100.00%) | 467 (88.95%) | 419 (79.81%) | 0 (0.00%) |
+| **Total** | 529 (100.00%) | 471 (89.04%) | 450 (85.07%) | 0 (0.00%) |
 
 ### Key
 
@@ -333,4 +338,4 @@
 | Notices | Tests in which industry best practices are not followed. |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

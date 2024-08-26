@@ -20,4 +20,4 @@ No error, warning, or notice level issues were found
 | error | Telonium STI-CA Root2 | [view](../../CERTS/a58b27999411d3d54121d4eadc82aa128be1fef96cda3029b2015677188ea40b/README.md) | Common Name attribute 'Telonium STI-CA Root2' does not include the text string 'ROOT' (case insensitive). |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://sip.gnvoip.net:5000/stirshaken_certs/665K.crt`\
-Tested At: 22 Aug 24 15:37 UTC\
-Time: 255ms
+Tested At: 26 Aug 24 17:57 UTC\
+Time: 231ms
 
 ### Issues
 
@@ -16,4 +16,4 @@ Time: 255ms
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 | [w_atis_protocol](../../ISSUES/w_atis_protocol/README.md) | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

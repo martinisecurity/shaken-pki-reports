@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://dial.maqssolution.live/255KN22.pem`\
-Tested At: 22 Aug 24 15:33 UTC\
-Time: 10ms
+Tested At: 26 Aug 24 17:49 UTC\
+Time: 6ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 10ms
 |------|------|--------|---------|
 | [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "https://dial.maqssolution.live/255KN22.pem": dial tcp: lookup dial.maqssolution.live: no such host |
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

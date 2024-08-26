@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 390B
 
-Tested At: 22 Aug 24 15:22 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -30 day(s)\
+Remaining Validity Period: -34 day(s)\
 Subject: CN=SHAKEN 390B, O=Dobson Fiber, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/6df3ae82-19a8-42af-a64c-be92ded2eea6/55c3f8ce93ff61c9d1610644c9ccdfea.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/6df3ae82-19a8-42af-a64c-be92ded2eea6/55c3
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

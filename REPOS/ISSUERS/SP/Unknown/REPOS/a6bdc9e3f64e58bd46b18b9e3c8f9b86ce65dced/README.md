@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://cdn.cnxcdn.com/shaken/d20f2bf9ad.crt`\
-Tested At: 22 Aug 24 15:16 UTC\
-Time: 198ms
+Tested At: 26 Aug 24 17:43 UTC\
+Time: 209ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 198ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

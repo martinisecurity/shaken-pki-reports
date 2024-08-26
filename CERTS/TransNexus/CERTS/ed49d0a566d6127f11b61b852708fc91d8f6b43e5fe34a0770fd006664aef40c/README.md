@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 324K
 
-Tested At: 22 Aug 24 15:24 UTC\
+Tested At: 26 Aug 24 17:44 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -87 day(s)\
+Remaining Validity Period: -92 day(s)\
 Subject: CN=SHAKEN 324K, O=Complete Computer Solutions, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/abec0c83-e51d-4f69-927f-9ac7d5f33a5e/96069bd0f7f53bcbe2fed42b8365fdb6.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/abec0c83-e51d-4f69-927f-9ac7d5f33a5e/9606
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

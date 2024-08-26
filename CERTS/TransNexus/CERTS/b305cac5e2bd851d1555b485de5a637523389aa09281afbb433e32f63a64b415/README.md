@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 538K
 
-Tested At: 22 Aug 24 15:22 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -258 day(s)\
+Remaining Validity Period: -263 day(s)\
 Subject: CN=SHAKEN 538K, O=Bespoke Communications\\, LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/75efec9a-2f90-4c9f-a1dc-edbbb8c364b7/ae7ff3868b1208caaf0adb4508316caa.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/75efec9a-2f90-4c9f-a1dc-edbbb8c364b7/ae7f
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

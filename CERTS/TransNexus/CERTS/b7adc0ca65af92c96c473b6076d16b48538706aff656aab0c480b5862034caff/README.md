@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 735J
 
-Tested At: 22 Aug 24 15:17 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -13 day(s)\
+Remaining Validity Period: -17 day(s)\
 Subject: CN=SHAKEN 735J, O=AVOXI Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/11124177-79f3-48b2-867a-386d4dc61c99/12be99c04673288f40dd82ec317ebb70.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/11124177-79f3-48b2-867a-386d4dc61c99/12be
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

@@ -3,11 +3,11 @@
 ## Martini Security
 
 Name: `https://p.mtsec.me/2884/C2OSzY9n0yWl.pem`\
-Tested At: 22 Aug 24 15:34 UTC\
-Time: 157ms
+Tested At: 26 Aug 24 17:49 UTC\
+Time: 145ms
 
 ### Issues
 
 no warning, or error, or notice date level issues were found
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

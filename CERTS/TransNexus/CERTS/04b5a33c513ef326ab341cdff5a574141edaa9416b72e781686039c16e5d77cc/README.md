@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0315
 
-Tested At: 22 Aug 24 15:25 UTC\
+Tested At: 26 Aug 24 17:44 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -63 day(s)\
+Remaining Validity Period: -68 day(s)\
 Subject: CN=SHAKEN 0315, O=Pine Belt Telephone Co. Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/c7e51846-5f04-439a-a942-5b8110a4cbfb/cf8fac6ccf6886e4c37486bbdbd3026e.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/c7e51846-5f04-439a-a942-5b8110a4cbfb/cf8f
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

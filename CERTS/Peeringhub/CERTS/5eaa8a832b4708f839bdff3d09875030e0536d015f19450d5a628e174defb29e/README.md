@@ -2,9 +2,9 @@
 
 ## Certificate VaultTel Solutions Inc_1720802660210 SHAKEN 811K
 
-Tested At: 22 Aug 24 15:16 UTC\
+Tested At: 26 Aug 24 17:42 UTC\
 Initial Validity Period: 349 day(s)\
-Remaining Validity Period: 308 day(s)\
+Remaining Validity Period: 304 day(s)\
 Subject: CN=VaultTel Solutions Inc_1720802660210 SHAKEN 811K, O=VaultTel Solutions Inc, L=Washington, ST=DC, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://cdn.cnxcdn.com/shaken/b52cc7c2ce.crt
@@ -14,4 +14,4 @@ Link: https://cdn.cnxcdn.com/shaken/b52cc7c2ce.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

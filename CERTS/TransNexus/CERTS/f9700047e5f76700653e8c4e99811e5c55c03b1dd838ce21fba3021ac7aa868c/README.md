@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 226K
 
-Tested At: 22 Aug 24 15:19 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -585 day(s)\
+Remaining Validity Period: -590 day(s)\
 Subject: CN=SHAKEN 226K, O=Big Fish Voice\\, LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/2e6d4126-e711-41e1-ab9a-1fcdf4f21aec/0b5b136e863fac16f578d7e4ecd107e2.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/2e6d4126-e711-41e1-ab9a-1fcdf4f21aec/0b5b
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

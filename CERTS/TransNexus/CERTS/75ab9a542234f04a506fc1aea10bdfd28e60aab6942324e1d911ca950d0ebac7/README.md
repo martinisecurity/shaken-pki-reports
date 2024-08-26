@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 755K
 
-Tested At: 22 Aug 24 15:26 UTC\
+Tested At: 26 Aug 24 17:44 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -247 day(s)\
+Remaining Validity Period: -252 day(s)\
 Subject: CN=SHAKEN 755K, O=Brightridge Broadband, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/ee50b256-f0fb-4733-8444-bfa453d1b53d/1ebd746b5e96e336102f61edb60aae5a.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/ee50b256-f0fb-4733-8444-bfa453d1b53d/1ebd
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

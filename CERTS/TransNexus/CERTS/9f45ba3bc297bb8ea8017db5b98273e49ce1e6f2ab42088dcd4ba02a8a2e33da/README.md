@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 967J
 
-Tested At: 22 Aug 24 15:21 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -396 day(s)\
+Remaining Validity Period: -401 day(s)\
 Subject: CN=SHAKEN 967J, O=BizVox Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/61b8053c-9172-4e1a-8330-440f72f3a3cd/b1b7d3b07e9d29e7e937b1e098e91de0.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/61b8053c-9172-4e1a-8330-440f72f3a3cd/b1b7
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

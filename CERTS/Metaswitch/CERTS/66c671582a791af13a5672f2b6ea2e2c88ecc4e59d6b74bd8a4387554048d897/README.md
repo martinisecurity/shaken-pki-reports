@@ -2,9 +2,9 @@
 
 ## Certificate Hawaiian Telcom SHAKEN 009G
 
-Tested At: 22 Aug 24 15:16 UTC\
+Tested At: 26 Aug 24 17:42 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 1010 day(s)\
+Remaining Validity Period: 1006 day(s)\
 Subject: CN=Hawaiian Telcom SHAKEN 009G, O=Hawaiian Telcom, C=US\
 Issuer: O=Metaswitch Networks, C=GB, CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/e41b2df552e335b829a64d4d88a3bf63bb39b248
@@ -16,4 +16,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/e41b2df552e335b829a64d4d88a3bf63bb39b24
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

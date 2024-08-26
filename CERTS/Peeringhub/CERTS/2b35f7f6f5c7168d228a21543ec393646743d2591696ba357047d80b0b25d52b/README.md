@@ -2,9 +2,9 @@
 
 ## Certificate Legrand Telecom SHAKEN 670K
 
-Tested At: 22 Aug 24 15:27 UTC\
+Tested At: 26 Aug 24 17:44 UTC\
 Initial Validity Period: 31 day(s)\
-Remaining Validity Period: -267 day(s)\
+Remaining Validity Period: -271 day(s)\
 Subject: CN=Legrand Telecom SHAKEN 670K, O=Legrand Telecom, L=Phoenix, ST=AZ, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://certificates.peeringhub.io/670K/670K.crt
@@ -16,4 +16,4 @@ Link: https://certificates.peeringhub.io/670K/670K.crt
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

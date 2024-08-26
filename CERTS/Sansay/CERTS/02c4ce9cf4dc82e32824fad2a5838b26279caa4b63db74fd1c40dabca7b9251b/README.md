@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Broadband Dynamics LLC 583j
 
-Tested At: 22 Aug 24 15:31 UTC\
+Tested At: 26 Aug 24 17:48 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 127 day(s)\
+Remaining Validity Period: 123 day(s)\
 Subject: CN=SHAKEN Broadband Dynamics LLC 583j, OU=Operations, O=Broadband Dynamics LLC, ST=Arizona, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/583j_BROADBAND_DYNAMICS_STIR_SHAKEN_122723.crt
@@ -13,9 +13,9 @@ Link: https://cr.sansay.com/583j_BROADBAND_DYNAMICS_STIR_SHAKEN_122723.crt
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
-| [e_atis_tn_auth_list_spc_format](../../ISSUES/e_atis_tn_auth_list_spc_format/README.md) | error | ATIS1000080 | the SPC value '583j' contains characters other than uppercase letters and numbers |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 583j', but common name is 'SHAKEN Broadband Dynamics LLC 583j' |
+| [e_atis_tn_auth_list_spc_format](../../ISSUES/e_atis_tn_auth_list_spc_format/README.md) | error | ATIS1000080 | the SPC value '583j' contains characters other than uppercase letters and numbers |
+| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

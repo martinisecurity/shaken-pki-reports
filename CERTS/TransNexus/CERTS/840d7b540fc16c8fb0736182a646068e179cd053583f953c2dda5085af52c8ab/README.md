@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 604K
 
-Tested At: 22 Aug 24 15:22 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -331 day(s)\
+Remaining Validity Period: -335 day(s)\
 Subject: CN=SHAKEN 604K, O=In-Telecom, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/7f737783-bafd-48a8-a8f8-a4781781e950/116aeb6564dac0d7bdf7964befeae216.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/7f737783-bafd-48a8-a8f8-a4781781e950/116a
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

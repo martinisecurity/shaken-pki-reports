@@ -3,8 +3,8 @@
 ## Losh Communications, Inc
 
 Name: `https://nyc01.trunks2.calldecibel.com:5000/stirshaken_certs/149K.pem`\
-Tested At: 22 Aug 24 15:33 UTC\
-Time: 631ms
+Tested At: 26 Aug 24 17:49 UTC\
+Time: 324ms
 
 ### Issues
 
@@ -14,4 +14,4 @@ Time: 631ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_protocol](../../ISSUES/w_atis_protocol/README.md) | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

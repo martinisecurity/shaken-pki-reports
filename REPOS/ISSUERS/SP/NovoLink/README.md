@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 340ms average time it took to download each certificate
+- 355ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -22,4 +22,4 @@
 | `http://sti.novolink.net/crypt/sti-shaken.crt` | 14&#160;Apr&#160;25&#160;22:26&#160;UTC | true | [view](REPOS/e89ebbbc2418de8848df85a11db2f3b9724c0087/README.md) |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

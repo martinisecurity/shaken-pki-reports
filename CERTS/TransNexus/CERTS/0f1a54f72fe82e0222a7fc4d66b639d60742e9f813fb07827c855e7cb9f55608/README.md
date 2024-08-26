@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 819H
 
-Tested At: 22 Aug 24 15:20 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -493 day(s)\
+Remaining Validity Period: -497 day(s)\
 Subject: CN=SHAKEN 819H, O=BluIP Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/3c4ce448-386b-4d47-a276-7fe32e380a83/9add524de5d9cfdc9f597b26122a594c.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/3c4ce448-386b-4d47-a276-7fe32e380a83/9add
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

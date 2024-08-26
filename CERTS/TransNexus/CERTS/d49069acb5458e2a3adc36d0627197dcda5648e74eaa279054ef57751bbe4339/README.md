@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 594J
 
-Tested At: 22 Aug 24 15:18 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -262 day(s)\
+Remaining Validity Period: -266 day(s)\
 Subject: CN=SHAKEN 594J, O=Carolina Digital, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/14652271-f2ba-4197-87c0-704f8c618e4b/ca76c06c61c7141f231c29b133dee5ff.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/14652271-f2ba-4197-87c0-704f8c618e4b/ca76
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

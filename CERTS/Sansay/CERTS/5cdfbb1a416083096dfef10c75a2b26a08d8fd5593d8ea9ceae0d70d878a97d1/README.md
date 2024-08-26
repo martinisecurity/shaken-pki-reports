@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Every1 Telecom 486K
 
-Tested At: 22 Aug 24 15:37 UTC\
+Tested At: 26 Aug 24 17:57 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -157 day(s)\
+Remaining Validity Period: -161 day(s)\
 Subject: CN=SHAKEN Every1 Telecom 486K, OU=President, O=Every1 Telecom, ST=Texas, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://ssc.getsipnav.com/certs/151999133200d5cd3cac1e5d07af806d25ef74f4
@@ -13,8 +13,8 @@ Link: https://ssc.getsipnav.com/certs/151999133200d5cd3cac1e5d07af806d25ef74f4
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 486K', but common name is 'SHAKEN Every1 Telecom 486K' |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 486K', but common name is 'SHAKEN Every1 Telecom 486K' |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

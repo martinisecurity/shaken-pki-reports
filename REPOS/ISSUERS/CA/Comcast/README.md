@@ -2,18 +2,18 @@
 
 ## Comcast
 
-- 741 repository URLs were included in the corpus being tested
+- 747 repository URLs were included in the corpus being tested
 - 0 repository URLs in the corpus were skipped because they were duplicated
-- 741 repository URLs being tested against the remaining rules
-- 3.60 issues on average found in non-compliant certificate repository URLs
-- 96.22% of repository URLs contain one or more Error level issue
-- 83.54% of repository URLs contain one or more Warning level issue
+- 747 repository URLs being tested against the remaining rules
+- 3.59 issues on average found in non-compliant certificate repository URLs
+- 95.98% of repository URLs contain one or more Error level issue
+- 82.86% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
 - 155ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 713 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
+| 717 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
 | 619 | [e_http_status_200](ISSUES/e_http_status_200/README.md) | HTTP |
 | 619 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 | 619 | [w_atis_pem_certificate_chain](ISSUES/w_atis_pem_certificate_chain/README.md) | ATIS-1000080 |
@@ -126,6 +126,7 @@
 | `https://sticr.stir.comcast.com/2657e154-7300-4079-9ce4-6200f80cc110.cer` |  | true | [view](REPOS/83188f5305f4e09ad5582a9dbc3cebe4d80189bb/README.md) |
 | `https://sticr.stir.comcast.com/265871bf-a522-4d3f-9ddb-316853c50dda.cer` |  | true | [view](REPOS/bf42d3c48390723f5bb39f1dd9062ce34c76a4bb/README.md) |
 | `https://sticr.stir.comcast.com/27482ff4-ba02-4419-8562-6af6276550cd.cer` |  | true | [view](REPOS/11a5ca609588889a979b494ca8fb0297fd65eb28/README.md) |
+| `https://sticr.stir.comcast.com/289ba7e8-b00c-4ca0-be13-8d0988e38215.pem` | 20&#160;Sep&#160;24&#160;20:55&#160;UTC | false | [view](REPOS/d28323ce7993488a9f995a319ad8983d99fcd4b6/README.md) |
 | `https://sticr.stir.comcast.com/28ad7b45-d26e-44f9-9e94-956be1447094.cer` |  | true | [view](REPOS/349609e72ffae1b28e5b5ee54018087598170faf/README.md) |
 | `https://sticr.stir.comcast.com/294ac917-7130-4af4-890c-1b43beb50d8b.cer` |  | true | [view](REPOS/597c95a66e39646c6d4b8021f03e9359abe0ea7f/README.md) |
 | `https://sticr.stir.comcast.com/29c105c7-8a9d-4be2-8f0a-c32dd14e717c.pem` | 15&#160;Jun&#160;24&#160;08:59&#160;UTC | true | [view](REPOS/9a8b7183e361f4674860fa6c8312818b9d9986bc/README.md) |
@@ -151,6 +152,7 @@
 | `https://sticr.stir.comcast.com/2f9a70b9-e914-441c-8b80-9c233ad370c6.cer` |  | true | [view](REPOS/fb46f7305e8cbbd2bdecf16cae135682c7e201ff/README.md) |
 | `https://sticr.stir.comcast.com/2f9f9838-5f96-4ae6-8c68-8fdc3e9a5b0f.pem` | 05&#160;Jun&#160;24&#160;08:59&#160;UTC | true | [view](REPOS/6588789c3d85fb3ace3f49cfa40eb8572d966886/README.md) |
 | `https://sticr.stir.comcast.com/2fb1f7fc-7b6d-45f3-be9d-42e86bb08c46.cer` |  | true | [view](REPOS/4a5da45caf14882d3ac869f9da700d3442888a64/README.md) |
+| `https://sticr.stir.comcast.com/305588b7-c957-4666-81d4-cb6e60ed6f17.pem` | 24&#160;Sep&#160;24&#160;20:55&#160;UTC | false | [view](REPOS/bda230c3146235f53cf4afb44503100399091c01/README.md) |
 | `https://sticr.stir.comcast.com/307bbf0e-29f2-463e-bb39-d9486d417aaf.cer` |  | true | [view](REPOS/e24621d1b9e5ff168df6c4153ef6c6c1d18b6434/README.md) |
 | `https://sticr.stir.comcast.com/307fe7ba-4dc0-414e-a845-84c38258a43a.cer` |  | true | [view](REPOS/584ef98bd81e164d824e764ba351e732589e391f/README.md) |
 | `https://sticr.stir.comcast.com/30f3ec66-d05a-4e7f-b985-4d5746f0ef56.cer` |  | true | [view](REPOS/03f149533f216646c9636ef54fceda53b3d3757c/README.md) |
@@ -231,7 +233,7 @@
 | `https://sticr.stir.comcast.com/4b595a03-5d55-4c0a-ad6f-25089475f2b3.pem` | 20&#160;Jun&#160;24&#160;19:03&#160;UTC | true | [view](REPOS/8666d07f4325d2be3b710ffacd5212dd9eb0d044/README.md) |
 | `https://sticr.stir.comcast.com/4b8fdb52-9c97-4e55-92e2-e70b0b7e9e76.cer` |  | true | [view](REPOS/2b23b78077148df5ec00b2f11b2ce42e22a93032/README.md) |
 | `https://sticr.stir.comcast.com/4bfe0e56-0314-4d7a-b12b-27fd16a8664b.cer` |  | true | [view](REPOS/2bc86f04435dce604a3b6040762dfc43da200f1e/README.md) |
-| `https://sticr.stir.comcast.com/4c04e4ac-5367-4d98-a1d3-78242a268774.pem` | 26&#160;Aug&#160;24&#160;20:55&#160;UTC | false | [view](REPOS/0846ba6b68692f9b9a9a5962c72db02e6319c63b/README.md) |
+| `https://sticr.stir.comcast.com/4c04e4ac-5367-4d98-a1d3-78242a268774.pem` | 26&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](REPOS/0846ba6b68692f9b9a9a5962c72db02e6319c63b/README.md) |
 | `https://sticr.stir.comcast.com/4c13e4b5-80f3-479e-9aa3-4c65f959cd3f.pem` | 28&#160;May&#160;24&#160;08:59&#160;UTC | true | [view](REPOS/568b0b193484abf835164df64877f95ee4e9e3f6/README.md) |
 | `https://sticr.stir.comcast.com/4c15d7c7-affc-45ae-a19e-e7686b8fd660.cer` |  | true | [view](REPOS/d87a8dc9e6e596ceb20fc56643dfe52b4a1b1713/README.md) |
 | `https://sticr.stir.comcast.com/4c35897d-c028-41a4-b5d8-6fb95ed1bee3.cer` |  | true | [view](REPOS/baccac90f2c76e79b31937a29cc453b76297b25d/README.md) |
@@ -342,7 +344,7 @@
 | `https://sticr.stir.comcast.com/72d8c55c-d9fd-4a6b-b95f-ec288a001418.cer` |  | true | [view](REPOS/2824bf17829e702f6337b9e88ec79c1af8a60792/README.md) |
 | `https://sticr.stir.comcast.com/72d9a41b-2eda-43bf-852e-b9fbe9142302.cer` |  | true | [view](REPOS/880bb4d8dddd6d4fb26a70921d640a1e66b3c50c/README.md) |
 | `https://sticr.stir.comcast.com/73779e6c-b698-4b41-aa1e-733d7f86ca2e.cer` |  | true | [view](REPOS/0c670a5d0470bbc0a85437a33782dbfbcc852979/README.md) |
-| `https://sticr.stir.comcast.com/73a0df29-d898-4456-8f83-59c5a8a10a8d.pem` | 24&#160;Aug&#160;24&#160;20:55&#160;UTC | false | [view](REPOS/6fb22e17c34b69502e2ece7458a3c9f6e3a453ab/README.md) |
+| `https://sticr.stir.comcast.com/73a0df29-d898-4456-8f83-59c5a8a10a8d.pem` | 24&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](REPOS/6fb22e17c34b69502e2ece7458a3c9f6e3a453ab/README.md) |
 | `https://sticr.stir.comcast.com/746f4abd-c253-4ff4-babb-9e18fc1e293a.cer` |  | true | [view](REPOS/725e7ff7d631752c2f3277f9e8ba659cd895cde2/README.md) |
 | `https://sticr.stir.comcast.com/7536d951-ac94-48dc-b5d4-e0591d7d9898.cer` |  | true | [view](REPOS/b3d7d454cde5f9c9f55dbd4222ef33ec2c1f1169/README.md) |
 | `https://sticr.stir.comcast.com/75c89f71-5a08-4290-aee9-10df577508c9.cer` |  | true | [view](REPOS/8800521d857974711ba420c15aa34d7d469a9bd9/README.md) |
@@ -409,6 +411,7 @@
 | `https://sticr.stir.comcast.com/89e158d9-6a01-4631-8d20-5bf98a3e4d83.cer` |  | true | [view](REPOS/e415827435f9a142a7a933222ec7a450f3f624f9/README.md) |
 | `https://sticr.stir.comcast.com/8a1217c8-5cf8-485f-a830-e3f0746fb845.cer` |  | true | [view](REPOS/0349aaa31a669e0c963a76b32d6d7824396dc658/README.md) |
 | `https://sticr.stir.comcast.com/8ae11b3b-a7ec-4ed8-a328-c9168994dd50.cer` |  | true | [view](REPOS/3d4cbad9bfd03b661f596aba765297d94774054b/README.md) |
+| `https://sticr.stir.comcast.com/8b1a07ad-431f-4621-a3db-280a7fb71641.pem` | 22&#160;Sep&#160;24&#160;20:55&#160;UTC | false | [view](REPOS/525276248b8592c9046e42d8e2ad92c4f77ebd1b/README.md) |
 | `https://sticr.stir.comcast.com/8b309291-0d93-4856-bd8f-03ddc32a989a.cer` |  | true | [view](REPOS/3f5e13840b347237c38eb83596c90df0634c7b1d/README.md) |
 | `https://sticr.stir.comcast.com/8b8fd806-e31e-438f-84c9-9e8333dd479b.cer` |  | true | [view](REPOS/a1ebfb6426b2ad3a254adcb308f25e5f7f98ea10/README.md) |
 | `https://sticr.stir.comcast.com/8c4b2b89-5374-48fa-a786-dc7608d2f25c.cer` |  | true | [view](REPOS/54df82ac3b43ab1e5a656dcdfd6a431f82f7b6e8/README.md) |
@@ -422,7 +425,7 @@
 | `https://sticr.stir.comcast.com/8eaa3daa-69a4-4324-b259-0a626fb1835e.cer` |  | true | [view](REPOS/fdfff661809a96b9a93886f1af781c90754397d1/README.md) |
 | `https://sticr.stir.comcast.com/8eaa9caa-abf9-4e9c-9510-ce85c0405ff2.cer` |  | true | [view](REPOS/726cd0d965132637ef2d1790e4ad3afc16840757/README.md) |
 | `https://sticr.stir.comcast.com/8ed54c39-124f-491b-a004-06ff92b5202a.cer` |  | true | [view](REPOS/c4fe5a10dbe44ad151dcae03ccc636c6696376ac/README.md) |
-| `https://sticr.stir.comcast.com/8f0d1afc-b8d9-4908-afae-346da2388218.pem` | 25&#160;Aug&#160;24&#160;20:55&#160;UTC | false | [view](REPOS/864eb24adcd99ae9f0100ae2aa1a98837a2f1304/README.md) |
+| `https://sticr.stir.comcast.com/8f0d1afc-b8d9-4908-afae-346da2388218.pem` | 25&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](REPOS/864eb24adcd99ae9f0100ae2aa1a98837a2f1304/README.md) |
 | `https://sticr.stir.comcast.com/8f22a8b2-e5bd-4a62-8c90-f349a59da6cc.cer` |  | true | [view](REPOS/8bb306adcb42e3bf2180dd8dcf444e132f3912bd/README.md) |
 | `https://sticr.stir.comcast.com/90264a05-f132-45dc-9e93-26718774e9c4.cer` |  | true | [view](REPOS/baf6014cc3af4c280cde2a830ff2d39883a005e7/README.md) |
 | `https://sticr.stir.comcast.com/902ed8bc-3db8-4638-ac0b-d4604d187be1.cer` |  | true | [view](REPOS/b9acdc5c6ed76955c7756084040512fd18755b8e/README.md) |
@@ -531,7 +534,7 @@
 | `https://sticr.stir.comcast.com/aed96b2b-21d7-43d6-8f2e-f10b2dd0d50b.cer` |  | true | [view](REPOS/be7de14dfa9f30f6fd05823ba4c9b29199854c81/README.md) |
 | `https://sticr.stir.comcast.com/af19bf65-ad06-4be9-b520-c2db4f45780c.pem` | 12&#160;Jun&#160;24&#160;08:59&#160;UTC | true | [view](REPOS/1c2d33ed9a12f9753db45b1c2b683c837b5b90d7/README.md) |
 | `https://sticr.stir.comcast.com/af3ee2c0-c233-453f-8efb-1146e90f2cce.cer` |  | true | [view](REPOS/967350436a56704a8cc242fac0add9e3890ad799/README.md) |
-| `https://sticr.stir.comcast.com/af42d6fd-2469-4b8b-bf59-785446727179.pem` | 23&#160;Aug&#160;24&#160;20:55&#160;UTC | false | [view](REPOS/831a1790259d94f2aa4e32e8085df485d5f95693/README.md) |
+| `https://sticr.stir.comcast.com/af42d6fd-2469-4b8b-bf59-785446727179.pem` | 23&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](REPOS/831a1790259d94f2aa4e32e8085df485d5f95693/README.md) |
 | `https://sticr.stir.comcast.com/af6941c1-37b8-4bdc-95df-652ebb5bd576.cer` |  | true | [view](REPOS/cd13a9397ac227092649ecb16c4cc9068ed9a155/README.md) |
 | `https://sticr.stir.comcast.com/b03e46ae-6877-4e8e-8c1e-7c531e04ef59.cer` |  | true | [view](REPOS/c1eaec81d9d7f1d1080472b5fa2b124604a86938/README.md) |
 | `https://sticr.stir.comcast.com/b082470b-df9c-487c-b0af-885e723c0996.cer` |  | true | [view](REPOS/9273eff3637ff59d24ac01fd41e1070d9149af76/README.md) |
@@ -580,6 +583,7 @@
 | `https://sticr.stir.comcast.com/beeb04df-7a7e-436e-ae7a-f793816108ca.cer` |  | true | [view](REPOS/d91173111d893da147ed2134856eea904ac0fbdc/README.md) |
 | `https://sticr.stir.comcast.com/bf428840-d767-43fe-9753-bc5e392ba652.cer` |  | true | [view](REPOS/03a6fbc62c7f08e630d08d9261987e75c07bfe65/README.md) |
 | `https://sticr.stir.comcast.com/bf720d86-b816-4ec2-bab0-37620c2a99d1.cer` |  | true | [view](REPOS/cb1ef245ecf2f4bf610a968143a9f50480ba6e9c/README.md) |
+| `https://sticr.stir.comcast.com/bfd34848-7bef-408f-b36c-7067cb42bbcc.pem` | 23&#160;Sep&#160;24&#160;20:55&#160;UTC | false | [view](REPOS/810ae70e9904734fe4c01fa6e9e7e8a3c4c0228f/README.md) |
 | `https://sticr.stir.comcast.com/c0ad3544-c731-4cb4-8cf5-c65c1dc08876.pem` | 16&#160;Jul&#160;24&#160;20:55&#160;UTC | true | [view](REPOS/2e3ced4aed85fbbbae83448fe86c37c875c9b1e6/README.md) |
 | `https://sticr.stir.comcast.com/c1268e48-37c2-4cd3-ab97-99b4359ef62f.pem` |  | true | [view](REPOS/631715e97f6fd8cff1ddfed7b22c0b973ec85c18/README.md) |
 | `https://sticr.stir.comcast.com/c1359ab2-e4d5-425e-99ee-0495325c28ea.cer` |  | true | [view](REPOS/64f284f771e872e4c421528e42465c42e4b093a6/README.md) |
@@ -607,11 +611,13 @@
 | `https://sticr.stir.comcast.com/cc1657f6-11b6-4bff-a484-42e34f46c624.cer` |  | true | [view](REPOS/856d3754a2d075e1ba9a792d54826a5acec312f1/README.md) |
 | `https://sticr.stir.comcast.com/cc7f33ba-d870-4ce8-9c2d-49b42bca6441.pem` | 24&#160;Jun&#160;24&#160;20:55&#160;UTC | true | [view](REPOS/f47255c2e893c9366196838a878ac5ae5ff1f19b/README.md) |
 | `https://sticr.stir.comcast.com/ccb02655-11bd-4833-b822-26caf1cea26e.cer` |  | true | [view](REPOS/cc1892fb582f3fb68823505e8cf9eab5a5c07cb1/README.md) |
+| `https://sticr.stir.comcast.com/ccd3b8ba-d35c-4217-ab9e-65c22a80501e.pem` | 19&#160;Sep&#160;24&#160;20:55&#160;UTC | false | [view](REPOS/8cfa1ea788979e726c8acd849cb56befc79068dd/README.md) |
 | `https://sticr.stir.comcast.com/cdcaf51a-69f5-4193-a99c-d31481772637.cer` |  | true | [view](REPOS/f638cc8e1494d9ca7b2993c71bcbbc66594e17b9/README.md) |
 | `https://sticr.stir.comcast.com/cdcd3514-1781-4d4d-b322-e4e4d111d9bc.cer` |  | true | [view](REPOS/5309d04855bc239c98fe8bec42ff44d86bcce165/README.md) |
 | `https://sticr.stir.comcast.com/cdcd74e1-9e8f-49a5-84a9-7d00677f0963.pem` | 20&#160;Jun&#160;24&#160;20:55&#160;UTC | true | [view](REPOS/9d0c7f945e2198e194107bef04bc42e38383b591/README.md) |
 | `https://sticr.stir.comcast.com/ce207572-806a-4d43-b008-efddf1435b64.cer` |  | true | [view](REPOS/dfdd76b25fa19998eb0cbb009487b3e67b90f180/README.md) |
 | `https://sticr.stir.comcast.com/ce643921-456f-4091-af67-afa118bfd828.pem` | 22&#160;Jun&#160;24&#160;20:55&#160;UTC | true | [view](REPOS/6e6d1c71a6c63b6b850644e753ba1fe36d041905/README.md) |
+| `https://sticr.stir.comcast.com/ce988372-2765-4658-848a-af0791f0697f.pem` | 21&#160;Sep&#160;24&#160;20:55&#160;UTC | false | [view](REPOS/c193542662e1d5ef8805dbee717c9436cea21a01/README.md) |
 | `https://sticr.stir.comcast.com/ce9b6b05-620e-4f16-844e-d798311684c9.cer` |  | true | [view](REPOS/61c95bea597c39640e90b080edd32df9d9089070/README.md) |
 | `https://sticr.stir.comcast.com/cec048bd-e2c4-4192-99d3-368c36c94f8c.cer` |  | true | [view](REPOS/c4df7d0187ea0f40a058050fba266a98bc0313a7/README.md) |
 | `https://sticr.stir.comcast.com/cf33999d-a8cc-4a5d-af65-32d377cda413.cer` |  | true | [view](REPOS/fdb8c942e87751486814bf908cdbce969863ce54/README.md) |
@@ -763,4 +769,4 @@
 | `https://sticr.stir.comcast.com/ff4f3455-b2b0-4f18-9435-ef5fa9a58b9f.cer` |  | true | [view](REPOS/abb5d20577a6b6bfd7727965fd4a8466601d4de0/README.md) |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

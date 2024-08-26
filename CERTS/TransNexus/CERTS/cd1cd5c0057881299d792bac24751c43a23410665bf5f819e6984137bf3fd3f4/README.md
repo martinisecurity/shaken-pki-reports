@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 849J
 
-Tested At: 22 Aug 24 15:22 UTC\
+Tested At: 26 Aug 24 17:44 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -325 day(s)\
+Remaining Validity Period: -329 day(s)\
 Subject: CN=SHAKEN 849J, O=Fuse.Cloud, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/86e241b8-9c8e-4431-b35f-4d92844a1da9/ec7331374bba57be0cc6a00b66e879c6.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/86e241b8-9c8e-4431-b35f-4d92844a1da9/ec73
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 208K
 
-Tested At: 22 Aug 24 15:16 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -106 day(s)\
+Remaining Validity Period: -110 day(s)\
 Subject: CN=SHAKEN 208K, O=Vested Networks, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/000b56ea-b4c8-46f2-89e0-ac03650b1b97/3ffcc512380f2d5a71098c2a14e06f26.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/000b56ea-b4c8-46f2-89e0-ac03650b1b97/3ffc
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

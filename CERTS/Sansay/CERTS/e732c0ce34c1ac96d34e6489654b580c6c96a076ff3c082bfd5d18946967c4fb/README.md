@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 839J EON Telecom Inc.
 
-Tested At: 22 Aug 24 15:31 UTC\
+Tested At: 26 Aug 24 17:48 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 238 day(s)\
+Remaining Validity Period: 234 day(s)\
 Subject: CN=SHAKEN 839J EON Telecom Inc., O=EON Telecom Inc., C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/839J/429C7C70711E3820F0B8E1DEAE6FF3262264991F.pem
@@ -16,4 +16,4 @@ Link: https://cr.sansay.com/839J/429C7C70711E3820F0B8E1DEAE6FF3262264991F.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

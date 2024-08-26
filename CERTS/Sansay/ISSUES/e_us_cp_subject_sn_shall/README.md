@@ -17,6 +17,7 @@ Description: The DN shall contain a serialNumber attribute.
 | error | SHAKEN Watchcomm  0590 | [view](../../CERTS/f37c46fe22ca2348db842b6bef04535d9be4d6b413c2282fdca2969d292bcdcd/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN Global Net Holdings Inc 306K | [view](../../CERTS/fab84634747b289457158fa4984de05cadcd77c62855912a90ee98eb672b714f/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN ACS Technologies 488K | [view](../../CERTS/0218a28abeeeb238045a8ddffa3593779dcf82a26f219585c3af62900a27ac51/README.md) | The DN does not contain a serialNumber attribute. |
+| error | SHAKEN IPBTel 535K | [view](../../CERTS/c777a6bdc52c45c7f7f66f40b765c70e167fe34b8cd36fea8bc287b20cb7d80e/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN Identidad Advertising Development LLC 617K | [view](../../CERTS/2f9861d9339c6094cd1c5acf955e0472ffd5534c329f4b69c90caae6f70d61a3/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN Mercury Access Solutions 634K | [view](../../CERTS/70cc27d2e747142c3446b6133993989be4e1ff3fe4d25b137def2745fc173d19/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN Ytel Inc. 703J | [view](../../CERTS/118ca5f6b2653c823022d22375f900d88e845681ca442938142a44da593c4bb5/README.md) | The DN does not contain a serialNumber attribute. |
@@ -47,4 +48,4 @@ Description: The DN shall contain a serialNumber attribute.
 No error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

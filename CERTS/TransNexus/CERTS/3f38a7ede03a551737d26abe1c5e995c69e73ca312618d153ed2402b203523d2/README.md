@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 9472
 
-Tested At: 22 Aug 24 15:26 UTC\
+Tested At: 26 Aug 24 17:44 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -304 day(s)\
+Remaining Validity Period: -308 day(s)\
 Subject: CN=SHAKEN 9472, O=Biddeford Internet Corp. d.b.a GWI, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/ec85b81d-5369-4c31-9f53-c1232eecd826/ae0e4562200808b5598cd1d91273a5e1.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/ec85b81d-5369-4c31-9f53-c1232eecd826/ae0e
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

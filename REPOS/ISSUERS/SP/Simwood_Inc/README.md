@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 10ms average time it took to download each certificate
+- 35ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://cdn.simwood.com/shaken/simwood_2023.crt` | 17&#160;Oct&#160;24&#160;17:32&#160;UTC | true | [view](REPOS/1300f8c8ebda89e20dc2139b72ac6cb32ac94bdd/README.md) |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

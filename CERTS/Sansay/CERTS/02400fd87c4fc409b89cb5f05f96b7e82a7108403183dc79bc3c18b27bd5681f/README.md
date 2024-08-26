@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Momentum Telecom 9157
 
-Tested At: 22 Aug 24 15:32 UTC\
+Tested At: 26 Aug 24 17:48 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -195 day(s)\
+Remaining Validity Period: -199 day(s)\
 Subject: CN=SHAKEN Momentum Telecom 9157, OU=NOC, O=Momentum Telecom, ST=Georgia, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/MomentumTelecom_9157
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/MomentumTelecom_9157
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 9157', but common name is 'SHAKEN Momentum Telecom 9157' |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

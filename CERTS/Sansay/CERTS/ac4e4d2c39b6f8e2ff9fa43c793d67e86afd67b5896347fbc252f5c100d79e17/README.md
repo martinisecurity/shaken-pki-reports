@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Magna5, LLC 8249
 
-Tested At: 22 Aug 24 15:32 UTC\
+Tested At: 26 Aug 24 17:48 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -195 day(s)\
+Remaining Validity Period: -199 day(s)\
 Subject: CN=SHAKEN Magna5\\, LLC 8249, OU=Operations, O=Magna5\\, LLC, ST=Texas, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Magna5_8249.crt
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/Magna5_8249.crt
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 8249', but common name is 'SHAKEN Magna5, LLC 8249' |
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 8249', but common name is 'SHAKEN Magna5, LLC 8249' |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

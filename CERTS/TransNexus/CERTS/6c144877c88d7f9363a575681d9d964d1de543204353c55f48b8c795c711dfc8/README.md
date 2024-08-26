@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 320K
 
-Tested At: 22 Aug 24 15:23 UTC\
+Tested At: 26 Aug 24 17:44 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -25 day(s)\
+Remaining Validity Period: -29 day(s)\
 Subject: CN=SHAKEN 320K, O=Capital Voice Services\\ , C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/9a82032e-fd7a-4d2a-b4ca-dddbf3c2f8b9/a268cb8f8425ec1dbfe26232e678d069.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/9a82032e-fd7a-4d2a-b4ca-dddbf3c2f8b9/a268
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

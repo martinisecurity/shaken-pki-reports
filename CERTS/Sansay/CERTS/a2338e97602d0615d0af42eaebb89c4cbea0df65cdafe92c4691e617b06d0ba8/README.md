@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Broadband Dynamics Canada Telecom and Software ULC 884J
 
-Tested At: 22 Aug 24 15:16 UTC\
+Tested At: 26 Aug 24 17:42 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 307 day(s)\
+Remaining Validity Period: 303 day(s)\
 Subject: CN=SHAKEN Broadband Dynamics Canada Telecom and Software ULC 884J, OU=Engineering, O=Broadband Dynamics Canada Telecom and Software ULC, ST=Arizona, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA Canada 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://canada-cr.sansay.com/Broadband_Dynamics_Canada_Telecom_and_Software_ULC_884J
@@ -17,4 +17,4 @@ Link: https://canada-cr.sansay.com/Broadband_Dynamics_Canada_Telecom_and_Softwar
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 884J', but common name is 'SHAKEN Broadband Dynamics Canada Telecom and Software ULC 884J' |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

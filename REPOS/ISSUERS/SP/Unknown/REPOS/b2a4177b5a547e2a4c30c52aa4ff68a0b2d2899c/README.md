@@ -3,7 +3,7 @@
 ## Unknown
 
 Name: `https://crs.sti.uscellular.com/certs/uscc_shaken_CA.crt`\
-Tested At: 22 Aug 24 15:33 UTC\
+Tested At: 26 Aug 24 17:49 UTC\
 Time: 3000ms
 
 ### Issues
@@ -12,4 +12,4 @@ Time: 3000ms
 |------|------|--------|---------|
 | [e_request_timeout](../../ISSUES/e_request_timeout/README.md) | error | System | Request timed out (3s) |
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

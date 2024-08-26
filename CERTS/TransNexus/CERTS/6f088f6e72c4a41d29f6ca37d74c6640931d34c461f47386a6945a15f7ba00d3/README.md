@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1821
 
-Tested At: 22 Aug 24 15:21 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -697 day(s)\
+Remaining Validity Period: -701 day(s)\
 Subject: CN=SHAKEN 1821, OU=SHAKEN, O=InPhonex.com\\, LLC., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/4eed3a39-8f41-4acb-9b86-42a558b3455a/3985ea9b54d2309e13a5e8996d4c846a.pem
@@ -26,4 +26,4 @@ Link: https://certificates.clearip.com/4eed3a39-8f41-4acb-9b86-42a558b3455a/3985
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

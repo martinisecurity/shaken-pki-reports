@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Identidad Advertising Development LLC 617K
 
-Tested At: 22 Aug 24 15:32 UTC\
+Tested At: 26 Aug 24 17:48 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -182 day(s)\
+Remaining Validity Period: -187 day(s)\
 Subject: CN=SHAKEN Identidad Advertising Development LLC 617K, OU=IT-VOIP, O=Identidad Advertising Development LLC, ST=Florida, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Identidad_Advertising_Development_LLC_617K_1
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/Identidad_Advertising_Development_LLC_617K_1
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 617K', but common name is 'SHAKEN Identidad Advertising Development LLC 617K' |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

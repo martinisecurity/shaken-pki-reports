@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 2720
 
-Tested At: 22 Aug 24 15:36 UTC\
+Tested At: 26 Aug 24 17:56 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 224 day(s)\
+Remaining Validity Period: 219 day(s)\
 Subject: CN=SHAKEN 2720, O=Fusion Connect, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://prod001-cr.rbbnidhub.com/8ZJdVFg7gz/2
@@ -14,4 +14,4 @@ Link: https://prod001-cr.rbbnidhub.com/8ZJdVFg7gz/2
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

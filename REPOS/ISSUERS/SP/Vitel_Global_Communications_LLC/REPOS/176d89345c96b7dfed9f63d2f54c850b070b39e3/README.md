@@ -3,8 +3,8 @@
 ## Vitel Global Communications LLC
 
 Name: `https://certs.telonium.net/24/b4d1a480.crt`\
-Tested At: 22 Aug 24 15:28 UTC\
-Time: 38ms
+Tested At: 26 Aug 24 17:45 UTC\
+Time: 36ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 38ms
 |------|------|--------|---------|
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

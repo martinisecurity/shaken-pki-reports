@@ -3,8 +3,8 @@
 ## VOIP ESSENTIAL LLC
 
 Name: `https://ssc.getsipnav.com/certs/150ed90442e147b17a8647c157e6a00e195f87df`\
-Tested At: 22 Aug 24 15:37 UTC\
-Time: 62ms
+Tested At: 26 Aug 24 17:57 UTC\
+Time: 36ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 62ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 793J
 
-Tested At: 22 Aug 24 15:20 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -57 day(s)\
+Remaining Validity Period: -62 day(s)\
 Subject: CN=SHAKEN 793J, O=UniTel Voice, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/45c216c2-fbb9-4f33-a3cf-6a64aad19357/8b20e6e05a7424e55f3067da90657a72.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/45c216c2-fbb9-4f33-a3cf-6a64aad19357/8b20
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

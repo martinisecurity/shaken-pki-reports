@@ -3,8 +3,8 @@
 ## Meta-lynk
 
 Name: `https://cdn.cnxcdn.com/shaken/5a9877f6c8.crt`\
-Tested At: 22 Aug 24 15:16 UTC\
-Time: 32ms
+Tested At: 26 Aug 24 17:42 UTC\
+Time: 213ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 32ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header has 'max-age' directive but it's value is less than 24 hours |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

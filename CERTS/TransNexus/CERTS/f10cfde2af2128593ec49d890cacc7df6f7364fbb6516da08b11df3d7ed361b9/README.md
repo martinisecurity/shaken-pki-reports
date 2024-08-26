@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 663G
 
-Tested At: 22 Aug 24 15:17 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -225 day(s)\
+Remaining Validity Period: -229 day(s)\
 Subject: CN=SHAKEN 663G, O=Andrew Ward Consulting LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/130d8785-08a5-428a-9734-e37a9f3641a6/2cf6564cb4a69fdb1621906adfc76afd.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/130d8785-08a5-428a-9734-e37a9f3641a6/2cf6
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

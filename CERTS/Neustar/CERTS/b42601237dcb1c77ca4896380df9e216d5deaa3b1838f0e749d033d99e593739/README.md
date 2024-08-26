@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 139K
 
-Tested At: 22 Aug 24 15:16 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 274 day(s)\
+Remaining Validity Period: 270 day(s)\
 Subject: CN=SHAKEN 139K, O=FaxLogic\\, LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cdn.pgxn.net/sti/20250522.cer
@@ -16,4 +16,4 @@ Link: https://cdn.pgxn.net/sti/20250522.cer
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

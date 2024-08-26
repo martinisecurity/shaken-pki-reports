@@ -12,4 +12,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://sns.magicjack.com/MagicJack_2411_324E.crt` | 26&#160;Nov&#160;24&#160;18:04&#160;UTC | true | [view](../../REPOS/e5fae8fa25bfec9288ef669a1580649d056fc3c4/README.md) |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

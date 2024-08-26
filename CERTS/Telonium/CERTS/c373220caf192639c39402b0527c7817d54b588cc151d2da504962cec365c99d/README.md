@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 869K
 
-Tested At: 22 Aug 24 15:27 UTC\
+Tested At: 26 Aug 24 17:44 UTC\
 Initial Validity Period: 366 day(s)\
-Remaining Validity Period: 203 day(s)\
+Remaining Validity Period: 199 day(s)\
 Subject: serialNumber=90D1A9BA-2EC4-43C5-B7BC-9C4E80776F6D, CN=SHAKEN 869K, O=Smartbiz Telecom LLC, C=US\
 Issuer: CN=Telonium SHAKEN Intermediate G1, O=Telonium Communications LLC, L=Atlanta, ST=GA, C=US\
 Link: https://certificates.peeringhub.io/869K/869K.crt
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/869K/869K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

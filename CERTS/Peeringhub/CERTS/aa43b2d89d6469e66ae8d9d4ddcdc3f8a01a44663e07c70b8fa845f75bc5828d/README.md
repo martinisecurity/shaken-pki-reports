@@ -2,9 +2,9 @@
 
 ## Certificate CIBILLS LLC SHAKEN 845K
 
-Tested At: 22 Aug 24 15:27 UTC\
+Tested At: 26 Aug 24 17:44 UTC\
 Initial Validity Period: 17 day(s)\
-Remaining Validity Period: 10 day(s)\
+Remaining Validity Period: 5 day(s)\
 Subject: CN=CIBILLS LLC SHAKEN 845K, O=CIBILLS LLC, L=Phoenix, ST=AZ, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://certificates.peeringhub.io/845K/845K.crt
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/845K/845K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

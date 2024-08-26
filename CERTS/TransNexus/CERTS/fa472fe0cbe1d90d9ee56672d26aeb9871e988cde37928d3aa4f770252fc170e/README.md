@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 594J
 
-Tested At: 22 Aug 24 15:18 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -571 day(s)\
+Remaining Validity Period: -575 day(s)\
 Subject: CN=SHAKEN 594J, O=Carolina Digital, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/14652271-f2ba-4197-87c0-704f8c618e4b/a01518263f91e66a892e2e045f1eaeb7.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/14652271-f2ba-4197-87c0-704f8c618e4b/a015
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

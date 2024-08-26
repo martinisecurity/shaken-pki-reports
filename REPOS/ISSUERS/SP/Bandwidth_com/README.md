@@ -18,4 +18,4 @@ No error, warning, or notice level issues were found
 | `https://bw-shaken-cert-pub.s3.amazonaws.com/bw-can-shaken_20250706.pem` | 06&#160;Jul&#160;25&#160;17:42&#160;UTC | false | [view](REPOS/26c8ef0e2ba6e50ee8bac9589fa64a6ccba9cc53/README.md) |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

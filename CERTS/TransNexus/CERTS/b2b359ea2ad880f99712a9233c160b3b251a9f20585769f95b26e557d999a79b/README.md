@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 190J
 
-Tested At: 22 Aug 24 15:24 UTC\
+Tested At: 26 Aug 24 17:44 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -583 day(s)\
+Remaining Validity Period: -587 day(s)\
 Subject: CN=SHAKEN 190J, O=C3 Complete, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/bf8313bb-432e-40a4-830b-42db8b98f489/f4f00e42651bd24456e12a6c34b61bef.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/bf8313bb-432e-40a4-830b-42db8b98f489/f4f0
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

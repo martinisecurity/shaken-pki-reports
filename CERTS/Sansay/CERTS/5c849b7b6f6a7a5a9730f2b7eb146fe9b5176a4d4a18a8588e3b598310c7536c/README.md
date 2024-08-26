@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Fonative, Inc. 684J
 
-Tested At: 22 Aug 24 15:31 UTC\
+Tested At: 26 Aug 24 17:48 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -89 day(s)\
+Remaining Validity Period: -93 day(s)\
 Subject: CN=SHAKEN Fonative\\, Inc. 684J, OU=Operations, O=Fonative\\, Inc., ST=Massachusetts, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/684J/429C7C70711E3820F0B8E1DEAE6FF32622649A27.pem
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/684J/429C7C70711E3820F0B8E1DEAE6FF32622649A27.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 684J', but common name is 'SHAKEN Fonative, Inc. 684J' |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

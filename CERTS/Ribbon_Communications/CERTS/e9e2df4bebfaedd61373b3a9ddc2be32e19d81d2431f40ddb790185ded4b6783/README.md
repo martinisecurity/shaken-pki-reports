@@ -2,9 +2,9 @@
 
 ## Certificate Nuwave Communications SHAKEN 620J
 
-Tested At: 22 Aug 24 15:36 UTC\
+Tested At: 26 Aug 24 17:56 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 178 day(s)\
+Remaining Validity Period: 174 day(s)\
 Subject: CN=Nuwave Communications SHAKEN 620J, OU=Nuwave Communications, O=Nuwave Communications, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/Jx6yR-yMgz/620J202404-12afc01d0771f0ba2e7acb9f79b30aad
@@ -17,4 +17,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/Jx6yR-yMgz/620J202404-12afc01d077
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

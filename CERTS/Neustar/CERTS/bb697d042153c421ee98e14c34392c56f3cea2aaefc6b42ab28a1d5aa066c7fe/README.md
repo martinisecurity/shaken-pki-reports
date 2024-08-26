@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 197D
 
-Tested At: 22 Aug 24 15:39 UTC\
+Tested At: 26 Aug 24 17:59 UTC\
 Initial Validity Period: 398 day(s)\
-Remaining Validity Period: 188 day(s)\
+Remaining Validity Period: 183 day(s)\
 Subject: CN=SHAKEN 197D, O=Vonage, C=CA\
 Issuer: CN=Neustar Canada Certified Caller ID SHAKEN CA-2, OU=www.ca.ccid.neustar, O=Neustar Information Services Inc, C=CA\
 Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/28c84da8827709c092d8ced9d19cf206.pem
@@ -16,4 +16,4 @@ Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/28c84da8827709c092d8ce
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 1.3.6.1.4.1.56223.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

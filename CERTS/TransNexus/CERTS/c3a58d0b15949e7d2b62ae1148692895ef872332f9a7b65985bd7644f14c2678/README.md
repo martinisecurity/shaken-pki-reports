@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 297K
 
-Tested At: 22 Aug 24 15:22 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -526 day(s)\
+Remaining Validity Period: -530 day(s)\
 Subject: CN=SHAKEN 297K, O=Clarity Voice, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/859299ca-4c86-4dfd-9785-6c758bee1b37/1fac594d493495dc67d87f05a7f13c70.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/859299ca-4c86-4dfd-9785-6c758bee1b37/1fac
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

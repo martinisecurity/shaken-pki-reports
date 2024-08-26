@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 739J
 
-Tested At: 22 Aug 24 15:28 UTC\
+Tested At: 26 Aug 24 17:45 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -425 day(s)\
+Remaining Validity Period: -429 day(s)\
 Subject: CN=SHAKEN 739J, O=Unified Global Solutions LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/158.172
@@ -25,4 +25,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/158.172
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

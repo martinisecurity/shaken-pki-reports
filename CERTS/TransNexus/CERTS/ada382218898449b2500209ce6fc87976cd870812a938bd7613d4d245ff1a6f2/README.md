@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 311H
 
-Tested At: 22 Aug 24 15:23 UTC\
+Tested At: 26 Aug 24 17:44 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -374 day(s)\
+Remaining Validity Period: -379 day(s)\
 Subject: CN=SHAKEN 311H, O=QCOL\\, Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/a4028d81-0073-4d75-aeed-9b2da6f31d1b/3c72c47abfe56335b80c96a3ddd3bad4.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/a4028d81-0073-4d75-aeed-9b2da6f31d1b/3c72
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

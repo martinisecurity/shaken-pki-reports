@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 3639
 
-Tested At: 22 Aug 24 15:17 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -295 day(s)\
+Remaining Validity Period: -299 day(s)\
 Subject: CN=SHAKEN 3639, O=Monmouth Telecom, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/0b67416d-1fc8-4a8d-9406-878eefc0bb93/e892136581b89b356aa340c4534fd861.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/0b67416d-1fc8-4a8d-9406-878eefc0bb93/e892
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

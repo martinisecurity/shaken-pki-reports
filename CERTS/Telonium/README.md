@@ -9,9 +9,9 @@
 
 #### Leaf Certificates
 
-- 39 certificates were included in the corpus being tested
+- 40 certificates were included in the corpus being tested
 - 6 certificates in the corpus were skipped because they are duplicates
-- 12 certificates in the corpus were skipped because they are expired
+- 13 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
 - 21 certificates being tested against the remaining rules
 - 1.00 issues on average found in unexpired, trusted, and non-compliant certificates
@@ -21,7 +21,7 @@
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
 - 472 days is the average remaining validity for the certificates in the corpus
 - 480 days is the average initial validity for the certificates in the corpus
-- 2 certificates expire in the next 30 days
+- 1 certificates expire in the next 30 days
 - 1.00 average number of unexpired certificates per OCN observed
 - 21 unique OCNs observed in unexpired and valid certificate corpus
 
@@ -42,7 +42,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 4255 days is the average remaining validity for the certificates in the corpus
+- 4254 days is the average remaining validity for the certificates in the corpus
 - 4309 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -67,7 +67,6 @@
 | 11&#160;Jul&#160;23&#160;18:15&#160;UTC | SHAKEN 159K | 22&#160;Jun&#160;25&#160;22:42&#160;UTC | true | [view](CERTS/d9b2af8d51b09c75e70a5c6d60de90a663be51c44f141639708ab7a6cf151dfa/README.md) |
 | 11&#160;Jul&#160;23&#160;18:45&#160;UTC | SHAKEN 421K | 21&#160;Jun&#160;25&#160;04:00&#160;UTC | true | [view](CERTS/cfaa04fe3747df8c203aa057940d1d7b1b455b15c8da2ba73cf7384797edfad8/README.md) |
 | 01&#160;Aug&#160;23&#160;17:17&#160;UTC | SHAKEN 143K | 31&#160;Jul&#160;25&#160;17:18&#160;UTC | false | [view](CERTS/7888e1431475305a982a18f6722eca01f235f420b9968f2f30f49937dbb6ed00/README.md) |
-| 25&#160;Aug&#160;23&#160;20:58&#160;UTC | SHAKEN 709K | 25&#160;Aug&#160;24&#160;20:59&#160;UTC | false | [view](CERTS/50f6d51678c38fc547c53e5e649ae55172323da164c4fa76036ede9290544532/README.md) |
 | 08&#160;Sep&#160;23&#160;23:10&#160;UTC | SHAKEN 721K | 08&#160;Sep&#160;24&#160;23:11&#160;UTC | false | [view](CERTS/a3988074881dad0e96799028c8f312ec3dd145810a538e92747761cc0cc344a9/README.md) |
 | 09&#160;Jan&#160;24&#160;14:50&#160;UTC | SHAKEN 785K | 09&#160;Jan&#160;25&#160;14:51&#160;UTC | false | [view](CERTS/06142e30bf65c757ac31cbc4950162477d131f67f9086019b17a6fa24773be0f/README.md) |
 | 30&#160;Jan&#160;24&#160;20:38&#160;UTC | SHAKEN 442K | 30&#160;Jan&#160;25&#160;20:39&#160;UTC | false | [view](CERTS/4ba867185817379be2eb96c2f1048418362641680814f06ca86338c96b89d51c/README.md) |
@@ -84,6 +83,7 @@
 | 20&#160;Jun&#160;24&#160;19:05&#160;UTC | SHAKEN 633K | 27&#160;Dec&#160;25&#160;16:31&#160;UTC | false | [view](CERTS/5c0d32d70b614b08cec3502a7ef34663daa44eb814894c021def70d56c113d62/README.md) |
 | 26&#160;Jun&#160;24&#160;21:01&#160;UTC | SHAKEN 930K | 26&#160;Jun&#160;25&#160;21:02&#160;UTC | false | [view](CERTS/9cadceccf69a1eb0ad9c47404f506cb771df0ec254c87e9f1c7d66b1cb680eee/README.md) |
 | 12&#160;Aug&#160;24&#160;16:23&#160;UTC | SHAKEN 715K | 11&#160;Sep&#160;26&#160;18:30&#160;UTC | false | [view](CERTS/396ffc900acd18b268a476122bfaae0835afda50c8648220980093051eb2bbfb/README.md) |
+| 20&#160;Aug&#160;24&#160;17:07&#160;UTC | SHAKEN 974K | 20&#160;Aug&#160;25&#160;17:08&#160;UTC | false | [view](CERTS/cc64adfd746943da601c5f1fe4572b2124f6ac35a134d79a0e1df3981d31d518/README.md) |
 
 #### CA Certificates
 
@@ -96,4 +96,4 @@
 | 01&#160;Aug&#160;23&#160;16:36&#160;UTC | Telonium SHAKEN Intermediate G1 | 01&#160;Aug&#160;33&#160;16:36&#160;UTC | false | [view](CERTS/8c0ef8682826bec79a8c64881899f6a5a4a1d52dfebe28ae419c23f85df96ea0/README.md) |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

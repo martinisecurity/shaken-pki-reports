@@ -2,9 +2,9 @@
 
 ## Certificate Apex Teleocm LLC_1704464597504 SHAKEN 288K
 
-Tested At: 22 Aug 24 15:27 UTC\
+Tested At: 26 Aug 24 17:44 UTC\
 Initial Validity Period: 329 day(s)\
-Remaining Validity Period: 99 day(s)\
+Remaining Validity Period: 95 day(s)\
 Subject: CN=Apex Teleocm LLC_1704464597504 SHAKEN 288K, O=Apex Teleocm LLC, L=Salem, ST=MA, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://certificates.peeringhub.io/288K/ufBKIkA6/288K.crt
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/288K/ufBKIkA6/288K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

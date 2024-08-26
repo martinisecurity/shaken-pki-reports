@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 093K
 
-Tested At: 22 Aug 24 15:27 UTC\
+Tested At: 26 Aug 24 17:45 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -651 day(s)\
+Remaining Validity Period: -655 day(s)\
 Subject: CN=SHAKEN 093K, OU=SHAKEN, O=Skywave Wireless Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/093K/574481eb-e555-46a5-82e0-cb1e97ac0603.pem
@@ -26,4 +26,4 @@ Link: https://certificates.transnexus.com/093K/574481eb-e555-46a5-82e0-cb1e97ac0
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

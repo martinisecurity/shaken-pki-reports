@@ -2,9 +2,9 @@
 
 ## Certificate On Air Telecom LLC_1720292281575 SHAKEN 861J
 
-Tested At: 22 Aug 24 15:33 UTC\
+Tested At: 26 Aug 24 17:49 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 319 day(s)\
+Remaining Validity Period: 315 day(s)\
 Subject: CN=On Air Telecom LLC_1720292281575 SHAKEN 861J, O=On Air Telecom LLC, L=Owings Mills, ST=MD, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://onairtel.46labs.com
@@ -14,4 +14,4 @@ Link: https://onairtel.46labs.com
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

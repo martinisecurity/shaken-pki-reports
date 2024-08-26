@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 157C
 
-Tested At: 22 Aug 24 15:22 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -18 day(s)\
+Remaining Validity Period: -22 day(s)\
 Subject: CN=SHAKEN 157C, O=DigitalSpeed Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/82d97ecb-9b38-4926-9062-8e21b8986930/d1f275900cbb53db1e2004dc3037ef92.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/82d97ecb-9b38-4926-9062-8e21b8986930/d1f2
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

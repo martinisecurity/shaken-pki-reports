@@ -2,9 +2,9 @@
 
 ## Certificate Alma Tel SHAKEN 0344
 
-Tested At: 22 Aug 24 15:16 UTC\
+Tested At: 26 Aug 24 17:42 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 641 day(s)\
+Remaining Validity Period: 637 day(s)\
 Subject: CN=Alma Tel SHAKEN 0344, O=Alma Tel, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/50fce21c2814c12146d9f3e9420b586cd6c12566
@@ -17,4 +17,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/50fce21c2814c12146d9f3e9420b586cd6c1256
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

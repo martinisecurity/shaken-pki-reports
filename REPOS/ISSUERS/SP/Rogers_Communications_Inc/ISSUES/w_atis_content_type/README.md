@@ -10,6 +10,7 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
 | `https://sticr-cstga.ccid.neustar/api/v1/certificate/1da6faf697ce57fff21bed5e9105be2d.crt` | 19&#160;Aug&#160;24&#160;15:30&#160;UTC | true | [view](../../REPOS/e31e6a9d5483767ee4364f6ea8b23fa98d6ee174/README.md) |
+| `https://sticr-cstga.ccid.neustar/api/v1/certificate/a743a54c63164030723c14d15579fcca.pem` | 16&#160;Sep&#160;25&#160;17:55&#160;UTC | true | [view](../../REPOS/a59a0cf601639a047ba859cf1766248eba7fec22/README.md) |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

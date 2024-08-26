@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 406K
 
-Tested At: 22 Aug 24 15:24 UTC\
+Tested At: 26 Aug 24 17:44 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -99 day(s)\
+Remaining Validity Period: -103 day(s)\
 Subject: CN=SHAKEN 406K, O=CommandLink, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/c1c27f53-dd56-44ca-9bba-45ce603a05d9/be0b9486f8ee6160f713f91a651685c5.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/c1c27f53-dd56-44ca-9bba-45ce603a05d9/be0b
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

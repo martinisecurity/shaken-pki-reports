@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 523H
 
-Tested At: 22 Aug 24 15:23 UTC\
+Tested At: 26 Aug 24 17:44 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -71 day(s)\
+Remaining Validity Period: -75 day(s)\
 Subject: CN=SHAKEN 523H, O=CDYNE Services LLC\\, dba Esendex, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/9c662d50-29c6-431b-a367-42e9bd4925f1/915c72e3f6a1614f382f99cb88be4a2d.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/9c662d50-29c6-431b-a367-42e9bd4925f1/915c
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

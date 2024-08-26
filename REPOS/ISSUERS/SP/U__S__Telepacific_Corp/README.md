@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 169ms average time it took to download each certificate
+- 388ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://qcall.meta.tpx.net/certs/tpx2024certchain.crt` | 05&#160;Apr&#160;27&#160;09:53&#160;UTC | true | [view](REPOS/0c3a39be3e8c66865e5a080c687ebc0b7127bb27/README.md) |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 495K
 
-Tested At: 22 Aug 24 15:21 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -413 day(s)\
+Remaining Validity Period: -417 day(s)\
 Subject: CN=SHAKEN 495K, O=HelloSpoke, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/65eb2986-2cf7-41a9-8934-5cdb2a889627/f6258d2e7b011ec488fae308a41e369a.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/65eb2986-2cf7-41a9-8934-5cdb2a889627/f625
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

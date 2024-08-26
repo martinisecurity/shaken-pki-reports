@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 691J
 
-Tested At: 22 Aug 24 15:22 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -556 day(s)\
+Remaining Validity Period: -560 day(s)\
 Subject: CN=SHAKEN 691J, O=Toly Digital Networks Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/84c98183-b28e-415a-8dc4-ba02b9ca5418/5e00ca7183d80c553472d9601767ad72.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/84c98183-b28e-415a-8dc4-ba02b9ca5418/5e00
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

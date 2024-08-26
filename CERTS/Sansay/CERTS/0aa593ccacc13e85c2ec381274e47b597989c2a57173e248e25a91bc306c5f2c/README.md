@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Cloud Connect LLC 455K
 
-Tested At: 22 Aug 24 15:37 UTC\
+Tested At: 26 Aug 24 17:57 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -97 day(s)\
+Remaining Validity Period: -101 day(s)\
 Subject: CN=SHAKEN Cloud Connect LLC 455K, OU=1234, O=Cloud Connect LLC, ST=New York, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://sproxy1.teleserosuite.com/Cloud_Connect_LLC_2023
@@ -17,4 +17,4 @@ Link: https://sproxy1.teleserosuite.com/Cloud_Connect_LLC_2023
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 455K', but common name is 'SHAKEN Cloud Connect LLC 455K' |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

@@ -3,11 +3,11 @@
 ## Martini Security
 
 Name: `https://p.mtsec.me/2884/HSE2-pbTm65y.pem`\
-Tested At: 22 Aug 24 15:42 UTC\
-Time: 174ms
+Tested At: 26 Aug 24 17:50 UTC\
+Time: 173ms
 
 ### Issues
 
 no warning, or error, or notice date level issues were found
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

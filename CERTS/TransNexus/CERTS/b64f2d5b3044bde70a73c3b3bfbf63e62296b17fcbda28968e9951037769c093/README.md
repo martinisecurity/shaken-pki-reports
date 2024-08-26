@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 572G
 
-Tested At: 22 Aug 24 15:17 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -196 day(s)\
+Remaining Validity Period: -200 day(s)\
 Subject: CN=SHAKEN 572G, O=ITS Fiber, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/0ad527d5-8153-4dd6-80d3-2cf02e7b005e/6363a031b4f67369b2246be92537e1de.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/0ad527d5-8153-4dd6-80d3-2cf02e7b005e/6363
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

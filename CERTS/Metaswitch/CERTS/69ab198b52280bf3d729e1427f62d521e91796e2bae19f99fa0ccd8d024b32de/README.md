@@ -2,9 +2,9 @@
 
 ## Certificate Pembroke Telephone Company, Inc SHAKEN Cert 0376
 
-Tested At: 22 Aug 24 15:16 UTC\
+Tested At: 26 Aug 24 17:42 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 360 day(s)\
+Remaining Validity Period: 356 day(s)\
 Subject: CN=Pembroke Telephone Company\\, Inc SHAKEN Cert 0376, O=Pembroke Telephone Company\\, Inc, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/54f1b46e13a9f05d1b3f49b6f71314b0b97cc086
@@ -27,4 +27,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/54f1b46e13a9f05d1b3f49b6f71314b0b97cc08
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

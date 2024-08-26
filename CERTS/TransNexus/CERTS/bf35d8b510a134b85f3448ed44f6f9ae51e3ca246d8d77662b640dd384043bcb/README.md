@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0588
 
-Tested At: 22 Aug 24 15:26 UTC\
+Tested At: 26 Aug 24 17:44 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: 3 day(s)\
+Remaining Validity Period: -1 day(s)\
 Subject: CN=SHAKEN 0588, O=Com Net Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/fc014f5d-4bb4-4344-bae4-62b18a67786b/d59a4807ca1b0e5f2ab9bbbb5cae031a.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/fc014f5d-4bb4-4344-bae4-62b18a67786b/d59a
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate Ironton SHAKEN 1234 0175
 
-Tested At: 22 Aug 24 15:36 UTC\
+Tested At: 26 Aug 24 17:57 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 282 day(s)\
+Remaining Validity Period: 278 day(s)\
 Subject: CN=Ironton SHAKEN 1234 0175, OU=Central Office, O=Ironton Telephone, C=US, ST=PA, L=Coplay\
 Issuer: CN=SHAKEN Ribbon Issuing CA 2, OU=Certification Authority, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/rOzx_GsVRz/newcert2024-32276ad6675d8537ffc560e3696747c6
@@ -13,8 +13,8 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/rOzx_GsVRz/newcert2024-32276ad667
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 0175', but common name is 'Ironton SHAKEN 1234 0175' |
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

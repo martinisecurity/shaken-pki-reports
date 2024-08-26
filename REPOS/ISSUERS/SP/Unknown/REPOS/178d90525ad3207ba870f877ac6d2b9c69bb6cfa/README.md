@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://shaken.stir.mediacomcc.com/certs/mediacomcertchain.crt`\
-Tested At: 22 Aug 24 15:37 UTC\
-Time: 331ms
+Tested At: 26 Aug 24 17:57 UTC\
+Time: 286ms
 
 ### Issues
 
@@ -14,4 +14,4 @@ Time: 331ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

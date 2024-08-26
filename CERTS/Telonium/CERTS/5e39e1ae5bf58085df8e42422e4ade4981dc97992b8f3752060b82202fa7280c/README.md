@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 856K
 
-Tested At: 22 Aug 24 15:15 UTC\
+Tested At: 26 Aug 24 17:42 UTC\
 Initial Validity Period: 366 day(s)\
-Remaining Validity Period: 247 day(s)\
+Remaining Validity Period: 243 day(s)\
 Subject: serialNumber=0B468BE7-68D1-4BAB-A156-0A55543457B8, CN=SHAKEN 856K, O=1 Call Connect Inc, C=US\
 Issuer: CN=Telonium SHAKEN Intermediate G1, O=Telonium Communications LLC, L=Atlanta, ST=GA, C=US\
 Link: https://az.tax/5
@@ -14,4 +14,4 @@ Link: https://az.tax/5
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

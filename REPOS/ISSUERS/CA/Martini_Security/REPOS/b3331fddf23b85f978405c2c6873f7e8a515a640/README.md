@@ -3,11 +3,11 @@
 ## Martini Security
 
 Name: `https://p.mtsec.me/2884/Aercso_e_vj7.pem`\
-Tested At: 22 Aug 24 15:33 UTC\
-Time: 152ms
+Tested At: 26 Aug 24 17:49 UTC\
+Time: 193ms
 
 ### Issues
 
 no warning, or error, or notice date level issues were found
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

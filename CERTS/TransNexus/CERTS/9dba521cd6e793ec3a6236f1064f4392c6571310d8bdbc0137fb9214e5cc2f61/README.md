@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0360
 
-Tested At: 22 Aug 24 15:24 UTC\
+Tested At: 26 Aug 24 17:44 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -61 day(s)\
+Remaining Validity Period: -65 day(s)\
 Subject: CN=SHAKEN 0360, O=Ellijay Telephone Company (ETC Communications), C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/c5fc4b46-a2ed-4902-a1af-7d8538ab4581/c8553497c0108b6a7524d95b354ec108.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/c5fc4b46-a2ed-4902-a1af-7d8538ab4581/c855
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate Martini Security SHAKEN G3
 
-Tested At: 22 Aug 24 15:44 UTC\
+Tested At: 26 Aug 24 18:02 UTC\
 Initial Validity Period: 1825 day(s)\
-Remaining Validity Period: 1431 day(s)\
+Remaining Validity Period: 1427 day(s)\
 Subject: CN=Martini Security SHAKEN G3, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Issuer: O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US, CN=Martini Security SHAKEN ROOT R2
 
@@ -13,4 +13,4 @@ Issuer: O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US, CN=Martini Security S
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

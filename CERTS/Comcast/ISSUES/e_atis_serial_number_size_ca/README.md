@@ -19,4 +19,4 @@ No error, warning, or notice level issues were found
 | error | Comcast SHAKEN Intermediate CA | [view](../../CERTS/25af737667ed8b05cb8b8e7f44b2d7b5861551bea95ec48a73306ec75a92a662/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 59 |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

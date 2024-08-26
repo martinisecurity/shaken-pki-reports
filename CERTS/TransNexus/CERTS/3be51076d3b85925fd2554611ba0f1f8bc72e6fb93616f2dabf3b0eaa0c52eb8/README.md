@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 733J
 
-Tested At: 22 Aug 24 15:19 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -58 day(s)\
+Remaining Validity Period: -62 day(s)\
 Subject: CN=SHAKEN 733J, O=Wiretap Telecom, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/257dc117-4652-4444-9058-fceb2d81e92c/ef06258edf23a56625a944fab9d936fb.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/257dc117-4652-4444-9058-fceb2d81e92c/ef06
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

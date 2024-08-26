@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 019K
 
-Tested At: 22 Aug 24 15:23 UTC\
+Tested At: 26 Aug 24 17:44 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -379 day(s)\
+Remaining Validity Period: -383 day(s)\
 Subject: CN=SHAKEN 019K, O=InComm, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/9dddba71-1c41-426f-b60d-e6ee2f306bd0/a48ef0195a4e6c6069e17e55b2016c1b.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/9dddba71-1c41-426f-b60d-e6ee2f306bd0/a48e
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

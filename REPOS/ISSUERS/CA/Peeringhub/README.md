@@ -2,20 +2,20 @@
 
 ## Peeringhub
 
-- 49 repository URLs were included in the corpus being tested
+- 50 repository URLs were included in the corpus being tested
 - 1 repository URLs in the corpus were skipped because they were duplicated
-- 48 repository URLs being tested against the remaining rules
+- 49 repository URLs being tested against the remaining rules
 - 2.06 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 189ms average time it took to download each certificate
+- 210ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 48 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
+| 49 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
 | 1 | [e_http_status_200](ISSUES/e_http_status_200/README.md) | HTTP |
-| 48 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 49 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 | 2 | [w_atis_pem_certificate_chain](ISSUES/w_atis_pem_certificate_chain/README.md) | ATIS-1000080 |
 
 | Repository URLs | Not After |  Problems | Link |
@@ -64,10 +64,11 @@
 | `https://certificates.peeringhub.io/827K/HtWCqJla/827K.crt` | 04&#160;Mar&#160;24&#160;14:16&#160;UTC | true | [view](REPOS/9f6845bd6758c311e6b1bda58703a03c3db0e25d/README.md) |
 | `https://certificates.peeringhub.io/827K/bEGR3Wsf/827K.crt` | 10&#160;Jun&#160;24&#160;17:59&#160;UTC | true | [view](REPOS/55847ed0731701211c4aa71b8c675e5913ca9606/README.md) |
 | `https://certificates.peeringhub.io/827K/pBSrOYUF/827K.crt` | 22&#160;Aug&#160;24&#160;15:01&#160;UTC | true | [view](REPOS/914c9b4a022257ebd68c9ea2e497c0533be50239/README.md) |
+| `https://certificates.peeringhub.io/827K/z2bF8txR/827K.crt` | 29&#160;Sep&#160;24&#160;15:40&#160;UTC | true | [view](REPOS/b459d35631c45cf92562d2b43547670237fc94bb/README.md) |
 | `https://certificates.peeringhub.io/845K/845K.crt` | 31&#160;Aug&#160;24&#160;15:57&#160;UTC | true | [view](REPOS/ea9e57a1477571077fb4bf636f2e7cc3be41e16b/README.md) |
 | `https://certificates.peeringhub.io/869K/869K.crt` | 12&#160;Mar&#160;25&#160;18:23&#160;UTC | true | [view](REPOS/4bdf13506f56c84e1914039797c26c7ada875261/README.md) |
 | `https://certificates.peeringhub.io/883K/883K.crt` | 18&#160;Jun&#160;25&#160;21:30&#160;UTC | true | [view](REPOS/414ecea8e16aafcee4066f8c2d8320a66edf63d2/README.md) |
 | `https://certificates.peeringhub.io/939K/OEwhmbDj/939K.crt` | 11&#160;Jun&#160;25&#160;20:32&#160;UTC | true | [view](REPOS/10d4e845d9fadd4097fcdbb76a1fa24e48f25d56/README.md) |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

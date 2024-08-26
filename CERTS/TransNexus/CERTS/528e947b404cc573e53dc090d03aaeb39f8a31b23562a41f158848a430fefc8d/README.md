@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 065J
 
-Tested At: 22 Aug 24 15:18 UTC\
+Tested At: 26 Aug 24 17:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -52 day(s)\
+Remaining Validity Period: -56 day(s)\
 Subject: CN=SHAKEN 065J, O=One Ring Networks, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/1de2a6c6-9b1b-4894-8c0c-0cccfdf25e8d/2dea1e1a5be5959de877c962a430ac6b.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/1de2a6c6-9b1b-4894-8c0c-0cccfdf25e8d/2dea
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

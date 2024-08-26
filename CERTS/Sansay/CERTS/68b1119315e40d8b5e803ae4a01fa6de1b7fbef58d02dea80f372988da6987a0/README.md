@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 826K Infinity Communications LLC
 
-Tested At: 22 Aug 24 15:16 UTC\
+Tested At: 26 Aug 24 17:42 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 175 day(s)\
+Remaining Validity Period: 170 day(s)\
 Subject: CN=SHAKEN 826K Infinity Communications LLC, O=Infinity Communications LLC, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cdn.cnxcdn.com/shaken/245d4ca4b1.crt
@@ -16,4 +16,4 @@ Link: https://cdn.cnxcdn.com/shaken/245d4ca4b1.crt
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC

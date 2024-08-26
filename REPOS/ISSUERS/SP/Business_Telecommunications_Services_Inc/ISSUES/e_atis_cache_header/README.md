@@ -12,4 +12,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://stirshaken-m.bts.io/api/v1/certificates/bts_b3f8527d0c31ee0d9d9e19da01e8cf68.cer` | 11&#160;Apr&#160;25&#160;15:17&#160;UTC | true | [view](../../REPOS/cb1a0817887fa75c40cd730cdfb0a8bef92288df/README.md) |
 
 
-Generated: 22 Aug 24 15:44 UTC
+Generated: 26 Aug 24 18:03 UTC
