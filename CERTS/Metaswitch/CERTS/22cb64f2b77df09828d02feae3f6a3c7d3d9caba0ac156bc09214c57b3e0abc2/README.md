@@ -2,9 +2,9 @@
 
 ## Certificate Allstream SHAKEN 4130
 
-Tested At: 22 Aug 24 15:19 UTC\
+Tested At: 26 Aug 24 18:01 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 949 day(s)\
+Remaining Validity Period: 944 day(s)\
 Subject: CN=Allstream SHAKEN 4130, OU=QCall, O=Allstream Business US\\, LLC, L=Vancouver, ST=WA, C=US\
 Issuer: O=Metaswitch Networks, C=GB, CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cert-stir-us.allstream.com/certs/allstreamcertchain.crt
@@ -17,4 +17,4 @@ Link: https://cert-stir-us.allstream.com/certs/allstreamcertchain.crt
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

@@ -3,8 +3,8 @@
 ## TextMe Incorporated
 
 Name: `https://textme-stirshaken.s3.us-west-2.amazonaws.com/textme-bundle_10-26-2023.cer`\
-Tested At: 22 Aug 24 16:03 UTC\
-Time: 289ms
+Tested At: 26 Aug 24 18:46 UTC\
+Time: 349ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 289ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

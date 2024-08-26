@@ -2,9 +2,9 @@
 
 ## Certificate Hunter Communications Shaken Cert 660C
 
-Tested At: 22 Aug 24 15:19 UTC\
+Tested At: 26 Aug 24 18:01 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: -114 day(s)\
+Remaining Validity Period: -119 day(s)\
 Subject: CN=Hunter Communications Shaken Cert 660C, O=Hunter Communications, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/f9f2d87b2253e0410fd2752c4f63bd582c46c1a8
@@ -13,8 +13,8 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/f9f2d87b2253e0410fd2752c4f63bd582c46c1a
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common Name attribute 'Hunter Communications Shaken Cert 660C' does not contain 'SHAKEN' |
 | [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
+| [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common Name attribute 'Hunter Communications Shaken Cert 660C' does not contain 'SHAKEN' |
 
 ### Not Effective
 
@@ -30,4 +30,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/f9f2d87b2253e0410fd2752c4f63bd582c46c1a
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

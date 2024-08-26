@@ -2,9 +2,9 @@
 
 ## Certificate Cellular South Licenses SHAKEN Cert 6581
 
-Tested At: 22 Aug 24 15:19 UTC\
+Tested At: 26 Aug 24 18:01 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 907 day(s)\
+Remaining Validity Period: 903 day(s)\
 Subject: CN=Cellular South Licenses SHAKEN Cert 6581, O=Cellular South Licenses  DBA C Spire, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/d1af372b9cdb3ceba1f85f4ec3657797b3eb1c7f
@@ -13,9 +13,9 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/d1af372b9cdb3ceba1f85f4ec3657797b3eb1c7
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 6581', but common name is 'Cellular South Licenses SHAKEN Cert 6581' |
 | [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 6581', but common name is 'Cellular South Licenses SHAKEN Cert 6581' |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

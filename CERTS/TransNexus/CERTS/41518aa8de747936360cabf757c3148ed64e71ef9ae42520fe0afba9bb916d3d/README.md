@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 9472
 
-Tested At: 22 Aug 24 15:26 UTC\
+Tested At: 26 Aug 24 18:10 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -88 day(s)\
+Remaining Validity Period: -92 day(s)\
 Subject: CN=SHAKEN 9472, O=Biddeford Internet Corp. d.b.a GWI, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/ec85b81d-5369-4c31-9f53-c1232eecd826/d15795d755915f2ab5527fb1b83a4fa0.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/ec85b81d-5369-4c31-9f53-c1232eecd826/d157
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://stirshaken.telcentris.sonoc.io/api/v1/certificates/Voxox_696J_1`\
-Tested At: 22 Aug 24 16:03 UTC\
-Time: 145ms
+Tested At: 26 Aug 24 18:46 UTC\
+Time: 372ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 145ms
 |------|------|--------|---------|
 | [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "https://stirshaken.telcentris.sonoc.io/api/v1/certificates/Voxox_696J_1": dial tcp: lookup stirshaken.telcentris.sonoc.io: no such host |
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

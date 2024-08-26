@@ -2,9 +2,9 @@
 
 ## Certificate Utility SHAKEN 9262
 
-Tested At: 22 Aug 24 15:18 UTC\
+Tested At: 26 Aug 24 18:01 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 994 day(s)\
+Remaining Validity Period: 990 day(s)\
 Subject: CN=Utility SHAKEN 9262, O=Utility Telecom Group\\, LLC, C=US\
 Issuer: O=Metaswitch Networks, C=GB, CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/163df7e9d1e2d91487cc2788653619a671bc9187
@@ -16,4 +16,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/163df7e9d1e2d91487cc2788653619a671bc918
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

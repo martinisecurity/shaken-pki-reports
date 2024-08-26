@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Zito Media Voice 624G
 
-Tested At: 22 Aug 24 15:54 UTC\
+Tested At: 26 Aug 24 18:37 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: -331 day(s)\
+Remaining Validity Period: -336 day(s)\
 Subject: CN=SHAKEN Zito Media Voice 624G, OU=Voice, O=Zito Media Voice, ST=Pennsylvania, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Zito_Media_Voice_624G
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/Zito_Media_Voice_624G
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 624G', but common name is 'SHAKEN Zito Media Voice 624G' |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

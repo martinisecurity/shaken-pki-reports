@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1653
 
-Tested At: 22 Aug 24 15:23 UTC\
+Tested At: 26 Aug 24 18:07 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -7 day(s)\
+Remaining Validity Period: -11 day(s)\
 Subject: CN=SHAKEN 1653, O=SDN, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/94e8be6a-1aa1-495b-b634-7e2fb18f0327/5e5af3ed5f81e1311a24e4c83bdfdd2d.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/94e8be6a-1aa1-495b-b634-7e2fb18f0327/5e5a
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

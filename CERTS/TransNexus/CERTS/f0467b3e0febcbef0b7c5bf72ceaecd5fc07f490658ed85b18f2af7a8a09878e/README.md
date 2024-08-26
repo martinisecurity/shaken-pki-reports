@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 179K
 
-Tested At: 22 Aug 24 15:19 UTC\
+Tested At: 26 Aug 24 18:03 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -295 day(s)\
+Remaining Validity Period: -299 day(s)\
 Subject: CN=SHAKEN 179K, O=The Tech Consultants\\, LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/2d93d07b-20ff-4289-a40d-959976cc0595/4d00e1715a5ddeba2ca2407c1f03c248.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/2d93d07b-20ff-4289-a40d-959976cc0595/4d00
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

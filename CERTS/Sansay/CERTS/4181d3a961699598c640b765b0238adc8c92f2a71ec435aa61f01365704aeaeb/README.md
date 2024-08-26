@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 563j Threshold Communications Inc
 
-Tested At: 22 Aug 24 15:45 UTC\
+Tested At: 26 Aug 24 18:28 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -20 day(s)\
+Remaining Validity Period: -25 day(s)\
 Subject: CN=SHAKEN 563j Threshold Communications Inc, O=Threshold Communications Inc, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/563j/429C7C70711E3820F0B8E1DEAE6FF3262264A1FC.pem
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/563j/429C7C70711E3820F0B8E1DEAE6FF3262264A1FC.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

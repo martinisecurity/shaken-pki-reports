@@ -19,4 +19,4 @@ No error, warning, or notice level issues were found
 | error | Telonium STI-CA Intermediate CA | [view](../../CERTS/7c701216e591c9a3b84550ff46566dd420c7f182eb3cfc5abe5739cdbe271169/README.md) | Subject MUST be present and MUST contain exactly one value for Country (C=). |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

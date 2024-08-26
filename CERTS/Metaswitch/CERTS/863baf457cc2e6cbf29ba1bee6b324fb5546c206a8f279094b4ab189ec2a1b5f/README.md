@@ -2,9 +2,9 @@
 
 ## Certificate Twin Lakes SHAKEN Cert 0579
 
-Tested At: 22 Aug 24 15:18 UTC\
+Tested At: 26 Aug 24 18:01 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 586 day(s)\
+Remaining Validity Period: 581 day(s)\
 Subject: CN=Twin Lakes SHAKEN Cert 0579, O=Twin Lakes, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/230562ee4f78391a4f429776b840b730947bb2f6
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/230562ee4f78391a4f429776b840b730947bb2f
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

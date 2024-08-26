@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 150K
 
-Tested At: 22 Aug 24 15:28 UTC\
+Tested At: 26 Aug 24 18:12 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -380 day(s)\
+Remaining Validity Period: -384 day(s)\
 Subject: CN=SHAKEN 150K, O=White Label Communications, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/179.233
@@ -25,4 +25,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/179.233
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 159K
 
-Tested At: 22 Aug 24 15:28 UTC\
+Tested At: 26 Aug 24 18:11 UTC\
 Initial Validity Period: 713 day(s)\
-Remaining Validity Period: 305 day(s)\
+Remaining Validity Period: 301 day(s)\
 Subject: serialNumber=26925bb2-f238-469f-9dbf-b87170b4d5b9, CN=SHAKEN 159K, O=Trinicom Communications LLC, C=US\
 Issuer: CN=Telonium STI-CA Intermediate CA, O=Telonium STI-CA\
 Link: https://certs.telonium.net/23/5fbf0ada.crt
@@ -16,4 +16,4 @@ Link: https://certs.telonium.net/23/5fbf0ada.crt
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.4.1.37476.9000.64.1 |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

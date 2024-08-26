@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 098E
 
-Tested At: 22 Aug 24 15:28 UTC\
+Tested At: 26 Aug 24 18:12 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -102 day(s)\
+Remaining Validity Period: -106 day(s)\
 Subject: CN=SHAKEN 098E, O=Truphone Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/161.329
@@ -16,4 +16,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/161.329
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

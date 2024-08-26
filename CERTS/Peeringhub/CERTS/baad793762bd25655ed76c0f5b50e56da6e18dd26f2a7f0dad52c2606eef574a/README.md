@@ -2,9 +2,9 @@
 
 ## Certificate VaultCom Networks Incorporated_1709236042630 SHAKEN 836K
 
-Tested At: 22 Aug 24 15:19 UTC\
+Tested At: 26 Aug 24 18:01 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 191 day(s)\
+Remaining Validity Period: 187 day(s)\
 Subject: CN=VaultCom Networks Incorporated_1709236042630 SHAKEN 836K, O=VaultCom Networks Incorporated, L=Spokane, ST=WA, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://cdn.cnxcdn.com/shaken/4952a7b40b.crt
@@ -14,4 +14,4 @@ Link: https://cdn.cnxcdn.com/shaken/4952a7b40b.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

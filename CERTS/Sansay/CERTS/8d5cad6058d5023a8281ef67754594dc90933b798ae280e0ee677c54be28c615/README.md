@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Townes Telecommunications 0335
 
-Tested At: 22 Aug 24 15:32 UTC\
+Tested At: 26 Aug 24 18:15 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: 15 day(s)\
+Remaining Validity Period: 11 day(s)\
 Subject: CN=SHAKEN Townes Telecommunications 0335, O=Townes Telecommunications, ST=Arkansas, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/0335/429C7C70711E3820F0B8E1DEAE6FF3262264A5E1.pem
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/0335/429C7C70711E3820F0B8E1DEAE6FF3262264A5E1.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 0335', but common name is 'SHAKEN Townes Telecommunications 0335' |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

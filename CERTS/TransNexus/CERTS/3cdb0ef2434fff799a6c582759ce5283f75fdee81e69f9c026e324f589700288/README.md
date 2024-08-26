@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 905K
 
-Tested At: 22 Aug 24 15:22 UTC\
+Tested At: 26 Aug 24 18:06 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -70 day(s)\
+Remaining Validity Period: -75 day(s)\
 Subject: CN=SHAKEN 905K, O=011 Telecom\\, LLC., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/7e9d4730-796b-464a-ab59-51fde11d7844/2714449fb95291e6d818ddef378b8a9c.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/7e9d4730-796b-464a-ab59-51fde11d7844/2714
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 084E
 
-Tested At: 22 Aug 24 15:28 UTC\
+Tested At: 26 Aug 24 18:11 UTC\
 Initial Validity Period: 353 day(s)\
-Remaining Validity Period: -55 day(s)\
+Remaining Validity Period: -59 day(s)\
 Subject: serialNumber=517b758b-3dd0-458d-85b5-6bc2abe1ca18, CN=SHAKEN 084E, O=ChoiceTEL, C=US\
 Issuer: CN=Telonium STI-CA Intermediate CA, O=Telonium STI-CA\
 Link: https://choicetel.net/084E.crt
@@ -16,4 +16,4 @@ Link: https://choicetel.net/084E.crt
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.4.1.37476.9000.64.1 |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

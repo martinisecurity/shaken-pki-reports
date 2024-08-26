@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 597F
 
-Tested At: 22 Aug 24 15:59 UTC\
+Tested At: 26 Aug 24 18:42 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -194 day(s)\
+Remaining Validity Period: -198 day(s)\
 Subject: CN=SHAKEN 597F, O=VoIP Innovations LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/4271238eaebdb4a770896e8a3a4d18618f648cb6
@@ -25,4 +25,4 @@ Link: https://ssc.getsipnav.com/certs/4271238eaebdb4a770896e8a3a4d18618f648cb6
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

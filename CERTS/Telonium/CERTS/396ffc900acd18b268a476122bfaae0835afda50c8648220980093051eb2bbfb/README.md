@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 715K
 
-Tested At: 22 Aug 24 15:27 UTC\
+Tested At: 26 Aug 24 18:10 UTC\
 Initial Validity Period: 761 day(s)\
-Remaining Validity Period: 751 day(s)\
+Remaining Validity Period: 746 day(s)\
 Subject: serialNumber=2C066C62-033B-48C3-95BE-2EF2D9403552, CN=SHAKEN 715K, O=Telorca LLC, C=US\
 Issuer: CN=Telonium SHAKEN Intermediate G1, O=Telonium Communications LLC, L=Atlanta, ST=GA, C=US\
 Link: https://certificates.peeringhub.io/715K/715K.crt
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/715K/715K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

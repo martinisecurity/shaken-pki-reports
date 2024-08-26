@@ -3,17 +3,15 @@
 ## Martini Security
 
 - 1884 repository URLs were included in the corpus being tested
-- 439 repository URLs in the corpus were skipped because they were duplicated
-- 1445 repository URLs being tested against the remaining rules
-- 1.00 issues on average found in non-compliant certificate repository URLs
-- 0.07% of repository URLs contain one or more Error level issue
+- 440 repository URLs in the corpus were skipped because they were duplicated
+- 1444 repository URLs being tested against the remaining rules
+- 0.00 issues on average found in non-compliant certificate repository URLs
+- 0.00% of repository URLs contain one or more Error level issue
 - 0.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 114ms average time it took to download each certificate
+- 112ms average time it took to download each certificate
 
-| Instances | Test | Source |
-|-----------|------|--------|
-| 1 | [e_request_timeout](ISSUES/e_request_timeout/README.md) | System |
+No error, warning, or notice level issues were found
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
@@ -295,7 +293,6 @@
 | `https://p.mtsec.me/2884/G6c2dStk2tij.pem` | 07&#160;Jan&#160;24&#160;00:00&#160;UTC | false | [view](REPOS/e29969b589a5807389b92a747c753860df2a25ae/README.md) |
 | `https://p.mtsec.me/2884/G7BZkZ-31csm.pem` | 04&#160;Jan&#160;24&#160;00:00&#160;UTC | false | [view](REPOS/5ab0217074b62e2e2ce3cd5fe7eb8d1154602a16/README.md) |
 | `https://p.mtsec.me/2884/GAlIef0Ala10.pem` | 07&#160;Nov&#160;23&#160;22:13&#160;UTC | false | [view](REPOS/d1277a84632559158053c2a2e0a07b66ba2117da/README.md) |
-| `https://p.mtsec.me/2884/GAlIef0Ala10.pem` |  | true | [view](REPOS/d1277a84632559158053c2a2e0a07b66ba2117da/README.md) |
 | `https://p.mtsec.me/2884/GDehsn7SKLIc.pem` | 26&#160;Oct&#160;23&#160;12:00&#160;UTC | false | [view](REPOS/0d2c8bce41133cc297f9effa99422c7fbec25dc6/README.md) |
 | `https://p.mtsec.me/2884/GEsKoDGlyY1x.pem` | 14&#160;Mar&#160;24&#160;00:00&#160;UTC | false | [view](REPOS/260921ca92bf074f83420852d782c30323074be7/README.md) |
 | `https://p.mtsec.me/2884/GFMXBE8N1BaP.pem` | 21&#160;Nov&#160;23&#160;19:53&#160;UTC | false | [view](REPOS/a4928a0da07eacdef51ac694fc657b2650177333/README.md) |
@@ -1464,4 +1461,4 @@
 | `https://p.mtsec.me/2e5a/u09COkmhuGT2.pem` | 08&#160;Aug&#160;24&#160;00:00&#160;UTC | false | [view](REPOS/4e0b88eca09feb09b92a093f185cb72bdefd995b/README.md) |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

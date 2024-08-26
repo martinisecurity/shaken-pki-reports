@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 113ms average time it took to download each certificate
+- 106ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -23,4 +23,4 @@
 | `https://certificate.zt.plivo.com/cert20250501.crt` | 01&#160;May&#160;25&#160;00:00&#160;UTC | true | [view](REPOS/0559aef85822e8bfb65965e06542d82094a72d63/README.md) |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

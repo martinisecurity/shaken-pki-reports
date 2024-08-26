@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 736J
 
-Tested At: 22 Aug 24 15:27 UTC\
+Tested At: 26 Aug 24 18:11 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 191 day(s)\
+Remaining Validity Period: 187 day(s)\
 Subject: CN=SHAKEN 736J, O=Masergy Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/736J/4031c7ae-ddff-4c7e-973e-c7ff9317c715.pem
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/736J/4031c7ae-ddff-4c7e-973e-c7ff9317c
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

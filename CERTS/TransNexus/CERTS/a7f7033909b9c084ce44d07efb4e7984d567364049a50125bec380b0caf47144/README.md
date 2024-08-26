@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1642
 
-Tested At: 22 Aug 24 15:19 UTC\
+Tested At: 26 Aug 24 18:02 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -58 day(s)\
+Remaining Validity Period: -62 day(s)\
 Subject: CN=SHAKEN 1642, O=SDN, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/1214ae31-f7b7-492d-98ab-6190c6053013/864146c5123f3a6f4d9522ffee30cb45.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/1214ae31-f7b7-492d-98ab-6190c6053013/8641
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

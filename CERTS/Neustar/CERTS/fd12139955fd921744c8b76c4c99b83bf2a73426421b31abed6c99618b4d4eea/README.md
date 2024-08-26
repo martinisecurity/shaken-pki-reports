@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 869J
 
-Tested At: 22 Aug 24 15:59 UTC\
+Tested At: 26 Aug 24 18:42 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 283 day(s)\
+Remaining Validity Period: 279 day(s)\
 Subject: CN=SHAKEN 869J, O=SIPNEX Telecom LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/1650c6a6a3b5835925f3341eb8b029046ce383ee
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/1650c6a6a3b5835925f3341eb8b029046ce383ee
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

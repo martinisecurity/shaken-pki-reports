@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 220K
 
-Tested At: 22 Aug 24 16:04 UTC\
+Tested At: 26 Aug 24 18:46 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: -218 day(s)\
+Remaining Validity Period: -222 day(s)\
 Subject: O=Ayden Consulting\\, LLC, C=US, serialNumber=377843F986653F50C68E3DB0B51327F1, CN=SHAKEN 220K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/HVTndB9kJbEh.pem
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/HVTndB9kJbEh.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

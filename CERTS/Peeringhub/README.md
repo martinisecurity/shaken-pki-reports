@@ -11,19 +11,19 @@
 
 - 79 certificates were included in the corpus being tested
 - 10 certificates in the corpus were skipped because they are duplicates
-- 45 certificates in the corpus were skipped because they are expired
+- 46 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 24 certificates being tested against the remaining rules
+- 23 certificates being tested against the remaining rules
 - 1.00 issues on average found in unexpired, trusted, and non-compliant certificates
-- 12.50% of certificates contain one or more Error level issue
+- 13.04% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 281 days is the average remaining validity for the certificates in the corpus
-- 278 days is the average initial validity for the certificates in the corpus
-- 7 certificates expire in the next 30 days
-- 1.04 average number of unexpired certificates per OCN observed
-- 23 unique OCNs observed in unexpired and valid certificate corpus
+- 292 days is the average remaining validity for the certificates in the corpus
+- 290 days is the average initial validity for the certificates in the corpus
+- 6 certificates expire in the next 30 days
+- 1.05 average number of unexpired certificates per OCN observed
+- 22 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -41,7 +41,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 5635 days is the average remaining validity for the certificates in the corpus
+- 5634 days is the average remaining validity for the certificates in the corpus
 - 5475 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -79,7 +79,6 @@
 | 13&#160;Aug&#160;24&#160;13:01&#160;UTC | Access Tandem SHAKEN 731J | 11&#160;Aug&#160;25&#160;10:14&#160;UTC | false | [view](CERTS/62a1efb1b1c60730d59f83976d022fbea2fc1d1c431f9d3842ff9de04c922a80/README.md) |
 | 13&#160;Aug&#160;24&#160;13:32&#160;UTC | Voice Term SHAKEN 240K | 11&#160;Aug&#160;25&#160;09:21&#160;UTC | false | [view](CERTS/c2cbcc1548108e53c296d8f8132613e8884d6b3ef28876df227dc323325c5336/README.md) |
 | 15&#160;Aug&#160;24&#160;14:12&#160;UTC | CIBILLS LLC SHAKEN 845K | 31&#160;Aug&#160;24&#160;15:57&#160;UTC | false | [view](CERTS/aa43b2d89d6469e66ae8d9d4ddcdc3f8a01a44663e07c70b8fa845f75bc5828d/README.md) |
-| 22&#160;Aug&#160;24&#160;00:00&#160;UTC | Losh Communications, Inc SHAKEN 149K 2024-08-22_000001 | 24&#160;Aug&#160;24&#160;19:56&#160;UTC | false | [view](CERTS/a42cc9bf9ab8caad5c7a3d56e45571beeb5448ea43f39b9206599997ff2848ed/README.md) |
 
 #### CA Certificates
 
@@ -89,4 +88,4 @@
 | 22&#160;Jun&#160;22&#160;22:45&#160;UTC | Peeringhub Inc SHAKEN Intermediate CA 2 | 19&#160;Jun&#160;32&#160;22:45&#160;UTC | true | [view](CERTS/f00871963a40b04269c4b019968e42f9f40964cbfb512ff5342307e9942874ce/README.md) |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

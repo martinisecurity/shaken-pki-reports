@@ -2,9 +2,9 @@
 
 ## Certificate Comcast SHAKEN Intermediate CA
 
-Tested At: 22 Aug 24 16:06 UTC\
+Tested At: 26 Aug 24 18:48 UTC\
 Initial Validity Period: 7300 day(s)\
-Remaining Validity Period: 7076 day(s)\
+Remaining Validity Period: 7072 day(s)\
 Subject: CN=Comcast SHAKEN Intermediate CA, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US\
 Issuer: CN=Comcast SHAKEN Root CA, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US
 
@@ -12,8 +12,8 @@ Issuer: CN=Comcast SHAKEN Root CA, O=Comcast, L=Philadelphia, ST=Pennsylvania, C
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_serial_number_size_ca](../../ISSUES/e_atis_serial_number_size_ca/README.md) | error | ATIS1000080 | STI certificates shall have a serial number that contains at least 64 bits, got 59 |
 | [e_atis_ext_crl_distribution_struct_ca](../../ISSUES/e_atis_ext_crl_distribution_struct_ca/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+| [e_atis_serial_number_size_ca](../../ISSUES/e_atis_serial_number_size_ca/README.md) | error | ATIS1000080 | STI certificates shall have a serial number that contains at least 64 bits, got 59 |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

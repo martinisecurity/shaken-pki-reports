@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 813J
 
-Tested At: 22 Aug 24 15:59 UTC\
+Tested At: 26 Aug 24 18:40 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 14 day(s)\
+Remaining Validity Period: 9 day(s)\
 Subject: CN=SHAKEN 813J, O=RSCOM LTD, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://popglobal.46labs.com
@@ -16,4 +16,4 @@ Link: https://popglobal.46labs.com
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

@@ -12,4 +12,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://shaken.stir.mediacomcc.com/certs/mediacom2024certchain.crt` | 03&#160;Jun&#160;27&#160;17:14&#160;UTC | true | [view](../../REPOS/dcb58738410721461a6d6f2bc09bc1b23b58858f/README.md) |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

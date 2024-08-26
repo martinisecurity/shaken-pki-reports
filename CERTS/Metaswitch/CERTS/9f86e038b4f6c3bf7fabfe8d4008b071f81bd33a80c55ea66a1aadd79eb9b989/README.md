@@ -2,9 +2,9 @@
 
 ## Certificate WOW Internet Cable and Phone SHAKEN Cert 665E
 
-Tested At: 22 Aug 24 15:18 UTC\
+Tested At: 26 Aug 24 18:01 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: -89 day(s)\
+Remaining Validity Period: -93 day(s)\
 Subject: CN=WOW Internet Cable and Phone SHAKEN Cert 665E, O=WOW Internet Cable and Phone, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/786c2c44c5fcfd1ed973607e3ac560ee3425d030
@@ -29,4 +29,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/786c2c44c5fcfd1ed973607e3ac560ee3425d03
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

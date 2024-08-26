@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 142ms average time it took to download each certificate
+- 155ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://robocall.sti.uscellular.com/certs/uscellular2024certchain.crt` | 15&#160;Mar&#160;27&#160;10:27&#160;UTC | true | [view](REPOS/700442f665b6fc4ec48b5bda709eacc49afeb91f/README.md) |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

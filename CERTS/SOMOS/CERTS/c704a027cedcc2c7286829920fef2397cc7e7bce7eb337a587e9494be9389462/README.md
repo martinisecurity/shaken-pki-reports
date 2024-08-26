@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN ROOT - somos.com
 
-Tested At: 22 Aug 24 16:06 UTC\
+Tested At: 26 Aug 24 18:48 UTC\
 Initial Validity Period: 9132 day(s)\
-Remaining Validity Period: 8908 day(s)\
+Remaining Validity Period: 8904 day(s)\
 Subject: CN=SHAKEN ROOT - somos.com, O=SOMOS, C=US\
 Issuer: CN=SHAKEN ROOT - somos.com, O=SOMOS, C=US
 
@@ -13,4 +13,4 @@ Issuer: CN=SHAKEN ROOT - somos.com, O=SOMOS, C=US
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

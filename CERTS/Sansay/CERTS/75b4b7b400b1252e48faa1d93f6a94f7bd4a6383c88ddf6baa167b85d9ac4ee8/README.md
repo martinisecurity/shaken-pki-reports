@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN MagicJack 324E
 
-Tested At: 22 Aug 24 15:59 UTC\
+Tested At: 26 Aug 24 18:42 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -266 day(s)\
+Remaining Validity Period: -270 day(s)\
 Subject: CN=SHAKEN MagicJack 324E, OU=NOC, O=MagicJack, ST=Florida, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://sns.magicjack.com/MagicJack_2022_12_324E.crt
@@ -26,4 +26,4 @@ Link: https://sns.magicjack.com/MagicJack_2022_12_324E.crt
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

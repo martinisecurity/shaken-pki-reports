@@ -9,21 +9,21 @@
 
 #### Leaf Certificates
 
-- 1893 certificates were included in the corpus being tested
-- 444 certificates in the corpus were skipped because they are duplicates
-- 1257 certificates in the corpus were skipped because they are expired
+- 1894 certificates were included in the corpus being tested
+- 445 certificates in the corpus were skipped because they are duplicates
+- 1262 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 192 certificates being tested against the remaining rules
+- 187 certificates being tested against the remaining rules
 - 0.00 issues on average found in unexpired, trusted, and non-compliant certificates
 - 0.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
 - 101 days is the average remaining validity for the certificates in the corpus
-- 100 days is the average initial validity for the certificates in the corpus
-- 60 certificates expire in the next 30 days
-- 14.77 average number of unexpired certificates per OCN observed
-- 13 unique OCNs observed in unexpired and valid certificate corpus
+- 101 days is the average initial validity for the certificates in the corpus
+- 65 certificates expire in the next 30 days
+- 15.58 average number of unexpired certificates per OCN observed
+- 12 unique OCNs observed in unexpired and valid certificate corpus
 
 No error, warning, or notice level issues were found
 
@@ -39,7 +39,7 @@ No error, warning, or notice level issues were found
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 60.00% of certificates are too old to be assessed against currently enforced expectations
-- 5413 days is the average remaining validity for the certificates in the corpus
+- 5412 days is the average remaining validity for the certificates in the corpus
 - 4748 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -59,11 +59,6 @@ No error, warning, or notice level issues were found
 | 25&#160;Mar&#160;24&#160;18:34&#160;UTC | SHAKEN 861K | 25&#160;Mar&#160;25&#160;18:34&#160;UTC | false | [view](CERTS/b4b93a1b584d0848bc2f312c96f9b7e5f04e41bdbf0324598eca9a2d76892dd1/README.md) |
 | 12&#160;Apr&#160;24&#160;05:52&#160;UTC | SHAKEN 849K | 12&#160;Apr&#160;25&#160;05:52&#160;UTC | false | [view](CERTS/562d2df9dbcbf339e73c6da24c2514379ab74607234daa7798d6207566ccf2eb/README.md) |
 | 23&#160;May&#160;24&#160;13:52&#160;UTC | SHAKEN 760K | 22&#160;Jan&#160;25&#160;15:27&#160;UTC | false | [view](CERTS/daea61bdd6bf808be5755f3de096a34714658ad6f7e1f50edd7040d9e8e38682/README.md) |
-| 27&#160;May&#160;24&#160;12:00&#160;UTC | SHAKEN 683G | 25&#160;Aug&#160;24&#160;12:00&#160;UTC | false | [view](CERTS/7bf36f975e13c580d646545635896dc918842286a210c9772f43489cc38037ad/README.md) |
-| 28&#160;May&#160;24&#160;12:00&#160;UTC | SHAKEN 683G | 26&#160;Aug&#160;24&#160;12:00&#160;UTC | false | [view](CERTS/b4d91de40d512d99c97b7a726aef6e0758ae16e9429445357c8a9fc0cbe5dd34/README.md) |
-| 28&#160;May&#160;24&#160;12:00&#160;UTC | SHAKEN 738J | 26&#160;Aug&#160;24&#160;12:00&#160;UTC | false | [view](CERTS/5fc09fe30f1ade517bad302a4b2d823e6962b86ec22b51f476a131c7f396cac6/README.md) |
-| 28&#160;May&#160;24&#160;21:06&#160;UTC | SHAKEN 066K | 26&#160;Aug&#160;24&#160;05:00&#160;UTC | false | [view](CERTS/866a3a85f403c505296702711b4f7eaad23303652b64a3465dd54921a50a4d3a/README.md) |
-| 28&#160;May&#160;24&#160;21:08&#160;UTC | SHAKEN 031K | 26&#160;Aug&#160;24&#160;05:00&#160;UTC | false | [view](CERTS/994a497dca4a31dffd025da6a109d50e065cc8aee026515874e10cbf54432d95/README.md) |
 | 29&#160;May&#160;24&#160;12:00&#160;UTC | SHAKEN 683G | 27&#160;Aug&#160;24&#160;12:00&#160;UTC | false | [view](CERTS/18649497810f65eedabbb38e5899b86242f46e9648d2eec1a11c56b4a9e54600/README.md) |
 | 29&#160;May&#160;24&#160;12:00&#160;UTC | SHAKEN 738J | 27&#160;Aug&#160;24&#160;12:00&#160;UTC | false | [view](CERTS/c84d10c806095e5e6e18f495cbf5b39cc571f39b333479149cd66eaab7d04806/README.md) |
 | 30&#160;May&#160;24&#160;12:00&#160;UTC | SHAKEN 683G | 28&#160;Aug&#160;24&#160;12:00&#160;UTC | false | [view](CERTS/0733c3a74f21b983c1a2ff8d16df885a8014b83c0f0b0ed24fd3648e2d9536a5/README.md) |
@@ -257,4 +252,4 @@ No error, warning, or notice level issues were found
 | 25&#160;Jul&#160;23&#160;12:13&#160;UTC | Martini Security SHAKEN G3 | 23&#160;Jul&#160;28&#160;12:13&#160;UTC | false | [view](CERTS/4991793839608f92c12b8bb6e19cb5a99077ad9dc25c073c7a95c498132257aa/README.md) |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

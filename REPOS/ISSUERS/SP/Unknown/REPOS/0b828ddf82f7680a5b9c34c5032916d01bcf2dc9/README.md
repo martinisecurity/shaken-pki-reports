@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://187.174.67.118:8080/c217323cbb937bfe39d9847dc144baaf.cer`\
-Tested At: 22 Aug 24 15:18 UTC\
-Time: 101ms
+Tested At: 26 Aug 24 18:01 UTC\
+Time: 100ms
 
 ### Issues
 
@@ -12,9 +12,9 @@ Time: 101ms
 |------|------|--------|---------|
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [e_http_status_200](../../ISSUES/e_http_status_200/README.md) | error | HTTP | HTTP response shall have StatusCode 200, but it is 404 Not Found |
-| [e_tls_transport](../../ISSUES/e_tls_transport/README.md) | error | System | Get "https://187.174.67.118:8080/c217323cbb937bfe39d9847dc144baaf.cer": x509: certificate has expired or is not yet valid: current time 2024-08-22T15:18:36Z is after 2024-04-01T12:18:54Z |
+| [e_tls_transport](../../ISSUES/e_tls_transport/README.md) | error | System | Get "https://187.174.67.118:8080/c217323cbb937bfe39d9847dc144baaf.cer": x509: certificate has expired or is not yet valid: current time 2024-08-26T18:01:03Z is after 2024-04-01T12:18:54Z |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 | [w_atis_protocol](../../ISSUES/w_atis_protocol/README.md) | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

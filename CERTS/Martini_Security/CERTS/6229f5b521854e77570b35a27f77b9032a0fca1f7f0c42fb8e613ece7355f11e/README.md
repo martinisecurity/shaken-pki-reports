@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 031K
 
-Tested At: 22 Aug 24 16:03 UTC\
+Tested At: 26 Aug 24 18:46 UTC\
 Initial Validity Period: 4 day(s)\
-Remaining Validity Period: -293 day(s)\
+Remaining Validity Period: -297 day(s)\
 Subject: O=TISD\\, Inc., C=US, serialNumber=7F050888751240BC27C0434D16974201, CN=SHAKEN 031K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/CHS2JRnsSj-P.pem
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/CHS2JRnsSj-P.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 123ms average time it took to download each certificate
+- 130ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://sticr-cstga.ccid.neustar/api/v1/certificate/28c84da8827709c092d8ced9d19cf206.pem` | 25&#160;Feb&#160;25&#160;17:45&#160;UTC | true | [view](REPOS/a84259ea84942a909249b542a7f61ee8b33318c6/README.md) |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

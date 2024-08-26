@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 048K
 
-Tested At: 22 Aug 24 16:04 UTC\
+Tested At: 26 Aug 24 18:46 UTC\
 Initial Validity Period: 25 day(s)\
-Remaining Validity Period: -287 day(s)\
+Remaining Validity Period: -292 day(s)\
 Subject: O=Arbuckle Communications\\, LLC, C=US, serialNumber=6D62E8FB1804BBA2C5D033B3DC630EC2, CN=SHAKEN 048K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/FPYWJpjF9Rw9.pem
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/FPYWJpjF9Rw9.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

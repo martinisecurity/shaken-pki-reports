@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN CIMA Telecom, Inc 313K
 
-Tested At: 22 Aug 24 15:36 UTC\
+Tested At: 26 Aug 24 18:19 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -294 day(s)\
+Remaining Validity Period: -299 day(s)\
 Subject: emailAddress=jmedina@cimagroup.com, CN=SHAKEN CIMA Telecom\\, Inc 313K, OU=Operations, O=CIMA Telecom\\, Inc, ST=Florida, C=US, emailAddress=jmedina@cimagroup.com\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/313K/order/168_313K_152
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/313K/order/168_313K_152
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J
 
-Tested At: 22 Aug 24 15:36 UTC\
+Tested At: 26 Aug 24 18:19 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -185 day(s)\
+Remaining Validity Period: -189 day(s)\
 Subject: CN=SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J, O=Greenfly Networks Inc dba Clearfly Communications, ST=Montana, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/210J/order/668_210J_63
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/210J/order/668_210J_63
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 210J', but common name is 'SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J' |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

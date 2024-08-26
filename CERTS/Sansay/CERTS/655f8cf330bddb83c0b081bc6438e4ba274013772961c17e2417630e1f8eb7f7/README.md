@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Arbeit 816J
 
-Tested At: 22 Aug 24 15:53 UTC\
+Tested At: 26 Aug 24 18:36 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 142 day(s)\
+Remaining Validity Period: 138 day(s)\
 Subject: CN=SHAKEN Arbeit 816J, OU=TAC, O=Arbeit, ST=New York, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Arbeit_816J
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Arbeit_816J
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 816J', but common name is 'SHAKEN Arbeit 816J' |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

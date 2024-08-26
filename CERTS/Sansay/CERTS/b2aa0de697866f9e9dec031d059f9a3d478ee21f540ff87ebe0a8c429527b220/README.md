@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 938K Lynktel
 
-Tested At: 22 Aug 24 15:59 UTC\
+Tested At: 26 Aug 24 18:42 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 283 day(s)\
+Remaining Validity Period: 279 day(s)\
 Subject: CN=SHAKEN 938K Lynktel, O=Lynktel, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://ssc.getsipnav.com/certs/adb11abc916d55f59390aebfac21a502f9e4a3ef
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/adb11abc916d55f59390aebfac21a502f9e4a3ef
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

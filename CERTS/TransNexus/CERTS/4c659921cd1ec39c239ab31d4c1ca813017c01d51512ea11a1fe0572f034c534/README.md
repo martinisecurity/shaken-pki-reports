@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 622J
 
-Tested At: 22 Aug 24 15:27 UTC\
+Tested At: 26 Aug 24 18:11 UTC\
 Initial Validity Period: 180 day(s)\
-Remaining Validity Period: -403 day(s)\
+Remaining Validity Period: -408 day(s)\
 Subject: CN=SHAKEN 622J, O=Skye Telecom LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/622J/15bae790-c5f6-4157-8dc2-9b9dd8032aa3.pem
@@ -25,4 +25,4 @@ Link: https://certificates.transnexus.com/622J/15bae790-c5f6-4157-8dc2-9b9dd8032
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

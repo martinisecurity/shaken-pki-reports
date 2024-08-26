@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 074K
 
-Tested At: 22 Aug 24 15:18 UTC\
+Tested At: 26 Aug 24 18:00 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -390 day(s)\
+Remaining Validity Period: -394 day(s)\
 Subject: CN=SHAKEN 074K, O=Coztel Carrier, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: http://5.161.95.22/191c4c42dd7fa6115e84100637e42c99.cer
@@ -25,4 +25,4 @@ Link: http://5.161.95.22/191c4c42dd7fa6115e84100637e42c99.cer
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 186K
 
-Tested At: 22 Aug 24 15:56 UTC\
+Tested At: 26 Aug 24 18:38 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 310 day(s)\
+Remaining Validity Period: 306 day(s)\
 Subject: O=Go2Uno LLC, C=US, serialNumber=4E5EF5D0DF44CCDB96006028EC32BCB1, CN=SHAKEN 186K\
 Issuer: CN=Martini Security SHAKEN G3, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://go2uno.46labs.com
@@ -14,4 +14,4 @@ Link: https://go2uno.46labs.com
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

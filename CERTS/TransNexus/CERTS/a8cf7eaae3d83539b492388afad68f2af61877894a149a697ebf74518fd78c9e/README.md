@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 602D
 
-Tested At: 22 Aug 24 15:26 UTC\
+Tested At: 26 Aug 24 18:10 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -36 day(s)\
+Remaining Validity Period: -41 day(s)\
 Subject: CN=SHAKEN 602D, O=Rise Broadband, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/f942af1d-919f-4965-9597-9e5072098176/2c57700224572b008e5e76120587f058.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/f942af1d-919f-4965-9597-9e5072098176/2c57
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN InPhonex 1821
 
-Tested At: 22 Aug 24 15:54 UTC\
+Tested At: 26 Aug 24 18:37 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -1 day(s)\
+Remaining Validity Period: -5 day(s)\
 Subject: CN=SHAKEN InPhonex 1821, OU=NOC Team, O=InPhonex, ST=Florida, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/InPhonex_1821
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/InPhonex_1821
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 1821', but common name is 'SHAKEN InPhonex 1821' |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

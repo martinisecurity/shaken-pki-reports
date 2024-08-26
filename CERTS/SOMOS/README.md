@@ -19,7 +19,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 9020 days is the average remaining validity for the certificates in the corpus
+- 9018 days is the average remaining validity for the certificates in the corpus
 - 9132 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -34,4 +34,4 @@ No error, warning, or notice level issues were found
 | 11&#160;Jan&#160;24&#160;22:00&#160;UTC | SHAKEN ROOT - somos.com | 11&#160;Jan&#160;49&#160;04:00&#160;UTC | false | [view](CERTS/c704a027cedcc2c7286829920fef2397cc7e7bce7eb337a587e9494be9389462/README.md) |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

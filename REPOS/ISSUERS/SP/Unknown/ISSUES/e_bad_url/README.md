@@ -42,4 +42,4 @@ Description: Subscribers shall provide unrestricted access to its repositories a
 | `https://stirshaken.telcentris.sonoc.io/api/v1/certificates/Voxox_696J_1` |  | true | [view](../../REPOS/311c6ea038e9da395aafc17eadb13d8e7d7ba8a6/README.md) |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

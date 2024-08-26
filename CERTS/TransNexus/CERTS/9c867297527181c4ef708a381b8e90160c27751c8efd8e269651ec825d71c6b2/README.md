@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 899K
 
-Tested At: 22 Aug 24 15:19 UTC\
+Tested At: 26 Aug 24 18:03 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -66 day(s)\
+Remaining Validity Period: -71 day(s)\
 Subject: CN=SHAKEN 899K, O=Snapcom LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/2604f4cd-642b-458d-b22c-52a702794606/9e0d273c9fc312ec23b73708848c51c6.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/2604f4cd-642b-458d-b22c-52a702794606/9e0d
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

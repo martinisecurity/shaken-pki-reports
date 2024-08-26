@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 223K
 
-Tested At: 22 Aug 24 16:05 UTC\
+Tested At: 26 Aug 24 18:48 UTC\
 Initial Validity Period: 6 day(s)\
-Remaining Validity Period: -294 day(s)\
+Remaining Validity Period: -298 day(s)\
 Subject: O=Consolidated Smart Broadband Systems\\, LLC, C=US, serialNumber=290C0DB3F800123A2CE477FC6D54236D, CN=SHAKEN 223K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/S_DYKfkz7OzR.pem
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/S_DYKfkz7OzR.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

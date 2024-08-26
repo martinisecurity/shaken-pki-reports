@@ -2,9 +2,9 @@
 
 ## Certificate ccctelecom.com
 
-Tested At: 22 Aug 24 16:03 UTC\
+Tested At: 26 Aug 24 18:46 UTC\
 Initial Validity Period: 364 day(s)\
-Remaining Validity Period: 160 day(s)\
+Remaining Validity Period: 156 day(s)\
 Subject: CN=ccctelecom.com, OU=VOIP, O=Carrier Connect Corp, ST=TX, C=US\
 Issuer: CN=SHAKEN 1RouteGroup Intermediate CA, O=1RouteGroup, ST=Texas, C=US\
 Link: https://www.ccctelecom.com/816K.pem
@@ -18,4 +18,4 @@ Link: https://www.ccctelecom.com/816K.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 816K', but common name is 'ccctelecom.com' |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

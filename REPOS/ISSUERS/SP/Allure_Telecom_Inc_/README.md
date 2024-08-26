@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 104ms average time it took to download each certificate
+- 121ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://stir.alluretelecom.com/static/846K-cert.pem` | 21&#160;Apr&#160;25&#160;20:43&#160;UTC | true | [view](REPOS/9b1df975617f8d879118d1a568207722669d5346/README.md) |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

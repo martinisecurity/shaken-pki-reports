@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 176K
 
-Tested At: 22 Aug 24 15:19 UTC\
+Tested At: 26 Aug 24 18:01 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -382 day(s)\
+Remaining Validity Period: -386 day(s)\
 Subject: CN=SHAKEN 176K, O=Brick Technology Group\\, LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/03160fea-585d-4d87-8821-9c8d26d40005/7189d434afe4556881b9561d5f7dd2cf.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/03160fea-585d-4d87-8821-9c8d26d40005/7189
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

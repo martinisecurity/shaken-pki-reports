@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Dynalink Communications Inc 991D
 
-Tested At: 22 Aug 24 15:53 UTC\
+Tested At: 26 Aug 24 18:36 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -63 day(s)\
+Remaining Validity Period: -67 day(s)\
 Subject: CN=SHAKEN Dynalink Communications Inc 991D, OU=Voice Engineering, O=Dynalink Communications Inc, ST=New York, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/991D_20230620.pem
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/991D_20230620.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 991D', but common name is 'SHAKEN Dynalink Communications Inc 991D' |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate Nemont SHAKEN Cert 2247
 
-Tested At: 22 Aug 24 15:19 UTC\
+Tested At: 26 Aug 24 18:01 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: -94 day(s)\
+Remaining Validity Period: -98 day(s)\
 Subject: CN=Nemont SHAKEN Cert 2247, O=Nemont, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/da7847867ee00785d849b849e374c81ecd3f2545
@@ -29,4 +29,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/da7847867ee00785d849b849e374c81ecd3f254
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

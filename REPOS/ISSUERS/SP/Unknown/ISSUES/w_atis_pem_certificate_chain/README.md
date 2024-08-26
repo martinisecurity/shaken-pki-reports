@@ -28,10 +28,11 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | `https://cdn.cnxcdn.com/shaken/954b7f1b34.crt` |  | true | [view](../../REPOS/d7eedf6bc9d5e1bacf00ddb6b135af33d0953aef/README.md) |
 | `https://cdn.cnxcdn.com/shaken/bedb8d0781.crt` |  | true | [view](../../REPOS/1d7d8d651012d03c21fb929a89b400c5bed3bff9/README.md) |
 | `https://cdn.cnxcdn.com/shaken/d20f2bf9ad.crt` |  | true | [view](../../REPOS/a6bdc9e3f64e58bd46b18b9e3c8f9b86ce65dced/README.md) |
+| `https://cdn.commpeak.com/sti/cmmpkusns.cer` |  | true | [view](../../REPOS/ae6cc1da05e533ea437633b7834d991a47ef79df/README.md) |
 | `https://cert2.sticr.att.net:8443/sti-cr/att-stica1661870921294-cert.crt` |  | true | [view](../../REPOS/1b1e3533177b65b2ec075ce13f8cb1ab77d996f6/README.md) |
 | `https://cert2.sticr.att.net:8443/sti-cr/att-stica1669224827804-cert.crt` |  | true | [view](../../REPOS/65bce14026acb07043fb1f2bce936071e23bebd8/README.md) |
 | `https://cert2.sticr.att.net:8443/sti-cr/att-stica1683567574984-cert.crt` |  | true | [view](../../REPOS/4f3540566a280856005a2a2784a22866ff8bd10d/README.md) |
-| `https://cert2.sticr.att.net:8443/sti-cr/att-stica1691767810461-cert.crt` |  | true | [view](../../REPOS/e927f896f26103d706a2a5a669617a09cb847758/README.md) |
+| `https://cert2.sticr.att.net:8443/sti-cr/att-stica1697468675203-cert.crt` |  | true | [view](../../REPOS/238d1db9a65aad4c2c9960d1e2b9d8dbae4a7015/README.md) |
 | `https://certs.iverify-aninetworks.net/aninetworks_20220405.crt` |  | true | [view](../../REPOS/fb310db347b980fa23ce2f13491bcfb22353a09c/README.md) |
 | `https://certs.iverify-aninetworks.net/aninetworks_20240314.crt` |  | true | [view](../../REPOS/3bb83b95d72ee1fe066bec4f2ea70e2dd8e9ad78/README.md) |
 | `https://certs.sip.wtsky.net/prod/shaken-7-2024.cer` |  | true | [view](../../REPOS/ea4b2040120552c99b81d12bd391377525a380dc/README.md) |
@@ -39,6 +40,24 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | `https://cr.veriswitch.com/amcom/cd3746aff04fc44f7b93bc7000d311e2.cer` |  | true | [view](../../REPOS/2ce9a86d155867d4f02f7880fa4f2809bff1e7e0/README.md) |
 | `https://cr.veriswitch.com/aovatalk/fec4886535446208f3cc70af63ea2aec.cer` |  | true | [view](../../REPOS/986766096560d6f9dd76090ee65e176e5d812555/README.md) |
 | `https://cr.veriswitch.com/voipstir/8d7e958f764ada6ff8c2bff406568db3.cer` |  | true | [view](../../REPOS/11b13ab2797658b5c07372e286e40858afa207c0/README.md) |
+| `https://cr.xcastlabs.net/1663914600/xclsshaken.pem` |  | true | [view](../../REPOS/83787d87a3e0f1d81100b759e11a8af9f2ad7e04/README.md) |
+| `https://cr.xcastlabs.net/1666420200/xclsshaken.pem` |  | true | [view](../../REPOS/51e8553920faecae2b05c10e4557483f6e9efdc1/README.md) |
+| `https://cr.xcastlabs.net/1668234600/xclsshaken.pem` |  | true | [view](../../REPOS/5039332f8883f8c1e5d71a6bc53ffcedbd71cf74/README.md) |
+| `https://cr.xcastlabs.net/1670740200/xclsshaken.pem` |  | true | [view](../../REPOS/be9cd8c60b53ae5a11e0e69b25a200a5d25f393b/README.md) |
+| `https://cr.xcastlabs.net/1673245800/xclsshaken.pem` |  | true | [view](../../REPOS/311a0f23f8993ecce8c3ca050c788495a2b728b8/README.md) |
+| `https://cr.xcastlabs.net/1675751400/xclsshaken.pem` |  | true | [view](../../REPOS/0ac53abfe3ba808001578ce7fe483a2abd3b0588/README.md) |
+| `https://cr.xcastlabs.net/1678257000/xclsshaken.pem` |  | true | [view](../../REPOS/33c4fb1cd35f79774b8aeb922445fc221350fff7/README.md) |
+| `https://cr.xcastlabs.net/1680762600/xclsshaken.pem` |  | true | [view](../../REPOS/8cc5d7da42faf2d4081f95a8eff41b444599002c/README.md) |
+| `https://cr.xcastlabs.net/1683268200/xclsshaken.pem` |  | true | [view](../../REPOS/d515e4fe104af4116eae02b6d0611e61418c78f2/README.md) |
+| `https://cr.xcastlabs.net/1685577600/xclsshaken.pem` |  | true | [view](../../REPOS/27a18bec4e6bb648598618f6db4554093d6a1877/README.md) |
+| `https://cr.xcastlabs.net/1688106600/xclsshaken.pem` |  | true | [view](../../REPOS/cdadac9660d1032fbfee0ddd93e2265dceecde3f/README.md) |
+| `https://cr.xcastlabs.net/1690612200/xclsshaken.pem` |  | true | [view](../../REPOS/98514f1f2d7ae4af185548e50dc227855ef56790/README.md) |
+| `https://cr.xcastlabs.net/1693117800/xclsshaken.pem` |  | true | [view](../../REPOS/d9b351f8e4eb469fef37cb0197f8f3f7e57fc301/README.md) |
+| `https://cr.xcastlabs.net/1695623400/xclsshaken.pem` |  | true | [view](../../REPOS/55e13be263abf4dab3b93e500ae3909bdaebaa15/README.md) |
+| `https://cr.xcastlabs.net/1698129000/xclsshaken.pem` |  | true | [view](../../REPOS/da63ed79521ee837a326fcd103ba3774d2a637aa/README.md) |
+| `https://cr.xcastlabs.net/1700784000/xclsshaken.pem` |  | true | [view](../../REPOS/eaa2b532b5b3d7677133c697a92842c3d58d5ef9/README.md) |
+| `https://cr.xcastlabs.net/1703313000/xclsshaken.pem` |  | true | [view](../../REPOS/cb45e5e584261dbd40a3598ffc77645fbd2f7a18/README.md) |
+| `https://cr.xcastlabs.net/1705818600/xclsshaken.pem` |  | true | [view](../../REPOS/2147ec449137c2c4fb2d46188ee404567292fc22/README.md) |
 | `https://crs.qcall.sonic.net/certs/soniccertchain.crt` |  | true | [view](../../REPOS/caa75ff115b7136783dbc90ba9e421b9153eeaf6/README.md) |
 | `https://netnumber-sti-cr.s3.amazonaws.com/certs/041091ff-fdf3-400e-b212-fe7f448439bd` |  | true | [view](../../REPOS/3f80acf71fbda8fe1254afd4f664052a5cd965fa/README.md) |
 | `https://netnumber-sti-cr.s3.amazonaws.com/certs/13602fcc-912e-4f7a-8261-04dbef8d294e` |  | true | [view](../../REPOS/bc8c35999486c099bf265da1c394877d1e321fca/README.md) |
@@ -57,9 +76,12 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | `https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/goto-2022-09` |  | true | [view](../../REPOS/28a6eaf4d52af268d2354802a3c6a6e7f8f568a4/README.md) |
 | `https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/goto-2023-07` |  | true | [view](../../REPOS/fae11334a26f6eb63db3df1c1e941ac39c278077/README.md) |
 | `https://qcall.meta.tpx.net/certs/shaken_cacert.crt` |  | true | [view](../../REPOS/135ba22af33ee37bfbe885e30a8b6e1084f02cca/README.md) |
+| `https://shaken.spectrum.com/0f9d8a67c3047902bffab77edf2e246f.cer` |  | true | [view](../../REPOS/db132053f61d4ba8b4e509a349df3718a418bdb1/README.md) |
 | `https://shaken.spectrum.com/4d65efdb8a1ca366e9576c8fda747fa4.pem` |  | true | [view](../../REPOS/18cdd5acaf4706a8bff59aa0338843318ac4e3c1/README.md) |
+| `https://shaken.spectrum.com/cf1b3d3d-7f2b-42fd-a161-ebe61cd6565a.pem` |  | true | [view](../../REPOS/6512ce3f54c9208d018698f6aa3d26cc1eede387/README.md) |
 | `https://shaken.stir.mediacomcc.com/certs/mediacomcertchain.crt` |  | true | [view](../../REPOS/178d90525ad3207ba870f877ac6d2b9c69bb6cfa/README.md) |
 | `https://sip.gnvoip.net:5000/stirshaken_certs/665K.crt` |  | true | [view](../../REPOS/6120c9c9e0969c758c0dbab9cd7449c03439ba25/README.md) |
+| `https://sticr-cstga-uat.ccid.neustar/api/v1/certificate/d1dbe1a693cb7464ff1d1edb3fee78e2.pem` |  | true | [view](../../REPOS/9e88f1fa258fb42b3101cbe7ebb1e69159640398/README.md) |
 | `https://sticr-cstga.ccid.neustar/api/v1/certificate/0581cac7b4b7ade97255fef02601f295.crt` |  | true | [view](../../REPOS/edfda09261223fb71b6ce9d93cb459fa90758fef/README.md) |
 | `https://sticr-cstga.ccid.neustar/api/v1/certificate/3f7be0c667b2f3c24546cf26629eb906.crt` |  | true | [view](../../REPOS/6cc197a230692738160b25ccee626e38948c6854/README.md) |
 | `https://sticr-cstga.ccid.neustar/api/v1/certificate/56701755b64fd6472ffc065ab0dfe768.pem` |  | true | [view](../../REPOS/29cd25222aac6fb303613c15b360a84b8c615694/README.md) |
@@ -77,4 +99,4 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 | `https://www.voipessential.com/shaken/neustar_230420` |  | true | [view](../../REPOS/6480e17d491edb32d71a534f7e3baceef6d3864d/README.md) |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

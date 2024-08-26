@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 539K
 
-Tested At: 22 Aug 24 15:23 UTC\
+Tested At: 26 Aug 24 18:07 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -76 day(s)\
+Remaining Validity Period: -80 day(s)\
 Subject: CN=SHAKEN 539K, O=Seimitsu, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/8c353899-f65d-4c30-ae27-8517735d7d2d/d3a85d69d4cc9d79a561e58d88bcadaf.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/8c353899-f65d-4c30-ae27-8517735d7d2d/d3a8
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

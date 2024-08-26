@@ -2,9 +2,9 @@
 
 ## Certificate Tri-County Telephone Association Inc SHAKEN Cert 2296
 
-Tested At: 22 Aug 24 15:19 UTC\
+Tested At: 26 Aug 24 18:01 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: -30 day(s)\
+Remaining Validity Period: -35 day(s)\
 Subject: CN=Tri-County Telephone Association Inc SHAKEN Cert 2296, O=Tri-County Telephone West Association Inc, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/c922d160f5aad33c2cea724103d89f2b01a99522
@@ -29,4 +29,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/c922d160f5aad33c2cea724103d89f2b01a9952
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

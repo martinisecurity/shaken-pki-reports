@@ -2,9 +2,9 @@
 
 ## Certificate HD CARRIER LLC
 
-Tested At: 22 Aug 24 15:56 UTC\
+Tested At: 26 Aug 24 18:37 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -220 day(s)\
+Remaining Validity Period: -224 day(s)\
 Subject: L=Long Beach, ST=California, O=HD CARRIER LLC, C=US, CN=HD CARRIER LLC\
 Issuer: L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN Root Intermediate CA 1\
 Link: https://d64db847f381fcb974ab1b6150b49a91.cxstatic.com/f/3408a4bd-067e-46e2-9fb9-6d4cf37af272
@@ -20,4 +20,4 @@ Link: https://d64db847f381fcb974ab1b6150b49a91.cxstatic.com/f/3408a4bd-067e-46e2
 | [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common Name attribute 'HD CARRIER LLC' does not contain 'SHAKEN' |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

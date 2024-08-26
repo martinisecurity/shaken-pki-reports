@@ -2,9 +2,9 @@
 
 ## Certificate STIR ECC PNCB
 
-Tested At: 22 Aug 24 15:31 UTC\
+Tested At: 26 Aug 24 18:14 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 272 day(s)\
+Remaining Validity Period: 268 day(s)\
 Subject: CN=STIR ECC PNCB, O=PNC Bank, C=US\
 Issuer: CN=Neustar UAT Enterprise Certified Caller Intermediate CA1, OU=www.ccid-uat.neustar, O=Neustar Inc a TransUnion company, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11617.10439.pem
@@ -18,4 +18,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11617.10439.pem
 | [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common Name attribute 'STIR ECC PNCB' does not contain 'SHAKEN' |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

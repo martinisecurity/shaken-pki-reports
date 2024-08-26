@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 166K
 
-Tested At: 22 Aug 24 15:27 UTC\
+Tested At: 26 Aug 24 18:11 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -651 day(s)\
+Remaining Validity Period: -656 day(s)\
 Subject: CN=SHAKEN 166K, OU=SHAKEN, O=Gonthier Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/166K/b4f563ea-1dd9-40bc-be12-ef0190b82bad.pem
@@ -26,4 +26,4 @@ Link: https://certificates.transnexus.com/166K/b4f563ea-1dd9-40bc-be12-ef0190b82
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

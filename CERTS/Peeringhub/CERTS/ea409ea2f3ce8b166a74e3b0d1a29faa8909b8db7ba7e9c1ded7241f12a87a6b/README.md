@@ -2,9 +2,9 @@
 
 ## Certificate INSTACALL LLC_1715355491325 SHAKEN 281K
 
-Tested At: 22 Aug 24 15:29 UTC\
+Tested At: 26 Aug 24 18:12 UTC\
 Initial Validity Period: 258 day(s)\
-Remaining Validity Period: 154 day(s)\
+Remaining Validity Period: 150 day(s)\
 Subject: CN=INSTACALL LLC_1715355491325 SHAKEN 281K, O=INSTACALL LLC, L=Wilmington, ST=DE, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://cr.46labs.com/cr/instacall/instacall.pem
@@ -14,4 +14,4 @@ Link: https://cr.46labs.com/cr/instacall/instacall.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

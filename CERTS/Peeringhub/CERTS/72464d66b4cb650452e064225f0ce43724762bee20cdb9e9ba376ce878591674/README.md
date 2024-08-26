@@ -2,9 +2,9 @@
 
 ## Certificate HAZTEL INC._1720446585150 SHAKEN 752J
 
-Tested At: 22 Aug 24 15:19 UTC\
+Tested At: 26 Aug 24 18:01 UTC\
 Initial Validity Period: 38 day(s)\
-Remaining Validity Period: -7 day(s)\
+Remaining Validity Period: -11 day(s)\
 Subject: CN=HAZTEL INC._1720446585150 SHAKEN 752J, O=HAZTEL INC., L=Brooklyn, ST=NY, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://cdn.cnxcdn.com/shaken/c9d8af6bdc.crt
@@ -14,4 +14,4 @@ Link: https://cdn.cnxcdn.com/shaken/c9d8af6bdc.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

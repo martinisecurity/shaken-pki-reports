@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 757K
 
-Tested At: 22 Aug 24 15:22 UTC\
+Tested At: 26 Aug 24 18:05 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -73 day(s)\
+Remaining Validity Period: -77 day(s)\
 Subject: CN=SHAKEN 757K, O=CMS, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/6c07ff36-1d5b-4c40-83bb-4c33a03182e6/b21b289111596c35eedd106809223d4c.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/6c07ff36-1d5b-4c40-83bb-4c33a03182e6/b21b
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

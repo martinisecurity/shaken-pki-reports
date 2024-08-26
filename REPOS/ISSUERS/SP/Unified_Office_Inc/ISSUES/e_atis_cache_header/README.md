@@ -12,4 +12,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://downloads.uotcn.net/certs/uo-shaken-cert-20230222.pem` | 22&#160;Feb&#160;24&#160;21:42&#160;UTC | true | [view](../../REPOS/31ea6fedb86188091df498993e3c7ef5282512e6/README.md) |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

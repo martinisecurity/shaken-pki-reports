@@ -11,9 +11,9 @@
 
 - 81 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
-- 52 certificates in the corpus were skipped because they are expired
+- 56 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 29 certificates being tested against the remaining rules
+- 25 certificates being tested against the remaining rules
 - 2.00 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
@@ -21,14 +21,14 @@
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
 - 29 days is the average remaining validity for the certificates in the corpus
 - 30 days is the average initial validity for the certificates in the corpus
-- 29 certificates expire in the next 30 days
-- 29.00 average number of unexpired certificates per OCN observed
+- 25 certificates expire in the next 30 days
+- 25.00 average number of unexpired certificates per OCN observed
 - 1 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 29 | [e_atis_ext_crl_distribution_struct](ISSUES/e_atis_ext_crl_distribution_struct/README.md) | ATIS1000080 |
-| 29 | [e_atis_serial_number_size](ISSUES/e_atis_serial_number_size/README.md) | ATIS1000080 |
+| 25 | [e_atis_ext_crl_distribution_struct](ISSUES/e_atis_ext_crl_distribution_struct/README.md) | ATIS1000080 |
+| 25 | [e_atis_serial_number_size](ISSUES/e_atis_serial_number_size/README.md) | ATIS1000080 |
 
 #### CA Certificates
 
@@ -42,7 +42,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 50.00% of certificates are too old to be assessed against currently enforced expectations
-- 6760 days is the average remaining validity for the certificates in the corpus
+- 6759 days is the average remaining validity for the certificates in the corpus
 - 7300 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -57,10 +57,6 @@
 
 | Created At | Subject | Not After | Problems | Link |
 |------------|---------|-----------|----------|------|
-| 23&#160;Jul&#160;24&#160;20:55&#160;UTC | SHAKEN 318J | 22&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](CERTS/7060abb9ea7c2dda86d32d11c12c8d29173250325945e5803999c0cd87580d59/README.md) |
-| 24&#160;Jul&#160;24&#160;20:55&#160;UTC | SHAKEN 318J | 23&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](CERTS/3db873ebf04976bb810050c9dce5b76bf4f8f01cba7f2816dcd9b5aacface897/README.md) |
-| 25&#160;Jul&#160;24&#160;20:55&#160;UTC | SHAKEN 318J | 24&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](CERTS/4338fec7c129624a8f33058acaaee4f10d4a01a0cefedd56bf798a13d4bc6852/README.md) |
-| 26&#160;Jul&#160;24&#160;20:55&#160;UTC | SHAKEN 318J | 25&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](CERTS/f4c1563863bb8b76d7803ee42c6e940f48f7e376b6ed7a8716d57dd4d9956a39/README.md) |
 | 27&#160;Jul&#160;24&#160;20:55&#160;UTC | SHAKEN 318J | 26&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](CERTS/0414e6f8827b9489dbf152913b716193fd91b8fa67167fd7d75f32e7c84f5f5d/README.md) |
 | 28&#160;Jul&#160;24&#160;20:55&#160;UTC | SHAKEN 318J | 27&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](CERTS/b03d9b2da411744f4f009dceed448547f183ab184a100581edf8a4d283d2e613/README.md) |
 | 29&#160;Jul&#160;24&#160;20:55&#160;UTC | SHAKEN 318J | 28&#160;Aug&#160;24&#160;20:55&#160;UTC | true | [view](CERTS/4464420fc987e8835b52e18ff686b380ac950b2969df825bb34ac7757e4a3836/README.md) |
@@ -95,4 +91,4 @@
 | 11&#160;Jan&#160;24&#160;02:59&#160;UTC | Comcast SHAKEN Intermediate CA | 06&#160;Jan&#160;44&#160;02:59&#160;UTC | true | [view](CERTS/25af737667ed8b05cb8b8e7f44b2d7b5861551bea95ec48a73306ec75a92a662/README.md) |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

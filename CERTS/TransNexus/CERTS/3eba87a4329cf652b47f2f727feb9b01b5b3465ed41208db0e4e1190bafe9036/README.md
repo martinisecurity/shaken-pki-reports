@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 663J
 
-Tested At: 22 Aug 24 15:27 UTC\
+Tested At: 26 Aug 24 18:11 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 209 day(s)\
+Remaining Validity Period: 204 day(s)\
 Subject: CN=SHAKEN 663J, O=CCI, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/663J/5e150b36-3db0-41c1-8e57-f4585fe4968d.pem
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/663J/5e150b36-3db0-41c1-8e57-f4585fe49
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

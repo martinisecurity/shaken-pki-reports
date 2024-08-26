@@ -9,7 +9,7 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://r.stir.tel/704J/250318171201Z/cert.pem` | 18&#160;Mar&#160;25&#160;17:12&#160;UTC | true | [view](../../REPOS/8dd33e78c6800e01a7ce229c61a3e85a612da056/README.md) |
+| `https://cr.xcastlabs.net/1742317921/xclsshaken.pem` | 18&#160;Mar&#160;25&#160;17:12&#160;UTC | true | [view](../../REPOS/59a98b70e236c367ffd3ab87507762c351c7071d/README.md) |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate FracTEL LLC SHAKEN
 
-Tested At: 22 Aug 24 15:59 UTC\
+Tested At: 26 Aug 24 18:42 UTC\
 Initial Validity Period: 364 day(s)\
-Remaining Validity Period: 274 day(s)\
+Remaining Validity Period: 269 day(s)\
 Subject: CN=FracTEL LLC SHAKEN, O=FracTEL LLC, ST=Florida, C=US\
 Issuer: CN=SHAKEN 1RouteGroup Intermediate CA, O=1RouteGroup, ST=Texas, C=US\
 Link: https://ssc.fractel.net/ssc/fractelssc.pem
@@ -17,4 +17,4 @@ Link: https://ssc.fractel.net/ssc/fractelssc.pem
 | [e_atis_serial_number_size](../../ISSUES/e_atis_serial_number_size/README.md) | error | ATIS1000080 | STI certificates shall have a serial number that contains at least 64 bits, got 13 |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

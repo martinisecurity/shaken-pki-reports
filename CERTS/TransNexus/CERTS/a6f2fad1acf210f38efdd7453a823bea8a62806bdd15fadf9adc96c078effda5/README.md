@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1664
 
-Tested At: 22 Aug 24 15:19 UTC\
+Tested At: 26 Aug 24 18:03 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -352 day(s)\
+Remaining Validity Period: -356 day(s)\
 Subject: CN=SHAKEN 1664, O=SDN, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/2463bfed-79f7-400e-8255-0db43260a189/1efa59cf5cbb88f8bbeb44a655fb71e9.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/2463bfed-79f7-400e-8255-0db43260a189/1efa
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

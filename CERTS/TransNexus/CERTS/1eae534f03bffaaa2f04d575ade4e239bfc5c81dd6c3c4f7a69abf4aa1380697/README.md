@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 521G
 
-Tested At: 22 Aug 24 15:24 UTC\
+Tested At: 26 Aug 24 18:08 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -355 day(s)\
+Remaining Validity Period: -360 day(s)\
 Subject: CN=SHAKEN 521G, O=Allied Telecom, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/aa455865-a43b-4a5a-a355-ba1666ed6023/ef6bcdae54976ee59597b481e7ae6d30.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/aa455865-a43b-4a5a-a355-ba1666ed6023/ef6b
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

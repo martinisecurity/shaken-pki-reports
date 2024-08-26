@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 023K
 
-Tested At: 22 Aug 24 15:56 UTC\
+Tested At: 26 Aug 24 18:38 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -399 day(s)\
+Remaining Validity Period: -404 day(s)\
 Subject: CN=SHAKEN 023K, O=Pulsar360 Corp, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ecms.securetransit.net/certs/410bad9e05a57353f0d8739a421be619.cer
@@ -25,4 +25,4 @@ Link: https://ecms.securetransit.net/certs/410bad9e05a57353f0d8739a421be619.cer
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

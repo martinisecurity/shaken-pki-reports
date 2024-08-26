@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1047
 
-Tested At: 22 Aug 24 15:19 UTC\
+Tested At: 26 Aug 24 18:03 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -74 day(s)\
+Remaining Validity Period: -79 day(s)\
 Subject: CN=SHAKEN 1047, O=MDTC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/279643da-eabb-4a62-bb96-22939398bc7d/f2ac697e336b54b4dd8f294aca4ce0ac.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/279643da-eabb-4a62-bb96-22939398bc7d/f2ac
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

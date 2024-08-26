@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Contactivity Corp. 711K
 
-Tested At: 22 Aug 24 15:59 UTC\
+Tested At: 26 Aug 24 18:42 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 16 day(s)\
+Remaining Validity Period: 12 day(s)\
 Subject: CN=SHAKEN Contactivity Corp. 711K, OU=Technical, O=Contactivity Corp., ST=Florida, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://ssc.getsipnav.com/certs/460d005e71ab4d74e87d5c8ce56a7ef4b041aae1
@@ -17,4 +17,4 @@ Link: https://ssc.getsipnav.com/certs/460d005e71ab4d74e87d5c8ce56a7ef4b041aae1
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 711K', but common name is 'SHAKEN Contactivity Corp. 711K' |
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

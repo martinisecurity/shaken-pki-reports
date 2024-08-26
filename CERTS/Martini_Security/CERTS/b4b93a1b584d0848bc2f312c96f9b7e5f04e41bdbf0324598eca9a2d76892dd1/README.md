@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 861K
 
-Tested At: 22 Aug 24 15:29 UTC\
+Tested At: 26 Aug 24 18:12 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 216 day(s)\
+Remaining Validity Period: 211 day(s)\
 Subject: O=Pop America LLC, C=US, serialNumber=79DFD5DF4165547CD3DB31363CF8F1FC, CN=SHAKEN 861K\
 Issuer: CN=Martini Security SHAKEN G3, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://cr.46labs.com/cr/apptelx/apptelx.pem
@@ -14,4 +14,4 @@ Link: https://cr.46labs.com/cr/apptelx/apptelx.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0797
 
-Tested At: 22 Aug 24 15:25 UTC\
+Tested At: 26 Aug 24 18:09 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -10 day(s)\
+Remaining Validity Period: -14 day(s)\
 Subject: CN=SHAKEN 0797, O=Andrew Ward Consulting LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/db0a4a9e-cfa9-4468-af8d-f0879f076011/8ab0bde670a0952eb1082c90df430abd.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/db0a4a9e-cfa9-4468-af8d-f0879f076011/8ab0
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 22 Aug 24 16:06 UTC
+Generated: 26 Aug 24 18:49 UTC
