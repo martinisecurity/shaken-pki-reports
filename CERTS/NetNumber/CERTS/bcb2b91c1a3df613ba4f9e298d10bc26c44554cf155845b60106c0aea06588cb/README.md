@@ -2,9 +2,9 @@
 
 ## Certificate Google SHAKEN cert 969H
 
-Tested At: 26 Aug 24 18:01 UTC\
+Tested At: 04 Oct 24 16:26 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -172 day(s)\
+Remaining Validity Period: -211 day(s)\
 Subject: O=Google Voice Inc., C=US, CN=Google SHAKEN cert 969H\
 Issuer: L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN Root Intermediate CA 1\
 Link: https://www.gstatic.com/gtp/stir/lpzBPBX5gc1vz1KynYbDKA.pem
@@ -18,4 +18,4 @@ Link: https://www.gstatic.com/gtp/stir/lpzBPBX5gc1vz1KynYbDKA.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 969H', but common name is 'Google SHAKEN cert 969H' |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

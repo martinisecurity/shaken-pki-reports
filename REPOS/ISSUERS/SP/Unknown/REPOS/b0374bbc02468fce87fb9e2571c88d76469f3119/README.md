@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `http://5.78.73.44/system/sp-cert.pem`\
-Tested At: 26 Aug 24 17:42 UTC\
-Time: 15ms
+Tested At: 04 Oct 24 15:30 UTC\
+Time: 56ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 15ms
 |------|------|--------|---------|
 | [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "http://5.78.73.44/system/sp-cert.pem": dial tcp 5.78.73.44:80: connect: connection refused |
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

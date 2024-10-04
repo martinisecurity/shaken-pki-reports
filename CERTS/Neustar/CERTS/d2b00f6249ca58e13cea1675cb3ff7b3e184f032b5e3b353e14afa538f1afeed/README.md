@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 863J
 
-Tested At: 26 Aug 24 17:57 UTC\
+Tested At: 04 Oct 24 16:23 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 164 day(s)\
+Remaining Validity Period: 125 day(s)\
 Subject: CN=SHAKEN 863J, O=Contact Center Specialists LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/c3ba6bd835e9d915f1c9d21f7fe1319bfebf2729
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/c3ba6bd835e9d915f1c9d21f7fe1319bfebf2729
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

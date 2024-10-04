@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 692J
 
-Tested At: 26 Aug 24 17:49 UTC\
+Tested At: 04 Oct 24 16:16 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 258 day(s)\
+Remaining Validity Period: 219 day(s)\
 Subject: CN=SHAKEN 692J, O=EssexTel, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://essextel.peeredge.com/cert/77FuFOFt.pem
@@ -16,4 +16,4 @@ Link: https://essextel.peeredge.com/cert/77FuFOFt.pem
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

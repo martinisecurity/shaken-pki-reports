@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 604K
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:39 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -41 day(s)\
+Remaining Validity Period: -80 day(s)\
 Subject: CN=SHAKEN 604K, O=In-Telecom, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/7f737783-bafd-48a8-a8f8-a4781781e950/657cf0c41ea7b323e12a00e734b93c59.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/7f737783-bafd-48a8-a8f8-a4781781e950/657c
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

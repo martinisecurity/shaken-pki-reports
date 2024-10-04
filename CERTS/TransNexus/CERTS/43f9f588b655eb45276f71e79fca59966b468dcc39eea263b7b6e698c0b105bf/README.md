@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 919J
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:36 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -20 day(s)\
+Remaining Validity Period: -59 day(s)\
 Subject: CN=SHAKEN 919J, O=Phoneic\\, Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/4298401e-2007-4042-938d-dd3b387db452/b294008fa0df614dc701b25f6c7f0c06.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/4298401e-2007-4042-938d-dd3b387db452/b294
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

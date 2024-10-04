@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 726J
 
-Tested At: 26 Aug 24 17:44 UTC\
+Tested At: 04 Oct 24 15:41 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -29 day(s)\
+Remaining Validity Period: -68 day(s)\
 Subject: CN=SHAKEN 726J, O=Votacall Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/88dbb645-62bf-4d40-960c-4e8e3223880f/673ff83a858ca7ec358098a3f5960150.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/88dbb645-62bf-4d40-960c-4e8e3223880f/673f
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

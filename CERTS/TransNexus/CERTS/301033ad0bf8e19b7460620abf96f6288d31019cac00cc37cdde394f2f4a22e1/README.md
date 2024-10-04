@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 766J
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:37 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -623 day(s)\
+Remaining Validity Period: -662 day(s)\
 Subject: CN=SHAKEN 766J, O=Integrated Technology Services, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/4f32f256-5289-4c26-ad4b-2789b048087b/fa29cb55daed4b3661b6e1121ac3b016.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/4f32f256-5289-4c26-ad4b-2789b048087b/fa29
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

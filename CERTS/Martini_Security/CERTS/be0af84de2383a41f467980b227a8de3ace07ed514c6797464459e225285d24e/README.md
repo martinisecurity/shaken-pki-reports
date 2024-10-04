@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 774K
 
-Tested At: 26 Aug 24 18:02 UTC\
+Tested At: 04 Oct 24 16:26 UTC\
 Initial Validity Period: 14 day(s)\
-Remaining Validity Period: -196 day(s)\
+Remaining Validity Period: -235 day(s)\
 Subject: O=Tanya David LLC, C=US, serialNumber=4DBDBD0858BC1EF179A5ABEE111A1816, CN=SHAKEN 774K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/GZsg_MSG0ETh.pem
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/GZsg_MSG0ETh.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

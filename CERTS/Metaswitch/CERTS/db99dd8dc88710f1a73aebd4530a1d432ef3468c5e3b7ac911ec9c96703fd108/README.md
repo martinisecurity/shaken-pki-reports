@@ -2,9 +2,9 @@
 
 ## Certificate Five Area Telephone SHAKEN Cert 2071
 
-Tested At: 26 Aug 24 17:42 UTC\
+Tested At: 04 Oct 24 15:31 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 649 day(s)\
+Remaining Validity Period: 611 day(s)\
 Subject: CN=Five Area Telephone SHAKEN Cert 2071, O=Five Area Telephone Cooperative, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/738466bb39439e11398346bd5b0156a486803683
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/738466bb39439e11398346bd5b0156a48680368
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 2071', but common name is 'Five Area Telephone SHAKEN Cert 2071' |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 345J
 
-Tested At: 26 Aug 24 17:45 UTC\
+Tested At: 04 Oct 24 15:49 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: 28 day(s)\
+Remaining Validity Period: -11 day(s)\
 Subject: CN=SHAKEN 345J, O=Ooma Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/345J/f5aeba85-2555-459f-ae1f-752246f2b42c.pem
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/345J/f5aeba85-2555-459f-ae1f-752246f2b
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

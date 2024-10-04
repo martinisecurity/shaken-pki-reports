@@ -16,6 +16,8 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `http://5.161.95.22/ec256-public.pem` |  | true | [view](../../REPOS/a27d22da23341e5310c0da4f2e2712a2f54abe8a/README.md) |
 | `http://sip.ash.bmc.dlr.freevoicepbx.com/Freevoice_963J` |  | true | [view](../../REPOS/9c0c0f256674de7c64fcc7a8f58c28e19d36e8d1/README.md) |
 | `http://stirshaken.corvitbpo.com/zg-key.pem` |  | true | [view](../../REPOS/88b8d76fa66010cc301a89a6ce1a2d44e2dc1354/README.md) |
+| `http://stirshaken.ellianz.com/` |  | true | [view](../../REPOS/0fbeae17ac34cc39daf2136e92f1e71b28db4cbc/README.md) |
+| `http://stirshaken.ellianz.com/sp1-cert.pem` |  | true | [view](../../REPOS/0cbc442e25418d7b0985a5c646632775402ebc41/README.md) |
 | `https://187.174.67.118:8080/7075515eb2d150fc98c43e794c07bbca.cer` |  | true | [view](../../REPOS/d8faee293b08466701e0b503002bc7343687408c/README.md) |
 | `https://187.174.67.118:8080/c217323cbb937bfe39d9847dc144baaf.cer` |  | true | [view](../../REPOS/0b828ddf82f7680a5b9c34c5032916d01bcf2dc9/README.md) |
 | `https://app.connexcs.com/api/stir-shaken/cert/41.crt` |  | true | [view](../../REPOS/cc2f8a40c2bfec30ddc6c0b45b770990ddcae1d7/README.md) |
@@ -26,12 +28,15 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://cdn.cnxcdn.com/shaken/87ccf8b69e.crt` |  | true | [view](../../REPOS/9452dee11fc5b3df125a8bdb8e571d96e2de9abd/README.md) |
 | `https://cdn.cnxcdn.com/shaken/87f035512f.crt` |  | true | [view](../../REPOS/473d2025e77d3ad6f09ad4ea38f5297e8602c4f7/README.md) |
 | `https://cdn.cnxcdn.com/shaken/954b7f1b34.crt` |  | true | [view](../../REPOS/d7eedf6bc9d5e1bacf00ddb6b135af33d0953aef/README.md) |
+| `https://cdn.cnxcdn.com/shaken/bd0d8c5d17.crt` |  | true | [view](../../REPOS/7bc38439bf6ebefd212beae9a20948789d579ac5/README.md) |
 | `https://cdn.cnxcdn.com/shaken/bedb8d0781.crt` |  | true | [view](../../REPOS/1d7d8d651012d03c21fb929a89b400c5bed3bff9/README.md) |
+| `https://cdn.cnxcdn.com/shaken/c9d8af6bdc.crt` |  | true | [view](../../REPOS/1c907ee9438d7f88e46b510afce5dd469fca9268/README.md) |
 | `https://cdn.cnxcdn.com/shaken/d20f2bf9ad.crt` |  | true | [view](../../REPOS/a6bdc9e3f64e58bd46b18b9e3c8f9b86ce65dced/README.md) |
 | `https://cdn.commpeak.com/sti/cmmpkusns.cer` |  | true | [view](../../REPOS/ae6cc1da05e533ea437633b7834d991a47ef79df/README.md) |
 | `https://cert2.sticr.att.net:8443/sti-cr/att-stica1661870921294-cert.crt` |  | true | [view](../../REPOS/1b1e3533177b65b2ec075ce13f8cb1ab77d996f6/README.md) |
 | `https://cert2.sticr.att.net:8443/sti-cr/att-stica1669224827804-cert.crt` |  | true | [view](../../REPOS/65bce14026acb07043fb1f2bce936071e23bebd8/README.md) |
 | `https://cert2.sticr.att.net:8443/sti-cr/att-stica1683567574984-cert.crt` |  | true | [view](../../REPOS/4f3540566a280856005a2a2784a22866ff8bd10d/README.md) |
+| `https://cert2.sticr.att.net:8443/sti-cr/att-stica1691767810461-cert.crt` |  | true | [view](../../REPOS/e927f896f26103d706a2a5a669617a09cb847758/README.md) |
 | `https://certs.iverify-aninetworks.net/aninetworks_20220405.crt` |  | true | [view](../../REPOS/fb310db347b980fa23ce2f13491bcfb22353a09c/README.md) |
 | `https://certs.iverify-aninetworks.net/aninetworks_20240314.crt` |  | true | [view](../../REPOS/3bb83b95d72ee1fe066bec4f2ea70e2dd8e9ad78/README.md) |
 | `https://certs.sip.wtsky.net/prod/shaken-7-2024.cer` |  | true | [view](../../REPOS/ea4b2040120552c99b81d12bd391377525a380dc/README.md) |
@@ -57,6 +62,7 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://cr.xcastlabs.net/1700784000/xclsshaken.pem` |  | true | [view](../../REPOS/eaa2b532b5b3d7677133c697a92842c3d58d5ef9/README.md) |
 | `https://cr.xcastlabs.net/1703313000/xclsshaken.pem` |  | true | [view](../../REPOS/cb45e5e584261dbd40a3598ffc77645fbd2f7a18/README.md) |
 | `https://cr.xcastlabs.net/1705818600/xclsshaken.pem` |  | true | [view](../../REPOS/2147ec449137c2c4fb2d46188ee404567292fc22/README.md) |
+| `https://crs.qcall.sonic.net/certs/soniccertchain.crt` |  | true | [view](../../REPOS/caa75ff115b7136783dbc90ba9e421b9153eeaf6/README.md) |
 | `https://netnumber-sti-cr.s3.amazonaws.com/certs/041091ff-fdf3-400e-b212-fe7f448439bd` |  | true | [view](../../REPOS/3f80acf71fbda8fe1254afd4f664052a5cd965fa/README.md) |
 | `https://netnumber-sti-cr.s3.amazonaws.com/certs/13602fcc-912e-4f7a-8261-04dbef8d294e` |  | true | [view](../../REPOS/bc8c35999486c099bf265da1c394877d1e321fca/README.md) |
 | `https://netnumber-sti-cr.s3.amazonaws.com/certs/181b6f5c-4887-433f-9a7d-3b57dd78a801` |  | true | [view](../../REPOS/d8325e5938d1df4bbc00012336c626b220d22ce1/README.md) |
@@ -77,13 +83,16 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://shaken.spectrum.com/4d65efdb8a1ca366e9576c8fda747fa4.pem` |  | true | [view](../../REPOS/18cdd5acaf4706a8bff59aa0338843318ac4e3c1/README.md) |
 | `https://shaken.spectrum.com/cf1b3d3d-7f2b-42fd-a161-ebe61cd6565a.pem` |  | true | [view](../../REPOS/6512ce3f54c9208d018698f6aa3d26cc1eede387/README.md) |
 | `https://shaken.stir.mediacomcc.com/certs/mediacomcertchain.crt` |  | true | [view](../../REPOS/178d90525ad3207ba870f877ac6d2b9c69bb6cfa/README.md) |
+| `https://sip.alinephonesystems.com/stirshaken/644K.chain.crt.pem` |  | true | [view](../../REPOS/8fc018f927a44b3af08c8268ca9353a45591f7c9/README.md) |
 | `https://sip.gnvoip.net:5000/stirshaken_certs/665K.crt` |  | true | [view](../../REPOS/6120c9c9e0969c758c0dbab9cd7449c03439ba25/README.md) |
-| `https://sticr-cstga-uat.ccid.neustar/api/v1/certificate/d1dbe1a693cb7464ff1d1edb3fee78e2.pem` |  | true | [view](../../REPOS/9e88f1fa258fb42b3101cbe7ebb1e69159640398/README.md) |
+| `https://sproxy1.teleserosuite.com/https://sproxy1.teleserosuite.com/Cloud_Connect_LLC_2024` |  | true | [view](../../REPOS/7493ea3dd7abf1642ebec3897c07492336dbf32a/README.md) |
 | `https://sticr-cstga.ccid.neustar/api/v1/certificate/0581cac7b4b7ade97255fef02601f295.crt` |  | true | [view](../../REPOS/edfda09261223fb71b6ce9d93cb459fa90758fef/README.md) |
+| `https://sticr-cstga.ccid.neustar/api/v1/certificate/1da6faf697ce57fff21bed5e9105be2d.crt` |  | true | [view](../../REPOS/e31e6a9d5483767ee4364f6ea8b23fa98d6ee174/README.md) |
 | `https://sticr-cstga.ccid.neustar/api/v1/certificate/3f7be0c667b2f3c24546cf26629eb906.crt` |  | true | [view](../../REPOS/6cc197a230692738160b25ccee626e38948c6854/README.md) |
 | `https://sticr-cstga.ccid.neustar/api/v1/certificate/56701755b64fd6472ffc065ab0dfe768.pem` |  | true | [view](../../REPOS/29cd25222aac6fb303613c15b360a84b8c615694/README.md) |
 | `https://sticr-cstga.ccid.neustar/api/v1/certificate/7bdca6d62828d732c42a364bd6e6662a.pem` |  | true | [view](../../REPOS/b84a18b45e1180f9018097e56150c69afca06eb8/README.md) |
 | `https://sticr-cstga.ccid.neustar/api/v1/certificate/815b181b29c53037f17257ba5733b2cc.crt` |  | true | [view](../../REPOS/954745a77f7d74deb8f45462ddf233e6b547a1ea/README.md) |
+| `https://sticr-cstga.ccid.neustar/api/v1/certificate/a93fb04b9d4d2e9384352d32f7830cb2.crt` |  | true | [view](../../REPOS/374bbefde5a0e35d737b6b2e249130fbbf014a02/README.md) |
 | `https://stir.na3.livevox.com/cert/2B6FU4qN` |  | true | [view](../../REPOS/789bf1c9a146e5a7af3d6119c3c66816390889cf/README.md) |
 | `https://stir.na4.livevox.com/cert/2B6FU4qN` |  | true | [view](../../REPOS/7114f23c4bf3121250ebc95a76a4457ff741e54c/README.md) |
 | `https://stir.na6.livevox.com/cert/2B6FU4qN` |  | true | [view](../../REPOS/4eea149389dab60bb031350daf27112b5de5989c/README.md) |
@@ -91,9 +100,8 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://thevoiptalk.com/cert/sp-key.pem` |  | true | [view](../../REPOS/8de3cd107ecca0731e4e6a426badc3f79f662fbc/README.md) |
 | `https://voice.onepbxcloud.com/657K-20230808.crt` |  | true | [view](../../REPOS/50ae693fa72c344cfe2a3408355d97967ddac3e0/README.md) |
 | `https://www.hadlotechnologies.com/ss_certs/hadlo_stirshaken.public.crt` |  | true | [view](../../REPOS/93bdc96988e271115ebedc66c31f128575604c1a/README.md) |
-| `https://www.talkasiavoip.com/198K.pem` |  | true | [view](../../REPOS/bb30be37f3905720319bcf16596a6c137b7f5d2c/README.md) |
 | `https://www.voipessential.com/shaken/DFE323WW43Q656QWLMD` |  | true | [view](../../REPOS/89dcb49688a6eb12e01582bbe7639fb54faa2802/README.md) |
 | `https://www.voipessential.com/shaken/neustar_230420` |  | true | [view](../../REPOS/6480e17d491edb32d71a534f7e3baceef6d3864d/README.md) |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

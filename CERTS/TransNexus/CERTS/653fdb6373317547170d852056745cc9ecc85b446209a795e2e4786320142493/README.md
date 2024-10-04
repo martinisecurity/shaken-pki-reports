@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 012K
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:32 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -498 day(s)\
+Remaining Validity Period: -537 day(s)\
 Subject: CN=SHAKEN 012K, O=CallCurrent\\, Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/bc54831592678c7a79c18242a9161bf5.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/bc54
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

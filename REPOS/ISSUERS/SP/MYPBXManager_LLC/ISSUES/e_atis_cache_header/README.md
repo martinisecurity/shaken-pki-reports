@@ -12,4 +12,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://www.mypbxmanager.net/local/PubShakenCert.crt` | 02&#160;Aug&#160;26&#160;19:55&#160;UTC | true | [view](../../REPOS/bcaaae3f936a74a5e91182403c18ec293f87c940/README.md) |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

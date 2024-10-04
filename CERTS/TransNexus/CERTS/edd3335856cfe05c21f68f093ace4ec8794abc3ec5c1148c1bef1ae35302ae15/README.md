@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 107K
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:37 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -555 day(s)\
+Remaining Validity Period: -593 day(s)\
 Subject: CN=SHAKEN 107K, O=Atheral, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/4ba6f296-2d7c-42c2-8fe4-12b74f5076df/fbb7b5820eaafd21968c4ae6b591c1e1.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/4ba6f296-2d7c-42c2-8fe4-12b74f5076df/fbb7
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

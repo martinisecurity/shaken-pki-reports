@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN ONE OWL TELECOM INC 412K
 
-Tested At: 26 Aug 24 17:48 UTC\
+Tested At: 04 Oct 24 16:15 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 79 day(s)\
+Remaining Validity Period: 40 day(s)\
 Subject: CN=SHAKEN ONE OWL TELECOM INC 412K, OU=ONEOWLTELECOM, O=ONE OWL TELECOM INC, ST=Maryland, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/OneOwlTelecom_412K
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/OneOwlTelecom_412K
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 412K', but common name is 'SHAKEN ONE OWL TELECOM INC 412K' |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

@@ -19,4 +19,4 @@ No error, warning, or notice level issues were found
 | error | Metaswitch STI-CA SHAKEN Issuing 1 | [view](../../CERTS/12d67681ec2bd575ddcb33c721fe445dc556f0e362ba5b565a1f03897cb542f6/README.md) | Subject MUST contain a Country (C=) of "US". |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

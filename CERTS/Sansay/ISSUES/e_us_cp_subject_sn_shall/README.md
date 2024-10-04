@@ -15,6 +15,7 @@ Description: The DN shall contain a serialNumber attribute.
 | error | SHAKEN Bulk Solutions, LLC 644J | [view](../../CERTS/9da93d10ef266f23087e3f23bd41ba68e75db57c81dd5099c76ae27074a16d47/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN Bulk Solutions, LLC 644J | [view](../../CERTS/ab634090acf3c02b7dcd70995171b6522e39c5a72d73fe26e32e99b1acd716d7/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN Watchcomm  0590 | [view](../../CERTS/f37c46fe22ca2348db842b6bef04535d9be4d6b413c2282fdca2969d292bcdcd/README.md) | The DN does not contain a serialNumber attribute. |
+| error | SHAKEN Bek Communications Cooperative 1604 | [view](../../CERTS/17a28f83e865e75a97e9a5a4b777355b93960ccf3b65a1d13e06693a0d03e399/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN Global Net Holdings Inc 306K | [view](../../CERTS/fab84634747b289457158fa4984de05cadcd77c62855912a90ee98eb672b714f/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN ACS Technologies 488K | [view](../../CERTS/0218a28abeeeb238045a8ddffa3593779dcf82a26f219585c3af62900a27ac51/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN IPBTel 535K | [view](../../CERTS/c777a6bdc52c45c7f7f66f40b765c70e167fe34b8cd36fea8bc287b20cb7d80e/README.md) | The DN does not contain a serialNumber attribute. |
@@ -32,20 +33,16 @@ Description: The DN shall contain a serialNumber attribute.
 | error | SHAKEN Global Net Holdings Inc 306K | [view](../../CERTS/df27855ac3adb23e2757af24806db9d4a98f70446fff9606d9a8d4196c66f64e/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN Global Net Holdings Inc 306K | [view](../../CERTS/5b37238808c628f29580dc7b328a570ffa010e1bf0a2a02a6b15e0341dfc7d93/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN Godaddy 463K | [view](../../CERTS/cc4ebe2a97d75e8560b603d277ce9e5bfb7a1e8dd5da0628e64e90576d270750/README.md) | The DN does not contain a serialNumber attribute. |
-| error | SHAKEN Miracle Telecom 496K | [view](../../CERTS/f7312e8a32e80db109fe012d1e00c252afc4eec07f6292fa6f714e926910d14e/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN ONE OWL TELECOM INC 412K | [view](../../CERTS/a8a6cbe884baa1d42768251df5233f7ffd0b33886539cf00df0d1b16cc48c3f3/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN Ytel Inc. 703J | [view](../../CERTS/1abf91916a7c83ff53e58fdaf8fab1e6f6c232bc2aa2b1903c76c37d7a6984a6/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN Zito Media Voice 624G | [view](../../CERTS/139f5ea60b5e891b041824e82c242eb6191006f1283e9bad6cd052bf821a0fc2/README.md) | The DN does not contain a serialNumber attribute. |
-| error | SHAKEN Go Voip Dialing LLC 704K | [view](../../CERTS/645767c01de0509deb545953141dbf2e136665480917cc8c4ecc73a45608af68/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN GIP Technology 434K | [view](../../CERTS/8b89b7753c70f6c5e7642831b901ae0f37ce3be14e2a9bc4ec4b05646b23b330/README.md) | The DN does not contain a serialNumber attribute. |
-| error | SHAKEN Primo Dialler LLC 249K | [view](../../CERTS/2345fd9200b5754c1d5fb353ea414d4be8e9eda729202bd84c0c3f7c6a0d1ad6/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN Voice SY LLC 521K | [view](../../CERTS/17cf3db291a3964a6e7d259ee034a5bf1ff6b0acfc4f2fee863c3984f67d37c2/README.md) | The DN does not contain a serialNumber attribute. |
-| error | SHAKEN Double A Solutions 644K | [view](../../CERTS/fb18701e25fb45d49e3966dd64fb3a518f6f2a9150059b39ad61632ac9317922/README.md) | The DN does not contain a serialNumber attribute. |
-| error | SHAKEN Contactivity Corp. 711K | [view](../../CERTS/673f3091743237809463817a98f68fb9fd95c3b112030e4fcbe84096f54d5038/README.md) | The DN does not contain a serialNumber attribute. |
+| error | SHAKEN Contactivity Corp. 711K | [view](../../CERTS/6f93189ff71fccb600f52ac36ac52ec2d7ff916d7bf9e9d3a8eb8ae6d4c7cd31/README.md) | The DN does not contain a serialNumber attribute. |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

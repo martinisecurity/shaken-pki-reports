@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 4156
 
-Tested At: 26 Aug 24 17:44 UTC\
+Tested At: 04 Oct 24 15:47 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -41 day(s)\
+Remaining Validity Period: -80 day(s)\
 Subject: CN=SHAKEN 4156, O=Arvig, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/f0716e63-b288-44a2-8616-d4f89fc09da7/70981fe43d1be3b8ecfa64edf0ef7dc7.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/f0716e63-b288-44a2-8616-d4f89fc09da7/7098
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

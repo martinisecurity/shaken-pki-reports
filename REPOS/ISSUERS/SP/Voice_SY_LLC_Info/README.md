@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 233ms average time it took to download each certificate
+- 127ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://primodialer2.46labs.com/primodialer2.pem` | 17&#160;Dec&#160;24&#160;13:02&#160;UTC | true | [view](REPOS/362f0d216e37b109465f2951e993609ce2e907c0/README.md) |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

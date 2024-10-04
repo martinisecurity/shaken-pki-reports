@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 039K
 
-Tested At: 26 Aug 24 17:53 UTC\
+Tested At: 04 Oct 24 16:20 UTC\
 Initial Validity Period: 3 day(s)\
-Remaining Validity Period: -298 day(s)\
+Remaining Validity Period: -337 day(s)\
 Subject: O=Bluebird Wireless Broadband Services\\, LLC., C=US, serialNumber=3C32956DBC5B06F6172692ACE37ABE0F, CN=SHAKEN 039K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/e6LlMGmHvTXd.pem
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/e6LlMGmHvTXd.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

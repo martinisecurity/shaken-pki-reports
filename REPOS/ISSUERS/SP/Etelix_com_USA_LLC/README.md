@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 159ms average time it took to download each certificate
+- 68ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -22,4 +22,4 @@
 | `http://certs-clb-1999937273.us-east-1.elb.amazonaws.com/576K_20230815.crt` | 15&#160;Aug&#160;24&#160;19:40&#160;UTC | true | [view](REPOS/c6d2cb3bdc1e822ced5bb191ab336e0b567479e4/README.md) |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

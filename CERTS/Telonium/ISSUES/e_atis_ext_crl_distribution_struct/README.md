@@ -12,6 +12,7 @@ Description: STI intermediate and end-entity certificates shall contain a CRL Di
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
+| error | SHAKEN 847K | [view](../../CERTS/b973a038898de5f18bcf1e65751096cf4f788fb8f7d2cb53e29509e333600472/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
 | error | SHAKEN 963J | [view](../../CERTS/ceef9f6d88a1efc4c056ecaf0f5d42c5f106fb5fc895c8ccc1f7ea97b6ac1093/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
 | error | SHAKEN 854K | [view](../../CERTS/bfea21afc2db20c52f74b16c054d12ff6e839acc8b18401aced0154ef7e03750/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
 
@@ -20,4 +21,4 @@ Description: STI intermediate and end-entity certificates shall contain a CRL Di
 No error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

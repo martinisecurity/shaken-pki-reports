@@ -2,9 +2,9 @@
 
 ## Certificate DiDCentral SHAKEN 756J
 
-Tested At: 26 Aug 24 17:57 UTC\
+Tested At: 04 Oct 24 16:23 UTC\
 Initial Validity Period: 37 day(s)\
-Remaining Validity Period: -241 day(s)\
+Remaining Validity Period: -280 day(s)\
 Subject: CN=DiDCentral SHAKEN 756J, O=DIDCentral LLC, ST=WY, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/8e0ac77d4a098c64dc0600caf5008c06952dd71c
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/8e0ac77d4a098c64dc0600caf5008c06952dd71c
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

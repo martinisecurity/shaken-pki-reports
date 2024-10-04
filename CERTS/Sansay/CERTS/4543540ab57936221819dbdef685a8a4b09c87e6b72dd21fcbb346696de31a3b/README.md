@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 521K Voice SY LLC
 
-Tested At: 26 Aug 24 17:56 UTC\
+Tested At: 04 Oct 24 16:23 UTC\
 Initial Validity Period: 200 day(s)\
-Remaining Validity Period: 155 day(s)\
+Remaining Validity Period: 116 day(s)\
 Subject: CN=SHAKEN 521K Voice SY LLC, O=Voice SY LLC, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://primodialer.peeredge.com/cert/w3sUjZVE.pem
@@ -16,4 +16,4 @@ Link: https://primodialer.peeredge.com/cert/w3sUjZVE.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

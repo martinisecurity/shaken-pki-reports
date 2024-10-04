@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0753
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:36 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -35 day(s)\
+Remaining Validity Period: -74 day(s)\
 Subject: CN=SHAKEN 0753, O=Endeavor Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/426afef5-4cac-437d-817b-671ec10e028a/33989fec0e801355277af8f7f3324395.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/426afef5-4cac-437d-817b-671ec10e028a/3398
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

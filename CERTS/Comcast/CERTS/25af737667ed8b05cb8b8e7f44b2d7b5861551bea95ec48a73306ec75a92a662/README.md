@@ -2,9 +2,9 @@
 
 ## Certificate Comcast SHAKEN Intermediate CA
 
-Tested At: 26 Aug 24 18:03 UTC\
+Tested At: 04 Oct 24 16:29 UTC\
 Initial Validity Period: 7300 day(s)\
-Remaining Validity Period: 7072 day(s)\
+Remaining Validity Period: 7033 day(s)\
 Subject: CN=Comcast SHAKEN Intermediate CA, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US\
 Issuer: CN=Comcast SHAKEN Root CA, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US
 
@@ -16,4 +16,4 @@ Issuer: CN=Comcast SHAKEN Root CA, O=Comcast, L=Philadelphia, ST=Pennsylvania, C
 | [e_atis_ext_crl_distribution_struct_ca](../../ISSUES/e_atis_ext_crl_distribution_struct_ca/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

@@ -3,8 +3,8 @@
 ## Comcast
 
 Name: `https://sticr.stir.comcast.com/68f6ed4a-0951-45ed-ad96-0944e8d46d23.cer`\
-Tested At: 26 Aug 24 18:00 UTC\
-Time: 159ms
+Tested At: 04 Oct 24 16:25 UTC\
+Time: 38ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 159ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 958K SaveVoip LLC
+
+Tested At: 04 Oct 24 16:14 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 280 day(s)\
+Subject: CN=SHAKEN 958K SaveVoip LLC, O=SaveVoip LLC, C=US\
+Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
+Link: https://cr.sansay.com/958K/429C7C70711E3820F0B8E1DEAE6FF3262264A300.pem
+
+[View certificate details](https://x509.io/?cert=MIICqzCCAlGgAwIBAgIUQpx8cHEeOCDwuOHerm%2FzJiJkowAwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9ybmlhMRswGQYDVQQKDBJTYW5zYXkgQ29ycG9yYXRpb24xEjAQBgNVBAsMCVNhbnNheSBDQTEwMC4GA1UEAwwnU0hBS0VOIFNhbnNheSBJbnRlcm1lZGlhdGUgQ0EgVVMgV0VTVCAxMB4XDTI0MDcxMDE5MTM1OVoXDTI1MDcxMDE5MTM1OVowRzELMAkGA1UEBhMCVVMxFTATBgNVBAoMDFNhdmVWb2lwIExMQzEhMB8GA1UEAwwYU0hBS0VOIDk1OEsgU2F2ZVZvaXAgTExDMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsGLjThJWsu2USmZVo1G120Nvirag8BpFmjKlodHBuc1EOBgZt4n%2BC5hDLu%2B54J0DdCR9xCHzcFUu0ZQ8F7xSsKOB2zCB2DAWBggrBgEFBQcBGgQKMAigBhYEOTU4SzAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQQwHQYDVR0OBBYEFHoAv5bXTx4rF%2F2DQRKDDCNhJLYUMB8GA1UdIwQYMBaAFKzTk%2FVDQ8wKvkVYFxN9knzcwwFGMEcGA1UdHwRAMD4wPKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybDAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNIADBFAiBvFnSS5d3uNlpyrek8%2BvNc9Y3c8YTBZeAF0o%2BVkoh1%2FAIhAM6%2FusQgHghISOa08bq5FS9cNsurMlGOm0pMqYSfGqDS)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+
+
+Generated: 04 Oct 24 16:29 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Voice SY LLC 521K
 
-Tested At: 26 Aug 24 17:56 UTC\
+Tested At: 04 Oct 24 16:23 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 113 day(s)\
+Remaining Validity Period: 74 day(s)\
 Subject: CN=SHAKEN Voice SY LLC 521K, OU=Voice SY LLC Info, O=Voice SY LLC Info, ST=Wyoming, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://primodialer2.46labs.com/primodialer2.pem
@@ -17,4 +17,4 @@ Link: https://primodialer2.46labs.com/primodialer2.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 521K', but common name is 'SHAKEN Voice SY LLC 521K' |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

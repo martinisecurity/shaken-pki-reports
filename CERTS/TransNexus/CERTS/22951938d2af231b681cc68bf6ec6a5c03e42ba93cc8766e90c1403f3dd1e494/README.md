@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 130K
 
-Tested At: 26 Aug 24 17:44 UTC\
+Tested At: 04 Oct 24 15:44 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -105 day(s)\
+Remaining Validity Period: -144 day(s)\
 Subject: CN=SHAKEN 130K, O=MetroConnect, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/c282e5db-7f1a-4bca-8162-4934e93ac06c/4a852a039bff927dc18509bdc316b223.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/c282e5db-7f1a-4bca-8162-4934e93ac06c/4a85
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

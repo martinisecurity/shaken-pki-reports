@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 785J
 
-Tested At: 26 Aug 24 17:57 UTC\
+Tested At: 04 Oct 24 16:23 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -570 day(s)\
+Remaining Validity Period: -609 day(s)\
 Subject: CN=SHAKEN 785J, O=Range Telecom, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/907a99e8008aa590695697cee73d401d4ef33451
@@ -25,4 +25,4 @@ Link: https://ssc.getsipnav.com/certs/907a99e8008aa590695697cee73d401d4ef33451
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

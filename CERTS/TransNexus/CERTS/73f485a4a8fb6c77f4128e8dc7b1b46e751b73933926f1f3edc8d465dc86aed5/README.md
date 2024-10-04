@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 012K
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:32 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: 3 day(s)\
+Remaining Validity Period: -36 day(s)\
 Subject: CN=SHAKEN 012K, O=CallCurrent\\, Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/2c1e4db240fccac7055f4b33e37c7c42.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/2c1e
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

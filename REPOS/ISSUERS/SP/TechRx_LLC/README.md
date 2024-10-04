@@ -9,7 +9,7 @@
 - 0.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 32ms average time it took to download each certificate
+- 41ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -20,4 +20,4 @@
 | `https://certs.telonium.net/24/74cb84b8.crt` | 09&#160;Jan&#160;25&#160;14:51&#160;UTC | true | [view](REPOS/2963d034d20db9e71152e947362007a77310acb7/README.md) |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

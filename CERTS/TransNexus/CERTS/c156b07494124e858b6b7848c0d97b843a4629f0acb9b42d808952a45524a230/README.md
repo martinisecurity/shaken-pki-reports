@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 815G
 
-Tested At: 26 Aug 24 17:45 UTC\
+Tested At: 04 Oct 24 15:50 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: -685 day(s)\
+Remaining Validity Period: -724 day(s)\
 Subject: CN=SHAKEN 815G, OU=SHAKEN, O=382 Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/815G/dc14f4fd-d8a5-4499-a672-069fd27430eb.pem
@@ -13,8 +13,8 @@ Link: https://certificates.transnexus.com/815G/dc14f4fd-d8a5-4499-a672-069fd2743
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_incorrect_ku_encoding](../../ISSUES/e_incorrect_ku_encoding/README.md) | error | RFC5280 | KeyUsage contains an inefficient encoding wherein the number of 'unused bits' is declared to be 0, but it should be 7. Raw Bytes: [3 2 0 128], Raw Binary: [00000011 00000010 00000000 10000000] |
 
 ### Not Effective
 
@@ -26,4 +26,4 @@ Link: https://certificates.transnexus.com/815G/dc14f4fd-d8a5-4499-a672-069fd2743
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

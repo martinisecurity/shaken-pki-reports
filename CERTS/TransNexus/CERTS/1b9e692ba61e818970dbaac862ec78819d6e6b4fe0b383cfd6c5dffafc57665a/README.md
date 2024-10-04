@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 835K
 
-Tested At: 26 Aug 24 17:44 UTC\
+Tested At: 04 Oct 24 15:47 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: 4 day(s)\
+Remaining Validity Period: -34 day(s)\
 Subject: CN=SHAKEN 835K, O=Brytecall LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/f51afae0-e06f-4e3b-b71a-64633f1bb45f/774fa0484c860cf92262d3b1232008d1.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/f51afae0-e06f-4e3b-b71a-64633f1bb45f/774f
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

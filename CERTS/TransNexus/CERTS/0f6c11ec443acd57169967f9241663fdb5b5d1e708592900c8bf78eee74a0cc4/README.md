@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 606F
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:39 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -337 day(s)\
+Remaining Validity Period: -376 day(s)\
 Subject: CN=SHAKEN 606F, O=Global Data Systems Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/756cb700-f9d2-4a05-850e-c9dfe3e22de4/4d93c82db04bd4d7568d2b7642844ee5.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/756cb700-f9d2-4a05-850e-c9dfe3e22de4/4d93
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

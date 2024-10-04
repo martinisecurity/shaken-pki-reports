@@ -2,9 +2,9 @@
 
 ## Certificate Neustar UAT Enterprise Certified Caller Intermediate CA1
 
-Tested At: 26 Aug 24 18:03 UTC\
+Tested At: 04 Oct 24 16:29 UTC\
 Initial Validity Period: 3653 day(s)\
-Remaining Validity Period: 2710 day(s)\
+Remaining Validity Period: 2671 day(s)\
 Subject: CN=Neustar UAT Enterprise Certified Caller Intermediate CA1, OU=www.ccid-uat.neustar, O=Neustar Inc a TransUnion company, C=US\
 Issuer: CN=Neustar UAT Enterprise Certified Caller Root CA, OU=www.ccid-uat.neustar, O=Neustar Inc a TransUnion company, C=US
 
@@ -12,8 +12,8 @@ Issuer: CN=Neustar UAT Enterprise Certified Caller Root CA, OU=www.ccid-uat.neus
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_ca](../../ISSUES/e_atis_subject_cn_ca/README.md) | error | ATIS1000080 | Common Name attribute 'Neustar UAT Enterprise Certified Caller Intermediate CA1' does not contain 'SHAKEN' |
 | [e_shaken_certificate_policies_id_ca](../../ISSUES/e_shaken_certificate_policies_id_ca/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 1.3.6.1.4.1.13568.100. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
+| [e_atis_subject_cn_ca](../../ISSUES/e_atis_subject_cn_ca/README.md) | error | ATIS1000080 | Common Name attribute 'Neustar UAT Enterprise Certified Caller Intermediate CA1' does not contain 'SHAKEN' |
 
 ### Not Effective
 
@@ -24,4 +24,4 @@ Issuer: CN=Neustar UAT Enterprise Certified Caller Root CA, OU=www.ccid-uat.neus
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

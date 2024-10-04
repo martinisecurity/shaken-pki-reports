@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 278K
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:35 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -19 day(s)\
+Remaining Validity Period: -58 day(s)\
 Subject: CN=SHAKEN 278K, O=OIT, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/36952c34-78d8-4c32-9499-188a418f31ba/701afc45056f60cf2199d53097a93603.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/36952c34-78d8-4c32-9499-188a418f31ba/701a
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

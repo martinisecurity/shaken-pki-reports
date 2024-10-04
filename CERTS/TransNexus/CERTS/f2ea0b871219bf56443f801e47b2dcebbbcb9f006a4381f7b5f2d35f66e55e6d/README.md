@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 646K
 
-Tested At: 26 Aug 24 17:44 UTC\
+Tested At: 04 Oct 24 15:46 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: 2 day(s)\
+Remaining Validity Period: -36 day(s)\
 Subject: CN=SHAKEN 646K, O=IT Voice, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/dc4457ef-626e-49f6-817f-859ce6959b0b/be6fbd1a0bf7f57bceff2b19110fdefa.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/dc4457ef-626e-49f6-817f-859ce6959b0b/be6f
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

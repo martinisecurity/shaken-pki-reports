@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 983J
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:37 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -244 day(s)\
+Remaining Validity Period: -283 day(s)\
 Subject: CN=SHAKEN 983J, O=ESI, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/3988c97e6f38937d4f8f33f1e743afef.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/59ebb7c1-25bd-4dfc-9794-fcb104b2f66a/3988
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

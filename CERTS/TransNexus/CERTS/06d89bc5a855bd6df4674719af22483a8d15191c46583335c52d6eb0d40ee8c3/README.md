@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0382
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:37 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -247 day(s)\
+Remaining Validity Period: -286 day(s)\
 Subject: CN=SHAKEN 0382, O=Ringgold Telephone, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/50408dfc-c7d7-40d7-890d-70e7db9bbf4f/f5221028bea6147e421cd4dda33846fd.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/50408dfc-c7d7-40d7-890d-70e7db9bbf4f/f522
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

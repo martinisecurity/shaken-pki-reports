@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0860
 
-Tested At: 26 Aug 24 17:44 UTC\
+Tested At: 04 Oct 24 15:42 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: 2 day(s)\
+Remaining Validity Period: -37 day(s)\
 Subject: CN=SHAKEN 0860, O=Norvado, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/9e58aca8-8c02-4026-ab15-4e56103c3d68/89abb3b0fba52d3a858c131d19751691.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/9e58aca8-8c02-4026-ab15-4e56103c3d68/89ab
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

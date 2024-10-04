@@ -2,9 +2,9 @@
 
 ## Certificate Crosstel Tandem Inc SEPB SHAKEN Cert 357H
 
-Tested At: 26 Aug 24 17:42 UTC\
+Tested At: 04 Oct 24 15:31 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 616 day(s)\
+Remaining Validity Period: 577 day(s)\
 Subject: CN=Crosstel Tandem Inc SEPB SHAKEN Cert 357H, O=Crosstel Tandem Inc SEPB, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/15812c8f761ade70a623766b81fb851b88f684b3
@@ -13,9 +13,9 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/15812c8f761ade70a623766b81fb851b88f684b
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 357H', but common name is 'Crosstel Tandem Inc SEPB SHAKEN Cert 357H' |
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 357H', but common name is 'Crosstel Tandem Inc SEPB SHAKEN Cert 357H' |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 029K
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:39 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -373 day(s)\
+Remaining Validity Period: -412 day(s)\
 Subject: CN=SHAKEN 029K, O=VoIPConsultants.biz LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/7f0be90c-4263-43fc-b425-53c54b34cd5a/46c7c724a0b1e12a5c9fd9b7bdd2b1ba.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/7f0be90c-4263-43fc-b425-53c54b34cd5a/46c7
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

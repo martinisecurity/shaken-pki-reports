@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 979E
 
-Tested At: 26 Aug 24 17:42 UTC\
+Tested At: 04 Oct 24 15:31 UTC\
 Initial Validity Period: 398 day(s)\
-Remaining Validity Period: 314 day(s)\
+Remaining Validity Period: 276 day(s)\
 Subject: CN=SHAKEN 979E, O=Bandwidth.com, C=CA\
 Issuer: CN=Neustar Canada Certified Caller ID SHAKEN CA-2, OU=www.ca.ccid.neustar, O=Neustar Information Services Inc, C=CA\
 Link: https://bw-shaken-cert-pub.s3.amazonaws.com/bw-can-shaken_20250706.pem
@@ -16,4 +16,4 @@ Link: https://bw-shaken-cert-pub.s3.amazonaws.com/bw-can-shaken_20250706.pem
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 1.3.6.1.4.1.56223.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

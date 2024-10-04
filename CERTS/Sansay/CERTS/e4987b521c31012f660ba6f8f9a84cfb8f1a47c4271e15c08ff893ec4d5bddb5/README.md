@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Matrix 9451
 
-Tested At: 26 Aug 24 17:48 UTC\
+Tested At: 04 Oct 24 16:14 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -2 day(s)\
+Remaining Validity Period: -41 day(s)\
 Subject: CN=SHAKEN Matrix 9451, OU=Engineering, O=Matrix, ST=Texas, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/9451/429C7C70711E3820F0B8E1DEAE6FF3262264A480.pem
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/9451/429C7C70711E3820F0B8E1DEAE6FF3262264A480.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 9451', but common name is 'SHAKEN Matrix 9451' |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

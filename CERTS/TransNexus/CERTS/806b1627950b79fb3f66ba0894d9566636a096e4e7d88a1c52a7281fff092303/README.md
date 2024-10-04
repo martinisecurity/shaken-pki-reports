@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 967J
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:38 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -563 day(s)\
+Remaining Validity Period: -601 day(s)\
 Subject: CN=SHAKEN 967J, O=BizVox Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/61b8053c-9172-4e1a-8330-440f72f3a3cd/139f58a3c3dfcdd8ef0c5d5505513fdc.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/61b8053c-9172-4e1a-8330-440f72f3a3cd/139f
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

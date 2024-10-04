@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 459J
 
-Tested At: 26 Aug 24 17:44 UTC\
+Tested At: 04 Oct 24 15:45 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -11 day(s)\
+Remaining Validity Period: -50 day(s)\
 Subject: CN=SHAKEN 459J, O=Altaworx, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/d3d6dbfc-2914-49c7-8f47-d0aa5bd5d764/6329328080f0e22c47f959180f314ec9.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/d3d6dbfc-2914-49c7-8f47-d0aa5bd5d764/6329
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

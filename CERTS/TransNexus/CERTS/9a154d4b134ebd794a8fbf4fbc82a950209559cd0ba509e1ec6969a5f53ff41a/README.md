@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 5512
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:33 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -587 day(s)\
+Remaining Validity Period: -626 day(s)\
 Subject: CN=SHAKEN 5512, O=Andrew Ward Consulting LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/19aed76a-a067-4715-8a05-1993cc9d939e/3acbf5c1f7876be2477ca72021eb11a8.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/19aed76a-a067-4715-8a05-1993cc9d939e/3acb
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

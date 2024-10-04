@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 053G
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:36 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -599 day(s)\
+Remaining Validity Period: -638 day(s)\
 Subject: CN=SHAKEN 053G, O=Meriplex Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/44962359-54bc-4e1b-b880-3f905456f68e/f2363bae05257ebdac96ddfc77b1ee80.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/44962359-54bc-4e1b-b880-3f905456f68e/f236
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

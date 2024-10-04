@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 819K
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:35 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -18 day(s)\
+Remaining Validity Period: -57 day(s)\
 Subject: CN=SHAKEN 819K, O=NextPointe Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/2fc682a8-f5a6-4d7a-9c49-e3203c9bf427/ad7b24f3c1adfa3a02d904e7fda84fb9.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/2fc682a8-f5a6-4d7a-9c49-e3203c9bf427/ad7b
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

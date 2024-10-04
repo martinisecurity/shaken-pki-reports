@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 269K
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:36 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -307 day(s)\
+Remaining Validity Period: -346 day(s)\
 Subject: CN=SHAKEN 269K, O=Ultimate Internet Access\\, Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/462ca8e6-d9d3-4fa1-85b7-d0f712423ee7/484868f7c3ed99d98d8be7adec1e9f42.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/462ca8e6-d9d3-4fa1-85b7-d0f712423ee7/4848
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

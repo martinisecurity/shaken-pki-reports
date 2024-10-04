@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 34ms average time it took to download each certificate
+- 18ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://certs.iverify-aninetworks.net/bcm_20250521_1.crt` | 21&#160;Mar&#160;25&#160;19:51&#160;UTC | true | [view](REPOS/be889fd97be134a1d6c508cb157d52b4e469c4ec/README.md) |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

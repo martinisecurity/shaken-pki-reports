@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 771J
 
-Tested At: 26 Aug 24 17:42 UTC\
+Tested At: 04 Oct 24 15:30 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 324 day(s)\
+Remaining Validity Period: 286 day(s)\
 Subject: CN=SHAKEN 771J, O=Latam Telecommunications LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://187.174.67.118:8080/0e4158a72f7ae0b175762c8b52a0b357.cer
@@ -16,4 +16,4 @@ Link: https://187.174.67.118:8080/0e4158a72f7ae0b175762c8b52a0b357.cer
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

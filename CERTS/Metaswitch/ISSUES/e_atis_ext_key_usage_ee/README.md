@@ -36,7 +36,6 @@ Description: The Key Usage extension for STI end-entity certificates shall conta
 | error | Fidelity Communications SHAKEN Cert 1882 | [view](../../CERTS/af56b81c67b9b517530e053f153af3c7d6a72620c04f84b1ff648e7c137e1376/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | Pembroke Telephone Company, Inc SHAKEN Cert 0376 | [view](../../CERTS/69ab198b52280bf3d729e1427f62d521e91796e2bae19f99fa0ccd8d024b32de/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | Altafiber SHAKEN Cert 600F | [view](../../CERTS/539f95db9ccfdb4fbde5313b77c2b42bd0353b0bb2506829cbc995f7bb7bcf8e/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
-| error | CTS Telecom, Inc SHAKEN Cert 8331 | [view](../../CERTS/5c9f6132a96a05a58d02d845ee70e914659682623fb98acbbecd9f8e383dcbec/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | Viaero Wireless SHAKEN 6874 | [view](../../CERTS/a78a872118a4c72e76b6751e8c04590e534c15dbdbf9813d6d1f5a3e671e44a8/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | Five Area Telephone SHAKEN Cert 2071 | [view](../../CERTS/db99dd8dc88710f1a73aebd4530a1d432ef3468c5e3b7ac911ec9c96703fd108/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | Blackfoot Communications SHAKEN Cert 2235 | [view](../../CERTS/1ae2c0be152e4cef8d41bcfc9809e5d8c71251f93f845e84304ca5a3603019a4/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
@@ -58,6 +57,7 @@ Description: The Key Usage extension for STI end-entity certificates shall conta
 | error | Segra SHAKEN Cert 1784 | [view](../../CERTS/43e33ae8510822ad85afd4b972224c56b6e303b38e8ee3487836f32e2b2b6c89/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | Cellular South Licenses SHAKEN Cert 6581 | [view](../../CERTS/00941a6765df10dc35107d8f82f07a6bde43aeef738821df1ac58d997fcaf5ea/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | Project Mutual SHAKEN Cert 2231 | [view](../../CERTS/d0a2456e20d153010a45b43f3247b0e6ce7bbd4e614967f3184d8e9516995bba/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
+| error | DTC Communications SHAKEN Cert 0562 | [view](../../CERTS/e72f0cf001ceeb26687b4aefba16aedc0006f2ce1b8069325adb312389e28173/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | West Kentucky Rural SHAKEN Cert 0421 | [view](../../CERTS/62a29b3d0b7af5b22427dc5dee9d649652664d6a455a601ed01b85592ad9a0a6/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | GCI SHAKEN Cert 7785 | [view](../../CERTS/756b85600764bd2c72e98777b98791b6005640feb1fba6f3d9c1a278c9e66f87/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | Ben Lomand SHAKEN Cert 0553 | [view](../../CERTS/ce469ff39f245721d8c523af0a6fbd26fc0742e3c18b0b5adc627794eaad6231/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
@@ -71,4 +71,4 @@ Description: The Key Usage extension for STI end-entity certificates shall conta
 No error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

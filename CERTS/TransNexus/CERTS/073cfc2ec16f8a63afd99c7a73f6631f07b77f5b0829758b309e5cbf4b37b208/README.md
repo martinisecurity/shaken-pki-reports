@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1664
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:34 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -14 day(s)\
+Remaining Validity Period: -53 day(s)\
 Subject: CN=SHAKEN 1664, O=SDN, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/2463bfed-79f7-400e-8255-0db43260a189/dd73444e4236b65a8d125926f38d4c92.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/2463bfed-79f7-400e-8255-0db43260a189/dd73
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

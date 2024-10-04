@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 606F
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:39 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -28 day(s)\
+Remaining Validity Period: -67 day(s)\
 Subject: CN=SHAKEN 606F, O=Global Data Systems Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/756cb700-f9d2-4a05-850e-c9dfe3e22de4/8b25394ca85e9b141c25c34cc6bd7c2a.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/756cb700-f9d2-4a05-850e-c9dfe3e22de4/8b25
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

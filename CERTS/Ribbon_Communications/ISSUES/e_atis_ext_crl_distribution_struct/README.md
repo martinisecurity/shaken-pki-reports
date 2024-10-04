@@ -14,6 +14,7 @@ Description: STI intermediate and end-entity certificates shall contain a CRL Di
 |--------|---------|------|---------|
 | error | ColoradoValley SHAKEN 2059 | [view](../../CERTS/328011b837c2166f113664ab01dc719816e4bfcb734782636e9abb7bbf68199a/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
 | error | Localtel SHAKEN 3229 | [view](../../CERTS/92063be4763362c7e542a41e3f4ebd030f1816f5ec8600b444be908c646307e5/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | Etex STI SHAKEN 3196 | [view](../../CERTS/9cb289044279fde9ca74c37807eb10061a1098c816b89e2d146e37c0d377e044/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
 | error | Ribbon SHAKEN 2086 | [view](../../CERTS/a8850907d694bd9b9787d39dd18aff77488f3ff1d12a045b5a112dde73d8d5b2/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
 | error | Peoples SHAKEN 2130 | [view](../../CERTS/506e5980d9b8f24ac2c781f15c58fcc50dd50c9f82d8aac2ac72967211f262db/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
 | error | FirstDigital SHAKEN 5727 | [view](../../CERTS/cf281053153a12955be41e5b0f99caf1572a1c30b21f62a5c22543bf337740f7/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
@@ -24,4 +25,4 @@ Description: STI intermediate and end-entity certificates shall contain a CRL Di
 No error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

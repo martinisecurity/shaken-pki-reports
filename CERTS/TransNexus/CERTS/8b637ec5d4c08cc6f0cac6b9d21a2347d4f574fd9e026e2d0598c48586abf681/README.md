@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0172
 
-Tested At: 26 Aug 24 17:45 UTC\
+Tested At: 04 Oct 24 15:48 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -670 day(s)\
+Remaining Validity Period: -708 day(s)\
 Subject: CN=SHAKEN 0172, OU=SHAKEN, O=CallTower, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/0172/d1be3f78-bfc4-426b-8bd8-28bfd3a114db.pem
@@ -26,4 +26,4 @@ Link: https://certificates.transnexus.com/0172/d1be3f78-bfc4-426b-8bd8-28bfd3a11
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

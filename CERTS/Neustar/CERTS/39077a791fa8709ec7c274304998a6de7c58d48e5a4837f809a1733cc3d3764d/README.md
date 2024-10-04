@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 899J
 
-Tested At: 26 Aug 24 17:57 UTC\
+Tested At: 04 Oct 24 16:23 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 110 day(s)\
+Remaining Validity Period: 71 day(s)\
 Subject: CN=SHAKEN 899J, O=Telco Connection, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/a3abaabae48b27b3d817385ff49f2858b6deaddd
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/a3abaabae48b27b3d817385ff49f2858b6deaddd
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

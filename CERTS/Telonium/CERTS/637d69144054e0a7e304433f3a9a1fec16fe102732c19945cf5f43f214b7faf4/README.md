@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 824K
 
-Tested At: 26 Aug 24 17:44 UTC\
+Tested At: 04 Oct 24 15:48 UTC\
 Initial Validity Period: 367 day(s)\
-Remaining Validity Period: 178 day(s)\
+Remaining Validity Period: 139 day(s)\
 Subject: serialNumber=F45AB720-0D5A-416E-A25E-899C77F42A30, CN=SHAKEN 824K, O=Telecom Business Network, C=US\
 Issuer: CN=Telonium SHAKEN Intermediate G1, O=Telonium Communications LLC, L=Atlanta, ST=GA, C=US\
 Link: https://certificates.peeringhub.io/824K/824K.crt
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/824K/824K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

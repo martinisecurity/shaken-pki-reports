@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Carrier One Inc. 705J
 
-Tested At: 26 Aug 24 17:48 UTC\
+Tested At: 04 Oct 24 16:15 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 72 day(s)\
+Remaining Validity Period: 33 day(s)\
 Subject: CN=SHAKEN Carrier One Inc. 705J, OU=Voice NOC, O=Carrier One Inc., ST=Wyoming, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Carrier_One_Inc._705J
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Carrier_One_Inc._705J
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 705J', but common name is 'SHAKEN Carrier One Inc. 705J' |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

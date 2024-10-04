@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0664
 
-Tested At: 26 Aug 24 17:44 UTC\
+Tested At: 04 Oct 24 15:44 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -36 day(s)\
+Remaining Validity Period: -74 day(s)\
 Subject: CN=SHAKEN 0664, O=Com Net Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/cb66305d-96b1-49ed-82e9-9afdc4c88c40/8e1b2c3144ac075b714aa8c45e40383b.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/cb66305d-96b1-49ed-82e9-9afdc4c88c40/8e1b
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

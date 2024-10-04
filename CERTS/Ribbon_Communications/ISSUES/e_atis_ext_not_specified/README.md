@@ -12,6 +12,7 @@ Description: STI certificates shall not include extensions that are not specifie
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
+| error | NCTC SHAKEN 0573 | [view](../../CERTS/061fc531a3791e3dc8f6ab92fa774fcd34159cdaca5806df7c2f1ef77e1f9541/README.md) | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
 | error | ColoradoValley SHAKEN 2059 | [view](../../CERTS/328011b837c2166f113664ab01dc719816e4bfcb734782636e9abb7bbf68199a/README.md) | Certificate contains extensions that are not specified: 2.5.29.37 |
 | error | Nuwave Communications SHAKEN 620J | [view](../../CERTS/e9e2df4bebfaedd61373b3a9ddc2be32e19d81d2431f40ddb790185ded4b6783/README.md) | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
 | error | Eastex SHAKEN 2068 | [view](../../CERTS/edc37467b2db082bbed1e00e885cf81f7bb179ad1ac3a75fe5f82f7c284da595/README.md) | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
@@ -25,4 +26,4 @@ Description: STI certificates shall not include extensions that are not specifie
 No error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

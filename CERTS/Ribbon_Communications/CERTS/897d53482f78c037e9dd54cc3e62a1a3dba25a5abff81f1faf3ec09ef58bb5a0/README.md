@@ -2,9 +2,9 @@
 
 ## Certificate Ironton SHAKEN 1234 0175
 
-Tested At: 26 Aug 24 17:57 UTC\
+Tested At: 04 Oct 24 16:23 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 278 day(s)\
+Remaining Validity Period: 239 day(s)\
 Subject: CN=Ironton SHAKEN 1234 0175, OU=Central Office, O=Ironton Telephone, C=US, ST=PA, L=Coplay\
 Issuer: CN=SHAKEN Ribbon Issuing CA 2, OU=Certification Authority, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/rOzx_GsVRz/newcert2024-32276ad6675d8537ffc560e3696747c6
@@ -17,4 +17,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/rOzx_GsVRz/newcert2024-32276ad667
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

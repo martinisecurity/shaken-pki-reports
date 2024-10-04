@@ -2,9 +2,9 @@
 
 ## Certificate Empire SHAKEN 087H
 
-Tested At: 26 Aug 24 17:56 UTC\
+Tested At: 04 Oct 24 16:23 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 130 day(s)\
+Remaining Validity Period: 92 day(s)\
 Subject: CN=Empire SHAKEN 087H, OU=Network, O=Empire Telephone, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/Wlp54ZO4gz/087HJAN2024-35973a9ad21daed2759943e6a06798c3
@@ -17,4 +17,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/Wlp54ZO4gz/087HJAN2024-35973a9ad2
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

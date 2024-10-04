@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 052K
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:39 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -262 day(s)\
+Remaining Validity Period: -301 day(s)\
 Subject: CN=SHAKEN 052K, O=KassNet\\, Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/6814c282-6a92-4f7e-8103-d6485933d76b/b621d38ea14a70b9d138856ffcf1a2f1.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/6814c282-6a92-4f7e-8103-d6485933d76b/b621
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

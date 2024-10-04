@@ -12,6 +12,7 @@ Description: The Certificate Policies extension MUST contain a single OID value 
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
+| error | NCTC SHAKEN 0573 | [view](../../CERTS/061fc531a3791e3dc8f6ab92fa774fcd34159cdaca5806df7c2f1ef77e1f9541/README.md) | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 | error | Nuwave Communications SHAKEN 620J | [view](../../CERTS/e9e2df4bebfaedd61373b3a9ddc2be32e19d81d2431f40ddb790185ded4b6783/README.md) | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 | error | Eastex SHAKEN 2068 | [view](../../CERTS/edc37467b2db082bbed1e00e885cf81f7bb179ad1ac3a75fe5f82f7c284da595/README.md) | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 | error | UniVoIP SHAKEN 629J | [view](../../CERTS/aa242e08e8ae190ac6bb6f4592db929e3ff13278dac0629a9db7be151e253914/README.md) | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
@@ -24,4 +25,4 @@ Description: The Certificate Policies extension MUST contain a single OID value 
 No error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

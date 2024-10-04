@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 060K
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:32 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -41 day(s)\
+Remaining Validity Period: -80 day(s)\
 Subject: CN=SHAKEN 060K, O=Telware, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/0c4e235f-3e3e-4dd3-bbfc-2f15badab180/6df239f7121702828da84897185a5b65.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/0c4e235f-3e3e-4dd3-bbfc-2f15badab180/6df2
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

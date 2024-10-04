@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Voneto 485K
 
-Tested At: 26 Aug 24 17:48 UTC\
+Tested At: 04 Oct 24 16:15 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -179 day(s)\
+Remaining Validity Period: -218 day(s)\
 Subject: CN=SHAKEN Voneto 485K, OU=Voneto, O=Voneto, ST=Pennsylvania, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Voneto_485K
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/Voneto_485K
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 485K', but common name is 'SHAKEN Voneto 485K' |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 485K', but common name is 'SHAKEN Voneto 485K' |
 
 ### Not Effective
 
@@ -26,4 +26,4 @@ Link: https://cr.sansay.com/Voneto_485K
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

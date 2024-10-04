@@ -2,14 +2,14 @@
 
 ## Google Voice Inc.
 
-- 26 repository URLs were included in the corpus being tested
+- 28 repository URLs were included in the corpus being tested
 - 0 repository URLs in the corpus were skipped because they were duplicated
-- 26 repository URLs being tested against the remaining rules
+- 28 repository URLs being tested against the remaining rules
 - 0.00 issues on average found in non-compliant certificate repository URLs
 - 0.00% of repository URLs contain one or more Error level issue
 - 0.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 80ms average time it took to download each certificate
+- 65ms average time it took to download each certificate
 
 No error, warning, or notice level issues were found
 
@@ -20,6 +20,7 @@ No error, warning, or notice level issues were found
 | `https://www.gstatic.com/gtp/stir/54VmXxfxyTHMoxJPVNbmUg.pem` | 04&#160;Jun&#160;23&#160;18:59&#160;UTC | false | [view](REPOS/d632ba7cf2b00997912b5a2d4fb3fd2336638eb1/README.md) |
 | `https://www.gstatic.com/gtp/stir/80G2Mq8_kHy_hVIMyg0P_g.pem` | 19&#160;Apr&#160;23&#160;17:58&#160;UTC | false | [view](REPOS/510ede1b0cc7a058675555657a844250549a144b/README.md) |
 | `https://www.gstatic.com/gtp/stir/94BX3GNPTFDrpdrUY-ndIw.pem` | 09&#160;Feb&#160;23&#160;15:08&#160;UTC | false | [view](REPOS/db4e4415f8fc017e71aab8cda5806fc3ea54ce65/README.md) |
+| `https://www.gstatic.com/gtp/stir/ETbbe5woBj9jxj6h3cp2dg.pem` | 01&#160;Oct&#160;24&#160;08:03&#160;UTC | false | [view](REPOS/4aea121fad6144d85157592e9c3d1eb0d2a90e15/README.md) |
 | `https://www.gstatic.com/gtp/stir/FVejnahNEwwYt3jfz00Itg.pem` | 23&#160;Jul&#160;24&#160;20:02&#160;UTC | false | [view](REPOS/8f71c6e5ec5b0e15f5dd688dde567c9241d6f100/README.md) |
 | `https://www.gstatic.com/gtp/stir/IIwXvsgI2b99MHiv2cY5dQ.pem` | 20&#160;Oct&#160;23&#160;22:58&#160;UTC | false | [view](REPOS/c20346b764d8515e1a8c02432359b41ea42cf29c/README.md) |
 | `https://www.gstatic.com/gtp/stir/INRHezN1TCHRrsaBPJblWA.pem` | 27&#160;Mar&#160;23&#160;17:00&#160;UTC | false | [view](REPOS/66e826211a363453ee0395e02ed06cadb09fe21e/README.md) |
@@ -36,6 +37,7 @@ No error, warning, or notice level issues were found
 | `https://www.gstatic.com/gtp/stir/lpzBPBX5gc1vz1KynYbDKA.pem` | 07&#160;Mar&#160;24&#160;12:05&#160;UTC | false | [view](REPOS/f1dd38cc661f95ad9441756e24f0b03a6cbc11d5/README.md) |
 | `https://www.gstatic.com/gtp/stir/nLG98A7sY4DTnkDvMNAOKg.pem` | 15&#160;May&#160;24&#160;16:01&#160;UTC | false | [view](REPOS/36955b7470fdaf4d5330b4f8345d38ffd39c6b85/README.md) |
 | `https://www.gstatic.com/gtp/stir/paJDWXYQbagjGA2RhXEI5g.pem` | 07&#160;Jun&#160;24&#160;20:02&#160;UTC | false | [view](REPOS/5b02ecca2777dcf5199d447d8ea8456748b9e8b8/README.md) |
+| `https://www.gstatic.com/gtp/stir/rJ30cJF8R_KXERWFBILu0w.pem` | 24&#160;Oct&#160;24&#160;12:01&#160;UTC | false | [view](REPOS/8aa5f188c23b7b50d69b218719821d2f1760d7f2/README.md) |
 | `https://www.gstatic.com/gtp/stir/uB8JRMelazMbIklwGw5Sqw.pem` | 12&#160;Aug&#160;23&#160;20:58&#160;UTC | false | [view](REPOS/a0f42db4b9a68fc082d6a2d7983077af96161b6c/README.md) |
 | `https://www.gstatic.com/gtp/stir/uHWlFUNDwXbqniKntdRafQ.pem` | 27&#160;Jun&#160;23&#160;18:59&#160;UTC | false | [view](REPOS/2f91f64baa3edda816bf09cf1d65aa62c5fedd4d/README.md) |
 | `https://www.gstatic.com/gtp/stir/uq0Trl5sQ15Yxy1N722thQ.pem` | 08&#160;Sep&#160;24&#160;04:01&#160;UTC | false | [view](REPOS/c3b7c9f0b95aeb9b50c47dee0c69960655ca9859/README.md) |
@@ -43,4 +45,4 @@ No error, warning, or notice level issues were found
 | `https://www.gstatic.com/gtp/stir/yExHv85COF4_CVlvUiqb8A.pem` | 17&#160;Jan&#160;23&#160;14:59&#160;UTC | false | [view](REPOS/825f7223f49427df239d5c0304282fdbbc6fdc36/README.md) |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

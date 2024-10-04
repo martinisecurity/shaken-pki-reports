@@ -50,6 +50,7 @@ Description: For end-entity certificate, the Common Name attribute shall contain
 | error | Segra SHAKEN Cert 1784 | [view](../../CERTS/43e33ae8510822ad85afd4b972224c56b6e303b38e8ee3487836f32e2b2b6c89/README.md) | Common name shall contain the text string 'SHAKEN 1784', but common name is 'Segra SHAKEN Cert 1784' |
 | error | Cellular South Licenses SHAKEN Cert 6581 | [view](../../CERTS/00941a6765df10dc35107d8f82f07a6bde43aeef738821df1ac58d997fcaf5ea/README.md) | Common name shall contain the text string 'SHAKEN 6581', but common name is 'Cellular South Licenses SHAKEN Cert 6581' |
 | error | Project Mutual SHAKEN Cert 2231 | [view](../../CERTS/d0a2456e20d153010a45b43f3247b0e6ce7bbd4e614967f3184d8e9516995bba/README.md) | Common name shall contain the text string 'SHAKEN 2231', but common name is 'Project Mutual SHAKEN Cert 2231' |
+| error | DTC Communications SHAKEN Cert 0562 | [view](../../CERTS/e72f0cf001ceeb26687b4aefba16aedc0006f2ce1b8069325adb312389e28173/README.md) | Common name shall contain the text string 'SHAKEN 0562', but common name is 'DTC Communications SHAKEN Cert 0562' |
 | error | West Kentucky Rural SHAKEN Cert 0421 | [view](../../CERTS/62a29b3d0b7af5b22427dc5dee9d649652664d6a455a601ed01b85592ad9a0a6/README.md) | Common name shall contain the text string 'SHAKEN 0421', but common name is 'West Kentucky Rural SHAKEN Cert 0421' |
 | error | GCI SHAKEN Cert 7785 | [view](../../CERTS/756b85600764bd2c72e98777b98791b6005640feb1fba6f3d9c1a278c9e66f87/README.md) | Common name shall contain the text string 'SHAKEN 7785', but common name is 'GCI SHAKEN Cert 7785' |
 | error | Ben Lomand SHAKEN Cert 0553 | [view](../../CERTS/ce469ff39f245721d8c523af0a6fbd26fc0742e3c18b0b5adc627794eaad6231/README.md) | Common name shall contain the text string 'SHAKEN 0553', but common name is 'Ben Lomand SHAKEN Cert 0553' |
@@ -61,4 +62,4 @@ Description: For end-entity certificate, the Common Name attribute shall contain
 No error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

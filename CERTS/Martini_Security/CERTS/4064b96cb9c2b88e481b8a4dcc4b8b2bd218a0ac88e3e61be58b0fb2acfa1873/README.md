@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 724K
 
-Tested At: 26 Aug 24 17:55 UTC\
+Tested At: 04 Oct 24 16:22 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: -85 day(s)\
+Remaining Validity Period: -124 day(s)\
 Subject: O=Voitex LLC, C=US, serialNumber=5198F0691CD0C4D51C52F721733A0239, CN=SHAKEN 724K\
 Issuer: CN=Martini Security SHAKEN G3, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2e5a/SS7zH8zqS4iJ.pem
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2e5a/SS7zH8zqS4iJ.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

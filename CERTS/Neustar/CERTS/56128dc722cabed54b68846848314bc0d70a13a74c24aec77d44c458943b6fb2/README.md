@@ -2,12 +2,12 @@
 
 ## Certificate SHAKEN 813J
 
-Tested At: 26 Aug 24 17:56 UTC\
+Tested At: 04 Oct 24 16:23 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 10 day(s)\
+Remaining Validity Period: -29 day(s)\
 Subject: CN=SHAKEN 813J, O=RSCOM LTD, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
-Link: https://popglobal.46labs.com
+Link: https://ssc.getsipnav.com/certs/a269a252a3a20c73242b066867e5ae153e7aeef9
 
 [View certificate details](https://x509.io/?cert=MIIC%2FTCCAqOgAwIBAgIUP2c2glsZ6aIWgbnCsoNehcmPhtQwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTIzMDkwNTE4MDYyM1oXDTI0MDkwNDE4MDYyM1owNzELMAkGA1UEBhMCVVMxEjAQBgNVBAoMCVJTQ09NIExURDEUMBIGA1UEAwwLU0hBS0VOIDgxM0owWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARvtbNn8xgyPnPEbGIQF13QwKHg8av2p4VJO5twqG0iSjIf7ZoUzYKB78gE8ZO16JhJs2bm5FkI2l79E2EWteZXo4IBPDCCATgwFgYIKwYBBQUHARoECjAIoAYWBDgxM0owDAYDVR0TAQH%2FBAIwADAfBgNVHSMEGDAWgBSCThX%2F%2Fp9qZ1HkyJfHbXTD%2FGVFeDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMB0GA1UdDgQWBBQYhkcyLnDrMjBDo%2BR2Pmc3%2F%2BOwjjAOBgNVHQ8BAf8EBAMCB4AwCgYIKoZIzj0EAwIDSAAwRQIhAJfxPWOoN7vwOFpvmy8YcIx6ud3Kn5IgtoFJXTsli%2Bz1AiB8pQ%2Bpa2Jak4MTjmiKWeBKfLl22V9N3e1t%2F1PkeHGeEQ%3D%3D)
 
@@ -16,4 +16,4 @@ Link: https://popglobal.46labs.com
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

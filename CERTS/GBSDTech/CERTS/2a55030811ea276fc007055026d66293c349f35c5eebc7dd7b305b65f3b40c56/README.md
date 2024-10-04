@@ -2,9 +2,9 @@
 
 ## Certificate NovoLink SHAKEN cert
 
-Tested At: 26 Aug 24 17:42 UTC\
+Tested At: 04 Oct 24 15:30 UTC\
 Initial Validity Period: 364 day(s)\
-Remaining Validity Period: 232 day(s)\
+Remaining Validity Period: 193 day(s)\
 Subject: CN=NovoLink SHAKEN cert, O=NovoLink, ST=Texas, C=US\
 Issuer: CN=SHAKEN 1RouteGroup Intermediate CA, O=1RouteGroup, ST=Texas, C=US\
 Link: http://sti.novolink.net/crypt/sti-shaken.crt
@@ -17,4 +17,4 @@ Link: http://sti.novolink.net/crypt/sti-shaken.crt
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 332G', but common name is 'NovoLink SHAKEN cert' |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

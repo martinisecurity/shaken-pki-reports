@@ -2,9 +2,9 @@
 
 ## Certificate Northeast Communications of Wisconsin SHAKEN Cert 6692
 
-Tested At: 26 Aug 24 17:42 UTC\
+Tested At: 04 Oct 24 15:31 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 900 day(s)\
+Remaining Validity Period: 861 day(s)\
 Subject: CN=Northeast Communications of Wisconsin SHAKEN Cert 6692, O=Northeast Communications of Wisconsin\\ , C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/b169a4a9dbb9ca311b83e2c9b0c04f1bd80e00d3
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/b169a4a9dbb9ca311b83e2c9b0c04f1bd80e00d
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

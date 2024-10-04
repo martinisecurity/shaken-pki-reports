@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 324ms average time it took to download each certificate
+- 128ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -19,7 +19,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://nyc01.trunks2.calldecibel.com:5000/stirshaken_certs/149K.pem` | 24&#160;Aug&#160;24&#160;19:56&#160;UTC | true | [view](REPOS/b16568b0edf5403b4e836d10e1494c45c935b2c2/README.md) |
+| `https://nyc01.trunks2.calldecibel.com:5000/stirshaken_certs/149K.pem` | 08&#160;Sep&#160;25&#160;15:03&#160;UTC | true | [view](REPOS/b16568b0edf5403b4e836d10e1494c45c935b2c2/README.md) |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

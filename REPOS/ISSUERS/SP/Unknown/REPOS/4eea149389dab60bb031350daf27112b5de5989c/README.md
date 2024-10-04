@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://stir.na6.livevox.com/cert/2B6FU4qN`\
-Tested At: 26 Aug 24 18:01 UTC\
-Time: 316ms
+Tested At: 04 Oct 24 16:26 UTC\
+Time: 148ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 316ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

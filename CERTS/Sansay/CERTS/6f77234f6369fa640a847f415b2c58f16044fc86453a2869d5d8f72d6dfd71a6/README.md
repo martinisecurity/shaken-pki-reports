@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Medtel Communications 994J
 
-Tested At: 26 Aug 24 17:48 UTC\
+Tested At: 04 Oct 24 16:14 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 275 day(s)\
+Remaining Validity Period: 236 day(s)\
 Subject: CN=SHAKEN Medtel Communications 994J, OU=Medtel Communications, O=Medtel Communications, ST=Florida, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/994J/429C7C70711E3820F0B8E1DEAE6FF32622649DE8.pem
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/994J/429C7C70711E3820F0B8E1DEAE6FF32622649DE8.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 994J', but common name is 'SHAKEN Medtel Communications 994J' |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

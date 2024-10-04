@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 179K
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:34 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -677 day(s)\
+Remaining Validity Period: -716 day(s)\
 Subject: CN=SHAKEN 179K, OU=SHAKEN, O=The Tech Consultants\\, LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/2d93d07b-20ff-4289-a40d-959976cc0595/0630c442a9ee31c6271432091950d170.pem
@@ -26,4 +26,4 @@ Link: https://certificates.clearip.com/2d93d07b-20ff-4289-a40d-959976cc0595/0630
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

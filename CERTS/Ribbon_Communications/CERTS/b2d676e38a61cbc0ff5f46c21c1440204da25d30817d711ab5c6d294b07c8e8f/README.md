@@ -2,9 +2,9 @@
 
 ## Certificate Thacker SHAKEN 0419
 
-Tested At: 26 Aug 24 17:56 UTC\
+Tested At: 04 Oct 24 16:23 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -103 day(s)\
+Remaining Validity Period: -142 day(s)\
 Subject: CN=Thacker SHAKEN 0419, OU=STI, O=Thacker-Grigsby Telephone Company\\, INC., C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/RAdOrzknRz/STI-2305-0419-78a3190c5023734f0ee557f8c04b4450
@@ -17,4 +17,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/RAdOrzknRz/STI-2305-0419-78a3190c
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

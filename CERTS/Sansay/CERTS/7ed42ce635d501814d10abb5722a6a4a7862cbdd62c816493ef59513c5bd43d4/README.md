@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Ace Innovative Networks, Inc. 040K
 
-Tested At: 26 Aug 24 17:47 UTC\
+Tested At: 04 Oct 24 15:54 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -372 day(s)\
+Remaining Validity Period: -411 day(s)\
 Subject: emailAddress=elevitt@1pcom.com, CN=SHAKEN Ace Innovative Networks\\, Inc. 040K, OU=NOC, O=Ace Innovative Networks\\, Inc., ST=New York, C=US, emailAddress=elevitt@1pcom.com\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/040K/order/408_040K_84
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/040K/order/408_040K_84
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

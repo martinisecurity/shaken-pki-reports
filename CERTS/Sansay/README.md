@@ -9,29 +9,29 @@
 
 #### Leaf Certificates
 
-- 2573 certificates were included in the corpus being tested
+- 2768 certificates were included in the corpus being tested
 - 19 certificates in the corpus were skipped because they are duplicates
-- 2338 certificates in the corpus were skipped because they are expired
+- 2515 certificates in the corpus were skipped because they are expired
 - 1 certificates in the corpus were skipped because they are not currently trusted
-- 215 certificates being tested against the remaining rules
-- 1.91 issues on average found in unexpired, trusted, and non-compliant certificates
+- 233 certificates being tested against the remaining rules
+- 1.90 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 163 days is the average remaining validity for the certificates in the corpus
-- 164 days is the average initial validity for the certificates in the corpus
-- 131 certificates expire in the next 30 days
-- 2.01 average number of unexpired certificates per OCN observed
-- 107 unique OCNs observed in unexpired and valid certificate corpus
+- 155 days is the average remaining validity for the certificates in the corpus
+- 156 days is the average initial validity for the certificates in the corpus
+- 156 certificates expire in the next 30 days
+- 2.06 average number of unexpired certificates per OCN observed
+- 113 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 138 | [e_atis_ext_crl_distribution_struct](ISSUES/e_atis_ext_crl_distribution_struct/README.md) | ATIS1000080 |
-| 188 | [e_atis_subject_cn_spc](ISSUES/e_atis_subject_cn_spc/README.md) | ATIS1000080 |
-| 7 | [e_atis_tn_auth_list_spc_format](ISSUES/e_atis_tn_auth_list_spc_format/README.md) | ATIS1000080 |
-| 47 | [e_shaken_certificate_policies_id](ISSUES/e_shaken_certificate_policies_id/README.md) | US_SHAKEN_CP |
-| 30 | [e_us_cp_subject_sn_shall](ISSUES/e_us_cp_subject_sn_shall/README.md) | US_SHAKEN_CP |
+| 146 | [e_atis_ext_crl_distribution_struct](ISSUES/e_atis_ext_crl_distribution_struct/README.md) | ATIS1000080 |
+| 201 | [e_atis_subject_cn_spc](ISSUES/e_atis_subject_cn_spc/README.md) | ATIS1000080 |
+| 8 | [e_atis_tn_auth_list_spc_format](ISSUES/e_atis_tn_auth_list_spc_format/README.md) | ATIS1000080 |
+| 60 | [e_shaken_certificate_policies_id](ISSUES/e_shaken_certificate_policies_id/README.md) | US_SHAKEN_CP |
+| 27 | [e_us_cp_subject_sn_shall](ISSUES/e_us_cp_subject_sn_shall/README.md) | US_SHAKEN_CP |
 
 #### CA Certificates
 
@@ -45,7 +45,7 @@
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 5230 days is the average remaining validity for the certificates in the corpus
+- 5217 days is the average remaining validity for the certificates in the corpus
 - 4928 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
@@ -57,13 +57,8 @@ No error, warning, or notice level issues were found
 
 | Created At | Subject | Not After | Problems | Link |
 |------------|---------|-----------|----------|------|
-| 05&#160;Sep&#160;23&#160;15:54&#160;UTC | SHAKEN Go Voip Dialing LLC 704K | 04&#160;Sep&#160;24&#160;15:54&#160;UTC | true | [view](CERTS/645767c01de0509deb545953141dbf2e136665480917cc8c4ecc73a45608af68/README.md) |
-| 08&#160;Sep&#160;23&#160;12:28&#160;UTC | SHAKEN Contactivity Corp. 711K | 07&#160;Sep&#160;24&#160;12:28&#160;UTC | true | [view](CERTS/673f3091743237809463817a98f68fb9fd95c3b112030e4fcbe84096f54d5038/README.md) |
-| 15&#160;Sep&#160;23&#160;14:40&#160;UTC | SHAKEN Miracle Telecom 496K | 14&#160;Sep&#160;24&#160;14:40&#160;UTC | true | [view](CERTS/f7312e8a32e80db109fe012d1e00c252afc4eec07f6292fa6f714e926910d14e/README.md) |
-| 26&#160;Sep&#160;23&#160;13:26&#160;UTC | SHAKEN Sangoma 777G | 25&#160;Sep&#160;24&#160;13:26&#160;UTC | true | [view](CERTS/2db8f92946ee707e88748612d6ea1b786c7137a8c56e53c80d9484911a2ed51d/README.md) |
-| 27&#160;Sep&#160;23&#160;17:50&#160;UTC | SHAKEN Double A Solutions 644K | 26&#160;Sep&#160;24&#160;17:50&#160;UTC | true | [view](CERTS/fb18701e25fb45d49e3966dd64fb3a518f6f2a9150059b39ad61632ac9317922/README.md) |
-| 02&#160;Oct&#160;23&#160;15:22&#160;UTC | SHAKEN TeleVoIPs 138K | 01&#160;Oct&#160;24&#160;15:22&#160;UTC | true | [view](CERTS/8df110d0b382bc6c2ffd95e4adde6fa10f679b4fdb578f0dc8163b7e06be7635/README.md) |
 | 06&#160;Oct&#160;23&#160;13:25&#160;UTC | SHAKEN Kloud 7 LLC 214K | 05&#160;Oct&#160;24&#160;13:25&#160;UTC | true | [view](CERTS/7105ca55bae14fd5fc5952beff1664e0b13f3b560dc07c777a8293f5d06ab752/README.md) |
+| 06&#160;Oct&#160;23&#160;13:32&#160;UTC | SHAKEN Central Telephone Sales & Service, Inc. 294K | 05&#160;Oct&#160;24&#160;13:32&#160;UTC | true | [view](CERTS/949612b1d08f4185ad77017673b2c78b02b3a445786141e6fbea0c7f5511e684/README.md) |
 | 12&#160;Oct&#160;23&#160;20:53&#160;UTC | SHAKEN Zito Media Voice 624G | 11&#160;Oct&#160;24&#160;20:53&#160;UTC | true | [view](CERTS/139f5ea60b5e891b041824e82c242eb6191006f1283e9bad6cd052bf821a0fc2/README.md) |
 | 17&#160;Oct&#160;23&#160;22:55&#160;UTC | SHAKEN ConnectMeVoice 719J | 16&#160;Oct&#160;24&#160;22:55&#160;UTC | true | [view](CERTS/5a48a80de9440625305bf4a9af18bcf158e03286df27646af231d75e0cec315d/README.md) |
 | 18&#160;Oct&#160;23&#160;22:36&#160;UTC | SHAKEN VOICE1 LLC 265K | 17&#160;Oct&#160;24&#160;22:36&#160;UTC | true | [view](CERTS/f40966bfe5a54cc2e71f5942314743411e143934deeeb8b87647eb1b5ac03aa2/README.md) |
@@ -71,7 +66,6 @@ No error, warning, or notice level issues were found
 | 23&#160;Oct&#160;23&#160;14:32&#160;UTC | SHAKEN Uvoice USA, LLC 328K | 22&#160;Oct&#160;24&#160;14:32&#160;UTC | true | [view](CERTS/63faaac90f1c3f037b3c850ad0f6203068aa3d62235646df63f6b07c9aa94d05/README.md) |
 | 23&#160;Oct&#160;23&#160;15:54&#160;UTC | SHAKEN Comtalk Telecom 705K | 22&#160;Oct&#160;24&#160;15:54&#160;UTC | true | [view](CERTS/05f3a08f601f71f6b02f390050da6acb922f75b5f9d9178b637e96de52847674/README.md) |
 | 25&#160;Oct&#160;23&#160;20:09&#160;UTC | SHAKEN Ytel Inc. 703J | 24&#160;Oct&#160;24&#160;20:09&#160;UTC | true | [view](CERTS/1abf91916a7c83ff53e58fdaf8fab1e6f6c232bc2aa2b1903c76c37d7a6984a6/README.md) |
-| 27&#160;Oct&#160;23&#160;09:33&#160;UTC | SHAKEN Primo Dialler LLC 249K | 26&#160;Oct&#160;24&#160;09:33&#160;UTC | true | [view](CERTS/2345fd9200b5754c1d5fb353ea414d4be8e9eda729202bd84c0c3f7c6a0d1ad6/README.md) |
 | 27&#160;Oct&#160;23&#160;22:04&#160;UTC | SHAKEN Mitel Cloud Services, Inc. 670J | 26&#160;Oct&#160;24&#160;22:04&#160;UTC | true | [view](CERTS/a3fecbe272ac59a623119a5b64a5e3cc79f9f880c2b82584a79f6f40e7f1562a/README.md) |
 | 27&#160;Oct&#160;23&#160;22:26&#160;UTC | SHAKEN Mitel Cloud Services, Inc. 670J | 26&#160;Oct&#160;24&#160;22:26&#160;UTC | true | [view](CERTS/6ce3263c3dd426c9f8f57b7fabf533b30c5cf3c3582f7c5cd6f970b0ed0c01b1/README.md) |
 | 30&#160;Oct&#160;23&#160;14:15&#160;UTC | SHAKEN Vinculum Communications, Inc 787J | 29&#160;Oct&#160;24&#160;14:15&#160;UTC | true | [view](CERTS/2d3cf73af0f77cf310d869e984084841f7b2ebb149a0d3d09694dfa5838b074b/README.md) |
@@ -84,6 +78,7 @@ No error, warning, or notice level issues were found
 | 14&#160;Nov&#160;23&#160;13:29&#160;UTC | SHAKEN Asia Pacific Network 988J | 13&#160;Nov&#160;24&#160;13:29&#160;UTC | true | [view](CERTS/12b9440a58d22c821e164016a60deccd67ed5036e2244bd1694f39ce326e5811/README.md) |
 | 14&#160;Nov&#160;23&#160;13:34&#160;UTC | SHAKEN Current Calls, LLC 746J | 13&#160;Nov&#160;24&#160;13:34&#160;UTC | true | [view](CERTS/a1db34e8f1daf7c5246c10508cf9dd97a3ab166f0ad7304ba124cdd53f199143/README.md) |
 | 14&#160;Nov&#160;23&#160;13:36&#160;UTC | SHAKEN Godaddy 463K | 13&#160;Nov&#160;24&#160;13:36&#160;UTC | true | [view](CERTS/cc4ebe2a97d75e8560b603d277ce9e5bfb7a1e8dd5da0628e64e90576d270750/README.md) |
+| 14&#160;Nov&#160;23&#160;13:36&#160;UTC | SHAKEN KW Corporation, inc. 206k | 13&#160;Nov&#160;24&#160;13:36&#160;UTC | true | [view](CERTS/b6441dfbf4073cb729806ab15547ac613968b2235ed989b9ae02c05d16aa1807/README.md) |
 | 14&#160;Nov&#160;23&#160;13:38&#160;UTC | SHAKEN ONE OWL TELECOM INC 412K | 13&#160;Nov&#160;24&#160;13:38&#160;UTC | true | [view](CERTS/a8a6cbe884baa1d42768251df5233f7ffd0b33886539cf00df0d1b16cc48c3f3/README.md) |
 | 14&#160;Nov&#160;23&#160;13:38&#160;UTC | SHAKEN OneStream Networks, LLC 630J | 13&#160;Nov&#160;24&#160;13:38&#160;UTC | true | [view](CERTS/d0a3700b7239c2f2aac6b3bbbac04b98db8bd5a8f725c2ebd1f8aed90126a4e1/README.md) |
 | 14&#160;Nov&#160;23&#160;13:43&#160;UTC | SHAKEN Ringfree Communications Inc 317K | 13&#160;Nov&#160;24&#160;13:43&#160;UTC | true | [view](CERTS/066d5e0f2e11207f9a8aab5ae03e7bb3877292af0f325a690ce9cff6a9db42f9/README.md) |
@@ -112,7 +107,6 @@ No error, warning, or notice level issues were found
 | 29&#160;Feb&#160;24&#160;23:52&#160;UTC | SHAKEN Ytel Inc. 703J | 28&#160;Feb&#160;25&#160;23:52&#160;UTC | true | [view](CERTS/118ca5f6b2653c823022d22375f900d88e845681ca442938142a44da593c4bb5/README.md) |
 | 04&#160;Mar&#160;24&#160;13:49&#160;UTC | SHAKEN Terra Nova Telecom 382G | 04&#160;Mar&#160;25&#160;13:49&#160;UTC | true | [view](CERTS/c114f1214f94fc4ab21e74e0ad29a2dd5e0ef40080a75abc428178ecab55c3e4/README.md) |
 | 18&#160;Mar&#160;24&#160;17:10&#160;UTC | SHAKEN Identidad Advertising Development LLC 617K | 18&#160;Mar&#160;25&#160;17:10&#160;UTC | true | [view](CERTS/2f9861d9339c6094cd1c5acf955e0472ffd5534c329f4b69c90caae6f70d61a3/README.md) |
-| 20&#160;Mar&#160;24&#160;17:08&#160;UTC | SHAKEN Inventive Labs Corp 649J | 26&#160;Sep&#160;24&#160;17:08&#160;UTC | true | [view](CERTS/3973d56f7972cd4b773b8f2da99604225d584cba98fa42e37f89320e939e3ff6/README.md) |
 | 26&#160;Mar&#160;24&#160;13:55&#160;UTC | SHAKEN 597F VoIP Innovations | 26&#160;Mar&#160;25&#160;13:55&#160;UTC | true | [view](CERTS/80f9a4656d0d9e150183b3c4c10c11ef69148ab725647d650dd81be489d897cf/README.md) |
 | 26&#160;Mar&#160;24&#160;16:02&#160;UTC | SHAKEN 867K Alpine Valley Consulting LLC | 26&#160;Mar&#160;25&#160;16:02&#160;UTC | true | [view](CERTS/d8e42ff7151f25922813aae6e3e9d214f0157ac39fa1132017259254a6fe40d2/README.md) |
 | 26&#160;Mar&#160;24&#160;18:12&#160;UTC | SHAKEN 493K ComTelus Inc.  | 26&#160;Mar&#160;25&#160;18:12&#160;UTC | true | [view](CERTS/af4cf171b2ca99abd62e41f7649ac1e22395fda011d173fdfdbd31891f743971/README.md) |
@@ -136,142 +130,166 @@ No error, warning, or notice level issues were found
 | 23&#160;May&#160;24&#160;12:05&#160;UTC | SHAKEN Midwest Telecom of America 919A | 23&#160;May&#160;25&#160;12:05&#160;UTC | true | [view](CERTS/ec4710a2981dc9a9be4de30da579880ce1ddbdf830a53a2e790217bf5c13c6d4/README.md) |
 | 28&#160;May&#160;24&#160;12:23&#160;UTC | SHAKEN Medtel Communications 994J | 28&#160;May&#160;25&#160;12:23&#160;UTC | true | [view](CERTS/6f77234f6369fa640a847f415b2c58f16044fc86453a2869d5d8f72d6dfd71a6/README.md) |
 | 31&#160;May&#160;24&#160;19:33&#160;UTC | SHAKEN 938K Lynktel | 31&#160;May&#160;25&#160;19:33&#160;UTC | true | [view](CERTS/b2aa0de697866f9e9dec031d059f9a3d478ee21f540ff87ebe0a8c429527b220/README.md) |
+| 03&#160;Jun&#160;24&#160;14:49&#160;UTC | SHAKEN 932K Alliance Phones | 03&#160;Jun&#160;25&#160;14:49&#160;UTC | true | [view](CERTS/277ded041e5ec5cda4c56eb0061ac4262dad2939b7ff40ce6b76946ed82facdb/README.md) |
 | 09&#160;Jun&#160;24&#160;08:04&#160;UTC | SHAKEN 776K ActoinVox | 06&#160;Dec&#160;24&#160;08:04&#160;UTC | true | [view](CERTS/87b5e4ebe2f75f3bb1c8efe86e8a26d08435b5672243786f8a7f96d349694219/README.md) |
 | 21&#160;Jun&#160;24&#160;20:19&#160;UTC | SHAKEN Connexum LLC 203K | 21&#160;Jun&#160;25&#160;20:19&#160;UTC | true | [view](CERTS/c405face9873a72f5ec4f1bc395a4124d7cfbf080a704060ebe5e9bf7a07d62d/README.md) |
+| 29&#160;Jun&#160;24&#160;00:30&#160;UTC | SHAKEN Bek Communications Cooperative 1604 | 28&#160;Jun&#160;25&#160;00:30&#160;UTC | true | [view](CERTS/17a28f83e865e75a97e9a5a4b777355b93960ccf3b65a1d13e06693a0d03e399/README.md) |
 | 01&#160;Jul&#160;24&#160;16:21&#160;UTC | SHAKEN Mercury Access Solutions 634K | 01&#160;Jul&#160;25&#160;16:21&#160;UTC | true | [view](CERTS/70cc27d2e747142c3446b6133993989be4e1ff3fe4d25b137def2745fc173d19/README.md) |
 | 02&#160;Jul&#160;24&#160;15:32&#160;UTC | SHAKEN Bulk Solutions, LLC 644J | 31&#160;Jan&#160;25&#160;15:32&#160;UTC | true | [view](CERTS/9da93d10ef266f23087e3f23bd41ba68e75db57c81dd5099c76ae27074a16d47/README.md) |
+| 10&#160;Jul&#160;24&#160;19:13&#160;UTC | SHAKEN 958K SaveVoip LLC | 10&#160;Jul&#160;25&#160;19:13&#160;UTC | true | [view](CERTS/e78654b5bea29fa67df948244d36aefdad852322d5c375149c5ce147430f2b95/README.md) |
 | 12&#160;Jul&#160;24&#160;07:20&#160;UTC | SHAKEN 521K Voice SY LLC | 28&#160;Jan&#160;25&#160;07:20&#160;UTC | true | [view](CERTS/4543540ab57936221819dbdef685a8a4b09c87e6b72dd21fcbb346696de31a3b/README.md) |
 | 19&#160;Jul&#160;24&#160;17:35&#160;UTC | SHAKEN IPBTel 535K | 19&#160;Jul&#160;25&#160;17:35&#160;UTC | true | [view](CERTS/c777a6bdc52c45c7f7f66f40b765c70e167fe34b8cd36fea8bc287b20cb7d80e/README.md) |
-| 29&#160;Jul&#160;24&#160;02:37&#160;UTC | SHAKEN IPSBS Managed Services LLC 828J | 28&#160;Aug&#160;24&#160;02:37&#160;UTC | true | [view](CERTS/4966af38a9c4ce5abf595562142e8eb2e4de9da561cce06ccec93fda3b12e1fe/README.md) |
-| 29&#160;Jul&#160;24&#160;03:59&#160;UTC | SHAKEN BareTelecom 864J | 28&#160;Aug&#160;24&#160;03:59&#160;UTC | true | [view](CERTS/33a4ce4fd1a250d8cc06e50cc67ec4e6666d5cc6a635ec2bacfd928ecd74332c/README.md) |
-| 29&#160;Jul&#160;24&#160;05:14&#160;UTC | SHAKEN IDT America, Corp 363A | 28&#160;Aug&#160;24&#160;05:14&#160;UTC | true | [view](CERTS/c1c239d92eba75ea7af9ae4d5f18f7bcc2ef123002d7066dc895cc684abbb3c7/README.md) |
-| 29&#160;Jul&#160;24&#160;06:09&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 28&#160;Aug&#160;24&#160;06:09&#160;UTC | true | [view](CERTS/bc2c328d273239dec21c2e8c036aa912a5bbc9b8ed4ed12f84a4bf457663c4a5/README.md) |
-| 29&#160;Jul&#160;24&#160;09:38&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 28&#160;Aug&#160;24&#160;09:38&#160;UTC | true | [view](CERTS/1ca60ca643b00ebe8cef6af9b966155ecf431fb7d6cf723e41de3c347cadbbbb/README.md) |
-| 29&#160;Jul&#160;24&#160;17:44&#160;UTC | SHAKEN Mango Voice LLC 579K | 28&#160;Aug&#160;24&#160;17:44&#160;UTC | true | [view](CERTS/e9df8eb80e4bfadc87682b847068187c00238a9c0cf49e1814e4eac09d299f5d/README.md) |
-| 30&#160;Jul&#160;24&#160;02:32&#160;UTC | SHAKEN IPSBS Managed Services LLC 828J | 29&#160;Aug&#160;24&#160;02:32&#160;UTC | true | [view](CERTS/81b4f702b03a456491b86bd49f524445233ed9a84c2ad77f529dad2d4332d771/README.md) |
-| 30&#160;Jul&#160;24&#160;05:09&#160;UTC | SHAKEN IDT America, Corp 363A | 29&#160;Aug&#160;24&#160;05:09&#160;UTC | true | [view](CERTS/c5ab43c0c203011c239efb5de90fc3960328adb873cd5c24ba31d3417c863da4/README.md) |
-| 30&#160;Jul&#160;24&#160;06:04&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 29&#160;Aug&#160;24&#160;06:04&#160;UTC | true | [view](CERTS/45d269a3018e077c77f16b165768c81dd5a427e6bd884669d9f8b3e8aeb6dae0/README.md) |
-| 30&#160;Jul&#160;24&#160;09:33&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 29&#160;Aug&#160;24&#160;09:33&#160;UTC | true | [view](CERTS/7e4c39d5be1b76a883c54b1c82838a76e47946e89eb7ee21ac2ec9d2d67ada3d/README.md) |
-| 30&#160;Jul&#160;24&#160;16:00&#160;UTC | SHAKEN Lightspeed Voice 557F | 29&#160;Aug&#160;24&#160;16:00&#160;UTC | true | [view](CERTS/774780dc99f048e65326c4cbe5d2ef99344f82502e0cc122fb2a114e51529cdd/README.md) |
-| 31&#160;Jul&#160;24&#160;02:27&#160;UTC | SHAKEN IPSBS Managed Services LLC 828J | 30&#160;Aug&#160;24&#160;02:27&#160;UTC | true | [view](CERTS/fb0172b6edaaa0e79af7d538b2a6b6d7f963110b7f7a29a3b2d107de0ea3ae02/README.md) |
-| 31&#160;Jul&#160;24&#160;05:04&#160;UTC | SHAKEN IDT America, Corp 363A | 30&#160;Aug&#160;24&#160;05:04&#160;UTC | true | [view](CERTS/ec9e7bd575d805fc2f88804b85ba51277e0e4d7a85a097f1a74404ea27534a90/README.md) |
-| 31&#160;Jul&#160;24&#160;05:59&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 30&#160;Aug&#160;24&#160;05:59&#160;UTC | true | [view](CERTS/1285c852fc5725fb80343a01b4609486df1c0f465a979c15945e06cd8a54f71d/README.md) |
-| 31&#160;Jul&#160;24&#160;09:28&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 30&#160;Aug&#160;24&#160;09:28&#160;UTC | true | [view](CERTS/806f14c7aa6f029f167b75adf184fa5760ad34dbbfb3e10e23bb50f97d1ca029/README.md) |
-| 31&#160;Jul&#160;24&#160;15:55&#160;UTC | SHAKEN Lightspeed Voice 557F | 30&#160;Aug&#160;24&#160;15:55&#160;UTC | true | [view](CERTS/775cbdb5fe9ff76db1c3615c26f006a66fab0cdcca7b976c84647fa64739ca9a/README.md) |
-| 01&#160;Aug&#160;24&#160;03:43&#160;UTC | SHAKEN BareTelecom 864J | 31&#160;Aug&#160;24&#160;03:43&#160;UTC | true | [view](CERTS/1864ee4b26099a7b12a08454509479ddb0815963abe18de3ded13eba18611581/README.md) |
-| 01&#160;Aug&#160;24&#160;05:00&#160;UTC | SHAKEN IDT America, Corp 363A | 31&#160;Aug&#160;24&#160;05:00&#160;UTC | true | [view](CERTS/61303349cdd1c6b1dcd34675d557eabad8766a38c71e619fd2c6f1794f8119ac/README.md) |
-| 01&#160;Aug&#160;24&#160;09:23&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 31&#160;Aug&#160;24&#160;09:23&#160;UTC | true | [view](CERTS/d9e556ea1952af7995e40690a4681f688db65259c733b50a4fdcb5bb127bc65b/README.md) |
-| 02&#160;Aug&#160;24&#160;02:17&#160;UTC | SHAKEN IPSBS Managed Services LLC 828J | 01&#160;Sep&#160;24&#160;02:17&#160;UTC | true | [view](CERTS/648ef6a285ac85d465f1af128d676f05e28124b26ea19cdee5b5c516d42a9d41/README.md) |
-| 02&#160;Aug&#160;24&#160;03:38&#160;UTC | SHAKEN BareTelecom 864J | 01&#160;Sep&#160;24&#160;03:38&#160;UTC | true | [view](CERTS/81c51697772bcf39f46cabdd8891e2143263626c8cd05db4a78dfc61d9b8d5e0/README.md) |
-| 02&#160;Aug&#160;24&#160;05:49&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 01&#160;Sep&#160;24&#160;05:49&#160;UTC | true | [view](CERTS/916d92cd712c8a57f4c495da0d9103d3782e19ebf70dcb84867fa15c9868daab/README.md) |
-| 02&#160;Aug&#160;24&#160;09:18&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 01&#160;Sep&#160;24&#160;09:18&#160;UTC | true | [view](CERTS/90eaf67b11eaecab2914cde3821cadddc20d3b7186bc53a6bda02b1dcf0a6f7c/README.md) |
-| 03&#160;Aug&#160;24&#160;03:33&#160;UTC | SHAKEN BareTelecom 864J | 02&#160;Sep&#160;24&#160;03:33&#160;UTC | true | [view](CERTS/d3f3168304ee2ea72dca6c32931e8f17232d4cb476d4c5d443a029635bc8b1af/README.md) |
-| 03&#160;Aug&#160;24&#160;07:30&#160;UTC | SHAKEN Televergence Solutions Inc 779J | 02&#160;Sep&#160;24&#160;07:30&#160;UTC | true | [view](CERTS/f462eb021877ef981267bae64c4f4415204e8a50bb3783a517c2d3f504076917/README.md) |
-| 04&#160;Aug&#160;24&#160;04:44&#160;UTC | SHAKEN IDT America, Corp 363A | 03&#160;Sep&#160;24&#160;04:44&#160;UTC | true | [view](CERTS/2ed20264e4f0f0135143b1b037cc1c29926ba6f66d14e87f924d1a37fb99f164/README.md) |
-| 04&#160;Aug&#160;24&#160;17:14&#160;UTC | SHAKEN Mango Voice LLC 579K | 03&#160;Sep&#160;24&#160;17:14&#160;UTC | true | [view](CERTS/c53193817c659f4d5e913b6b97bf501ecf14156566150105a0b64bd96b761219/README.md) |
-| 05&#160;Aug&#160;24&#160;03:23&#160;UTC | SHAKEN BareTelecom 864J | 04&#160;Sep&#160;24&#160;03:23&#160;UTC | true | [view](CERTS/c9c7ea0d0edd80c46fa7ef1173b520565a9b54a82daab6d611a046ff56f4b906/README.md) |
-| 05&#160;Aug&#160;24&#160;04:39&#160;UTC | SHAKEN IDT America, Corp 363A | 04&#160;Sep&#160;24&#160;04:39&#160;UTC | true | [view](CERTS/f1f0d72001e65fd1baa2b2f4f2fa9efd792b56a03605585738eb32a4493fb0da/README.md) |
-| 05&#160;Aug&#160;24&#160;09:03&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 04&#160;Sep&#160;24&#160;09:03&#160;UTC | true | [view](CERTS/844e49538f2e3e59494651f83150657a9a84f24e6e2a1a9944053a01d234421d/README.md) |
-| 05&#160;Aug&#160;24&#160;17:09&#160;UTC | SHAKEN Mango Voice LLC 579K | 04&#160;Sep&#160;24&#160;17:09&#160;UTC | true | [view](CERTS/a8d8aedc5e222dd0098ca4b965ac440440507ba1e48aed4778100253ff25acb8/README.md) |
-| 05&#160;Aug&#160;24&#160;21:36&#160;UTC | SHAKEN Socket Telecom LLC 554a | 04&#160;Sep&#160;24&#160;21:36&#160;UTC | true | [view](CERTS/e5ec59732426cc9ebed1174ff061cc20fbbf897979a51576fda020f8e2903340/README.md) |
-| 05&#160;Aug&#160;24&#160;22:32&#160;UTC | SHAKEN 696J Telcentris Inc. dba Voxox | 19&#160;Sep&#160;24&#160;22:32&#160;UTC | true | [view](CERTS/f599d892f9162a55fda61fc833f229a0ea6e3c7a2b4006731caeb0664611fbb9/README.md) |
-| 06&#160;Aug&#160;24&#160;03:18&#160;UTC | SHAKEN BareTelecom 864J | 05&#160;Sep&#160;24&#160;03:18&#160;UTC | true | [view](CERTS/542de0476fa56bb6d01f14096918912a6549fd6e9883ab1df44a19a080c2aea9/README.md) |
-| 06&#160;Aug&#160;24&#160;04:34&#160;UTC | SHAKEN IDT America, Corp 363A | 05&#160;Sep&#160;24&#160;04:34&#160;UTC | true | [view](CERTS/eeaf059cbbdf9955e5af0dbf2c013209c9d1f9fed2fb90529a0d9b85cdd6b112/README.md) |
-| 06&#160;Aug&#160;24&#160;08:58&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 05&#160;Sep&#160;24&#160;08:58&#160;UTC | true | [view](CERTS/30899b6f0c4b43df0380c21080abba23f4e53a9d08891c14e77fc2c205e1226b/README.md) |
-| 06&#160;Aug&#160;24&#160;15:25&#160;UTC | SHAKEN Lightspeed Voice 557F | 05&#160;Sep&#160;24&#160;15:25&#160;UTC | true | [view](CERTS/8ed8325b10fd23cd697b725e2d812a9d48ae9c0433ec0180004c7544e4dc4c60/README.md) |
-| 06&#160;Aug&#160;24&#160;17:04&#160;UTC | SHAKEN Mango Voice LLC 579K | 05&#160;Sep&#160;24&#160;17:04&#160;UTC | true | [view](CERTS/23b1b2ce8f4ab6add2c834b788dc7bec60a773510a989321f8cd575ee7ef6a13/README.md) |
-| 06&#160;Aug&#160;24&#160;21:31&#160;UTC | SHAKEN Socket Telecom LLC 554a | 05&#160;Sep&#160;24&#160;21:31&#160;UTC | true | [view](CERTS/b8b35a5b470142c1828ad8353726375cf6d79aef8db1e80918421a7fb9c990da/README.md) |
-| 07&#160;Aug&#160;24&#160;03:13&#160;UTC | SHAKEN BareTelecom 864J | 06&#160;Sep&#160;24&#160;03:13&#160;UTC | true | [view](CERTS/cb11ee3834edfbf96206100a72d94eb9c50cf7edd519a5da71fdc6effa9012dc/README.md) |
-| 07&#160;Aug&#160;24&#160;04:29&#160;UTC | SHAKEN IDT America, Corp 363A | 06&#160;Sep&#160;24&#160;04:29&#160;UTC | true | [view](CERTS/f25ed41ed449942c1a4d72971d8927c2325aaf25601241c096a489dd423be24b/README.md) |
-| 07&#160;Aug&#160;24&#160;05:24&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 06&#160;Sep&#160;24&#160;05:24&#160;UTC | true | [view](CERTS/86ebc116991f197ba37ab6ed7150c5ecd041e216b4dc20c4900c0ab72033b03e/README.md) |
-| 07&#160;Aug&#160;24&#160;08:29&#160;UTC | SHAKEN Townes Telecommunications 0335 | 06&#160;Sep&#160;24&#160;08:29&#160;UTC | true | [view](CERTS/8d5cad6058d5023a8281ef67754594dc90933b798ae280e0ee677c54be28c615/README.md) |
-| 07&#160;Aug&#160;24&#160;08:53&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 06&#160;Sep&#160;24&#160;08:53&#160;UTC | true | [view](CERTS/e48b4d96f4e28d2b3be4fa6d2a8cd9203fe3f2de2b457a2ba1fa95744182ae71/README.md) |
-| 07&#160;Aug&#160;24&#160;10:16&#160;UTC | SHAKEN Convoso 758J | 11&#160;Sep&#160;24&#160;10:16&#160;UTC | true | [view](CERTS/5ba3cb27852e0ba6f5b298682288518b4641306a664358825955e23a6a5f47fd/README.md) |
-| 07&#160;Aug&#160;24&#160;16:59&#160;UTC | SHAKEN Mango Voice LLC 579K | 06&#160;Sep&#160;24&#160;16:59&#160;UTC | true | [view](CERTS/0833146cfb8fd48f3bf370df1c366a73c8cf03a28dbfd3f78df25ba4d1751c13/README.md) |
-| 07&#160;Aug&#160;24&#160;21:26&#160;UTC | SHAKEN Socket Telecom LLC 554a | 06&#160;Sep&#160;24&#160;21:26&#160;UTC | true | [view](CERTS/a05b0edc3b290df4bc6b918216ed13af96c0ab9b62d671080dd89c6e84310e23/README.md) |
-| 08&#160;Aug&#160;24&#160;03:08&#160;UTC | SHAKEN BareTelecom 864J | 07&#160;Sep&#160;24&#160;03:08&#160;UTC | true | [view](CERTS/d94eaf738b11c56cd97ec05bfdb6b8d8e0c6a23bd3b57da3d3732efff54cb1ec/README.md) |
-| 08&#160;Aug&#160;24&#160;04:24&#160;UTC | SHAKEN IDT America, Corp 363A | 07&#160;Sep&#160;24&#160;04:24&#160;UTC | true | [view](CERTS/f25ff6dfe9836c6b786acacd2a4e35c08cae0c3b121feefc0a9b6123f37e57b6/README.md) |
-| 08&#160;Aug&#160;24&#160;08:48&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 07&#160;Sep&#160;24&#160;08:48&#160;UTC | true | [view](CERTS/7c0037d93b91aab645b1385c23a6f9ecc90bcb7feb1093735d4996a888557d89/README.md) |
-| 08&#160;Aug&#160;24&#160;18:15&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 07&#160;Sep&#160;24&#160;18:15&#160;UTC | true | [view](CERTS/0400b2d478591d3a53dc6d483d8bb7f934ce5e4a9121708da64eb1b87ea9c79f/README.md) |
-| 09&#160;Aug&#160;24&#160;04:19&#160;UTC | SHAKEN IDT America, Corp 363A | 08&#160;Sep&#160;24&#160;04:19&#160;UTC | true | [view](CERTS/b60cfed1abda5ca51812543b4afc60e63ed70a9e29c028f180db0850131443aa/README.md) |
-| 09&#160;Aug&#160;24&#160;05:04&#160;UTC | SHAKEN BareTelecom 864J | 08&#160;Sep&#160;24&#160;05:04&#160;UTC | true | [view](CERTS/1de0926e9a8dea55364b51a58196040bbb78a69c6aed94180a965478d1c5fd88/README.md) |
-| 09&#160;Aug&#160;24&#160;05:14&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 08&#160;Sep&#160;24&#160;05:14&#160;UTC | true | [view](CERTS/594aadad75018973ae9750204481323070168bdfb4e4f11685f76c0aea7d9c44/README.md) |
-| 09&#160;Aug&#160;24&#160;07:00&#160;UTC | SHAKEN Televergence Solutions Inc 779J | 08&#160;Sep&#160;24&#160;07:00&#160;UTC | true | [view](CERTS/01d7fe4fe886c53e2f27fe24ecd926d5b024338554a503e11ca4fb4716aca8fd/README.md) |
-| 09&#160;Aug&#160;24&#160;18:10&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 08&#160;Sep&#160;24&#160;18:10&#160;UTC | true | [view](CERTS/890d4d82e3636b672502c2cca5191ae5fef76273548d106364d4a30ea954b40a/README.md) |
 | 10&#160;Aug&#160;24&#160;19:01&#160;UTC | SHAKEN 688K Call Hub Inc. | 10&#160;Aug&#160;25&#160;19:01&#160;UTC | true | [view](CERTS/d8fe53673498502aa06d1deb531144cdeac93dba56e9c7094fef9fe192b5b14c/README.md) |
-| 11&#160;Aug&#160;24&#160;18:00&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 10&#160;Sep&#160;24&#160;18:00&#160;UTC | true | [view](CERTS/fcfc2129427f07df2811a569a5ee13234ba1c56da272cccefd4a6a902eccdd58/README.md) |
-| 12&#160;Aug&#160;24&#160;04:04&#160;UTC | SHAKEN IDT America, Corp 363A | 11&#160;Sep&#160;24&#160;04:04&#160;UTC | true | [view](CERTS/65bfed7e481912ae4d67b5548e02db9cef1e048cdb337168859a1cf5afaed0e0/README.md) |
-| 12&#160;Aug&#160;24&#160;04:49&#160;UTC | SHAKEN BareTelecom 864J | 11&#160;Sep&#160;24&#160;04:49&#160;UTC | true | [view](CERTS/e48e2b79a6af1b2d95423fe4afaebc7966a38ad79c786cf7e7d6f1633a14d7e2/README.md) |
-| 12&#160;Aug&#160;24&#160;06:45&#160;UTC | SHAKEN Televergence Solutions Inc 779J | 11&#160;Sep&#160;24&#160;06:45&#160;UTC | true | [view](CERTS/2d54077b37b7baeefa30b1bc7584e5b947468a326b0990f3b32bc36728960aac/README.md) |
-| 12&#160;Aug&#160;24&#160;17:55&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 11&#160;Sep&#160;24&#160;17:55&#160;UTC | true | [view](CERTS/7a3f5b989705dc3eaf856afd60f0a7e75a30e6d29fc0253e16b560b935920f27/README.md) |
-| 13&#160;Aug&#160;24&#160;03:59&#160;UTC | SHAKEN IDT America, Corp 363A | 12&#160;Sep&#160;24&#160;03:59&#160;UTC | true | [view](CERTS/a4ae4a5ca8221149d6147d1d54abcf2a8f9fa643015e6bb47c1a31a321d863b6/README.md) |
-| 13&#160;Aug&#160;24&#160;04:44&#160;UTC | SHAKEN BareTelecom 864J | 12&#160;Sep&#160;24&#160;04:44&#160;UTC | true | [view](CERTS/db5dd7ca88e557f6851d1cbf9f83f179645f6d3fe088ced0c788ad56be300a38/README.md) |
-| 13&#160;Aug&#160;24&#160;17:50&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 12&#160;Sep&#160;24&#160;17:50&#160;UTC | true | [view](CERTS/4b23998fbde1eec5f48fce45c654d4b3042eee11a74adec86802a5dbd318c84e/README.md) |
-| 14&#160;Aug&#160;24&#160;03:54&#160;UTC | SHAKEN IDT America, Corp 363A | 13&#160;Sep&#160;24&#160;03:54&#160;UTC | true | [view](CERTS/9fb0b443b19c3bce7f4b641ae0ae1ab3c743876c8177ba619e4859f60568b2c8/README.md) |
-| 14&#160;Aug&#160;24&#160;04:39&#160;UTC | SHAKEN BareTelecom 864J | 13&#160;Sep&#160;24&#160;04:39&#160;UTC | true | [view](CERTS/c2e57271dd3d79eb1b466c94ae4fd2be822384721f86ca363b660aee19171860/README.md) |
-| 14&#160;Aug&#160;24&#160;06:35&#160;UTC | SHAKEN Televergence Solutions Inc 779J | 13&#160;Sep&#160;24&#160;06:35&#160;UTC | true | [view](CERTS/eec0d793ea6d9fae9f4b756e3520f2468a97d523d33aa1b2f0ea828fde2107dc/README.md) |
-| 14&#160;Aug&#160;24&#160;13:48&#160;UTC | SHAKEN Consolidated Communications 5113 | 13&#160;Sep&#160;24&#160;13:48&#160;UTC | true | [view](CERTS/dfffad982775d643f453a7fedcae6f6202f121c5e32c8175082a9f51e1548878/README.md) |
-| 14&#160;Aug&#160;24&#160;13:49&#160;UTC | SHAKEN Touchtone 683A | 13&#160;Sep&#160;24&#160;13:49&#160;UTC | true | [view](CERTS/ea1c2bd35ccf27e2365bb748ea729cc355b5a6d453f828a71cab841c406ebe32/README.md) |
-| 14&#160;Aug&#160;24&#160;13:51&#160;UTC | SHAKEN Apeiron Systems 012J | 13&#160;Sep&#160;24&#160;13:51&#160;UTC | true | [view](CERTS/e39287bee4eeff8f23f4f4b98255aeed511b9505e7e2ee6b3befe6468fc2aa56/README.md) |
-| 14&#160;Aug&#160;24&#160;13:51&#160;UTC | SHAKEN Fonative, Inc. 684J | 13&#160;Sep&#160;24&#160;13:51&#160;UTC | true | [view](CERTS/0ef3f3968b30cbc8df7c14b8c736e04b0839fe747572d3c15af80fa69f743980/README.md) |
-| 14&#160;Aug&#160;24&#160;13:53&#160;UTC | SHAKEN IPitomy 652J | 13&#160;Sep&#160;24&#160;13:53&#160;UTC | true | [view](CERTS/ec80026f58091b31ffa3741aa8744eabb89be465e4a8582a84ac564d87af8017/README.md) |
-| 14&#160;Aug&#160;24&#160;13:53&#160;UTC | SHAKEN Phone.com, Inc. 633J | 13&#160;Sep&#160;24&#160;13:53&#160;UTC | true | [view](CERTS/093a717eccd59c0d07ba45c14205a65746999321cfef3049d75a461c2103eeab/README.md) |
-| 14&#160;Aug&#160;24&#160;13:54&#160;UTC | SHAKEN NETRIO LLC 020K | 13&#160;Sep&#160;24&#160;13:54&#160;UTC | true | [view](CERTS/6f749da437a66f8af80062de0b80e0fc8ed1c946bee31dbb55abf68a8b1b635e/README.md) |
-| 14&#160;Aug&#160;24&#160;13:57&#160;UTC | SHAKEN Noble Systems Communications LLC 187J | 13&#160;Sep&#160;24&#160;13:57&#160;UTC | true | [view](CERTS/2dcc77596e28b1217639d34ce10382ff87ef7efe56e8f0f64f83be3d25a0cc42/README.md) |
-| 14&#160;Aug&#160;24&#160;14:18&#160;UTC | SHAKEN Airespring 996H | 13&#160;Sep&#160;24&#160;14:18&#160;UTC | true | [view](CERTS/6717d421d01d9f5a0dd820b6bb46f1d232647ce49d6389b72a0ce31a275afdd3/README.md) |
-| 14&#160;Aug&#160;24&#160;14:19&#160;UTC | SHAKEN Nobelbiz, Inc. 596J | 13&#160;Sep&#160;24&#160;14:19&#160;UTC | true | [view](CERTS/b3125bade8576d8311a804f83435167b9fd4b448a973886b15d13a681551816b/README.md) |
-| 14&#160;Aug&#160;24&#160;14:20&#160;UTC | SHAKEN Momentum Telecom 9157 | 13&#160;Sep&#160;24&#160;14:20&#160;UTC | true | [view](CERTS/a19aa34f144a9e8d351d3cf5c9e3572015bbf137e172a1ce8246637878fe938a/README.md) |
-| 14&#160;Aug&#160;24&#160;14:22&#160;UTC | SHAKEN Matrix 7379 | 13&#160;Sep&#160;24&#160;14:22&#160;UTC | true | [view](CERTS/e68154c81586f934445c58e7713d7630b99e988eb49ca70eaa796d0798a15d46/README.md) |
-| 14&#160;Aug&#160;24&#160;14:24&#160;UTC | SHAKEN PNG Telecommunications Inc 3395 | 13&#160;Sep&#160;24&#160;14:24&#160;UTC | true | [view](CERTS/f6a4f6605bd6b589640c198ec4942eb1bb620bec0cfed54f314b7dec55b8bac1/README.md) |
-| 14&#160;Aug&#160;24&#160;14:29&#160;UTC | SHAKEN Magna5, LLC 3849 | 13&#160;Sep&#160;24&#160;14:29&#160;UTC | true | [view](CERTS/7be694846d9339a8de5c3640b14503ac903877210ec8343620fc0cd5f5eb04ca/README.md) |
-| 14&#160;Aug&#160;24&#160;14:30&#160;UTC | SHAKEN Magna5, LLC 8249 | 13&#160;Sep&#160;24&#160;14:30&#160;UTC | true | [view](CERTS/8cf85da9854d623d4c3a4a86ce5f345b4d2fc65b732ba8689f47e2ca6ce3f1b7/README.md) |
-| 14&#160;Aug&#160;24&#160;14:45&#160;UTC | SHAKEN Lightspeed Voice 557F | 13&#160;Sep&#160;24&#160;14:45&#160;UTC | true | [view](CERTS/8bedf0648ae135bd5f9ca11217cacb3daf68e0de494ba2a9b68014ebd7a2c08e/README.md) |
-| 14&#160;Aug&#160;24&#160;16:24&#160;UTC | SHAKEN Mango Voice LLC 579K | 13&#160;Sep&#160;24&#160;16:24&#160;UTC | true | [view](CERTS/e1e962a766c4690320dc5eda4f3b237aa59c0436fb032b513fd9003a3a04ffe6/README.md) |
-| 14&#160;Aug&#160;24&#160;17:45&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 13&#160;Sep&#160;24&#160;17:45&#160;UTC | true | [view](CERTS/d29772d16baaddf00fbd642a4f2e5e9cc83fda476543b94fff40a15293dbdddb/README.md) |
-| 14&#160;Aug&#160;24&#160;20:54&#160;UTC | SHAKEN Socket Telecom LLC 554a | 13&#160;Sep&#160;24&#160;20:54&#160;UTC | true | [view](CERTS/e4ae56c15ca63c2d79841003c7c26c3903224220b5855adba888bcda9c761bf6/README.md) |
-| 14&#160;Aug&#160;24&#160;22:14&#160;UTC | SHAKEN Zray Technologies Corporation 862J | 13&#160;Sep&#160;24&#160;22:14&#160;UTC | true | [view](CERTS/bfca112440bdbc27acd9d83576c96fc627d3924bc85404200f3be7245e66164c/README.md) |
-| 15&#160;Aug&#160;24&#160;03:49&#160;UTC | SHAKEN IDT America, Corp 363A | 14&#160;Sep&#160;24&#160;03:49&#160;UTC | true | [view](CERTS/9634abc71503a8764370028cc0729e43c8824a756400a46074b0bbd6e3359e67/README.md) |
-| 15&#160;Aug&#160;24&#160;04:34&#160;UTC | SHAKEN BareTelecom 864J | 14&#160;Sep&#160;24&#160;04:34&#160;UTC | true | [view](CERTS/2683963999843a9e81409d8262f30c8b34e3aa173060652e72d4956642f56f08/README.md) |
-| 15&#160;Aug&#160;24&#160;04:44&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 14&#160;Sep&#160;24&#160;04:44&#160;UTC | true | [view](CERTS/59889a8e83e061fbbdde52e72142f183bae794e706ecbf5c291b9d065ee4f885/README.md) |
-| 15&#160;Aug&#160;24&#160;06:30&#160;UTC | SHAKEN Televergence Solutions Inc 779J | 14&#160;Sep&#160;24&#160;06:30&#160;UTC | true | [view](CERTS/d759606d8cc65132c5fd474290591088ba206b0d7644dd0dcedd61a4977e9fa0/README.md) |
-| 15&#160;Aug&#160;24&#160;14:40&#160;UTC | SHAKEN Lightspeed Voice 557F | 14&#160;Sep&#160;24&#160;14:40&#160;UTC | true | [view](CERTS/7b6153524300cf5dce460a6a696360d0c86f72cf932d0d01a980aa3676fe189a/README.md) |
-| 15&#160;Aug&#160;24&#160;17:40&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 14&#160;Sep&#160;24&#160;17:40&#160;UTC | true | [view](CERTS/818c7a3e95fb08d101cce8bfac64d8bca10b021a490659b6e6a6977e13e779c8/README.md) |
-| 16&#160;Aug&#160;24&#160;03:44&#160;UTC | SHAKEN IDT America, Corp 363A | 15&#160;Sep&#160;24&#160;03:44&#160;UTC | true | [view](CERTS/7af16a7d69f7a9241997575bf27add9bbdc0693d495e0a9aff101c270a8fd36c/README.md) |
-| 16&#160;Aug&#160;24&#160;04:29&#160;UTC | SHAKEN BareTelecom 864J | 15&#160;Sep&#160;24&#160;04:29&#160;UTC | true | [view](CERTS/3473662bf5d684e9d5638c959a73b7549df1beaadc35205663c6c73b3e7f1393/README.md) |
-| 16&#160;Aug&#160;24&#160;04:39&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 15&#160;Sep&#160;24&#160;04:39&#160;UTC | true | [view](CERTS/496bac45da6aeb0921551b18a5ab3078c8805f1aa2e664c31dc453b0c59bcbed/README.md) |
-| 16&#160;Aug&#160;24&#160;17:35&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 15&#160;Sep&#160;24&#160;17:35&#160;UTC | true | [view](CERTS/10c93b8cedf586462465de00802bc1b56655a410a8697901048ea367c444988f/README.md) |
-| 17&#160;Aug&#160;24&#160;04:24&#160;UTC | SHAKEN BareTelecom 864J | 16&#160;Sep&#160;24&#160;04:24&#160;UTC | true | [view](CERTS/c08eec973be775f2c0ba5eaf487209f36196110d1532d3447cc4f602929b04d1/README.md) |
-| 17&#160;Aug&#160;24&#160;16:09&#160;UTC | SHAKEN Mango Voice LLC 579K | 16&#160;Sep&#160;24&#160;16:09&#160;UTC | true | [view](CERTS/4be19d39259aae48015762e3b9de5eb29e988ebf614f418aa042e117c568f556/README.md) |
-| 18&#160;Aug&#160;24&#160;17:25&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 17&#160;Sep&#160;24&#160;17:25&#160;UTC | true | [view](CERTS/c1979419286165ab884f3c8a7451da95357f0109f00d7741f916b1a56db5b801/README.md) |
-| 19&#160;Aug&#160;24&#160;03:29&#160;UTC | SHAKEN IDT America, Corp 363A | 18&#160;Sep&#160;24&#160;03:29&#160;UTC | true | [view](CERTS/96bb638cd3d4953219d99b105119831c9ebe429e86ad2639a7479ceec9ed7aa0/README.md) |
-| 19&#160;Aug&#160;24&#160;04:14&#160;UTC | SHAKEN BareTelecom 864J | 18&#160;Sep&#160;24&#160;04:14&#160;UTC | true | [view](CERTS/38f7bd60efed574eb91fb68005de1a0f5774e47c1be297cc16ad8dd449162d1c/README.md) |
-| 19&#160;Aug&#160;24&#160;10:05&#160;UTC | SHAKEN Zella Technologies LLC 647K | 18&#160;Sep&#160;24&#160;10:05&#160;UTC | true | [view](CERTS/b28b968776af86d7c3b7e4638d3464694fafffe9e8cd480b507edd54497a96af/README.md) |
-| 19&#160;Aug&#160;24&#160;15:59&#160;UTC | SHAKEN Mango Voice LLC 579K | 18&#160;Sep&#160;24&#160;15:59&#160;UTC | true | [view](CERTS/cce0cc7fa34d4aee3c0d61e870a8918a77168f98c1c83424a60d4eace425a9e8/README.md) |
-| 19&#160;Aug&#160;24&#160;17:20&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 18&#160;Sep&#160;24&#160;17:20&#160;UTC | true | [view](CERTS/019dd950fe6d5e7682ccd9333b5d6007eb1c8af7c89588dd1c9ef33f65820ab4/README.md) |
+| 13&#160;Aug&#160;24&#160;19:57&#160;UTC | SHAKEN 986K 7G Network, Inc | 09&#160;Feb&#160;25&#160;19:57&#160;UTC | true | [view](CERTS/a72429200b39e65918e1e74562a1040baf0ec10307218baf94ec7b0d718a9ad4/README.md) |
 | 19&#160;Aug&#160;24&#160;18:17&#160;UTC | SHAKEN 203K Connexum LLC | 19&#160;Aug&#160;25&#160;18:17&#160;UTC | true | [view](CERTS/901fcdbe4946f6c9f2f338dd125112cf748dec475f4052db54963ef4e3c55d1f/README.md) |
-| 20&#160;Aug&#160;24&#160;00:47&#160;UTC | SHAKEN IPSBS Managed Services LLC 828J | 19&#160;Sep&#160;24&#160;00:47&#160;UTC | true | [view](CERTS/b44117771f1e3126ebfad4821545160358bd973c8ed3e0fe121381d7df95f6b0/README.md) |
-| 20&#160;Aug&#160;24&#160;03:24&#160;UTC | SHAKEN IDT America, Corp 363A | 19&#160;Sep&#160;24&#160;03:24&#160;UTC | true | [view](CERTS/8ac228b9b7f7b5d431fdc17b9f80b4b29e4cc67cb0c2bd918bc73b9e880506dd/README.md) |
-| 20&#160;Aug&#160;24&#160;04:09&#160;UTC | SHAKEN BareTelecom 864J | 19&#160;Sep&#160;24&#160;04:09&#160;UTC | true | [view](CERTS/a8ea42ea98f5158ccd075e74d9abfb8eb65c02f3070d0c399f9fb55935b6e7f4/README.md) |
-| 20&#160;Aug&#160;24&#160;04:19&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 19&#160;Sep&#160;24&#160;04:19&#160;UTC | true | [view](CERTS/2f57ee1447fc76b4387c5b4fe66f62c15d537e775061dbc7b4026749b8268772/README.md) |
-| 20&#160;Aug&#160;24&#160;06:19&#160;UTC | SHAKEN CIMA Telecom, Inc 313K | 19&#160;Sep&#160;24&#160;06:19&#160;UTC | true | [view](CERTS/633b4d8bb1f3abc8cb77ba121f04adb579f91b46fc7df462ed194618b3696f9e/README.md) |
-| 21&#160;Aug&#160;24&#160;20:19&#160;UTC | SHAKEN Socket Telecom LLC 554a | 20&#160;Sep&#160;24&#160;20:19&#160;UTC | true | [view](CERTS/1bf29e70f78eab294890cf6e969f579fe52c2d2b8345d438fa8536cf0a80cfed/README.md) |
-| 22&#160;Aug&#160;24&#160;03:14&#160;UTC | SHAKEN IDT America, Corp 363A | 21&#160;Sep&#160;24&#160;03:14&#160;UTC | true | [view](CERTS/56308dfe2ab43ff477494d95fadc183e5473232bb9f54adfb3fbf6594ec1c51c/README.md) |
-| 22&#160;Aug&#160;24&#160;03:59&#160;UTC | SHAKEN BareTelecom 864J | 21&#160;Sep&#160;24&#160;03:59&#160;UTC | true | [view](CERTS/5fd3878d1852fb888d622adeeab0ba210191378e8ab4b9a4b5df10f317ee651d/README.md) |
-| 22&#160;Aug&#160;24&#160;04:09&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 21&#160;Sep&#160;24&#160;04:09&#160;UTC | true | [view](CERTS/55c3ba122a709aa270a1342faaa4893e60c6c57c1486bc31a850375686f09475/README.md) |
-| 22&#160;Aug&#160;24&#160;14:05&#160;UTC | SHAKEN Lightspeed Voice 557F | 21&#160;Sep&#160;24&#160;14:05&#160;UTC | true | [view](CERTS/7c02a190298cdd31895ebff8c780210e6427b3565131b937722fc256c2945ce9/README.md) |
 | 22&#160;Aug&#160;24&#160;16:18&#160;UTC | SHAKEN 688K Call Hub Inc. | 22&#160;Aug&#160;25&#160;16:18&#160;UTC | true | [view](CERTS/c9514ae8afe29c81cba005d0e97ddd87c0588caca1e39a20368d4f872619984d/README.md) |
-| 22&#160;Aug&#160;24&#160;17:05&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 21&#160;Sep&#160;24&#160;17:05&#160;UTC | true | [view](CERTS/ddd5888616b6d3ab041028a4d1a31f50993c9bdc9f869fe2485a18648862c813/README.md) |
-| 22&#160;Aug&#160;24&#160;20:14&#160;UTC | SHAKEN Socket Telecom LLC 554a | 21&#160;Sep&#160;24&#160;20:14&#160;UTC | true | [view](CERTS/04a939b383759d9d506535c2883f207e9eb55587de5344d3c1919b88cefddce1/README.md) |
-| 23&#160;Aug&#160;24&#160;03:09&#160;UTC | SHAKEN IDT America, Corp 363A | 22&#160;Sep&#160;24&#160;03:09&#160;UTC | true | [view](CERTS/9bc78675cbd1a951639592fb343cf4686979de52fed2c8d1e100d26e6262e0bd/README.md) |
-| 23&#160;Aug&#160;24&#160;03:55&#160;UTC | SHAKEN BareTelecom 864J | 22&#160;Sep&#160;24&#160;03:55&#160;UTC | true | [view](CERTS/17f04b1eabee27abe61f6c911cde604c816702da418a0c336e457d626cd5344b/README.md) |
-| 23&#160;Aug&#160;24&#160;05:50&#160;UTC | SHAKEN Televergence Solutions Inc 779J | 22&#160;Sep&#160;24&#160;05:50&#160;UTC | true | [view](CERTS/c6ec5d005806d1681dd9f0c6eda380dc1c46427bae1824637e3591162ee563d0/README.md) |
-| 23&#160;Aug&#160;24&#160;15:39&#160;UTC | SHAKEN Mango Voice LLC 579K | 22&#160;Sep&#160;24&#160;15:39&#160;UTC | true | [view](CERTS/63e867dc74786f1c978a4ee8175deeb806948c8e74340544aa18bcdf42c506c3/README.md) |
-| 23&#160;Aug&#160;24&#160;17:00&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 22&#160;Sep&#160;24&#160;17:00&#160;UTC | true | [view](CERTS/1963c81162d647ba50dcdc6b7b3e3c283c2a751a06ee7116876512b6eefdfbf7/README.md) |
-| 24&#160;Aug&#160;24&#160;03:49&#160;UTC | SHAKEN BareTelecom 864J | 23&#160;Sep&#160;24&#160;03:49&#160;UTC | true | [view](CERTS/c82467ae8f9ede653289730e9d171eb7141fbbaa2128e4a3284059f166b5a449/README.md) |
-| 25&#160;Aug&#160;24&#160;16:50&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 24&#160;Sep&#160;24&#160;16:50&#160;UTC | true | [view](CERTS/a3316b77cac0e2c2cb05c16bbcf98d19ffb6b8a5032753f90d06b28bb30e9b95/README.md) |
-| 26&#160;Aug&#160;24&#160;00:17&#160;UTC | SHAKEN IPSBS Managed Services LLC 828J | 25&#160;Sep&#160;24&#160;00:17&#160;UTC | true | [view](CERTS/6936bcb7b08e426dc578610e0a334816c625c03965fe628aa3cba6d24a0b439c/README.md) |
-| 26&#160;Aug&#160;24&#160;05:35&#160;UTC | SHAKEN Televergence Solutions Inc 779J | 25&#160;Sep&#160;24&#160;05:35&#160;UTC | true | [view](CERTS/4ce2bd38d4298de7cfbd5ef00625d6bd424227e8f9d4056c72c1677ba3f71f07/README.md) |
-| 26&#160;Aug&#160;24&#160;15:08&#160;UTC | SHAKEN IDT America, Corp 363A | 25&#160;Sep&#160;24&#160;15:08&#160;UTC | true | [view](CERTS/aff0aa654e6a7d877a5ff96b852d04b9d11e57446a34e0bf166c1b2b6e79e5e0/README.md) |
+| 22&#160;Aug&#160;24&#160;17:42&#160;UTC | SHAKEN Contactivity Corp. 711K | 22&#160;Aug&#160;25&#160;17:42&#160;UTC | true | [view](CERTS/6f93189ff71fccb600f52ac36ac52ec2d7ff916d7bf9e9d3a8eb8ae6d4c7cd31/README.md) |
+| 04&#160;Sep&#160;24&#160;23:27&#160;UTC | SHAKEN IPSBS Managed Services LLC 828J | 04&#160;Oct&#160;24&#160;23:27&#160;UTC | true | [view](CERTS/86ec0db4adad2c26011b72e0f5d9fcc6404d4a29186d9215a644814ac09559b9/README.md) |
+| 05&#160;Sep&#160;24&#160;02:49&#160;UTC | SHAKEN BareTelecom 864J | 05&#160;Oct&#160;24&#160;02:49&#160;UTC | true | [view](CERTS/b47ca0d6d20f0aa953543948bf7341b054363762422caf1567da5ff285c7b92c/README.md) |
+| 05&#160;Sep&#160;24&#160;04:10&#160;UTC | SHAKEN IDT America, Corp 363A | 05&#160;Oct&#160;24&#160;04:10&#160;UTC | true | [view](CERTS/f4f8682edceead8b45963dc0566c27dffb045a97af6413d9f48c5da05baf326f/README.md) |
+| 05&#160;Sep&#160;24&#160;04:45&#160;UTC | SHAKEN Televergence Solutions Inc 779J | 05&#160;Oct&#160;24&#160;04:45&#160;UTC | true | [view](CERTS/beb9d43efccbf0c0208c96667a4326f1bbf19f82f1a898a8e3815cc36f517c12/README.md) |
+| 05&#160;Sep&#160;24&#160;15:14&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 05&#160;Oct&#160;24&#160;15:14&#160;UTC | true | [view](CERTS/2e1fdbb5879169523c048bb81e0166c9c049f024830a17099f0bc3f52968f8a9/README.md) |
+| 05&#160;Sep&#160;24&#160;15:58&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 05&#160;Oct&#160;24&#160;15:58&#160;UTC | true | [view](CERTS/8fc08adc6e4b930b17faa8887f64974a69942fa99cdd786a833025f31ca1ce79/README.md) |
+| 06&#160;Sep&#160;24&#160;02:44&#160;UTC | SHAKEN BareTelecom 864J | 06&#160;Oct&#160;24&#160;02:44&#160;UTC | true | [view](CERTS/94902f31b8ea2faa0d87f69dd529a3f593d2e6e8ea06898f5911044d3ce4db18/README.md) |
+| 06&#160;Sep&#160;24&#160;03:39&#160;UTC | SHAKEN 1stPoint Communications, LLC 463G | 06&#160;Oct&#160;24&#160;03:39&#160;UTC | true | [view](CERTS/d2fb90a73d3352321e0aca7f839e1c38f8be6ed5d14f85b35f4ad5e6cb47b1b2/README.md) |
+| 06&#160;Sep&#160;24&#160;04:05&#160;UTC | SHAKEN IDT America, Corp 363A | 06&#160;Oct&#160;24&#160;04:05&#160;UTC | true | [view](CERTS/658fd8e79c2db9c79908fee48cf32a8129a647cc08bd5d7c288cbbeec82d2ec6/README.md) |
+| 06&#160;Sep&#160;24&#160;04:40&#160;UTC | SHAKEN Televergence Solutions Inc 779J | 06&#160;Oct&#160;24&#160;04:40&#160;UTC | true | [view](CERTS/3bdc9894412afdc43cbe44b3490fcf1928685089fe4f39a50bd6188fb7624839/README.md) |
+| 06&#160;Sep&#160;24&#160;15:09&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 06&#160;Oct&#160;24&#160;15:09&#160;UTC | true | [view](CERTS/9b0e517839794248139d754aa2f5f24572f4dc71f600148f8db26962df12e3f0/README.md) |
+| 06&#160;Sep&#160;24&#160;15:53&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 06&#160;Oct&#160;24&#160;15:53&#160;UTC | true | [view](CERTS/4c186ea5136b3c27728572bddeed4ee4afef0124e1d09c005441a315d3dc2103/README.md) |
+| 07&#160;Sep&#160;24&#160;02:39&#160;UTC | SHAKEN BareTelecom 864J | 07&#160;Oct&#160;24&#160;02:39&#160;UTC | true | [view](CERTS/fae4403ba2431e1a2fb31b4136baee2649d84dcda50c4fb51869f365fbc676e5/README.md) |
+| 07&#160;Sep&#160;24&#160;04:00&#160;UTC | SHAKEN IDT America, Corp 363A | 07&#160;Oct&#160;24&#160;04:00&#160;UTC | true | [view](CERTS/c3baa851487357740488ea1de2a860b6b1a9c5f91bb82c6c1d744e7e457be943/README.md) |
+| 07&#160;Sep&#160;24&#160;04:35&#160;UTC | SHAKEN Televergence Solutions Inc 779J | 07&#160;Oct&#160;24&#160;04:35&#160;UTC | true | [view](CERTS/b175019118d2d7d821103d49e48cc6bcb432a168302da263c387865bbd3401d7/README.md) |
+| 08&#160;Sep&#160;24&#160;04:30&#160;UTC | SHAKEN Televergence Solutions Inc 779J | 08&#160;Oct&#160;24&#160;04:30&#160;UTC | true | [view](CERTS/3eef531caccfa57c8c689c44eb789b86e17908cb8c96b2dd4fc190176d3bc54a/README.md) |
+| 08&#160;Sep&#160;24&#160;14:59&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 08&#160;Oct&#160;24&#160;14:59&#160;UTC | true | [view](CERTS/be0105a24acfbbd738a7e9e56257002e9d197401ab0014a7ab6cf0c86f4ac8cb/README.md) |
+| 08&#160;Sep&#160;24&#160;15:43&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 08&#160;Oct&#160;24&#160;15:43&#160;UTC | true | [view](CERTS/b318637b105103209b33e22c7ab46c1efdc130baefbfec59d6853b13b5af2173/README.md) |
+| 08&#160;Sep&#160;24&#160;20:08&#160;UTC | SHAKEN Socket Telecom LLC 554a | 08&#160;Oct&#160;24&#160;20:08&#160;UTC | true | [view](CERTS/ad2c53f8babb8cedb1b62bd9ff5f1daae244e3ac70d6e59ce873493856803f07/README.md) |
+| 08&#160;Sep&#160;24&#160;23:07&#160;UTC | SHAKEN IPSBS Managed Services LLC 828J | 08&#160;Oct&#160;24&#160;23:07&#160;UTC | true | [view](CERTS/72ba3ef768b00f9552ccce66f283928e547d356d39e92c7334e04fa9f9e21f52/README.md) |
+| 09&#160;Sep&#160;24&#160;03:38&#160;UTC | SHAKEN BareTelecom 864J | 09&#160;Oct&#160;24&#160;03:38&#160;UTC | true | [view](CERTS/5425f58de3d1207613ac7751012eca0919a4a2264e3794c2463fddb37c834210/README.md) |
+| 09&#160;Sep&#160;24&#160;03:50&#160;UTC | SHAKEN IDT America, Corp 363A | 09&#160;Oct&#160;24&#160;03:50&#160;UTC | true | [view](CERTS/ab0df089a20367ac11761caafadb8f82bb800c9c79da7266aa75c40e17483764/README.md) |
+| 09&#160;Sep&#160;24&#160;12:36&#160;UTC | SHAKEN Lightspeed Voice 557F | 09&#160;Oct&#160;24&#160;12:36&#160;UTC | true | [view](CERTS/651fb24ddeec142984c05eb1e6c281458eac43d326369deb23cee7e8054bdca9/README.md) |
+| 09&#160;Sep&#160;24&#160;14:54&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 09&#160;Oct&#160;24&#160;14:54&#160;UTC | true | [view](CERTS/5c5c3c8a38a19bbe433de5774bed34be6a7f21dbf1ad4e557cac2812a128429b/README.md) |
+| 09&#160;Sep&#160;24&#160;15:38&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 09&#160;Oct&#160;24&#160;15:38&#160;UTC | true | [view](CERTS/74c98bca870154211caa83ce35cf17bab028c4d0796218bbc5af0ec85295c804/README.md) |
+| 09&#160;Sep&#160;24&#160;20:03&#160;UTC | SHAKEN Socket Telecom LLC 554a | 09&#160;Oct&#160;24&#160;20:03&#160;UTC | true | [view](CERTS/2215dd5c98b1a8e4ba64083a71174a475e68f34324d1a39113c76a759663a77c/README.md) |
+| 10&#160;Sep&#160;24&#160;03:33&#160;UTC | SHAKEN BareTelecom 864J | 10&#160;Oct&#160;24&#160;03:33&#160;UTC | true | [view](CERTS/582b755dd09060131537c698559ea19e6d2b5dfb68feb37443369e3079c2610c/README.md) |
+| 10&#160;Sep&#160;24&#160;03:45&#160;UTC | SHAKEN IDT America, Corp 363A | 10&#160;Oct&#160;24&#160;03:45&#160;UTC | true | [view](CERTS/941a73a92e34043fb444e121ba0f7cf9c2ba0de9901fb9fd2391f76c63c19a1e/README.md) |
+| 10&#160;Sep&#160;24&#160;06:50&#160;UTC | SHAKEN DLS Internet Services 815J | 10&#160;Oct&#160;24&#160;06:50&#160;UTC | true | [view](CERTS/6d78ebd8ebdca5591222f2775051f49ad8ffffce5756cf104881773b401e9348/README.md) |
+| 10&#160;Sep&#160;24&#160;13:47&#160;UTC | SHAKEN 455K Cloud Connect LLC | 08&#160;Jan&#160;25&#160;13:47&#160;UTC | true | [view](CERTS/e74d06224975e1d5c4b1a8a889b81da3ed4a0f9ed46a4a0b1a9179faed5b301e/README.md) |
+| 10&#160;Sep&#160;24&#160;13:49&#160;UTC | SHAKEN Consolidated Communications 5113 | 10&#160;Oct&#160;24&#160;13:49&#160;UTC | true | [view](CERTS/64633ff6e2430217d2e9aaaf7d9c6990e8fe02e73af4a982b1f1709cab884602/README.md) |
+| 10&#160;Sep&#160;24&#160;13:50&#160;UTC | SHAKEN Touchtone 683A | 10&#160;Oct&#160;24&#160;13:50&#160;UTC | true | [view](CERTS/913d1d1d79719b2cc922953ab9ced00186db3684193a3c1775f50a54b0f4daa4/README.md) |
+| 10&#160;Sep&#160;24&#160;13:51&#160;UTC | SHAKEN Apeiron Systems 012J | 10&#160;Oct&#160;24&#160;13:51&#160;UTC | true | [view](CERTS/730a38a60565abf2145f69ed82f181c4441695512d0c56128885fabfe9e01980/README.md) |
+| 10&#160;Sep&#160;24&#160;13:52&#160;UTC | SHAKEN Fonative, Inc. 684J | 10&#160;Oct&#160;24&#160;13:52&#160;UTC | true | [view](CERTS/65477bc063e53a0c2dc2e061f3cbd5b0cbb3ad8be1d781415b2e967951320225/README.md) |
+| 10&#160;Sep&#160;24&#160;13:52&#160;UTC | SHAKEN IPitomy 652J | 10&#160;Oct&#160;24&#160;13:52&#160;UTC | true | [view](CERTS/1e884365c25c8f8d33b748b2597ba49c0aadbf861a9df1ca4e0c20047d1628dd/README.md) |
+| 10&#160;Sep&#160;24&#160;13:53&#160;UTC | SHAKEN Phone.com, Inc. 633J | 10&#160;Oct&#160;24&#160;13:53&#160;UTC | true | [view](CERTS/3b894fcf2c1e22b28d47081caf3d3bb9403c2229ad61c548f95b6134d6aba559/README.md) |
+| 10&#160;Sep&#160;24&#160;13:54&#160;UTC | SHAKEN NETRIO LLC 020K | 10&#160;Oct&#160;24&#160;13:54&#160;UTC | true | [view](CERTS/1a8f467c190513e64df116810273db36b2f9019ae4676f5ecb15ecc46466eaf4/README.md) |
+| 10&#160;Sep&#160;24&#160;13:55&#160;UTC | SHAKEN Noble Systems Communications LLC 187J | 10&#160;Oct&#160;24&#160;13:55&#160;UTC | true | [view](CERTS/7c99912713d42ac3e60ffdf9523f304fe8f7310252eddbb8e08f20d1be505a15/README.md) |
+| 10&#160;Sep&#160;24&#160;13:57&#160;UTC | SHAKEN Airespring 996H | 10&#160;Oct&#160;24&#160;13:57&#160;UTC | true | [view](CERTS/02a3edec64305388cefa02c52c462319f354df1db342c8d880767bbe85ab3379/README.md) |
+| 10&#160;Sep&#160;24&#160;14:00&#160;UTC | SHAKEN Nobelbiz, Inc. 596J | 10&#160;Oct&#160;24&#160;14:00&#160;UTC | true | [view](CERTS/45545db9bed50dddf20f4d6951489cf2225b2aa5a3632bed0be0b75bda4155ec/README.md) |
+| 10&#160;Sep&#160;24&#160;14:02&#160;UTC | SHAKEN Momentum Telecom 9157 | 10&#160;Oct&#160;24&#160;14:02&#160;UTC | true | [view](CERTS/e2720b2916adb15afc2ecfea3ab910953e0f5c249d0697c562be6fa5a2a19325/README.md) |
+| 10&#160;Sep&#160;24&#160;14:03&#160;UTC | SHAKEN Matrix 7379 | 10&#160;Oct&#160;24&#160;14:03&#160;UTC | true | [view](CERTS/06a9fc17f423ebf96925cb46a76abaacbdc1f3577db75812bd98c3923addbe39/README.md) |
+| 10&#160;Sep&#160;24&#160;14:03&#160;UTC | SHAKEN Matrix 3058 | 10&#160;Oct&#160;24&#160;14:03&#160;UTC | true | [view](CERTS/8ffd97ba37d1011b87f90f23e4bdd624b8348419c44e239cabc005e5b21a1540/README.md) |
+| 10&#160;Sep&#160;24&#160;14:04&#160;UTC | SHAKEN Matrix 9451 | 10&#160;Oct&#160;24&#160;14:04&#160;UTC | true | [view](CERTS/381f2acfb60de8658fb290b3206d67dfb3499db35c70a4e75a310a62e9581a6f/README.md) |
+| 10&#160;Sep&#160;24&#160;14:05&#160;UTC | SHAKEN PNG Telecommunications Inc 3395 | 10&#160;Oct&#160;24&#160;14:05&#160;UTC | true | [view](CERTS/20efe75641ff7d3334f9d17781d00f692119797ad477b33fedaa825c3f9a4d8e/README.md) |
+| 10&#160;Sep&#160;24&#160;14:07&#160;UTC | SHAKEN Magna5, LLC 3849 | 10&#160;Oct&#160;24&#160;14:07&#160;UTC | true | [view](CERTS/22887c7024bedb3ef7b29c91fa7e145dcc8ae9f86386eef3e1ee3535bb969606/README.md) |
+| 10&#160;Sep&#160;24&#160;14:08&#160;UTC | SHAKEN Magna5, LLC 8249 | 10&#160;Oct&#160;24&#160;14:08&#160;UTC | true | [view](CERTS/b811c1e2ba15e05761dfef31b2f72bcd86b688c7fddd1af12597d96891ea51a5/README.md) |
+| 10&#160;Sep&#160;24&#160;14:49&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 10&#160;Oct&#160;24&#160;14:49&#160;UTC | true | [view](CERTS/15250c1bee54bb5a8879cfb70a2afc455971e4ebff6d4050df245882bf39d388/README.md) |
+| 10&#160;Sep&#160;24&#160;15:33&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 10&#160;Oct&#160;24&#160;15:33&#160;UTC | true | [view](CERTS/050f29f6c847007e160772bf209654e5c1116833317fdb5ee59e786f29a22bbf/README.md) |
+| 11&#160;Sep&#160;24&#160;03:28&#160;UTC | SHAKEN BareTelecom 864J | 11&#160;Oct&#160;24&#160;03:28&#160;UTC | true | [view](CERTS/c7ed2be5460c774cdc2f70d9a2a373656f834b671502a1c3bbeb57274fc9ffc0/README.md) |
+| 11&#160;Sep&#160;24&#160;03:29&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 11&#160;Oct&#160;24&#160;03:29&#160;UTC | true | [view](CERTS/ed04ac2ac1a1648da80caea9be4fa3621415dc79114f1908f2fef0add1d4589b/README.md) |
+| 11&#160;Sep&#160;24&#160;03:40&#160;UTC | SHAKEN IDT America, Corp 363A | 11&#160;Oct&#160;24&#160;03:40&#160;UTC | true | [view](CERTS/26395a2ade862acdeb8de14e628d24f4025f0d19c82a8b5df4e6d06871a26297/README.md) |
+| 11&#160;Sep&#160;24&#160;14:44&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 11&#160;Oct&#160;24&#160;14:44&#160;UTC | true | [view](CERTS/617f67e1e64fead5d81732fc6dd9c9be99a04383def443ddc45cb416e218ec51/README.md) |
+| 12&#160;Sep&#160;24&#160;03:23&#160;UTC | SHAKEN BareTelecom 864J | 12&#160;Oct&#160;24&#160;03:23&#160;UTC | true | [view](CERTS/b9d04c9ddf9efdef7cb8fac76f89bac999c3f651264cff31b14a764dc520bc48/README.md) |
+| 12&#160;Sep&#160;24&#160;03:24&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 12&#160;Oct&#160;24&#160;03:24&#160;UTC | true | [view](CERTS/9aaf022bda3e63891f265a00cfa9fd0efd43c1aca06583c45742cb0ed5a4ab83/README.md) |
+| 12&#160;Sep&#160;24&#160;03:35&#160;UTC | SHAKEN IDT America, Corp 363A | 12&#160;Oct&#160;24&#160;03:35&#160;UTC | true | [view](CERTS/f756956fe809acbc440e1baa7c8cd57af7ed3705cc0566186a39a3790aaa2a60/README.md) |
+| 12&#160;Sep&#160;24&#160;12:20&#160;UTC | SHAKEN Lightspeed Voice 557F | 12&#160;Oct&#160;24&#160;12:20&#160;UTC | true | [view](CERTS/0f61b5358f34c41c787f5cd0554f2d2554de713c5abbfa7abbcd8c4cc4b18dc2/README.md) |
+| 12&#160;Sep&#160;24&#160;14:39&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 12&#160;Oct&#160;24&#160;14:39&#160;UTC | true | [view](CERTS/72b19b9248f4fa0c73dd3c48ba8260a9a00f1e73b0d68708b8c2e5d5ccd11d24/README.md) |
+| 13&#160;Sep&#160;24&#160;03:18&#160;UTC | SHAKEN BareTelecom 864J | 13&#160;Oct&#160;24&#160;03:18&#160;UTC | true | [view](CERTS/07cb0fc25dbfa644ca29ec860a336bb449a2cac75b2e035429a4f134347b9d36/README.md) |
+| 13&#160;Sep&#160;24&#160;03:19&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 13&#160;Oct&#160;24&#160;03:19&#160;UTC | true | [view](CERTS/220710f11dfa2d3be6821e79f069c161f366fd235796259e8d1d303dd6beb726/README.md) |
+| 13&#160;Sep&#160;24&#160;03:30&#160;UTC | SHAKEN IDT America, Corp 363A | 13&#160;Oct&#160;24&#160;03:30&#160;UTC | true | [view](CERTS/898b242fdebccaad67fb2f134854f11b075f6c205744e83a2a25f582afe82a80/README.md) |
+| 13&#160;Sep&#160;24&#160;13:54&#160;UTC | SHAKEN Mango Voice LLC 579K | 13&#160;Oct&#160;24&#160;13:54&#160;UTC | true | [view](CERTS/55c155ae238824836735772503878ecb35143bfe670fd6a0a80d96c02237a86d/README.md) |
+| 13&#160;Sep&#160;24&#160;14:34&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 13&#160;Oct&#160;24&#160;14:34&#160;UTC | true | [view](CERTS/ba894b7f5b591813ab14fe176e388ae6a1b9ee8df2084142c302e79794f657eb/README.md) |
+| 14&#160;Sep&#160;24&#160;03:13&#160;UTC | SHAKEN BareTelecom 864J | 14&#160;Oct&#160;24&#160;03:13&#160;UTC | true | [view](CERTS/47fadda3c759cc08a9db15103faa8f68b7f16c16d01ec8cb0ed33b3a4b86e4df/README.md) |
+| 14&#160;Sep&#160;24&#160;03:14&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 14&#160;Oct&#160;24&#160;03:14&#160;UTC | true | [view](CERTS/f03892464fcb859ee389b6fd103a606829c7792abad25dfae305a596aec5a2c6/README.md) |
+| 14&#160;Sep&#160;24&#160;11:38&#160;UTC | SHAKEN SouthPoint Communications 205k | 14&#160;Oct&#160;24&#160;11:38&#160;UTC | true | [view](CERTS/c426391e7c14ba62f2e2317e4e6b2cf6b89ac248631ba321d276aabb32c9dc68/README.md) |
+| 15&#160;Sep&#160;24&#160;03:09&#160;UTC | SHAKEN BareTelecom 864J | 15&#160;Oct&#160;24&#160;03:09&#160;UTC | true | [view](CERTS/de63ae7a2cb94597eb39ce4aa6c5738614809b138bb224560b172299b67ee8ce/README.md) |
+| 15&#160;Sep&#160;24&#160;04:28&#160;UTC | SHAKEN CIMA Telecom, Inc 313K | 15&#160;Oct&#160;24&#160;04:28&#160;UTC | true | [view](CERTS/2de05d397c1de5537bb4cb6575d5b94ad281bf50c87342384aef3e03cb11e3fb/README.md) |
+| 15&#160;Sep&#160;24&#160;12:05&#160;UTC | SHAKEN Lightspeed Voice 557F | 15&#160;Oct&#160;24&#160;12:05&#160;UTC | true | [view](CERTS/b3fad654286bcac09078ba70e17c18513a0d5da072540400e9c5ce10ad6077f6/README.md) |
+| 15&#160;Sep&#160;24&#160;14:24&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 15&#160;Oct&#160;24&#160;14:24&#160;UTC | true | [view](CERTS/f9cafe80e39c5b0a99d67cf6a31ced88e1d4aabfb1180720af0f3450eb70bc90/README.md) |
+| 15&#160;Sep&#160;24&#160;22:32&#160;UTC | SHAKEN IPSBS Managed Services LLC 828J | 15&#160;Oct&#160;24&#160;22:32&#160;UTC | true | [view](CERTS/830e5b8dd24686e536b9bea98a36886f492f1a05a32d379c01118a6397abdc5f/README.md) |
+| 16&#160;Sep&#160;24&#160;03:04&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 16&#160;Oct&#160;24&#160;03:04&#160;UTC | true | [view](CERTS/9d236b3d8b4fda8f6253d8096a185078def8139c2677ef7bf86856301fb706f2/README.md) |
+| 16&#160;Sep&#160;24&#160;03:15&#160;UTC | SHAKEN IDT America, Corp 363A | 16&#160;Oct&#160;24&#160;03:15&#160;UTC | true | [view](CERTS/63c3cc5c6fcbe9d6f373f95efcb5fb63767c32ffc2127d4149d9dd9a4e2024df/README.md) |
+| 16&#160;Sep&#160;24&#160;14:19&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 16&#160;Oct&#160;24&#160;14:19&#160;UTC | true | [view](CERTS/d208a0a87ce1893aeeda82b23c0d5cfcca0ded0f8c7cd17d2204d714f6b1f201/README.md) |
+| 17&#160;Sep&#160;24&#160;02:59&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 17&#160;Oct&#160;24&#160;02:59&#160;UTC | true | [view](CERTS/617fffbd4fc0478c8822b0145da269adc075861fef1e4eed567c4b74916d0206/README.md) |
+| 17&#160;Sep&#160;24&#160;03:10&#160;UTC | SHAKEN IDT America, Corp 363A | 17&#160;Oct&#160;24&#160;03:10&#160;UTC | true | [view](CERTS/a70b53708e740466ad6e64155acf8f486fa4a7013fed39565447794379c4c96a/README.md) |
+| 17&#160;Sep&#160;24&#160;14:14&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 17&#160;Oct&#160;24&#160;14:14&#160;UTC | true | [view](CERTS/f7e8528c79da623f2ae5368e54a59e922da189ee06adc24a4fa4b7359cf90f12/README.md) |
+| 18&#160;Sep&#160;24&#160;02:54&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 18&#160;Oct&#160;24&#160;02:54&#160;UTC | true | [view](CERTS/ac68eed7bc584bef0f43625d7a614a46bd0c2c2e6384bb51c6a3a3274e103bf7/README.md) |
+| 18&#160;Sep&#160;24&#160;03:05&#160;UTC | SHAKEN IDT America, Corp 363A | 18&#160;Oct&#160;24&#160;03:05&#160;UTC | true | [view](CERTS/1daf4465d895a11fb1e67205f018ead21411ee37b144882735ff13c99f20d4d2/README.md) |
+| 18&#160;Sep&#160;24&#160;14:09&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 18&#160;Oct&#160;24&#160;14:09&#160;UTC | true | [view](CERTS/b9339e6e1a054a89ce2442cd149d625bf1161a2c3769976225b97f6f0a2c9576/README.md) |
+| 18&#160;Sep&#160;24&#160;22:17&#160;UTC | SHAKEN IPSBS Managed Services LLC 828J | 18&#160;Oct&#160;24&#160;22:17&#160;UTC | true | [view](CERTS/ddfbcc8df581958f651cfe2606e81c3bcaa63d8391389044003e8b6b29c8c4d2/README.md) |
+| 19&#160;Sep&#160;24&#160;02:49&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 19&#160;Oct&#160;24&#160;02:49&#160;UTC | true | [view](CERTS/0d14c81e1e0e52daf3de2bc75fe9796415c71f65e423c663e72ccf85ba5e56b6/README.md) |
+| 19&#160;Sep&#160;24&#160;03:00&#160;UTC | SHAKEN IDT America, Corp 363A | 19&#160;Oct&#160;24&#160;03:00&#160;UTC | true | [view](CERTS/27f4ceb7f9005dc609abf7d9846910356dab2f87dd846e0b91c18df720fd856e/README.md) |
+| 19&#160;Sep&#160;24&#160;14:04&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 19&#160;Oct&#160;24&#160;14:04&#160;UTC | true | [view](CERTS/1727c9625fe46b1070c19d2fbf19f0ac148f74ce9c3812cb412dd4c27e858f80/README.md) |
+| 19&#160;Sep&#160;24&#160;21:17&#160;UTC | SHAKEN 696J Telcentris Inc. dba Voxox | 19&#160;Oct&#160;24&#160;21:17&#160;UTC | true | [view](CERTS/1e0ddc4c4b14c59473e582fcdebca549406328dcd40f47102ca4f4bf66641e16/README.md) |
+| 20&#160;Sep&#160;24&#160;02:55&#160;UTC | SHAKEN IDT America, Corp 363A | 20&#160;Oct&#160;24&#160;02:55&#160;UTC | true | [view](CERTS/b20c17abca67aa164675fcc54faeeb1ddc3a66f15256c5d59d2be1fbcc4cafe5/README.md) |
+| 20&#160;Sep&#160;24&#160;13:19&#160;UTC | SHAKEN Mango Voice LLC 579K | 20&#160;Oct&#160;24&#160;13:19&#160;UTC | true | [view](CERTS/1a21f23117f7130cdff97d1a1d56b1f4a0662ea6d5b39385be7d062b3facea8f/README.md) |
+| 22&#160;Sep&#160;24&#160;13:49&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 22&#160;Oct&#160;24&#160;13:49&#160;UTC | true | [view](CERTS/9a5e5fb75985c7c71bf03edfd21bf344ada97077e0d235f811b6dcaed2e3b283/README.md) |
+| 22&#160;Sep&#160;24&#160;18:58&#160;UTC | SHAKEN Socket Telecom LLC 554a | 22&#160;Oct&#160;24&#160;18:58&#160;UTC | true | [view](CERTS/8c06057286de1eaea0bc2679df21968e8c57a52845265095dbc45e246d150fef/README.md) |
+| 22&#160;Sep&#160;24&#160;21:57&#160;UTC | SHAKEN IPSBS Managed Services LLC 828J | 22&#160;Oct&#160;24&#160;21:57&#160;UTC | true | [view](CERTS/8c2c2ddf2c74d771259bc800356c365e53e0ea5a1f1ec71aa2160ea5298fe396/README.md) |
+| 23&#160;Sep&#160;24&#160;02:29&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 23&#160;Oct&#160;24&#160;02:29&#160;UTC | true | [view](CERTS/64b8a3f1b378c478d072c840cd714a2854f9e6d5f80ce8ea97510b72b8f6bb40/README.md) |
+| 23&#160;Sep&#160;24&#160;02:40&#160;UTC | SHAKEN IDT America, Corp 363A | 23&#160;Oct&#160;24&#160;02:40&#160;UTC | true | [view](CERTS/009a6d2eea93d6baec19c88400d738ffc271d281dc3ec2916c4ff3c472746c62/README.md) |
+| 23&#160;Sep&#160;24&#160;06:30&#160;UTC | SHAKEN 249K Primo Dialler LLC | 21&#160;Jan&#160;25&#160;06:30&#160;UTC | true | [view](CERTS/e37c2d2abb454090dc41a8a9b8f15661bde2d9f635106de57ea81bbd74dd3c3b/README.md) |
+| 24&#160;Sep&#160;24&#160;02:24&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 24&#160;Oct&#160;24&#160;02:24&#160;UTC | true | [view](CERTS/1a0d8ed50070fb6ad3ecc0a654a0f59cefa00ee9c15dd5ba2c74b45cedd280f2/README.md) |
+| 24&#160;Sep&#160;24&#160;02:35&#160;UTC | SHAKEN IDT America, Corp 363A | 24&#160;Oct&#160;24&#160;02:35&#160;UTC | true | [view](CERTS/726796b97497bcfd95222a14501fd7d25be5fc80fdc93dfd136bc4cd664a273f/README.md) |
+| 24&#160;Sep&#160;24&#160;13:39&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 24&#160;Oct&#160;24&#160;13:39&#160;UTC | true | [view](CERTS/e3499643e399f8cfc68c24be4a09a59998c536f4e84f35c633638d8c4caa3ec7/README.md) |
+| 24&#160;Sep&#160;24&#160;17:01&#160;UTC | SHAKEN Sangoma 777G | 24&#160;Sep&#160;25&#160;17:01&#160;UTC | true | [view](CERTS/793541492ac2787c6052d4a9cfb63c7f6aed20d149d3d5e173aa531a5d1bb71b/README.md) |
+| 24&#160;Sep&#160;24&#160;21:47&#160;UTC | SHAKEN IPSBS Managed Services LLC 828J | 24&#160;Oct&#160;24&#160;21:47&#160;UTC | true | [view](CERTS/02c3101853bb03f12838bf8acb5a5921a342d0c45b5e3b90acb1b8c6ebb12340/README.md) |
+| 25&#160;Sep&#160;24&#160;02:19&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 25&#160;Oct&#160;24&#160;02:19&#160;UTC | true | [view](CERTS/e231b8aa49175fec507c50c4611460d45c495479090a3c59cba101a92ee9a8d0/README.md) |
+| 25&#160;Sep&#160;24&#160;02:30&#160;UTC | SHAKEN IDT America, Corp 363A | 25&#160;Oct&#160;24&#160;02:30&#160;UTC | true | [view](CERTS/01cb84b293823051362a4cb0f0e332a1bffc4530e4601d31a46c1301de97db80/README.md) |
+| 25&#160;Sep&#160;24&#160;11:15&#160;UTC | SHAKEN Lightspeed Voice 557F | 25&#160;Oct&#160;24&#160;11:15&#160;UTC | true | [view](CERTS/6e173418b967ddd5bbdb0d5571c9899ac95930f58332c3676a39858567847fd1/README.md) |
+| 25&#160;Sep&#160;24&#160;13:34&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 25&#160;Oct&#160;24&#160;13:34&#160;UTC | true | [view](CERTS/a969ac34e43599365853f53fd2f239b081980d7bfebe8589eb802cd80d2e40a8/README.md) |
+| 26&#160;Sep&#160;24&#160;02:14&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 26&#160;Oct&#160;24&#160;02:14&#160;UTC | true | [view](CERTS/82255919587070102dc0ecbe01da726845c298d924a586284104ee3248563025/README.md) |
+| 26&#160;Sep&#160;24&#160;13:29&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 26&#160;Oct&#160;24&#160;13:29&#160;UTC | true | [view](CERTS/d2fc701abdb990d283767b81c20cf75b2747f34b24a144cfd258f68fc1ee0822/README.md) |
+| 26&#160;Sep&#160;24&#160;18:38&#160;UTC | SHAKEN Socket Telecom LLC 554a | 26&#160;Oct&#160;24&#160;18:38&#160;UTC | true | [view](CERTS/412781039d3611efe205c0be9c99a43029f6a842812ddad54cb554afa1aa3225/README.md) |
+| 27&#160;Sep&#160;24&#160;02:09&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 27&#160;Oct&#160;24&#160;02:09&#160;UTC | true | [view](CERTS/8ee5434e8d84c00c80927c0070ebdfcf7e40634d87f6419c048ff35fd08ff6ad/README.md) |
+| 27&#160;Sep&#160;24&#160;03:03&#160;UTC | SHAKEN Televergence Solutions Inc 779J | 27&#160;Oct&#160;24&#160;03:03&#160;UTC | true | [view](CERTS/13f83b0db80afe5287330ed0de56f3950c446a24fd6a3e42a305a1ed7859d82a/README.md) |
+| 27&#160;Sep&#160;24&#160;13:24&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 27&#160;Oct&#160;24&#160;13:24&#160;UTC | true | [view](CERTS/fe13916f88bda07398f210dc52377859fc89481f1003066aed1ed304b69c8fc4/README.md) |
+| 29&#160;Sep&#160;24&#160;01:59&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 29&#160;Oct&#160;24&#160;01:59&#160;UTC | true | [view](CERTS/8b25d7e08575c4286ba92a5e1424f2afe9edcf2ad7db8e219b24b735e5d2ba86/README.md) |
+| 29&#160;Sep&#160;24&#160;02:53&#160;UTC | SHAKEN Televergence Solutions Inc 779J | 29&#160;Oct&#160;24&#160;02:53&#160;UTC | true | [view](CERTS/b09dff2dfae9213e0acc6f9f24739d38cc6344c34af9b949f44602caee4a6c89/README.md) |
+| 29&#160;Sep&#160;24&#160;15:49&#160;UTC | SHAKEN IDT America, Corp 363A | 29&#160;Oct&#160;24&#160;15:49&#160;UTC | true | [view](CERTS/850efa8c5caf562a4bd16c50d4f2278560ebfc7e66926e302b5825d844d77582/README.md) |
+| 29&#160;Sep&#160;24&#160;18:23&#160;UTC | SHAKEN Socket Telecom LLC 554a | 29&#160;Oct&#160;24&#160;18:23&#160;UTC | true | [view](CERTS/0095b29170325b74ea27e6e0cb1a022c6059c8c67cd2edba86433c29c528026b/README.md) |
+| 30&#160;Sep&#160;24&#160;01:54&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 30&#160;Oct&#160;24&#160;01:54&#160;UTC | true | [view](CERTS/e8735ccf2fcd27cec7194468bcbc410abb2c02d4ef5ed5dbefc0ccc90069dfbb/README.md) |
+| 30&#160;Sep&#160;24&#160;10:50&#160;UTC | SHAKEN Lightspeed Voice 557F | 30&#160;Oct&#160;24&#160;10:50&#160;UTC | true | [view](CERTS/c6a4a858caeb3aab0b02f737ef4f7299f5c3d475753467fe2ecdc27aac1be862/README.md) |
+| 30&#160;Sep&#160;24&#160;11:08&#160;UTC | SHAKEN Convoso 758J | 04&#160;Nov&#160;24&#160;11:08&#160;UTC | true | [view](CERTS/b235507a20c5a09a9c35e66bae5b3cff472db6142a907737802fac158356fa19/README.md) |
+| 30&#160;Sep&#160;24&#160;12:32&#160;UTC | SHAKEN Mango Voice LLC 579K | 30&#160;Oct&#160;24&#160;12:32&#160;UTC | true | [view](CERTS/e565754c5b6a196ecd569af8895720e319216e9a50a21bd34d0af46b498c0e30/README.md) |
+| 30&#160;Sep&#160;24&#160;13:09&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 30&#160;Oct&#160;24&#160;13:09&#160;UTC | true | [view](CERTS/d791eb9757bf2291eab31f82c104bc3cd3307a62a79c3c4c7699d3b3257bbe4c/README.md) |
+| 30&#160;Sep&#160;24&#160;15:44&#160;UTC | SHAKEN IDT America, Corp 363A | 30&#160;Oct&#160;24&#160;15:44&#160;UTC | true | [view](CERTS/9d811914cacec78e5671559aed4d96529086330c680067162a7d08559495c003/README.md) |
+| 01&#160;Oct&#160;24&#160;01:49&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 31&#160;Oct&#160;24&#160;01:49&#160;UTC | true | [view](CERTS/26e252529d9aa6f254e61993fcbb59b6be2c47118bf01120131f9b5d8902ba12/README.md) |
+| 01&#160;Oct&#160;24&#160;02:43&#160;UTC | SHAKEN Televergence Solutions Inc 779J | 31&#160;Oct&#160;24&#160;02:43&#160;UTC | true | [view](CERTS/a375d39b795b30c4b2806a167219df605159a44c88aaf26115f21e171dafbe56/README.md) |
+| 01&#160;Oct&#160;24&#160;10:45&#160;UTC | SHAKEN Lightspeed Voice 557F | 31&#160;Oct&#160;24&#160;10:45&#160;UTC | true | [view](CERTS/4b99587f1b9d77da9981dd0945112c6d8d09acee53f42ef7dbf33c1460e393f0/README.md) |
+| 01&#160;Oct&#160;24&#160;13:04&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 31&#160;Oct&#160;24&#160;13:04&#160;UTC | true | [view](CERTS/fbcc22a3cd903716e6a1a686ee7d15374117114f94660ba0599e1de36bf12e25/README.md) |
+| 01&#160;Oct&#160;24&#160;13:48&#160;UTC | SHAKEN Touchtone 683A | 31&#160;Oct&#160;24&#160;13:48&#160;UTC | true | [view](CERTS/e8b604edd91a8c99bce8dcc06352294e1bbf2471c1fb6f2ee19eaab4e14baee3/README.md) |
+| 01&#160;Oct&#160;24&#160;13:49&#160;UTC | SHAKEN Apeiron Systems 012J | 31&#160;Oct&#160;24&#160;13:49&#160;UTC | true | [view](CERTS/e3de70898a4eea5cccc2a00dac7b93804105ed78ec7660aa7e5a6b14787ab049/README.md) |
+| 01&#160;Oct&#160;24&#160;13:50&#160;UTC | SHAKEN Fonative, Inc. 684J | 31&#160;Oct&#160;24&#160;13:50&#160;UTC | true | [view](CERTS/ff2923ee01bd6fc5373f1c6b187d1363b0d616120cb3bb1ec6703e15d5183144/README.md) |
+| 01&#160;Oct&#160;24&#160;13:51&#160;UTC | SHAKEN Phone.com, Inc. 633J | 31&#160;Oct&#160;24&#160;13:51&#160;UTC | true | [view](CERTS/2f09099a4758f22858d76bc009eb9c3aae76a4ecb0694c8f3d697909994b654b/README.md) |
+| 01&#160;Oct&#160;24&#160;13:52&#160;UTC | SHAKEN NETRIO LLC 020K | 31&#160;Oct&#160;24&#160;13:52&#160;UTC | true | [view](CERTS/bee959158adf225d0ed5ecd76c75b94e1b00532571f4ef199d49d4d18513d871/README.md) |
+| 01&#160;Oct&#160;24&#160;13:54&#160;UTC | SHAKEN Airespring 996H | 31&#160;Oct&#160;24&#160;13:54&#160;UTC | true | [view](CERTS/7fb72a770b18f25883e3c0d9d757613fcf7e3a01c68dccd69d5c9301554f62b9/README.md) |
+| 01&#160;Oct&#160;24&#160;13:56&#160;UTC | SHAKEN Nobelbiz, Inc. 596J | 31&#160;Oct&#160;24&#160;13:56&#160;UTC | true | [view](CERTS/8132bb2a29324c03db889fcefc9d02a5471e64f84ff2c55667d9f066462d72d1/README.md) |
+| 01&#160;Oct&#160;24&#160;13:58&#160;UTC | SHAKEN Momentum Telecom 9157 | 31&#160;Oct&#160;24&#160;13:58&#160;UTC | true | [view](CERTS/17b855c1546c12c4901001f0d15a16979c1e2a91d0b2d9a19450adfa8bc9296b/README.md) |
+| 01&#160;Oct&#160;24&#160;14:03&#160;UTC | SHAKEN Magna5, LLC 3849 | 31&#160;Oct&#160;24&#160;14:03&#160;UTC | true | [view](CERTS/fc2c0e841ac5bf2dcdafc6a74aca50645650e2b118cade6af3375dd6efa4021b/README.md) |
+| 01&#160;Oct&#160;24&#160;14:04&#160;UTC | SHAKEN Magna5, LLC 8249 | 31&#160;Oct&#160;24&#160;14:04&#160;UTC | true | [view](CERTS/1345de3a8a2ca9ad3368f984de21adce909330fdb6e2dc951c1a440f404dd81d/README.md) |
+| 01&#160;Oct&#160;24&#160;15:06&#160;UTC | SHAKEN Kloud 7 LLC 214K | 01&#160;Oct&#160;25&#160;15:06&#160;UTC | true | [view](CERTS/67fe5061b5b9244cdb233b8efd82fffde4a42fc661cce8860b6717318181ca80/README.md) |
+| 01&#160;Oct&#160;24&#160;15:39&#160;UTC | SHAKEN IDT America, Corp 363A | 31&#160;Oct&#160;24&#160;15:39&#160;UTC | true | [view](CERTS/46afbd3cbe62cadcd8e0b2e358364633031afdef1107e2bbb1db6d7e73c18e74/README.md) |
+| 02&#160;Oct&#160;24&#160;01:03&#160;UTC | SHAKEN Townes Telecommunications 0335 | 01&#160;Nov&#160;24&#160;01:03&#160;UTC | true | [view](CERTS/33e15865325441feb4fe0cabae77222f0107e00b64de9b7b3d38b5554f4a248a/README.md) |
+| 02&#160;Oct&#160;24&#160;01:44&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 01&#160;Nov&#160;24&#160;01:44&#160;UTC | true | [view](CERTS/f432d70f353dd43d8886f90664b468fadff555696998fa5da83a172b62876814/README.md) |
+| 02&#160;Oct&#160;24&#160;12:22&#160;UTC | SHAKEN Mango Voice LLC 579K | 01&#160;Nov&#160;24&#160;12:22&#160;UTC | true | [view](CERTS/6dabaea104b986a2d1e6159391f3c606811d585af7cbd6f2a07def6d96d35f43/README.md) |
+| 02&#160;Oct&#160;24&#160;12:59&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 01&#160;Nov&#160;24&#160;12:59&#160;UTC | true | [view](CERTS/16241228497cb74debe19464f431fd839a88abfbf8b2c974af4c8c81eb96e5a0/README.md) |
+| 02&#160;Oct&#160;24&#160;15:34&#160;UTC | SHAKEN IDT America, Corp 363A | 01&#160;Nov&#160;24&#160;15:34&#160;UTC | true | [view](CERTS/00ad775b20353d97d9c808158c91c77a01a3529778cdc3dc1394d35a081ef2ad/README.md) |
+| 03&#160;Oct&#160;24&#160;01:39&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 02&#160;Nov&#160;24&#160;01:39&#160;UTC | true | [view](CERTS/075b169220d147430a9eccf048ae9c61dfda08b60b3f9c82ce5c0d539aa6d689/README.md) |
+| 03&#160;Oct&#160;24&#160;10:35&#160;UTC | SHAKEN Lightspeed Voice 557F | 02&#160;Nov&#160;24&#160;10:35&#160;UTC | true | [view](CERTS/e394e7ed3c5c36107e36ca6c098ffdf2279ebd277b5c434e0f567c7f8d83a57c/README.md) |
+| 03&#160;Oct&#160;24&#160;12:54&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 02&#160;Nov&#160;24&#160;12:54&#160;UTC | true | [view](CERTS/89c28ee75f98cfa9876c0f4a1c1d42a06324eecae7d7a1f3a28106c647826abc/README.md) |
+| 03&#160;Oct&#160;24&#160;15:29&#160;UTC | SHAKEN IDT America, Corp 363A | 02&#160;Nov&#160;24&#160;15:29&#160;UTC | true | [view](CERTS/e917cf4b97ed045860f4777330983956a9b230286a81f06d8bdd4c56b1a786a2/README.md) |
+| 03&#160;Oct&#160;24&#160;18:06&#160;UTC | SHAKEN Zray Technologies Corporation 862J | 02&#160;Nov&#160;24&#160;18:06&#160;UTC | true | [view](CERTS/930b00d582cc83dffb2bdb45b4d9c5f513cb4db7e50947d30289d5f98a68d5f4/README.md) |
+| 04&#160;Oct&#160;24&#160;01:34&#160;UTC | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | 03&#160;Nov&#160;24&#160;01:34&#160;UTC | true | [view](CERTS/8e9aaa5c0368d9faa5d1c2d91939a5ce7bd9ce1fbf06e69c24b041a8b9ac0628/README.md) |
+| 04&#160;Oct&#160;24&#160;12:49&#160;UTC | SHAKEN Quality Voice & Data Inc. 548J | 03&#160;Nov&#160;24&#160;12:49&#160;UTC | true | [view](CERTS/cc39b9af163b9ac535b980a6f90585bff0fa38d55a2dbc5736317455ab960feb/README.md) |
 
 #### CA Certificates
 
@@ -281,4 +299,4 @@ No error, warning, or notice level issues were found
 | 02&#160;Sep&#160;22&#160;20:53&#160;UTC | SHAKEN Sansay Intermediate CA US WEST 1 | 31&#160;Aug&#160;29&#160;20:53&#160;UTC | false | [view](CERTS/4b1dfdba2b1e4bbffbf900a20f1f6f7befbef0008b963e4922a64469cb97d24b/README.md) |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

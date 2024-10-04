@@ -26,6 +26,7 @@ Description: STI intermediate and end-entity certificates shall contain a CRL Di
 | error | New Horizon SHAKEN 127E | [view](../../CERTS/5b5b2d67ae750d1db589bd45461c3844563b09b14b41c293e66cfd8966aa5e49/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
 | error | Tri-County Telephone Association Inc SHAKEN 2296 | [view](../../CERTS/4356608c69640e50e94ba5e8dc38381a3bf7b01fbddd8297e37bfb89fa88dad7/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
 | error | Allstream SHAKEN 4130 | [view](../../CERTS/22cb64f2b77df09828d02feae3f6a3c7d3d9caba0ac156bc09214c57b3e0abc2/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | Sonic Telecom SHAKEN 433E | [view](../../CERTS/f18ce346a58e8224d3c89a2fe9b70579724cd396eff02d4af2df348f40aca05a/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
 | error | U. S. Telepacific Corp SHAKEN 7453 | [view](../../CERTS/2382a05acdbbcac50de555226898695d61ee942019e54ce2f84dbb85455b2e46/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
 | error | Mediacom SHAKEN 846F | [view](../../CERTS/a2d12c9920c165e8132a4bc24e4d7eed1f1a077add8515b2252dc058d348c728/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
 
@@ -34,4 +35,4 @@ Description: STI intermediate and end-entity certificates shall contain a CRL Di
 No error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

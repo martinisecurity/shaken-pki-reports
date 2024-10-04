@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 060K
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:33 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -278 day(s)\
+Remaining Validity Period: -317 day(s)\
 Subject: CN=SHAKEN 060K, O=Telware, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/0c4e235f-3e3e-4dd3-bbfc-2f15badab180/fe81dbceb2870f319c8b19053d3da27f.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/0c4e235f-3e3e-4dd3-bbfc-2f15badab180/fe81
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 6233
 
-Tested At: 26 Aug 24 17:44 UTC\
+Tested At: 04 Oct 24 15:42 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -70 day(s)\
+Remaining Validity Period: -109 day(s)\
 Subject: CN=SHAKEN 6233, O=Southern Telecommunications Co\\, LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/9b6336c6-a756-47eb-a80c-384319297ebb/50d5fe2a353018c088423f7946d973cb.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/9b6336c6-a756-47eb-a80c-384319297ebb/50d5
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

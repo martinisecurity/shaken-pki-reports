@@ -2,9 +2,9 @@
 
 ## Certificate Chariton Valley SHAKEN 250A
 
-Tested At: 26 Aug 24 17:42 UTC\
+Tested At: 04 Oct 24 15:31 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 614 day(s)\
+Remaining Validity Period: 576 day(s)\
 Subject: CN=Chariton Valley SHAKEN 250A, O=Chariton Valley Communications Corporation, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/0ba2e829dff0ca7fef842872ab82485c69f76281
@@ -17,4 +17,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/0ba2e829dff0ca7fef842872ab82485c69f7628
 | [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

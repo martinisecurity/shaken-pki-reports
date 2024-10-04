@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN CIMA Telecom, Inc 313K
 
-Tested At: 26 Aug 24 17:47 UTC\
+Tested At: 04 Oct 24 15:58 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -86 day(s)\
+Remaining Validity Period: -125 day(s)\
 Subject: CN=SHAKEN CIMA Telecom\\, Inc 313K, O=CIMA Telecom\\, Inc, ST=Florida, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/313K/429C7C70711E3820F0B8E1DEAE6FF32622649B09.pem
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/313K/429C7C70711E3820F0B8E1DEAE6FF32622649B09.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 313K', but common name is 'SHAKEN CIMA Telecom, Inc 313K' |
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 313K', but common name is 'SHAKEN CIMA Telecom, Inc 313K' |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

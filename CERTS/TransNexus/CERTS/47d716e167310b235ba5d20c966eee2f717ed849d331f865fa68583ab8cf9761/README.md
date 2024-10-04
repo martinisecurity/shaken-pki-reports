@@ -1,0 +1,17 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 815G
+
+Tested At: 04 Oct 24 15:50 UTC\
+Initial Validity Period: 90 day(s)\
+Remaining Validity Period: 87 day(s)\
+Subject: CN=SHAKEN 815G, O=382 Communications, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.transnexus.com/815G/ff79ca8c-27d1-4f6f-b66d-fde2db79ba78.pem
+
+[View certificate details](https://x509.io/?cert=MIIC0TCCAnigAwIBAgIQTuVGueTlWKrmF7VEa%2Fs2IzAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTUwHhcNMjQxMDAxMTAxMjEyWhcNMjQxMjMwMTAxMjExWjBAMQswCQYDVQQGEwJVUzEbMBkGA1UEChMSMzgyIENvbW11bmljYXRpb25zMRQwEgYDVQQDEwtTSEFLRU4gODE1RzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABBETKmt1bUjmgaZXIjIJd8BRFRKgleyUgicc7yl6LFcNk0ldmXjIGimElfEVH5py2b5%2B9mEtQZGXhbMCHIgx45KjggE8MIIBODAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAdBgNVHQ4EFgQUJRupmKdCSfZvojkY007i%2B9cTb3EwHwYDVR0jBBgwFoAU2gCzh%2FiCP7%2B6IqJkY7X2L8yOdcowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEEMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAWBggrBgEFBQcBGgQKMAigBhYEODE1RzAKBggqhkjOPQQDAgNHADBEAiApFL9KKptWRooMHjv9v8b9cuKvh7yBEsr4k2jFi6H1hQIgQyRWrAm1c9gMxz%2BEmLIClAVwgYRzgWY%2BiPdhhD4KGwk%3D)
+
+164 tests were ran and no error, warning, or notice level issues were found
+
+
+Generated: 04 Oct 24 16:29 UTC

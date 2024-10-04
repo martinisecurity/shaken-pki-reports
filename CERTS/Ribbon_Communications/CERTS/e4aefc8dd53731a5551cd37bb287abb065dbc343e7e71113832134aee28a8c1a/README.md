@@ -2,9 +2,9 @@
 
 ## Certificate Veracity SHAKEN 716D
 
-Tested At: 26 Aug 24 17:56 UTC\
+Tested At: 04 Oct 24 16:23 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -96 day(s)\
+Remaining Validity Period: -135 day(s)\
 Subject: CN=Veracity SHAKEN 716D, OU=Voice, O=Veracity Networks LLC, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/VaMEsVjGRz/0-6f633bc2813830d744b6236fe4d3b741
@@ -13,8 +13,8 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/VaMEsVjGRz/0-6f633bc2813830d744b6
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
+| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

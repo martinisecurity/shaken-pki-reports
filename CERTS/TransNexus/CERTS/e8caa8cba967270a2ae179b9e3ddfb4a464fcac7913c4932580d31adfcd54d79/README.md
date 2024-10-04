@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1826
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:35 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -78 day(s)\
+Remaining Validity Period: -117 day(s)\
 Subject: CN=SHAKEN 1826, O=Nex-Tech\\, LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/2fb590ef-1300-4481-b00c-164b447c8c08/e13b68402aa67e6df29b0e77d408cbdd.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/2fb590ef-1300-4481-b00c-164b447c8c08/e13b
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

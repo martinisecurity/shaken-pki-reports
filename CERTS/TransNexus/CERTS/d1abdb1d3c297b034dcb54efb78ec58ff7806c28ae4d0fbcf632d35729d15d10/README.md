@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 469A
 
-Tested At: 26 Aug 24 17:44 UTC\
+Tested At: 04 Oct 24 15:40 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -629 day(s)\
+Remaining Validity Period: -668 day(s)\
 Subject: CN=SHAKEN 469A, O=T3 Communications Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/88814589-ad88-4c53-b3c3-47f8334afb98/2a7a131ed52fe9d27f6a3ef49552fba2.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/88814589-ad88-4c53-b3c3-47f8334afb98/2a7a
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

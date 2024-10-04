@@ -2,9 +2,9 @@
 
 ## Certificate STIR ECC PNCB
 
-Tested At: 26 Aug 24 17:47 UTC\
+Tested At: 04 Oct 24 15:53 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 268 day(s)\
+Remaining Validity Period: 229 day(s)\
 Subject: CN=STIR ECC PNCB, O=PNC Bank, C=US\
 Issuer: CN=Neustar UAT Enterprise Certified Caller Intermediate CA1, OU=www.ccid-uat.neustar, O=Neustar Inc a TransUnion company, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11617.10439.pem
@@ -13,9 +13,9 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11617.10439.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 1.3.6.1.4.1.13568.100. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
-| [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common Name attribute 'STIR ECC PNCB' does not contain 'SHAKEN' |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN PNCB', but common name is 'STIR ECC PNCB' |
+| [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common Name attribute 'STIR ECC PNCB' does not contain 'SHAKEN' |
+| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 1.3.6.1.4.1.13568.100. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

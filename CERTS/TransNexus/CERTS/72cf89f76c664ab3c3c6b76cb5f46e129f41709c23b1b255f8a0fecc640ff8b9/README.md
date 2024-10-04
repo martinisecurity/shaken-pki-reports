@@ -1,0 +1,17 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 755K
+
+Tested At: 04 Oct 24 15:47 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -32 day(s)\
+Subject: CN=SHAKEN 755K, O=Brightridge Broadband, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/ee50b256-f0fb-4733-8444-bfa453d1b53d/4e2515254b5c3426beaa3966b8d9ead5.pem
+
+[View certificate details](https://x509.io/?cert=MIIC1jCCAnugAwIBAgIQXb%2FFUMRKtWGQxXwdBDeWojAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTUwHhcNMjQwODI1MTcyNzMzWhcNMjQwOTAxMTcyNzMyWjBDMQswCQYDVQQGEwJVUzEeMBwGA1UEChMVQnJpZ2h0cmlkZ2UgQnJvYWRiYW5kMRQwEgYDVQQDEwtTSEFLRU4gNzU1SzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABCSsuAoFqRL7Vqaa1hvZnsfPLdpX3rrhinLq6%2FXhDZs6YnuLv7ARooEQl4NK236ERqag6MrCeivbWgGR%2FoyPrJ2jggE8MIIBODAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAdBgNVHQ4EFgQUoxygypBaN9m95aWTp3bu31ZCG5YwHwYDVR0jBBgwFoAU2gCzh%2FiCP7%2B6IqJkY7X2L8yOdcowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEEMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAWBggrBgEFBQcBGgQKMAigBhYENzU1SzAKBggqhkjOPQQDAgNJADBGAiEA4qNE3Deyrkf14IVi9yxa3fJiJIutxs38wqw%2Fd1VWzOwCIQDUgZUwSO01CywW8RUPcqdj9Hq%2BLzajq0XIkgkaPl1QRg%3D%3D)
+
+164 tests were ran and no error, warning, or notice level issues were found
+
+
+Generated: 04 Oct 24 16:29 UTC

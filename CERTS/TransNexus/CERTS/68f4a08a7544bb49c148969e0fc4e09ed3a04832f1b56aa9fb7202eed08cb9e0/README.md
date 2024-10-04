@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 823K
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:37 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -46 day(s)\
+Remaining Validity Period: -85 day(s)\
 Subject: CN=SHAKEN 823K, O=UsVox, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/58d0b9bd-391f-4bb5-85e3-74f88576973e/dbfe964e4e7cef2c636d8f9be7d9ddcd.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/58d0b9bd-391f-4bb5-85e3-74f88576973e/dbfe
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

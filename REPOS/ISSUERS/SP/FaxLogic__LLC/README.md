@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 34ms average time it took to download each certificate
+- 55ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -22,4 +22,4 @@
 | `https://cdn.pgxn.net/sti/20250522.cer` | 22&#160;May&#160;25&#160;18:36&#160;UTC | true | [view](REPOS/18797c00af2e04f994d68dfecde30f0321261dc8/README.md) |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 951J
 
-Tested At: 26 Aug 24 18:01 UTC\
+Tested At: 04 Oct 24 16:26 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -159 day(s)\
+Remaining Validity Period: -197 day(s)\
 Subject: CN=SHAKEN 951J, O=Zultys Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://zultys-pem-cert-2022.s3.amazonaws.com/77c9a883d0add03d43f2534413f32cba.pem
@@ -16,4 +16,4 @@ Link: https://zultys-pem-cert-2022.s3.amazonaws.com/77c9a883d0add03d43f2534413f3
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

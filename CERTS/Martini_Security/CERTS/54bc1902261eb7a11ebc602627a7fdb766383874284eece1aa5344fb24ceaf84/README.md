@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 709J
 
-Tested At: 26 Aug 24 17:56 UTC\
+Tested At: 04 Oct 24 16:22 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -165 day(s)\
+Remaining Validity Period: -204 day(s)\
 Subject: O=LOW LATENCY COMMUNICATIONS LLC, C=US, serialNumber=43BF1BDE8482B344A561C01311E6A452, CN=SHAKEN 709J\
 Issuer: CN=Martini Security SHAKEN G3, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2e5a/aa9E5vN8R1j7.pem
@@ -16,4 +16,4 @@ Link: https://p.mtsec.me/2e5a/aa9E5vN8R1j7.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

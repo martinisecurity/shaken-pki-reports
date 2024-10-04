@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 2550
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:35 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -595 day(s)\
+Remaining Validity Period: -634 day(s)\
 Subject: CN=SHAKEN 2550, O=123.Net\\, Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/2e3276e5-a5c5-43c7-ae11-3a226bf1b5ed/e75d34f2f15181f28a2ba1c9d8a733a1.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/2e3276e5-a5c5-43c7-ae11-3a226bf1b5ed/e75d
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

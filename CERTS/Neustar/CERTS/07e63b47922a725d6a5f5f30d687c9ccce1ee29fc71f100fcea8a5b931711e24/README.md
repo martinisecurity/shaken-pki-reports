@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 436J
 
-Tested At: 26 Aug 24 18:01 UTC\
+Tested At: 04 Oct 24 16:26 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 79 day(s)\
+Remaining Validity Period: 40 day(s)\
 Subject: CN=SHAKEN 436J, O=Hadlo Technologies, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://www.hadlotechnologies.com/ss_certs/hadlo_ssi_public_20231113.crt
@@ -16,4 +16,4 @@ Link: https://www.hadlotechnologies.com/ss_certs/hadlo_ssi_public_20231113.crt
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

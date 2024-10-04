@@ -3,7 +3,7 @@
 ## Unknown
 
 Name: `https://billing.risinginteractions.com/ca-cert.pem`\
-Tested At: 26 Aug 24 17:42 UTC\
+Tested At: 04 Oct 24 15:31 UTC\
 Time: 3000ms
 
 ### Issues
@@ -12,4 +12,4 @@ Time: 3000ms
 |------|------|--------|---------|
 | [e_request_timeout](../../ISSUES/e_request_timeout/README.md) | error | System | Request timed out (3s) |
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

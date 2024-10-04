@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 053G
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:36 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -431 day(s)\
+Remaining Validity Period: -470 day(s)\
 Subject: CN=SHAKEN 053G, O=Meriplex Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/44962359-54bc-4e1b-b880-3f905456f68e/d3960543d0984c50612ae4e1c3b53f4f.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/44962359-54bc-4e1b-b880-3f905456f68e/d396
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

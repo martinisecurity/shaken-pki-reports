@@ -2,9 +2,9 @@
 
 ## Certificate Televoip SHAKEN 438K
 
-Tested At: 26 Aug 24 17:57 UTC\
+Tested At: 04 Oct 24 16:23 UTC\
 Initial Validity Period: 361 day(s)\
-Remaining Validity Period: -289 day(s)\
+Remaining Validity Period: -328 day(s)\
 Subject: CN=Televoip SHAKEN 438K, O=Televoip, L=Wilmington, ST=DE, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/525bf6e144190a8232ed2c15770df226099ff1ff
@@ -25,4 +25,4 @@ Link: https://ssc.getsipnav.com/certs/525bf6e144190a8232ed2c15770df226099ff1ff
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

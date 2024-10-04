@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Vitelglobal communications 698K
 
-Tested At: 26 Aug 24 17:48 UTC\
+Tested At: 04 Oct 24 16:15 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -194 day(s)\
+Remaining Validity Period: -233 day(s)\
 Subject: CN=SHAKEN Vitelglobal communications 698K, OU=VitelGlobal, O=Vitelglobal communications, ST=New Jersey, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Vitelglobal_communications_698K
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Vitelglobal_communications_698K
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 698K', but common name is 'SHAKEN Vitelglobal communications 698K' |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

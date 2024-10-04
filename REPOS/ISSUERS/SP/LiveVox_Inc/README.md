@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 299ms average time it took to download each certificate
+- 81ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://stir.na3.livevox.com/cert/fTxNQluX` | 07&#160;May&#160;25&#160;16:57&#160;UTC | true | [view](REPOS/2e4978461138f2bb75b062d750735db91f0c8a38/README.md) |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 982J
 
-Tested At: 26 Aug 24 17:45 UTC\
+Tested At: 04 Oct 24 15:50 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -345 day(s)\
+Remaining Validity Period: -384 day(s)\
 Subject: CN=SHAKEN 982J, O=IPROT Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/982J/59aba169-7a61-41c5-8a30-bc77f9772897.pem
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/982J/59aba169-7a61-41c5-8a30-bc77f9772
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

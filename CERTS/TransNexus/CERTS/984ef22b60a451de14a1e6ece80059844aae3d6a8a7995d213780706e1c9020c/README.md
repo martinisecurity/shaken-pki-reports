@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 769J
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:37 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: 4 day(s)\
+Remaining Validity Period: -35 day(s)\
 Subject: CN=SHAKEN 769J, O=Affiliated Technology Solutions LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/471a46b3-3de4-4aa2-964b-2ff03ddbc8fe/d812d7d1fe1e50713f46b335f87ec30a.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/471a46b3-3de4-4aa2-964b-2ff03ddbc8fe/d812
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

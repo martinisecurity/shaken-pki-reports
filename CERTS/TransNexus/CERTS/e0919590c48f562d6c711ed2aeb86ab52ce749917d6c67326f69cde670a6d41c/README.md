@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 186K
 
-Tested At: 26 Aug 24 17:44 UTC\
+Tested At: 04 Oct 24 15:41 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -564 day(s)\
+Remaining Validity Period: -603 day(s)\
 Subject: CN=SHAKEN 186K, O=Go2Uno LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/92df566f-5229-4e9a-b7c7-ec203fc4196d/051c462dccef21d6271998666512f9e2.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/92df566f-5229-4e9a-b7c7-ec203fc4196d/051c
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

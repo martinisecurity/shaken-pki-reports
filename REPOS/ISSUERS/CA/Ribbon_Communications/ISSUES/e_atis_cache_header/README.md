@@ -21,6 +21,7 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://prod001-cr.rbbnidhub.com/frvFJbsMgz/sign-cert4` | 22&#160;Jan&#160;25&#160;17:30&#160;UTC | true | [view](../../REPOS/799db56c7560a29bf06179b16f0d05bb4ebffb01/README.md) |
 | `https://prod001-cr.rbbnidhub.com/x9lB3qynRz/0503-1ee571a983a190e433d57cceedca890b` |  | true | [view](../../REPOS/2aab03362f093963059192ef05d9c94e6b69c637/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/0X3WXxsVRz/STI-202305-1525-5f4ab88c046b1cfd58ff229698fff463` |  | true | [view](../../REPOS/2600a76149ae2352efa5c7490638ca7cf3dcd2b4/README.md) |
+| `https://prod001-prod011-cr.rbbnidhub.com/0YSEi5T4gz/STI-202401-0573-3156c0ed036cb29a1d5b4b3b653ded1b` | 29&#160;Jan&#160;25&#160;18:59&#160;UTC | true | [view](../../REPOS/e3c118b745f0286527e82ead68742f625dc187b0/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/0YSEi5T4gz/STI0573-4e1d7bf3e9c021387667c6747f042933` |  | true | [view](../../REPOS/0c876c152a0656cb241caead25298647927201cb/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/3MCvDamnRz/Aug222023-6e684a540e092145d414fcce5decbbfd` | 22&#160;Aug&#160;23&#160;16:04&#160;UTC | true | [view](../../REPOS/ee2c359d1ddf94c1124760cd8b60b9ec829298bc/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/4R6YvcB4gz/STI-202303-2059-574780b87e516b53aa6a2bce87b791a6` |  | true | [view](../../REPOS/44f325d32ac70fa97d06a8cb85406e2e0fdc1832/README.md) |
@@ -31,16 +32,19 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://prod001-prod011-cr.rbbnidhub.com/AJ8dubyVgz/STI-202405-3229-587575df46a980d94ab9206e51351f8f` | 13&#160;May&#160;25&#160;22:02&#160;UTC | true | [view](../../REPOS/250dc71270db9f5115bd4308d6c5070d03980e75/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/DUIDRwfVgz/10000-6fcc9648f6bec955b83d512a6d0830bb` | 26&#160;Apr&#160;24&#160;16:22&#160;UTC | true | [view](../../REPOS/f54d8ac5880dfa584c0be5b953b8f891675748de/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/DdpJt757Rz/STI-202304-3196-17c4d8150bc3db2f710070278713bc57` | 02&#160;Apr&#160;24&#160;21:08&#160;UTC | true | [view](../../REPOS/d6728ad266cdddc6cc333bf8112c3af8da405bae/README.md) |
+| `https://prod001-prod011-cr.rbbnidhub.com/DdpJt757Rz/STI-202404-3196-580fe194a08a84e1a7f02d7988b69fcb` | 01&#160;Apr&#160;25&#160;13:12&#160;UTC | true | [view](../../REPOS/a02e85d93c249237ddd0ae3f47f2107cbfd13d67/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/JQApas6MRz/10000-54a5c7395fcf8ebacb0d352d1d375852` | 06&#160;Jun&#160;24&#160;20:11&#160;UTC | true | [view](../../REPOS/7a53d05c224fe7c16d6bea5f60ccb57586891363/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/JQApas6MRz/HCTCSSNewCert2024-5d8817af116deceac13051a308069aa0` | 08&#160;May&#160;25&#160;17:05&#160;UTC | true | [view](../../REPOS/1c12871b03f1604da41a1dd45a55542187434a8e/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/Jx6yR-yMgz/620J202304-401f156c7342aa701f6e8bb3d26c0ecf` | 02&#160;Apr&#160;24&#160;22:02&#160;UTC | true | [view](../../REPOS/5d76af14f84934b93db6ebf27dcea0387644808d/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/Jx6yR-yMgz/620J202404-12afc01d0771f0ba2e7acb9f79b30aad` | 15&#160;Feb&#160;25&#160;19:41&#160;UTC | true | [view](../../REPOS/5dafe503c21c875d8eb34f596d811f1747a761ee/README.md) |
+| `https://prod001-prod011-cr.rbbnidhub.com/MU7B8iqMRz/STI-0377-20250115` | 15&#160;Jan&#160;25&#160;17:22&#160;UTC | true | [view](../../REPOS/13d20d38782c5f1f6ec4fee134c2377d4878fe02/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/MU7B8iqMRz/STI0377` |  | true | [view](../../REPOS/45b7b184396b766d5e533f0066d46caf7f0857e2/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/MudcHJqGRz/LibertyJune2024` | 13&#160;Jun&#160;24&#160;16:19&#160;UTC | true | [view](../../REPOS/1b1e7cc3b6b3e129397e4dc2e132f0a26f177de0/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/MudcHJqGRz/Libertyjune2025` | 05&#160;Jun&#160;25&#160;13:24&#160;UTC | true | [view](../../REPOS/d85081260178a0b7f555ce6b6dd6cdf33a7250c5/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/OaPccQ6Mgz/STI-062024-846B` | 20&#160;May&#160;25&#160;16:31&#160;UTC | true | [view](../../REPOS/9dce473289326d3315ac451e221046364c1553f2/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/OesNvM4ngz/1` |  | true | [view](../../REPOS/cbeb7637140bcf88acc5442aee4344eb8998260b/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/OesNvM4ngz/3` | 09&#160;Jul&#160;24&#160;16:37&#160;UTC | true | [view](../../REPOS/38a3ce0f32b33fa46d6b96417e492c2492e50978/README.md) |
+| `https://prod001-prod011-cr.rbbnidhub.com/OesNvM4ngz/5` | 18&#160;Jun&#160;25&#160;18:37&#160;UTC | true | [view](../../REPOS/e41aa8bd98ce66896883535d2ee491fc15478b2a/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/Pl0wdQeMRz/STI20220348` | 05&#160;Jul&#160;23&#160;23:04&#160;UTC | true | [view](../../REPOS/3136c2c052a150347feb0d8667f04f94c9057339/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/Pl0wdQeMRz/STI20230348` | 28&#160;Jun&#160;24&#160;19:43&#160;UTC | true | [view](../../REPOS/37f41ec9de8b46898a4533a249d86486ababdd57/README.md) |
 | `https://prod001-prod011-cr.rbbnidhub.com/R3kZfzj7gz/STI-202306-2130-3e01a84e6a320c2e0d9baf5cbeb11f38` |  | true | [view](../../REPOS/27d57f28c076ad1184944b05733e072da1f0685a/README.md) |
@@ -73,4 +77,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://prod001-prod011-cr.rbbnidhub.com/z9Ih9bs4Rz/STI-0974-2023-1df96aa7006c73b0c4228c26728e82c7` |  | true | [view](../../REPOS/b8c7f90be9bf0a1990f109511d416ed637179afc/README.md) |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 140K
 
-Tested At: 26 Aug 24 17:44 UTC\
+Tested At: 04 Oct 24 15:46 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -294 day(s)\
+Remaining Validity Period: -333 day(s)\
 Subject: CN=SHAKEN 140K, O=IP Communications\\, LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/ded2dd05-658d-4b95-9554-d30e2f15e26b/780f1ebd822d72489ba101826a5aa91f.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/ded2dd05-658d-4b95-9554-d30e2f15e26b/780f
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

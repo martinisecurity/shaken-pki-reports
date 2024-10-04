@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 019K
 
-Tested At: 26 Aug 24 17:44 UTC\
+Tested At: 04 Oct 24 15:42 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -53 day(s)\
+Remaining Validity Period: -92 day(s)\
 Subject: CN=SHAKEN 019K, O=InComm, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/9dddba71-1c41-426f-b60d-e6ee2f306bd0/8ab525b71083c1d0655fb5c8cd0d4b2d.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/9dddba71-1c41-426f-b60d-e6ee2f306bd0/8ab5
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

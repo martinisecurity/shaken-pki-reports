@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 719k
 
-Tested At: 26 Aug 24 17:57 UTC\
+Tested At: 04 Oct 24 16:23 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 115 day(s)\
+Remaining Validity Period: 76 day(s)\
 Subject: CN=SHAKEN 719k, O=925 Telecom LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/765ab8defea02c4a4de45048909cf0c21946154f
@@ -13,8 +13,8 @@ Link: https://ssc.getsipnav.com/certs/765ab8defea02c4a4de45048909cf0c21946154f
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_tn_auth_list_spc_format](../../ISSUES/e_atis_tn_auth_list_spc_format/README.md) | error | ATIS1000080 | the SPC value '719k' contains characters other than uppercase letters and numbers |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_atis_tn_auth_list_spc_format](../../ISSUES/e_atis_tn_auth_list_spc_format/README.md) | error | ATIS1000080 | the SPC value '719k' contains characters other than uppercase letters and numbers |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

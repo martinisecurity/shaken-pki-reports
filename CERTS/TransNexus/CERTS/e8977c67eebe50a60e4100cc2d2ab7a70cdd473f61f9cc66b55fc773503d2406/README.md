@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 738K
 
-Tested At: 26 Aug 24 17:44 UTC\
+Tested At: 04 Oct 24 15:45 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -34 day(s)\
+Remaining Validity Period: -72 day(s)\
 Subject: CN=SHAKEN 738K, O=Skytel Digicom\\ , C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/dbc3fe51-97bc-4b64-b9c3-6460f0ca4730/9aad3e89f95d0b1cd890aced76eb10bb.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/dbc3fe51-97bc-4b64-b9c3-6460f0ca4730/9aad
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

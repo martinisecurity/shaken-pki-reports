@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 577F
 
-Tested At: 26 Aug 24 17:45 UTC\
+Tested At: 04 Oct 24 15:49 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -55 day(s)\
+Remaining Validity Period: -94 day(s)\
 Subject: CN=SHAKEN 577F, O=Ringsquared, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/577F/6e66d7f2-d512-4385-838d-37e2801ddb67.pem
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/577F/6e66d7f2-d512-4385-838d-37e2801dd
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

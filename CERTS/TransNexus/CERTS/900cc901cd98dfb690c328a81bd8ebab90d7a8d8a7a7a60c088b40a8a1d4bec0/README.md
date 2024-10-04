@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 7551
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:36 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -376 day(s)\
+Remaining Validity Period: -415 day(s)\
 Subject: CN=SHAKEN 7551, O=Bestline Communications LP, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/3f2780c4-0fd8-4154-8f54-695084bbbd79/c5396cc7c40b23afa3fb7d82c432bea9.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/3f2780c4-0fd8-4154-8f54-695084bbbd79/c539
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

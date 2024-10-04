@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 979K
 
-Tested At: 26 Aug 24 17:44 UTC\
+Tested At: 04 Oct 24 15:47 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: 2 day(s)\
+Remaining Validity Period: -37 day(s)\
 Subject: CN=SHAKEN 979K, O=Vonexta Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/fa22aea7-f5b1-4b52-a587-bc3e7bfbcafd/117c510bf3fedcc1068cbdd326e0309e.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/fa22aea7-f5b1-4b52-a587-bc3e7bfbcafd/117c
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

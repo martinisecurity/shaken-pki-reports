@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 912K
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:31 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -47 day(s)\
+Remaining Validity Period: -86 day(s)\
 Subject: CN=SHAKEN 912K, O=BBIT LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/0449db64-4795-4735-b359-8dec139b2913/9fe9111682ba8d9d296a84b1b81122d2.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/0449db64-4795-4735-b359-8dec139b2913/9fe9
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

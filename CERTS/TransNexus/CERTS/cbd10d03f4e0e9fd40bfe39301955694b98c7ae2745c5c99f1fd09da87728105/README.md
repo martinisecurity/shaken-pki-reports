@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1577
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:38 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -83 day(s)\
+Remaining Validity Period: -121 day(s)\
 Subject: CN=SHAKEN 1577, O=Great Plains Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/5e573b0a-6141-441b-bedb-f350aa71625f/e6247169cfe829619665e2f75d925019.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/5e573b0a-6141-441b-bedb-f350aa71625f/e624
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

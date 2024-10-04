@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 755K
 
-Tested At: 26 Aug 24 17:44 UTC\
+Tested At: 04 Oct 24 15:47 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: 0 day(s)\
+Remaining Validity Period: -38 day(s)\
 Subject: CN=SHAKEN 755K, O=Brightridge Broadband, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/ee50b256-f0fb-4733-8444-bfa453d1b53d/b9f2e330bc372cb1ae6667d37c21d4fc.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/ee50b256-f0fb-4733-8444-bfa453d1b53d/b9f2
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

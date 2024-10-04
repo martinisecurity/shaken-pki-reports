@@ -2,9 +2,9 @@
 
 ## Certificate ccctelecom.com
 
-Tested At: 26 Aug 24 18:01 UTC\
+Tested At: 04 Oct 24 16:26 UTC\
 Initial Validity Period: 364 day(s)\
-Remaining Validity Period: 156 day(s)\
+Remaining Validity Period: 117 day(s)\
 Subject: CN=ccctelecom.com, OU=VOIP, O=Carrier Connect Corp, ST=TX, C=US\
 Issuer: CN=SHAKEN 1RouteGroup Intermediate CA, O=1RouteGroup, ST=Texas, C=US\
 Link: https://www.ccctelecom.com/816K.pem
@@ -13,9 +13,9 @@ Link: https://www.ccctelecom.com/816K.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common Name attribute 'ccctelecom.com' does not contain 'SHAKEN' |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 816K', but common name is 'ccctelecom.com' |
 | [e_atis_serial_number_size](../../ISSUES/e_atis_serial_number_size/README.md) | error | ATIS1000080 | STI certificates shall have a serial number that contains at least 64 bits, got 13 |
+| [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common Name attribute 'ccctelecom.com' does not contain 'SHAKEN' |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

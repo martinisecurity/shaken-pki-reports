@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Ribbon Issuing CA 2
 
-Tested At: 26 Aug 24 18:03 UTC\
+Tested At: 04 Oct 24 16:29 UTC\
 Initial Validity Period: 4383 day(s)\
-Remaining Validity Period: 4216 day(s)\
+Remaining Validity Period: 4177 day(s)\
 Subject: CN=SHAKEN Ribbon Issuing CA 2, OU=Certification Authority, O=Ribbon Communications, C=US\
 Issuer: CN=SHAKEN Ribbon Root CA, OU=Certification Authority, O=Ribbon Communications, C=US
 
@@ -15,4 +15,4 @@ Issuer: CN=SHAKEN Ribbon Root CA, OU=Certification Authority, O=Ribbon Communica
 | [e_atis_ext_crl_distribution_struct_ca](../../ISSUES/e_atis_ext_crl_distribution_struct_ca/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

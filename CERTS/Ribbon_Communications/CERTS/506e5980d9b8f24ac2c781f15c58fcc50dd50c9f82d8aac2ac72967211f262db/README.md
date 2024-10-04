@@ -2,9 +2,9 @@
 
 ## Certificate Peoples SHAKEN 2130
 
-Tested At: 26 Aug 24 17:56 UTC\
+Tested At: 04 Oct 24 16:23 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 284 day(s)\
+Remaining Validity Period: 245 day(s)\
 Subject: CN=Peoples SHAKEN 2130, OU=STI, O=Peoples, C=US, ST=TX, L=Quitman\
 Issuer: CN=SHAKEN Ribbon Issuing CA 2, OU=Certification Authority, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/R3kZfzj7gz/STI-202406-2130-580fe194a08a84e1a7f02d7988b69fcb
@@ -16,4 +16,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/R3kZfzj7gz/STI-202406-2130-580fe1
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

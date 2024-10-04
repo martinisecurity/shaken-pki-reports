@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 700H
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:34 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -587 day(s)\
+Remaining Validity Period: -626 day(s)\
 Subject: CN=SHAKEN 700H, O=Metro Fibernet LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/22b6cee0-8559-4c73-8092-6eee861c4b49/d078be797c75963e6c4e8c120116ceec.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/22b6cee0-8559-4c73-8092-6eee861c4b49/d078
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

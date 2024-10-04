@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 747J
 
-Tested At: 26 Aug 24 17:44 UTC\
+Tested At: 04 Oct 24 15:42 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -6 day(s)\
+Remaining Validity Period: -45 day(s)\
 Subject: CN=SHAKEN 747J, O=Magic Apple, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/9e31f6fe-cfd3-49cc-b9fc-22963012a8d7/d78ad8725c441bd88df980bcefccf5b6.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/9e31f6fe-cfd3-49cc-b9fc-22963012a8d7/d78a
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

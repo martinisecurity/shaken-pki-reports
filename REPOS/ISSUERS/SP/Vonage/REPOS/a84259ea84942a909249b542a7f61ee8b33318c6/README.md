@@ -3,8 +3,8 @@
 ## Vonage
 
 Name: `https://sticr-cstga.ccid.neustar/api/v1/certificate/28c84da8827709c092d8ced9d19cf206.pem`\
-Tested At: 26 Aug 24 17:59 UTC\
-Time: 509ms
+Tested At: 04 Oct 24 16:25 UTC\
+Time: 108ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 509ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

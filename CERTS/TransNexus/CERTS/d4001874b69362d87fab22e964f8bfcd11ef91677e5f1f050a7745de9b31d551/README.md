@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 888J
 
-Tested At: 26 Aug 24 17:44 UTC\
+Tested At: 04 Oct 24 15:46 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -496 day(s)\
+Remaining Validity Period: -535 day(s)\
 Subject: CN=SHAKEN 888J, O=LightSpar, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/e2e5ceb4-de54-4a67-8956-519eb3fd615c/7eb4102d0e61e604a37b704b58763ebc.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/e2e5ceb4-de54-4a67-8956-519eb3fd615c/7eb4
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

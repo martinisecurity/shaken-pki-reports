@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 393K
+
+Tested At: 04 Oct 24 15:53 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 222 day(s)\
+Subject: CN=SHAKEN 393K, O=Genesys Telecom US, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11981.10437.pem
+
+[View certificate details](https://x509.io/?cert=MIIDBjCCAqygAwIBAgIUF185gmZNEejgb%2BoYiijr6tD05twwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI0MDUxMzE5MzYxOVoXDTI1MDUxMzE5MzYxOVowQDELMAkGA1UEBhMCVVMxGzAZBgNVBAoMEkdlbmVzeXMgVGVsZWNvbSBVUzEUMBIGA1UEAwwLU0hBS0VOIDM5M0swWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATAJtE3fDVTPdXQNymWqsHgIyQ81yn6uT%2F31dzK6fy5oX6kNV%2FRNsyPDWGn4POMSvmR21t7X3y4zQED41IM87h4o4IBPDCCATgwFgYIKwYBBQUHARoECjAIoAYWBDM5M0swDAYDVR0TAQH%2FBAIwADAfBgNVHSMEGDAWgBSCThX%2F%2Fp9qZ1HkyJfHbXTD%2FGVFeDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMB0GA1UdDgQWBBT3cWDPs1XoQEcfvFbHht1QxeRIkzAOBgNVHQ8BAf8EBAMCB4AwCgYIKoZIzj0EAwIDSAAwRQIhAIdCDVROCODdndsIFKAsWH68e6yz%2BEgQ3n2VddQWbzndAiBGAVXTg40Q9s3KXl00ZdlAZ9Ox39qziLQJwTd1OQwc5w%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 04 Oct 24 16:29 UTC

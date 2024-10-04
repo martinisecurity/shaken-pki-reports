@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1917
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:36 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -277 day(s)\
+Remaining Validity Period: -316 day(s)\
 Subject: CN=SHAKEN 1917, O=Andrew Ward Consulting LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/450ef25e-eefe-418d-84fb-35222046f1cd/2fe735d9b951d0a5510d8db407af0399.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/450ef25e-eefe-418d-84fb-35222046f1cd/2fe7
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

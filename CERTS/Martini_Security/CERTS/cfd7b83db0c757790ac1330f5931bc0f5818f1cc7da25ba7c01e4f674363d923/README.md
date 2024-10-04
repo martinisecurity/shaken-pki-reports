@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 088J
 
-Tested At: 26 Aug 24 17:56 UTC\
+Tested At: 04 Oct 24 16:22 UTC\
 Initial Validity Period: 5 day(s)\
-Remaining Validity Period: -103 day(s)\
+Remaining Validity Period: -142 day(s)\
 Subject: O=IPtelX\\, LLC, C=US, serialNumber=EBD4BF536A3DDFF515A59CA353B23275, CN=SHAKEN 088J\
 Issuer: CN=Martini Security SHAKEN G3, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2e5a/YefPQxj09kE3.pem
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2e5a/YefPQxj09kE3.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

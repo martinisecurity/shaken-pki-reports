@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 291K
 
-Tested At: 26 Aug 24 17:44 UTC\
+Tested At: 04 Oct 24 15:43 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -662 day(s)\
+Remaining Validity Period: -700 day(s)\
 Subject: CN=SHAKEN 291K, OU=SHAKEN, O=Hypercore Networks\\, Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/b66a7496-cdd4-46e3-b219-cb0ecdc80d22/dd9ef96fbf98f0935e2baf5a0813aabc.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/b66a7496-cdd4-46e3-b219-cb0ecdc80d22/dd9e
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

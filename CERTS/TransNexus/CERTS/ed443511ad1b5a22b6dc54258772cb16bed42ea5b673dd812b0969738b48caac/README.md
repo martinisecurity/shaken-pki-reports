@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0360
 
-Tested At: 26 Aug 24 17:44 UTC\
+Tested At: 04 Oct 24 15:44 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -230 day(s)\
+Remaining Validity Period: -269 day(s)\
 Subject: CN=SHAKEN 0360, O=Ellijay Telephone Company (ETC Communications), C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/c5fc4b46-a2ed-4902-a1af-7d8538ab4581/e85d030f6d6c8bceafe4e70f6ab5caff.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/c5fc4b46-a2ed-4902-a1af-7d8538ab4581/e85d
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

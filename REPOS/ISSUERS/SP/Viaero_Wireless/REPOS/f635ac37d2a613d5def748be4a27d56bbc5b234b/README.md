@@ -3,8 +3,8 @@
 ## Viaero Wireless
 
 Name: `https://cdn-cr.cgah.tnsi.com/certs/707a2acb3852ef80a0144461abbbf848dfe45b51`\
-Tested At: 26 Aug 24 17:42 UTC\
-Time: 10ms
+Tested At: 04 Oct 24 15:31 UTC\
+Time: 63ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 10ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

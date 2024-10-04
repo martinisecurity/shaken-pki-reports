@@ -2,9 +2,9 @@
 
 ## Certificate Ribbon SHAKEN 2086
 
-Tested At: 26 Aug 24 17:56 UTC\
+Tested At: 04 Oct 24 16:23 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -80 day(s)\
+Remaining Validity Period: -119 day(s)\
 Subject: CN=Ribbon SHAKEN 2086, OU=Network Operations, O=Hill Country Telephone Cooperative, C=US\
 Issuer: CN=SHAKEN Ribbon Issuing CA, OU=Certification Authorities, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/JQApas6MRz/10000-54a5c7395fcf8ebacb0d352d1d375852
@@ -17,4 +17,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/JQApas6MRz/10000-54a5c7395fcf8eba
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.5.5.7.1.1 |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate USCellular SHAKEN Cert 6349
 
-Tested At: 26 Aug 24 17:57 UTC\
+Tested At: 04 Oct 24 16:23 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 931 day(s)\
+Remaining Validity Period: 892 day(s)\
 Subject: CN=USCellular SHAKEN Cert 6349, OU=QCall, O=USCC, L=Schaumburg, ST=Illinois, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://robocall.sti.uscellular.com/certs/uscellular2024certchain.crt
@@ -13,9 +13,9 @@ Link: https://robocall.sti.uscellular.com/certs/uscellular2024certchain.crt
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 6349', but common name is 'USCellular SHAKEN Cert 6349' |
-| [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 6349', but common name is 'USCellular SHAKEN Cert 6349' |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

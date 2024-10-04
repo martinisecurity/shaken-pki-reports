@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Phone.com, Inc. 633J
 
-Tested At: 26 Aug 24 17:48 UTC\
+Tested At: 04 Oct 24 16:07 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -173 day(s)\
+Remaining Validity Period: -212 day(s)\
 Subject: CN=SHAKEN Phone.com\\, Inc. 633J, OU=voipteam, O=Phone.com\\, Inc., ST=New Jersey, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/633J/429C7C70711E3820F0B8E1DEAE6FF326226490AA.pem
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/633J/429C7C70711E3820F0B8E1DEAE6FF326226490AA.pem
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

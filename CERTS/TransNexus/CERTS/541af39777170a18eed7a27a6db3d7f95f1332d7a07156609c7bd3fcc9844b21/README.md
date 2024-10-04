@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 497K
 
-Tested At: 26 Aug 24 17:43 UTC\
+Tested At: 04 Oct 24 15:36 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -61 day(s)\
+Remaining Validity Period: -100 day(s)\
 Subject: CN=SHAKEN 497K, O=Allegiant, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/3f331bc8-22e6-4a32-8b59-58d7c03763a3/8769e9804a11c41acc3ca5ff9db2614a.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/3f331bc8-22e6-4a32-8b59-58d7c03763a3/8769
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

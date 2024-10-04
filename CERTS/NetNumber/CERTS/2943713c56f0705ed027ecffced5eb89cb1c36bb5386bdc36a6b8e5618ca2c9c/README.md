@@ -2,9 +2,9 @@
 
 ## Certificate DISH Wireless L.L.C.SHAKEN.490J
 
-Tested At: 26 Aug 24 18:01 UTC\
+Tested At: 04 Oct 24 16:26 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 59 day(s)\
+Remaining Validity Period: 20 day(s)\
 Subject: L=Denver, ST=CO, OU=Security Operations, O=Dish Wireless, C=US, CN=DISH Wireless L.L.C.SHAKEN.490J\
 Issuer: L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN Root Intermediate CA 1\
 Link: https://stsh.dish-wireless.com/pubsti.pem
@@ -18,4 +18,4 @@ Link: https://stsh.dish-wireless.com/pubsti.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 490J', but common name is 'DISH Wireless L.L.C.SHAKEN.490J' |
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC

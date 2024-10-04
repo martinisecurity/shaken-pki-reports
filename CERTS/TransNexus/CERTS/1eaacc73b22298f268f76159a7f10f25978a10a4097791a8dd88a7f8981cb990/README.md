@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 366G
 
-Tested At: 26 Aug 24 17:44 UTC\
+Tested At: 04 Oct 24 15:46 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -614 day(s)\
+Remaining Validity Period: -653 day(s)\
 Subject: CN=SHAKEN 366G, O=USA Digital, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/e9497931-96b3-4ff8-8306-1b1273847a4d/49ed6d11dfc9501d39b35f0de68432df.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/e9497931-96b3-4ff8-8306-1b1273847a4d/49ed
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 26 Aug 24 18:03 UTC
+Generated: 04 Oct 24 16:29 UTC
