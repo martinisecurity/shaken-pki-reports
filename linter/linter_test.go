@@ -1,11 +1,13 @@
 package linter_test
 
 import (
+	"net"
 	"net/http"
 	"net/http/httptest"
 	"net/url"
 	"reflect"
 	"testing"
+	"time"
 
 	"github.com/martinisecurity/shaken-pki-reports/lint"
 	"github.com/martinisecurity/shaken-pki-reports/linter"
@@ -37,7 +39,16 @@ func TestLintUrl_HttpStatus404(t *testing.T) {
 }
 
 func TestLintUrl_AtisContentType(t *testing.T) {
-	u, _ := url.Parse("https://cr.sansay.com/548J/order/144_548J_67")
+	// Mock server without the expected Content-Type header
+	ts := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		w.WriteHeader(http.StatusOK)
+		// No Content-Type or a different one, to trigger the warning
+		w.Header().Set("Content-Type", "text/plain")
+		_, _ = w.Write([]byte("mock body"))
+	}))
+	defer ts.Close()
+
+	u, _ := url.Parse(ts.URL)
 	res := linter.LintUrl(u)
 
 	want := &lint.LintResult{
@@ -51,54 +62,145 @@ func TestLintUrl_AtisContentType(t *testing.T) {
 
 func TestLintUrl_AtisProtocol(t *testing.T) {
 	code := "w_atis_protocol"
-	tests := []struct {
-		name string
-		url  string
-		code string
-		want *lint.LintResult
-	}{
-		{
-			name: "https url with default port",
-			url:  "https://api.alianza.com/v2/stir-shaken/certs/b45a4083-1554-4412-b5fc-bbd2c027091e/key.crt",
-			code: code,
-			want: &lint.LintResult{
-				Status: lint.Pass,
-			},
-		},
-		{
-			name: "https url with port 443",
-			url:  "https://api.alianza.com:443/v2/stir-shaken/certs/b45a4083-1554-4412-b5fc-bbd2c027091e/key.crt",
-			code: code,
-			want: &lint.LintResult{
-				Status: lint.Pass,
-			},
-		},
-		{
-			name: "https url with port 8080",
-			url:  "https://187.174.67.118:8080/7075515eb2d150fc98c43e794c07bbca.cer",
-			code: code,
-			want: &lint.LintResult{
-				Status:  lint.Warn,
-				Details: "The verifier should not dereference any protocol other than https or a port other than 443 or 8443",
-			},
-		},
-		{
-			name: "http url",
-			url:  "http://sti.comsapi.com/258k/ca.crt",
-			code: code,
-			want: &lint.LintResult{
-				Status:  lint.Warn,
-				Details: "The verifier should not dereference any protocol other than https or a port other than 443 or 8443",
-			},
-		},
-	}
-	for _, tt := range tests {
-		t.Run(tt.name, func(t *testing.T) {
-			u, _ := url.Parse(tt.url)
-			res := linter.LintUrl(u)
-			if got := res.Results[tt.code]; !reflect.DeepEqual(got, tt.want) {
-				t.Errorf("lint.LintUrl() = %v, want %v", got, tt.want)
-			}
+
+	// Helper: start a TLS server bound to a specific addr (e.g., 127.0.0.1:8443)
+	startTLSServerOn := func(addr string) (*httptest.Server, func()) {
+		handler := http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+			w.WriteHeader(http.StatusOK)
+			_, _ = w.Write([]byte("ok"))
 		})
+		ts := httptest.NewUnstartedServer(handler)
+		l, err := net.Listen("tcp", addr)
+		if err != nil {
+			// If the port is taken or unavailable, skip this test case.
+			t.Skipf("unable to listen on %s: %v", addr, err)
+		}
+		ts.Listener = l
+		ts.StartTLS()
+		return ts, ts.Close
+	}
+
+	t.Run("https on 8443 (pass)", func(t *testing.T) {
+		// Bind to 127.0.0.1:8443 to satisfy allowed port rule
+		ts, cleanup := startTLSServerOn("127.0.0.1:8443")
+		defer cleanup()
+		u, _ := url.Parse(ts.URL)
+		res := linter.LintUrl(u)
+		want := &lint.LintResult{Status: lint.Pass}
+		if got := res.Results[code]; !reflect.DeepEqual(got, want) {
+			t.Errorf("lint.LintUrl() = %v, want %v", got, want)
+		}
+	})
+
+	t.Run("https on random port (warn)", func(t *testing.T) {
+		ts := httptest.NewTLSServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+			w.WriteHeader(http.StatusOK)
+			_, _ = w.Write([]byte("ok"))
+		}))
+		defer ts.Close()
+		u, _ := url.Parse(ts.URL)
+		res := linter.LintUrl(u)
+		want := &lint.LintResult{
+			Status:  lint.Warn,
+			Details: "The verifier should not dereference any protocol other than https or a port other than 443 or 8443",
+		}
+		if got := res.Results[code]; !reflect.DeepEqual(got, want) {
+			t.Errorf("lint.LintUrl() = %v, want %v", got, want)
+		}
+	})
+
+	t.Run("http url (warn)", func(t *testing.T) {
+		ts := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+			w.WriteHeader(http.StatusOK)
+			_, _ = w.Write([]byte("ok"))
+		}))
+		defer ts.Close()
+		u, _ := url.Parse(ts.URL)
+		res := linter.LintUrl(u)
+		want := &lint.LintResult{
+			Status:  lint.Warn,
+			Details: "The verifier should not dereference any protocol other than https or a port other than 443 or 8443",
+		}
+		if got := res.Results[code]; !reflect.DeepEqual(got, want) {
+			t.Errorf("lint.LintUrl() = %v, want %v", got, want)
+		}
+	})
+}
+
+func TestLintUrl_RequestTimeout(t *testing.T) {
+	// Server that sleeps longer than client timeout (3s)
+	ts := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		// Sleep to trigger client timeout
+		<-time.After(5 * time.Second)
+		w.WriteHeader(http.StatusOK)
+		_, _ = w.Write([]byte("late"))
+	}))
+	defer ts.Close()
+
+	u, _ := url.Parse(ts.URL)
+	res := linter.LintUrl(u)
+
+	got := res.Results["e_request_timeout"]
+	if got == nil || got.Status != lint.Error {
+		t.Fatalf("expected e_request_timeout error, got %v", got)
+	}
+}
+
+func TestLintUrl_TLSInsecureFallback(t *testing.T) {
+	// Start a TLS server with self-signed cert. First request with verification should fail.
+	ts := httptest.NewTLSServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		w.WriteHeader(http.StatusOK)
+		_, _ = w.Write([]byte("ok"))
+	}))
+	defer ts.Close()
+
+	u, _ := url.Parse(ts.URL)
+	res := linter.LintUrl(u)
+
+	got := res.Results["e_tls_transport"]
+	if got == nil || got.Status != lint.Error {
+		t.Fatalf("expected e_tls_transport error, got %v", got)
+	}
+	if got.Details == "" {
+		t.Errorf("expected non-empty details for e_tls_transport")
+	}
+}
+
+func TestLintUrl_BadURLScheme(t *testing.T) {
+	// Unsupported scheme should produce e_bad_url
+	u, _ := url.Parse("bad://host/path")
+	res := linter.LintUrl(u)
+
+	got := res.Results["e_bad_url"]
+	if got == nil || got.Status != lint.Error {
+		t.Fatalf("expected e_bad_url error, got %v", got)
+	}
+	if got.Details == "" {
+		t.Errorf("expected non-empty details for e_bad_url")
+	}
+}
+
+func TestLintUrl_RedirectDetection(t *testing.T) {
+	// First request returns 200, second (used for redirect check) returns a redirect
+	var count int
+	ts := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		if count == 0 {
+			count++
+			w.WriteHeader(http.StatusOK)
+			_, _ = w.Write([]byte("ok"))
+			return
+		}
+		// On subsequent call, redirect
+		http.Redirect(w, r, "/next", http.StatusFound)
+	}))
+	defer ts.Close()
+
+	u, _ := url.Parse(ts.URL)
+	res := linter.LintUrl(u)
+
+	got := res.Results["e_atis_redirect"]
+	want := &lint.LintResult{Status: lint.Error, Details: "The STI-VS shall not follow HTTP redirections"}
+	if !reflect.DeepEqual(got, want) {
+		t.Errorf("expected redirect error %v, got %v", want, got)
 	}
 }
