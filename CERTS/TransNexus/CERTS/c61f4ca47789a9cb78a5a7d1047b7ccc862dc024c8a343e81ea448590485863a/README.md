@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0413
 
-Tested At: 04 Oct 24 15:41 UTC\
+Tested At: 18 Aug 25 20:10 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -18 day(s)\
+Remaining Validity Period: -336 day(s)\
 Subject: CN=SHAKEN 0413, O=LTC Connect, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/8ce491b1-fe41-4316-b217-a55ef4efe9d8/b69f649cd550cddf5b25df1b3ed0e741.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/8ce491b1-fe41-4316-b217-a55ef4efe9d8/b69f
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

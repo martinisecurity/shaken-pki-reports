@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 856H
 
-Tested At: 04 Oct 24 15:35 UTC\
+Tested At: 18 Aug 25 20:07 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -473 day(s)\
+Remaining Validity Period: -792 day(s)\
 Subject: CN=SHAKEN 856H, O=Mix Networks Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/357a731f-0148-4a23-9fdf-41c8734c23a7/ef8861f96423f09c9e9bf51581aec528.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/357a731f-0148-4a23-9fdf-41c8734c23a7/ef88
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

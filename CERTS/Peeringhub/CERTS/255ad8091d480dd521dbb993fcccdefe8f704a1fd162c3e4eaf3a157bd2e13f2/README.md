@@ -2,9 +2,9 @@
 
 ## Certificate Dialzilla SHAKEN 507K
 
-Tested At: 04 Oct 24 15:48 UTC\
+Tested At: 18 Aug 25 20:14 UTC\
 Initial Validity Period: 31 day(s)\
-Remaining Validity Period: -357 day(s)\
+Remaining Validity Period: -675 day(s)\
 Subject: CN=Dialzilla SHAKEN 507K, O=Dialzilla, L=SHERDIAN, ST=DE, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://certificates.peeringhub.io/507K/507K.crt
@@ -16,4 +16,4 @@ Link: https://certificates.peeringhub.io/507K/507K.crt
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

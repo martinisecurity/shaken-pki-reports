@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN InteractiveTel, LLC 920J
 
-Tested At: 04 Oct 24 16:13 UTC\
+Tested At: 18 Aug 25 20:46 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -652 day(s)\
+Remaining Validity Period: -970 day(s)\
 Subject: emailAddress=jfindley@interactivetel.com, CN=SHAKEN InteractiveTel\\, LLC 920J, OU=NOC, O=InteractiveTel\\, LLC, ST=Texas, C=US, emailAddress=jfindley@interactivetel.com\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/920J/order/157_920J_66
@@ -26,4 +26,4 @@ Link: https://cr.sansay.com/920J/order/157_920J_66
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

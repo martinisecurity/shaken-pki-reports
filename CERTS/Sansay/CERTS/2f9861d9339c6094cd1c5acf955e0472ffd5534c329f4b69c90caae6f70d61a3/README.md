@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Identidad Advertising Development LLC 617K
 
-Tested At: 04 Oct 24 16:07 UTC\
+Tested At: 18 Aug 25 20:37 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 166 day(s)\
+Remaining Validity Period: -153 day(s)\
 Subject: CN=SHAKEN Identidad Advertising Development LLC 617K, OU=IT-VOIP, O=Identidad Advertising Development LLC, ST=Florida, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/617K/429C7C70711E3820F0B8E1DEAE6FF326226495E6.pem
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/617K/429C7C70711E3820F0B8E1DEAE6FF326226495E6.pem
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

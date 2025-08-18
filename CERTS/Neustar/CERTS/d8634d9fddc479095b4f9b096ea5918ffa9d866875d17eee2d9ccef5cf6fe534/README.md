@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 1558
+
+Tested At: 18 Aug 25 20:17 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 205 day(s)\
+Subject: CN=SHAKEN 1558, O=Mobius Communications Co, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/247.384
+
+[View certificate details](https://x509.io/?cert=MIIDDDCCArKgAwIBAgIUH%2BHlDsk0%2BwXtAk%2Be4RRvkDixI8gwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI1MDMxMTE3MTUzM1oXDTI2MDMxMTE3MTUzM1owRjELMAkGA1UEBhMCVVMxITAfBgNVBAoMGE1vYml1cyBDb21tdW5pY2F0aW9ucyBDbzEUMBIGA1UEAwwLU0hBS0VOIDE1NTgwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATOS6dC9mArwT%2BjNNYT1pv9FdjDONQnTrRrAFPSFaYtKKwYo8tRH2C0NJMt7H4VYgE5QUwNK6tjNudANed4KARio4IBPDCCATgwFgYIKwYBBQUHARoECjAIoAYWBDE1NTgwDAYDVR0TAQH%2FBAIwADAfBgNVHSMEGDAWgBSCThX%2F%2Fp9qZ1HkyJfHbXTD%2FGVFeDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMB0GA1UdDgQWBBSQDsdL862pgjrZyoNSAdfA9A%2FXqjAOBgNVHQ8BAf8EBAMCB4AwCgYIKoZIzj0EAwIDSAAwRQIhAOp%2F%2Bh99eYRfs77X4fbOQBoHOoh0kk3NgXniE7BA%2BNlWAiBzhT%2BSnA6g9znBrG3UxYnqzT%2Fw95qJoOCvK%2BTIMfxSAQ%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 18 Aug 25 21:13 UTC

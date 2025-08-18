@@ -2,9 +2,9 @@
 
 ## Certificate Everstream SHAKEN 472C
 
-Tested At: 04 Oct 24 15:31 UTC\
+Tested At: 18 Aug 25 20:05 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 919 day(s)\
+Remaining Validity Period: 601 day(s)\
 Subject: CN=Everstream SHAKEN 472C, O=Everstream, C=US\
 Issuer: O=Metaswitch Networks, C=GB, CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/b1bc161ddcafa35c5036dfe9b37e9b7bc16c5bcd
@@ -17,4 +17,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/b1bc161ddcafa35c5036dfe9b37e9b7bc16c5bc
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

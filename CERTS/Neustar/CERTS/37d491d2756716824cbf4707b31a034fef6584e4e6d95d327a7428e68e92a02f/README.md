@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 049K
 
-Tested At: 04 Oct 24 16:16 UTC\
+Tested At: 18 Aug 25 20:49 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -462 day(s)\
+Remaining Validity Period: -780 day(s)\
 Subject: CN=SHAKEN 049K, O=Dialpad Inc., C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://fstelephony.appspot.com/static/cert/shaken_identity_2022_3.cer
@@ -25,4 +25,4 @@ Link: https://fstelephony.appspot.com/static/cert/shaken_identity_2022_3.cer
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

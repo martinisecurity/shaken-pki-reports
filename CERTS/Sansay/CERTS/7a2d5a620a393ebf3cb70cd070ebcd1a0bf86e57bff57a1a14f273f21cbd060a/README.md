@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 886G RCLEC, INC.
+
+Tested At: 18 Aug 25 20:45 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 66 day(s)\
+Subject: CN=SHAKEN 886G RCLEC\\, INC., O=RCLEC\\, INC., C=US\
+Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
+Link: https://cr.sansay.com/886G/429C7C70711E3820F0B8E1DEAE6FF3262264AEEA.pem
+
+[View certificate details](https://x509.io/?cert=MIICqjCCAk%2BgAwIBAgIUQpx8cHEeOCDwuOHerm%2FzJiJkruowCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9ybmlhMRswGQYDVQQKDBJTYW5zYXkgQ29ycG9yYXRpb24xEjAQBgNVBAsMCVNhbnNheSBDQTEwMC4GA1UEAwwnU0hBS0VOIFNhbnNheSBJbnRlcm1lZGlhdGUgQ0EgVVMgV0VTVCAxMB4XDTI0MTAyMjIxMjY0NFoXDTI1MTAyMjIxMjY0NFowRTELMAkGA1UEBhMCVVMxFDASBgNVBAoMC1JDTEVDLCBJTkMuMSAwHgYDVQQDDBdTSEFLRU4gODg2RyBSQ0xFQywgSU5DLjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABMydFZ5kF3VqiNJ%2BhesLfk96zcGfrycR74lR8ENorAGaJqs3F7VP8CjlBTyaKDHStCdD3AetADEzk43BTKKJJa2jgdswgdgwFgYIKwYBBQUHARoECjAIoAYWBDg4NkcwFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEEMB0GA1UdDgQWBBQItfmdIOZ1aCWO%2BTMZefYVYpbFjTAfBgNVHSMEGDAWgBSs05P1Q0PMCr5FWBcTfZJ83MMBRjBHBgNVHR8EQDA%2BMDygOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmwwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwCgYIKoZIzj0EAwIDSQAwRgIhAKs8K4qEe%2BGuuJkSWBCqM0VVyL4fX2RfqgLYhIpllMCnAiEA5tfaTke7454%2FTzuMWAJHwVUnLAAT%2Fn8uE6Kk52Ksi3o%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+
+
+Generated: 18 Aug 25 21:13 UTC

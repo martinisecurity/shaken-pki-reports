@@ -2,9 +2,9 @@
 
 ## Certificate ***SHAKEN***464D
 
-Tested At: 04 Oct 24 16:26 UTC\
+Tested At: 18 Aug 25 21:09 UTC\
 Initial Validity Period: 398 day(s)\
-Remaining Validity Period: -455 day(s)\
+Remaining Validity Period: -774 day(s)\
 Subject: CN=***SHAKEN***464D, OU=VOIP, O=Fibernetics, L=Cambridge, ST=ON, C=CA\
 Issuer: CN=Neustar Canada Certified Caller ID SHAKEN CA-1, OU=www.ca.ccid.neustar, O=Neustar Information Services Inc, C=CA\
 Link: https://stir.fibernetics.ca/prod-cert2022.pem
@@ -26,4 +26,4 @@ Link: https://stir.fibernetics.ca/prod-cert2022.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

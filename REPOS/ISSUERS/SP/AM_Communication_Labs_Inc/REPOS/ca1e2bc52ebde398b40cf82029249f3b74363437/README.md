@@ -3,8 +3,8 @@
 ## AM Communication Labs Inc
 
 Name: `https://cr.veriswitch.com/amcom/0cc11d4d5142b1e7ef5957eb4c9020c8.cer`\
-Tested At: 04 Oct 24 16:15 UTC\
-Time: 155ms
+Tested At: 18 Aug 25 20:49 UTC\
+Time: 54ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 155ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

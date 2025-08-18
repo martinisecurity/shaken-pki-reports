@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN-6744
 
-Tested At: 04 Oct 24 16:23 UTC\
+Tested At: 18 Aug 25 21:05 UTC\
 Initial Validity Period: 1096 day(s)\
-Remaining Validity Period: -206 day(s)\
+Remaining Validity Period: -525 day(s)\
 Subject: C=US, ST=GA, L=Atlanta, O=Southern Linc, OU=Voice and Signaling, CN=SHAKEN-6744\
 Issuer: C=US, O=Neustar Information Services Inc, OU=www.ccid.neustar, CN=Neustar Certified Caller ID CA-1\
 Link: https://prod001-cr.rbbnidhub.com/frvFJbsMgz/sign-cert3
@@ -30,4 +30,4 @@ Link: https://prod001-cr.rbbnidhub.com/frvFJbsMgz/sign-cert3
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

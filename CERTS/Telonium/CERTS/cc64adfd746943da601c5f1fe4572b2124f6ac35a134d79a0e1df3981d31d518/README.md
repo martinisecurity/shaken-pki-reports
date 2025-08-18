@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 974K
 
-Tested At: 04 Oct 24 15:31 UTC\
+Tested At: 18 Aug 25 20:05 UTC\
 Initial Validity Period: 366 day(s)\
-Remaining Validity Period: 321 day(s)\
+Remaining Validity Period: 2 day(s)\
 Subject: serialNumber=846717C8-E608-44ED-8046-FD2AF679C6BD, CN=SHAKEN 974K, O=SIP Crew LLC, C=US\
 Issuer: CN=Telonium SHAKEN Intermediate G1, O=Telonium Communications LLC, L=Atlanta, ST=GA, C=US\
 Link: https://cdn.cnxcdn.com/shaken/58c3abfdfe.crt
@@ -14,4 +14,4 @@ Link: https://cdn.cnxcdn.com/shaken/58c3abfdfe.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

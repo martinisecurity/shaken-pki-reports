@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 133K
 
-Tested At: 04 Oct 24 15:39 UTC\
+Tested At: 18 Aug 25 20:10 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -26 day(s)\
+Remaining Validity Period: -345 day(s)\
 Subject: CN=SHAKEN 133K, O=Telnamix LTD, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/7ff4aee7-b144-456c-94be-4d682cab70f1/f803970cacfdce3c1b2345b67990aa0c.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/7ff4aee7-b144-456c-94be-4d682cab70f1/f803
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

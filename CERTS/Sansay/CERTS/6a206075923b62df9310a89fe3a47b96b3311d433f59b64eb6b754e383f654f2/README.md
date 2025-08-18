@@ -1,0 +1,20 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN Voiply, LLC 987J
+
+Tested At: 18 Aug 25 20:47 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 177 day(s)\
+Subject: CN=SHAKEN Voiply\\, LLC 987J, OU=Voiply, O=Voiply\\, LLC, ST=Pennsylvania, C=US\
+Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
+Link: https://cr.sansay.com/987J/429C7C70711E3820F0B8E1DEAE6FF3262264BE70.pem
+
+[View certificate details](https://x509.io/?cert=MIIC0DCCAnegAwIBAgIUQpx8cHEeOCDwuOHerm%2FzJiJkvnAwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9ybmlhMRswGQYDVQQKDBJTYW5zYXkgQ29ycG9yYXRpb24xEjAQBgNVBAsMCVNhbnNheSBDQTEwMC4GA1UEAwwnU0hBS0VOIFNhbnNheSBJbnRlcm1lZGlhdGUgQ0EgVVMgV0VTVCAxMB4XDTI1MDIxMDIxMjYwMVoXDTI2MDIxMDIxMjYwMVowbTELMAkGA1UEBhMCVVMxFTATBgNVBAgMDFBlbm5zeWx2YW5pYTEUMBIGA1UECgwLVm9pcGx5LCBMTEMxDzANBgNVBAsMBlZvaXBseTEgMB4GA1UEAwwXU0hBS0VOIFZvaXBseSwgTExDIDk4N0owWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATS3v1QQ4zeNEMWp31JMZQz%2Bzx6l2lCFEN3lA8Fu2tTE4yc5awgMCPi6366huwm14aea6PJJ6LXRev1I5L9UvpZo4HbMIHYMBYGCCsGAQUFBwEaBAowCKAGFgQ5ODdKMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBATAdBgNVHQ4EFgQUoc%2FfIh%2BFNNGdZOCL7ZfdmOov4VswHwYDVR0jBBgwFoAUrNOT9UNDzAq%2BRVgXE32SfNzDAUYwRwYDVR0fBEAwPjA8oDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsMAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMAoGCCqGSM49BAMCA0cAMEQCIG5PDve92LAA69vY7UzPq3Pe9JhoQZajurTc6Gv7MQIDAiA7%2BTp4wColO5tUQHvcv3gRZ7qtP81fkcybKc4bbv6tXA%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 987J', but common name is 'SHAKEN Voiply, LLC 987J' |
+
+
+Generated: 18 Aug 25 21:13 UTC

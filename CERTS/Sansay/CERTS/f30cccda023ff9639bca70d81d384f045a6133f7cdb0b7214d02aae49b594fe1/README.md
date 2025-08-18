@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 906K
+
+Tested At: 18 Aug 25 20:45 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 187 day(s)\
+Subject: CN=SHAKEN 906K, O=Adnet Inc., C=US\
+Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
+Link: https://cr.sansay.com/906K/429C7C70711E3820F0B8E1DEAE6FF3262264C01B.pem
+
+[View certificate details](https://x509.io/?cert=MIICnTCCAkKgAwIBAgIUQpx8cHEeOCDwuOHerm%2FzJiJkwBswCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9ybmlhMRswGQYDVQQKDBJTYW5zYXkgQ29ycG9yYXRpb24xEjAQBgNVBAsMCVNhbnNheSBDQTEwMC4GA1UEAwwnU0hBS0VOIFNhbnNheSBJbnRlcm1lZGlhdGUgQ0EgVVMgV0VTVCAxMB4XDTI1MDIyMDIxMjM1NloXDTI2MDIyMDIxMjM1NlowODELMAkGA1UEBhMCVVMxEzARBgNVBAoMCkFkbmV0IEluYy4xFDASBgNVBAMMC1NIQUtFTiA5MDZLMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEVlkWIoC8H718eA%2BxlHXxebDUsSetU72%2BSyeJPwcmuSaDpxjd2FmIihHenM6LzHITRsUAt2U1W9FRtPNB5%2F2SbaOB2zCB2DAWBggrBgEFBQcBGgQKMAigBhYEOTA2SzAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQQwHQYDVR0OBBYEFFYtrtr97nSJAQKC0fPQMdSJ0PohMB8GA1UdIwQYMBaAFKzTk%2FVDQ8wKvkVYFxN9knzcwwFGMEcGA1UdHwRAMD4wPKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybDAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNJADBGAiEA%2BagG8MFqvV8jS9NYchHwb8J1BVN38JWTu%2FzBStCNM0cCIQDjuBW3AbgMe2h%2FypCAyY3G4o8eh8HmyDSCClBm%2Bck6mg%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+
+
+Generated: 18 Aug 25 21:13 UTC

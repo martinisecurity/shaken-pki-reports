@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 696J Telcentris Inc. dba Voxox
 
-Tested At: 04 Oct 24 16:07 UTC\
+Tested At: 18 Aug 25 20:38 UTC\
 Initial Validity Period: 45 day(s)\
-Remaining Validity Period: -14 day(s)\
+Remaining Validity Period: -332 day(s)\
 Subject: CN=SHAKEN 696J Telcentris Inc. dba Voxox, O=Telcentris Inc. dba Voxox, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/696J/429C7C70711E3820F0B8E1DEAE6FF3262264A5BD.pem
@@ -16,4 +16,4 @@ Link: https://cr.sansay.com/696J/429C7C70711E3820F0B8E1DEAE6FF3262264A5BD.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

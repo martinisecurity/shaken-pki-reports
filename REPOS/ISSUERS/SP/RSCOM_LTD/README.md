@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 149ms average time it took to download each certificate
+- 154ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://popglobal.46labs.com` | 04&#160;Sep&#160;24&#160;18:06&#160;UTC | true | [view](REPOS/c88876a2ae35418bb2d89f258534250d545e907a/README.md) |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

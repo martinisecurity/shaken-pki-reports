@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 6922
 
-Tested At: 04 Oct 24 15:34 UTC\
+Tested At: 18 Aug 25 20:07 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -638 day(s)\
+Remaining Validity Period: -956 day(s)\
 Subject: CN=SHAKEN 6922, O=MTPCS LLC dba CELLULARONE, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/24fface1-b9de-43ae-9e6d-c6d9505b7cb4/f510b45dd5e6698a4e6cc3b352845b8f.pem
@@ -25,4 +25,4 @@ Link: https://certificates.clearip.com/24fface1-b9de-43ae-9e6d-c6d9505b7cb4/f510
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

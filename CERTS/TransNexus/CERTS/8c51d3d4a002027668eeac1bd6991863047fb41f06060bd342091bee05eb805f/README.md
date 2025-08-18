@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 806J
 
-Tested At: 04 Oct 24 15:37 UTC\
+Tested At: 18 Aug 25 20:08 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -107 day(s)\
+Remaining Validity Period: -425 day(s)\
 Subject: CN=SHAKEN 806J, O=Converged Networks, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/50f33dd9-032e-4c8b-8683-e4125228e2b8/3fc221005adda30e4b3b8cec88fb632f.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/50f33dd9-032e-4c8b-8683-e4125228e2b8/3fc2
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

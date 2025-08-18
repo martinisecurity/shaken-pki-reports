@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 766C
+
+Tested At: 18 Aug 25 20:19 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 163 day(s)\
+Subject: CN=SHAKEN 766C, O=France Telecom Corporate Solutions LLC, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11180.10184.pem
+
+[View certificate details](https://x509.io/?cert=MIIDGjCCAsCgAwIBAgIUKL43uR5%2BJ9bjy%2Fx4QUwdVmqurlkwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI1MDEyODE3NDM0OFoXDTI2MDEyODE3NDM0OFowVDELMAkGA1UEBhMCVVMxLzAtBgNVBAoMJkZyYW5jZSBUZWxlY29tIENvcnBvcmF0ZSBTb2x1dGlvbnMgTExDMRQwEgYDVQQDDAtTSEFLRU4gNzY2QzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABBw1wV%2FJP738lRPgDdSO0PXj%2FtAw06lBWwaUNSLWy%2BGnnBAS9cQeeuaUSi%2F6sChZsWR4zNZjJLW5XjZI%2BNwcBYCjggE8MIIBODAWBggrBgEFBQcBGgQKMAigBhYENzY2QzAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIJOFf%2F%2Bn2pnUeTIl8dtdMP8ZUV4MBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwHQYDVR0OBBYEFIYn%2BlUDIXr%2B1VBkUWNMA%2FMkFJpxMA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNIADBFAiEA3Ta%2FTcflrWkgD6%2Fpt0MR%2B3ws%2FvLamxyXo0OXBjeS%2FGACIE%2F%2FE1w5rJ1LgnW10KuMxT6ML3lIAoH9VB%2FZu0AfLfaL)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 18 Aug 25 21:13 UTC

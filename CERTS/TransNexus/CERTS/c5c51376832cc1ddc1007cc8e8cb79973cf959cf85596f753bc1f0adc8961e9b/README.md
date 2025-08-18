@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 148K
 
-Tested At: 04 Oct 24 15:48 UTC\
+Tested At: 18 Aug 25 20:15 UTC\
 Initial Validity Period: 90 day(s)\
-Remaining Validity Period: -736 day(s)\
+Remaining Validity Period: -1054 day(s)\
 Subject: CN=SHAKEN 148K, OU=SHAKEN, O=Orange County Rural Electric Membership Coop, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA3, OU=SHAKEN, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/148K/340eb5b1-b461-4f5e-81f7-6da527199eb9.pem
@@ -26,4 +26,4 @@ Link: https://certificates.transnexus.com/148K/340eb5b1-b461-4f5e-81f7-6da527199
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

@@ -1,0 +1,17 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 841J
+
+Tested At: 18 Aug 25 20:16 UTC\
+Initial Validity Period: 14 day(s)\
+Remaining Validity Period: -61 day(s)\
+Subject: CN=SHAKEN 841J, O=Securus Technologies LLC, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.transnexus.com/841J/5a32c925-eb79-485a-8c89-3addcd4a329b.pem
+
+[View certificate details](https://x509.io/?cert=MIIC2TCCAn6gAwIBAgIQfs03Sibbz8PtPdw9BLcVLzAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTUwHhcNMjUwNjAzMjIwMjE0WhcNMjUwNjE3MjIwMjEzWjBGMQswCQYDVQQGEwJVUzEhMB8GA1UEChMYU2VjdXJ1cyBUZWNobm9sb2dpZXMgTExDMRQwEgYDVQQDEwtTSEFLRU4gODQxSjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABOtpQnhyVTceo%2BiiaY7hElpgRvZu%2B0elpfnr6nA7E3S14hkSOh3pDj7jgHzZyC2o%2Br6qgzMGfdDErLg4UwlaG5WjggE8MIIBODAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAdBgNVHQ4EFgQUaxFgev23SHS4JVeOsrtPY6L29VkwHwYDVR0jBBgwFoAU2gCzh%2FiCP7%2B6IqJkY7X2L8yOdcowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEEMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAWBggrBgEFBQcBGgQKMAigBhYEODQxSjAKBggqhkjOPQQDAgNJADBGAiEAx1b7iDRa0GhaCuFluX3y5pbTerb40ogbk%2BtvX4l0ZLICIQDJPpWB2H6EEncmg%2BZEmsIDxzW6jTReN4YBFgm5oUj%2B0g%3D%3D)
+
+164 tests were ran and no error, warning, or notice level issues were found
+
+
+Generated: 18 Aug 25 21:13 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 021K
 
-Tested At: 04 Oct 24 15:31 UTC\
+Tested At: 18 Aug 25 20:05 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -46 day(s)\
+Remaining Validity Period: -364 day(s)\
 Subject: CN=SHAKEN 021K, O=Voipia Networks, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/05505eb7-fca1-40a5-bdc0-55eeaa9901e7/63cd946657b71d084c14e5a320b2f61b.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/05505eb7-fca1-40a5-bdc0-55eeaa9901e7/63cd
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 692J
+
+Tested At: 18 Aug 25 20:49 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 212 day(s)\
+Subject: CN=SHAKEN 692J, O=EssexTel Inc, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://essextel.peeredge.com/cert/U9FNez2N.pem
+
+[View certificate details](https://x509.io/?cert=MIIDADCCAqagAwIBAgIUEz6XQ6jHEFchRHONPaL98yaCbSUwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI1MDMxODE1MDc0NVoXDTI2MDMxODE1MDc0NVowOjELMAkGA1UEBhMCVVMxFTATBgNVBAoMDEVzc2V4VGVsIEluYzEUMBIGA1UEAwwLU0hBS0VOIDY5MkowWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASc6XlUJD5Ycq5Mtw2Lx5KF%2Bpfj3j0zpprUgL3lRZvCIGgf8%2FF%2F6f0STCEbl0vYjB0v85diy7CsclHoUnze4tTKo4IBPDCCATgwFgYIKwYBBQUHARoECjAIoAYWBDY5MkowDAYDVR0TAQH%2FBAIwADAfBgNVHSMEGDAWgBSCThX%2F%2Fp9qZ1HkyJfHbXTD%2FGVFeDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMB0GA1UdDgQWBBThELD2zTZxROfiEHK58zvP%2BJ3uJDAOBgNVHQ8BAf8EBAMCB4AwCgYIKoZIzj0EAwIDSAAwRQIgKTAztD%2FLOlw5td0QRIkS4pq6RtYHo%2BlP2hFy4T2afGoCIQCwe1mHYFzsVcPBg%2FneoYCFxd%2B0vSkSQTDSFhCgWxgpjQ%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 18 Aug 25 21:13 UTC

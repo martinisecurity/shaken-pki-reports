@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 951J
 
-Tested At: 04 Oct 24 16:26 UTC\
+Tested At: 18 Aug 25 21:10 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -541 day(s)\
+Remaining Validity Period: -860 day(s)\
 Subject: CN=SHAKEN 951J, O=Zultys Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-1, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://zultys-pem-cert-2022.s3.amazonaws.com/89179fa533bbaf0aea20a9f31aa06f20.pem
@@ -25,4 +25,4 @@ Link: https://zultys-pem-cert-2022.s3.amazonaws.com/89179fa533bbaf0aea20a9f31aa0
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

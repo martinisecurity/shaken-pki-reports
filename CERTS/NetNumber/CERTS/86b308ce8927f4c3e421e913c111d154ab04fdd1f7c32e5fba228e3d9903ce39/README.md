@@ -2,9 +2,9 @@
 
 ## Certificate Number Access LLC SHAKEN 343J
 
-Tested At: 04 Oct 24 16:23 UTC\
+Tested At: 18 Aug 25 21:05 UTC\
 Initial Validity Period: 42 day(s)\
-Remaining Validity Period: -508 day(s)\
+Remaining Validity Period: -826 day(s)\
 Subject: L=Bettendorf, ST=Iowa, O=Number Access LLC, C=US, CN=Number Access LLC SHAKEN 343J\
 Issuer: L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN Root Intermediate CA 1\
 Link: https://ss-public-certs.numberaccess.net/na-20230403131109-20230515131109.pem
@@ -18,4 +18,4 @@ Link: https://ss-public-certs.numberaccess.net/na-20230403131109-20230515131109.
 | [e_atis_ext_certificate_policies](../../ISSUES/e_atis_ext_certificate_policies/README.md) | error | ATIS1000080 | The Certificate Policies extension is marked as critical |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

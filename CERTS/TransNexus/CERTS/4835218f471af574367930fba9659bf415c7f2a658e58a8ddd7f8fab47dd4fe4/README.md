@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 366G
 
-Tested At: 04 Oct 24 15:49 UTC\
+Tested At: 18 Aug 25 20:15 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -279 day(s)\
+Remaining Validity Period: -597 day(s)\
 Subject: CN=SHAKEN 366G, O=USA Digital, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/366G/64a2d4ef-9a50-4a5a-b21f-4fdbaf96afc2.pem
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/366G/64a2d4ef-9a50-4a5a-b21f-4fdbaf96a
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

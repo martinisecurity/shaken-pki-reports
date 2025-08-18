@@ -1,0 +1,17 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 860K
+
+Tested At: 18 Aug 25 20:16 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -21 day(s)\
+Subject: CN=SHAKEN 860K, O=NTT Cloud Communications, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.transnexus.com/860K/8cf1ed65-d37c-4564-bf5d-9da856cde68c.pem
+
+[View certificate details](https://x509.io/?cert=MIIC1zCCAn6gAwIBAgIQa7WtAhEmllELov%2FqYiYb4DAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTUwHhcNMjUwNzIxMTAxMDI2WhcNMjUwNzI4MTAxMDI1WjBGMQswCQYDVQQGEwJVUzEhMB8GA1UEChMYTlRUIENsb3VkIENvbW11bmljYXRpb25zMRQwEgYDVQQDEwtTSEFLRU4gODYwSzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABCGGmbXW1iLOx87k10Z68bx%2BtGwub7OykLuuETGCV4GCt9Xs5T6DuWYH8zFbfpbuVn2%2FGxBkv3tmtfOa225Z1iajggE8MIIBODAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAdBgNVHQ4EFgQUEdMqscInr2Tkf7RTf4yz77fWRrgwHwYDVR0jBBgwFoAU2gCzh%2FiCP7%2B6IqJkY7X2L8yOdcowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEEMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAWBggrBgEFBQcBGgQKMAigBhYEODYwSzAKBggqhkjOPQQDAgNHADBEAiAcS%2BtwhR32t0mbvoGt3rigddnIDkqfdPH%2B7vrQwJoOGAIgenSThQtRpKfnHaHa76dyJlhktSV%2B4H94sNm8m2B%2Bfec%3D)
+
+164 tests were ran and no error, warning, or notice level issues were found
+
+
+Generated: 18 Aug 25 21:13 UTC

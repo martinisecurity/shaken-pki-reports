@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 927K
 
-Tested At: 04 Oct 24 15:33 UTC\
+Tested At: 18 Aug 25 20:06 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -7 day(s)\
+Remaining Validity Period: -326 day(s)\
 Subject: CN=SHAKEN 927K, O=T3 Communications Inc., C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/0d0adb4d-3f70-4f16-a3a8-979354ca2764/c1f6d5623d1bdb0c663be41f208c89eb.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/0d0adb4d-3f70-4f16-a3a8-979354ca2764/c1f6
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

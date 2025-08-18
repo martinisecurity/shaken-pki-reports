@@ -19,4 +19,4 @@ No error, warning, or notice level issues were found
 | error | SHAKEN Ribbon Issuing CA | [view](../../CERTS/05a71a04eaedbdf4b0534f40768616d7c19c8deb5a3aefd1f4a04b3aab55a48f/README.md) | STI End-Entity certificates shall contain a CRL Distribution Points extension |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

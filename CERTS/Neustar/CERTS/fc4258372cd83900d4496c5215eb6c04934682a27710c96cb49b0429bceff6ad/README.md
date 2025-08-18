@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 473G
+
+Tested At: 18 Aug 25 20:20 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 199 day(s)\
+Subject: CN=SHAKEN 473G, O=Telengy LLC, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11538.10154
+
+[View certificate details](https://x509.io/?cert=MIIC%2FzCCAqWgAwIBAgIUIJ5SL2n2lcV4Nwo30eEFRvCS%2B1UwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI1MDMwNDIxMjYyMFoXDTI2MDMwNDIxMjYyMFowOTELMAkGA1UEBhMCVVMxFDASBgNVBAoMC1RlbGVuZ3kgTExDMRQwEgYDVQQDDAtTSEFLRU4gNDczRzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABHDtttgYY775jIte5nwyuFQ1rfbs0%2FlIM5e5DHLOBQN8duWm3Vsq9%2B9PCl2p2HXyiOebM6grRzbIGj%2F%2BIzEmd%2FqjggE8MIIBODAWBggrBgEFBQcBGgQKMAigBhYENDczRzAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIJOFf%2F%2Bn2pnUeTIl8dtdMP8ZUV4MBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwHQYDVR0OBBYEFBejB373CH%2FehDnySVHIwYP8%2F%2BiZMA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNIADBFAiAo5Wb4Q%2FphEblvdkJ%2FAIsfM37ICaFFWNhjJromD%2BHT0wIhAJMXJisPgd%2FpaNa5zAVxXW4g1GNa2Yb0yI%2FALHsTTbLY)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 18 Aug 25 21:13 UTC

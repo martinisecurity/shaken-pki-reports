@@ -16,7 +16,8 @@ No error, warning, or notice level issues were found
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
+| error | SHAKEN 1RouteGroup Intermediate CA | [view](../../CERTS/7dea6c98003ca7bd868598f4b62b7be016f5cad5542e8fd95150225d1accf9cf/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 16 |
 | error | SHAKEN 1RouteGroup Intermediate CA | [view](../../CERTS/de6fcb6ba446b8b669a53ed338795ce54b2e3f5be20320fef1644e10fe3b9c3a/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 16 |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

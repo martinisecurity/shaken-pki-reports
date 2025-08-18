@@ -9,7 +9,7 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://cert2.sticr.att.net:8443/sti-cr/att-stica1719858820982-cert.crt` | 01&#160;Jul&#160;25&#160;17:58&#160;UTC | true | [view](../../REPOS/4934c7c2f77393e61c0a9c9e939288ab9b61825b/README.md) |
+| `https://cert2.sticr.att.net:8443/sti-cr/att-stica1748967002486-cert.crt` | 03&#160;Jun&#160;26&#160;15:46&#160;UTC | true | [view](../../REPOS/b5527b475be463d735de06d81134b7ee7611d7cf/README.md) |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

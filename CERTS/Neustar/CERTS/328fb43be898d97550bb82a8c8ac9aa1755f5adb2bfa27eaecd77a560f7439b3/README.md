@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 1591
+
+Tested At: 18 Aug 25 20:17 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 144 day(s)\
+Subject: CN=SHAKEN 1591, O=Southeast Nebraska Communications\\, Inc, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/199.263
+
+[View certificate details](https://x509.io/?cert=MIIDGzCCAsCgAwIBAgIUG74PDu4dpthc1g9yzZAKIMBY61cwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI1MDEwOTE3MjM1NVoXDTI2MDEwOTE3MjM1NVowVDELMAkGA1UEBhMCVVMxLzAtBgNVBAoMJlNvdXRoZWFzdCBOZWJyYXNrYSBDb21tdW5pY2F0aW9ucywgSW5jMRQwEgYDVQQDDAtTSEFLRU4gMTU5MTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABKceeVkfTWcnmvS%2BP6GCcrYj9om%2FYWR1%2Fg3CWTthTpAlSKWWFB5cotxKYSgSL4MUsH6TjXveLVjomFyTTAN8g52jggE8MIIBODAWBggrBgEFBQcBGgQKMAigBhYEMTU5MTAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIJOFf%2F%2Bn2pnUeTIl8dtdMP8ZUV4MBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwHQYDVR0OBBYEFCN4Xfqm14OdIiDtpBoG7hHBDQKcMA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNJADBGAiEA%2FnXEwn483psHSlDRGdA6G%2Fo7Ck4COCx4SznxOy8STO8CIQCR%2BRT3QXTQ4%2BTjgjElbyNQtCjPIXy4MXv0mPmlllsyBg%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 18 Aug 25 21:13 UTC

@@ -3,8 +3,8 @@
 ## Primo Dialler LLC
 
 Name: `https://cdn.cnxcdn.com/shaken/45.crt`\
-Tested At: 04 Oct 24 15:31 UTC\
-Time: 167ms
+Tested At: 18 Aug 25 20:05 UTC\
+Time: 42ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 167ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header has 'max-age' directive but it's value is less than 24 hours |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

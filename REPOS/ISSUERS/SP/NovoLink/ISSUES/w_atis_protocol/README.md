@@ -9,7 +9,7 @@ Description: The verifier should not dereference any protocol other than https o
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `http://sti.novolink.net/crypt/sti-shaken.crt` | 14&#160;Apr&#160;25&#160;22:26&#160;UTC | true | [view](../../REPOS/e89ebbbc2418de8848df85a11db2f3b9724c0087/README.md) |
+| `http://sti.novolink.net/crypt/sti-shaken.crt` | 08&#160;Apr&#160;26&#160;22:13&#160;UTC | true | [view](../../REPOS/e89ebbbc2418de8848df85a11db2f3b9724c0087/README.md) |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

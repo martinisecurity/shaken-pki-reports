@@ -12,16 +12,15 @@ Description: For end-entity certificate, the Common Name attribute shall contain
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../../CERTS/4901b7b322214d921912f374a61af22317018d528eafe95826b14d78dcce7464/README.md) | Common name shall contain the text string 'SHAKEN 8697', but common name is 'Baltimore-Washington Telephone Company SHAKEN cert 8697' |
-| error | Plivo Inc | [view](../../CERTS/842b9c1621617feb8d70fbe7aa3008ca7d41b51cae837e7ae72f235593062e0d/README.md) | Common name shall contain the text string 'SHAKEN 800J', but common name is 'Plivo Inc' |
-| error | HD CARRIER LLC | [view](../../CERTS/528174dd9b29bfaf6a2a78c83c1de4fead01af5b8f18fd6980e71d4558b5aeab/README.md) | Common name shall contain the text string 'SHAKEN 321J', but common name is 'HD CARRIER LLC' |
-| error | HD CARRIER LLC | [view](../../CERTS/f6b414f509f7e782c90747f0964d246fd7c8ea9ad236caf99d97320e6f11fc01/README.md) | Common name shall contain the text string 'SHAKEN 321J', but common name is 'HD CARRIER LLC' |
-| error | DISH Wireless L.L.C.SHAKEN.490J | [view](../../CERTS/2943713c56f0705ed027ecffced5eb89cb1c36bb5386bdc36a6b8e5618ca2c9c/README.md) | Common name shall contain the text string 'SHAKEN 490J', but common name is 'DISH Wireless L.L.C.SHAKEN.490J' |
-| error | Google SHAKEN cert 969H | [view](../../CERTS/69219f6998113a47315877ee97d5d31000bb200bb8be146d97e62c1bd933c062/README.md) | Common name shall contain the text string 'SHAKEN 969H', but common name is 'Google SHAKEN cert 969H' |
+| error | Baltimore-Washington Telephone Company SHAKEN cert 8697 | [view](../../CERTS/26af4696ddf8b41e6e28e3605f15deee1f8b03435f7a0b1070d7e84eb4cacbc8/README.md) | Common name shall contain the text string 'SHAKEN 8697', but common name is 'Baltimore-Washington Telephone Company SHAKEN cert 8697' |
+| error | Plivo Inc | [view](../../CERTS/bbe59f37361998b1c699b9ba5e63173f244c486d6ab8db6dc9edc8cc259c9d00/README.md) | Common name shall contain the text string 'SHAKEN 800J', but common name is 'Plivo Inc' |
+| error | HD CARRIER LLC | [view](../../CERTS/19d9f5fa64a54129f1ba7fd112d643e28e9c7a1cba4e0c6e8c61df8d82ca6c24/README.md) | Common name shall contain the text string 'SHAKEN 321J', but common name is 'HD CARRIER LLC' |
+| error | DISH Wireless L.L.C.SHAKEN.490J | [view](../../CERTS/0f55e9a64c9e80bd8d9ad8b5e8324e6f842dc193a2b81e708a45dfc4f41d96c8/README.md) | Common name shall contain the text string 'SHAKEN 490J', but common name is 'DISH Wireless L.L.C.SHAKEN.490J' |
+| error | Google SHAKEN cert 969H | [view](../../CERTS/3ee139a01a0f64946d72730ea67696ae86fe2198299d11e2b832f5cca22ba39f/README.md) | Common name shall contain the text string 'SHAKEN 969H', but common name is 'Google SHAKEN cert 969H' |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

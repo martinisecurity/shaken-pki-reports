@@ -12,4 +12,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://robocall.sti.uscellular.com/certs/uscellular2024certchain.crt` | 15&#160;Mar&#160;27&#160;10:27&#160;UTC | true | [view](../../REPOS/700442f665b6fc4ec48b5bda709eacc49afeb91f/README.md) |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 299K
 
-Tested At: 04 Oct 24 15:49 UTC\
+Tested At: 18 Aug 25 20:15 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 65 day(s)\
+Remaining Validity Period: -253 day(s)\
 Subject: CN=SHAKEN 299K, O=Weave, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/299K/857b6026-39e6-4a86-8b52-ffa5f3f2620d.pem
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/299K/857b6026-39e6-4a86-8b52-ffa5f3f26
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

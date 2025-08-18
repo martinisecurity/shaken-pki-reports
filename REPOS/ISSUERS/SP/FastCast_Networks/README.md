@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 134ms average time it took to download each certificate
+- 376ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://fastcast.46labs.com` | 21&#160;Jun&#160;24&#160;18:42&#160;UTC | true | [view](REPOS/1c7b1b2a5dc32063c33961dd707f314e5467de98/README.md) |
+| `https://fastcast.46labs.com` | 22&#160;Aug&#160;25&#160;14:21&#160;UTC | true | [view](REPOS/1c7b1b2a5dc32063c33961dd707f314e5467de98/README.md) |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 042K
 
-Tested At: 04 Oct 24 16:19 UTC\
+Tested At: 18 Aug 25 20:50 UTC\
 Initial Validity Period: 10 day(s)\
-Remaining Validity Period: -331 day(s)\
+Remaining Validity Period: -649 day(s)\
 Subject: O=DMCI Broadband\\, LLC, C=US, serialNumber=84E64B49EE2813CF567DCA01DED15E28, CN=SHAKEN 042K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/ahUlWGMnodn2.pem
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/ahUlWGMnodn2.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 951J
+
+Tested At: 18 Aug 25 21:10 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 172 day(s)\
+Subject: CN=SHAKEN 951J, O=Zultys\\, Inc, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://zultys-pem-cert-2022.s3.amazonaws.com/b0e8d800221ea37e21e5a76775c1661e.pem
+
+[View certificate details](https://x509.io/?cert=MIIDADCCAqWgAwIBAgIUEToQd9d0jxIMIhnDeNqAgIvGB9EwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI1MDIwNjE5Mjg1MVoXDTI2MDIwNjE5Mjg1MVowOTELMAkGA1UEBhMCVVMxFDASBgNVBAoMC1p1bHR5cywgSW5jMRQwEgYDVQQDDAtTSEFLRU4gOTUxSjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABK2UXmBizyFkkOzXwXjqU7DTcT2hdr8vBV6VN46gpPZ391ByAm3tLya0rvvQUe7KKxkBxu69DdTEr56QQ7zgpFCjggE8MIIBODAWBggrBgEFBQcBGgQKMAigBhYEOTUxSjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIJOFf%2F%2Bn2pnUeTIl8dtdMP8ZUV4MBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwHQYDVR0OBBYEFKfPDPee7n3kp8RTT%2FPiie0e%2FQv2MA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNJADBGAiEAv3vEMtTY0RbALDAdNElgfhC8mzbqsDs7rZ93BQxDSJsCIQD2r8fB5Cus754zF71fE5M6%2BxVvZCyvFewKBd%2BUQPjbVA%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 18 Aug 25 21:13 UTC

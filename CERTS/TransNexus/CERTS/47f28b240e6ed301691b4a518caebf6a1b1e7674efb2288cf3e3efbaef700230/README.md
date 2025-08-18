@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 796K
 
-Tested At: 04 Oct 24 15:33 UTC\
+Tested At: 18 Aug 25 20:06 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -36 day(s)\
+Remaining Validity Period: -355 day(s)\
 Subject: CN=SHAKEN 796K, O=Advanced Procomm\\, LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/1d123abb-032b-480a-bdcd-1ef5b59e6a11/1394cc1253781df9f9fae141339eee70.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/1d123abb-032b-480a-bdcd-1ef5b59e6a11/1394
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

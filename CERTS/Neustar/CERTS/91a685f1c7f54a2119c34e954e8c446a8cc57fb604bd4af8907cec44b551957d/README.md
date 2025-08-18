@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 869J
+
+Tested At: 18 Aug 25 21:06 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 291 day(s)\
+Subject: CN=SHAKEN 869J, O=Sipnex Telecom LLC, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://ssc.getsipnav.com/certs/e29c833130deff53f412634ae4a0b00b8ec84c63
+
+[View certificate details](https://x509.io/?cert=MIIDBjCCAqygAwIBAgIUETmZhzL%2BM2kg821iaCfgQhyfkzYwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI1MDYwNTE4MDAwOVoXDTI2MDYwNTE4MDAwOVowQDELMAkGA1UEBhMCVVMxGzAZBgNVBAoMElNpcG5leCBUZWxlY29tIExMQzEUMBIGA1UEAwwLU0hBS0VOIDg2OUowWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQXtk5WfEa52igbiR5K45SUuDANPPwCvNWAgJzqkdlsCilFEjno3yC2dn8Or9cLe%2FULZ8u1RElbbNsJtExyVXtCo4IBPDCCATgwFgYIKwYBBQUHARoECjAIoAYWBDg2OUowDAYDVR0TAQH%2FBAIwADAfBgNVHSMEGDAWgBSCThX%2F%2Fp9qZ1HkyJfHbXTD%2FGVFeDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMB0GA1UdDgQWBBQ7nFavNEUt5YzdBM8yYqm9tQtbVzAOBgNVHQ8BAf8EBAMCB4AwCgYIKoZIzj0EAwIDSAAwRQIhAIZYPlbCwfoEyL%2Bf5S2GUu3OhQID0IfPxFXaROjCpv0nAiBVKSFHQHrxwbixtMrfZsYvN82A2cOE%2FEuqlGiPzQRKWw%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 18 Aug 25 21:13 UTC

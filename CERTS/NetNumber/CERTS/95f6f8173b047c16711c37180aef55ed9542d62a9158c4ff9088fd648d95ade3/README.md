@@ -2,9 +2,9 @@
 
 ## Certificate Number Access LLC SHAKEN 343J
 
-Tested At: 04 Oct 24 16:23 UTC\
+Tested At: 18 Aug 25 21:05 UTC\
 Initial Validity Period: 42 day(s)\
-Remaining Validity Period: -599 day(s)\
+Remaining Validity Period: -917 day(s)\
 Subject: L=Bettendorf, ST=Iowa, O=Number Access LLC, C=US, CN=Number Access LLC SHAKEN 343J\
 Issuer: L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN Root Intermediate CA 1\
 Link: https://ss-public-certs.numberaccess.net/na-20230102113117-20230213113117.pem
@@ -14,8 +14,8 @@ Link: https://ss-public-certs.numberaccess.net/na-20230102113117-20230213113117.
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
-| [e_atis_ext_crl_distribution](../../ISSUES/e_atis_ext_crl_distribution/README.md) | error | ATIS1000080 | STI End-Entity certificates shall contain a CRL Distribution Points extension |
 | [e_atis_ext_certificate_policies](../../ISSUES/e_atis_ext_certificate_policies/README.md) | error | ATIS1000080 | The Certificate Policies extension is marked as critical |
+| [e_atis_ext_crl_distribution](../../ISSUES/e_atis_ext_crl_distribution/README.md) | error | ATIS1000080 | STI End-Entity certificates shall contain a CRL Distribution Points extension |
 
 ### Not Effective
 
@@ -27,4 +27,4 @@ Link: https://ss-public-certs.numberaccess.net/na-20230102113117-20230213113117.
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 873J
 
-Tested At: 04 Oct 24 15:50 UTC\
+Tested At: 18 Aug 25 20:16 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -253 day(s)\
+Remaining Validity Period: -571 day(s)\
 Subject: CN=SHAKEN 873J, O=MobileSphere, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/873J/2bf97ab1-3231-4b99-af44-91c325276fe7.pem
@@ -25,4 +25,4 @@ Link: https://certificates.transnexus.com/873J/2bf97ab1-3231-4b99-af44-91c325276
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

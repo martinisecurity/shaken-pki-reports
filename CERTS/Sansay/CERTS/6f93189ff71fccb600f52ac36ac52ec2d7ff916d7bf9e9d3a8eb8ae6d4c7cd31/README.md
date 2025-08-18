@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Contactivity Corp. 711K
 
-Tested At: 04 Oct 24 16:23 UTC\
+Tested At: 18 Aug 25 21:05 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 323 day(s)\
+Remaining Validity Period: 4 day(s)\
 Subject: CN=SHAKEN Contactivity Corp. 711K, OU=Technical, O=Contactivity Corp., ST=Florida, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://ssc.getsipnav.com/certs/3f387c6c24eec353ded17a4fb8c6c655a1afb9b7
@@ -17,4 +17,4 @@ Link: https://ssc.getsipnav.com/certs/3f387c6c24eec353ded17a4fb8c6c655a1afb9b7
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

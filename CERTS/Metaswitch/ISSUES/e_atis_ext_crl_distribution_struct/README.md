@@ -12,11 +12,13 @@ Description: STI intermediate and end-entity certificates shall contain a CRL Di
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
+| error | Avid Communication SHAKEN 742D | [view](../../CERTS/0ab008a053e687bfcea698300df5fb1ac5d098a28cbfaa781a241107cdabc5a0/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
 | error | Union Telephone Company SHAKEN 2297 | [view](../../CERTS/9301e697d6eb128e4eb645e111ff8166dca39e0ff11b0eae54aab95f46111bdb/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
 | error | Utility SHAKEN 9262 | [view](../../CERTS/55f07535beff566a23d1d772234b291470b678370907afa2c2db1ae4ecbe92ef/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
 | error | Appalachian Wireless SHAKEN 6940 | [view](../../CERTS/dff6375d9e6b33e8de3587cf30d392a1cbc6dc0a7c7eacf726c8b32e533d2284/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
 | error | WOW Internet Cable and Phone SHAKEN 665E | [view](../../CERTS/738ec11f972c1bfbc225dc01ba5c7b46968fa610303d3f3698d03d3e431da0c9/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
 | error | Carolina West Wireless SHAKEN 5932 | [view](../../CERTS/295732fec21729ae13022f5a282d6650170fb9ed597a7e64112d614ce5ce19ca/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | Valley Telephone Cooperative Inc SHAKEN 2159 | [view](../../CERTS/a3ded131432b441b25daaac3e704511b570a101e32978d5c223beedc52696aa7/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
 | error | Viaero Wireless SHAKEN 6874 | [view](../../CERTS/a78a872118a4c72e76b6751e8c04590e534c15dbdbf9813d6d1f5a3e671e44a8/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
 | error | ENA SHAKEN 521F | [view](../../CERTS/5003525959e13e5a8db645098c431af4e079327fe4b80986685e99b8a57af61d/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
 | error | Hunter Communications SHAKEN 660C | [view](../../CERTS/7ba7f6eec3035d5721469238231d79d35781c43b0830bdf252d62c2a9579e08e/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
@@ -35,4 +37,4 @@ Description: STI intermediate and end-entity certificates shall contain a CRL Di
 No error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

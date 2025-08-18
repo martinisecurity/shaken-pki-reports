@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 131K
 
-Tested At: 04 Oct 24 15:46 UTC\
+Tested At: 18 Aug 25 20:13 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -429 day(s)\
+Remaining Validity Period: -748 day(s)\
 Subject: CN=SHAKEN 131K, O=MVP Holdings, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/e03b2ef9-7f1c-4e39-ad7f-800ba8d3f614/263ae082c8d6dc07da6f8afcddda1de0.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/e03b2ef9-7f1c-4e39-ad7f-800ba8d3f614/263a
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

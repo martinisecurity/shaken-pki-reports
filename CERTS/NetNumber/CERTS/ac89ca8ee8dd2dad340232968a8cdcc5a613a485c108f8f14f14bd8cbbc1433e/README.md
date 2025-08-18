@@ -2,9 +2,9 @@
 
 ## Certificate Google SHAKEN cert 969H
 
-Tested At: 04 Oct 24 16:26 UTC\
+Tested At: 18 Aug 25 21:10 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -672 day(s)\
+Remaining Validity Period: -990 day(s)\
 Subject: O=Google, C=US, CN=Google SHAKEN cert 969H\
 Issuer: L=Lowell, ST=Massachusettes, OU=US, O=NetNumber Inc, C=US, CN=NetNumber SHAKEN Root Intermediate CA 1\
 Link: https://www.gstatic.com/gtp/stir/0KNv42j7T4F2xjpsMbNWRA.pem
@@ -27,4 +27,4 @@ Link: https://www.gstatic.com/gtp/stir/0KNv42j7T4F2xjpsMbNWRA.pem
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

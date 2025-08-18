@@ -9,7 +9,7 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://nguc.voipoffice.com/stirshaken/VOIP_OFFICE.COM_LLC_389K` | 26&#160;Oct&#160;23&#160;19:54&#160;UTC | true | [view](../../REPOS/1822624913ca9f95eb48fb0aaa2164dce10e5a0c/README.md) |
+| `https://nguc.voipoffice.com/stirshaken/389K.chain.crt.pem` | 29&#160;Nov&#160;25&#160;18:10&#160;UTC | true | [view](../../REPOS/798d776859f9095dbe9fbb9153e5989b5a19f5fd/README.md) |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

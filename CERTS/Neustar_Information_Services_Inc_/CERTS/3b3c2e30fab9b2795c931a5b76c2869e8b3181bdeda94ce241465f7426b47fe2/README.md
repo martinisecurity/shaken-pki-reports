@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 598J
 
-Tested At: 04 Oct 24 16:25 UTC\
+Tested At: 18 Aug 25 21:08 UTC\
 Initial Validity Period: 398 day(s)\
-Remaining Validity Period: 300 day(s)\
+Remaining Validity Period: -19 day(s)\
 Subject: CN=SHAKEN 598J, O=Five9 Inc, C=CA\
 Issuer: CN=Neustar UAT Canada Certified Caller ID SHAKEN CA-2, OU=www.ca.ccid.neustar, O=Neustar Information Services Inc., C=CA\
 Link: https://sticr-cstga-uat.ccid.neustar/api/v1/certificate/d1dbe1a693cb7464ff1d1edb3fee78e2.pem
@@ -16,4 +16,4 @@ Link: https://sticr-cstga-uat.ccid.neustar/api/v1/certificate/d1dbe1a693cb7464ff
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 1.3.6.1.4.1.56223.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

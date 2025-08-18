@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN VoIP Innovations 597F
 
-Tested At: 04 Oct 24 16:15 UTC\
+Tested At: 18 Aug 25 20:49 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -191 day(s)\
+Remaining Validity Period: -509 day(s)\
 Subject: CN=SHAKEN VoIP Innovations 597F, OU=NOC, O=VoIP Innovations, ST=Pennsylvania, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/VoIP_Innovations_597F
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/VoIP_Innovations_597F
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

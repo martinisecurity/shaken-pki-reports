@@ -12,13 +12,13 @@ Description: The SPC value in the TNAuthList extension shall contain only number
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | SHAKEN 418c | [view](../../CERTS/d424701c02b81c205c4165377b02fa44632991e28a5bd26416ef362212ac27d6/README.md) | the SPC value '418c' contains characters other than uppercase letters and numbers |
-| error | SHAKEN 558a | [view](../../CERTS/6af235e2580e430922580fbdf255be09b24d784d63ddd118d338dd2527a6fa36/README.md) | the SPC value '558a' contains characters other than uppercase letters and numbers |
-| error | SHAKEN 719k | [view](../../CERTS/31b8e7e61121d38cb205a6e125de2112289f5c775402f6920a327f140b8c0ce2/README.md) | the SPC value '719k' contains characters other than uppercase letters and numbers |
+| error | SHAKEN 036k | [view](../../CERTS/8184848159657adbd6fb708abbac3c0af22b2a8dca090aaaf8d14cbe75473e74/README.md) | the SPC value '036k' contains characters other than uppercase letters and numbers |
+| error | SHAKEN 418c | [view](../../CERTS/7cba7a88ee508d4394523cb770b00f1f3b59865f7561847cab1684b93b3371a3/README.md) | the SPC value '418c' contains characters other than uppercase letters and numbers |
+| error | SHAKEN 558a | [view](../../CERTS/602413e5515ce486cbecc225663ab788dd987562ce8600076cb20b0f58514c3f/README.md) | the SPC value '558a' contains characters other than uppercase letters and numbers |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

@@ -2,24 +2,25 @@
 
 ## Carolina West Wireless
 
-- 3 repository URLs were included in the corpus being tested
+- 4 repository URLs were included in the corpus being tested
 - 1 repository URLs in the corpus were skipped because they were duplicated
-- 2 repository URLs being tested against the remaining rules
+- 3 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 67ms average time it took to download each certificate
+- 56ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 2 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
-| 2 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 3 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
+| 3 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
+| `https://cdn-cr.cgah.tnsi.com/certs/078466dc287bdbed9fa023a64063836f255c0577` | 13&#160;Jul&#160;28&#160;17:00&#160;UTC | true | [view](REPOS/43ff7e2e786985add15cdf0e0ed254db3c9c3180/README.md) |
 | `https://cdn-cr.cgah.tnsi.com/certs/2d6c7d95ae300fd6b02acec8bda8d6119ea390d8` | 24&#160;May&#160;27&#160;13:21&#160;UTC | true | [view](REPOS/790a9e522fc512115ad5ccedfb93a3000986be61/README.md) |
 | `https://cdn-cr.cgah.tnsi.com/certs/35a1efb37497a631e809fad93c6ba2d86913e95c` | 10&#160;Jun&#160;24&#160;16:14&#160;UTC | true | [view](REPOS/8c3f2cb1c0b4523a0f6f8e1ef4535a3028153fa8/README.md) |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

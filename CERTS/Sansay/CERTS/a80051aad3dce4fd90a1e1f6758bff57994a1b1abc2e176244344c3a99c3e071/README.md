@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Primo Dialler LLC 249K
 
-Tested At: 04 Oct 24 15:31 UTC\
+Tested At: 18 Aug 25 20:05 UTC\
 Initial Validity Period: 180 day(s)\
-Remaining Validity Period: -325 day(s)\
+Remaining Validity Period: -643 day(s)\
 Subject: CN=SHAKEN Primo Dialler LLC 249K, OU=Service Provider, O=Primo Dialler LLC, ST=Wyoming, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cdn.cnxcdn.com/shaken/45.crt
@@ -17,4 +17,4 @@ Link: https://cdn.cnxcdn.com/shaken/45.crt
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 249K', but common name is 'SHAKEN Primo Dialler LLC 249K' |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

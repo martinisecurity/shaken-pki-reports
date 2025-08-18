@@ -3,11 +3,13 @@
 ## TransNexus
 
 Name: `https://certificates.transnexus.com/0172/e8b696ea-3f47-4854-a556-680e94482c19.pem`\
-Tested At: 04 Oct 24 15:48 UTC\
-Time: 90ms
+Tested At: 18 Aug 25 20:15 UTC\
+Time: 3001ms
 
 ### Issues
 
-no warning, or error, or notice date level issues were found
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_request_timeout](../../ISSUES/e_request_timeout/README.md) | error | System | Request timed out (3s) |
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 911K
 
-Tested At: 04 Oct 24 16:20 UTC\
+Tested At: 18 Aug 25 21:01 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 203 day(s)\
+Remaining Validity Period: -116 day(s)\
 Subject: O=OACYS Technology, C=US, serialNumber=E3246F688A1D303D4F6213D21858035A, CN=SHAKEN 911K\
 Issuer: CN=Martini Security SHAKEN G3, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2e5a/FwFpobsVDDoq.pem
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2e5a/FwFpobsVDDoq.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

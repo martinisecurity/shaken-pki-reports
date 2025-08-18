@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 633K
 
-Tested At: 04 Oct 24 16:26 UTC\
+Tested At: 18 Aug 25 21:10 UTC\
 Initial Validity Period: 555 day(s)\
-Remaining Validity Period: 450 day(s)\
+Remaining Validity Period: 131 day(s)\
 Subject: serialNumber=D1E45F5D-18E6-4728-BB40-5FA4E3815038, CN=SHAKEN 633K, O=Telkart LLC, C=US\
 Issuer: CN=Telonium SHAKEN Intermediate G1, O=Telonium Communications LLC, L=Atlanta, ST=GA, C=US\
 Link: https://telkart.46labs.com
@@ -14,4 +14,4 @@ Link: https://telkart.46labs.com
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

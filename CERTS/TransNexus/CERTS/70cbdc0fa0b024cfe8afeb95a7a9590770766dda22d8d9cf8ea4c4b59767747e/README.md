@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 2116
 
-Tested At: 04 Oct 24 15:41 UTC\
+Tested At: 18 Aug 25 20:11 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -458 day(s)\
+Remaining Validity Period: -777 day(s)\
 Subject: CN=SHAKEN 2116, O=Nortex, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/9169f04b-375b-4897-b4e5-0b18e4f7f950/4b52653b54443a830b2ef2849fa4c949.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/9169f04b-375b-4897-b4e5-0b18e4f7f950/4b52
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

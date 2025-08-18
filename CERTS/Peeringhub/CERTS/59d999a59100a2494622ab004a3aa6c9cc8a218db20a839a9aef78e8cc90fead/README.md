@@ -2,9 +2,9 @@
 
 ## Certificate DiDCentral LLC SHAKEN 756J
 
-Tested At: 04 Oct 24 16:23 UTC\
+Tested At: 18 Aug 25 21:05 UTC\
 Initial Validity Period: 27 day(s)\
-Remaining Validity Period: -61 day(s)\
+Remaining Validity Period: -379 day(s)\
 Subject: CN=DiDCentral LLC SHAKEN 756J, O=DIDCentral LLC, ST=WY, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/17a972c57bc9694c70c8aae3b76c819f8a98a2a0
@@ -14,4 +14,4 @@ Link: https://ssc.getsipnav.com/certs/17a972c57bc9694c70c8aae3b76c819f8a98a2a0
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

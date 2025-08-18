@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Inventive Labs Corp 649J
 
-Tested At: 04 Oct 24 16:15 UTC\
+Tested At: 18 Aug 25 20:48 UTC\
 Initial Validity Period: 180 day(s)\
-Remaining Validity Period: -194 day(s)\
+Remaining Validity Period: -512 day(s)\
 Subject: CN=SHAKEN Inventive Labs Corp 649J, OU=NOC, O=Inventive Labs Corp, ST=Colorado, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Inventive_Labs_Corp_649J
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Inventive_Labs_Corp_649J
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 649J', but common name is 'SHAKEN Inventive Labs Corp 649J' |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

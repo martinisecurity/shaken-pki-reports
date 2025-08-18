@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 8105
 
-Tested At: 04 Oct 24 15:39 UTC\
+Tested At: 18 Aug 25 20:09 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -281 day(s)\
+Remaining Validity Period: -599 day(s)\
 Subject: CN=SHAKEN 8105, O=Smart City, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/6a3c31c1-9df1-472e-b748-80f586bce971/f0ec7855f3b894f7ec9b691fb3944296.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/6a3c31c1-9df1-472e-b748-80f586bce971/f0ec
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

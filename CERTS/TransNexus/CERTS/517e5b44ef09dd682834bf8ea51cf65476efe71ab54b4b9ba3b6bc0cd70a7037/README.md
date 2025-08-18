@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 237F
 
-Tested At: 04 Oct 24 15:36 UTC\
+Tested At: 18 Aug 25 20:08 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -7 day(s)\
+Remaining Validity Period: -326 day(s)\
 Subject: CN=SHAKEN 237F, O=Blue Valley, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/3e2bb06d-f75f-45ff-9418-7f08ea7451a4/4de10ee4597d84f3a8716d3e924bf8e4.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/3e2bb06d-f75f-45ff-9418-7f08ea7451a4/4de1
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

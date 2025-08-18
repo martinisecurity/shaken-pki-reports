@@ -2,9 +2,9 @@
 
 ## Certificate Itel Corp SHAKEN 775K 2
 
-Tested At: 04 Oct 24 15:48 UTC\
+Tested At: 18 Aug 25 20:14 UTC\
 Initial Validity Period: 35 day(s)\
-Remaining Validity Period: 31 day(s)\
+Remaining Validity Period: -287 day(s)\
 Subject: CN=Itel Corp SHAKEN 775K 2, O=Itel Corp, ST=FL, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://certificates.peeringhub.io/775K/775K.crt
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/775K/775K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

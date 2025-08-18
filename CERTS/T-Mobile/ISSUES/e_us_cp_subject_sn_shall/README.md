@@ -12,11 +12,11 @@ Description: The DN shall contain a serialNumber attribute.
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | SHAKEN 6529 | [view](../../CERTS/a78accd6535f468392211319d17105e4372f5dde35b10cfca4d7e2e5f0d4b263/README.md) | The DN does not contain a serialNumber attribute. |
+| error | SHAKEN 6529 | [view](../../CERTS/d35d8ecb8be57ebc46bafc8a18ea6d19a85f2f65179758196bb076a6e5ef809f/README.md) | The DN does not contain a serialNumber attribute. |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 854J
+
+Tested At: 18 Aug 25 20:20 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 218 day(s)\
+Subject: CN=SHAKEN 854J, O=S-NET Communications Inc, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11541.10167
+
+[View certificate details](https://x509.io/?cert=MIIDCzCCArKgAwIBAgIUW2cCVCj8Y%2F%2BUXx%2BNfoYKyvCdHpMwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI1MDMyNDE0MTAwOVoXDTI2MDMyNDE0MTAwOVowRjELMAkGA1UEBhMCVVMxITAfBgNVBAoMGFMtTkVUIENvbW11bmljYXRpb25zIEluYzEUMBIGA1UEAwwLU0hBS0VOIDg1NEowWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARv5F8n9dzdAyoPLZ1iUXVdjzfpjQVnPI%2FPtdCI77g%2B%2FBx8x%2FzDWPOwxfzM8kSYOEKGgVaKjHEcWdSyDf%2B6QqyQo4IBPDCCATgwFgYIKwYBBQUHARoECjAIoAYWBDg1NEowDAYDVR0TAQH%2FBAIwADAfBgNVHSMEGDAWgBSCThX%2F%2Fp9qZ1HkyJfHbXTD%2FGVFeDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMB0GA1UdDgQWBBQRr0U0WXhucjE61034LBMGBZhBpzAOBgNVHQ8BAf8EBAMCB4AwCgYIKoZIzj0EAwIDRwAwRAIgAT5KnMJkdymuszxNgZRnhZ%2FSUQs4RTTdGvgUAKwAvxgCIAhS7ktwd7jXYsgF%2B8Q7mNAzb9%2FEKKFXXXRtUkw5KWe%2B)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 18 Aug 25 21:13 UTC

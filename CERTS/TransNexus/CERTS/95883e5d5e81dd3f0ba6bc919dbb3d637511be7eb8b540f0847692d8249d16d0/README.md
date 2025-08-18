@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 444G
 
-Tested At: 04 Oct 24 15:45 UTC\
+Tested At: 18 Aug 25 20:13 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -68 day(s)\
+Remaining Validity Period: -386 day(s)\
 Subject: CN=SHAKEN 444G, O=Aureon, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/d61e8937-0b43-4828-9876-81561d25f1de/8b61dde51080b76fcf9ac0de5536e8b3.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/d61e8937-0b43-4828-9876-81561d25f1de/8b61
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

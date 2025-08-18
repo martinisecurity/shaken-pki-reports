@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate CBTS STIR SHAKEN 797G
+
+Tested At: 18 Aug 25 21:05 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 5 day(s)\
+Subject: CN=CBTS STIR SHAKEN 797G, OU=DWS ENG, O=CBTS, C=US, ST=OH, L=CINCINNATI\
+Issuer: CN=SHAKEN Ribbon Issuing CA 2, OU=Certification Authority, O=Ribbon Communications, C=US\
+Link: https://prod001-prod011-cr.rbbnidhub.com/Diiq54jSRz/797G-580fe194a08a84e1a7f02d7988b69fcb
+
+[View certificate details](https://x509.io/?cert=MIICvjCCAmSgAwIBAgIQFVSW%2B5XvEbhv7VtYs6FW8DAKBggqhkjOPQQDAjB0MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVUmliYm9uIENvbW11bmljYXRpb25zMSAwHgYDVQQLExdDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eTEjMCEGA1UEAxMaU0hBS0VOIFJpYmJvbiBJc3N1aW5nIENBIDIwHhcNMjQwODIzMTgzNDM1WhcNMjUwODIzMTgzNDM0WjBwMRMwEQYDVQQHDApDSU5DSU5OQVRJMQswCQYDVQQIDAJPSDELMAkGA1UEBhMCVVMxDTALBgNVBAoMBENCVFMxEDAOBgNVBAsMB0RXUyBFTkcxHjAcBgNVBAMMFUNCVFMgU1RJUiBTSEFLRU4gNzk3RzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABGlji2sLjlGTN8jPpZU9noEx9xV%2Flu1NWcleOQqXXum2wKf%2Ft92NAZw4OvBBrhoDtTi6h1wzLDBnnQWV1Av76h%2BjgdswgdgwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFDMWpEjBLLxRT12WvMDrrAriz0fVMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBBDBHBgNVHR8EQDA%2BMDygOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmwwHwYDVR0jBBgwFoAUhx7kl1Kr2JHxZEoJnaafS%2Fdj92swFgYIKwYBBQUHARoECjAIoAYWBDc5N0cwCgYIKoZIzj0EAwIDSAAwRQIhAPXXx4z7vAzb38D8gVIvT0rDM95ZcV354n466bx6Q4IVAiB%2FC8OJs0nuSQcoXWAMKgJDklr3z2KMqYTuXk0dVjGA7A%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+
+
+Generated: 18 Aug 25 21:13 UTC

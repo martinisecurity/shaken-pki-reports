@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 845J
+
+Tested At: 18 Aug 25 20:04 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 213 day(s)\
+Subject: CN=SHAKEN 845J, O=Dialect LLC, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://app.batchdialer.com/shakenv2.crt
+
+[View certificate details](https://x509.io/?cert=MIIC%2FzCCAqWgAwIBAgIUGnc6xzla3xcxRas0JjmOylQ3a8wwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI1MDMxOTE1MjQwOVoXDTI2MDMxOTE1MjQwOVowOTELMAkGA1UEBhMCVVMxFDASBgNVBAoMC0RpYWxlY3QgTExDMRQwEgYDVQQDDAtTSEFLRU4gODQ1SjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJNQcD%2FwMHsZvvPAkWLwFf7vDcoTa45vPHFXCGM50gPnGEXuAYEK2SnFcxyT4nWhUlLsTpl%2FG%2B3NWzNdUZOWUrSjggE8MIIBODAWBggrBgEFBQcBGgQKMAigBhYEODQ1SjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIJOFf%2F%2Bn2pnUeTIl8dtdMP8ZUV4MBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwHQYDVR0OBBYEFHRBmgImRgVWUWVFHM%2FPk8tDM%2BuLMA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNIADBFAiEA3Tg85jT6OubjFW1q74QNbgO%2BJPpL4oSswYFeuDkangoCICy%2BWk5c6ki%2Bt5hsisG4RxwO7LubnYR%2BpadAtmxZOJIO)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 18 Aug 25 21:13 UTC

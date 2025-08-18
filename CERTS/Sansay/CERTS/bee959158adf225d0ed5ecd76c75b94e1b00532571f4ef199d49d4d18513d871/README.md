@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN NETRIO LLC 020K
 
-Tested At: 04 Oct 24 15:54 UTC\
+Tested At: 18 Aug 25 20:22 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: 27 day(s)\
+Remaining Validity Period: -291 day(s)\
 Subject: CN=SHAKEN NETRIO LLC 020K, OU=NOC, O=NETRIO LLC, ST=Texas, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/020K/429C7C70711E3820F0B8E1DEAE6FF3262264AC36.pem
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/020K/429C7C70711E3820F0B8E1DEAE6FF3262264AC36.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 020K', but common name is 'SHAKEN NETRIO LLC 020K' |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

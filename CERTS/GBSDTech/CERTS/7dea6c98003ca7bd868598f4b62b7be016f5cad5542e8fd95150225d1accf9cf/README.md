@@ -1,0 +1,18 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 1RouteGroup Intermediate CA
+
+Tested At: 18 Aug 25 21:12 UTC\
+Initial Validity Period: 7300 day(s)\
+Remaining Validity Period: 6896 day(s)\
+Subject: CN=SHAKEN 1RouteGroup Intermediate CA, O=1RouteGroup, ST=Texas, C=US\
+Issuer: CN=GBSDTech SHAKEN Root CA, O=GBSDTech, L=Ft Worth, ST=Texas, C=US
+
+[View certificate details](https://x509.io/?cert=MIICvjCCAmOgAwIBAgIDAJI9MAoGCCqGSM49BAMCMGUxCzAJBgNVBAYTAlVTMQ4wDAYDVQQIDAVUZXhhczERMA8GA1UEBwwIRnQgV29ydGgxETAPBgNVBAoMCEdCU0RUZWNoMSAwHgYDVQQDDBdHQlNEVGVjaCBTSEFLRU4gUm9vdCBDQTAeFw0yNDA3MDkyMjM5MjRaFw00NDA3MDQyMjM5MjRaMGAxCzAJBgNVBAYTAlVTMQ4wDAYDVQQIDAVUZXhhczEUMBIGA1UECgwLMVJvdXRlR3JvdXAxKzApBgNVBAMMIlNIQUtFTiAxUm91dGVHcm91cCBJbnRlcm1lZGlhdGUgQ0EwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATJmthoYytDyFgaxHYN7cE2nFR0FFp3LO6DVMQ8VB%2Bi4XJ7ZEei9Cfivc%2F7Rpg15DA7CuS4DbsgEGT2m1o2wlg1o4IBBTCCAQEwHQYDVR0OBBYEFKdsSAmToL9B4BNhceYD7TWHHe6BMB8GA1UdIwQYMBaAFJcXrCQ6Lz%2FRuCzJf30oZgoSPjK6MA8GA1UdEwEB%2FwQFMAMBAf8wDgYDVR0PAQH%2FBAQDAgIEMIGEBgNVHR8EfTB7MHmgPqA8hjpodHRwczovL2F1dGhlbnRpY2F0ZS1leHQtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsojekNTAzMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMRMwEQYDVQQDDApTVEktUEEgQ1JMMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBBDAKBggqhkjOPQQDAgNJADBGAiEA358gZhSiuaTBb0aX7j8ZcVV7I7DHCcUbS3yz2hO5Nz4CIQCoVbS0PntKKIiWt8I7DAgTYcQ0mFaCXbIt7uJyrfmObw%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_atis_serial_number_size_ca](../../ISSUES/e_atis_serial_number_size_ca/README.md) | error | ATIS1000080 | STI certificates shall have a serial number that contains at least 64 bits, got 16 |
+
+
+Generated: 18 Aug 25 21:13 UTC

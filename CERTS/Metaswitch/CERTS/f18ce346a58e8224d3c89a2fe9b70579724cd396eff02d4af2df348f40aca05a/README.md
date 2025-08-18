@@ -2,9 +2,9 @@
 
 ## Certificate Sonic Telecom SHAKEN 433E
 
-Tested At: 04 Oct 24 16:15 UTC\
+Tested At: 18 Aug 25 20:49 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 982 day(s)\
+Remaining Validity Period: 664 day(s)\
 Subject: CN=Sonic Telecom SHAKEN 433E, OU=qcall, O=Sonic, L=Santa Rosa, ST=CA, C=US\
 Issuer: O=Metaswitch Networks, C=GB, CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://crs.qcall.sonic.net/certs/Sonic2024certchain.crt
@@ -16,4 +16,4 @@ Link: https://crs.qcall.sonic.net/certs/Sonic2024certchain.crt
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

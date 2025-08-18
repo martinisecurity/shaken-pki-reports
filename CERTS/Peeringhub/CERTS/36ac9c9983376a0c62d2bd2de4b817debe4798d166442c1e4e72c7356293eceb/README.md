@@ -2,9 +2,9 @@
 
 ## Certificate Infinity Sip_1709835154271 SHAKEN 279K
 
-Tested At: 04 Oct 24 16:16 UTC\
+Tested At: 18 Aug 25 20:50 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 155 day(s)\
+Remaining Validity Period: -164 day(s)\
 Subject: CN=Infinity Sip_1709835154271 SHAKEN 279K, O=Infinity Sip, L=Richmond, ST=VA, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://icallr.com/279K/infinitysip.pem
@@ -14,4 +14,4 @@ Link: https://icallr.com/279K/infinitysip.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

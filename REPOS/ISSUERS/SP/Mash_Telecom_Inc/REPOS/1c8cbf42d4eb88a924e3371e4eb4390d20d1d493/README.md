@@ -3,8 +3,8 @@
 ## Mash Telecom Inc
 
 Name: `https://ssc.getsipnav.com/certs/6360eb56f50cdbbd5e72fd3bc20356e5c22ce9dc`\
-Tested At: 04 Oct 24 16:23 UTC\
-Time: 34ms
+Tested At: 18 Aug 25 21:06 UTC\
+Time: 608ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 34ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header has 'max-age' directive but it's value is less than 24 hours |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

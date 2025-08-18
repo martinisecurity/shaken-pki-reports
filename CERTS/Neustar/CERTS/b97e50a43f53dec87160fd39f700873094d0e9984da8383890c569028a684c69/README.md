@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 534J
+
+Tested At: 18 Aug 25 20:04 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 243 day(s)\
+Subject: CN=SHAKEN 534J, O=UComTel Inc, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://bw-hss-prod.s3.amazonaws.com/534J/2e17d62eff344c2ca6cd4f8513bd8b20.pem
+
+[View certificate details](https://x509.io/?cert=MIIC%2FjCCAqWgAwIBAgIUKbT3k%2FdVuC3OyMrzuuvw3qNB6fIwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI1MDQxODE2MDY0OVoXDTI2MDQxODE2MDY0OVowOTELMAkGA1UEBhMCVVMxFDASBgNVBAoMC1VDb21UZWwgSW5jMRQwEgYDVQQDDAtTSEFLRU4gNTM0SjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABOxacQPb%2BjXVfpWpojh4cKshBgUvTd1czS4qpPHOFhBOgL6cCS6R08AObanGfOO3tzTI6DdBqOz1exTkEzyl6E%2BjggE8MIIBODAWBggrBgEFBQcBGgQKMAigBhYENTM0SjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIJOFf%2F%2Bn2pnUeTIl8dtdMP8ZUV4MBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwHQYDVR0OBBYEFNc%2FkYUgJEL%2Bin22Mmb0nSTwjgRRMA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNHADBEAiBKrhCT7rSujOQTtcKxScEl0cBEcgjdvmY5NTHobHvQQAIge%2FAhXR1MYa0FKGy1t5Jg8whdcXu11cVFpaQK0M6OOMs%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 18 Aug 25 21:13 UTC

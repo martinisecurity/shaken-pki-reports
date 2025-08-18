@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate Twin Lakes SHAKEN 0579
+
+Tested At: 18 Aug 25 20:05 UTC\
+Initial Validity Period: 1095 day(s)\
+Remaining Validity Period: 1020 day(s)\
+Subject: CN=Twin Lakes SHAKEN 0579, O=Twin Lakes, C=US\
+Issuer: CN=SHAKEN 1RouteGroup Intermediate CA, O=1RouteGroup, ST=Texas, C=US\
+Link: https://cdn-cr.cgah.tnsi.com/certs/09590fa847d566013bb88ea48494398964308575
+
+[View certificate details](https://x509.io/?cert=MIICrzCCAlWgAwIBAgICEXUwCgYIKoZIzj0EAwIwYDELMAkGA1UEBhMCVVMxDjAMBgNVBAgMBVRleGFzMRQwEgYDVQQKDAsxUm91dGVHcm91cDErMCkGA1UEAwwiU0hBS0VOIDFSb3V0ZUdyb3VwIEludGVybWVkaWF0ZSBDQTAeFw0yNTA2MDQxNDE0MDJaFw0yODA2MDMxNDE0MDJaMEMxCzAJBgNVBAYTAlVTMRMwEQYDVQQKDApUd2luIExha2VzMR8wHQYDVQQDDBZUd2luIExha2VzIFNIQUtFTiAwNTc5MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEeQpFf2JlnPdpISoxH1B%2BDXwo22modsk5q19QsVY5fxcFtE6ltEe3%2Butu7i7YEHSw83UIOAsbnO%2B%2BG%2F7dSpFRC6OCARowggEWMBYGCCsGAQUFBwEaBAowCKAGFgQwNTc5MAwGA1UdEwEB%2FwQCMAAwHQYDVR0OBBYEFI42NEW0A2JTM%2FdbIa3jXVecKsmnMB8GA1UdIwQYMBaAFKdsSAmToL9B4BNhceYD7TWHHe6BMA4GA1UdDwEB%2FwQEAwIHgDCBhAYDVR0fBH0wezB5oD6gPIY6aHR0cHM6Ly9hdXRoZW50aWNhdGUtZXh0LWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKI3pDUwMzELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTETMBEGA1UEAwwKU1RJLVBBIENSTDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQQwCgYIKoZIzj0EAwIDSAAwRQIhAMyAhdYj2jRHJWot%2BdDcancDGPD%2FV17LCoYbixDQ1Vv%2FAiBCiLjqE7U%2F%2F70iK33FwL9pKdxyNdmkhOse0bUybXEfcA%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_atis_serial_number_size](../../ISSUES/e_atis_serial_number_size/README.md) | error | ATIS1000080 | STI certificates shall have a serial number that contains at least 64 bits, got 13 |
+
+
+Generated: 18 Aug 25 21:13 UTC

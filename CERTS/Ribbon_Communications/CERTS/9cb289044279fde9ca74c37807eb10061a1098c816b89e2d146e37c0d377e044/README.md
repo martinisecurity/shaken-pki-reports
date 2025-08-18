@@ -2,9 +2,9 @@
 
 ## Certificate Etex STI SHAKEN 3196
 
-Tested At: 04 Oct 24 16:23 UTC\
+Tested At: 18 Aug 25 21:05 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 179 day(s)\
+Remaining Validity Period: -139 day(s)\
 Subject: CN=Etex STI SHAKEN 3196, OU=Etex, O=Etex, C=US, ST=TX, L=Gilmer\
 Issuer: CN=SHAKEN Ribbon Issuing CA 2, OU=Certification Authority, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/DdpJt757Rz/STI-202404-3196-580fe194a08a84e1a7f02d7988b69fcb
@@ -16,4 +16,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/DdpJt757Rz/STI-202404-3196-580fe1
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

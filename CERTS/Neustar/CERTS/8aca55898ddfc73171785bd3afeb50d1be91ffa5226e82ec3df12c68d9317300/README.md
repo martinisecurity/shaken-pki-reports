@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 235C
+
+Tested At: 18 Aug 25 20:17 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 312 day(s)\
+Subject: CN=SHAKEN 235C, O=Pine Cellular Phones, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/257.409
+
+[View certificate details](https://x509.io/?cert=MIIDCTCCAq6gAwIBAgIUBRW%2FF%2B1glqQMFl1eQmu9heScnHQwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI1MDYyNjE0NTcyOFoXDTI2MDYyNjE0NTcyOFowQjELMAkGA1UEBhMCVVMxHTAbBgNVBAoMFFBpbmUgQ2VsbHVsYXIgUGhvbmVzMRQwEgYDVQQDDAtTSEFLRU4gMjM1QzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABKOMiN%2FGV3w4MhCOQL%2FEy3kLNh0fc6UCjgSkAUv7kXh6CKz4xF9i7YmMEvy3S4qiYqRWIwas57X%2F%2FBGm1b%2FMJyKjggE8MIIBODAWBggrBgEFBQcBGgQKMAigBhYEMjM1QzAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIJOFf%2F%2Bn2pnUeTIl8dtdMP8ZUV4MBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwHQYDVR0OBBYEFLIfpvdfTN2E%2FxA%2FzvpUMbvbMhv9MA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNJADBGAiEA3NC2MLCPtZYroB9VX%2B%2F4UPMSZvIMVigFAAIzcFgG8n4CIQCyLQgfav4u76BrOvF2XoRmb%2BldHSb8P6HUawLqJ4YX8Q%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 18 Aug 25 21:13 UTC

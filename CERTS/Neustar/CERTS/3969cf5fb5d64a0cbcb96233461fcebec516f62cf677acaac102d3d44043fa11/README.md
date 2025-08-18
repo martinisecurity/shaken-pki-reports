@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 178H
+
+Tested At: 18 Aug 25 20:19 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 243 day(s)\
+Subject: CN=SHAKEN 178H, O=Intelepeer CC LLC, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11238.10188
+
+[View certificate details](https://x509.io/?cert=MIIDBDCCAqugAwIBAgIUVHquRo92sD15mWlGDVqcNyTm7OQwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI1MDQxODE4NTIyM1oXDTI2MDQxODE4NTIyM1owPzELMAkGA1UEBhMCVVMxGjAYBgNVBAoMEUludGVsZXBlZXIgQ0MgTExDMRQwEgYDVQQDDAtTSEFLRU4gMTc4SDBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJjqW6IQkmgmTK3%2B79PpTrkjjk430pYeyOymThq2ie9EV8c2WFoQSKqS4v5OFyOyil1Vmkr5PQoQX9uQnel3Du%2BjggE8MIIBODAWBggrBgEFBQcBGgQKMAigBhYEMTc4SDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIJOFf%2F%2Bn2pnUeTIl8dtdMP8ZUV4MBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwHQYDVR0OBBYEFDlNNr1AGGU4nmK2BtOubGTT2Nz7MA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNHADBEAiA5QUy47%2Ft34Dz7r0HhdKv3%2Bxo4IyA%2FaHgULoblho9V6gIgHushy5ErCzFefIBnTCpKsf8dLTiOnnMFGMg4NpNO0oI%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 18 Aug 25 21:13 UTC

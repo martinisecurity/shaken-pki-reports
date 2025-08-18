@@ -10,6 +10,7 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
 | `https://btbiz.46labs.com/btbiz.pem` | 30&#160;Apr&#160;25&#160;15:59&#160;UTC | true | [view](../../REPOS/cf5607093517eb91b62352b3ba5c5b0d20b51a5d/README.md) |
+| `https://btbiz.peeredge.com/cert/WYrVfLvc.pem` | 30&#160;Apr&#160;26&#160;15:59&#160;UTC | true | [view](../../REPOS/913250b8ca9df751c3c6195932d6cb97944b0032/README.md) |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

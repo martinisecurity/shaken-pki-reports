@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 620K
 
-Tested At: 04 Oct 24 15:50 UTC\
+Tested At: 18 Aug 25 20:16 UTC\
 Initial Validity Period: 356 day(s)\
-Remaining Validity Period: -96 day(s)\
+Remaining Validity Period: -415 day(s)\
 Subject: serialNumber=6d9e9b61-6455-4c74-b22c-8245d22ef657, CN=SHAKEN 620K, O=Miami Telecom, C=US\
 Issuer: CN=Telonium STI-CA Intermediate CA, O=Telonium STI-CA\
 Link: https://certs.telonium.net/23/9cf6c6b9.crt
@@ -16,4 +16,4 @@ Link: https://certs.telonium.net/23/9cf6c6b9.crt
 | [e_atis_ext_not_specified](../../ISSUES/e_atis_ext_not_specified/README.md) | error | ATIS1000080 | Certificate contains extensions that are not specified: 1.3.6.1.4.1.37476.9000.64.1 |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

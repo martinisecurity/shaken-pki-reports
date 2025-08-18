@@ -2,14 +2,14 @@
 
 ## Versatel LLC
 
-- 2 repository URLs were included in the corpus being tested
-- 1 repository URLs in the corpus were skipped because they were duplicated
+- 3 repository URLs were included in the corpus being tested
+- 2 repository URLs in the corpus were skipped because they were duplicated
 - 1 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 130ms average time it took to download each certificate
+- 269ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://cert.46labs.com` | 01&#160;Jul&#160;25&#160;17:05&#160;UTC | true | [view](REPOS/9a5c4ccc9ebda8032087749b6d5e2fd3b31fafa8/README.md) |
+| `https://cert.46labs.com` | 16&#160;Jun&#160;26&#160;20:17&#160;UTC | true | [view](REPOS/9a5c4ccc9ebda8032087749b6d5e2fd3b31fafa8/README.md) |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

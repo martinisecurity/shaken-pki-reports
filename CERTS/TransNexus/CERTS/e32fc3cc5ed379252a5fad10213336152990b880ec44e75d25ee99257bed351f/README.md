@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 1676
 
-Tested At: 04 Oct 24 15:39 UTC\
+Tested At: 18 Aug 25 20:09 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: 4 day(s)\
+Remaining Validity Period: -314 day(s)\
 Subject: CN=SHAKEN 1676, O=SDN, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/705fa592-0f34-4999-9e00-79e522ca5c70/56de99fde4102661a204ebf5370a2d41.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/705fa592-0f34-4999-9e00-79e522ca5c70/56de
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

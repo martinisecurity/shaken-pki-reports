@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Central Telephone Sales & Service, Inc. 294K
 
-Tested At: 04 Oct 24 16:15 UTC\
+Tested At: 18 Aug 25 20:48 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 1 day(s)\
+Remaining Validity Period: -317 day(s)\
 Subject: CN=SHAKEN Central Telephone Sales & Service\\, Inc. 294K, OU=Central Telephone, O=Central Telephone, ST=Minnesota, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Central_Telephone_Sales_294K
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Central_Telephone_Sales_294K
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 294K', but common name is 'SHAKEN Central Telephone Sales & Service, Inc. 294K' |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

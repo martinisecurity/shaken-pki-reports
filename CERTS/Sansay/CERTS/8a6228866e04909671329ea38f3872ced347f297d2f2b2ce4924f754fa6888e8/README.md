@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Doylestown Communications, Inc 849C
 
-Tested At: 04 Oct 24 16:10 UTC\
+Tested At: 18 Aug 25 20:41 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -74 day(s)\
+Remaining Validity Period: -392 day(s)\
 Subject: CN=SHAKEN Doylestown Communications\\, Inc 849C, O=Doylestown Communications\\, Inc, ST=Ohio, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/849C/429C7C70711E3820F0B8E1DEAE6FF3262264A0DF.pem
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/849C/429C7C70711E3820F0B8E1DEAE6FF3262264A0DF.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 849C', but common name is 'SHAKEN Doylestown Communications, Inc 849C' |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

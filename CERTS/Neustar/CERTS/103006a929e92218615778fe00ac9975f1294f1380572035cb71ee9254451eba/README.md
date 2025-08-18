@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 183D
+
+Tested At: 18 Aug 25 20:17 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 192 day(s)\
+Subject: CN=SHAKEN 183D, O=Valley TeleCom Group, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/234.357
+
+[View certificate details](https://x509.io/?cert=MIIDCTCCAq6gAwIBAgIUXTlpsiiV2IN64%2B7ixwEtrH0HJZQwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI1MDIyNjE3NTE0MFoXDTI2MDIyNjE3NTE0MFowQjELMAkGA1UEBhMCVVMxHTAbBgNVBAoMFFZhbGxleSBUZWxlQ29tIEdyb3VwMRQwEgYDVQQDDAtTSEFLRU4gMTgzRDBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABF%2BRaR5VVMYf3vZP15rvPq4ow6t%2FASPokUjFZ2ujTRoxY%2BGglrpsw1VzVfTUoorKqqVXSVyXLmjeOXHHltEXRMijggE8MIIBODAWBggrBgEFBQcBGgQKMAigBhYEMTgzRDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIJOFf%2F%2Bn2pnUeTIl8dtdMP8ZUV4MBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwHQYDVR0OBBYEFBEn26j%2BkMr4BgFNDSSthmkLmWGTMA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNJADBGAiEA4I%2BnrPBSSaJE2NZ31Lt5z9we1ZbFMRiJFtgRnmWxtZQCIQD7LITuFfcLe4ydeROy4a6Janyu9C14l70VXFQEsWnZMQ%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 18 Aug 25 21:13 UTC

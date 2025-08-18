@@ -1,0 +1,24 @@
+# STIR/SHAKEN Certificate Repository Compliance
+
+## Bright Path VOIP Inc
+
+- 1 repository URLs were included in the corpus being tested
+- 0 repository URLs in the corpus were skipped because they were duplicated
+- 1 repository URLs being tested against the remaining rules
+- 2.00 issues on average found in non-compliant certificate repository URLs
+- 100.00% of repository URLs contain one or more Error level issue
+- 100.00% of repository URLs contain one or more Warning level issue
+- 0.00% of repository URLs contain one or more Notice level issue
+- 284ms average time it took to download each certificate
+
+| Instances | Test | Source |
+|-----------|------|--------|
+| 1 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
+| 1 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+
+| Repository URLs | Not After |  Problems | Link |
+|-----------------|-----------|-----------|------|
+| `https://ssc.getsipnav.com/certs/1a72fc757067364d0fed84822d2a34f83e508782` | 16&#160;May&#160;26&#160;22:57&#160;UTC | true | [view](REPOS/2a7c7fbe032f146a8d74a04118bec6778e25a3d3/README.md) |
+
+
+Generated: 18 Aug 25 21:13 UTC

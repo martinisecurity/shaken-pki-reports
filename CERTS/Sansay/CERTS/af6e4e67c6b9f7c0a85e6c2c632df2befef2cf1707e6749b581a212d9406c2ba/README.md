@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Voiply, LLC 987J
 
-Tested At: 04 Oct 24 16:14 UTC\
+Tested At: 18 Aug 25 20:47 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -163 day(s)\
+Remaining Validity Period: -481 day(s)\
 Subject: CN=SHAKEN Voiply\\, LLC 987J, OU=Voiply, O=Voiply\\, LLC, ST=Pennsylvania, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/987J/429C7C70711E3820F0B8E1DEAE6FF32622649698.pem
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/987J/429C7C70711E3820F0B8E1DEAE6FF32622649698.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 987J', but common name is 'SHAKEN Voiply, LLC 987J' |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

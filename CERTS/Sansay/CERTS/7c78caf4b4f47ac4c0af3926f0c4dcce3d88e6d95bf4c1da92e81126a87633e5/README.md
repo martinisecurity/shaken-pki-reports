@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN InteractiveTel, LLC 920J
 
-Tested At: 04 Oct 24 16:13 UTC\
+Tested At: 18 Aug 25 20:46 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -111 day(s)\
+Remaining Validity Period: -429 day(s)\
 Subject: CN=SHAKEN InteractiveTel\\, LLC 920J, O=InteractiveTel\\, LLC, ST=Texas, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/920J/429C7C70711E3820F0B8E1DEAE6FF32622649C7F.pem
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/920J/429C7C70711E3820F0B8E1DEAE6FF32622649C7F.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 920J', but common name is 'SHAKEN InteractiveTel, LLC 920J' |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

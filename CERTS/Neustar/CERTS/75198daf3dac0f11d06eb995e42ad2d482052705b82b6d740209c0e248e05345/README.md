@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 738J
+
+Tested At: 18 Aug 25 20:04 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 241 day(s)\
+Subject: CN=SHAKEN 738J, O=BCM One Cloud Communications Inc, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://bw-hss-prod.s3.amazonaws.com/738J/b903f7a35ffa4c319f4a813e3758a864.pem
+
+[View certificate details](https://x509.io/?cert=MIIDFTCCArqgAwIBAgIUKJM%2BSkiC5hPGLablVLD93C4K1JowCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI1MDQxNjIwNTA1MFoXDTI2MDQxNjIwNTA1MFowTjELMAkGA1UEBhMCVVMxKTAnBgNVBAoMIEJDTSBPbmUgQ2xvdWQgQ29tbXVuaWNhdGlvbnMgSW5jMRQwEgYDVQQDDAtTSEFLRU4gNzM4SjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABM9wY1K52HS5YMXqFouemQ3v6KhvG85PPFtSIlwV2UyBdEPMSbxqDFgVOWimRz0i8860w1krJKqbjvHj7ClJ6RujggE8MIIBODAWBggrBgEFBQcBGgQKMAigBhYENzM4SjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIJOFf%2F%2Bn2pnUeTIl8dtdMP8ZUV4MBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwHQYDVR0OBBYEFOQhQZeMU4bZ4wYGzyfwm%2FXwNHbWMA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNJADBGAiEAqlJUIaGz6Va0E1wmp3CK7U3dmcEH%2FUTmtsrnBDOICbkCIQDO935%2BEVoN4EvUonD5UDVopjGPAngTZ%2FEfLt15vTjUNw%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 18 Aug 25 21:13 UTC

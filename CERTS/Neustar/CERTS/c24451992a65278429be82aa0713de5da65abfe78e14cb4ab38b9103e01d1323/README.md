@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 701J
+
+Tested At: 18 Aug 25 21:05 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 113 day(s)\
+Subject: CN=SHAKEN 701J, O=MASH Telecom, C=CA\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://ssc.getsipnav.com/certs/1b45d7701464b37e26ba8a8a9e1d0a7a4fc68285
+
+[View certificate details](https://x509.io/?cert=MIIDATCCAqagAwIBAgIUYLhvJC%2BqLPOkYUJrMcOhnY%2Buk1MwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI0MTIwOTE1NDkwNloXDTI1MTIwOTE1NDkwNlowOjELMAkGA1UEBhMCQ0ExFTATBgNVBAoMDE1BU0ggVGVsZWNvbTEUMBIGA1UEAwwLU0hBS0VOIDcwMUowWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQ28tkxNDiTon7Svj39Ve2sS4%2Bm2MJgB2ps%2F9ep6UJzOkn3OEzhwEvjzppx1xalwl1YQWLofTNi0K9peRC4L62ro4IBPDCCATgwFgYIKwYBBQUHARoECjAIoAYWBDcwMUowDAYDVR0TAQH%2FBAIwADAfBgNVHSMEGDAWgBSCThX%2F%2Fp9qZ1HkyJfHbXTD%2FGVFeDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMB0GA1UdDgQWBBQxhKi1sGqnwlAQ64bNpqGkG%2BvkQDAOBgNVHQ8BAf8EBAMCB4AwCgYIKoZIzj0EAwIDSQAwRgIhAPbUezvJMqiUctZUd%2BcYTdpH1qAHEPQMEQCRfZaNbN2iAiEAwrXV1%2BupMcEGHjP2glvMhXxOIMUBfxy18bbmZaXTmxo%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 18 Aug 25 21:13 UTC

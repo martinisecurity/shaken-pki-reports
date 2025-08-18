@@ -5,20 +5,17 @@
 - 1 repository URLs were included in the corpus being tested
 - 0 repository URLs in the corpus were skipped because they were duplicated
 - 1 repository URLs being tested against the remaining rules
-- 2.00 issues on average found in non-compliant certificate repository URLs
-- 100.00% of repository URLs contain one or more Error level issue
-- 100.00% of repository URLs contain one or more Warning level issue
+- 0.00 issues on average found in non-compliant certificate repository URLs
+- 0.00% of repository URLs contain one or more Error level issue
+- 0.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 65ms average time it took to download each certificate
+- 22ms average time it took to download each certificate
 
-| Instances | Test | Source |
-|-----------|------|--------|
-| 1 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
-| 1 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+No error, warning, or notice level issues were found
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/goto-2024-07` | 28&#160;Jun&#160;25&#160;17:43&#160;UTC | true | [view](REPOS/48ed6b6295a636b196f2d639a07ecb2f40c95d06/README.md) |
+| `https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/goto-2025-07` | 08&#160;May&#160;26&#160;15:46&#160;UTC | false | [view](REPOS/3d27f8152434e9f799b67a48927449edbd66aec0/README.md) |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

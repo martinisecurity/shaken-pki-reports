@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 362B
 
-Tested At: 04 Oct 24 15:35 UTC\
+Tested At: 18 Aug 25 20:07 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -290 day(s)\
+Remaining Validity Period: -609 day(s)\
 Subject: CN=SHAKEN 362B, O=SyncGlobal, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/2e6b3a40-7eb0-4f17-b97f-88856f45697c/4476cab0073f4f43e3cb1ba2c40b3bb3.pem
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/2e6b3a40-7eb0-4f17-b97f-88856f45697c/4476
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

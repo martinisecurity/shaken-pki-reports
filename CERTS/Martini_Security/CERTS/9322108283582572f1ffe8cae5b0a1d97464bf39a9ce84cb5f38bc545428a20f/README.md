@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 760K
 
-Tested At: 04 Oct 24 16:18 UTC\
+Tested At: 18 Aug 25 21:12 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 110 day(s)\
+Remaining Validity Period: -208 day(s)\
 Subject: O=Last Mile Corp., C=US, serialNumber=2654D4668F527C6BF64C3CCB37C631FA, CN=SHAKEN 760K\
 Issuer: CN=Martini Security SHAKEN G2, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://p.mtsec.me/2884/S2eMQ3_U9Bvx.pem
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/S2eMQ3_U9Bvx.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

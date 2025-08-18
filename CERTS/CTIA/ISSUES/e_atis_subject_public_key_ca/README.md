@@ -8,6 +8,10 @@ Citation: ATIS-1000080.v003 / 6.4.1 SHAKEN Certificate Requirements\
 Effective Date: 04 Sep 20 00:00 UTC\
 Description: STI certificates shall contain a Subject Public Key Info field specifying a Public Key Algorithm of "id-ecPublicKey" and containing a 256-bit public key
 
+### Leaf Certificates
+
+No error, warning, or notice level issues were found
+
 ### CA Certificates
 
 | Status | Subject | Link | Details |
@@ -15,4 +19,4 @@ Description: STI certificates shall contain a Subject Public Key Info field spec
 | error | SHAKEN Root CA | [view](../../CERTS/ee1cf83becad4777dcf250170efecc7fc7498d85097e9a570dfac542151ebf53/README.md) | Subject Public Key Info field contains a public key that is not 256 bits |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

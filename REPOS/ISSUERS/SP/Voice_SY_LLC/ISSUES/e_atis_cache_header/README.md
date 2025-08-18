@@ -9,8 +9,8 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://primodialer.peeredge.com/cert/w3sUjZVE.pem` | 28&#160;Jan&#160;25&#160;07:20&#160;UTC | true | [view](../../REPOS/75771a03cc90d6e5b1733f4c075ee75245a75ee9/README.md) |
-| `https://voicesy.46labs.com/voicesy.pem` | 13&#160;Jul&#160;24&#160;10:54&#160;UTC | true | [view](../../REPOS/96461158e67f9387d250fc6dd1f9c642c641766f/README.md) |
+| `https://voice.peeredge.com/cert/LjXASXyh.pem` | 03&#160;Sep&#160;25&#160;10:53&#160;UTC | true | [view](../../REPOS/8b7693ae58700374a17e0df471f83f44f5b6d270/README.md) |
+| `https://voicesy.46labs.com/voicesy.pem` | 25&#160;Oct&#160;25&#160;12:06&#160;UTC | true | [view](../../REPOS/96461158e67f9387d250fc6dd1f9c642c641766f/README.md) |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

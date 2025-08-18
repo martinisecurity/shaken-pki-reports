@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 750J
+
+Tested At: 18 Aug 25 20:04 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 142 day(s)\
+Subject: CN=SHAKEN 750J, O=Microtalk Europe Limited, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://appreg.telcoportal.com/mobileapps/neustar23/9c680c2b2d89e44b0a235be6685b8d.cer
+
+[View certificate details](https://x509.io/?cert=MIIDDDCCArKgAwIBAgIUcyzOmgE4LxgnK0sLzoA7p7E%2FQMAwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI1MDEwNzE2MDExNloXDTI2MDEwNzE2MDExNlowRjELMAkGA1UEBhMCVVMxITAfBgNVBAoMGE1pY3JvdGFsayBFdXJvcGUgTGltaXRlZDEUMBIGA1UEAwwLU0hBS0VOIDc1MEowWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATbxeZ%2FK1dO9ehP6am%2FFhmEO2eNUQ93U%2BbSkMbkZQ1sc9sNEjWFZI6xmTMxnTUDvnEL3meOXQQTtjbETFLtILEGo4IBPDCCATgwFgYIKwYBBQUHARoECjAIoAYWBDc1MEowDAYDVR0TAQH%2FBAIwADAfBgNVHSMEGDAWgBSCThX%2F%2Fp9qZ1HkyJfHbXTD%2FGVFeDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMB0GA1UdDgQWBBRWKYkWO5sfsBA8usB4p1vkaSpLLzAOBgNVHQ8BAf8EBAMCB4AwCgYIKoZIzj0EAwIDSAAwRQIhAL%2BmUw6dfkIPi4Bb4ooPd0tS83F9YPlTvRJHVbcZADHTAiAjVaAuvHHJ9MBFTIRW0FTmsVEEv1Zi4XIwXORf%2FMayFQ%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 18 Aug 25 21:13 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 5606
 
-Tested At: 04 Oct 24 16:23 UTC\
+Tested At: 18 Aug 25 21:05 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 338 day(s)\
+Remaining Validity Period: 19 day(s)\
 Subject: CN=SHAKEN 5606, O=Charter Communications\\, Inc., C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://shaken.spectrum.com/a9214dea8d75b74eb4717f01ceecf0ad.cer
@@ -16,4 +16,4 @@ Link: https://shaken.spectrum.com/a9214dea8d75b74eb4717f01ceecf0ad.cer
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 274K
 
-Tested At: 04 Oct 24 15:33 UTC\
+Tested At: 18 Aug 25 20:06 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -137 day(s)\
+Remaining Validity Period: -456 day(s)\
 Subject: CN=SHAKEN 274K, O=Axxess Networks, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/16ee3de7-0486-474d-8091-08a7f37461ad/8348f9056eae93669039e8fbec159830.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/16ee3de7-0486-474d-8091-08a7f37461ad/8348
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

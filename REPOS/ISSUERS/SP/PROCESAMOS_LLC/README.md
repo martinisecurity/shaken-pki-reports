@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 124ms average time it took to download each certificate
+- 446ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://billing.procesamos.net/cert/331K.pem` | 31&#160;Oct&#160;24&#160;01:45&#160;UTC | true | [view](REPOS/11f0774b70976b5af8046ccd7d4e37f8ef8ad736/README.md) |
+| `https://billing.procesamos.net/cert/331K.pem` | 03&#160;Apr&#160;26&#160;20:41&#160;UTC | true | [view](REPOS/11f0774b70976b5af8046ccd7d4e37f8ef8ad736/README.md) |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

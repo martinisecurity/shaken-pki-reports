@@ -2,9 +2,9 @@
 
 ## Certificate Carolina West Wireless SHAKEN 5932
 
-Tested At: 04 Oct 24 15:31 UTC\
+Tested At: 18 Aug 25 20:05 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 962 day(s)\
+Remaining Validity Period: 644 day(s)\
 Subject: CN=Carolina West Wireless SHAKEN 5932, O=Carolina West Wireless, C=US\
 Issuer: O=Metaswitch Networks, C=GB, CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/2d6c7d95ae300fd6b02acec8bda8d6119ea390d8
@@ -16,4 +16,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/2d6c7d95ae300fd6b02acec8bda8d6119ea390d
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

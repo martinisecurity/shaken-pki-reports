@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 554J
+
+Tested At: 18 Aug 25 20:17 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 219 day(s)\
+Subject: CN=SHAKEN 554J, O=Jivetel LLC, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/91.155
+
+[View certificate details](https://x509.io/?cert=MIIC%2FzCCAqWgAwIBAgIUTXtk%2FNr%2FQQU8vYcnNi2gPcC282UwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI1MDMyNTE0NTMyNloXDTI2MDMyNTE0NTMyNlowOTELMAkGA1UEBhMCVVMxFDASBgNVBAoMC0ppdmV0ZWwgTExDMRQwEgYDVQQDDAtTSEFLRU4gNTU0SjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABGLZCpw8D6uvpGJs7VC7fdgEEAX1nvQL99OUIMqIBmDa0lzuY61UZwmyDj%2Bz%2Be%2FX1YctBEKReDTqMlkoJ4H%2Fn3ujggE8MIIBODAWBggrBgEFBQcBGgQKMAigBhYENTU0SjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIJOFf%2F%2Bn2pnUeTIl8dtdMP8ZUV4MBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwHQYDVR0OBBYEFL3FvMg7TQ2t0h0bATGdy0lJRM1sMA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNIADBFAiBxgSrzH%2BZP2b12ImTAVxnFsh85lFT9c7DaUUAUleRrqAIhANAdpvCf3LUw0wz8euE930MbJUanL%2BCvitTxAnk4McOL)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 18 Aug 25 21:13 UTC

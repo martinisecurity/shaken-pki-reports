@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 939H
+
+Tested At: 18 Aug 25 21:09 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 285 day(s)\
+Subject: CN=SHAKEN 939H, O=Commio, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://storage.googleapis.com/stirshaken/939h05302025.pem
+
+[View certificate details](https://x509.io/?cert=MIIC%2BzCCAqCgAwIBAgIUTcjPkvAcjt61eMXP1JHBaT8Yk%2B8wCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI1MDUzMDIwMDMzM1oXDTI2MDUzMDIwMDMzM1owNDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBkNvbW1pbzEUMBIGA1UEAwwLU0hBS0VOIDkzOUgwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASc8O8be9uF6hszhVDOG8bRwFN0DCzOFMOnXYfJKtCVwTHumasW%2BN6gb8dApdD3S5Jex0Q7C0lKP9qrIUlKpEuBo4IBPDCCATgwFgYIKwYBBQUHARoECjAIoAYWBDkzOUgwDAYDVR0TAQH%2FBAIwADAfBgNVHSMEGDAWgBSCThX%2F%2Fp9qZ1HkyJfHbXTD%2FGVFeDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMB0GA1UdDgQWBBR1Mje5Bw3mh8%2Fo3GyTpQIUDxxqrDAOBgNVHQ8BAf8EBAMCB4AwCgYIKoZIzj0EAwIDSQAwRgIhAM7QirVSWnXYocoCM6n5GgM81LwWdVZNiY1CcnaKjitzAiEA4CN2jZ%2BULl1rygI5HutITvc1i8YsZ5EPgKdLvMWwdmI%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 18 Aug 25 21:13 UTC

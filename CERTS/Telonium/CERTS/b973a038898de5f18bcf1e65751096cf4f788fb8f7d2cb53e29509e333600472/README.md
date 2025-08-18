@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 847K
 
-Tested At: 04 Oct 24 15:50 UTC\
+Tested At: 18 Aug 25 20:16 UTC\
 Initial Validity Period: 366 day(s)\
-Remaining Validity Period: 151 day(s)\
+Remaining Validity Period: -167 day(s)\
 Subject: serialNumber=A1DD0813-63A5-4559-BD89-1DC4791C8365, CN=SHAKEN 847K, O=BlueTech Networks LLC, C=US\
 Issuer: CN=Telonium SHAKEN Intermediate G1, O=Telonium Communications LLC, L=Atlanta, ST=GA, C=US\
 Link: https://certs.telonium.net/24/0971a53d.crt
@@ -16,4 +16,4 @@ Link: https://certs.telonium.net/24/0971a53d.crt
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

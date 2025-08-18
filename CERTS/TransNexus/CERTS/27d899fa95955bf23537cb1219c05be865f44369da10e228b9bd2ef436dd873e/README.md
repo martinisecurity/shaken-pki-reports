@@ -1,0 +1,17 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 0172
+
+Tested At: 18 Aug 25 20:15 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -11 day(s)\
+Subject: CN=SHAKEN 0172, O=CallTower, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.transnexus.com/0172/8bbf724e-7f2f-460e-b8ac-3111b4e1ad9e.pem
+
+[View certificate details](https://x509.io/?cert=MIICyTCCAm%2BgAwIBAgIQeppt1m10gV04sl8jt1u6MDAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTUwHhcNMjUwNzMxMDM0MjEzWhcNMjUwODA3MDM0MjEyWjA3MQswCQYDVQQGEwJVUzESMBAGA1UEChMJQ2FsbFRvd2VyMRQwEgYDVQQDEwtTSEFLRU4gMDE3MjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABHCkHphZ%2BpcrWJX3n8qbMMOFCqUvoWYLkJrBtalqeNbJia6vzGwjvKyf4PIM1kp4Bp0FVRU5VX3CgtZ0qglYny2jggE8MIIBODAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAdBgNVHQ4EFgQUyNn8bpTIKb8T%2BrNaoZbMaysxDMcwHwYDVR0jBBgwFoAU2gCzh%2FiCP7%2B6IqJkY7X2L8yOdcowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEEMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAWBggrBgEFBQcBGgQKMAigBhYEMDE3MjAKBggqhkjOPQQDAgNIADBFAiBjgqTG1grh3chlqdqiAgYscfXhqWRf5w1RcvTpFPmdNQIhAI0ZBrpLWg4wZERndIrqqop0mZrB2yRqEJm4TZsNGAeF)
+
+164 tests were ran and no error, warning, or notice level issues were found
+
+
+Generated: 18 Aug 25 21:13 UTC

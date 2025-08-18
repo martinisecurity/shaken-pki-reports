@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 678K
+
+Tested At: 18 Aug 25 20:20 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 345 day(s)\
+Subject: CN=SHAKEN 678K, O=Express Teleservice Corp, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11970.10261.pem
+
+[View certificate details](https://x509.io/?cert=MIIDDTCCArKgAwIBAgIUY1dIUO7I7sfhbFVli8z0czRUK%2BgwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI1MDcyODIzNTM1M1oXDTI2MDcyODIzNTM1M1owRjELMAkGA1UEBhMCVVMxITAfBgNVBAoMGEV4cHJlc3MgVGVsZXNlcnZpY2UgQ29ycDEUMBIGA1UEAwwLU0hBS0VOIDY3OEswWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASscpjyW0u3GgvHSxo9VmKLGEGOz9lFbGPoKeUv8FZuQCgb6ubEA2GcUP2S6tO1EcNFlIUmbQY1fxawwXSM5vcso4IBPDCCATgwFgYIKwYBBQUHARoECjAIoAYWBDY3OEswDAYDVR0TAQH%2FBAIwADAfBgNVHSMEGDAWgBSCThX%2F%2Fp9qZ1HkyJfHbXTD%2FGVFeDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQMwgaYGA1UdHwSBnjCBmzCBmKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybKJapFgwVjEUMBIGA1UEBwwLQnJpZGdld2F0ZXIxCzAJBgNVBAgMAk5KMRMwEQYDVQQDDApTVEktUEEgQ1JMMQswCQYDVQQGEwJVUzEPMA0GA1UECgwGU1RJLVBBMB0GA1UdDgQWBBRax8eAKPk8caisthAT9l7RpDASKjAOBgNVHQ8BAf8EBAMCB4AwCgYIKoZIzj0EAwIDSQAwRgIhAIrSMRZkeRvWlz5W6Yj1WFqTh%2F%2BHvMHa4AagMCEJxtdHAiEAsxaWG9MZWSQRKF%2BOPxK%2BBETi7EDsZtXkxN%2B76ZMPHYQ%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 18 Aug 25 21:13 UTC

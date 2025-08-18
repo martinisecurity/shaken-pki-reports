@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 225K
+
+Tested At: 18 Aug 25 20:26 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: 186 day(s)\
+Subject: CN=SHAKEN 225K, O=Vumber LLC, C=US\
+Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
+Link: https://cr.sansay.com/225K/429C7C70711E3820F0B8E1DEAE6FF3262264BFE6.pem
+
+[View certificate details](https://x509.io/?cert=MIICmzCCAkKgAwIBAgIUQpx8cHEeOCDwuOHerm%2FzJiJkv%2BYwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9ybmlhMRswGQYDVQQKDBJTYW5zYXkgQ29ycG9yYXRpb24xEjAQBgNVBAsMCVNhbnNheSBDQTEwMC4GA1UEAwwnU0hBS0VOIFNhbnNheSBJbnRlcm1lZGlhdGUgQ0EgVVMgV0VTVCAxMB4XDTI1MDIyMDE2NTQ0MloXDTI2MDIyMDE2NTQ0MlowODELMAkGA1UEBhMCVVMxEzARBgNVBAoMClZ1bWJlciBMTEMxFDASBgNVBAMMC1NIQUtFTiAyMjVLMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEjfFyvYr9gPbZb%2B94xsiBmalDke1yJs%2BDa7B%2BcIHmOwlFuX5Y3PvbSpKyTUZv7%2BCOdqRC9SZ0zKIe9QuPDwjQT6OB2zCB2DAWBggrBgEFBQcBGgQKMAigBhYEMjI1SzAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQQwHQYDVR0OBBYEFGDYCMAMPsthC39BGPOArXMXn4zUMB8GA1UdIwQYMBaAFKzTk%2FVDQ8wKvkVYFxN9knzcwwFGMEcGA1UdHwRAMD4wPKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybDAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNHADBEAiAwoQU%2BW1TGwms%2F1fZ9d7DUpSIAJGCTVuk5Omvhis9ETQIgbtK1d2wpKjOZHiRT53rGxzpthv1ANN3Cf%2FbFoWKn%2FtM%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+
+
+Generated: 18 Aug 25 21:13 UTC

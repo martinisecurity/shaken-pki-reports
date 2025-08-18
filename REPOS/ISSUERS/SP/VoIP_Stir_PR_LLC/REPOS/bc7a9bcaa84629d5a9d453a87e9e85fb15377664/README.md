@@ -3,8 +3,8 @@
 ## VoIP Stir PR LLC
 
 Name: `https://cr.veriswitch.com/voipstir/b50788d49d9978e2a5df93656e4c5bb6.cer`\
-Tested At: 04 Oct 24 16:15 UTC\
-Time: 95ms
+Tested At: 18 Aug 25 20:49 UTC\
+Time: 47ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 95ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

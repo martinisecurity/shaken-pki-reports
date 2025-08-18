@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 212ms average time it took to download each certificate
+- 145ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://shaken.vocaltransit.com/783J/vocaltransit-STIRSHAKEN.crt` | 15&#160;Oct&#160;24&#160;00:00&#160;UTC | true | [view](REPOS/86e19698fc1d5b85bbffe8673c702f458fe26593/README.md) |
+| `https://shaken.vocaltransit.com/783J/vocaltransit-STIRSHAKEN.crt` | 17&#160;Dec&#160;25&#160;00:00&#160;UTC | true | [view](REPOS/86e19698fc1d5b85bbffe8673c702f458fe26593/README.md) |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 18 Aug 25 21:13 UTC

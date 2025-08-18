@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 8084
+
+Tested At: 18 Aug 25 21:08 UTC\
+Initial Validity Period: 398 day(s)\
+Remaining Validity Period: 64 day(s)\
+Subject: CN=SHAKEN 8084, O=Telus, C=CA\
+Issuer: CN=Neustar Canada Certified Caller ID SHAKEN CA-2, OU=www.ca.ccid.neustar, O=Neustar Information Services Inc, C=CA\
+Link: https://sticr-cstga.ccid.neustar/api/v1/certificate/8f5853d645412038e1ad984fa625f78e.pem
+
+[View certificate details](https://x509.io/?cert=MIIDOzCCAuKgAwIBAgIUDc6%2F6x8NeOBmyumqO9iCXbVeYxEwCgYIKoZIzj0EAwIwgY8xCzAJBgNVBAYTAkNBMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEcMBoGA1UECwwTd3d3LmNhLmNjaWQubmV1c3RhcjE3MDUGA1UEAwwuTmV1c3RhciBDYW5hZGEgQ2VydGlmaWVkIENhbGxlciBJRCBTSEFLRU4gQ0EtMjAeFw0yNDA5MTcyMzA5MDFaFw0yNTEwMjAyMzA5MDFaMDMxCzAJBgNVBAYTAkNBMQ4wDAYDVQQKDAVUZWx1czEUMBIGA1UEAwwLU0hBS0VOIDgwODQwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATEQG8LvKuodanAOD9UInBOGO4QQZYgiacPPQFUc5wbGvR5hKYtKtYi7BVj%2Buhffi1jsntcFJQiF97PvnTOdBv5o4IBdTCCAXEwFgYIKwYBBQUHARoECjAIoAYWBDgwODQwDAYDVR0TAQH%2FBAIwADAfBgNVHSMEGDAWgBQtHTdkSE8OHWxIoWTYWdWm0AbCYTAWBgNVHSAEDzANMAsGCSsGAQQBg7cfATCB4AYDVR0fBIHYMIHVMIHSoDOgMYYvaHR0cHM6Ly9zdGlwYS1jcmwtY3N0Z2EuY2NpZC5uZXVzdGFyL2FwaS92MS9jcmyigZqkgZcwgZQxCzAJBgNVBAYTAkNBMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEhMB8GA1UECwwYc3RpcGEtY3N0Z2EuY2NpZC5uZXVzdGFyMTcwNQYDVQQDDC5OZXVzdGFyIENhbmFkYSBDZXJ0aWZpZWQgQ2FsbGVyIFNUSS1QQSBSb290IENBMB0GA1UdDgQWBBRSI5vGGJ8ShEnnkEN2cFZZJsilljAOBgNVHQ8BAf8EBAMCB4AwCgYIKoZIzj0EAwIDRwAwRAIgPANFDPWde%2F5lrsE5KfpDkKnMhCYVYpbQtUAf%2Fmh18NICID%2FVXXizcWDXO8PRtJJ7yTY8g7E1ihDbEyOYCOBUUJ6f)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 1.3.6.1.4.1.56223.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
+
+
+Generated: 18 Aug 25 21:13 UTC
